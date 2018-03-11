@@ -1,0 +1,109 @@
+---
+layout: post
+status: publish
+published: true
+title: MNPするならメールはGmailを使うと断然便利！Gmailをメインのメアドとして使う方法
+author:
+  display_name: kotala_b
+
+  email: info@kotalab.com
+  url: ''
+
+author_email: info@kotalab.com
+wordpress_id: 9249
+wordpress_url: http://kotalab.com/?p=9249
+date: '2013-09-16 10:29:06 +0900'
+date_gmt: '2013-09-16 01:29:06 +0900'
+categories:
+- iPhoneの使い方
+tags:
+- iPhone
+- MNP
+- 移行
+- Gmail
+comments: []
+---
+<p><img src="http://kotalab.com/wp-content/uploads/gmailmainmail_130916-546x361.jpg" alt="gmailmainmail_130916" width="546" height="361" class="alignnone size-large wp-image-9251" /><br />
+Gmailをメインで使ってます。こたら（@kotala_b）です。<br />
+僕は10年以上ドコモのメアドを使っていました。<br />
+僕は去年までメアドという縛りからMNPに対しては腰が重かったです。<br />
+番号は変わらなくてもメアドは変わるのがMNP。<br />
+MNPで一番の障害になるのがメアドが変わることでした。<br />
+Gmailをメインのメアドとして使うことにすれば、MNPしてもずっと同じメアドを使い続けられる！<br />
+この考え方ができてなかったら、僕はいまでもドコモのメアドを使い続けていたかも知れません。<br />
+<!--more--></p>
+<h2>MNPするならGmailを使う！</h2>
+<p>MNPすると機種変よりも大抵、端末が安く買えます。<br />
+更にキャンペーンによっては基本料金も無料になったりと至れり尽くせり。<br />
+<strong>MNPの唯一の欠点はメアドが変わること。その欠点を帳消しにしてくれるのがGmailの存在です！</strong></p>
+<h2>キャリアメールからGmailへスムーズに移行する方法</h2>
+<p>まずはメアドが変わることを教えなければいけません。<br />
+スムーズに移行する為に重要なのは<strong>変更のお知らせはキャリアメールから送ること。</strong><br />
+Gmailからだと誰から届いたのかパッと見でわかりませんし、メール受信を拒否している人もいる可能性があるからです。</p>
+<h2>iPhoneでGmailを使う方法</h2>
+<p><img src="http://kotalab.com/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />
+iPhoneでGmailを使うのは簡単です。<br />
+GmailアカウントがあればGmailアプリをiPhoneにいれるだけ！<br />
+Gmailの公式アプリは使いやすいのでオススメです！</p>
+<div class="applink">
+<div class="applinkimg"><a href="https://itunes.apple.com/jp/app/gmail-google-nomeru/id422689480?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a853.phobos.apple.com/us/r30/Purple4/v4/92/1e/b4/921eb4f7-1add-a8d1-6912-0d0766566538/Icon.png" width="80" /></a></div>
+<div class="applinktext">
+<div class="applinktitle"><strong><a href="https://itunes.apple.com/jp/app/gmail-google-nomeru/id422689480?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">Gmail: Google のメール</a></strong></div>
+<div class="applinkinfo">Google, Inc.</div>
+<div class="applinkinfo">価格: 無料（記事公開時）</div>
+<div class="applinkinfo">カテゴリ: 仕事効率化</div>
+</div>
+<div class="clear"></div>
+<div class="appstorelink"><a href="https://itunes.apple.com/jp/app/gmail-google-nomeru/id422689480?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
+</div>
+<h3>MNPが盛んな今だからこそGmailを！</h3>
+<p>MNPは優遇される反面、長期利用のユーザーにはほとんどメリットがない仕組み。<br />
+それならMNPを上手に使っていきましょう！<br />
+もしキャリアメールを使い続けるなら、MNPしたら毎回メアド変更の通知をする必要になります。<br />
+Gmailに移行しちゃえばその手間は最初の1回だけ。<br />
+ずっと同じメアドを使い続けることができます！</p>
+<h4 class="aam">Amazonのオススメ！</h4>
+<div class="booklink-box">
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B008BCCJ80/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41lsp5JmQPL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-info">
+<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B008BCCJ80/same-22/" rel="nofollow" target="_blank">メールの超プロが教える　Gmail仕事術[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+</div>
+<div class="booklink-detail">樺沢 紫苑 サンマーク出版 2012-07-01    </div>
+<div class="booklink-link2">
+<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B008BCCJ80/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/476313048X/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+</p></div>
+</div>
+<div class="booklink-footer"></div>
+</div>
+<div class="booklink-box">
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4048867806/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51pU2jXrRkL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-info">
+<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4048867806/same-22/" rel="nofollow" target="_blank">Googleドライブ+Gmail+カレンダー 完全活用術 ビジネスで今すぐ使える最強の「無料クラウド」</a>
+<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+</div>
+<div class="booklink-detail">早坂清志 アスキー・メディアワークス 2012-07-19    </div>
+<div class="booklink-link2">
+<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4048867806/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=Google%83h%83%89%83C%83u%2BGmail%2B%83J%83%8C%83%93%83_%81%5B%20%8A%AE%91S%8A%88%97p%8Fp%20%83r%83W%83l%83X%82%C5%8D%A1%82%B7%82%AE%8Eg%82%A6%82%E9%8D%C5%8B%AD%82%CC%81u%96%B3%97%BF%83N%83%89%83E%83h%81v&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11785381%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
+</p></div>
+</div>
+<div class="booklink-footer"></div>
+</div>
+<div class="booklink-box">
+<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844330926/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51Kgt%2BNreFL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-info">
+<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844330926/same-22/" rel="nofollow" target="_blank">できるポケット Google スマートに使いこなす基本＆活用ワザ 180 ［グーグルの便利ワザ160 改訂新版］</a>
+<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+</div>
+<div class="booklink-detail">渥美 祐輔,できるシリーズ編集部 インプレスジャパン 2011-09-26    </div>
+<div class="booklink-link2">
+<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844330926/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%82%C5%82%AB%82%E9%83%7C%83P%83b%83g%20Google%20%83X%83%7D%81%5B%83g%82%C9%8Eg%82%A2%82%B1%82%C8%82%B7%8A%EE%96%7B%81%95%8A%88%97p%83%8F%83U%20180%20%81m%83O%81%5B%83O%83%8B%82%CC%95%D6%97%98%83%8F%83U160%20%89%FC%92%F9%90V%94%C5%81n&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11354043%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
+</p></div>
+</div>
+<div class="booklink-footer"></div>
+</div>
