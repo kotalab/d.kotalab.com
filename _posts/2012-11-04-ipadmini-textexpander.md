@@ -14,7 +14,7 @@ wordpress_id: 3962
 wordpress_url: http://kotalab.com/?p=3962
 date: '2012-11-04 14:53:26 +0900'
 date_gmt: '2012-11-04 05:53:26 +0900'
-categories:
+category:
 - iPadアプリ
 tags:
 - DraftPad

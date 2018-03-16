@@ -14,7 +14,7 @@ wordpress_id: 3206
 wordpress_url: http://kotalab.com/?p=3206
 date: '2012-10-06 13:17:41 +0900'
 date_gmt: '2012-10-06 04:17:41 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - sharehtml

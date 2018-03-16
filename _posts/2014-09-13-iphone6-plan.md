@@ -14,7 +14,7 @@ wordpress_id: 13435
 wordpress_url: http://kotalab.com/?p=13435
 date: '2014-09-13 12:06:05 +0900'
 date_gmt: '2014-09-13 03:06:05 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - SoftBank

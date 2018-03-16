@@ -14,7 +14,7 @@ wordpress_id: 4514
 wordpress_url: http://kotalab.com/?p=4514
 date: '2012-12-03 11:56:47 +0900'
 date_gmt: '2012-12-03 02:56:47 +0900'
-categories:
+category:
 - ブログ企画
 tags:
 - iPhone

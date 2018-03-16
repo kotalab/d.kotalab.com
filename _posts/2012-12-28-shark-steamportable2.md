@@ -14,7 +14,7 @@ wordpress_id: 5119
 wordpress_url: http://kotalab.com/?p=5119
 date: '2012-12-28 14:51:36 +0900'
 date_gmt: '2012-12-28 05:51:36 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - シャーク スチームポータブル

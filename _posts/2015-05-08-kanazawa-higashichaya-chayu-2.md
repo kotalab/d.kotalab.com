@@ -12,7 +12,7 @@ wordpress_id: 14302
 wordpress_url: http://kotalab.com/?p=14302
 date: '2015-05-08 08:07:31 +0900'
 date_gmt: '2015-05-07 23:07:31 +0900'
-categories:
+category:
 - 金沢旅行
 tags:
 - 牡蠣

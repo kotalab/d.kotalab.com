@@ -14,7 +14,7 @@ wordpress_id: 4282
 wordpress_url: http://kotalab.com/?p=4282
 date: '2012-11-17 20:22:21 +0900'
 date_gmt: '2012-11-17 11:22:21 +0900'
-categories:
+category:
 - ラーメン
 tags:
 - 秋葉原

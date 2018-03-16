@@ -14,7 +14,7 @@ wordpress_id: 7420
 wordpress_url: http://kotalab.com/?p=7420
 date: '2013-06-10 19:00:20 +0900'
 date_gmt: '2013-06-10 10:00:20 +0900'
-categories:
+category:
 - Mac
 tags:
 - iPhone

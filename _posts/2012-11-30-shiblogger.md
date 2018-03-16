@@ -14,7 +14,7 @@ wordpress_id: 4446
 wordpress_url: http://kotalab.com/?p=4446
 date: '2012-11-30 12:55:19 +0900'
 date_gmt: '2012-11-30 03:55:19 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - 忘年会

@@ -14,7 +14,7 @@ wordpress_id: 802
 wordpress_url: http://kotalab.com/?p=802
 date: '2012-06-18 09:59:01 +0900'
 date_gmt: '2012-06-18 00:59:01 +0900'
-categories:
+category:
 - kotala's Weekly
 tags:
 - プロジェクト管理

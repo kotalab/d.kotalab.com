@@ -14,7 +14,7 @@ wordpress_id: 4274
 wordpress_url: http://kotalab.com/?p=4274
 date: '2012-11-17 10:53:13 +0900'
 date_gmt: '2012-11-17 01:53:13 +0900'
-categories:
+category:
 - Mac
 tags:
 - Bootcamp

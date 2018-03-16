@@ -14,7 +14,7 @@ wordpress_id: 3697
 wordpress_url: http://kotalab.com/?p=3697
 date: '2012-10-26 13:14:01 +0900'
 date_gmt: '2012-10-26 04:14:01 +0900'
-categories:
+category:
 - スイーツ
 tags:
 - 虎屋の羊羹

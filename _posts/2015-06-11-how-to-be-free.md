@@ -12,7 +12,7 @@ wordpress_id: 14592
 wordpress_url: http://kotalab.com/?p=14592
 date: '2015-06-11 08:15:46 +0900'
 date_gmt: '2015-06-10 23:15:46 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - アプリ開発

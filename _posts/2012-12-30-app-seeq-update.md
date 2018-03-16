@@ -14,7 +14,7 @@ wordpress_id: 5147
 wordpress_url: http://kotalab.com/?p=5147
 date: '2012-12-30 10:13:44 +0900'
 date_gmt: '2012-12-30 01:13:44 +0900'
-categories:
+category:
 - iPhoneアプリ
 tags:
 - Evernote

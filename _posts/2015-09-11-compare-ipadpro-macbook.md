@@ -12,7 +12,7 @@ wordpress_id: 14857
 wordpress_url: http://kotalab.com/?p=14857
 date: '2015-09-11 07:30:27 +0900'
 date_gmt: '2015-09-10 22:30:27 +0900'
-categories:
+category:
 - iPhone・iPad・iPod
 tags:
 - Retinaディスプレイ

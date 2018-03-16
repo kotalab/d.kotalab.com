@@ -14,7 +14,7 @@ wordpress_id: 13283
 wordpress_url: http://kotalab.com/?p=13283
 date: '2014-06-25 07:51:21 +0900'
 date_gmt: '2014-06-24 22:51:21 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - クレジットカード

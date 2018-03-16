@@ -14,7 +14,7 @@ wordpress_id: 3507
 wordpress_url: http://kotalab.com/?p=3507
 date: '2012-10-19 21:19:43 +0900'
 date_gmt: '2012-10-19 12:19:43 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - iPhoneケース展

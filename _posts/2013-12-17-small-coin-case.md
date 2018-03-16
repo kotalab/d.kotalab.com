@@ -14,7 +14,7 @@ wordpress_id: 10297
 wordpress_url: http://kotalab.com/?p=10297
 date: '2013-12-17 18:32:45 +0900'
 date_gmt: '2013-12-17 09:32:45 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - 渋谷

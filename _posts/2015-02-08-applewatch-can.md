@@ -14,7 +14,7 @@ wordpress_id: 13929
 wordpress_url: http://kotalab.com/?p=13929
 date: '2015-02-08 08:00:02 +0900'
 date_gmt: '2015-02-07 23:00:02 +0900'
-categories:
+category:
 - AppleWatch
 tags:
 - 健康

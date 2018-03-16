@@ -14,7 +14,7 @@ wordpress_id: 3623
 wordpress_url: http://kotalab.com/?p=3623
 date: '2012-10-22 20:44:17 +0900'
 date_gmt: '2012-10-22 11:44:17 +0900'
-categories:
+category:
 - 生き方の本
 tags:
 - 読んだ

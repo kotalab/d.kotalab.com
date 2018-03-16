@@ -14,7 +14,7 @@ wordpress_id: 2817
 wordpress_url: http://kotalab.com/?p=2817
 date: '2012-09-18 10:39:11 +0900'
 date_gmt: '2012-09-18 01:39:11 +0900'
-categories:
+category:
 - Mac
 tags:
 - Evernote

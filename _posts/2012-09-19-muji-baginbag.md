@@ -14,7 +14,7 @@ wordpress_id: 2831
 wordpress_url: http://kotalab.com/?p=2831
 date: '2012-09-19 11:00:01 +0900'
 date_gmt: '2012-09-19 02:00:01 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - 買った

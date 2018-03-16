@@ -14,7 +14,7 @@ wordpress_id: 7112
 wordpress_url: http://kotalab.com/?p=7112
 date: '2013-05-12 15:16:28 +0900'
 date_gmt: '2013-05-12 06:16:28 +0900'
-categories:
+category:
 - kotala's Weekly
 tags:
 - photo

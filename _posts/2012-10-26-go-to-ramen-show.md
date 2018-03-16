@@ -14,7 +14,7 @@ wordpress_id: 3718
 wordpress_url: http://kotalab.com/?p=3718
 date: '2012-10-26 16:53:43 +0900'
 date_gmt: '2012-10-26 07:53:43 +0900'
-categories:
+category:
 - グルメ情報
 tags:
 - ラーメン

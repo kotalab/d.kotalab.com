@@ -14,7 +14,7 @@ wordpress_id: 3667
 wordpress_url: http://kotalab.com/?p=3667
 date: '2012-10-25 11:23:06 +0900'
 date_gmt: '2012-10-25 02:23:06 +0900'
-categories:
+category:
 - iPhoneアプリニュース
 tags:
 - amazon

@@ -14,7 +14,7 @@ wordpress_id: 13196
 wordpress_url: http://kotalab.com/?p=13196
 date: '2014-05-20 08:29:00 +0900'
 date_gmt: '2014-05-19 23:29:00 +0900'
-categories:
+category:
 - タスク管理
 tags:
 - Toodledo

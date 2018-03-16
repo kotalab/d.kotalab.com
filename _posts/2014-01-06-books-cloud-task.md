@@ -14,7 +14,7 @@ wordpress_id: 10416
 wordpress_url: http://kotalab.com/?p=10416
 date: '2014-01-06 13:06:28 +0900'
 date_gmt: '2014-01-06 04:06:28 +0900'
-categories:
+category:
 - タスク管理・仕事術の本
 tags:
 - タスク管理

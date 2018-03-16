@@ -14,7 +14,7 @@ wordpress_id: 10443
 wordpress_url: http://kotalab.com/?p=10443
 date: '2014-01-08 09:17:34 +0900'
 date_gmt: '2014-01-08 00:17:34 +0900'
-categories:
+category:
 - 旅行
 tags:
 - 銀座

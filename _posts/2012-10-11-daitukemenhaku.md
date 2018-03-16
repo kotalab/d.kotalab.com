@@ -14,7 +14,7 @@ wordpress_id: 3317
 wordpress_url: http://kotalab.com/?p=3317
 date: '2012-10-11 11:40:47 +0900'
 date_gmt: '2012-10-11 02:40:47 +0900'
-categories:
+category:
 - グルメ
 tags:
 - 大つけ麺博

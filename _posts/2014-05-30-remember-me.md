@@ -14,7 +14,7 @@ wordpress_id: 13253
 wordpress_url: http://kotalab.com/?p=13253
 date: '2014-05-30 08:16:45 +0900'
 date_gmt: '2014-05-29 23:16:45 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - ブロガー名刺

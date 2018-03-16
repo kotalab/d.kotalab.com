@@ -14,7 +14,7 @@ wordpress_id: 9568
 wordpress_url: http://kotalab.com/?p=9568
 date: '2013-09-20 11:03:14 +0900'
 date_gmt: '2013-09-20 02:03:14 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - 設定

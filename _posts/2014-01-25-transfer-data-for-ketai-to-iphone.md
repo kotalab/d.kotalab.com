@@ -14,7 +14,7 @@ wordpress_id: 10646
 wordpress_url: http://kotalab.com/?p=10646
 date: '2014-01-25 19:08:10 +0900'
 date_gmt: '2014-01-25 10:08:10 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - Evernote

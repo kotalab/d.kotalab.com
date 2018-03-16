@@ -14,7 +14,7 @@ wordpress_id: 5664
 wordpress_url: http://kotalab.com/?p=5664
 date: '2013-01-13 11:08:42 +0900'
 date_gmt: '2013-01-13 02:08:42 +0900'
-categories:
+category:
 - iPadのある生活
 tags:
 - photo

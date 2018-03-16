@@ -14,7 +14,7 @@ wordpress_id: 9781
 wordpress_url: http://kotalab.com/?p=9781
 date: '2013-10-05 23:12:47 +0900'
 date_gmt: '2013-10-05 14:12:47 +0900'
-categories:
+category:
 - 和食
 tags:
 - 広島

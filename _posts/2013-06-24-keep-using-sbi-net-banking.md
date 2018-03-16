@@ -14,7 +14,7 @@ wordpress_id: 7609
 wordpress_url: http://kotalab.com/?p=7609
 date: '2013-06-24 19:00:12 +0900'
 date_gmt: '2013-06-24 10:00:12 +0900'
-categories:
+category:
 - 節約術
 tags:
 - 銀行

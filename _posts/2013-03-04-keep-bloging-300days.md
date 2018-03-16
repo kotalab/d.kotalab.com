@@ -14,7 +14,7 @@ wordpress_id: 6400
 wordpress_url: http://kotalab.com/?p=6400
 date: '2013-03-04 20:17:03 +0900'
 date_gmt: '2013-03-04 11:17:03 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - タスク管理

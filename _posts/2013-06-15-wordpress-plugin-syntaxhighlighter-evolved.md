@@ -14,7 +14,7 @@ wordpress_id: 7485
 wordpress_url: http://kotalab.com/?p=7485
 date: '2013-06-15 19:00:20 +0900'
 date_gmt: '2013-06-15 10:00:20 +0900'
-categories:
+category:
 - WordPressプラグインの使い方
 tags:
 - syntaxhighlighter-evolved

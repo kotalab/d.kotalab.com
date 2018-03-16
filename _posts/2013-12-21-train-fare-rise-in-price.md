@@ -14,7 +14,7 @@ wordpress_id: 10320
 wordpress_url: http://kotalab.com/?p=10320
 date: '2013-12-21 11:42:47 +0900'
 date_gmt: '2013-12-21 02:42:47 +0900'
-categories:
+category:
 - 消費税
 tags:
 - 消費税

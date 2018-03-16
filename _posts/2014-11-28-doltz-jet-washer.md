@@ -14,7 +14,7 @@ wordpress_id: 13613
 wordpress_url: http://kotalab.com/?p=13613
 date: '2014-11-28 07:30:23 +0900'
 date_gmt: '2014-11-27 22:30:23 +0900'
-categories:
+category:
 - 美容・健康グッズ
 tags:
 - 健康

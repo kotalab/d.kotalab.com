@@ -14,7 +14,7 @@ wordpress_id: 6552
 wordpress_url: http://kotalab.com/?p=6552
 date: '2013-03-20 12:21:24 +0900'
 date_gmt: '2013-03-20 03:21:24 +0900'
-categories:
+category:
 - webサービス
 tags:
 - RSS

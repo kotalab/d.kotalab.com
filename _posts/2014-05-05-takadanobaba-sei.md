@@ -14,7 +14,7 @@ wordpress_id: 13115
 wordpress_url: http://kotalab.com/?p=13115
 date: '2014-05-05 10:45:16 +0900'
 date_gmt: '2014-05-05 01:45:16 +0900'
-categories:
+category:
 - 和食
 tags:
 - 高田馬場

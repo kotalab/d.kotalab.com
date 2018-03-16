@@ -12,7 +12,7 @@ wordpress_id: 14307
 wordpress_url: http://kotalab.com/?p=14307
 date: '2015-05-09 09:55:05 +0900'
 date_gmt: '2015-05-09 00:55:05 +0900'
-categories:
+category:
 - ブログのある生活
 tags: []
 comments: []

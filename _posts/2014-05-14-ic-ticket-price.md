@@ -14,7 +14,7 @@ wordpress_id: 13155
 wordpress_url: http://kotalab.com/?p=13155
 date: '2014-05-14 11:25:34 +0900'
 date_gmt: '2014-05-14 02:25:34 +0900'
-categories:
+category:
 - 消費税
 tags:
 - 電車賃

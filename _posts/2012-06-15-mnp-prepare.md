@@ -12,7 +12,7 @@ wordpress_id: 763
 wordpress_url: http://kotalab.com/?p=763
 date: '2012-06-15 11:10:39 +0900'
 date_gmt: '2012-06-15 02:10:39 +0900'
-categories:
+category:
 - iPhone・iPad・iPod
 tags:
 - iPhone

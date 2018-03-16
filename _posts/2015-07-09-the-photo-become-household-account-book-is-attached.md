@@ -12,7 +12,7 @@ wordpress_id: 14737
 wordpress_url: http://kotalab.com/?p=14737
 date: '2015-07-09 08:14:17 +0900'
 date_gmt: '2015-07-08 23:14:17 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - OneCam

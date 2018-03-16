@@ -14,7 +14,7 @@ wordpress_id: 1985
 wordpress_url: http://kotalab.com/?p=1985
 date: '2012-08-07 15:29:49 +0900'
 date_gmt: '2012-08-07 06:29:49 +0900'
-categories:
+category:
 - グルメ
 tags:
 - 渋谷

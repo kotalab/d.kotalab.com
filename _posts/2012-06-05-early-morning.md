@@ -12,7 +12,7 @@ wordpress_id: 543
 wordpress_url: https://kotala.wordpress.com/?p=543
 date: '2012-06-05 08:20:30 +0900'
 date_gmt: '2012-06-04 23:20:30 +0900'
-categories:
+category:
 - ブログのある生活
 tags: []
 comments: []

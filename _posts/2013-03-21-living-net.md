@@ -14,7 +14,7 @@ wordpress_id: 6560
 wordpress_url: http://kotalab.com/?p=6560
 date: '2013-03-21 16:47:56 +0900'
 date_gmt: '2013-03-21 07:47:56 +0900'
-categories:
+category:
 - iPadのある生活
 tags:
 - iPadmini

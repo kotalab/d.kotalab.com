@@ -14,7 +14,7 @@ wordpress_id: 5591
 wordpress_url: http://kotalab.com/?p=5591
 date: '2013-01-10 10:28:35 +0900'
 date_gmt: '2013-01-10 01:28:35 +0900'
-categories:
+category:
 - タスク管理・仕事術の本
 tags:
 - 習慣

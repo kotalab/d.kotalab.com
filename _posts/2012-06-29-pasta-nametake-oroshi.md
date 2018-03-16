@@ -14,7 +14,7 @@ wordpress_id: 1092
 wordpress_url: http://kotalab.com/?p=1092
 date: '2012-06-29 16:56:45 +0900'
 date_gmt: '2012-06-29 07:56:45 +0900'
-categories:
+category:
 - 手作り料理
 tags:
 - パスタ

@@ -14,7 +14,7 @@ wordpress_id: 10118
 wordpress_url: http://kotalab.com/?p=10118
 date: '2013-11-07 16:30:15 +0900'
 date_gmt: '2013-11-07 07:30:15 +0900'
-categories:
+category:
 - iPhoneグッズ
 tags:
 - 買った

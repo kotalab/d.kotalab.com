@@ -13,7 +13,7 @@ wordpress_id: 563
 wordpress_url: http://kotalab.com/?p=563
 date: '2012-06-05 15:32:20 +0900'
 date_gmt: '2012-06-05 06:32:20 +0900'
-categories:
+category:
 - ブログ
 tags: []
 comments: []

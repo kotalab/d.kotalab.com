@@ -12,7 +12,7 @@ wordpress_id: 14812
 wordpress_url: http://kotalab.com/?p=14812
 date: '2015-07-31 08:03:22 +0900'
 date_gmt: '2015-07-30 23:03:22 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - お金がもったいない

@@ -14,7 +14,7 @@ wordpress_id: 7703
 wordpress_url: http://kotalab.com/?p=7703
 date: '2013-07-01 19:00:22 +0900'
 date_gmt: '2013-07-01 10:00:22 +0900'
-categories:
+category:
 - 洋食
 tags:
 - 大戸屋

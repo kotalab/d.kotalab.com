@@ -14,7 +14,7 @@ wordpress_id: 6433
 wordpress_url: http://kotalab.com/?p=6433
 date: '2013-03-08 05:53:20 +0900'
 date_gmt: '2013-03-07 20:53:20 +0900'
-categories:
+category:
 - グルメ情報
 tags:
 - ピザハット

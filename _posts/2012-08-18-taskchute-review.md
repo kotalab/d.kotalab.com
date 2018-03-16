@@ -14,7 +14,7 @@ wordpress_id: 2175
 wordpress_url: http://kotalab.com/?p=2175
 date: '2012-08-18 05:17:32 +0900'
 date_gmt: '2012-08-17 20:17:32 +0900'
-categories:
+category:
 - TaskChute
 tags: []
 comments: []

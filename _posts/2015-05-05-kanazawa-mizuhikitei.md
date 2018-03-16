@@ -12,7 +12,7 @@ wordpress_id: 14265
 wordpress_url: http://kotalab.com/?p=14265
 date: '2015-05-05 15:46:52 +0900'
 date_gmt: '2015-05-05 06:46:52 +0900'
-categories:
+category:
 - 金沢旅行
 tags:
 - 食べ放題

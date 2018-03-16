@@ -14,7 +14,7 @@ wordpress_id: 4654
 wordpress_url: http://kotalab.com/?p=4654
 date: '2012-12-09 11:44:03 +0900'
 date_gmt: '2012-12-09 02:44:03 +0900'
-categories:
+category:
 - 生き方の本
 tags:
 - 書評

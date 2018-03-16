@@ -14,7 +14,7 @@ wordpress_id: 2509
 wordpress_url: http://kotalab.com/?p=2509
 date: '2012-09-05 15:30:00 +0900'
 date_gmt: '2012-09-05 06:30:00 +0900'
-categories:
+category:
 - 映画
 tags:
 - 映画

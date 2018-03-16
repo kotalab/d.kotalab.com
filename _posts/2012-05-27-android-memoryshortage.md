@@ -12,7 +12,7 @@ wordpress_id: 429
 wordpress_url: https://kotala.wordpress.com/?p=429
 date: '2012-05-27 10:55:36 +0900'
 date_gmt: '2012-05-27 01:55:36 +0900'
-categories:
+category:
 - android
 tags:
 - Taskchute

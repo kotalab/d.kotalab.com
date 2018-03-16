@@ -14,7 +14,7 @@ wordpress_id: 3607
 wordpress_url: http://kotalab.com/?p=3607
 date: '2012-10-22 17:28:46 +0900'
 date_gmt: '2012-10-22 08:28:46 +0900'
-categories:
+category:
 - グルメ
 tags:
 - ガリガリ君

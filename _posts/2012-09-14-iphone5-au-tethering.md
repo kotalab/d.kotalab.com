@@ -14,7 +14,7 @@ wordpress_id: 2750
 wordpress_url: http://kotalab.com/?p=2750
 date: '2012-09-14 09:33:11 +0900'
 date_gmt: '2012-09-14 00:33:11 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - SoftBank

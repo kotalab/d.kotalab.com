@@ -14,7 +14,7 @@ wordpress_id: 13819
 wordpress_url: http://kotalab.com/?p=13819
 date: '2015-01-12 12:39:47 +0900'
 date_gmt: '2015-01-12 03:39:47 +0900'
-categories:
+category:
 - ブログ
 tags:
 - google Analytics

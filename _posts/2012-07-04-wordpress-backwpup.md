@@ -14,7 +14,7 @@ wordpress_id: 1251
 wordpress_url: http://kotalab.com/?p=1251
 date: '2012-07-04 04:58:16 +0900'
 date_gmt: '2012-07-03 19:58:16 +0900'
-categories:
+category:
 - WordPressプラグインの使い方
 tags:
 - バックアップ

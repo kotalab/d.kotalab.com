@@ -14,7 +14,7 @@ wordpress_id: 6505
 wordpress_url: http://kotalab.com/?p=6505
 date: '2013-03-14 12:20:24 +0900'
 date_gmt: '2013-03-14 03:20:24 +0900'
-categories:
+category:
 - webサービス
 tags:
 - Reeder

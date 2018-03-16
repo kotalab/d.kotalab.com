@@ -12,7 +12,7 @@ wordpress_id: 10
 wordpress_url: http://kotala.wordpress.com/?p=1
 date: '2012-05-09 18:34:06 +0900'
 date_gmt: '2012-05-09 09:34:06 +0900'
-categories:
+category:
 - ひとりごと
 tags: []
 comments: []

@@ -14,7 +14,7 @@ wordpress_id: 1940
 wordpress_url: http://kotalab.com/?p=1940
 date: '2012-08-06 10:41:10 +0900'
 date_gmt: '2012-08-06 01:41:10 +0900'
-categories:
+category:
 - キャンペーン・お買い得情報
 tags:
 - iPhone

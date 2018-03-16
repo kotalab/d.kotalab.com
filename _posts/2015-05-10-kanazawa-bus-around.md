@@ -12,7 +12,7 @@ wordpress_id: 14320
 wordpress_url: http://kotalab.com/?p=14320
 date: '2015-05-10 15:39:49 +0900'
 date_gmt: '2015-05-10 06:39:49 +0900'
-categories:
+category:
 - 金沢旅行
 tags:
 - 北陸新幹線

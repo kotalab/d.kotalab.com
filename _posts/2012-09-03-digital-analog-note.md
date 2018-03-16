@@ -14,7 +14,7 @@ wordpress_id: 2446
 wordpress_url: http://kotalab.com/?p=2446
 date: '2012-09-03 10:03:15 +0900'
 date_gmt: '2012-09-03 01:03:15 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - Evernote

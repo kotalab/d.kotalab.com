@@ -14,7 +14,7 @@ wordpress_id: 6255
 wordpress_url: http://kotalab.com/?p=6255
 date: '2013-02-20 03:57:10 +0900'
 date_gmt: '2013-02-19 18:57:10 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - 使い道

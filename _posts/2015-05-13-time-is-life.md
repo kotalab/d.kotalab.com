@@ -12,7 +12,7 @@ wordpress_id: 14351
 wordpress_url: http://kotalab.com/?p=14351
 date: '2015-05-13 07:36:12 +0900'
 date_gmt: '2015-05-12 22:36:12 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - ジョン・キム

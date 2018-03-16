@@ -14,7 +14,7 @@ wordpress_id: 1066
 wordpress_url: http://kotalab.com/?p=1066
 date: '2012-06-28 11:22:56 +0900'
 date_gmt: '2012-06-28 02:22:56 +0900'
-categories:
+category:
 - つけ麺
 tags:
 - 新百合ケ丘

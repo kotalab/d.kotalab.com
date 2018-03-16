@@ -12,7 +12,7 @@ wordpress_id: 482
 wordpress_url: https://kotala.wordpress.com/?p=482
 date: '2012-05-31 11:15:58 +0900'
 date_gmt: '2012-05-31 02:15:58 +0900'
-categories:
+category:
 - TaskChute
 tags: []
 comments: []

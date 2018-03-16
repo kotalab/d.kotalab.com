@@ -14,7 +14,7 @@ wordpress_id: 14149
 wordpress_url: http://kotalab.com/?p=14149
 date: '2015-04-22 08:13:30 +0900'
 date_gmt: '2015-04-21 23:13:30 +0900'
-categories:
+category:
 - AppleWatch
 tags:
 - 考えよう

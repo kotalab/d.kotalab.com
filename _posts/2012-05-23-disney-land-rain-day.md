@@ -12,7 +12,7 @@ wordpress_id: 368
 wordpress_url: http://kotala.wordpress.com/?p=368
 date: '2012-05-23 21:18:31 +0900'
 date_gmt: '2012-05-23 12:18:31 +0900'
-categories:
+category:
 - おでかけ・散歩
 tags:
 - お出かけ

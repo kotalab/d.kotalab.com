@@ -14,7 +14,7 @@ wordpress_id: 5508
 wordpress_url: http://kotalab.com/?p=5508
 date: '2013-01-05 09:52:11 +0900'
 date_gmt: '2013-01-05 00:52:11 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - 開封

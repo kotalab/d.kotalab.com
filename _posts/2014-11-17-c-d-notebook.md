@@ -14,7 +14,7 @@ wordpress_id: 13595
 wordpress_url: http://kotalab.com/?p=13595
 date: '2014-11-17 07:00:11 +0900'
 date_gmt: '2014-11-16 22:00:11 +0900'
-categories:
+category:
 - 文房具
 tags:
 - 買った

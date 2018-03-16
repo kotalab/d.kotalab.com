@@ -14,7 +14,7 @@ wordpress_id: 2280
 wordpress_url: http://kotalab.com/?p=2280
 date: '2012-08-24 11:07:06 +0900'
 date_gmt: '2012-08-24 02:07:06 +0900'
-categories:
+category:
 - iPhoneアプリ
 tags:
 - iPhone4S

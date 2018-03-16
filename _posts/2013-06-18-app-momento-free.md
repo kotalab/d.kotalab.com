@@ -14,7 +14,7 @@ wordpress_id: 7517
 wordpress_url: http://kotalab.com/?p=7517
 date: '2013-06-18 21:52:24 +0900'
 date_gmt: '2013-06-18 12:52:24 +0900'
-categories:
+category:
 - iPhoneアプリセール情報
 tags:
 - iPhoneアプリ

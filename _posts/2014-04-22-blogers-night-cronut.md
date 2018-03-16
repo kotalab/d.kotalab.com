@@ -14,7 +14,7 @@ wordpress_id: 12620
 wordpress_url: http://kotalab.com/?p=12620
 date: '2014-04-22 07:31:39 +0900'
 date_gmt: '2014-04-21 22:31:39 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - 渋谷

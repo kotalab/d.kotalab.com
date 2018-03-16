@@ -12,7 +12,7 @@ wordpress_id: 342
 wordpress_url: https://kotala.wordpress.com/?p=342
 date: '2012-05-21 10:26:11 +0900'
 date_gmt: '2012-05-21 01:26:11 +0900'
-categories:
+category:
 - android
 tags:
 - wordpress

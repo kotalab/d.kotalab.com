@@ -14,7 +14,7 @@ wordpress_id: 5084
 wordpress_url: http://kotalab.com/?p=5084
 date: '2012-12-25 11:56:03 +0900'
 date_gmt: '2012-12-25 02:56:03 +0900'
-categories:
+category:
 - iPhoneアプリ
 tags:
 - カスタマイズ

@@ -14,7 +14,7 @@ wordpress_id: 1337
 wordpress_url: http://kotalab.com/?p=1337
 date: '2012-07-09 11:48:49 +0900'
 date_gmt: '2012-07-09 02:48:49 +0900'
-categories:
+category:
 - WordPressプラグインの使い方
 tags:
 - PopularPosts

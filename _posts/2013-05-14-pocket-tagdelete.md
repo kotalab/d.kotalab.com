@@ -14,7 +14,7 @@ wordpress_id: 7128
 wordpress_url: http://kotalab.com/?p=7128
 date: '2013-05-14 19:00:29 +0900'
 date_gmt: '2013-05-14 10:00:29 +0900'
-categories:
+category:
 - Pocketの使い方
 tags:
 - 整理整頓

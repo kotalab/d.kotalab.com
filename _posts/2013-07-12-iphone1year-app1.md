@@ -14,7 +14,7 @@ wordpress_id: 7797
 wordpress_url: http://kotalab.com/?p=7797
 date: '2013-07-12 20:49:50 +0900'
 date_gmt: '2013-07-12 11:49:50 +0900'
-categories:
+category:
 - iPhoneホーム画面
 tags:
 - SmartEver

@@ -14,7 +14,7 @@ wordpress_id: 14047
 wordpress_url: http://kotalab.com/?p=14047
 date: '2015-03-24 07:30:25 +0900'
 date_gmt: '2015-03-23 22:30:25 +0900'
-categories:
+category:
 - イベント
 tags:
 - ラクガキ

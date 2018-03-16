@@ -14,7 +14,7 @@ wordpress_id: 7725
 wordpress_url: http://kotalab.com/?p=7725
 date: '2013-07-04 00:16:48 +0900'
 date_gmt: '2013-07-03 15:16:48 +0900'
-categories:
+category:
 - 節約術
 tags:
 - SoftBank

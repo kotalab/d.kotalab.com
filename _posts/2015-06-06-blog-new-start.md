@@ -12,7 +12,7 @@ wordpress_id: 14545
 wordpress_url: http://kotalab.com/?p=14545
 date: '2015-06-06 16:07:08 +0900'
 date_gmt: '2015-06-06 07:07:08 +0900'
-categories:
+category:
 - ブログ
 tags:
 - wordpress

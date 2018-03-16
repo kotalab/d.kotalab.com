@@ -14,7 +14,7 @@ wordpress_id: 7158
 wordpress_url: http://kotalab.com/?p=7158
 date: '2013-05-16 21:09:10 +0900'
 date_gmt: '2013-05-16 12:09:10 +0900'
-categories:
+category:
 - カメラ
 tags:
 - デジイチ

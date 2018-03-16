@@ -12,7 +12,7 @@ wordpress_id: 14522
 wordpress_url: http://kotalab.com/?p=14522
 date: '2015-06-01 07:57:03 +0900'
 date_gmt: '2015-05-31 22:57:03 +0900'
-categories:
+category:
 - webサービス
 tags:
 - Twitter

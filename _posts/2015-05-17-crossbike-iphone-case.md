@@ -12,7 +12,7 @@ wordpress_id: 14385
 wordpress_url: http://kotalab.com/?p=14385
 date: '2015-05-17 21:37:58 +0900'
 date_gmt: '2015-05-17 12:37:58 +0900'
-categories:
+category:
 - クロスバイク
 tags:
 - iPhoneケース

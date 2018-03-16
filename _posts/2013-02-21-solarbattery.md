@@ -14,7 +14,7 @@ wordpress_id: 6273
 wordpress_url: http://kotalab.com/?p=6273
 date: '2013-02-21 04:25:58 +0900'
 date_gmt: '2013-02-20 19:25:58 +0900'
-categories:
+category:
 - iPhoneグッズ
 tags:
 - iPhone

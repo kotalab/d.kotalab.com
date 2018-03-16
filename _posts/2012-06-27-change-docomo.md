@@ -14,7 +14,7 @@ wordpress_id: 1039
 wordpress_url: http://kotalab.com/?p=1039
 date: '2012-06-27 04:05:23 +0900'
 date_gmt: '2012-06-26 19:05:23 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - iOS6

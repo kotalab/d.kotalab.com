@@ -12,7 +12,7 @@ wordpress_id: 14229
 wordpress_url: http://kotalab.com/?p=14229
 date: '2015-05-01 11:33:31 +0900'
 date_gmt: '2015-05-01 02:33:31 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - 町田

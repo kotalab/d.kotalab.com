@@ -14,7 +14,7 @@ wordpress_id: 11123
 wordpress_url: http://kotalab.com/?p=11123
 date: '2014-03-14 07:08:24 +0900'
 date_gmt: '2014-03-13 22:08:24 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - google Analytics

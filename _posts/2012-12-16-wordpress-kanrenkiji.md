@@ -14,7 +14,7 @@ wordpress_id: 4892
 wordpress_url: http://kotalab.com/?p=4892
 date: '2012-12-16 11:49:36 +0900'
 date_gmt: '2012-12-16 02:49:36 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - 関連記事表示

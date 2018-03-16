@@ -14,7 +14,7 @@ wordpress_id: 6366
 wordpress_url: http://kotalab.com/?p=6366
 date: '2013-03-01 11:35:28 +0900'
 date_gmt: '2013-03-01 02:35:28 +0900'
-categories:
+category:
 - 節約術
 tags:
 - iPhoneアプリ

@@ -12,7 +12,7 @@ wordpress_id: 15
 wordpress_url: http://kotala.wordpress.com/?p=15
 date: '2012-05-11 21:40:14 +0900'
 date_gmt: '2012-05-11 12:40:14 +0900'
-categories:
+category:
 - ストレスフリーな生き方
 tags: []
 comments: []

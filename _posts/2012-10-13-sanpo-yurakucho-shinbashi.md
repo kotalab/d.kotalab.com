@@ -14,7 +14,7 @@ wordpress_id: 3384
 wordpress_url: http://kotalab.com/?p=3384
 date: '2012-10-13 11:29:39 +0900'
 date_gmt: '2012-10-13 02:29:39 +0900'
-categories:
+category:
 - おでかけ・散歩
 tags:
 - モレスキン

@@ -14,7 +14,7 @@ wordpress_id: 14181
 wordpress_url: http://kotalab.com/?p=14181
 date: '2015-04-25 16:24:34 +0900'
 date_gmt: '2015-04-25 07:24:34 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - やってみる

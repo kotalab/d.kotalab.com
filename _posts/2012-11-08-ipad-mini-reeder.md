@@ -14,7 +14,7 @@ wordpress_id: 4014
 wordpress_url: http://kotalab.com/?p=4014
 date: '2012-11-08 05:17:23 +0900'
 date_gmt: '2012-11-07 20:17:23 +0900'
-categories:
+category:
 - iPadアプリ
 tags:
 - iphone 5

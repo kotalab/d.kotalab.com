@@ -14,7 +14,7 @@ wordpress_id: 10870
 wordpress_url: http://kotalab.com/?p=10870
 date: '2014-02-19 08:14:57 +0900'
 date_gmt: '2014-02-18 23:14:57 +0900'
-categories:
+category:
 - 家族のお金
 tags:
 - 学資保険

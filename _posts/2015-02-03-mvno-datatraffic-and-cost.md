@@ -14,7 +14,7 @@ wordpress_id: 13915
 wordpress_url: http://kotalab.com/?p=13915
 date: '2015-02-03 07:52:55 +0900'
 date_gmt: '2015-02-02 22:52:55 +0900'
-categories:
+category:
 - MVNO・格安SIM
 tags:
 - 比較

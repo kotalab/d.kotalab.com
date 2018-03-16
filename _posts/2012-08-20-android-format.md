@@ -14,7 +14,7 @@ wordpress_id: 2198
 wordpress_url: http://kotalab.com/?p=2198
 date: '2012-08-20 11:32:52 +0900'
 date_gmt: '2012-08-20 02:32:52 +0900'
-categories:
+category:
 - android
 tags:
 - MNP

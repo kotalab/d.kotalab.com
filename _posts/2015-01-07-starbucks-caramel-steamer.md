@@ -14,7 +14,7 @@ wordpress_id: 13783
 wordpress_url: http://kotalab.com/?p=13783
 date: '2015-01-07 13:00:40 +0900'
 date_gmt: '2015-01-07 04:00:40 +0900'
-categories:
+category:
 - カフェ
 tags:
 - カスタマイズ

@@ -14,7 +14,7 @@ wordpress_id: 14155
 wordpress_url: http://kotalab.com/?p=14155
 date: '2015-04-23 07:52:31 +0900'
 date_gmt: '2015-04-22 22:52:31 +0900'
-categories:
+category:
 - ケータイ・スマホ料金
 tags:
 - docomo

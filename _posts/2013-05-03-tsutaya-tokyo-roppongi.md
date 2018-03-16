@@ -14,7 +14,7 @@ wordpress_id: 6985
 wordpress_url: http://kotalab.com/?p=6985
 date: '2013-05-03 14:08:08 +0900'
 date_gmt: '2013-05-03 05:08:08 +0900'
-categories:
+category:
 - カフェ
 tags:
 - スタバ

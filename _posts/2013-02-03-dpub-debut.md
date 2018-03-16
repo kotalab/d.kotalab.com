@@ -14,7 +14,7 @@ wordpress_id: 5999
 wordpress_url: http://kotalab.com/?p=5999
 date: '2013-02-03 13:35:03 +0900'
 date_gmt: '2013-02-03 04:35:03 +0900'
-categories:
+category:
 - イベント
 tags:
 - イベント

@@ -14,7 +14,7 @@ wordpress_id: 3359
 wordpress_url: http://kotalab.com/?p=3359
 date: '2012-10-12 12:18:39 +0900'
 date_gmt: '2012-10-12 03:18:39 +0900'
-categories:
+category:
 - つけ麺
 tags:
 - miil

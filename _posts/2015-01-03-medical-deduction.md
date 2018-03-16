@@ -14,7 +14,7 @@ wordpress_id: 13719
 wordpress_url: http://kotalab.com/?p=13719
 date: '2015-01-03 21:30:13 +0900'
 date_gmt: '2015-01-03 12:30:13 +0900'
-categories:
+category:
 - 確定申告
 tags:
 - 高額療養費

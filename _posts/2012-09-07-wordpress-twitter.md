@@ -14,7 +14,7 @@ wordpress_id: 2588
 wordpress_url: http://kotalab.com/?p=2588
 date: '2012-09-07 18:39:23 +0900'
 date_gmt: '2012-09-07 09:39:23 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - Twitter＠AnywherePlus

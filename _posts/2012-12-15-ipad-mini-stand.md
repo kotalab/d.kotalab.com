@@ -14,7 +14,7 @@ wordpress_id: 4865
 wordpress_url: http://kotalab.com/?p=4865
 date: '2012-12-15 10:38:56 +0900'
 date_gmt: '2012-12-15 01:38:56 +0900'
-categories:
+category:
 - iPadグッズ
 tags:
 - amazon

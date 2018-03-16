@@ -14,7 +14,7 @@ wordpress_id: 2348
 wordpress_url: http://kotalab.com/?p=2348
 date: '2012-08-27 11:30:24 +0900'
 date_gmt: '2012-08-27 02:30:24 +0900'
-categories:
+category:
 - タスク管理
 tags:
 - Evernote

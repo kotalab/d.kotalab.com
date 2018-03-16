@@ -14,7 +14,7 @@ wordpress_id: 13347
 wordpress_url: http://kotalab.com/?p=13347
 date: '2014-07-21 11:22:43 +0900'
 date_gmt: '2014-07-21 02:22:43 +0900'
-categories:
+category:
 - iPadのある生活
 tags:
 - 映画

@@ -14,7 +14,7 @@ wordpress_id: 8341
 wordpress_url: http://kotalab.com/?p=8341
 date: '2013-09-04 19:08:25 +0900'
 date_gmt: '2013-09-04 10:08:25 +0900'
-categories:
+category:
 - ブログ
 tags:
 - パーマリンク変更

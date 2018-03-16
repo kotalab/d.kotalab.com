@@ -14,7 +14,7 @@ wordpress_id: 6184
 wordpress_url: http://kotalab.com/?p=6184
 date: '2013-02-14 21:36:10 +0900'
 date_gmt: '2013-02-14 12:36:10 +0900'
-categories:
+category:
 - iPadアプリニュース
 tags:
 - するぷろ

@@ -14,7 +14,7 @@ wordpress_id: 3896
 wordpress_url: http://kotalab.com/?p=3896
 date: '2012-11-02 10:44:57 +0900'
 date_gmt: '2012-11-02 01:44:57 +0900'
-categories:
+category:
 - iPadニュース
 tags:
 - iphone 5

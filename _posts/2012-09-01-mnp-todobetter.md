@@ -14,7 +14,7 @@ wordpress_id: 2425
 wordpress_url: http://kotalab.com/?p=2425
 date: '2012-09-01 11:26:42 +0900'
 date_gmt: '2012-09-01 02:26:42 +0900'
-categories:
+category:
 - iPhone・iPad・iPod
 tags:
 - Android

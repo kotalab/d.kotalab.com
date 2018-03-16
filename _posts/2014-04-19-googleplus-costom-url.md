@@ -14,7 +14,7 @@ wordpress_id: 12592
 wordpress_url: http://kotalab.com/?p=12592
 date: '2014-04-19 11:06:38 +0900'
 date_gmt: '2014-04-19 02:06:38 +0900'
-categories:
+category:
 - Google+
 tags:
 - URL変更

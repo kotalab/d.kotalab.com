@@ -14,7 +14,7 @@ wordpress_id: 4313
 wordpress_url: http://kotalab.com/?p=4313
 date: '2012-11-19 12:10:16 +0900'
 date_gmt: '2012-11-19 03:10:16 +0900'
-categories:
+category:
 - Mac
 tags:
 - Taskchute

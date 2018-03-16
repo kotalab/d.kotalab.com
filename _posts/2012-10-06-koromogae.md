@@ -14,7 +14,7 @@ wordpress_id: 3196
 wordpress_url: http://kotalab.com/?p=3196
 date: '2012-10-06 10:13:34 +0900'
 date_gmt: '2012-10-06 01:13:34 +0900'
-categories:
+category:
 - ストレスフリーな生き方
 tags:
 - Evernote

@@ -12,7 +12,7 @@ wordpress_id: 32
 wordpress_url: http://kotala.wordpress.com/?p=32
 date: '2012-05-13 16:07:41 +0900'
 date_gmt: '2012-05-13 07:07:41 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - Evernote

@@ -14,7 +14,7 @@ wordpress_id: 7959
 wordpress_url: http://kotalab.com/?p=7959
 date: '2013-08-05 19:00:04 +0900'
 date_gmt: '2013-08-05 10:00:04 +0900'
-categories:
+category:
 - 読書
 tags:
 - Book

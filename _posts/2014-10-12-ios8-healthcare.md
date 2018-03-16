@@ -14,7 +14,7 @@ wordpress_id: 13545
 wordpress_url: http://kotalab.com/?p=13545
 date: '2014-10-12 08:00:58 +0900'
 date_gmt: '2014-10-11 23:00:58 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - sleeptime

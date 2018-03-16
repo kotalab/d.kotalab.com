@@ -14,7 +14,7 @@ wordpress_id: 9939
 wordpress_url: http://kotalab.com/?p=9939
 date: '2013-10-16 11:49:02 +0900'
 date_gmt: '2013-10-16 02:49:02 +0900'
-categories:
+category:
 - iPadのある生活
 tags:
 - Evernote

@@ -14,7 +14,7 @@ wordpress_id: 4940
 wordpress_url: http://kotalab.com/?p=4940
 date: '2012-12-19 11:45:22 +0900'
 date_gmt: '2012-12-19 02:45:22 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - ポチレバ

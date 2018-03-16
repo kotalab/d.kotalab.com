@@ -14,7 +14,7 @@ wordpress_id: 4956
 wordpress_url: http://kotalab.com/?p=4956
 date: '2012-12-20 11:30:12 +0900'
 date_gmt: '2012-12-20 02:30:12 +0900'
-categories:
+category:
 - グルメ
 tags:
 - パスタ

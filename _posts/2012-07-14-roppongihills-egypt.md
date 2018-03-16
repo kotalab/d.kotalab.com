@@ -14,7 +14,7 @@ wordpress_id: 1400
 wordpress_url: http://kotalab.com/?p=1400
 date: '2012-07-14 12:01:17 +0900'
 date_gmt: '2012-07-14 03:01:17 +0900'
-categories:
+category:
 - おでかけ・散歩
 tags:
 - 展覧会

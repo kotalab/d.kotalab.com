@@ -14,7 +14,7 @@ wordpress_id: 13728
 wordpress_url: http://kotalab.com/?p=13728
 date: '2015-01-03 22:30:08 +0900'
 date_gmt: '2015-01-03 13:30:08 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - YKK AP

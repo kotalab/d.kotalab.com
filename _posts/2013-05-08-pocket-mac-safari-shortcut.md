@@ -14,7 +14,7 @@ wordpress_id: 7054
 wordpress_url: http://kotalab.com/?p=7054
 date: '2013-05-08 12:14:02 +0900'
 date_gmt: '2013-05-08 03:14:02 +0900'
-categories:
+category:
 - Pocketの使い方
 tags:
 - Safari

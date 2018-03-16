@@ -14,7 +14,7 @@ wordpress_id: 11322
 wordpress_url: http://kotalab.com/?p=11322
 date: '2014-04-02 07:02:07 +0900'
 date_gmt: '2014-04-01 22:02:07 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - モブログ

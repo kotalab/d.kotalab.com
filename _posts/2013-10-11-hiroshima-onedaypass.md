@@ -14,7 +14,7 @@ wordpress_id: 9884
 wordpress_url: http://kotalab.com/?p=9884
 date: '2013-10-11 10:04:50 +0900'
 date_gmt: '2013-10-11 01:04:50 +0900'
-categories:
+category:
 - 広島旅行
 tags:
 - 散歩

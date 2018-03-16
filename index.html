@@ -12,9 +12,9 @@ layout: default
             {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
             {{ page.date | date: date_format }}
           </time>
-          {% if page.author %}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-          {% endif %}</p>
+          {%- if page.category -%}
+            <a href="{{site.baseurl}}/categories/#{{ page.category|slugize }}">{{ page.category }}</a>
+          {%- endif -%}</p>
       </header>
 
       <div class="post-content" itemprop="articleBody">

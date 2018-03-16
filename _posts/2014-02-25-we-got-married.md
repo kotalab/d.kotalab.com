@@ -14,7 +14,7 @@ wordpress_id: 10977
 wordpress_url: http://kotalab.com/?p=10977
 date: '2014-02-25 07:56:59 +0900'
 date_gmt: '2014-02-24 22:56:59 +0900'
-categories:
+category:
 - お知らせ
 tags: []
 comments: []

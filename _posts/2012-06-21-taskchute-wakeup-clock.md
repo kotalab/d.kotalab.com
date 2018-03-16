@@ -14,7 +14,7 @@ wordpress_id: 863
 wordpress_url: http://kotalab.com/?p=863
 date: '2012-06-21 12:20:17 +0900'
 date_gmt: '2012-06-21 03:20:17 +0900'
-categories:
+category:
 - TaskChute
 tags:
 - カスタマイズ

@@ -14,7 +14,7 @@ wordpress_id: 3908
 wordpress_url: http://kotalab.com/?p=3908
 date: '2012-11-02 13:29:58 +0900'
 date_gmt: '2012-11-02 04:29:58 +0900'
-categories:
+category:
 - iPadニュース
 tags:
 - ヨドバシカメラ

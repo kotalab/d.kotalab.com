@@ -12,7 +12,7 @@ wordpress_id: 14722
 wordpress_url: http://kotalab.com/?p=14722
 date: '2015-07-06 08:00:15 +0900'
 date_gmt: '2015-07-05 23:00:15 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - タスク管理

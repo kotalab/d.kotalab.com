@@ -14,7 +14,7 @@ wordpress_id: 967
 wordpress_url: http://kotalab.com/?p=967
 date: '2012-06-24 13:06:02 +0900'
 date_gmt: '2012-06-24 04:06:02 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - amazon

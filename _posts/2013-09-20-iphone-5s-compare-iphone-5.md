@@ -14,7 +14,7 @@ wordpress_id: 9551
 wordpress_url: http://kotalab.com/?p=9551
 date: '2013-09-20 10:31:58 +0900'
 date_gmt: '2013-09-20 01:31:58 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - 銀座

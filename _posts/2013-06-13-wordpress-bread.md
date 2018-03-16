@@ -14,7 +14,7 @@ wordpress_id: 7449
 wordpress_url: http://kotalab.com/?p=7449
 date: '2013-06-13 21:35:14 +0900'
 date_gmt: '2013-06-13 12:35:14 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - パンくずリスト

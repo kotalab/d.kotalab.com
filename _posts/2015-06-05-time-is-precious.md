@@ -14,7 +14,7 @@ wordpress_id: 14533
 wordpress_url: http://kotalab.com/?p=14533
 date: '2015-06-05 07:36:24 +0900'
 date_gmt: '2015-06-04 22:36:24 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - MacBook Pro

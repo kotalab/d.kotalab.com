@@ -12,7 +12,7 @@ wordpress_id: 14726
 wordpress_url: http://kotalab.com/?p=14726
 date: '2015-07-07 07:31:56 +0900'
 date_gmt: '2015-07-06 22:31:56 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - お金の増やし方

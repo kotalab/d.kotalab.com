@@ -14,7 +14,7 @@ wordpress_id: 816
 wordpress_url: http://kotalab.com/?p=816
 date: '2012-06-19 17:26:26 +0900'
 date_gmt: '2012-06-19 08:26:26 +0900'
-categories:
+category:
 - タスク管理
 tags:
 - Taskchute

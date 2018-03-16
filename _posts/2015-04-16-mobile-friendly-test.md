@@ -14,7 +14,7 @@ wordpress_id: 14108
 wordpress_url: http://kotalab.com/?p=14108
 date: '2015-04-16 08:11:34 +0900'
 date_gmt: '2015-04-15 23:11:34 +0900'
-categories:
+category:
 - ブログ
 tags:
 - アップデート

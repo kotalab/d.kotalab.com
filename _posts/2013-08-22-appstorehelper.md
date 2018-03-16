@@ -14,7 +14,7 @@ wordpress_id: 8146
 wordpress_url: http://kotalab.com/?p=8146
 date: '2013-08-22 17:52:34 +0900'
 date_gmt: '2013-08-22 08:52:34 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - 使い方

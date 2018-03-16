@@ -14,7 +14,7 @@ wordpress_id: 12604
 wordpress_url: http://kotalab.com/?p=12604
 date: '2014-04-21 08:06:34 +0900'
 date_gmt: '2014-04-20 23:06:34 +0900'
-categories:
+category:
 - アプリクリエイター道場　開発塾
 tags:
 - 使い方

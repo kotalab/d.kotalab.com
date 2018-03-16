@@ -14,7 +14,7 @@ wordpress_id: 13566
 wordpress_url: http://kotalab.com/?p=13566
 date: '2014-10-25 13:28:15 +0900'
 date_gmt: '2014-10-25 04:28:15 +0900'
-categories:
+category:
 - アプリクリエイター道場　開発塾
 tags:
 - イベント

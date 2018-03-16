@@ -14,7 +14,7 @@ wordpress_id: 10819
 wordpress_url: http://kotalab.com/?p=10819
 date: '2014-02-12 08:18:00 +0900'
 date_gmt: '2014-02-11 23:18:00 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - 確定申告

@@ -14,7 +14,7 @@ wordpress_id: 9748
 wordpress_url: http://kotalab.com/?p=9748
 date: '2013-10-03 20:33:41 +0900'
 date_gmt: '2013-10-03 11:33:41 +0900'
-categories:
+category:
 - 洋食
 tags:
 - 飛行機

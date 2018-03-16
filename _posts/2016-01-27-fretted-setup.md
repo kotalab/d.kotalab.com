@@ -12,7 +12,7 @@ wordpress_id: 14989
 wordpress_url: http://kotalab.com/?p=14989
 date: '2016-01-27 07:39:30 +0900'
 date_gmt: '2016-01-26 22:39:30 +0900'
-categories:
+category:
 - MVNO・格安SIM
 tags:
 - ヨドバシカメラ

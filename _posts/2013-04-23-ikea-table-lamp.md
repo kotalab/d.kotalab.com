@@ -14,7 +14,7 @@ wordpress_id: 6900
 wordpress_url: http://kotalab.com/?p=6900
 date: '2013-04-23 12:28:10 +0900'
 date_gmt: '2013-04-23 03:28:10 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - IKEA

@@ -12,7 +12,7 @@ wordpress_id: 14938
 wordpress_url: http://kotalab.com/?p=14938
 date: '2015-12-09 08:38:03 +0900'
 date_gmt: '2015-12-08 23:38:03 +0900'
-categories:
+category:
 - とにかくやってみよう
 tags:
 - 習慣

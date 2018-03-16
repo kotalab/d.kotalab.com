@@ -12,7 +12,7 @@ wordpress_id: 14464
 wordpress_url: http://kotalab.com/?p=14464
 date: '2015-05-27 08:00:04 +0900'
 date_gmt: '2015-05-26 23:00:04 +0900'
-categories:
+category:
 - クロスバイク
 tags:
 - 町田

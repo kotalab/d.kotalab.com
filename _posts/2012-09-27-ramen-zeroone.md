@@ -14,7 +14,7 @@ wordpress_id: 2998
 wordpress_url: http://kotalab.com/?p=2998
 date: '2012-09-27 15:50:10 +0900'
 date_gmt: '2012-09-27 06:50:10 +0900'
-categories:
+category:
 - ラーメン
 tags:
 - 麺屋ZERO1

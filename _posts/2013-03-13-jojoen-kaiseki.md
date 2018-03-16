@@ -14,7 +14,7 @@ wordpress_id: 6489
 wordpress_url: http://kotalab.com/?p=6489
 date: '2013-03-13 22:31:18 +0900'
 date_gmt: '2013-03-13 13:31:18 +0900'
-categories:
+category:
 - グルメ
 tags:
 - 叙々苑

@@ -14,7 +14,7 @@ wordpress_id: 1947
 wordpress_url: http://kotalab.com/?p=1947
 date: '2012-08-07 12:20:33 +0900'
 date_gmt: '2012-08-07 03:20:33 +0900'
-categories:
+category:
 - webサービス
 tags:
 - Twitter

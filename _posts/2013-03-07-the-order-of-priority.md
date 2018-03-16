@@ -14,7 +14,7 @@ wordpress_id: 6426
 wordpress_url: http://kotalab.com/?p=6426
 date: '2013-03-07 04:31:54 +0900'
 date_gmt: '2013-03-06 19:31:54 +0900'
-categories:
+category:
 - 時間術
 tags:
 - 習慣

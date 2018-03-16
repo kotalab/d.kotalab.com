@@ -14,7 +14,7 @@ wordpress_id: 10729
 wordpress_url: http://kotalab.com/?p=10729
 date: '2014-02-02 09:59:34 +0900'
 date_gmt: '2014-02-02 00:59:34 +0900'
-categories:
+category:
 - 保険のこと
 tags:
 - 生命保険

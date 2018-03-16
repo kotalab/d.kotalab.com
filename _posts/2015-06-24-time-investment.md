@@ -12,7 +12,7 @@ wordpress_id: 14667
 wordpress_url: http://kotalab.com/?p=14667
 date: '2015-06-24 07:58:30 +0900'
 date_gmt: '2015-06-23 22:58:30 +0900'
-categories:
+category:
 - 時間術
 tags:
 - 本田直之

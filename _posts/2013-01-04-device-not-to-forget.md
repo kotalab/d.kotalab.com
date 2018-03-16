@@ -14,7 +14,7 @@ wordpress_id: 5355
 wordpress_url: http://kotalab.com/?p=5355
 date: '2013-01-04 12:28:50 +0900'
 date_gmt: '2013-01-04 03:28:50 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - iPhone

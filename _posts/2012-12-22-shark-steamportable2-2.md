@@ -14,7 +14,7 @@ wordpress_id: 5006
 wordpress_url: http://kotalab.com/?p=5006
 date: '2012-12-22 11:23:13 +0900'
 date_gmt: '2012-12-22 02:23:13 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - costco

@@ -14,7 +14,7 @@ wordpress_id: 3412
 wordpress_url: http://kotalab.com/?p=3412
 date: '2012-10-14 11:56:43 +0900'
 date_gmt: '2012-10-14 02:56:43 +0900'
-categories:
+category:
 - iPhoneグッズ
 tags:
 - iphone 5

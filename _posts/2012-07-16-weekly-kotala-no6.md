@@ -14,7 +14,7 @@ wordpress_id: 1518
 wordpress_url: http://kotalab.com/?p=1518
 date: '2012-07-16 14:50:39 +0900'
 date_gmt: '2012-07-16 05:50:39 +0900'
-categories:
+category:
 - kotala's Weekly
 tags:
 - iPhone

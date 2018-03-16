@@ -12,7 +12,7 @@ wordpress_id: 443
 wordpress_url: https://kotala.wordpress.com/?p=443
 date: '2012-05-28 11:26:39 +0900'
 date_gmt: '2012-05-28 02:26:39 +0900'
-categories:
+category:
 - webサービス
 tags:
 - Evernote

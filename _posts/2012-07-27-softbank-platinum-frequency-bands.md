@@ -14,7 +14,7 @@ wordpress_id: 1680
 wordpress_url: http://kotalab.com/?p=1680
 date: '2012-07-27 15:18:15 +0900'
 date_gmt: '2012-07-27 06:18:15 +0900'
-categories:
+category:
 - iPhone・iPad・iPod
 tags:
 - iPhone4S

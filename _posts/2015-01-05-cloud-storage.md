@@ -14,7 +14,7 @@ wordpress_id: 13751
 wordpress_url: http://kotalab.com/?p=13751
 date: '2015-01-05 22:45:54 +0900'
 date_gmt: '2015-01-05 13:45:54 +0900'
-categories:
+category:
 - webサービス
 tags:
 - Evernote

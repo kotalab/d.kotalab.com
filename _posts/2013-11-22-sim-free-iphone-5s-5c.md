@@ -14,7 +14,7 @@ wordpress_id: 10222
 wordpress_url: http://kotalab.com/?p=10222
 date: '2013-11-22 21:15:35 +0900'
 date_gmt: '2013-11-22 12:15:35 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - iPhone 5s

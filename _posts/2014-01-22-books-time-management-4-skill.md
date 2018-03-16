@@ -14,7 +14,7 @@ wordpress_id: 10621
 wordpress_url: http://kotalab.com/?p=10621
 date: '2014-01-22 05:48:35 +0900'
 date_gmt: '2014-01-21 20:48:35 +0900'
-categories:
+category:
 - タスク管理・仕事術の本
 tags:
 - 早起き

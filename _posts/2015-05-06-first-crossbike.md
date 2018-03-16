@@ -12,7 +12,7 @@ wordpress_id: 14276
 wordpress_url: http://kotalab.com/?p=14276
 date: '2015-05-06 11:05:19 +0900'
 date_gmt: '2015-05-06 02:05:19 +0900'
-categories:
+category:
 - クロスバイク
 tags:
 - 買った

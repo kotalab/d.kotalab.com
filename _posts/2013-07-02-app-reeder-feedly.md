@@ -14,7 +14,7 @@ wordpress_id: 7715
 wordpress_url: http://kotalab.com/?p=7715
 date: '2013-07-02 20:39:41 +0900'
 date_gmt: '2013-07-02 11:39:41 +0900'
-categories:
+category:
 - iPhoneアプリニュース
 tags:
 - Reeder

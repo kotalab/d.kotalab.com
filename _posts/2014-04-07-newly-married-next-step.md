@@ -14,7 +14,7 @@ wordpress_id: 12412
 wordpress_url: http://kotalab.com/?p=12412
 date: '2014-04-07 08:23:48 +0900'
 date_gmt: '2014-04-06 23:23:48 +0900'
-categories:
+category:
 - 家族のお金
 tags:
 - 準備

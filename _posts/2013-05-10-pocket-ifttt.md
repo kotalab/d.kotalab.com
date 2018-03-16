@@ -14,7 +14,7 @@ wordpress_id: 7084
 wordpress_url: http://kotalab.com/?p=7084
 date: '2013-05-10 13:12:25 +0900'
 date_gmt: '2013-05-10 04:12:25 +0900'
-categories:
+category:
 - Pocketの使い方
 tags:
 - IFTTT

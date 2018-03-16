@@ -14,7 +14,7 @@ wordpress_id: 2905
 wordpress_url: http://kotalab.com/?p=2905
 date: '2012-09-22 13:00:36 +0900'
 date_gmt: '2012-09-22 04:00:36 +0900'
-categories:
+category:
 - おでかけ・散歩
 tags:
 - 池上本門寺

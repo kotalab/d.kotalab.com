@@ -14,7 +14,7 @@ wordpress_id: 7232
 wordpress_url: http://kotalab.com/?p=7232
 date: '2013-05-24 19:00:47 +0900'
 date_gmt: '2013-05-24 10:00:47 +0900'
-categories:
+category:
 - カメラ
 tags:
 - photo

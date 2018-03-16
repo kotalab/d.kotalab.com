@@ -14,7 +14,7 @@ wordpress_id: 4482
 wordpress_url: http://kotalab.com/?p=4482
 date: '2012-12-01 12:07:02 +0900'
 date_gmt: '2012-12-01 03:07:02 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - WPtouch

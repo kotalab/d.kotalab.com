@@ -14,7 +14,7 @@ wordpress_id: 9930
 wordpress_url: http://kotalab.com/?p=9930
 date: '2013-10-15 09:55:44 +0900'
 date_gmt: '2013-10-15 00:55:44 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - 旅行

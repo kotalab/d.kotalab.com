@@ -14,7 +14,7 @@ wordpress_id: 1376
 wordpress_url: http://kotalab.com/?p=1376
 date: '2012-07-11 20:55:14 +0900'
 date_gmt: '2012-07-11 11:55:14 +0900'
-categories:
+category:
 - kotala's Weekly
 tags:
 - こたらの1週間

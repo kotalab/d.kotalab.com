@@ -14,7 +14,7 @@ wordpress_id: 6109
 wordpress_url: http://kotalab.com/?p=6109
 date: '2013-02-11 16:30:36 +0900'
 date_gmt: '2013-02-11 07:30:36 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - iPhone

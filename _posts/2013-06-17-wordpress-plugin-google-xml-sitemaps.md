@@ -14,7 +14,7 @@ wordpress_id: 7512
 wordpress_url: http://kotalab.com/?p=7512
 date: '2013-06-17 19:00:12 +0900'
 date_gmt: '2013-06-17 10:00:12 +0900'
-categories:
+category:
 - WordPressプラグインの使い方
 tags:
 - googleウェブマスターツール

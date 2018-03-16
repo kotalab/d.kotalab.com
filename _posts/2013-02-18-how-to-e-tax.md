@@ -14,7 +14,7 @@ wordpress_id: 6228
 wordpress_url: http://kotalab.com/?p=6228
 date: '2013-02-18 10:09:34 +0900'
 date_gmt: '2013-02-18 01:09:34 +0900'
-categories:
+category:
 - 貯金・節約
 tags:
 - 流れ

@@ -14,7 +14,7 @@ wordpress_id: 13678
 wordpress_url: http://kotalab.com/?p=13678
 date: '2014-12-28 11:01:16 +0900'
 date_gmt: '2014-12-28 02:01:16 +0900'
-categories:
+category:
 - お金関連の本
 tags:
 - 四角大輔

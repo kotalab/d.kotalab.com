@@ -12,7 +12,7 @@ wordpress_id: 530
 wordpress_url: https://kotala.wordpress.com/?p=530
 date: '2012-06-04 09:21:31 +0900'
 date_gmt: '2012-06-04 00:21:31 +0900'
-categories:
+category:
 - webサービス
 tags:
 - studynote

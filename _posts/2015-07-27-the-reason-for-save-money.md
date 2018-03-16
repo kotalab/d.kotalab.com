@@ -12,7 +12,7 @@ wordpress_id: 14792
 wordpress_url: http://kotalab.com/?p=14792
 date: '2015-07-27 07:33:19 +0900'
 date_gmt: '2015-07-26 22:33:19 +0900'
-categories:
+category:
 - 貯金・節約
 tags:
 - money

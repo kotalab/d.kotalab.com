@@ -14,7 +14,7 @@ wordpress_id: 6895
 wordpress_url: http://kotalab.com/?p=6895
 date: '2013-04-22 22:32:49 +0900'
 date_gmt: '2013-04-22 13:32:49 +0900'
-categories:
+category:
 - グルメ
 tags:
 - じゃがいも

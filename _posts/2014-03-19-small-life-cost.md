@@ -15,7 +15,7 @@ wordpress_id: 11190
 wordpress_url: http://kotalab.com/?p=11190
 date: '2014-03-19 08:44:06 +0900'
 date_gmt: '2014-03-18 23:44:06 +0900'
-categories:
+category:
 - 家族のお金
 tags:
 - 買い物

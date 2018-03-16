@@ -14,7 +14,7 @@ wordpress_id: 13637
 wordpress_url: http://kotalab.com/?p=13637
 date: '2014-11-30 08:48:44 +0900'
 date_gmt: '2014-11-29 23:48:44 +0900'
-categories:
+category:
 - 貯金・節約
 tags:
 - 振り返り

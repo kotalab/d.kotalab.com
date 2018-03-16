@@ -14,7 +14,7 @@ wordpress_id: 13321
 wordpress_url: http://kotalab.com/?p=13321
 date: '2014-07-11 07:48:01 +0900'
 date_gmt: '2014-07-10 22:48:01 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - Evernote

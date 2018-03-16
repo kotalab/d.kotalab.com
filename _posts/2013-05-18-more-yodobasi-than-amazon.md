@@ -14,7 +14,7 @@ wordpress_id: 7173
 wordpress_url: http://kotalab.com/?p=7173
 date: '2013-05-18 19:00:18 +0900'
 date_gmt: '2013-05-18 10:00:18 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - amazon

@@ -14,7 +14,7 @@ wordpress_id: 7099
 wordpress_url: http://kotalab.com/?p=7099
 date: '2013-05-11 19:00:45 +0900'
 date_gmt: '2013-05-11 10:00:45 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - 作った

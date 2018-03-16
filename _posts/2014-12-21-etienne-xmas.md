@@ -14,7 +14,7 @@ wordpress_id: 13646
 wordpress_url: http://kotalab.com/?p=13646
 date: '2014-12-21 20:00:57 +0900'
 date_gmt: '2014-12-21 11:00:57 +0900'
-categories:
+category:
 - スイーツ
 tags:
 - 新百合ケ丘

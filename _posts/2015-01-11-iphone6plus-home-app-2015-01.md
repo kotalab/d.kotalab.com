@@ -14,7 +14,7 @@ wordpress_id: 13798
 wordpress_url: http://kotalab.com/?p=13798
 date: '2015-01-11 21:02:23 +0900'
 date_gmt: '2015-01-11 12:02:23 +0900'
-categories:
+category:
 - iPhoneホーム画面
 tags:
 - Evernote

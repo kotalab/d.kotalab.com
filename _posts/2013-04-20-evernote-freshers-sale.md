@@ -14,7 +14,7 @@ wordpress_id: 6877
 wordpress_url: http://kotalab.com/?p=6877
 date: '2013-04-20 11:55:49 +0900'
 date_gmt: '2013-04-20 02:55:49 +0900'
-categories:
+category:
 - iPhoneアプリセール情報
 tags:
 - Evernote

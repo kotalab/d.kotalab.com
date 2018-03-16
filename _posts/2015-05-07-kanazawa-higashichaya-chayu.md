@@ -12,7 +12,7 @@ wordpress_id: 14290
 wordpress_url: http://kotalab.com/?p=14290
 date: '2015-05-07 08:00:55 +0900'
 date_gmt: '2015-05-06 23:00:55 +0900'
-categories:
+category:
 - 金沢旅行
 tags:
 - カフェ

@@ -14,7 +14,7 @@ wordpress_id: 7576
 wordpress_url: http://kotalab.com/?p=7576
 date: '2013-06-22 22:38:15 +0900'
 date_gmt: '2013-06-22 13:38:15 +0900'
-categories:
+category:
 - 中華料理
 tags:
 - ヒカリエ

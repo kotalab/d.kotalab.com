@@ -14,7 +14,7 @@ wordpress_id: 2185
 wordpress_url: http://kotalab.com/?p=2185
 date: '2012-08-19 10:50:08 +0900'
 date_gmt: '2012-08-19 01:50:08 +0900'
-categories:
+category:
 - 節約術
 tags:
 - amazon

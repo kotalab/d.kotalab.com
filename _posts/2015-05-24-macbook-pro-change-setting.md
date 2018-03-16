@@ -12,7 +12,7 @@ wordpress_id: 14432
 wordpress_url: http://kotalab.com/?p=14432
 date: '2015-05-24 11:56:36 +0900'
 date_gmt: '2015-05-24 02:56:36 +0900'
-categories:
+category:
 - Mac
 tags:
 - MacBook Pro

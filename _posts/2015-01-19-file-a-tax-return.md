@@ -14,7 +14,7 @@ wordpress_id: 13852
 wordpress_url: http://kotalab.com/?p=13852
 date: '2015-01-19 07:30:19 +0900'
 date_gmt: '2015-01-18 22:30:19 +0900'
-categories:
+category:
 - 確定申告
 tags:
 - 税金

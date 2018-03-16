@@ -14,7 +14,7 @@ wordpress_id: 10212
 wordpress_url: http://kotalab.com/?p=10212
 date: '2013-11-23 06:16:39 +0900'
 date_gmt: '2013-11-22 21:16:39 +0900'
-categories:
+category:
 - Mac
 tags:
 - アップルストア

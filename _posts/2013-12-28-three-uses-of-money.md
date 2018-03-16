@@ -14,7 +14,7 @@ wordpress_id: 10340
 wordpress_url: http://kotalab.com/?p=10340
 date: '2013-12-28 11:46:10 +0900'
 date_gmt: '2013-12-28 02:46:10 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - 健康

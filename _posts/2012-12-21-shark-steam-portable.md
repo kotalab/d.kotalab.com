@@ -14,7 +14,7 @@ wordpress_id: 4996
 wordpress_url: http://kotalab.com/?p=4996
 date: '2012-12-21 16:17:43 +0900'
 date_gmt: '2012-12-21 07:17:43 +0900'
-categories:
+category:
 - キャンペーン・お買い得情報
 tags:
 - costco

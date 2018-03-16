@@ -14,7 +14,7 @@ wordpress_id: 4987
 wordpress_url: http://kotalab.com/?p=4987
 date: '2012-12-21 11:44:26 +0900'
 date_gmt: '2012-12-21 02:44:26 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - プラグインなし

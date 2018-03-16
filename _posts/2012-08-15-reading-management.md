@@ -14,7 +14,7 @@ wordpress_id: 2127
 wordpress_url: http://kotalab.com/?p=2127
 date: '2012-08-15 12:41:23 +0900'
 date_gmt: '2012-08-15 03:41:23 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - BookEver

@@ -14,7 +14,7 @@ wordpress_id: 7340
 wordpress_url: http://kotalab.com/?p=7340
 date: '2013-05-31 19:00:00 +0900'
 date_gmt: '2013-05-31 10:00:00 +0900'
-categories:
+category:
 - グルメ情報
 tags:
 - サーティーワン

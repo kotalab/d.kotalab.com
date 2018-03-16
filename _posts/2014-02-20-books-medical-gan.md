@@ -14,7 +14,7 @@ wordpress_id: 10874
 wordpress_url: http://kotalab.com/?p=10874
 date: '2014-02-20 09:16:06 +0900'
 date_gmt: '2014-02-20 00:16:06 +0900'
-categories:
+category:
 - 健康関連の本
 tags:
 - 書評

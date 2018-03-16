@@ -14,7 +14,7 @@ wordpress_id: 14138
 wordpress_url: http://kotalab.com/?p=14138
 date: '2015-04-20 08:01:38 +0900'
 date_gmt: '2015-04-19 23:01:38 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - 集中力

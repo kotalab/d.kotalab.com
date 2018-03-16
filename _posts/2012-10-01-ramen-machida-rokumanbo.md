@@ -14,7 +14,7 @@ wordpress_id: 3073
 wordpress_url: http://kotalab.com/?p=3073
 date: '2012-10-01 13:03:40 +0900'
 date_gmt: '2012-10-01 04:03:40 +0900'
-categories:
+category:
 - ラーメン
 tags:
 - 町田

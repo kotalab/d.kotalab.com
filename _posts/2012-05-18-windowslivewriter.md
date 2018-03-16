@@ -12,7 +12,7 @@ wordpress_id: 250
 wordpress_url: https://kotala.wordpress.com/?p=250
 date: '2012-05-18 16:00:23 +0900'
 date_gmt: '2012-05-18 07:00:23 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - WindowsLiveWriter

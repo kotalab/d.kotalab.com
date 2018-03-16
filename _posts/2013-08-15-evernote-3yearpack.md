@@ -14,7 +14,7 @@ wordpress_id: 8038
 wordpress_url: http://kotalab.com/?p=8038
 date: '2013-08-15 20:27:23 +0900'
 date_gmt: '2013-08-15 11:27:23 +0900'
-categories:
+category:
 - キャンペーン・お買い得情報
 tags:
 - Evernote

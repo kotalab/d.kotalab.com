@@ -14,7 +14,7 @@ wordpress_id: 10838
 wordpress_url: http://kotalab.com/?p=10838
 date: '2014-02-16 13:40:10 +0900'
 date_gmt: '2014-02-16 04:40:10 +0900'
-categories:
+category:
 - 消費税
 tags:
 - MNP

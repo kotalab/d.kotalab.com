@@ -14,7 +14,7 @@ wordpress_id: 3079
 wordpress_url: http://kotalab.com/?p=3079
 date: '2012-10-02 10:50:08 +0900'
 date_gmt: '2012-10-02 01:50:08 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 習慣

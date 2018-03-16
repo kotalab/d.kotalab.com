@@ -14,7 +14,7 @@ wordpress_id: 13845
 wordpress_url: http://kotalab.com/?p=13845
 date: '2015-01-17 16:23:39 +0900'
 date_gmt: '2015-01-17 07:23:39 +0900'
-categories:
+category:
 - ブログの書き方
 tags: []
 comments: []

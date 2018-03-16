@@ -14,7 +14,7 @@ wordpress_id: 10639
 wordpress_url: http://kotalab.com/?p=10639
 date: '2014-01-24 05:56:14 +0900'
 date_gmt: '2014-01-23 20:56:14 +0900'
-categories:
+category:
 - お金関連の本
 tags:
 - 読んだ

@@ -14,7 +14,7 @@ wordpress_id: 8595
 wordpress_url: http://kotalab.com/?p=8595
 date: '2013-09-11 04:02:44 +0900'
 date_gmt: '2013-09-10 19:02:44 +0900'
-categories:
+category:
 - iPhoneニュース
 tags:
 - docomo

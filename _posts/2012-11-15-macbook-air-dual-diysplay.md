@@ -14,7 +14,7 @@ wordpress_id: 4230
 wordpress_url: http://kotalab.com/?p=4230
 date: '2012-11-15 12:07:49 +0900'
 date_gmt: '2012-11-15 03:07:49 +0900'
-categories:
+category:
 - Mac
 tags:
 - デュアルディスプレイ

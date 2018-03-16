@@ -14,7 +14,7 @@ wordpress_id: 3559
 wordpress_url: http://kotalab.com/?p=3559
 date: '2012-10-20 10:31:05 +0900'
 date_gmt: '2012-10-20 01:31:05 +0900'
-categories:
+category:
 - 洋食
 tags:
 - miil

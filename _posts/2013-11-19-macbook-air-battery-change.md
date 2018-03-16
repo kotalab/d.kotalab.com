@@ -14,7 +14,7 @@ wordpress_id: 10201
 wordpress_url: http://kotalab.com/?p=10201
 date: '2013-11-19 13:55:04 +0900'
 date_gmt: '2013-11-19 04:55:04 +0900'
-categories:
+category:
 - Mac
 tags:
 - 渋谷

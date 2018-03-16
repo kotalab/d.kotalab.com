@@ -14,7 +14,7 @@ wordpress_id: 6692
 wordpress_url: http://kotalab.com/?p=6692
 date: '2013-04-02 19:53:22 +0900'
 date_gmt: '2013-04-02 10:53:22 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - 習慣

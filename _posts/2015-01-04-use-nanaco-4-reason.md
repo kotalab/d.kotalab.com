@@ -14,7 +14,7 @@ wordpress_id: 13743
 wordpress_url: http://kotalab.com/?p=13743
 date: '2015-01-04 18:30:59 +0900'
 date_gmt: '2015-01-04 09:30:59 +0900'
-categories:
+category:
 - 節約術
 tags:
 - クレジットカード

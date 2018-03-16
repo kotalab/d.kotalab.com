@@ -12,7 +12,7 @@ wordpress_id: 14473
 wordpress_url: http://kotalab.com/?p=14473
 date: '2015-05-28 07:49:22 +0900'
 date_gmt: '2015-05-27 22:49:22 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 時間術

@@ -14,7 +14,7 @@ wordpress_id: 14096
 wordpress_url: http://kotalab.com/?p=14096
 date: '2015-04-13 08:07:01 +0900'
 date_gmt: '2015-04-12 23:07:01 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 睡眠の法則

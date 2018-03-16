@@ -14,7 +14,7 @@ wordpress_id: 4635
 wordpress_url: http://kotalab.com/?p=4635
 date: '2012-12-07 20:58:02 +0900'
 date_gmt: '2012-12-07 11:58:02 +0900'
-categories:
+category:
 - ブログ
 tags:
 - Twitter＠AnywherePlus

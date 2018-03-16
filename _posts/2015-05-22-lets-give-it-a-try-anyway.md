@@ -12,7 +12,7 @@ wordpress_id: 14409
 wordpress_url: http://kotalab.com/?p=14409
 date: '2015-05-22 20:13:41 +0900'
 date_gmt: '2015-05-22 11:13:41 +0900'
-categories:
+category:
 - ブログ
 tags:
 - やりたいこと

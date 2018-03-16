@@ -14,7 +14,7 @@ wordpress_id: 14103
 wordpress_url: http://kotalab.com/?p=14103
 date: '2015-04-15 08:09:49 +0900'
 date_gmt: '2015-04-14 23:09:49 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - 行動

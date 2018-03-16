@@ -14,7 +14,7 @@ wordpress_id: 3497
 wordpress_url: http://kotalab.com/?p=3497
 date: '2012-10-19 11:00:18 +0900'
 date_gmt: '2012-10-19 02:00:18 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags: []
 comments: []

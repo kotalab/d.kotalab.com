@@ -14,7 +14,7 @@ wordpress_id: 5767
 wordpress_url: http://kotalab.com/?p=5767
 date: '2013-01-18 10:21:24 +0900'
 date_gmt: '2013-01-18 01:21:24 +0900'
-categories:
+category:
 - イベント
 tags:
 - Due

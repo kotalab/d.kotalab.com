@@ -14,7 +14,7 @@ wordpress_id: 6975
 wordpress_url: http://kotalab.com/?p=6975
 date: '2013-05-03 19:55:19 +0900'
 date_gmt: '2013-05-03 10:55:19 +0900'
-categories:
+category:
 - Pocket
 tags:
 - Pocketパブリッシャーツール

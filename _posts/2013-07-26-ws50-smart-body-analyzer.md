@@ -14,7 +14,7 @@ wordpress_id: 7905
 wordpress_url: http://kotalab.com/?p=7905
 date: '2013-07-26 12:16:48 +0900'
 date_gmt: '2013-07-26 03:16:48 +0900'
-categories:
+category:
 - 美容・健康グッズ
 tags:
 - iPhoneアプリ

@@ -12,7 +12,7 @@ wordpress_id: 14577
 wordpress_url: http://kotalab.com/?p=14577
 date: '2015-06-09 20:58:15 +0900'
 date_gmt: '2015-06-09 11:58:15 +0900'
-categories:
+category:
 - とにかくやってみよう
 tags:
 - コンフォートゾーン

@@ -14,7 +14,7 @@ wordpress_id: 1696
 wordpress_url: http://kotalab.com/?p=1696
 date: '2012-07-28 12:18:21 +0900'
 date_gmt: '2012-07-28 03:18:21 +0900'
-categories:
+category:
 - タスク管理・仕事術の本
 tags:
 - 読んだ

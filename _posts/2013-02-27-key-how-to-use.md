@@ -14,7 +14,7 @@ wordpress_id: 6352
 wordpress_url: http://kotalab.com/?p=6352
 date: '2013-02-27 11:50:02 +0900'
 date_gmt: '2013-02-27 02:50:02 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 合鍵

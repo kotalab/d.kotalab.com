@@ -12,7 +12,7 @@ wordpress_id: 14492
 wordpress_url: http://kotalab.com/?p=14492
 date: '2015-05-31 11:06:38 +0900'
 date_gmt: '2015-05-31 02:06:38 +0900'
-categories:
+category:
 - iOSアプリ開発
 tags:
 - amazon

@@ -12,7 +12,7 @@ wordpress_id: 14601
 wordpress_url: http://kotalab.com/?p=14601
 date: '2015-06-15 08:34:33 +0900'
 date_gmt: '2015-06-14 23:34:33 +0900'
-categories:
+category:
 - とにかくやってみよう
 tags:
 - やりたいこと

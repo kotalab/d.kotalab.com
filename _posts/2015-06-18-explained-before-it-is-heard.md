@@ -12,7 +12,7 @@ wordpress_id: 14615
 wordpress_url: http://kotalab.com/?p=14615
 date: '2015-06-18 12:12:47 +0900'
 date_gmt: '2015-06-18 03:12:47 +0900'
-categories:
+category:
 - とにかくやってみよう
 tags:
 - 問題解決

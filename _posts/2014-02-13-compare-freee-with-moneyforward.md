@@ -15,7 +15,7 @@ wordpress_id: 10826
 wordpress_url: http://kotalab.com/?p=10826
 date: '2014-02-13 08:33:58 +0900'
 date_gmt: '2014-02-12 23:33:58 +0900'
-categories:
+category:
 - 貯金・節約
 tags:
 - 確定申告

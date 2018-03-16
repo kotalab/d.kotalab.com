@@ -14,7 +14,7 @@ wordpress_id: 13622
 wordpress_url: http://kotalab.com/?p=13622
 date: '2014-11-26 07:30:38 +0900'
 date_gmt: '2014-11-25 22:30:38 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - OneCam

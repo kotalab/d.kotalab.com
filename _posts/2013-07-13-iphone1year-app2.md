@@ -14,7 +14,7 @@ wordpress_id: 7831
 wordpress_url: http://kotalab.com/?p=7831
 date: '2013-07-13 20:17:37 +0900'
 date_gmt: '2013-07-13 11:17:37 +0900'
-categories:
+category:
 - iPhoneホーム画面
 tags:
 - iPhoneアプリ

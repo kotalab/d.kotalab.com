@@ -14,7 +14,7 @@ wordpress_id: 4568
 wordpress_url: http://kotalab.com/?p=4568
 date: '2012-12-06 20:19:46 +0900'
 date_gmt: '2012-12-06 11:19:46 +0900'
-categories:
+category:
 - 読書
 tags:
 - Evernote

@@ -14,7 +14,7 @@ wordpress_id: 6116
 wordpress_url: http://kotalab.com/?p=6116
 date: '2013-02-11 18:38:10 +0900'
 date_gmt: '2013-02-11 09:38:10 +0900'
-categories:
+category:
 - カフェ
 tags:
 - ドトール

@@ -14,7 +14,7 @@ wordpress_id: 13663
 wordpress_url: http://kotalab.com/?p=13663
 date: '2014-12-23 10:04:17 +0900'
 date_gmt: '2014-12-23 01:04:17 +0900'
-categories:
+category:
 - WordPressプラグインの使い方
 tags:
 - wordpress

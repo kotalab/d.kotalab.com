@@ -14,7 +14,7 @@ wordpress_id: 13328
 wordpress_url: http://kotalab.com/?p=13328
 date: '2014-11-11 07:00:18 +0900'
 date_gmt: '2014-11-10 22:00:18 +0900'
-categories:
+category:
 - 節約術
 tags:
 - 住信SBIネット銀行

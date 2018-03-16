@@ -14,7 +14,7 @@ wordpress_id: 2808
 wordpress_url: http://kotalab.com/?p=2808
 date: '2012-09-17 12:37:26 +0900'
 date_gmt: '2012-09-17 03:37:26 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - MacBook Air

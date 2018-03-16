@@ -14,7 +14,7 @@ wordpress_id: 7864
 wordpress_url: http://kotalab.com/?p=7864
 date: '2013-07-16 19:00:49 +0900'
 date_gmt: '2013-07-16 10:00:49 +0900'
-categories:
+category:
 - 節約術
 tags:
 - やりたいこと

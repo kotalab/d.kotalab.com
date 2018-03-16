@@ -14,7 +14,7 @@ wordpress_id: 5746
 wordpress_url: http://kotalab.com/?p=5746
 date: '2013-01-17 10:28:12 +0900'
 date_gmt: '2013-01-17 01:28:12 +0900'
-categories:
+category:
 - ラーメン
 tags:
 - 池袋

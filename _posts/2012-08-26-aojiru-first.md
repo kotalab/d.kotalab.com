@@ -14,7 +14,7 @@ wordpress_id: 2329
 wordpress_url: http://kotalab.com/?p=2329
 date: '2012-08-26 10:53:24 +0900'
 date_gmt: '2012-08-26 01:53:24 +0900'
-categories:
+category:
 - グルメ
 tags:
 - 飲んだ

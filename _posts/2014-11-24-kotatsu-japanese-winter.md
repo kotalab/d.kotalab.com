@@ -14,7 +14,7 @@ wordpress_id: 13604
 wordpress_url: http://kotalab.com/?p=13604
 date: '2014-11-24 10:30:43 +0900'
 date_gmt: '2014-11-24 01:30:43 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - こたつ

@@ -14,7 +14,7 @@ wordpress_id: 12545
 wordpress_url: http://kotalab.com/?p=12545
 date: '2014-04-15 07:36:13 +0900'
 date_gmt: '2014-04-14 22:36:13 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - 銀行

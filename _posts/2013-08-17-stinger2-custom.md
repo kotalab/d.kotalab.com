@@ -14,7 +14,7 @@ wordpress_id: 8056
 wordpress_url: http://kotalab.com/?p=8056
 date: '2013-08-17 20:00:56 +0900'
 date_gmt: '2013-08-17 11:00:56 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - stinger2

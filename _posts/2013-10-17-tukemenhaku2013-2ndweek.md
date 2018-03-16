@@ -14,7 +14,7 @@ wordpress_id: 9947
 wordpress_url: http://kotalab.com/?p=9947
 date: '2013-10-17 13:52:18 +0900'
 date_gmt: '2013-10-17 04:52:18 +0900'
-categories:
+category:
 - グルメ情報
 tags:
 - つけ麺

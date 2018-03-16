@@ -14,7 +14,7 @@ wordpress_id: 12610
 wordpress_url: http://kotalab.com/?p=12610
 date: '2014-04-22 07:24:39 +0900'
 date_gmt: '2014-04-21 22:24:39 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 早起き

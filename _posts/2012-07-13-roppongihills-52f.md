@@ -14,7 +14,7 @@ wordpress_id: 1389
 wordpress_url: http://kotalab.com/?p=1389
 date: '2012-07-13 09:46:38 +0900'
 date_gmt: '2012-07-13 00:46:38 +0900'
-categories:
+category:
 - おでかけ・散歩
 tags:
 - photo

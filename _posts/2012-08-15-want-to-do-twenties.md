@@ -14,7 +14,7 @@ wordpress_id: 2109
 wordpress_url: http://kotalab.com/?p=2109
 date: '2012-08-15 11:05:04 +0900'
 date_gmt: '2012-08-15 02:05:04 +0900'
-categories:
+category:
 - 生き方の本
 tags:
 - Evernote

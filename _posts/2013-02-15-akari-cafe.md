@@ -14,7 +14,7 @@ wordpress_id: 6178
 wordpress_url: http://kotalab.com/?p=6178
 date: '2013-02-15 10:35:38 +0900'
 date_gmt: '2013-02-15 01:35:38 +0900'
-categories:
+category:
 - カフェ
 tags:
 - 昭和記念公園

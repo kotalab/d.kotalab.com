@@ -14,7 +14,7 @@ wordpress_id: 671
 wordpress_url: http://kotalab.com/?p=671
 date: '2012-06-10 15:35:45 +0900'
 date_gmt: '2012-06-10 06:35:45 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - メガネ

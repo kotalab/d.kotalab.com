@@ -14,7 +14,7 @@ wordpress_id: 5785
 wordpress_url: http://kotalab.com/?p=5785
 date: '2013-01-19 15:17:46 +0900'
 date_gmt: '2013-01-19 06:17:46 +0900'
-categories:
+category:
 - 整理整頓・片づけの本
 tags:
 - 読んだ

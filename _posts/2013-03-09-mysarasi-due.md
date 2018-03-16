@@ -14,7 +14,7 @@ wordpress_id: 6440
 wordpress_url: http://kotalab.com/?p=6440
 date: '2013-03-09 18:36:48 +0900'
 date_gmt: '2013-03-09 09:36:48 +0900'
-categories:
+category:
 - ブログ企画
 tags:
 - Evernote

@@ -12,7 +12,7 @@ wordpress_id: 14387
 wordpress_url: http://kotalab.com/?p=14387
 date: '2015-05-18 07:55:21 +0900'
 date_gmt: '2015-05-17 22:55:21 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - iPhone

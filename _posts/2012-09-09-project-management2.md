@@ -14,7 +14,7 @@ wordpress_id: 2643
 wordpress_url: http://kotalab.com/?p=2643
 date: '2012-09-09 12:06:31 +0900'
 date_gmt: '2012-09-09 03:06:31 +0900'
-categories:
+category:
 - タスク管理
 tags:
 - プロジェクト管理

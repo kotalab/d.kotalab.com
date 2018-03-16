@@ -14,7 +14,7 @@ wordpress_id: 6721
 wordpress_url: http://kotalab.com/?p=6721
 date: '2013-04-04 16:11:45 +0900'
 date_gmt: '2013-04-04 07:11:45 +0900'
-categories:
+category:
 - iPadアプリニュース
 tags:
 - iPadアプリ

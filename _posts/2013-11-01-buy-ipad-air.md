@@ -14,7 +14,7 @@ wordpress_id: 10093
 wordpress_url: http://kotalab.com/?p=10093
 date: '2013-11-01 20:53:54 +0900'
 date_gmt: '2013-11-01 11:53:54 +0900'
-categories:
+category:
 - iPadのある生活
 tags:
 - 町田

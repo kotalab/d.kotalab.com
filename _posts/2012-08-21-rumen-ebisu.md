@@ -14,7 +14,7 @@ wordpress_id: 2219
 wordpress_url: http://kotalab.com/?p=2219
 date: '2012-08-21 15:05:09 +0900'
 date_gmt: '2012-08-21 06:05:09 +0900'
-categories:
+category:
 - ラーメン
 tags:
 - づゅる麺豚あじ恵比寿神社前

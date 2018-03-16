@@ -14,7 +14,7 @@ wordpress_id: 14133
 wordpress_url: http://kotalab.com/?p=14133
 date: '2015-04-19 14:48:51 +0900'
 date_gmt: '2015-04-19 05:48:51 +0900'
-categories:
+category:
 - 読書
 tags:
 - amazon

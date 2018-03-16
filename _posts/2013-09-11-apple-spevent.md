@@ -14,7 +14,7 @@ wordpress_id: 8592
 wordpress_url: http://kotalab.com/?p=8592
 date: '2013-09-11 03:31:00 +0900'
 date_gmt: '2013-09-10 18:31:00 +0900'
-categories:
+category:
 - iPhoneニュース
 tags:
 - SoftBank

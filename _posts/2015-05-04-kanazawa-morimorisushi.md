@@ -12,7 +12,7 @@ wordpress_id: 14254
 wordpress_url: http://kotalab.com/?p=14254
 date: '2015-05-04 09:03:27 +0900'
 date_gmt: '2015-05-04 00:03:27 +0900'
-categories:
+category:
 - 金沢旅行
 tags:
 - iPad

@@ -12,7 +12,7 @@ wordpress_id: 14335
 wordpress_url: http://kotalab.com/?p=14335
 date: '2015-05-11 07:52:56 +0900'
 date_gmt: '2015-05-10 22:52:56 +0900'
-categories:
+category:
 - ブログ
 tags:
 - ノマド

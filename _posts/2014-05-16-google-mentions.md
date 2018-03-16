@@ -14,7 +14,7 @@ wordpress_id: 13177
 wordpress_url: http://kotalab.com/?p=13177
 date: '2014-05-16 07:55:26 +0900'
 date_gmt: '2014-05-15 22:55:26 +0900'
-categories:
+category:
 - Google+
 tags:
 - 設定

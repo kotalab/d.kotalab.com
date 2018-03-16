@@ -14,7 +14,7 @@ wordpress_id: 10446
 wordpress_url: http://kotalab.com/?p=10446
 date: '2014-01-10 07:38:38 +0900'
 date_gmt: '2014-01-09 22:38:38 +0900'
-categories:
+category:
 - ラーメン
 tags:
 - 博多

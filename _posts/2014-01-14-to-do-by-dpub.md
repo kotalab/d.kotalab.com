@@ -14,7 +14,7 @@ wordpress_id: 10546
 wordpress_url: http://kotalab.com/?p=10546
 date: '2014-01-14 20:32:24 +0900'
 date_gmt: '2014-01-14 11:32:24 +0900'
-categories:
+category:
 - イベント
 tags:
 - 連続更新

@@ -14,7 +14,7 @@ wordpress_id: 10705
 wordpress_url: http://kotalab.com/?p=10705
 date: '2014-01-30 12:14:10 +0900'
 date_gmt: '2014-01-30 03:14:10 +0900'
-categories:
+category:
 - 保険のこと
 tags:
 - 健康

@@ -14,7 +14,7 @@ wordpress_id: 10770
 wordpress_url: http://kotalab.com/?p=10770
 date: '2014-02-07 08:35:20 +0900'
 date_gmt: '2014-02-06 23:35:20 +0900'
-categories:
+category:
 - 年金のこと
 tags:
 - ストレスフリー

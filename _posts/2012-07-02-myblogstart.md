@@ -14,7 +14,7 @@ wordpress_id: 1200
 wordpress_url: http://kotalab.com/?p=1200
 date: '2012-07-02 11:45:09 +0900'
 date_gmt: '2012-07-02 02:45:09 +0900'
-categories:
+category:
 - ブログ企画
 tags: []
 comments: []

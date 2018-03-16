@@ -14,7 +14,7 @@ wordpress_id: 6415
 wordpress_url: http://kotalab.com/?p=6415
 date: '2013-03-06 18:15:48 +0900'
 date_gmt: '2013-03-06 09:15:48 +0900'
-categories:
+category:
 - iPadアプリ
 tags:
 - amazon

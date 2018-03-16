@@ -14,7 +14,7 @@ wordpress_id: 13514
 wordpress_url: http://kotalab.com/?p=13514
 date: '2014-09-23 16:36:13 +0900'
 date_gmt: '2014-09-23 07:36:13 +0900'
-categories:
+category:
 - iOSアプリ開発
 tags:
 - Xcode

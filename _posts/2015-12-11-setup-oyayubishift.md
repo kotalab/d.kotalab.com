@@ -12,7 +12,7 @@ wordpress_id: 14951
 wordpress_url: http://kotalab.com/?p=14951
 date: '2015-12-11 08:26:40 +0900'
 date_gmt: '2015-12-10 23:26:40 +0900'
-categories:
+category:
 - とにかくやってみよう
 tags:
 - MacBook Pro

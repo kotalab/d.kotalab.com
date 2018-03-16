@@ -12,7 +12,7 @@ wordpress_id: 324
 wordpress_url: https://kotala.wordpress.com/?p=324
 date: '2012-05-20 10:18:20 +0900'
 date_gmt: '2012-05-20 01:18:20 +0900'
-categories:
+category:
 - タスク管理
 - 自分らしく生きる
 tags:

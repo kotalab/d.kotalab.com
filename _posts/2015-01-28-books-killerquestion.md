@@ -14,7 +14,7 @@ wordpress_id: 13903
 wordpress_url: http://kotalab.com/?p=13903
 date: '2015-01-28 07:00:17 +0900'
 date_gmt: '2015-01-27 22:00:17 +0900'
-categories:
+category:
 - 読書
 tags:
 - 書評

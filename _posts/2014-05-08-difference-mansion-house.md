@@ -14,7 +14,7 @@ wordpress_id: 13130
 wordpress_url: http://kotalab.com/?p=13130
 date: '2014-05-08 08:14:36 +0900'
 date_gmt: '2014-05-07 23:14:36 +0900'
-categories:
+category:
 - 家族のお金
 tags:
 - 比較

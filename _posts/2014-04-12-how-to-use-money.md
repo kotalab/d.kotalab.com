@@ -14,7 +14,7 @@ wordpress_id: 12519
 wordpress_url: http://kotalab.com/?p=12519
 date: '2014-04-12 08:14:15 +0900'
 date_gmt: '2014-04-11 23:14:15 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - 家計

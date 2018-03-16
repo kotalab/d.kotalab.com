@@ -12,7 +12,7 @@ wordpress_id: 14622
 wordpress_url: http://kotalab.com/?p=14622
 date: '2015-06-20 11:31:50 +0900'
 date_gmt: '2015-06-20 02:31:50 +0900'
-categories:
+category:
 - おでかけ・散歩
 tags:
 - NIKEiD

@@ -14,7 +14,7 @@ wordpress_id: 7389
 wordpress_url: http://kotalab.com/?p=7389
 date: '2013-06-07 19:00:54 +0900'
 date_gmt: '2013-06-07 10:00:54 +0900'
-categories:
+category:
 - Mac
 tags:
 - googleカレンダー

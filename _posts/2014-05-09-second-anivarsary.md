@@ -14,7 +14,7 @@ wordpress_id: 13134
 wordpress_url: http://kotalab.com/?p=13134
 date: '2014-05-09 08:40:30 +0900'
 date_gmt: '2014-05-08 23:40:30 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - ダイエット

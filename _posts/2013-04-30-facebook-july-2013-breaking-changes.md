@@ -14,7 +14,7 @@ wordpress_id: 6961
 wordpress_url: http://kotalab.com/?p=6961
 date: '2013-04-30 11:29:10 +0900'
 date_gmt: '2013-04-30 02:29:10 +0900'
-categories:
+category:
 - webサービス
 tags:
 - 設定

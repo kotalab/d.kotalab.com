@@ -14,7 +14,7 @@ wordpress_id: 1928
 wordpress_url: http://kotalab.com/?p=1928
 date: '2012-08-05 11:56:39 +0900'
 date_gmt: '2012-08-05 02:56:39 +0900'
-categories:
+category:
 - android
 tags:
 - 容量不足

@@ -14,7 +14,7 @@ wordpress_id: 6328
 wordpress_url: http://kotalab.com/?p=6328
 date: '2013-02-25 09:58:44 +0900'
 date_gmt: '2013-02-25 00:58:44 +0900'
-categories:
+category:
 - おでかけ・散歩
 tags:
 - 東京スカイツリー

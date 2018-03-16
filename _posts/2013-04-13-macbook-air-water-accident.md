@@ -14,7 +14,7 @@ wordpress_id: 6807
 wordpress_url: http://kotalab.com/?p=6807
 date: '2013-04-13 23:22:54 +0900'
 date_gmt: '2013-04-13 14:22:54 +0900'
-categories:
+category:
 - Mac
 tags:
 - MacBook Air

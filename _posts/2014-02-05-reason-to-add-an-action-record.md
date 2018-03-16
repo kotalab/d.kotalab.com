@@ -14,7 +14,7 @@ wordpress_id: 10758
 wordpress_url: http://kotalab.com/?p=10758
 date: '2014-02-05 06:30:12 +0900'
 date_gmt: '2014-02-04 21:30:12 +0900'
-categories:
+category:
 - 時間術
 tags:
 - Evernote

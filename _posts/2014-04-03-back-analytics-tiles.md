@@ -14,7 +14,7 @@ wordpress_id: 11343
 wordpress_url: http://kotalab.com/?p=11343
 date: '2014-04-03 19:44:08 +0900'
 date_gmt: '2014-04-03 10:44:08 +0900'
-categories:
+category:
 - iPhoneアプリ
 tags:
 - アップデート

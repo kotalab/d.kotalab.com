@@ -14,7 +14,7 @@ wordpress_id: 7436
 wordpress_url: http://kotalab.com/?p=7436
 date: '2013-06-12 20:20:48 +0900'
 date_gmt: '2013-06-12 11:20:48 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - やりたいこと

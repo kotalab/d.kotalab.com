@@ -14,7 +14,7 @@ wordpress_id: 10440
 wordpress_url: http://kotalab.com/?p=10440
 date: '2014-01-15 12:02:32 +0900'
 date_gmt: '2014-01-15 03:02:32 +0900'
-categories:
+category:
 - 和食
 tags:
 - 博多

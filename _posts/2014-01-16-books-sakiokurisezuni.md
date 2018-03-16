@@ -14,7 +14,7 @@ wordpress_id: 10575
 wordpress_url: http://kotalab.com/?p=10575
 date: '2014-01-16 12:44:05 +0900'
 date_gmt: '2014-01-16 03:44:05 +0900'
-categories:
+category:
 - タスク管理・仕事術の本
 tags:
 - 読んだ

@@ -12,7 +12,7 @@ wordpress_id: 513
 wordpress_url: https://kotala.wordpress.com/?p=513
 date: '2012-06-02 10:42:26 +0900'
 date_gmt: '2012-06-02 01:42:26 +0900'
-categories:
+category:
 - ストレスフリーな生き方
 tags:
 - Dropbox

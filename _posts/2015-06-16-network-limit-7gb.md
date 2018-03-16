@@ -12,7 +12,7 @@ wordpress_id: 14609
 wordpress_url: http://kotalab.com/?p=14609
 date: '2015-06-16 08:11:42 +0900'
 date_gmt: '2015-06-15 23:11:42 +0900'
-categories:
+category:
 - iPhone・iPad・iPod
 tags:
 - 見直し

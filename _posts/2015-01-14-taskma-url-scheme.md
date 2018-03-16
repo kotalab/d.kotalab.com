@@ -14,7 +14,7 @@ wordpress_id: 13815
 wordpress_url: http://kotalab.com/?p=13815
 date: '2015-01-14 12:57:06 +0900'
 date_gmt: '2015-01-14 03:57:06 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - Taskchute

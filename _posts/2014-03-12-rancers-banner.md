@@ -14,7 +14,7 @@ wordpress_id: 11118
 wordpress_url: http://kotalab.com/?p=11118
 date: '2014-03-12 12:34:03 +0900'
 date_gmt: '2014-03-12 03:34:03 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - ランサーズ

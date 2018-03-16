@@ -14,7 +14,7 @@ wordpress_id: 1782
 wordpress_url: http://kotalab.com/?p=1782
 date: '2012-08-01 16:47:35 +0900'
 date_gmt: '2012-08-01 07:47:35 +0900'
-categories:
+category:
 - ラーメン
 tags:
 - ラーメン

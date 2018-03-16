@@ -14,7 +14,7 @@ wordpress_id: 9973
 wordpress_url: http://kotalab.com/?p=9973
 date: '2013-10-19 12:09:01 +0900'
 date_gmt: '2013-10-19 03:09:01 +0900'
-categories:
+category:
 - iPhoneグッズ
 tags:
 - cheero

@@ -14,7 +14,7 @@ wordpress_id: 12634
 wordpress_url: http://kotalab.com/?p=12634
 date: '2014-04-25 08:15:01 +0900'
 date_gmt: '2014-04-24 23:15:01 +0900'
-categories:
+category:
 - 学校では教わらなかったお金の教養
 tags:
 - 健康保険

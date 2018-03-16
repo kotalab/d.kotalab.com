@@ -14,7 +14,7 @@ wordpress_id: 11195
 wordpress_url: http://kotalab.com/?p=11195
 date: '2014-03-20 08:33:15 +0900'
 date_gmt: '2014-03-19 23:33:15 +0900'
-categories:
+category:
 - アプリクリエイター道場　開発塾
 tags:
 - 自由大学

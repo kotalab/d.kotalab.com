@@ -14,7 +14,7 @@ wordpress_id: 14004
 wordpress_url: http://kotalab.com/?p=14004
 date: '2015-02-28 15:06:03 +0900'
 date_gmt: '2015-02-28 06:06:03 +0900'
-categories:
+category:
 - MVNO・格安SIM
 tags:
 - iPhone

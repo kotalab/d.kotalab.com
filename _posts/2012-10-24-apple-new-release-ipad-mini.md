@@ -14,7 +14,7 @@ wordpress_id: 3663
 wordpress_url: http://kotalab.com/?p=3663
 date: '2012-10-24 12:46:08 +0900'
 date_gmt: '2012-10-24 03:46:08 +0900'
-categories:
+category:
 - iPadのある生活
 tags:
 - するぷろ

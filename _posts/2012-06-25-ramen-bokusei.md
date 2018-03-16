@@ -14,7 +14,7 @@ wordpress_id: 993
 wordpress_url: http://kotalab.com/?p=993
 date: '2012-06-25 11:42:38 +0900'
 date_gmt: '2012-06-25 02:42:38 +0900'
-categories:
+category:
 - つけ麺
 tags:
 - 麺やぼくせい

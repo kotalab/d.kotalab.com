@@ -12,7 +12,7 @@ wordpress_id: 14699
 wordpress_url: http://kotalab.com/?p=14699
 date: '2015-06-29 07:46:54 +0900'
 date_gmt: '2015-06-28 22:46:54 +0900'
-categories:
+category:
 - とにかくやってみよう
 tags:
 - アプリ開発

@@ -14,7 +14,7 @@ wordpress_id: 7355
 wordpress_url: http://kotalab.com/?p=7355
 date: '2013-06-03 19:00:23 +0900'
 date_gmt: '2013-06-03 10:00:23 +0900'
-categories:
+category:
 - iPhoneアプリ
 tags:
 - google Analytics

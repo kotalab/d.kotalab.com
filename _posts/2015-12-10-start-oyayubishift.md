@@ -12,7 +12,7 @@ wordpress_id: 14936
 wordpress_url: http://kotalab.com/?p=14936
 date: '2015-12-10 07:57:09 +0900'
 date_gmt: '2015-12-09 22:57:09 +0900'
-categories:
+category:
 - とにかくやってみよう
 tags:
 - 親指シフト

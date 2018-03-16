@@ -14,7 +14,7 @@ wordpress_id: 3084
 wordpress_url: http://kotalab.com/?p=3084
 date: '2012-10-03 21:35:00 +0900'
 date_gmt: '2012-10-03 12:35:00 +0900'
-categories:
+category:
 - 健康関連の本
 tags:
 - 読んだ

@@ -14,7 +14,7 @@ wordpress_id: 5066
 wordpress_url: http://kotalab.com/?p=5066
 date: '2012-12-24 09:54:38 +0900'
 date_gmt: '2012-12-24 00:54:38 +0900'
-categories:
+category:
 - スイーツ
 tags:
 - costco

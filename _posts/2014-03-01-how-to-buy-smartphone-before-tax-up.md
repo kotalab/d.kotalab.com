@@ -14,7 +14,7 @@ wordpress_id: 11018
 wordpress_url: http://kotalab.com/?p=11018
 date: '2014-03-01 10:43:29 +0900'
 date_gmt: '2014-03-01 01:43:29 +0900'
-categories:
+category:
 - ケータイ・スマホ料金
 tags:
 - iPhone

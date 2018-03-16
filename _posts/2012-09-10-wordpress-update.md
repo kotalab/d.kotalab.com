@@ -14,7 +14,7 @@ wordpress_id: 2667
 wordpress_url: http://kotalab.com/?p=2667
 date: '2012-09-10 10:42:20 +0900'
 date_gmt: '2012-09-10 01:42:20 +0900'
-categories:
+category:
 - ブログ
 tags:
 - Dropbox

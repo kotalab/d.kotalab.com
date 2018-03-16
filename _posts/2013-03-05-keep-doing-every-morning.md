@@ -14,7 +14,7 @@ wordpress_id: 6410
 wordpress_url: http://kotalab.com/?p=6410
 date: '2013-03-05 11:22:48 +0900'
 date_gmt: '2013-03-05 02:22:48 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - Evernote

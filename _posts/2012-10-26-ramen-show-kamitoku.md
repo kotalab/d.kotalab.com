@@ -14,7 +14,7 @@ wordpress_id: 3733
 wordpress_url: http://kotalab.com/?p=3733
 date: '2012-10-26 18:39:29 +0900'
 date_gmt: '2012-10-26 09:39:29 +0900'
-categories:
+category:
 - ラーメン
 tags:
 - 東京ラーメンショー

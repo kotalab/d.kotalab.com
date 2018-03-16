@@ -14,7 +14,7 @@ wordpress_id: 6914
 wordpress_url: http://kotalab.com/?p=6914
 date: '2013-04-25 19:46:47 +0900'
 date_gmt: '2013-04-25 10:46:47 +0900'
-categories:
+category:
 - 節約術
 tags:
 - 使い方

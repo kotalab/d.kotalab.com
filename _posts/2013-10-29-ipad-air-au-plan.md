@@ -14,7 +14,7 @@ wordpress_id: 10057
 wordpress_url: http://kotalab.com/?p=10057
 date: '2013-10-29 17:40:37 +0900'
 date_gmt: '2013-10-29 08:40:37 +0900'
-categories:
+category:
 - iPadニュース
 tags:
 - au

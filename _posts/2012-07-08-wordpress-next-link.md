@@ -14,7 +14,7 @@ wordpress_id: 1313
 wordpress_url: http://kotalab.com/?p=1313
 date: '2012-07-08 12:26:46 +0900'
 date_gmt: '2012-07-08 03:26:46 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - 自動でリンク

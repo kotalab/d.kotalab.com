@@ -14,7 +14,7 @@ wordpress_id: 7873
 wordpress_url: http://kotalab.com/?p=7873
 date: '2013-07-17 19:00:06 +0900'
 date_gmt: '2013-07-17 10:00:06 +0900'
-categories:
+category:
 - 時間術
 tags:
 - Book

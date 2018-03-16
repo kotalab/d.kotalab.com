@@ -12,7 +12,7 @@ wordpress_id: 14748
 wordpress_url: http://kotalab.com/?p=14748
 date: '2015-07-14 07:41:23 +0900'
 date_gmt: '2015-07-13 22:41:23 +0900'
-categories:
+category:
 - 時間術
 tags:
 - やりたいこと

@@ -14,7 +14,7 @@ wordpress_id: 2521
 wordpress_url: http://kotalab.com/?p=2521
 date: '2012-09-06 10:23:56 +0900'
 date_gmt: '2012-09-06 01:23:56 +0900'
-categories:
+category:
 - ブログ
 tags:
 - ブロガー名刺

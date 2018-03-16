@@ -14,7 +14,7 @@ wordpress_id: 3053
 wordpress_url: http://kotalab.com/?p=3053
 date: '2012-10-01 10:10:02 +0900'
 date_gmt: '2012-10-01 01:10:02 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - google Analytics

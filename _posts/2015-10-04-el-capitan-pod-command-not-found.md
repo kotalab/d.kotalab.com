@@ -12,7 +12,7 @@ wordpress_id: 14918
 wordpress_url: http://kotalab.com/?p=14918
 date: '2015-10-04 12:30:10 +0900'
 date_gmt: '2015-10-04 03:30:10 +0900'
-categories:
+category:
 - iOSアプリ開発
 tags:
 - アップデート

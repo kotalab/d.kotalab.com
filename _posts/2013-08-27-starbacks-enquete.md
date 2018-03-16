@@ -14,7 +14,7 @@ wordpress_id: 8280
 wordpress_url: http://kotalab.com/?p=8280
 date: '2013-08-27 17:34:54 +0900'
 date_gmt: '2013-08-27 08:34:54 +0900'
-categories:
+category:
 - 読書
 tags:
 - スタバ

@@ -14,7 +14,7 @@ wordpress_id: 10044
 wordpress_url: http://kotalab.com/?p=10044
 date: '2013-10-27 20:10:12 +0900'
 date_gmt: '2013-10-27 11:10:12 +0900'
-categories:
+category:
 - キャンペーン・お買い得情報
 tags:
 - kindle

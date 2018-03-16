@@ -14,7 +14,7 @@ wordpress_id: 2477
 wordpress_url: http://kotalab.com/?p=2477
 date: '2012-09-04 12:09:14 +0900'
 date_gmt: '2012-09-04 03:09:14 +0900'
-categories:
+category:
 - ストレスフリーな生き方
 tags:
 - 食べる順番療法

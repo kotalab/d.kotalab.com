@@ -14,7 +14,7 @@ wordpress_id: 5531
 wordpress_url: http://kotalab.com/?p=5531
 date: '2013-01-06 10:34:45 +0900'
 date_gmt: '2013-01-06 01:34:45 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 買った

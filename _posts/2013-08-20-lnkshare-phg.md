@@ -14,7 +14,7 @@ wordpress_id: 8089
 wordpress_url: http://kotalab.com/?p=8089
 date: '2013-08-20 17:45:50 +0900'
 date_gmt: '2013-08-20 08:45:50 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - アフィリエイト

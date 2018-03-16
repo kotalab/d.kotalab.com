@@ -14,7 +14,7 @@ wordpress_id: 6150
 wordpress_url: http://kotalab.com/?p=6150
 date: '2013-02-14 04:18:00 +0900'
 date_gmt: '2013-02-13 19:18:00 +0900'
-categories:
+category:
 - iPadグッズ
 tags:
 - iPadmini

@@ -14,7 +14,7 @@ wordpress_id: 1650
 wordpress_url: http://kotalab.com/?p=1650
 date: '2012-07-25 09:39:57 +0900'
 date_gmt: '2012-07-25 00:39:57 +0900'
-categories:
+category:
 - ファストフード
 tags:
 - マクドナルド

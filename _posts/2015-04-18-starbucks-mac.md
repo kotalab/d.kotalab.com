@@ -14,7 +14,7 @@ wordpress_id: 14128
 wordpress_url: http://kotalab.com/?p=14128
 date: '2015-04-18 16:35:26 +0900'
 date_gmt: '2015-04-18 07:35:26 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - マクドナルド

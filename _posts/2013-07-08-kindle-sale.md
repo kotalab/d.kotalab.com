@@ -14,7 +14,7 @@ wordpress_id: 7776
 wordpress_url: http://kotalab.com/?p=7776
 date: '2013-07-08 19:00:09 +0900'
 date_gmt: '2013-07-08 10:00:09 +0900'
-categories:
+category:
 - キャンペーン・お買い得情報
 tags:
 - amazon

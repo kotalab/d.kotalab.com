@@ -12,7 +12,7 @@ wordpress_id: 107
 wordpress_url: http://kotala.wordpress.com/?p=107
 date: '2012-05-15 15:38:45 +0900'
 date_gmt: '2012-05-15 06:38:45 +0900'
-categories:
+category:
 - android
 tags:
 - iPhone

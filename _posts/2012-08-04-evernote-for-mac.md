@@ -14,7 +14,7 @@ wordpress_id: 1909
 wordpress_url: http://kotalab.com/?p=1909
 date: '2012-08-04 11:23:39 +0900'
 date_gmt: '2012-08-04 02:23:39 +0900'
-categories:
+category:
 - webサービス
 tags:
 - Evernote

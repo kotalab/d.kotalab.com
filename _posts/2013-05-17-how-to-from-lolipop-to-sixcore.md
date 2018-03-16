@@ -14,7 +14,7 @@ wordpress_id: 7166
 wordpress_url: http://kotalab.com/?p=7166
 date: '2013-05-17 19:23:40 +0900'
 date_gmt: '2013-05-17 10:23:40 +0900'
-categories:
+category:
 - ブログ
 tags:
 - 引越し

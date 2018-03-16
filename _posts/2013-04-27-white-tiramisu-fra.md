@@ -14,7 +14,7 @@ wordpress_id: 6929
 wordpress_url: http://kotalab.com/?p=6929
 date: '2013-04-27 10:45:16 +0900'
 date_gmt: '2013-04-27 01:45:16 +0900'
-categories:
+category:
 - グルメ
 - カフェ
 tags:

@@ -12,7 +12,7 @@ wordpress_id: 14561
 wordpress_url: http://kotalab.com/?p=14561
 date: '2015-06-08 08:26:28 +0900'
 date_gmt: '2015-06-07 23:26:28 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - やりたいこと

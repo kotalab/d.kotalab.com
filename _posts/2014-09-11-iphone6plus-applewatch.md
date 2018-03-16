@@ -14,7 +14,7 @@ wordpress_id: 13424
 wordpress_url: http://kotalab.com/?p=13424
 date: '2014-09-11 07:00:18 +0900'
 date_gmt: '2014-09-10 22:00:18 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - iPhone6Plus

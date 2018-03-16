@@ -14,7 +14,7 @@ wordpress_id: 13367
 wordpress_url: http://kotalab.com/?p=13367
 date: '2014-08-10 08:42:59 +0900'
 date_gmt: '2014-08-09 23:42:59 +0900'
-categories:
+category:
 - グルメ
 tags:
 - amazon

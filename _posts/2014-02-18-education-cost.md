@@ -14,7 +14,7 @@ wordpress_id: 10860
 wordpress_url: http://kotalab.com/?p=10860
 date: '2014-02-18 06:28:43 +0900'
 date_gmt: '2014-02-17 21:28:43 +0900'
-categories:
+category:
 - 家族のお金
 tags:
 - 教育費

@@ -14,7 +14,7 @@ wordpress_id: 9679
 wordpress_url: http://kotalab.com/?p=9679
 date: '2013-09-25 14:59:34 +0900'
 date_gmt: '2013-09-25 05:59:34 +0900'
-categories:
+category:
 - iPhoneニュース
 tags:
 - iOS7

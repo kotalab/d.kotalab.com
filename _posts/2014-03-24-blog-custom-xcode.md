@@ -14,7 +14,7 @@ wordpress_id: 11230
 wordpress_url: http://kotalab.com/?p=11230
 date: '2014-03-24 05:50:34 +0900'
 date_gmt: '2014-03-23 20:50:34 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - Xcode

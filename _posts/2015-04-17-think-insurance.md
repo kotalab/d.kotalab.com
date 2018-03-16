@@ -14,7 +14,7 @@ wordpress_id: 14122
 wordpress_url: http://kotalab.com/?p=14122
 date: '2015-04-17 08:08:55 +0900'
 date_gmt: '2015-04-16 23:08:55 +0900'
-categories:
+category:
 - 学校では教わらなかったお金の教養
 tags:
 - 考えよう

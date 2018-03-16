@@ -14,7 +14,7 @@ wordpress_id: 4489
 wordpress_url: http://kotalab.com/?p=4489
 date: '2012-12-01 13:37:27 +0900'
 date_gmt: '2012-12-01 04:37:27 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - iphone 5

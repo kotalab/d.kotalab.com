@@ -14,7 +14,7 @@ wordpress_id: 11194
 wordpress_url: http://kotalab.com/?p=11194
 date: '2014-03-21 09:49:55 +0900'
 date_gmt: '2014-03-21 00:49:55 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - Photoshop

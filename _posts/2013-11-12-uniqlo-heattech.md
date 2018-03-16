@@ -14,7 +14,7 @@ wordpress_id: 10144
 wordpress_url: http://kotalab.com/?p=10144
 date: '2013-11-12 09:22:54 +0900'
 date_gmt: '2013-11-12 00:22:54 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - ユニクロ

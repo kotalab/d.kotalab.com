@@ -14,7 +14,7 @@ wordpress_id: 10017
 wordpress_url: http://kotalab.com/?p=10017
 date: '2013-10-23 09:57:23 +0900'
 date_gmt: '2013-10-23 00:57:23 +0900'
-categories:
+category:
 - iPadニュース
 tags:
 - iPadmini

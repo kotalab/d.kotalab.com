@@ -14,7 +14,7 @@ wordpress_id: 13217
 wordpress_url: http://kotalab.com/?p=13217
 date: '2014-05-27 07:55:51 +0900'
 date_gmt: '2014-05-26 22:55:51 +0900'
-categories:
+category:
 - 貯金・節約
 tags:
 - 家計簿

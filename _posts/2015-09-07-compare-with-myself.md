@@ -12,7 +12,7 @@ wordpress_id: 14840
 wordpress_url: http://kotalab.com/?p=14840
 date: '2015-09-07 07:58:42 +0900'
 date_gmt: '2015-09-06 22:58:42 +0900'
-categories:
+category:
 - とにかくやってみよう
 tags:
 - 自由大学

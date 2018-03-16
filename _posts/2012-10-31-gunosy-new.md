@@ -14,7 +14,7 @@ wordpress_id: 3816
 wordpress_url: http://kotalab.com/?p=3816
 date: '2012-10-31 12:03:29 +0900'
 date_gmt: '2012-10-31 03:03:29 +0900'
-categories:
+category:
 - iPhoneアプリ
 tags:
 - Gunosy

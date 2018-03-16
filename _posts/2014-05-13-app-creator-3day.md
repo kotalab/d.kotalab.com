@@ -14,7 +14,7 @@ wordpress_id: 13153
 wordpress_url: http://kotalab.com/?p=13153
 date: '2014-05-13 07:37:03 +0900'
 date_gmt: '2014-05-12 22:37:03 +0900'
-categories:
+category:
 - アプリクリエイター道場　開発塾
 tags:
 - アプリ開発

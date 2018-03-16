@@ -14,7 +14,7 @@ wordpress_id: 12394
 wordpress_url: http://kotalab.com/?p=12394
 date: '2014-04-05 16:15:55 +0900'
 date_gmt: '2014-04-05 07:15:55 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - Google

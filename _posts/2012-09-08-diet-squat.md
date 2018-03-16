@@ -14,7 +14,7 @@ wordpress_id: 2638
 wordpress_url: http://kotalab.com/?p=2638
 date: '2012-09-08 09:56:02 +0900'
 date_gmt: '2012-09-08 00:56:02 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 筋トレ

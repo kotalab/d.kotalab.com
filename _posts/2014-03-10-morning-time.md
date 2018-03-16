@@ -14,7 +14,7 @@ wordpress_id: 11102
 wordpress_url: http://kotalab.com/?p=11102
 date: '2014-03-10 08:59:37 +0900'
 date_gmt: '2014-03-09 23:59:37 +0900'
-categories:
+category:
 - 時間術
 tags:
 - Taskchute

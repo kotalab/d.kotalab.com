@@ -14,7 +14,7 @@ wordpress_id: 13201
 wordpress_url: http://kotalab.com/?p=13201
 date: '2014-05-22 08:11:57 +0900'
 date_gmt: '2014-05-21 23:11:57 +0900'
-categories:
+category:
 - 貯金・節約
 tags:
 - 比較

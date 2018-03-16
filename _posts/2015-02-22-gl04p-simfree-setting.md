@@ -14,7 +14,7 @@ wordpress_id: 13974
 wordpress_url: http://kotalab.com/?p=13974
 date: '2015-02-22 11:00:23 +0900'
 date_gmt: '2015-02-22 02:00:23 +0900'
-categories:
+category:
 - MVNO・格安SIM
 tags:
 - GL04P

@@ -14,7 +14,7 @@ wordpress_id: 11175
 wordpress_url: http://kotalab.com/?p=11175
 date: '2014-03-17 07:21:36 +0900'
 date_gmt: '2014-03-16 22:21:36 +0900'
-categories:
+category:
 - 旅行
 tags:
 - 旅行

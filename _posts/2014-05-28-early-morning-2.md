@@ -14,7 +14,7 @@ wordpress_id: 13227
 wordpress_url: http://kotalab.com/?p=13227
 date: '2014-05-28 07:48:06 +0900'
 date_gmt: '2014-05-27 22:48:06 +0900'
-categories:
+category:
 - 時間術
 tags:
 - 早起き

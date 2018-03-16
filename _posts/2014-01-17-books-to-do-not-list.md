@@ -14,7 +14,7 @@ wordpress_id: 10584
 wordpress_url: http://kotalab.com/?p=10584
 date: '2014-01-17 07:26:04 +0900'
 date_gmt: '2014-01-16 22:26:04 +0900'
-categories:
+category:
 - タスク管理・仕事術の本
 tags:
 - やりたいこと

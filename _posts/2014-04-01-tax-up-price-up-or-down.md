@@ -14,7 +14,7 @@ wordpress_id: 11312
 wordpress_url: http://kotalab.com/?p=11312
 date: '2014-04-01 06:32:22 +0900'
 date_gmt: '2014-03-31 21:32:22 +0900'
-categories:
+category:
 - 消費税
 tags:
 - マクドナルド

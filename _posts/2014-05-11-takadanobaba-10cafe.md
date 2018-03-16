@@ -14,7 +14,7 @@ wordpress_id: 13124
 wordpress_url: http://kotalab.com/?p=13124
 date: '2014-05-11 09:29:36 +0900'
 date_gmt: '2014-05-11 00:29:36 +0900'
-categories:
+category:
 - カフェ
 tags:
 - 高田馬場

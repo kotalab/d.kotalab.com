@@ -14,7 +14,7 @@ wordpress_id: 2306
 wordpress_url: http://kotalab.com/?p=2306
 date: '2012-08-25 17:18:10 +0900'
 date_gmt: '2012-08-25 08:18:10 +0900'
-categories:
+category:
 - ブロガーの本
 tags:
 - 読んだ

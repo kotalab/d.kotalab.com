@@ -12,7 +12,7 @@ wordpress_id: 14207
 wordpress_url: http://kotalab.com/?p=14207
 date: '2015-04-29 13:11:50 +0900'
 date_gmt: '2015-04-29 04:11:50 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - 町田

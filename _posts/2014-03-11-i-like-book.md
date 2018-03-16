@@ -14,7 +14,7 @@ wordpress_id: 11109
 wordpress_url: http://kotalab.com/?p=11109
 date: '2014-03-11 08:41:18 +0900'
 date_gmt: '2014-03-10 23:41:18 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 読書

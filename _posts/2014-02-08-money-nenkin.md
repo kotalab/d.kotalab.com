@@ -14,7 +14,7 @@ wordpress_id: 10783
 wordpress_url: http://kotalab.com/?p=10783
 date: '2014-02-08 12:46:44 +0900'
 date_gmt: '2014-02-08 03:46:44 +0900'
-categories:
+category:
 - 年金のこと
 tags:
 - 年金

@@ -14,7 +14,7 @@ wordpress_id: 8078
 wordpress_url: http://kotalab.com/?p=8078
 date: '2013-08-19 11:37:23 +0900'
 date_gmt: '2013-08-19 02:37:23 +0900'
-categories:
+category:
 - ブログ
 tags:
 - 設定

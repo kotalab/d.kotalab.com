@@ -14,7 +14,7 @@ wordpress_id: 11217
 wordpress_url: http://kotalab.com/?p=11217
 date: '2014-03-22 15:43:17 +0900'
 date_gmt: '2014-03-22 06:43:17 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - テーマファイル

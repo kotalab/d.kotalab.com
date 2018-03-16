@@ -12,7 +12,7 @@ wordpress_id: 390
 wordpress_url: https://kotala.wordpress.com/?p=390
 date: '2012-05-24 10:28:52 +0900'
 date_gmt: '2012-05-24 01:28:52 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - グリーンカーテン

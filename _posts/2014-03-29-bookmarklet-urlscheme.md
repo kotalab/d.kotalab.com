@@ -14,7 +14,7 @@ wordpress_id: 11299
 wordpress_url: http://kotalab.com/?p=11299
 date: '2014-03-29 09:12:31 +0900'
 date_gmt: '2014-03-29 00:12:31 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - Twitter

@@ -12,7 +12,7 @@ wordpress_id: 14788
 wordpress_url: http://kotalab.com/?p=14788
 date: '2015-07-22 07:47:08 +0900'
 date_gmt: '2015-07-21 22:47:08 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - 早起き

@@ -14,7 +14,7 @@ wordpress_id: 8303
 wordpress_url: http://kotalab.com/?p=8303
 date: '2013-09-02 19:00:01 +0900'
 date_gmt: '2013-09-02 10:00:01 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 読んだ

@@ -14,7 +14,7 @@ wordpress_id: 13374
 wordpress_url: http://kotalab.com/?p=13374
 date: '2014-08-11 08:44:34 +0900'
 date_gmt: '2014-08-10 23:44:34 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - XバンドMPレーダー

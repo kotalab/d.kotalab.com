@@ -14,7 +14,7 @@ wordpress_id: 10993
 wordpress_url: http://kotalab.com/?p=10993
 date: '2014-02-27 07:37:39 +0900'
 date_gmt: '2014-02-26 22:37:39 +0900'
-categories:
+category:
 - 文房具
 tags:
 - ペンホルダー

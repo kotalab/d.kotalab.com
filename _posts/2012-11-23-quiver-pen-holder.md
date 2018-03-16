@@ -14,7 +14,7 @@ wordpress_id: 4364
 wordpress_url: http://kotalab.com/?p=4364
 date: '2012-11-23 11:01:27 +0900'
 date_gmt: '2012-11-23 02:01:27 +0900'
-categories:
+category:
 - ガジェット
 tags:
 - モレスキン

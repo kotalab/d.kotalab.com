@@ -14,7 +14,7 @@ wordpress_id: 13492
 wordpress_url: http://kotalab.com/?page_id=13492
 date: '2014-09-17 20:49:13 +0900'
 date_gmt: '2014-09-17 11:49:13 +0900'
-categories: []
+category: []
 tags: []
 comments: []
 ---

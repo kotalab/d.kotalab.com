@@ -14,7 +14,7 @@ wordpress_id: 5802
 wordpress_url: http://kotalab.com/?p=5802
 date: '2013-01-20 15:01:40 +0900'
 date_gmt: '2013-01-20 06:01:40 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - Taskchute

@@ -14,7 +14,7 @@ wordpress_id: 13289
 wordpress_url: http://kotalab.com/?p=13289
 date: '2014-06-30 06:50:28 +0900'
 date_gmt: '2014-06-29 21:50:28 +0900'
-categories:
+category:
 - ケータイ・スマホ料金
 tags:
 - SoftBank

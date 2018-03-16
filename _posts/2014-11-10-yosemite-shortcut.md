@@ -14,7 +14,7 @@ wordpress_id: 13578
 wordpress_url: http://kotalab.com/?p=13578
 date: '2014-11-10 07:00:51 +0900'
 date_gmt: '2014-11-09 22:00:51 +0900'
-categories:
+category:
 - Mac
 tags:
 - Safari

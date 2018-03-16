@@ -14,7 +14,7 @@ wordpress_id: 1504
 wordpress_url: http://kotalab.com/?p=1504
 date: '2012-07-15 12:50:57 +0900'
 date_gmt: '2012-07-15 03:50:57 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - Android

@@ -12,7 +12,7 @@ wordpress_id: 14741
 wordpress_url: http://kotalab.com/?p=14741
 date: '2015-07-10 08:04:06 +0900'
 date_gmt: '2015-07-09 23:04:06 +0900'
-categories:
+category:
 - タスク管理
 tags:
 - MacBook Pro

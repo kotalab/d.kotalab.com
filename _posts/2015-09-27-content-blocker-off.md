@@ -12,7 +12,7 @@ wordpress_id: 14895
 wordpress_url: http://kotalab.com/?p=14895
 date: '2015-09-27 08:00:17 +0900'
 date_gmt: '2015-09-26 23:00:17 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - Safari

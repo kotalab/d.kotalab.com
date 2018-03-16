@@ -14,7 +14,7 @@ wordpress_id: 13777
 wordpress_url: http://kotalab.com/?p=13777
 date: '2015-01-09 08:00:45 +0900'
 date_gmt: '2015-01-08 23:00:45 +0900'
-categories:
+category:
 - 読書
 tags:
 - 問題解決

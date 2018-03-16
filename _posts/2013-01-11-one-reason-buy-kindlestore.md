@@ -14,7 +14,7 @@ wordpress_id: 5604
 wordpress_url: http://kotalab.com/?p=5604
 date: '2013-01-11 10:34:11 +0900'
 date_gmt: '2013-01-11 01:34:11 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - iPadmini

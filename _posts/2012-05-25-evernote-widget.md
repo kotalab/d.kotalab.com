@@ -12,7 +12,7 @@ wordpress_id: 400
 wordpress_url: https://kotala.wordpress.com/?p=400
 date: '2012-05-25 10:24:39 +0900'
 date_gmt: '2012-05-25 01:24:39 +0900'
-categories:
+category:
 - android
 tags:
 - Evernote

@@ -14,7 +14,7 @@ wordpress_id: 6036
 wordpress_url: http://kotalab.com/?p=6036
 date: '2013-02-05 04:51:09 +0900'
 date_gmt: '2013-02-04 19:51:09 +0900'
-categories:
+category:
 - ストレスフリーな生き方
 tags:
 - 健康

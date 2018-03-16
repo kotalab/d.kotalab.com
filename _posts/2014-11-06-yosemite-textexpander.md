@@ -14,7 +14,7 @@ wordpress_id: 13568
 wordpress_url: http://kotalab.com/?p=13568
 date: '2014-11-06 07:44:54 +0900'
 date_gmt: '2014-11-05 22:44:54 +0900'
-categories:
+category:
 - Mac
 tags:
 - 設定

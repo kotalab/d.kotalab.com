@@ -12,7 +12,7 @@ wordpress_id: 14641
 wordpress_url: http://kotalab.com/?p=14641
 date: '2015-06-20 12:07:03 +0900'
 date_gmt: '2015-06-20 03:07:03 +0900'
-categories:
+category:
 - iPhoneアプリ
 tags:
 - WebNoteアップデート情報

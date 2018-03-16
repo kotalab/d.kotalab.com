@@ -14,7 +14,7 @@ wordpress_id: 9757
 wordpress_url: http://kotalab.com/?p=9757
 date: '2013-10-04 10:34:14 +0900'
 date_gmt: '2013-10-04 01:34:14 +0900'
-categories:
+category:
 - 広島旅行
 tags:
 - photo

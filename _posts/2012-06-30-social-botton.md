@@ -14,7 +14,7 @@ wordpress_id: 1125
 wordpress_url: http://kotalab.com/?p=1125
 date: '2012-06-30 10:34:49 +0900'
 date_gmt: '2012-06-30 01:34:49 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - シェアボタン

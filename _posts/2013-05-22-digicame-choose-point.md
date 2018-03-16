@@ -14,7 +14,7 @@ wordpress_id: 7220
 wordpress_url: http://kotalab.com/?p=7220
 date: '2013-05-22 19:00:59 +0900'
 date_gmt: '2013-05-22 10:00:59 +0900'
-categories:
+category:
 - カメラ
 tags:
 - nikon

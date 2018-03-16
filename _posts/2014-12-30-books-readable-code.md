@@ -14,7 +14,7 @@ wordpress_id: 13695
 wordpress_url: http://kotalab.com/?p=13695
 date: '2014-12-30 14:24:14 +0900'
 date_gmt: '2014-12-30 05:24:14 +0900'
-categories:
+category:
 - アプリ開発の本
 tags:
 - アプリ開発

@@ -12,7 +12,7 @@ wordpress_id: 14236
 wordpress_url: http://kotalab.com/?p=14236
 date: '2015-05-03 15:55:40 +0900'
 date_gmt: '2015-05-03 06:55:40 +0900'
-categories:
+category:
 - 金沢旅行
 tags:
 - 旅行

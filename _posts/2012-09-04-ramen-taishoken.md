@@ -14,7 +14,7 @@ wordpress_id: 2495
 wordpress_url: http://kotalab.com/?p=2495
 date: '2012-09-04 17:30:00 +0900'
 date_gmt: '2012-09-04 08:30:00 +0900'
-categories:
+category:
 - つけ麺
 tags:
 - 町田

@@ -14,7 +14,7 @@ wordpress_id: 1428
 wordpress_url: http://kotalab.com/?p=1428
 date: '2012-07-12 21:43:54 +0900'
 date_gmt: '2012-07-12 12:43:54 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - iPhone

@@ -14,7 +14,7 @@ wordpress_id: 7258
 wordpress_url: http://kotalab.com/?p=7258
 date: '2013-05-27 19:00:54 +0900'
 date_gmt: '2013-05-27 10:00:54 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - 開封

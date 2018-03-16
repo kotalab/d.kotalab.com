@@ -14,7 +14,7 @@ wordpress_id: 4975
 wordpress_url: http://kotalab.com/?p=4975
 date: '2012-12-21 09:42:52 +0900'
 date_gmt: '2012-12-21 00:42:52 +0900'
-categories:
+category:
 - iPadのある生活
 tags:
 - 比較

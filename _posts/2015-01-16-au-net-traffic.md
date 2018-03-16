@@ -14,7 +14,7 @@ wordpress_id: 13841
 wordpress_url: http://kotalab.com/?p=13841
 date: '2015-01-16 07:50:37 +0900'
 date_gmt: '2015-01-15 22:50:37 +0900'
-categories:
+category:
 - ケータイ・スマホ料金
 tags:
 - Android

@@ -14,7 +14,7 @@ wordpress_id: 7924
 wordpress_url: http://kotalab.com/?p=7924
 date: '2013-07-26 19:00:21 +0900'
 date_gmt: '2013-07-26 10:00:21 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 健康

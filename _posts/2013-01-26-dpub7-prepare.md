@@ -14,7 +14,7 @@ wordpress_id: 5901
 wordpress_url: http://kotalab.com/?p=5901
 date: '2013-01-26 05:10:58 +0900'
 date_gmt: '2013-01-25 20:10:58 +0900'
-categories:
+category:
 - ブログのある生活
 tags:
 - ブロガー名刺

@@ -14,7 +14,7 @@ wordpress_id: 6779
 wordpress_url: http://kotalab.com/?p=6779
 date: '2013-04-11 21:22:55 +0900'
 date_gmt: '2013-04-11 12:22:55 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - 本田直之

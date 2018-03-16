@@ -12,7 +12,7 @@ wordpress_id: 415
 wordpress_url: https://kotala.wordpress.com/?p=415
 date: '2012-05-26 08:56:25 +0900'
 date_gmt: '2012-05-25 23:56:25 +0900'
-categories:
+category:
 - お金関連の本
 tags: []
 comments: []

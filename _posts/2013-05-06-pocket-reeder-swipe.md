@@ -14,7 +14,7 @@ wordpress_id: 7018
 wordpress_url: http://kotalab.com/?p=7018
 date: '2013-05-06 12:13:35 +0900'
 date_gmt: '2013-05-06 03:13:35 +0900'
-categories:
+category:
 - Pocketの使い方
 tags:
 - iPhoneアプリ

@@ -12,7 +12,7 @@ wordpress_id: 14829
 wordpress_url: http://kotalab.com/?p=14829
 date: '2015-08-31 08:00:08 +0900'
 date_gmt: '2015-08-30 23:00:08 +0900'
-categories:
+category:
 - iOSアプリ開発
 tags:
 - Swift

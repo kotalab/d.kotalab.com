@@ -14,7 +14,7 @@ wordpress_id: 1257
 wordpress_url: http://kotalab.com/?p=1257
 date: '2012-07-05 05:12:09 +0900'
 date_gmt: '2012-07-04 20:12:09 +0900'
-categories:
+category:
 - 洋食
 tags:
 - フレンチ

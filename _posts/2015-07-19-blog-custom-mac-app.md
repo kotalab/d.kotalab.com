@@ -12,7 +12,7 @@ wordpress_id: 14781
 wordpress_url: http://kotalab.com/?p=14781
 date: '2015-07-19 12:41:14 +0900'
 date_gmt: '2015-07-19 03:41:14 +0900'
-categories:
+category:
 - ブログ
 tags:
 - iPhone

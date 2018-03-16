@@ -14,7 +14,7 @@ wordpress_id: 10441
 wordpress_url: http://kotalab.com/?p=10441
 date: '2014-01-09 07:12:43 +0900'
 date_gmt: '2014-01-08 22:12:43 +0900'
-categories:
+category:
 - 旅行
 tags:
 - LCC

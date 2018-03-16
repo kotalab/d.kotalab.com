@@ -12,7 +12,7 @@ wordpress_id: 14807
 wordpress_url: http://kotalab.com/?p=14807
 date: '2015-07-29 07:50:20 +0900'
 date_gmt: '2015-07-28 22:50:20 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - スマホ

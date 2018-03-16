@@ -14,7 +14,7 @@ wordpress_id: 782
 wordpress_url: http://kotalab.com/?p=782
 date: '2012-06-16 11:18:10 +0900'
 date_gmt: '2012-06-16 02:18:10 +0900'
-categories:
+category:
 - 手作り料理
 tags:
 - チャーハン

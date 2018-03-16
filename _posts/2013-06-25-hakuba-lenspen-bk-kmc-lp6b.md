@@ -14,7 +14,7 @@ wordpress_id: 7618
 wordpress_url: http://kotalab.com/?p=7618
 date: '2013-06-25 19:00:54 +0900'
 date_gmt: '2013-06-25 10:00:54 +0900'
-categories:
+category:
 - カメラグッズ
 tags:
 - 買った

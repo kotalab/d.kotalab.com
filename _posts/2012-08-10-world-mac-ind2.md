@@ -14,7 +14,7 @@ wordpress_id: 2026
 wordpress_url: http://kotalab.com/?p=2026
 date: '2012-08-10 14:05:41 +0900'
 date_gmt: '2012-08-10 05:05:41 +0900'
-categories:
+category:
 - グルメ
 tags:
 - マクドナルド

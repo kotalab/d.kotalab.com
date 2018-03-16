@@ -14,7 +14,7 @@ wordpress_id: 1368
 wordpress_url: http://kotalab.com/?p=1368
 date: '2012-07-11 05:27:32 +0900'
 date_gmt: '2012-07-10 20:27:32 +0900'
-categories:
+category:
 - カフェ
 tags:
 - 飲んだ

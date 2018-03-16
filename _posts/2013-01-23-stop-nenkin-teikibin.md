@@ -14,7 +14,7 @@ wordpress_id: 5848
 wordpress_url: http://kotalab.com/?p=5848
 date: '2013-01-23 12:49:38 +0900'
 date_gmt: '2013-01-23 03:49:38 +0900'
-categories:
+category:
 - 貯金・節約
 tags:
 - 年金

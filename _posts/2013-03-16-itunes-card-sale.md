@@ -14,7 +14,7 @@ wordpress_id: 6520
 wordpress_url: http://kotalab.com/?p=6520
 date: '2013-03-16 16:30:13 +0900'
 date_gmt: '2013-03-16 07:30:13 +0900'
-categories:
+category:
 - キャンペーン・お買い得情報
 tags:
 - SoftBank

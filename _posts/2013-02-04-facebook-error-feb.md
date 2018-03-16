@@ -14,7 +14,7 @@ wordpress_id: 6025
 wordpress_url: http://kotalab.com/?p=6025
 date: '2013-02-04 15:24:22 +0900'
 date_gmt: '2013-02-04 06:24:22 +0900'
-categories:
+category:
 - webサービス
 tags:
 - 設定

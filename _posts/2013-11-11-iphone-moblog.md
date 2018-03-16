@@ -14,7 +14,7 @@ wordpress_id: 10133
 wordpress_url: http://kotalab.com/?p=10133
 date: '2013-11-11 07:43:04 +0900'
 date_gmt: '2013-11-10 22:43:04 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - wordpress

@@ -14,7 +14,7 @@ wordpress_id: 7752
 wordpress_url: http://kotalab.com/?p=7752
 date: '2013-07-06 00:11:18 +0900'
 date_gmt: '2013-07-05 15:11:18 +0900'
-categories:
+category:
 - 節約術
 tags:
 - costco

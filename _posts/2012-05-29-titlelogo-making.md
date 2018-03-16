@@ -12,7 +12,7 @@ wordpress_id: 454
 wordpress_url: https://kotala.wordpress.com/?p=454
 date: '2012-05-29 12:39:45 +0900'
 date_gmt: '2012-05-29 03:39:45 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - Photoshop

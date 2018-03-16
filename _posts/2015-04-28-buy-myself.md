@@ -12,7 +12,7 @@ wordpress_id: 14198
 wordpress_url: http://kotalab.com/?p=14198
 date: '2015-04-28 08:06:10 +0900'
 date_gmt: '2015-04-27 23:06:10 +0900'
-categories:
+category:
 - 生き方の本
 tags:
 - 四角大輔

@@ -14,7 +14,7 @@ wordpress_id: 640
 wordpress_url: http://kotalab.com/?p=640
 date: '2012-06-09 06:08:52 +0900'
 date_gmt: '2012-06-08 21:08:52 +0900'
-categories:
+category:
 - 手作り料理
 tags:
 - costco

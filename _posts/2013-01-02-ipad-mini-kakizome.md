@@ -14,7 +14,7 @@ wordpress_id: 5179
 wordpress_url: http://kotalab.com/?p=5179
 date: '2013-01-02 17:38:03 +0900'
 date_gmt: '2013-01-02 08:38:03 +0900'
-categories:
+category:
 - iPadアプリ
 tags:
 - iPadmini

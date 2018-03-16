@@ -14,7 +14,7 @@ wordpress_id: 2092
 wordpress_url: http://kotalab.com/?p=2092
 date: '2012-08-14 22:12:00 +0900'
 date_gmt: '2012-08-14 13:12:00 +0900'
-categories:
+category:
 - iPhoneアプリニュース
 tags:
 - iPhoneアプリ

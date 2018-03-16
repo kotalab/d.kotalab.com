@@ -12,7 +12,7 @@ wordpress_id: 14359
 wordpress_url: http://kotalab.com/?p=14359
 date: '2015-05-14 07:53:55 +0900'
 date_gmt: '2015-05-13 22:53:55 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - Twitter

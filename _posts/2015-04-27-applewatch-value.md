@@ -14,7 +14,7 @@ wordpress_id: 14193
 wordpress_url: http://kotalab.com/?p=14193
 date: '2015-04-27 08:12:08 +0900'
 date_gmt: '2015-04-26 23:12:08 +0900'
-categories:
+category:
 - AppleWatch
 tags:
 - ヨドバシカメラ

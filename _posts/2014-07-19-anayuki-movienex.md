@@ -14,7 +14,7 @@ wordpress_id: 13334
 wordpress_url: http://kotalab.com/?p=13334
 date: '2014-07-19 11:07:07 +0900'
 date_gmt: '2014-07-19 02:07:07 +0900'
-categories:
+category:
 - iPhone・iPad・iPod
 tags:
 - スマホ

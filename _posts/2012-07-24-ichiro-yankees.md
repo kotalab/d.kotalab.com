@@ -14,7 +14,7 @@ wordpress_id: 1644
 wordpress_url: http://kotalab.com/?p=1644
 date: '2012-07-24 12:50:44 +0900'
 date_gmt: '2012-07-24 03:50:44 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - イチロー

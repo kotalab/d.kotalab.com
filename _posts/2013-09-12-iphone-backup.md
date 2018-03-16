@@ -14,7 +14,7 @@ wordpress_id: 9073
 wordpress_url: http://kotalab.com/?p=9073
 date: '2013-09-12 11:14:25 +0900'
 date_gmt: '2013-09-12 02:14:25 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - バックアップ

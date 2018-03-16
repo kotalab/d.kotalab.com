@@ -14,7 +14,7 @@ wordpress_id: 9722
 wordpress_url: http://kotalab.com/?p=9722
 date: '2013-09-29 12:27:27 +0900'
 date_gmt: '2013-09-29 03:27:27 +0900'
-categories:
+category:
 - Mac
 tags:
 - Macアプリ

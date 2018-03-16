@@ -14,7 +14,7 @@ wordpress_id: 7376
 wordpress_url: http://kotalab.com/?p=7376
 date: '2013-06-05 17:03:11 +0900'
 date_gmt: '2013-06-05 08:03:11 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - LTE

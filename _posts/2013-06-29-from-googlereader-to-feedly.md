@@ -14,7 +14,7 @@ wordpress_id: 7695
 wordpress_url: http://kotalab.com/?p=7695
 date: '2013-06-29 19:00:23 +0900'
 date_gmt: '2013-06-29 10:00:23 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - Reeder

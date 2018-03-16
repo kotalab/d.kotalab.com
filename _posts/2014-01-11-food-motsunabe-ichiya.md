@@ -14,7 +14,7 @@ wordpress_id: 10505
 wordpress_url: http://kotalab.com/?p=10505
 date: '2014-01-11 08:15:55 +0900'
 date_gmt: '2014-01-10 23:15:55 +0900'
-categories:
+category:
 - 和食
 tags:
 - 焼肉

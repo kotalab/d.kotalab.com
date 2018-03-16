@@ -14,7 +14,7 @@ wordpress_id: 8675
 wordpress_url: http://kotalab.com/?p=8675
 date: '2013-09-11 15:01:21 +0900'
 date_gmt: '2013-09-11 06:01:21 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - SoftBank

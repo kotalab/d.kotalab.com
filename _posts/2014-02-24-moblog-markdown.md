@@ -14,7 +14,7 @@ wordpress_id: 10973
 wordpress_url: http://kotalab.com/?p=10973
 date: '2014-02-24 08:22:55 +0900'
 date_gmt: '2014-02-23 23:22:55 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - するぷろ

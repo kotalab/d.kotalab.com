@@ -12,7 +12,7 @@ wordpress_id: 501
 wordpress_url: https://kotala.wordpress.com/?p=501
 date: '2012-06-01 10:46:04 +0900'
 date_gmt: '2012-06-01 01:46:04 +0900'
-categories:
+category:
 - 映画
 tags:
 - ジョニーデップ

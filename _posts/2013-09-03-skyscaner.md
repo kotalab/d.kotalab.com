@@ -14,7 +14,7 @@ wordpress_id: 8314
 wordpress_url: http://kotalab.com/?p=8314
 date: '2013-09-03 22:23:59 +0900'
 date_gmt: '2013-09-03 13:23:59 +0900'
-categories:
+category:
 - iPhoneのある生活
 tags:
 - iPhoneアプリ

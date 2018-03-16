@@ -14,7 +14,7 @@ wordpress_id: 6544
 wordpress_url: http://kotalab.com/?p=6544
 date: '2013-03-19 22:32:51 +0900'
 date_gmt: '2013-03-19 13:32:51 +0900'
-categories:
+category:
 - ブログ
 tags:
 - Twitter

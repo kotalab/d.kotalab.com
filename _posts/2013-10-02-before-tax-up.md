@@ -14,7 +14,7 @@ wordpress_id: 9741
 wordpress_url: http://kotalab.com/?p=9741
 date: '2013-10-02 13:00:18 +0900'
 date_gmt: '2013-10-02 04:00:18 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - 消費税

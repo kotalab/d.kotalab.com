@@ -14,7 +14,7 @@ wordpress_id: 12563
 wordpress_url: http://kotalab.com/?p=12563
 date: '2014-04-16 07:53:02 +0900'
 date_gmt: '2014-04-15 22:53:02 +0900'
-categories:
+category:
 - ブログの書き方
 tags:
 - アイコン

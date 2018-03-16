@@ -12,7 +12,7 @@ wordpress_id: 468
 wordpress_url: https://kotala.wordpress.com/?p=468
 date: '2012-05-30 10:35:27 +0900'
 date_gmt: '2012-05-30 01:35:27 +0900'
-categories:
+category:
 - 手作り料理
 tags:
 - costco

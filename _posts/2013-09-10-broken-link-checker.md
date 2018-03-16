@@ -14,7 +14,7 @@ wordpress_id: 8583
 wordpress_url: http://kotalab.com/?p=8583
 date: '2013-09-10 22:34:09 +0900'
 date_gmt: '2013-09-10 13:34:09 +0900'
-categories:
+category:
 - WordPressプラグインの使い方
 tags:
 - BrokenLinkChecker

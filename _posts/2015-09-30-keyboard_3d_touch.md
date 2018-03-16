@@ -12,7 +12,7 @@ wordpress_id: 14902
 wordpress_url: http://kotalab.com/?p=14902
 date: '2015-09-30 08:00:58 +0900'
 date_gmt: '2015-09-29 23:00:58 +0900'
-categories:
+category:
 - iPhoneの使い方
 tags:
 - iOS9

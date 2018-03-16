@@ -14,7 +14,7 @@ wordpress_id: 7473
 wordpress_url: http://kotalab.com/?p=7473
 date: '2013-06-14 19:00:15 +0900'
 date_gmt: '2013-06-14 10:00:15 +0900'
-categories:
+category:
 - WordPressプラグインの使い方
 tags:
 - ps-auto-sitemap

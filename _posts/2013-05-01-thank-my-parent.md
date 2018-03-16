@@ -14,7 +14,7 @@ wordpress_id: 6969
 wordpress_url: http://kotalab.com/?p=6969
 date: '2013-05-01 15:36:56 +0900'
 date_gmt: '2013-05-01 06:36:56 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - 誕生日

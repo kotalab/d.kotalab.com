@@ -14,7 +14,7 @@ wordpress_id: 5568
 wordpress_url: http://kotalab.com/?p=5568
 date: '2013-01-08 11:29:01 +0900'
 date_gmt: '2013-01-08 02:29:01 +0900'
-categories:
+category:
 - iPadの使い方
 tags:
 - 設定

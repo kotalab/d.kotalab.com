@@ -14,7 +14,7 @@ wordpress_id: 13705
 wordpress_url: http://kotalab.com/?p=13705
 date: '2014-12-31 11:33:47 +0900'
 date_gmt: '2014-12-31 02:33:47 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - wordpress

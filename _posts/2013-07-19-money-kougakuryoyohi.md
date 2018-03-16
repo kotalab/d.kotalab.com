@@ -14,7 +14,7 @@ wordpress_id: 7881
 wordpress_url: http://kotalab.com/?p=7881
 date: '2013-07-19 20:56:05 +0900'
 date_gmt: '2013-07-19 11:56:05 +0900'
-categories:
+category:
 - お金の使い方
 tags:
 - money

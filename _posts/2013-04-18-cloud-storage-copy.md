@@ -14,7 +14,7 @@ wordpress_id: 6860
 wordpress_url: http://kotalab.com/?p=6860
 date: '2013-04-18 11:45:20 +0900'
 date_gmt: '2013-04-18 02:45:20 +0900'
-categories:
+category:
 - webサービス
 tags:
 - Dropbox

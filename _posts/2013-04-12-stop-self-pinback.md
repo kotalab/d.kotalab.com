@@ -14,7 +14,7 @@ wordpress_id: 6787
 wordpress_url: http://kotalab.com/?p=6787
 date: '2013-04-12 18:41:33 +0900'
 date_gmt: '2013-04-12 09:41:33 +0900'
-categories:
+category:
 - WordPressプラグインの使い方
 tags:
 - WP Total Hacks

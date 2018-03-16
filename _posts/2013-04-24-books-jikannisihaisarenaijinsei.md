@@ -14,7 +14,7 @@ wordpress_id: 6909
 wordpress_url: http://kotalab.com/?p=6909
 date: '2013-04-24 13:21:34 +0900'
 date_gmt: '2013-04-24 04:21:34 +0900'
-categories:
+category:
 - 生き方の本
 tags:
 - ジョン・キム

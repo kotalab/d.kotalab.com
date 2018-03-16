@@ -12,7 +12,7 @@ wordpress_id: 14800
 wordpress_url: http://kotalab.com/?p=14800
 date: '2015-07-28 07:40:10 +0900'
 date_gmt: '2015-07-27 22:40:10 +0900'
-categories:
+category:
 - カフェ
 tags:
 - 豊洲

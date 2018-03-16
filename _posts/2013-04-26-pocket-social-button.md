@@ -14,7 +14,7 @@ wordpress_id: 6920
 wordpress_url: http://kotalab.com/?p=6920
 date: '2013-04-26 20:25:24 +0900'
 date_gmt: '2013-04-26 11:25:24 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - 設定

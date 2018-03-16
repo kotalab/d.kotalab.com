@@ -14,7 +14,7 @@ wordpress_id: 2153
 wordpress_url: http://kotalab.com/?p=2153
 date: '2012-08-16 10:15:11 +0900'
 date_gmt: '2012-08-16 01:15:11 +0900'
-categories:
+category:
 - キャンペーン・お買い得情報
 tags: []
 comments: []

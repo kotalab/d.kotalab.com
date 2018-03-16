@@ -14,7 +14,7 @@ wordpress_id: 2004
 wordpress_url: http://kotalab.com/?p=2004
 date: '2012-08-09 10:39:13 +0900'
 date_gmt: '2012-08-09 01:39:13 +0900'
-categories:
+category:
 - WordPressカスタマイズ
 tags:
 - ポチレバ

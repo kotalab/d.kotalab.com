@@ -14,7 +14,7 @@ wordpress_id: 4430
 wordpress_url: http://kotalab.com/?p=4430
 date: '2012-11-29 15:33:29 +0900'
 date_gmt: '2012-11-29 06:33:29 +0900'
-categories:
+category:
 - ストレスフリーな本
 tags:
 - 読んだ

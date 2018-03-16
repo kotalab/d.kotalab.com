@@ -14,7 +14,7 @@ wordpress_id: 9959
 wordpress_url: http://kotalab.com/?p=9959
 date: '2013-10-18 21:29:13 +0900'
 date_gmt: '2013-10-18 12:29:13 +0900'
-categories:
+category:
 - グルメ情報
 tags:
 - Android

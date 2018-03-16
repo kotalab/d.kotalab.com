@@ -14,7 +14,7 @@ wordpress_id: 3762
 wordpress_url: http://kotalab.com/?p=3762
 date: '2012-10-27 13:36:14 +0900'
 date_gmt: '2012-10-27 04:36:14 +0900'
-categories:
+category:
 - おでかけ・散歩
 tags:
 - するぷろ

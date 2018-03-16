@@ -14,7 +14,7 @@ wordpress_id: 1707
 wordpress_url: http://kotalab.com/?p=1707
 date: '2012-07-29 10:35:31 +0900'
 date_gmt: '2012-07-29 01:35:31 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 熱中症対策

@@ -14,7 +14,7 @@ wordpress_id: 5543
 wordpress_url: http://kotalab.com/?p=5543
 date: '2013-01-06 12:45:33 +0900'
 date_gmt: '2013-01-06 03:45:33 +0900'
-categories:
+category:
 - ブログ企画
 tags:
 - odaimoku.com

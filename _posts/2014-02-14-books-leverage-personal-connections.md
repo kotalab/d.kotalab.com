@@ -14,7 +14,7 @@ wordpress_id: 10831
 wordpress_url: http://kotalab.com/?p=10831
 date: '2014-02-14 08:35:48 +0900'
 date_gmt: '2014-02-13 23:35:48 +0900'
-categories:
+category:
 - 読書
 tags:
 - 読んだ

@@ -14,7 +14,7 @@ wordpress_id: 10371
 wordpress_url: http://kotalab.com/?p=10371
 date: '2014-01-03 11:45:59 +0900'
 date_gmt: '2014-01-03 02:45:59 +0900'
-categories:
+category:
 - タスク管理
 tags:
 - タスク管理

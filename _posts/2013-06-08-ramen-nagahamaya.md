@@ -14,7 +14,7 @@ wordpress_id: 7398
 wordpress_url: http://kotalab.com/?p=7398
 date: '2013-06-08 19:00:17 +0900'
 date_gmt: '2013-06-08 10:00:17 +0900'
-categories:
+category:
 - ラーメン
 tags:
 - 府中

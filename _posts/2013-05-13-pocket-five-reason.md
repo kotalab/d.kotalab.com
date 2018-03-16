@@ -14,7 +14,7 @@ wordpress_id: 7119
 wordpress_url: http://kotalab.com/?p=7119
 date: '2013-05-13 19:00:16 +0900'
 date_gmt: '2013-05-13 10:00:16 +0900'
-categories:
+category:
 - Pocket
 tags:
 - 習慣

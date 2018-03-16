@@ -14,7 +14,7 @@ wordpress_id: 2787
 wordpress_url: http://kotalab.com/?p=2787
 date: '2012-09-17 10:20:22 +0900'
 date_gmt: '2012-09-17 01:20:22 +0900'
-categories:
+category:
 - Mac
 tags:
 - 買った

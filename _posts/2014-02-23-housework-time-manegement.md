@@ -14,7 +14,7 @@ wordpress_id: 10955
 wordpress_url: http://kotalab.com/?p=10955
 date: '2014-02-23 09:46:07 +0900'
 date_gmt: '2014-02-23 00:46:07 +0900'
-categories:
+category:
 - 時間術
 tags:
 - やりたいこと

@@ -14,7 +14,7 @@ wordpress_id: 6822
 wordpress_url: http://kotalab.com/?p=6822
 date: '2013-04-15 11:41:46 +0900'
 date_gmt: '2013-04-15 02:41:46 +0900'
-categories:
+category:
 - Mac
 tags:
 - バックアップ

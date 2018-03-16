@@ -14,7 +14,7 @@ wordpress_id: 13766
 wordpress_url: http://kotalab.com/?p=13766
 date: '2015-01-07 07:30:48 +0900'
 date_gmt: '2015-01-06 22:30:48 +0900'
-categories:
+category:
 - Mac
 tags:
 - ショートカット

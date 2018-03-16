@@ -14,7 +14,7 @@ wordpress_id: 13734
 wordpress_url: http://kotalab.com/?p=13734
 date: '2015-01-04 13:04:57 +0900'
 date_gmt: '2015-01-04 04:04:57 +0900'
-categories:
+category:
 - 確定申告
 tags:
 - 確定申告

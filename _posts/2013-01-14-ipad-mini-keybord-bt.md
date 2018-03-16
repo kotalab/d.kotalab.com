@@ -14,7 +14,7 @@ wordpress_id: 5672
 wordpress_url: http://kotalab.com/?p=5672
 date: '2013-01-14 10:30:00 +0900'
 date_gmt: '2013-01-14 01:30:00 +0900'
-categories:
+category:
 - iPadグッズ
 tags:
 - 開封

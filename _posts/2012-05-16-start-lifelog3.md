@@ -12,7 +12,7 @@ wordpress_id: 84
 wordpress_url: http://kotala.wordpress.com/?p=84
 date: '2012-05-16 14:22:09 +0900'
 date_gmt: '2012-05-16 05:22:09 +0900'
-categories:
+category:
 - ひとりごと
 tags:
 - studynote

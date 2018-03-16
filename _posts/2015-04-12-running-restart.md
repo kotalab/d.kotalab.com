@@ -14,7 +14,7 @@ wordpress_id: 14079
 wordpress_url: http://kotalab.com/?p=14079
 date: '2015-04-12 11:14:29 +0900'
 date_gmt: '2015-04-12 02:14:29 +0900'
-categories:
+category:
 - ランニング
 tags:
 - ランニング

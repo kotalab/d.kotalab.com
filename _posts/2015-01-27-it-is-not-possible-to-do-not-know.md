@@ -14,7 +14,7 @@ wordpress_id: 13859
 wordpress_url: http://kotalab.com/?p=13859
 date: '2015-01-27 07:00:07 +0900'
 date_gmt: '2015-01-26 22:00:07 +0900'
-categories:
+category:
 - 自分らしく生きる
 tags:
 - 写真

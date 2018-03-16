@@ -14,7 +14,7 @@ wordpress_id: 14146
 wordpress_url: http://kotalab.com/?p=14146
 date: '2015-04-21 07:54:46 +0900'
 date_gmt: '2015-04-20 22:54:46 +0900'
-categories:
+category:
 - ストレスフリーな生き方
 tags:
 - 習慣
