@@ -23,6 +23,7 @@ body {
        -o-font-feature-settings: "kern" 1;
           font-feature-settings: "kern" 1;
   font-kerning: normal;
+  letter-spacing: $base-letter-spacing;
 }
 
 
@@ -31,10 +32,13 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 1.5;
+  @include media-query($on-laptop) {
+    margin-bottom: $spacing-unit
+  }
 }
 
 
@@ -66,7 +70,8 @@ figure > img {
 }
 
 figcaption {
-  font-size: $small-font-size;
+  font-size: $base-font-size;
+  font-weight: $small-font-weight;
 }
 
 
@@ -128,9 +133,8 @@ a {
 blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
+  padding-left: $spacing-unit;
   @include relative-font-size(1.125);
-  letter-spacing: -1px;
   font-style: italic;
 
   > :last-child {
@@ -172,19 +176,19 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 1.5));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 1.5));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: $spacing-unit * 1.5;
+  padding-left: $spacing-unit * 1.5;
   @extend %clearfix;
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
   }
 }
 

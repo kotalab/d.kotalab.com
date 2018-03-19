@@ -19,8 +19,8 @@ tags:
 - やってみる
 - バーバラ・シェア
 comments: []
+thumbnail: http://kotalab.com/wp-content/uploads/2016/01/lets-write_20160106-780x520.jpg
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2016/01/lets-write_20160106-780x520.jpg" alt="lets-write_20160106" width="780" height="520" class="aligncenter size-large wp-image-14977" /></p>
 <p>一年の計は元旦にあり。<br><br />
 こんなことわざもあるくらいですから、年の初めに今年やりたいことを計画してみた人も沢山いると思います。  </p>
 <p>去年の終わりに「結局何もできずに終わっちゃったな」と思った人はいませんか？<br />
@@ -48,7 +48,7 @@ comments: []
 <div class="booklink-link2">
 <div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >Amazon</a></div>
 <div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%8F%91%82%AB%82%BE%82%B7%82%B1%82%C6%82%A9%82%E7%8En%82%DF%82%E6%82%A4&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" target="_blank" >Kindle</a></div>
-</p></div>
+</div>
 </div>
 <div class="booklink-footer"></div>
 </div>
@@ -90,7 +90,7 @@ comments: []
 <div class="booklink-link2">
 <div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >Amazon</a></div>
 <div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%8F%91%82%AB%82%BE%82%B7%82%B1%82%C6%82%A9%82%E7%8En%82%DF%82%E6%82%A4&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" target="_blank" >Kindle</a></div>
-</p></div>
+</div>
 </div>
 <div class="booklink-footer"></div>
 </div>
