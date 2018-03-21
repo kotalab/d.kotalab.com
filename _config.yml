@@ -22,6 +22,7 @@ url: "http://kotalab.com" # the base hostname & protocol for your site, e.g. htt
 twitter_username: kotala_b
 github_username:  kotalab
 facebook_username: tetsuyakjma
+google_analytics: UA-32395633-1
 
 # Build settings
 markdown: kramdown
