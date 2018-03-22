@@ -1,14 +1,18 @@
 set -e
 
 echo "Deploy start"
+
 JEKYLL_ENV=production bundle exec jekyll build
+
+git config --global user.name kotala
+git config --global user.email kotarolab@gmail.com
 
 rm -rf /tmp/kotalab.com
 cp -R _site /tmp/kotalab.com
 
 git reset --hard HEAD
-git fetch
-git checkout -b gh-pages upstream/gh-pages
+git checkout -b gh-pages
+git remote add upstream https://$GH_TOKEN@gihthub.com/kotalab/kotalab.com.git
 
 rm -rf *
 cp -R /tmp/kotalab.com/* .
