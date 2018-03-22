@@ -32,23 +32,23 @@ comments: []
 この時を待っていました。@kotala_bです。<br />
 iPadアプリとしてするぷろが使えるようになることを、iPadminiを買ってからずっと願っていました！<br />
 @isloopさんのアプリ「するぷろ」と「するぷろーら」が共に2.0にアップデートし、iPad対応のユニバーサルアプリになりました！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-ios-buroguedita%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1113.phobos.apple.com/us/r1000/088/Purple/v4/d9/1d/91/d91d9143-b2ae-021d-1f83-a13de505dd08/mzl.hjszgwbw.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-ios-buroguedita%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1113.phobos.apple.com/us/r1000/088/Purple/v4/d9/1d/91/d91d9143-b2ae-021d-1f83-a13de505dd08/mzl.hjszgwbw.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-ios-buroguedita%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iOS（ブログエディタ）</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-ios-buroguedita%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iOS（ブログエディタ）</span></div>
 <div class="pochi_price" style="display:inline;">350円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.02.14時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupurora%252Fid580560943%253Fmt%253D8%2526uo%253D4"><img src="http://a1422.phobos.apple.com/us/r1000/090/Purple/v4/fd/31/bf/fd31bfa8-5950-e2f2-e790-a8a5aef1473c/mzl.auodrnbt.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupurora%252Fid580560943%253Fmt%253D8%2526uo%253D4"><img src="http://a1422.phobos.apple.com/us/r1000/090/Purple/v4/fd/31/bf/fd31bfa8-5950-e2f2-e790-a8a5aef1473c/mzl.auodrnbt.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupurora%252Fid580560943%253Fmt%253D8%2526uo%253D4">するぷろーら</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupurora%252Fid580560943%253Fmt%253D8%2526uo%253D4">するぷろーら</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.02.14時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -88,23 +88,23 @@ iPadアプリとしてするぷろが使えるようになることを、iPadmin
 それがするぷろです！</strong><br />
 ブログをやってるのにまだ使ったことがない人は是非お試しください！<br />
 ブログ更新が捗ります！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-ios-buroguedita%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1113.phobos.apple.com/us/r1000/088/Purple/v4/d9/1d/91/d91d9143-b2ae-021d-1f83-a13de505dd08/mzl.hjszgwbw.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-ios-buroguedita%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1113.phobos.apple.com/us/r1000/088/Purple/v4/d9/1d/91/d91d9143-b2ae-021d-1f83-a13de505dd08/mzl.hjszgwbw.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-ios-buroguedita%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iOS（ブログエディタ）</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-ios-buroguedita%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iOS（ブログエディタ）</span></div>
 <div class="pochi_price" style="display:inline;">350円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.02.14時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupurora%252Fid580560943%253Fmt%253D8%2526uo%253D4"><img src="http://a1422.phobos.apple.com/us/r1000/090/Purple/v4/fd/31/bf/fd31bfa8-5950-e2f2-e790-a8a5aef1473c/mzl.auodrnbt.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupurora%252Fid580560943%253Fmt%253D8%2526uo%253D4"><img src="http://a1422.phobos.apple.com/us/r1000/090/Purple/v4/fd/31/bf/fd31bfa8-5950-e2f2-e790-a8a5aef1473c/mzl.auodrnbt.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupurora%252Fid580560943%253Fmt%253D8%2526uo%253D4">するぷろーら</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupurora%252Fid580560943%253Fmt%253D8%2526uo%253D4">するぷろーら</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.02.14時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

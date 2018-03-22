@@ -48,29 +48,29 @@ comments: []
 <p>まだやれていないやりたいことがたくさんあるし、やりたいことはいつまでたってもなくならないと思っています。<br />
 いつでも大好きなことができるよう、今日もカバンにMacBook Pro15インチをしのばせて会社にいってきます。</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00CEPEI02/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51ez%2B2rU7nL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00CEPEI02/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51ez%2B2rU7nL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00CEPEI02/same-22/" rel="nofollow" target="_blank">時間に支配されない人生[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00CEPEI02/same-22/" rel="nofollow" target="_blank">時間に支配されない人生[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">ジョン・キム 幻冬舎 2013-04-17    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CEPEI02/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4344023625/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00CEPEI02/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4344023625/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51lLDYud3FL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51lLDYud3FL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法<先送りせずにすぐやる人に変わる方法> (中経の文庫)[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法<先送りせずにすぐやる人に変わる方法> (中経の文庫)[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">佐々木 正悟 KADOKAWA / 中経出版 2012-12-27    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4806142476/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4806142476/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

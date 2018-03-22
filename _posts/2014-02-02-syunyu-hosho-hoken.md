@@ -73,13 +73,13 @@ comments: []
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/review-timing-of-the-insurance" target="_blank"><img src="https://kotalab.com/wp-content/uploads/Review-timing-of-the-insurance_140128-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/review-timing-of-the-insurance" target="_blank">生命保険を見直すべきタイミング</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/review-timing-of-the-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/review-timing-of-the-insurance" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/review-timing-of-the-insurance" target="_blank">生命保険を見直すべきタイミング</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/review-timing-of-the-insurance"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/review-timing-of-the-insurance" alt="" /></span></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/dont-need-insurance" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dontneedinsurance_131128-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/dont-need-insurance" target="_blank">必要な保障額を計算してみると「実は保険に入らなくてもいい人」は沢山いる</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/dont-need-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/dont-need-insurance" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/dont-need-insurance" target="_blank">必要な保障額を計算してみると「実は保険に入らなくてもいい人」は沢山いる</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/dont-need-insurance"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/dont-need-insurance" alt="" /></span></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/money-nenkin" target="_blank"><img src="https://kotalab.com/wp-content/uploads/money-nenkin_140208-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/money-nenkin" target="_blank">知らないと損するお金のこと「国民年金」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/money-nenkin"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/money-nenkin" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/money-nenkin" target="_blank">知らないと損するお金のこと「国民年金」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/money-nenkin"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/money-nenkin" alt="" /></span></div>
 </div>

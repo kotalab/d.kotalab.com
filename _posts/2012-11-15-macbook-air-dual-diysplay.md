@@ -37,14 +37,14 @@ MacBookAirの13インチとデュアルディスプレイとの違いに始め�
 他のディスプレイを接続するには変換コネクタが必要ということなので早速<a href="http://store.apple.com/jp" target="_blank">AppleOnlineStore</a>で購入しました。<br />
 ▼買った後に知ったんですがAmazonにはサードパーティ製の安い物がありました。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0052GQ4S4/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31lpyhdz52L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0052GQ4S4/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31lpyhdz52L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0052GQ4S4/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX Mini Displayport -]DVI端子変換アダプタ (MacBook MacBook Pro MacBook Air) PL-MDPDV02</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0052GQ4S4/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX Mini Displayport -]DVI端子変換アダプタ (MacBook MacBook Pro MacBook Air) PL-MDPDV02</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> プラネックス 2011-06-30    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=PL-MDPDV02&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=PL-MDPDV02&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

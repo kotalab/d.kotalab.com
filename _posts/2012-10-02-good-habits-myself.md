@@ -23,7 +23,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/project_120909.jpg"><img src="https://kotalab.com/wp-content/uploads/project_120909.jpg" alt="" title="project_120909" width="448" height="336" class="alignnone size-full wp-image-2654" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/smemon/5796748733/" target="_blank">sun rise</a> / Sean MacEntee</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/smemon/5796748733/" target="_blank">sun rise</a> / Sean MacEntee</span><br />
 僕の1週間は火曜から始まります。@kotala_bです。<br />
 何故かというと毎週火曜が休みだから。<br />
 たったそれだけの理由です。<br />

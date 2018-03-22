@@ -25,7 +25,7 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/2015/02/kanpostyle-change-pointsystem_20150226_01-780x438.jpg" alt="kanpostyle-change-pointsystem_20150226_01" width="780" height="438" class="aligncenter size-large wp-image-13935" /><br />
 以前、僕が使っているnanacoと漢方スタイルクラブカードのことをご紹介しました。</p>
 <blockquote><p>ポイントが貯まるクレジットカードは限られているのですが、僕が使っている漢方スタイルクラブカードでは2000円のチャージごとにつき1.75%分のポイントが加算されます。<br />
-via:<a href="https://kotalab.com/use-nanaco-4-reason" target="_blank">電子マネーはnanaco！僕がnanacoを使う4つの理由</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/use-nanaco-4-reason" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/use-nanaco-4-reason" alt="" /></a>
+via:<a href="https://kotalab.com/use-nanaco-4-reason" target="_blank">電子マネーはnanaco！僕がnanacoを使う4つの理由</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/use-nanaco-4-reason" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/use-nanaco-4-reason" alt="" /></a>
 </p></blockquote>
 <p>この時紹介した還元率がnanacoチャージに限り変更となってしまうことになりました。<br />
 <!--more--></p>

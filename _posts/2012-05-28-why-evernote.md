@@ -19,9 +19,9 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/Evernote_01.gif" target="_blank"><img src="https://kotalab.com/wp-content/uploads/Evernote_01.gif" alt="" title="Evernote_01" width="228" height="118" class="alignnone size-full wp-image-1166" /></a><br />
-<a title="Evernote" href="http://evernote.com/intl/jp/" target="_blank">Evernote</a>のノート数がいつの間にか1000を超えてました。<a href="http://twitter.com/kotala_b" target="_blank">@kotala_b</a>です。<br />
-まだ5ヶ月と日が浅いですが<a title="Evernote" href="http://evernote.com/intl/jp/" target="_blank">Evernote</a>のノートを無作為に選んで見てみると面白いです。<br />
-なぜ<a title="Evernote" href="http://evernote.com/intl/jp/" target="_blank">Evernote</a>をこんなに使っているのか考えてみました。<br />
+<a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>のノート数がいつの間にか1000を超えてました。<a href="https://twitter.com/kotala_b" target="_blank">@kotala_b</a>です。<br />
+まだ5ヶ月と日が浅いですが<a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>のノートを無作為に選んで見てみると面白いです。<br />
+なぜ<a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>をこんなに使っているのか考えてみました。<br />
 <!--more--></p>
 <h2>なんでも入れられる</h2>
 <p>テキストメモ以外にも動画・画像・PDF・webクリップなどなんでも入れられる。<br />
@@ -43,4 +43,4 @@ EvernoteでWebクリップを使うようになってからは、Evernoteが使�
 なぜEvernoteなのかと考えた時に浮かび上がるのは「<strong>便利</strong>」という言葉でした。<br />
 様々なアプリとの連携も出来ますし、ここを探せば見つかるという安心感もあります。<br />
 それらは全て「<strong>便利</strong>」という言葉に集約出来ました。<br />
-気になった方は是非お試しください。<a title="Evernote" href="http://evernote.com/intl/jp/" target="_blank">こちら</a>から</p>
+気になった方は是非お試しください。<a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">こちら</a>から</p>

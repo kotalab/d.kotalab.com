@@ -52,13 +52,13 @@ comments: []
 <h2>最後に</h2>
 <p>1つの口座で一元管理するよりも、用途ごとに分けて使う方がわかりやすいのでこのような使い方になりました。<br />
 用途ごとに口座は分けていますが、全口座や財布の中身などお金に関する全てを一元管理する為にbookeepを使っています。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsosharu-jia-ji-bu-bookeep%252Fid483308707%253Fmt%253D8%2526uo%253D4"><img src="http://a191.phobos.apple.com/us/r1000/120/Purple/v4/c0/4e/4a/c04e4a6d-5408-269b-ad7e-67ae0027536a/mzl.rkjkyjxl.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsosharu-jia-ji-bu-bookeep%252Fid483308707%253Fmt%253D8%2526uo%253D4"><img src="http://a191.phobos.apple.com/us/r1000/120/Purple/v4/c0/4e/4a/c04e4a6d-5408-269b-ad7e-67ae0027536a/mzl.rkjkyjxl.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsosharu-jia-ji-bu-bookeep%252Fid483308707%253Fmt%253D8%2526uo%253D4">ソーシャル家計簿 bookeep</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsosharu-jia-ji-bu-bookeep%252Fid483308707%253Fmt%253D8%2526uo%253D4">ソーシャル家計簿 bookeep</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.04.25時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Faccum-co.-ltd%252Fid350707295%253Fuo%253D4">Accum Co.,Ltd</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Faccum-co.-ltd%252Fid350707295%253Fuo%253D4">Accum Co.,Ltd</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

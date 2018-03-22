@@ -49,7 +49,7 @@ comments:
 料金の支払いはクレジットカードのみで、月額基本料や初期費用は一切かかりません。<br />
 <span class="b">登録するだけで通話料が30秒10.5円になるという便利サービスです！</span></p>
 <h2>楽天でんわに登録する方法</h2>
-<p>登録は<a href="http://denwa.rakuten.co.jp/" target="_blank">楽天でんわの公式ページ</a><a href="http://b.hatena.ne.jp/entry/http://denwa.rakuten.co.jp/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://denwa.rakuten.co.jp/" alt="" /></a>から。<br />
+<p>登録は<a href="http://denwa.rakuten.co.jp/" target="_blank">楽天でんわの公式ページ</a><a href="https://b.hatena.ne.jp/entry/http://denwa.rakuten.co.jp/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://denwa.rakuten.co.jp/" alt="" /></a>から。<br />
 楽天IDを持ってる方はそのIDで、持っていない場合は新規登録というカタチになります。<br />
 楽天IDを持っていれば通話料100円につき楽天スーパーポイントが1ポイント付与されるようになります。<br />
 登録申込みをするとすぐに仮登録完了のお知らせが登録したメアドに届きます。<br />

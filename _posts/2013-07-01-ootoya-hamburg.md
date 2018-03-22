@@ -47,7 +47,7 @@ comments: []
 <img src="https://kotalab.com/wp-content/uploads/ootoya_130701_02-448x336.jpg" alt="ootoya_130701_02" width="448" height="336" class="alignnone size-large wp-image-7706" /><br />
 野菜というかサニーレタスや水菜といった葉っぱの量が多めです。<br />
 肉を食べたいなって時には物足りない感じですが、野菜を多く取りたい方にはいいかも知れません。<br />
-<span class="removed_link" title="http://www.ootoya.com/news/130701.html?ss=78ead3f0276878242be6c048ba9ede9d">大戸屋の商品紹介ページはこちらから</span></p>
+<span class="removed_link" title="www.ootoya.com/news/130701.html?ss=78ead3f0276878242be6c048ba9ede9d">大戸屋の商品紹介ページはこちらから</span></p>
 <h2 class="rele">関連記事</h2>
 <p><a href="https://kotalab.com/quarterpounder-blt" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/quarterpounder_130621_01-448x336.jpg" alt="[Food]新百合ケ丘のマクドナルドで先行販売中のクォーターパウンダーBLTを食べたぞ！ | kotala's note" width="150" /></a><a href="https://kotalab.com/quarterpounder-blt" target="_blank">[Food]新百合ケ丘のマクドナルドで先行販売中のクォーターパウンダーBLTを食べたぞ！ | kotala's note</a><br style="clear:both;" /><br />
 <a href="https://kotalab.com/chinese-shohukumon" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/shohukumon_130622-448x297.jpg" alt="[Food]テレビや雑誌にも紹介される人気のお店。横浜中華街の「招福門」で飲茶食べ放題を満喫してきた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/chinese-shohukumon" target="_blank">[Food]テレビや雑誌にも紹介される人気のお店。横浜中華街の「招福門」で飲茶食べ放題を満喫してきた！ | kotala's note</a><br style="clear:both;" /></p>

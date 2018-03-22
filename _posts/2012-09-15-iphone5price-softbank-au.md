@@ -24,7 +24,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/iphone5kakaku_120915.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5kakaku_120915.jpg" alt="" title="iphone5kakaku_120915" width="448" height="336" class="alignnone size-full wp-image-2769" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/mroach/2436379822/" target="_blank">Phone store!</a> / mroach</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/mroach/2436379822/" target="_blank">Phone store!</a> / mroach</span><br />
 僕はSoftbankでiPhoneを予約します。@kotala_bです。<br />
 9月14日午後2時半にSoftbankとau共にiPhone5の料金体系が発表されました。<br />
 発表されたSoftbankとauの本体価格が異なっていたので調べてみました。<br />
@@ -46,7 +46,7 @@ comments: []
 <strong>例えばちょうど1年後にiPhoneが出てまた機種変するとなると話が変わってきます</strong>。</p>
 <h2>もし12ヶ月後に機種変した場合</h2>
 <p>毎月の割引き額と言うのは機種変した場合には引き継がれることはなく、支払いが残っている場合には残りの割賦金を支払わなければなりません。<br />
-参考：<a href="http://mb.softbank.jp/mb/iphone/price_plan/super_bonus/" target="_blank">iPhone 4S / 4：月月割 | ソフトバンクモバイル</a><br />
+参考：<a href="https://mb.softbank.jp/mb/iphone/price_plan/super_bonus/" target="_blank">iPhone 4S / 4：月月割 | ソフトバンクモバイル</a><br />
 参考：<a href="http://www.au.kddi.com/ryokin_waribiki/waribiki/maitukiwari/index.html" target="_blank">毎月割 | 割引サービス | au</a></p>
 <h2>SoftbankでiPhone5を買って12ヶ月後に機種変する場合</h2>
 <p>12ヶ月後に機種変する場合、<strong>各割引代金は半分になります</strong>。<br />

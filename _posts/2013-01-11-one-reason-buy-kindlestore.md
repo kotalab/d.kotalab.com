@@ -26,16 +26,16 @@ comments: []
 電子書籍はKindleストアで買っています。@kotala_bです。<br />
 自分の中で電子書籍と言えば、読むのはiPadminiで買うのはKindleストアです。<br />
 ▼Gunosyでこんなページを見つけました。<br />
-<a href="http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" target="_blank"><img class="alignleft" src="http://capture.heartrails.com/150x130?http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" alt="文字編：こんなに違う――iPad miniで主要電子書店のビューワを比較 (1/3) - ITmedia eBook USER" width="150" height="130" /></a><a href="http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" target="_blank">文字編：こんなに違う――iPad miniで主要電子書店のビューワを比較 (1/3) - ITmedia eBook USER</a><a href="http://b.hatena.ne.jp/entry/http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" alt="" /></a><br style="clear:both" />これを見て驚きました！<br />
+<a href="http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" target="_blank"><img class="alignleft" src="https://capture.heartrails.com/150x130?http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" alt="文字編：こんなに違う――iPad miniで主要電子書店のビューワを比較 (1/3) - ITmedia eBook USER" width="150" height="130" /></a><a href="http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" target="_blank">文字編：こんなに違う――iPad miniで主要電子書店のビューワを比較 (1/3) - ITmedia eBook USER</a><a href="https://b.hatena.ne.jp/entry/http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://ebook.itmedia.co.jp/ebook/articles/1301/09/news008.html" alt="" /></a><br style="clear:both" />これを見て驚きました！<br />
 こんなに電子書籍を扱ってるアプリやストアがあったのかと！<br />
 数ある中からなんでKindleなのか考えてみるとたった1つの答えが浮かび上がりました。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;overflow: hidden"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkindle%252Fid302584613%253Fmt%253D8%2526uo%253D4"><img src="http://a1853.phobos.apple.com/us/r1000/069/Purple/v4/78/fd/37/78fd3798-e2fc-940b-f4ce-38c3b2400e23/mzl.pmwdwuqg.png" width="75" height="75" style="float:left;margin:0 15px 0 0" class="pochi_img"></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;overflow: hidden"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkindle%252Fid302584613%253Fmt%253D8%2526uo%253D4"><img src="http://a1853.phobos.apple.com/us/r1000/069/Purple/v4/78/fd/37/78fd3798-e2fc-940b-f4ce-38c3b2400e23/mzl.pmwdwuqg.png" width="75" height="75" style="float:left;margin:0 15px 0 0" class="pochi_img"></span>
 <div class="pochi_info" style="text-align:left;overflow: hidden">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkindle%252Fid302584613%253Fmt%253D8%2526uo%253D4">Kindle</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkindle%252Fid302584613%253Fmt%253D8%2526uo%253D4">Kindle</span></div>
 <div class="pochi_price">無料</div>
 <div class="pochi_time" style="font-size:x-small">(2013.01.11時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Famzn-mobile-llc%252Fid297606954%253Fuo%253D4">AMZN Mobile LLC</span></div>
-<div class="pochi_post" style="font-size:x-small">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Famzn-mobile-llc%252Fid297606954%253Fuo%253D4">AMZN Mobile LLC</span></div>
+<div class="pochi_post" style="font-size:x-small">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -63,25 +63,25 @@ Amazonと言えばありとあらゆるモノが買えるわけですが、本�
 <h2>最後に</h2>
 <p>「読みたい本が読みたい時に読めればいい」という思いがあるので、紙の本でも電子書籍でも気にしません。<br />
 <strong>ただし買う場所に関しては便利さということを無意識のうちに選択していました。</strong></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;overflow: hidden"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkindle%252Fid302584613%253Fmt%253D8%2526uo%253D4"><img src="http://a1853.phobos.apple.com/us/r1000/069/Purple/v4/78/fd/37/78fd3798-e2fc-940b-f4ce-38c3b2400e23/mzl.pmwdwuqg.png" width="75" height="75" style="float:left;margin:0 15px 0 0" class="pochi_img"></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;overflow: hidden"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkindle%252Fid302584613%253Fmt%253D8%2526uo%253D4"><img src="http://a1853.phobos.apple.com/us/r1000/069/Purple/v4/78/fd/37/78fd3798-e2fc-940b-f4ce-38c3b2400e23/mzl.pmwdwuqg.png" width="75" height="75" style="float:left;margin:0 15px 0 0" class="pochi_img"></span>
 <div class="pochi_info" style="text-align:left;overflow: hidden">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkindle%252Fid302584613%253Fmt%253D8%2526uo%253D4">Kindle</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkindle%252Fid302584613%253Fmt%253D8%2526uo%253D4">Kindle</span></div>
 <div class="pochi_price">無料</div>
 <div class="pochi_time" style="font-size:x-small">(2013.01.11時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Famzn-mobile-llc%252Fid297606954%253Fuo%253D4">AMZN Mobile LLC</span></div>
-<div class="pochi_post" style="font-size:x-small">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Famzn-mobile-llc%252Fid297606954%253Fuo%253D4">AMZN Mobile LLC</span></div>
+<div class="pochi_post" style="font-size:x-small">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;overflow: hidden">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B007OZO03M/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/4194BeD1XvL._SL160_.jpg" style="border: none" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B007OZO03M/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/4194BeD1XvL._SL160_.jpg" style="border: none" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;overflow: hidden">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B007OZO03M/same-22/ref=nosim/" rel="nofollow" target="_blank">Kindle Paperwhite</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B007OZO03M/same-22/ref=nosim/" rel="nofollow" target="_blank">Kindle Paperwhite</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px"> Amazon.co.jp 2012-11-19    </div>
 <div class="kaerebalink-link1" style="margin-top:10px">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=Kindle%20Paperwhite&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;tag=same-22" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=Kindle%20Paperwhite&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;tag=same-22" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

@@ -21,7 +21,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/link_120708.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 まだまだWordpressを使いこなせてない@kotala_bです。<br />
 プラグインを入れても、入れるだけで満足して初期設定のまま使っているものが結構ありました。<br />
 そこでプラグインの設定を見直してみました。<br />
@@ -31,7 +31,7 @@ comments: []
 <p>サイドバーに「人気の投稿」を表示させていますが、今まではほぼデフォルトで「文字だけのリスト」になっていました。<br />
 そこで今回、サムネイルつきのリストに変更しました。<br />
 参考にしたのはこちらの記事です。<br />
-<a href="http://www.imamura.biz/blog/cms/wordpress/4447" target="_blank"><img title="【wordpressの人気記事を表示するプラグイン Wordpress Popular Posts】 | 今村だけがよくわかるブログ" src="http://capture.heartrails.com/150x130?http://www.imamura.biz/blog/cms/wordpress/4447" alt="http://www.imamura.biz/blog/cms/wordpress/4447" width="150" height="130" align="left" /></a><a href="http://www.imamura.biz/blog/cms/wordpress/4447" title="【wordpressの人気記事を表示するプラグイン Wordpress Popular Posts】 | 今村だけがよくわかるブログ" target="_blank">【wordpressの人気記事を表示するプラグイン Wordpress Popular Posts】 | 今村だけがよくわかるブログ</a><br style="clear:both;" />とてもわかりやすく書いてあります。<br />
+<a href="http://www.imamura.biz/blog/cms/wordpress/4447" target="_blank"><img title="【wordpressの人気記事を表示するプラグイン Wordpress Popular Posts】 | 今村だけがよくわかるブログ" src="https://capture.heartrails.com/150x130?http://www.imamura.biz/blog/cms/wordpress/4447" alt="http://www.imamura.biz/blog/cms/wordpress/4447" width="150" height="130" align="left" /></a><a href="http://www.imamura.biz/blog/cms/wordpress/4447" title="【wordpressの人気記事を表示するプラグイン Wordpress Popular Posts】 | 今村だけがよくわかるブログ" target="_blank">【wordpressの人気記事を表示するプラグイン Wordpress Popular Posts】 | 今村だけがよくわかるブログ</a><br style="clear:both;" />とてもわかりやすく書いてあります。<br />
 ありがとうございます！<br />
 注目したのはこの説明文。</p>
 <blockquote><p>・日間、月間、週間、全期間の人気記事を表示。サムネイル（アイキャッチ）の表示の選択が可能。<br />

@@ -47,45 +47,45 @@ iPhone 5で使えても、もしかしたらiPhone 5sじゃ使えなくなるか
 もしこのエントリーをみて購入された方は発熱などの不具合が出ていないか確認し、使用を続ける場合はご注意ください。</p>
 <blockquote><p>Lightning ケーブルの正規品や MFi 認定品は高いので、どうしても未認定品を買ってしまいますが、こういうリスクもあるので注意しないといけませんね。未認定品を紹介する時にはこういうリスクも一緒に伝えていかないといけませんね。</p>
 <p>リスクを分かっていて買うのは問題ないですが、分からないで値段だけで買うと危険ですので、皆さんも未認定品を買われる時にはご注意ください。<br />
-via:<a href="http://azur256.com/archives/10414" target="_blank">巻き取り式 Lightning ケーブルがご臨終になりました、ちょっと危ない壊れ方なのでご紹介しておきます</a><a href="http://b.hatena.ne.jp/entry/http://azur256.com/archives/10414" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://azur256.com/archives/10414" alt="" /></a>
+via:<a href="http://azur256.com/archives/10414" target="_blank">巻き取り式 Lightning ケーブルがご臨終になりました、ちょっと危ない壊れ方なのでご紹介しておきます</a><a href="https://b.hatena.ne.jp/entry/http://azur256.com/archives/10414" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://azur256.com/archives/10414" alt="" /></a>
 </p></blockquote>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00D68HLIC/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31WVmLmsYmL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00D68HLIC/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31WVmLmsYmL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00D68HLIC/same-22/ref=nosim/" rel="nofollow" target="_blank">iBUFFALO USB2.0ケーブル(A to Lightning)巻き取りタイプ MFI認証モデル 0.6m ブラック BSIPC07UL60BK</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00D68HLIC/same-22/ref=nosim/" rel="nofollow" target="_blank">iBUFFALO USB2.0ケーブル(A to Lightning)巻き取りタイプ MFI認証モデル 0.6m ブラック BSIPC07UL60BK</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> バッファロー 2013-06-12    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=USB2.0&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=USB2.0&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00B5RGAWY/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41Y35nlVMwL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00B5RGAWY/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41Y35nlVMwL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00B5RGAWY/same-22/ref=nosim/" rel="nofollow" target="_blank">Amazonベーシック Apple認証 (Made for iPhone取得) iPhone5用 ライトニングUSBケーブル 約10cm</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00B5RGAWY/same-22/ref=nosim/" rel="nofollow" target="_blank">Amazonベーシック Apple認証 (Made for iPhone取得) iPhone5用 ライトニングUSBケーブル 約10cm</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> AmazonBasics 2013-09-13    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=Made%20for%20iPhone%8E%E6%93%BE&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=Made%20for%20iPhone%8E%E6%93%BE&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMade%2520for%2520iPhone%25E5%258F%2596%25E5%25BE%2597%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" rel="nofollow" target="_blank" title="楽天市場" >楽天市場でチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00F4SAYEU/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31ArfnrkjeL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00F4SAYEU/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31ArfnrkjeL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00F4SAYEU/same-22/ref=nosim/" rel="nofollow" target="_blank">PGA Apple MFi認証 Power/Sync Adapter Lightning - micro USB ブラック PG-IP5CN03BK</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00F4SAYEU/same-22/ref=nosim/" rel="nofollow" target="_blank">PGA Apple MFi認証 Power/Sync Adapter Lightning - micro USB ブラック PG-IP5CN03BK</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> リックス／PGA 2013-09-11    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=Sync%20Adapter%20Lightning%20PGA%20Apple%20MFi%94F%8F%D8&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=Sync%20Adapter%20Lightning%20PGA%20Apple%20MFi%94F%8F%D8&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

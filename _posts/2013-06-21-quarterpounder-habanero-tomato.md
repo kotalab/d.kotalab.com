@@ -35,6 +35,6 @@ comments: []
 お値段はMセットのクーポンで770円と他のメニューに比べると少し高め。<br />
 <img src="https://kotalab.com/wp-content/uploads/habanerotomato_130621_03-448x336.jpg" alt="habanerotomato_130621_03" width="448" height="336" class="alignnone size-large wp-image-7565" /><br />
 ▼先行販売店はこちら<br />
-<span class="removed_link" title="http://www.mcdonalds.co.jp/shop/search/campaign/qlb/top.php">クォーターパウンダー BLT/ハバネロトマト販売店舗 | レストラン情報 | McDonald's Japan</span></p>
+<span class="removed_link" title="www.mcdonalds.co.jp/shop/search/campaign/qlb/top.php">クォーターパウンダー BLT/ハバネロトマト販売店舗 | レストラン情報 | McDonald's Japan</span></p>
 <h2 class="rele">関連記事</h2>
 <p><a href="https://kotalab.com/quarterpounder-blt" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/quarterpounder_130621_01-448x336.jpg" alt="[Food]新百合ケ丘のマクドナルドで先行販売中のクォーターパウンダーBLTを食べたぞ！ | kotala's note" width="150" /></a><a href="https://kotalab.com/quarterpounder-blt" target="_blank">[Food]新百合ケ丘のマクドナルドで先行販売中のクォーターパウンダーBLTを食べたぞ！ | kotala's note</a><br style="clear:both;" /></p>

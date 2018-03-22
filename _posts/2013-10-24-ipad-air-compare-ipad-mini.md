@@ -31,7 +31,7 @@ iPad AirとiPad miniRetinaディスプレイモデルの同時発表があり、
 <!--more--></p>
 <h2>iPad AirとiPad mini Retinaディスプレイモデルの違い</h2>
 <p>iPad AirとiPad miniのスペックはほぼ一緒。<br />
-<a href="http://www.apple.com/jp/ipad/compare/" target="_blank">スペック表</a>ではどちらもA7チップを搭載し、カメラ性能も同じ。バッテリー駆動時間も同じです。<br />
+<a href="https://www.apple.com/jp/ipad/compare/" target="_blank">スペック表</a>ではどちらもA7チップを搭載し、カメラ性能も同じ。バッテリー駆動時間も同じです。<br />
 じゃあどこが違うのかというと、大きさと値段。<br />
 値段の違いは1万円ほど差がありますが、iPad Air16GBとiPad mini Retinaディスプレイモデルの32GBの値段は同じ。<br />
 同じ予算では、iPad miniの方がより容量が大きいものが買えます。</p>
@@ -53,40 +53,40 @@ iPad AirとiPad miniRetinaディスプレイモデルの同時発表があり、
 あと1週間！待ち遠しい！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DQ7590A/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31WYFpQFvIL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DQ7590A/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31WYFpQFvIL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DQ7590A/same-22/ref=nosim/" rel="nofollow" target="_blank">ANKER Astro M3 モバイルバッテリー 13000mAh 【Amazon限定セット】ハイパワー電源アダプタ付属モデル 大容量かつコンパクト 147x62x22mm 2USBポート同時充電 iPhone5/4S/iPad/Galaxy/Xperia/Android/各種スマホ/Wi-Fiルータ等対応(日本語説明書付) Astro M3+adapter</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DQ7590A/same-22/ref=nosim/" rel="nofollow" target="_blank">ANKER Astro M3 モバイルバッテリー 13000mAh 【Amazon限定セット】ハイパワー電源アダプタ付属モデル 大容量かつコンパクト 147x62x22mm 2USBポート同時充電 iPhone5/4S/iPad/Galaxy/Xperia/Android/各種スマホ/Wi-Fiルータ等対応(日本語説明書付) Astro M3+adapter</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Anker 2013-09-08    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=x62x22mm%20iPhone5%2F4S%2FiPad%2FGalaxy%2FXperia%2FAndroid&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=x62x22mm%20iPhone5%2F4S%2FiPad%2FGalaxy%2FXperia%2FAndroid&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B007RAC7BQ/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31fa5jspjEL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B007RAC7BQ/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31fa5jspjEL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B007RAC7BQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Anker Astro3E 大容量モバイルバッテリー10000mAh【18ヶ月保証】iPhone5/4S/iPad/Android/各種スマホ等対応</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B007RAC7BQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Anker Astro3E 大容量モバイルバッテリー10000mAh【18ヶ月保証】iPhone5/4S/iPad/Android/各種スマホ等対応</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Anker     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=Astro3E%20iPhone5%2F4S%2FiPad%2FAndroid&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=Astro3E%20iPhone5%2F4S%2FiPad%2FAndroid&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DE4TFRI/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51U75iKot8L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DE4TFRI/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51U75iKot8L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DE4TFRI/same-22/ref=nosim/" rel="nofollow" target="_blank">iphone5 USBケーブル iOS7 対応 ライトニングUSBケーブル iPhone5 ipad mini 新型ipad ipod iPodnano7対応/巻取り式 全長70cm</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DE4TFRI/same-22/ref=nosim/" rel="nofollow" target="_blank">iphone5 USBケーブル iOS7 対応 ライトニングUSBケーブル iPhone5 ipad mini 新型ipad ipod iPodnano7対応/巻取り式 全長70cm</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> HanyeTech     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=iPhone5%20ipad%20mini%20%90V%8C%5Eipad%20ipod%20iPodnano7%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=iPhone5%20ipad%20mini%20%90V%8C%5Eipad%20ipod%20iPodnano7%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

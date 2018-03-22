@@ -32,7 +32,7 @@ Appleが用意しているカレンダーを入れるだけ！<br />
 <!--more--></p>
 <h2>たった数秒で日本の祝日が表示されるようになった！</h2>
 <p>まずはここを開きます。<br />
-<a href="http://www.apple.com/downloads/macosx/calendars/japaneseholidaycalendar.html" target="_blank">Apple - Downloads - iCal Calendars - Japanese Holiday Calendar</a><br />
+<a href="https://www.apple.com/downloads/macosx/calendars/japaneseholidaycalendar.html" target="_blank">Apple - Downloads - iCal Calendars - Japanese Holiday Calendar</a><br />
 Appleが用意しているカレンダーのテンプレです。<br />
 開いたらDownroadして<br />
 <img src="https://kotalab.com/wp-content/uploads/icalholiday_130610_01-448x269.jpg" alt="icalholiday_130610_01" width="448" height="269" class="alignnone size-large wp-image-7421" /><br />
@@ -46,6 +46,6 @@ JP Holidaysを登録して完了。<br />
 とっても便利！</p>
 <h2>最後に</h2>
 <p>日本の祝日カレンダー以外にも世界各国の祝日など全132のカレンダーがありました。<br />
-<a href="http://www.apple.com/downloads/macosx/calendars/index.html" target="_blank">Apple - Downloads - Mac OS X - iCal Calendars</a></p>
+<a href="https://www.apple.com/downloads/macosx/calendars/index.html" target="_blank">Apple - Downloads - Mac OS X - iCal Calendars</a></p>
 <h2 class="rele">関連記事</h2>
 <p><a href="https://kotalab.com/ical-googlecalender" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ical_130607-448x275.jpg" alt="[Mac]GoogleカレンダーからMac標準カレンダーアプリ「iCal」に移行する方法。 | kotala's note" width="150" /></a><a href="https://kotalab.com/ical-googlecalender" target="_blank">[Mac]GoogleカレンダーからMac標準カレンダーアプリ「iCal」に移行する方法。 | kotala's note</a><br style="clear:both;" /></p>

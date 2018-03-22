@@ -33,8 +33,8 @@ comments: []
 <p>僕がブログを始めたのはプロブロガー立花岳志さん（<a href="https://twitter.com/ttachi" target="_blank">@ttachi</a>）の影響です。</p>
 <p>Evernoteの調べてるうちに出会った、このエントリーを読んだことがブログを始めるきっかけです。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img src="http://capture.heartrails.com/150x130/shadow?http://www.ttcbn.net/no_second_life/archives/19748" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://www.ttcbn.net/no_second_life/archives/19748" target="_blank">今年から本気出す人へ 「6本の柱」で5年後の自分を計画しよう | No Second Life</a><a href="http://b.hatena.ne.jp/entry/http://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.ttcbn.net/no_second_life/archives/19748" alt="" /></a></div>
+<div class="shhtimg"><a href="https://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?https://www.ttcbn.net/no_second_life/archives/19748" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://www.ttcbn.net/no_second_life/archives/19748" target="_blank">今年から本気出す人へ 「6本の柱」で5年後の自分を計画しよう | No Second Life</a><a href="https://b.hatena.ne.jp/entry/https://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.ttcbn.net/no_second_life/archives/19748" alt="" /></a></div>
 </div>
 <div class="clear"></div>
 <p>Evernoteを見返してみたら、ブログを始める前日には5年間の計画表を立てていました。</p>

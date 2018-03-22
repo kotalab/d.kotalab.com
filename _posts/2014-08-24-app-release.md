@@ -51,7 +51,7 @@ comments:
 <h2>なんでiPhoneアプリが作れたのか</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/app-release_140824_01-546x409.jpg" alt="app-release_140824_01" width="546" height="409" class="alignnone size-large wp-image-13381" /><br />
 僕はiPhoneアプリをいつか作ってみたいと思っていました。<br />
-2013年の2月に開催された<a href="http://www.ttcbn.net/no_second_life/archives/31515" target="_blank">Dpubという大規模な飲み会</a>で、FastEverというiPhoneアプリの開発者<a href="https://twitter.com/frnk" target="_blank">@frnk</a>さんやOneCamというカメラアプリの開発者<a href="https://twitter.com/AppleWalker" target="_blank">@AppleWalker</a>さんと出会ってお話を聞いているうちに、いつかアプリを作ってみたいなと思ったのが最初のきっかけです。</p>
+2013年の2月に開催された<a href="https://www.ttcbn.net/no_second_life/archives/31515" target="_blank">Dpubという大規模な飲み会</a>で、FastEverというiPhoneアプリの開発者<a href="https://twitter.com/frnk" target="_blank">@frnk</a>さんやOneCamというカメラアプリの開発者<a href="https://twitter.com/AppleWalker" target="_blank">@AppleWalker</a>さんと出会ってお話を聞いているうちに、いつかアプリを作ってみたいなと思ったのが最初のきっかけです。</p>
 <p>その当時はiPhoneアプリ開発言語の「Objective-C」という単語すら聞いたこともない、JavaとJavaScriptの違いもわからないような頃でした。</p>
 <p>いつかはiPhoneアプリ作ってみたいなーなんて思って1年くらい経ったある日「<a href="https://kotalab.com/bloger-app-event" title="iPhoneアプリ開発の第一歩！？ブロガー向けiPhoneアプリ開発体験会に行ってきたよ！ #アプリ開発体験会" target="_blank">ブロガー向けiPhoneアプリ開発体験会</a>」というイベントに参加したことがきっかけで、自由大学でアプリ道場というiPhoneアプリの開発講座を主催している<a href="https://twitter.com/akio0911" target="_blank">@akio0911</a>さんと知り合い、4月からアプリ道場に参加することになりました。</p>
 <p>そしてアプリ道場のFacebookグループの影響もあったりして、ようやく「iPhoneアプリをリリースできそう！」という段階までこれました。</p>
@@ -81,11 +81,11 @@ comments:
 東京だけじゃなく広島・大阪・名古屋でも短期間の集中講座が受けられるみたいなので、日程など詳しいことは講師のあきおさんに聞いてみてください。<br />
 東京で開催されるアプリ道場は第22期の募集が始まっていますよ！<br />
 ▼アプリ道場の講師あきおさん<br />
-<a href="http://egg-is-world.com/" target="_blank">卵は世界である</a><a href="http://b.hatena.ne.jp/entry/http://egg-is-world.com/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://egg-is-world.com/" alt="" /></a><br />
-<a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a><a href="http://b.hatena.ne.jp/entry/http://akio0911.net/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://akio0911.net/" alt="" /></a><br />
+<a href="http://egg-is-world.com/" target="_blank">卵は世界である</a><a href="https://b.hatena.ne.jp/entry/http://egg-is-world.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://egg-is-world.com/" alt="" /></a><br />
+<a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a><a href="https://b.hatena.ne.jp/entry/http://akio0911.net/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://akio0911.net/" alt="" /></a><br />
 <a href="https://twitter.com/akio0911" target="_blank">あきお＠派手髪アプリ開発者 (akio0911)</a></p>
 <p>▼僕が受講したアプリ道場<br />
-<a href="http://egg-is-world.com/app-creator-dojo-develop/" target="_blank">未経験者向けのiPhoneアプリ開発講座「アプリクリエイター道場 東京塾・大阪塾」</a><a href="http://b.hatena.ne.jp/entry/http://egg-is-world.com/app-creator-dojo-develop/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://egg-is-world.com/app-creator-dojo-develop/" alt="" /></a><br />
+<a href="http://egg-is-world.com/app-creator-dojo-develop/" target="_blank">未経験者向けのiPhoneアプリ開発講座「アプリクリエイター道場 東京塾・大阪塾」</a><a href="https://b.hatena.ne.jp/entry/http://egg-is-world.com/app-creator-dojo-develop/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://egg-is-world.com/app-creator-dojo-develop/" alt="" /></a><br />
 <a href="https://www.facebook.com/AppCreatorDojo" target="_blank">アプリクリエイター道場 - フェイスブックページ</a></p>
 <h4 class="rel">関連記事</h4>
 <p>[article include="11195" type="custom"][article include="13134" type="custom"]</p>

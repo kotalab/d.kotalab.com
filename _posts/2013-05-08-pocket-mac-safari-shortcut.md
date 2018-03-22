@@ -29,7 +29,7 @@ Safariからの保存方法は2つ。<br />
 <!--more--></p>
 <h2>Mac版SafariからPocketへ保存する方法</h2>
 <p>▼まずはPocketの「How to Save」ページをSafariから開きます。<br />
-<a href="http://getpocket.com/add" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://getpocket.com/add" alt="Pocket : How to Save" width="150" height="130" /></a><a href="http://getpocket.com/add" target="_blank">Pocket : How to Save</a><a href="http://b.hatena.ne.jp/entry/http://getpocket.com/add" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://getpocket.com/add" alt="" /></a><br style="clear:both;" />左上の項目がSafariへの保存になります。</p>
+<a href="http://getpocket.com/add" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://getpocket.com/add" alt="Pocket : How to Save" width="150" height="130" /></a><a href="http://getpocket.com/add" target="_blank">Pocket : How to Save</a><a href="https://b.hatena.ne.jp/entry/http://getpocket.com/add" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://getpocket.com/add" alt="" /></a><br style="clear:both;" />左上の項目がSafariへの保存になります。</p>
 <h2>拡張機能をインストールする！</h2>
 <p>▼まずは拡張機能をダウンロード！<br />
 <img src="https://kotalab.com/wp-content/uploads/pocketsafari_130508_02.jpg" alt="pocketsafari_130508_02" width="242" height="129" class="alignnone size-full wp-image-7057" /><br />

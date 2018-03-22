@@ -54,4 +54,4 @@ comments: []
 クリスマスケーキの予約はもうできないみたいなんですが、当日販売分もあるそうなので予約がまだの方は当日行ってみたらもしかしたら手に入るかもしれませんよ！</p>
 <h3>パティスリーエチエンヌの情報</h3>
 <p>小田急線新百合ケ丘駅から徒歩で約7分くらいのところにお店があります。<br />
-詳しくはこちら：<a href="http://etienne.jp/about.html" target="_blank">エチエンヌについて</a><a href="http://b.hatena.ne.jp/entry/http://etienne.jp/about.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://etienne.jp/about.html" alt="" /></a></p>
+詳しくはこちら：<a href="http://etienne.jp/about.html" target="_blank">エチエンヌについて</a><a href="https://b.hatena.ne.jp/entry/http://etienne.jp/about.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://etienne.jp/about.html" alt="" /></a></p>

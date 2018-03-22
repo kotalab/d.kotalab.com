@@ -28,14 +28,14 @@ comments: []
 iPadmini用のスタンドを購入しました。@kotala_bです。<br />
 ▼購入したのはこちら</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003O7F6Y6/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31yaCKF5QtL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B003O7F6Y6/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31yaCKF5QtL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003O7F6Y6/same-22/ref=nosim/" rel="nofollow" target="_blank">デバイスジャパン Apple iPad対応スタンド(Xstand)</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B003O7F6Y6/same-22/ref=nosim/" rel="nofollow" target="_blank">デバイスジャパン Apple iPad対応スタンド(Xstand)</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> Goodprice     </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=Apple%20iPad%91%CE%89%9E%83X%83%5E%83%93%83h%20Xstand&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=Apple%20iPad%91%CE%89%9E%83X%83%5E%83%93%83h%20Xstand&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
@@ -81,13 +81,13 @@ iPadminiの場合、縦置きするとこの台に乗りません。<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102817.jpg" width="448" height="336" /><br />
 ▼上下を逆にして置きます。<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102814.jpg" width="448" height="336" /></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Flcd-clock-hd%252Fid364744542%253Fmt%253D8%2526uo%253D4"><img src="http://a107.phobos.apple.com/us/r1000/106/Purple/v4/3e/67/60/3e676009-b50c-a63d-f387-119f69ae9231/mzm.xhjzovqh.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Flcd-clock-hd%252Fid364744542%253Fmt%253D8%2526uo%253D4"><img src="http://a107.phobos.apple.com/us/r1000/106/Purple/v4/3e/67/60/3e676009-b50c-a63d-f387-119f69ae9231/mzm.xhjzovqh.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Flcd-clock-hd%252Fid364744542%253Fmt%253D8%2526uo%253D4">LCD Clock HD</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Flcd-clock-hd%252Fid364744542%253Fmt%253D8%2526uo%253D4">LCD Clock HD</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.15時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fforyou-inc.%252Fid295737238%253Fuo%253D4">forYou inc.</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fforyou-inc.%252Fid295737238%253Fuo%253D4">forYou inc.</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -121,25 +121,25 @@ MacBook Airを置いても安定感ばっちりです！</p>
 980円というお手頃価格な上に、元の値段が3980円とそこそこするので値段の割には<strong>安っぽさの感じないスタンド</strong>でした。<br />
 いつまで割引が続いているかかわからないので<strong>気になった方はお早めに！オススメです！</strong></p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003O7F6Y6/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31yaCKF5QtL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B003O7F6Y6/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31yaCKF5QtL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003O7F6Y6/same-22/ref=nosim/" rel="nofollow" target="_blank">デバイスジャパン Apple iPad対応スタンド(Xstand)</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B003O7F6Y6/same-22/ref=nosim/" rel="nofollow" target="_blank">デバイスジャパン Apple iPad対応スタンド(Xstand)</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> Goodprice     </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=Apple%20iPad%91%CE%89%9E%83X%83%5E%83%93%83h%20Xstand&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=Apple%20iPad%91%CE%89%9E%83X%83%5E%83%93%83h%20Xstand&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <hr>
 <p>このアプリを使って更新しました！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1.mzstatic.com/us/r1000/065/Purple/v4/4c/c6/a8/4cc6a855-cc5c-34ed-0436-36e219eafb81/mzl.xejvrijs.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1.mzstatic.com/us/r1000/065/Purple/v4/4c/c6/a8/4cc6a855-cc5c-34ed-0436-36e219eafb81/mzl.xejvrijs.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iPhone</span></div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" target="_blank">ポチレバ</a></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iPhone</span></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com" target="_blank">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

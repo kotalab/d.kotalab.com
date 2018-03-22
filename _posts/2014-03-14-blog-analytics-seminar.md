@@ -31,7 +31,7 @@ comments:
   content: "[&#8230;]  [&#8230;]"
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/blog-analytics-seminar_140314_01-546x274.jpg" alt="blog-analytics-seminar_140314_01" width="546" height="274" class="alignnone size-large wp-image-11127" /><br />
-<a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a><a href="http://b.hatena.ne.jp/entry/http://akio0911.net/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://akio0911.net/" alt="" /></a>のアキオさんが主催する「ブロガー向けアクセス解析セミナー」に行ってきました！<br />
+<a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a><a href="https://b.hatena.ne.jp/entry/http://akio0911.net/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://akio0911.net/" alt="" /></a>のアキオさんが主催する「ブロガー向けアクセス解析セミナー」に行ってきました！<br />
 Twitterで「ブロガー向けアクセス解析セミナー」の告知をたまたまみつけて、気になる内容だったので解析希望枠で即応募！たぶん一番乗り！</p>
 <p>今回のセミナーの感想をスゴく簡単にいうと<br />
 行ってよかった！アクセス解析を希望してよかった！<br />
@@ -70,7 +70,7 @@ Google Analyticsのメイン画面中央にあるグラフは「すべての訪�
 詳しくは<a href="https://mobile.twitter.com/akio0911" target="_blank">アキオさん</a>まで！</p>
 <p>追記：<br />
 第2回の開催は4月19日に決定したそうです！<br />
-<a href="http://akio0911.net/archives/27318" target="_blank">参加者のブログをその場でアクセス解析しちゃうイベントの第2回を4月19日（土曜）に開催します！ - 拡張現実ライフ</a><a href="http://b.hatena.ne.jp/entry/http://akio0911.net/archives/27318" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://akio0911.net/archives/27318" alt="" /></a></p>
+<a href="http://akio0911.net/archives/27318" target="_blank">参加者のブログをその場でアクセス解析しちゃうイベントの第2回を4月19日（土曜）に開催します！ - 拡張現実ライフ</a><a href="https://b.hatena.ne.jp/entry/http://akio0911.net/archives/27318" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://akio0911.net/archives/27318" alt="" /></a></p>
 <h3>500いいねをめざします！</h3>
 <p>アクセス解析セミナーでわかった僕のブログの場合の「じゃあどうすればいいか？」は、「Facebookページのいいねをもっと増やすこと」でした。アキオさんにサラッと「500いいね！まで」と言われたのがかなり印象に残ってます。まだ80ちょっとなのにいきなり500って。</p>
 <p>▼というわけでみなさんの「いいね！」おまちしてます！</p>

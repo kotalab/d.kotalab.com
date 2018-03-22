@@ -69,13 +69,13 @@ iPhoneのホーム画面には2つのフォルダがあります。@kotala_bで�
 miilは撮った料理の写真をSNSに投稿することが出来るアプリです。<br />
 miilをフォルダに入れるとしたらどこへ入れますか？<br />
 もし今使っているフォルダの名前が「写真」や「SNS」のようにカテゴリーごとに分けていたら、その<strong>分け方を変えればアプリを簡単に見つけ出すことが出来るかも知れません。</strong></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmiiru-mo-fanoo-liao-likamera%252Fid472973118%253Fmt%253D8%2526uo%253D4"><img src="http://a1841.phobos.apple.com/us/r1000/101/Purple2/v4/28/9b/98/289b987d-bae8-74a3-e376-414013b5e591/mzl.wrxvhyan.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmiiru-mo-fanoo-liao-likamera%252Fid472973118%253Fmt%253D8%2526uo%253D4"><img src="http://a1841.phobos.apple.com/us/r1000/101/Purple2/v4/28/9b/98/289b987d-bae8-74a3-e376-414013b5e591/mzl.wrxvhyan.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmiiru-mo-fanoo-liao-likamera%252Fid472973118%253Fmt%253D8%2526uo%253D4">ミイル【魔法のお料理カメラ】 miil - Food camera for iPhone (毎日のクッキングや外食のおいしい写真とレシピを簡単共有！Facebook、TwitterやLINEにも投稿できる無料のグルメ＆ソーシャルアプリ)</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmiiru-mo-fanoo-liao-likamera%252Fid472973118%253Fmt%253D8%2526uo%253D4">ミイル【魔法のお料理カメラ】 miil - Food camera for iPhone (毎日のクッキングや外食のおいしい写真とレシピを簡単共有！Facebook、TwitterやLINEにも投稿できる無料のグルメ＆ソーシャルアプリ)</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.03.28時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ffrogapps-inc.%252Fid472973121%253Fuo%253D4">FrogApps, Inc.</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ffrogapps-inc.%252Fid472973121%253Fuo%253D4">FrogApps, Inc.</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

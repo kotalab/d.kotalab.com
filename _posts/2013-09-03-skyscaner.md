@@ -48,18 +48,18 @@ comments:
 <p>新幹線は乗換案内で簡単に調べられました。<br />
 でも飛行機って安い航空券を探すのにどうやって調べればいいんでしょう。<br />
 Yahoo!乗換案内で調べても高い航空券しか出てこないし。<br />
-そういえばなんかあったようなと思い出したのが、最近読んだ高城剛さんの「<a href="http://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank">モノを捨てよ 世界へ出よう</a>」という本。<br />
+そういえばなんかあったようなと思い出したのが、最近読んだ高城剛さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank">モノを捨てよ 世界へ出よう</a>」という本。<br />
 本棚から出してきて読み返してみつけました！本の中でスカイスキャナーという安い航空券が探せるサイトが紹介されていました！</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41lXVy2OarL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41lXVy2OarL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank">モノを捨てよ 世界へ出よう (宝島SUGOI文庫)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank">モノを捨てよ 世界へ出よう (宝島SUGOI文庫)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">高城 剛 宝島社 2013-01-10    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83%82%83m%82%F0%8E%CC%82%C4%82%E6%20%90%A2%8AE%82%D6%8Fo%82%E6%82%A4%20%28%95%F3%93%87SUGOI%95%B6%8C%C9%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%83%82%83m%82%F0%8E%CC%82%C4%82%E6%20%90%A2%8AE%82%D6%8Fo%82%E6%82%A4%20%28%95%F3%93%87SUGOI%95%B6%8C%C9%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12159204%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>
@@ -118,45 +118,45 @@ iPhoneアプリには「地図で検索」という検索方法もあります�
 来年は海外に行きたいなーと思ったのでした。</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41lXVy2OarL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41lXVy2OarL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank">モノを捨てよ 世界へ出よう (宝島SUGOI文庫)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank">モノを捨てよ 世界へ出よう (宝島SUGOI文庫)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">高城 剛 宝島社 2013-01-10    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83%82%83m%82%F0%8E%CC%82%C4%82%E6%20%90%A2%8AE%82%D6%8Fo%82%E6%82%A4%20%28%95%F3%93%87SUGOI%95%B6%8C%C9%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4800206804/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%83%82%83m%82%F0%8E%CC%82%C4%82%E6%20%90%A2%8AE%82%D6%8Fo%82%E6%82%A4%20%28%95%F3%93%87SUGOI%95%B6%8C%C9%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12159204%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/486391671X/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51R3KeLvdQL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/486391671X/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51R3KeLvdQL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/486391671X/same-22/" rel="nofollow" target="_blank">LIFE PACKING(ライフパッキング)【未来を生きるためのモノと知恵】</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/486391671X/same-22/" rel="nofollow" target="_blank">LIFE PACKING(ライフパッキング)【未来を生きるためのモノと知恵】</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">高城 剛 晋遊舎 2012-11-15    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/486391671X/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=LIFE%20PACKING%28%83%89%83C%83t%83p%83b%83L%83%93%83O%29%81y%96%A2%97%88%82%F0%90%B6%82%AB%82%E9%82%BD%82%DF%82%CC%83%82%83m%82%C6%92m%8Cb%81z&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/486391671X/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=LIFE%20PACKING%28%83%89%83C%83t%83p%83b%83L%83%93%83O%29%81y%96%A2%97%88%82%F0%90%B6%82%AB%82%E9%82%BD%82%DF%82%CC%83%82%83m%82%C6%92m%8Cb%81z&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12099954%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4838725825/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41jYX6eIs7L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4838725825/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41jYX6eIs7L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4838725825/same-22/" rel="nofollow" target="_blank">21世紀の英会話</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4838725825/same-22/" rel="nofollow" target="_blank">21世紀の英会話</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">高城 剛 マガジンハウス 2013-08-29    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4838725825/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=21%90%A2%8BI%82%CC%89p%89%EF%98b&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4838725825/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=21%90%A2%8BI%82%CC%89p%89%EF%98b&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12440111%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

@@ -53,7 +53,7 @@ DropboxやEvernoteなどもありますが、一般的なクラウドストレ�
 <p>無料1TB（1枚当たり100MBまで）、年間499.99ドルのプランで2TB。<br />
 5月20日に新料金プランが発表され、これまでとは大きく変わりました。<br />
 今までの月100MBのアップロード制限がなくなったことで大本命に。<br />
-<a href="http://www.flickr.com/" target="_blank">Welcome to Flickr - Photo Sharing</a></p>
+<a href="https://www.flickr.com/" target="_blank">Welcome to Flickr - Photo Sharing</a></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/flickstackr-flickr/id364895358?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1829.phobos.apple.com/us/r30/Purple4/v4/e7/ec/c2/e7ecc2d6-494e-fce7-f12a-0e76b5f6fdcc/57.png" width="80" /></a></div>
 <div class="applinktext">

@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 15
-wordpress_url: http://kotala.wordpress.com/?p=15
+wordpress_url: https://kotala.wordpress.com/?p=15
 date: '2012-05-11 21:40:14 +0900'
 date_gmt: '2012-05-11 12:40:14 +0900'
 category:
@@ -18,7 +18,7 @@ tags: []
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/beer.jpg"><img src="https://kotalab.com/wp-content/uploads/beer.jpg" alt="" title="beer" width="240" height="320" class="alignnone size-full wp-image-1055" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/sekimura/4959046672/" title="beer">ビール</a> / sekimura</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/sekimura/4959046672/" title="beer">ビール</a> / sekimura</span><br />
 半身浴が日課な@kotala_bです。<br />
 仕事から帰宅したらまずは風呂に入りたい。風呂の中でゆっくりと1日の疲れとりたい。<br />
 それなのに帰ってきてホッと椅子に座ってしまうと様々な誘惑（冷えたビール・テレビ）が待ち構えていてすぐに風呂には入れない。<br />

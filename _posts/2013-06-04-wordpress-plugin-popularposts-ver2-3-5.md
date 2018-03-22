@@ -21,7 +21,7 @@ tags:
 comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" width="448" height="336" class="alignnone size-full wp-image-1330" /><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 WordpressPopularPostsで人気エントリーをサイドバーに表示させています。こたら（@kotala_b）です。<br />
 最新の2.3.5にアップデートしたところサイドバーの表示が消えてしまいました。<br />
 今は再び表示出来るようになったので、その解決法をご紹介します。<br />

@@ -72,15 +72,15 @@ comments: []
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4048689525/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51ByQvQe1%2BL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4048689525/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51ByQvQe1%2BL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4048689525/same-22/" rel="nofollow" target="_blank">アジャイルな時間管理術 ポモドーロテクニック入門</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4048689525/same-22/" rel="nofollow" target="_blank">アジャイルな時間管理術 ポモドーロテクニック入門</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">Staffan Noeteberg アスキー・メディアワークス 2010-12-16    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4048689525/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83A%83W%83%83%83C%83%8B%82%C8%8E%9E%8A%D4%8A%C7%97%9D%8Fp%20%83%7C%83%82%83h%81%5B%83%8D%83e%83N%83j%83b%83N%93%FC%96%E5&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4048689525/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%83A%83W%83%83%83C%83%8B%82%C8%8E%9E%8A%D4%8A%C7%97%9D%8Fp%20%83%7C%83%82%83h%81%5B%83%8D%83e%83N%83j%83b%83N%93%FC%96%E5&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6905576%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

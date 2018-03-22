@@ -24,7 +24,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/egypt_120714_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/egypt_120714_01.jpg" alt="" title="egypt_120714_01" width="448" height="336" class="alignnone size-full wp-image-1446" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/31029865@N06/6775702703/" target="_blank">Roppongi Hills Mori Tower</a> / Dick Thomas Johnson</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/31029865@N06/6775702703/" target="_blank">Roppongi Hills Mori Tower</a> / Dick Thomas Johnson</span><br />
 六本木ヒルズに行った目的は古代エジプト展です。@kotala_bです。<br />
 7月7日から9月17日まで六本木ヒルズ52階森アーツセンターギャラリーで開催中の<strong>大英博物館古代エジプト展</strong>に行ってきました。<br />
 <!--more--></p>
@@ -45,7 +45,7 @@ comments: []
 それが生で見られる機会など滅多にないので行くことにしました。</p>
 <h2>行ってきた</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/egypt_120714_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/egypt_120714_04.jpg" alt="" title="egypt_120714_04" width="448" height="336" class="alignnone size-full wp-image-1451" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/mckaysavage/5277474532/" target="_blank">The Book of the Dead #1</a> / mckaysavage</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/mckaysavage/5277474532/" target="_blank">The Book of the Dead #1</a> / mckaysavage</span><br />
 7月11日に行ってきました。<br />
 水曜日で平日ということもありスムーズに見て回ることが出来ました。<br />
 館内は撮影禁止となっているので自分で撮った写真ではありません。<br />

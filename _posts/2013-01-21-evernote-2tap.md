@@ -34,23 +34,23 @@ Evernoteには色々なメモが入ってます。@kotala_bです。<br />
 <h2>使うアプリは2つ</h2>
 <p>Evernoteのクライアントアプリ「SmartEver」と便利な検索アプリ「Seeq」の2つです。<br />
 この2つを使うことで、毎日見たいノートをたったの2タップで開けるようになります！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4"><img src="http://a1946.phobos.apple.com/us/r1000/062/Purple/v4/03/e5/86/03e5863b-78e4-fab1-d7c6-9adb6d9ca301/mza_5251020485347599819.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4"><img src="http://a1946.phobos.apple.com/us/r1000/062/Purple/v4/03/e5/86/03e5863b-78e4-fab1-d7c6-9adb6d9ca301/mza_5251020485347599819.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4">SmartEver - サクサク使える軽量Evernoteクライアント</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4">SmartEver - サクサク使える軽量Evernoteクライアント</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.01.21時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fmakoto-setoh%252Fid297356141%253Fuo%253D4">Makoto Setoh</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fmakoto-setoh%252Fid297356141%253Fuo%253D4">Makoto Setoh</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a134.phobos.apple.com/us/r1000/061/Purple/v4/68/52/ac/6852ac7f-1eb8-3515-1a7c-7ea00c584682/mzl.oqlpbwcj.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a134.phobos.apple.com/us/r1000/061/Purple/v4/68/52/ac/6852ac7f-1eb8-3515-1a7c-7ea00c584682/mzl.oqlpbwcj.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
 <div class="pochi_price" style="display:inline;">250円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.01.21時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -61,13 +61,13 @@ SmartEver内の検索機能を使っても良いですしTagEverを使ったり�
 「SmartEver」タグをつければSmartEverアプリ内からすぐにノートを表示出来るようになります。<br />
 毎日見ないにしても、買い物リストや備忘録などある程度見返す頻度の高いノートをSmartEverに入れています。<br />
 そのなかから特に頻度の高いノートだけを見たい時、SmartEverの中から探すのも面倒くさい自分がいました。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ftagever-evernotenotaguwo-zi%252Fid543751156%253Fmt%253D8%2526uo%253D4"><img src="http://a1657.phobos.apple.com/us/r1000/084/Purple/v4/ac/4a/5b/ac4a5b51-86c0-0046-8862-c6343e9ee6da/mzl.ycgxxitg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ftagever-evernotenotaguwo-zi%252Fid543751156%253Fmt%253D8%2526uo%253D4"><img src="http://a1657.phobos.apple.com/us/r1000/084/Purple/v4/ac/4a/5b/ac4a5b51-86c0-0046-8862-c6343e9ee6da/mzl.ycgxxitg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ftagever-evernotenotaguwo-zi%252Fid543751156%253Fmt%253D8%2526uo%253D4">TagEver - Evernoteのタグを自由に操作</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ftagever-evernotenotaguwo-zi%252Fid543751156%253Fmt%253D8%2526uo%253D4">TagEver - Evernoteのタグを自由に操作</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.01.21時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fshamrock-records-inc.%252Fid443431466%253Fuo%253D4">Shamrock Records, Inc.</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fshamrock-records-inc.%252Fid443431466%253Fuo%253D4">Shamrock Records, Inc.</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -90,23 +90,23 @@ Seeqを起動する1タップとSeeqからアイコンを押す1タップ、計2
 今までのやり方に面倒くささを感じていたら是非試してください！<br />
 ▼SmarteverのURLスキームを利用することでこんなことも出来るようになります！<br />
 <a href="https://kotalab.com/evernote-task-management" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="時間指定でEvernoteの特定のノートを開く方法！しかもたったの1タップ！ | kotala's note" width="150" /></a><a href="https://kotalab.com/evernote-task-management" target="_blank">時間指定でEvernoteの特定のノートを開く方法！しかもたったの1タップ！ | kotala's note</a><br style="clear:both;" /></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4"><img src="http://a1946.phobos.apple.com/us/r1000/062/Purple/v4/03/e5/86/03e5863b-78e4-fab1-d7c6-9adb6d9ca301/mza_5251020485347599819.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4"><img src="http://a1946.phobos.apple.com/us/r1000/062/Purple/v4/03/e5/86/03e5863b-78e4-fab1-d7c6-9adb6d9ca301/mza_5251020485347599819.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4">SmartEver - サクサク使える軽量Evernoteクライアント</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4">SmartEver - サクサク使える軽量Evernoteクライアント</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.01.21時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fmakoto-setoh%252Fid297356141%253Fuo%253D4">Makoto Setoh</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fmakoto-setoh%252Fid297356141%253Fuo%253D4">Makoto Setoh</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a134.phobos.apple.com/us/r1000/061/Purple/v4/68/52/ac/6852ac7f-1eb8-3515-1a7c-7ea00c584682/mzl.oqlpbwcj.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a134.phobos.apple.com/us/r1000/061/Purple/v4/68/52/ac/6852ac7f-1eb8-3515-1a7c-7ea00c584682/mzl.oqlpbwcj.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
 <div class="pochi_price" style="display:inline;">250円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.01.21時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

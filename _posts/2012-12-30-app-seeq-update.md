@@ -31,13 +31,13 @@ comments: []
 朝から興奮してます。@kotala_bです。<br />
 その理由はSeeqのアップデートです！<br />
 Seeqは今回バージョン1.4になりスゴイ機能が追加されました！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1259.phobos.apple.com/us/r1000/118/Purple/v4/89/9f/17/899f1725-a244-da72-6fb6-08938b10e425/mzl.lfbsajvk.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1259.phobos.apple.com/us/r1000/118/Purple/v4/89/9f/17/899f1725-a244-da72-6fb6-08938b10e425/mzl.lfbsajvk.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
 <div class="pochi_price" style="display:inline;">250円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.30時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -70,18 +70,18 @@ Seeqは今回バージョン1.4になりスゴイ機能が追加されました�
 <a href="https://kotalab.com/wp-content/uploads/seeq121230_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq121230_03-300x513.png" alt="seeq121230_03" width="300" height="513" class="alignnone size-medium wp-image-5150" /></a><br />
 これで完了！<br />
 ▼Tweetされたか確認してみました。</p>
-<blockquote class="twitter-tweet" lang="ja"><p><a href="https://twitter.com/search/%23Seeqに追加">#Seeqに追加</a>Rowline<a href="http://t.co/6NX5cToi" title="http://tinyurl.com/cp24gnh">tinyurl.com/cp24gnh</a>添付のアイコン画像をコピーしてから上記URLを開いてください。 <a href="http://t.co/2zqnuAWC" title="http://twitter.com/kotala_b/status/285166280540053504/photo/1">twitter.com/kotala_b/statu&hellip;</a></p>
+<blockquote class="twitter-tweet" lang="ja"><p><a href="https://twitter.com/search/%23Seeqに追加">#Seeqに追加</a>Rowline<a href="http://t.co/6NX5cToi" title="http://tinyurl.com/cp24gnh">tinyurl.com/cp24gnh</a>添付のアイコン画像をコピーしてから上記URLを開いてください。 <a href="http://t.co/2zqnuAWC" title="https://twitter.com/kotala_b/status/285166280540053504/photo/1">twitter.com/kotala_b/statu&hellip;</a></p>
 <p>&mdash; こたらさん (@kotala_b) <a href="https://twitter.com/kotala_b/status/285166280540053504" data-datetime="2012-12-29T23:31:54+00:00">12月 29, 2012</a></p></blockquote>
 <p><</p>
 <p>p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br />
 ばっちりです！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Frowline%252Fid586006835%253Fmt%253D8%2526uo%253D4"><img src="http://a681.phobos.apple.com/us/r1000/106/Purple/v4/ec/94/2f/ec942f52-5d1d-9dcf-7837-31977c5fa4c1/mzl.lwalmefe.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Frowline%252Fid586006835%253Fmt%253D8%2526uo%253D4"><img src="http://a681.phobos.apple.com/us/r1000/106/Purple/v4/ec/94/2f/ec942f52-5d1d-9dcf-7837-31977c5fa4c1/mzl.lwalmefe.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Frowline%252Fid586006835%253Fmt%253D8%2526uo%253D4">Rowline</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Frowline%252Fid586006835%253Fmt%253D8%2526uo%253D4">Rowline</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.30時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -97,23 +97,23 @@ Seeqは今回バージョン1.4になりスゴイ機能が追加されました�
 <strong>この方法は定期的にSOICHAを起動して自分で保存する必要があります。</strong><br />
 ▼僕は忘れないようにDueに登録しました。<br />
 <a href="https://kotalab.com/wp-content/uploads/seeq121230_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq121230_04-300x513.jpg" alt="seeq121230_04" width="300" height="513" class="alignnone size-medium wp-image-5153" /></a></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsoicha-j-for-twitter%252Fid424561074%253Fmt%253D8%2526uo%253D4"><img src="http://a1356.phobos.apple.com/us/r1000/109/Purple/v4/4f/1c/8c/4f1c8c4d-0b3d-f343-2d3b-9943bfe6ab2a/mzl.liyifvoa.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsoicha-j-for-twitter%252Fid424561074%253Fmt%253D8%2526uo%253D4"><img src="http://a1356.phobos.apple.com/us/r1000/109/Purple/v4/4f/1c/8c/4f1c8c4d-0b3d-f343-2d3b-9943bfe6ab2a/mzl.liyifvoa.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsoicha-j-for-twitter%252Fid424561074%253Fmt%253D8%2526uo%253D4">SOICHA/j for Twitter</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsoicha-j-for-twitter%252Fid424561074%253Fmt%253D8%2526uo%253D4">SOICHA/j for Twitter</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.30時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fflight-system-consulting-inc.%252Fid327218883%253Fuo%253D4">FLIGHT SYSTEM CONSULTING Inc.</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fflight-system-consulting-inc.%252Fid327218883%253Fuo%253D4">FLIGHT SYSTEM CONSULTING Inc.</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4"><img src="http://a1127.phobos.apple.com/us/r1000/083/Purple/v4/09/e8/6c/09e86c7f-acc1-f73d-7198-f1dc29e5d99b/mzm.sivkbxum.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4"><img src="http://a1127.phobos.apple.com/us/r1000/083/Purple/v4/09/e8/6c/09e86c7f-acc1-f73d-7198-f1dc29e5d99b/mzm.sivkbxum.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4">Due 〜 リマインダー、タイマー、アラーム</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4">Due 〜 リマインダー、タイマー、アラーム</span></div>
 <div class="pochi_price" style="display:inline;">450円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.30時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fphocus-llp%252Fid387681526%253Fuo%253D4">Phocus LLP</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fphocus-llp%252Fid387681526%253Fuo%253D4">Phocus LLP</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -122,26 +122,26 @@ Seeqは今回バージョン1.4になりスゴイ機能が追加されました�
 「#Seeqに追加」はこのURLをRSSリーダーに追加することでRSSとして読むことが出来ます。<br />
 <a href="http://search.twitter.com/search.atom?q=%23seeq%E3%81%AB%E8%BF%BD%E5%8A%A0" title="#Seeqに追加" target="_blank">http://search.twitter.com/search.atom?q=%23seeq%E3%81%AB%E8%BF%BD%E5%8A%A0</a><br />
 <strong>RSSなら自動で新しいモノが追加されていくので、貯めるだけならこちらの方が便利。</strong></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid325502379%253Fmt%253D8%2526uo%253D4"><img src="http://a1396.phobos.apple.com/us/r1000/113/Purple/v4/1e/0f/e5/1e0fe52a-a678-c24a-557e-dcafcf8bbf9b/mzm.bvkpybrb.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid325502379%253Fmt%253D8%2526uo%253D4"><img src="http://a1396.phobos.apple.com/us/r1000/113/Purple/v4/1e/0f/e5/1e0fe52a-a678-c24a-557e-dcafcf8bbf9b/mzm.bvkpybrb.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid325502379%253Fmt%253D8%2526uo%253D4">Reeder</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid325502379%253Fmt%253D8%2526uo%253D4">Reeder</span></div>
 <div class="pochi_price" style="display:inline;">250円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.30時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fsilvio-rizzi%252Fid325502382%253Fuo%253D4">Silvio Rizzi</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fsilvio-rizzi%252Fid325502382%253Fuo%253D4">Silvio Rizzi</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>最後に</h2>
 <p>更にスゴくなったSeeqのスゴいところをご紹介しました！<br />
 <strong>便利なURLスキームを共有して、みんなで快適なiPhoneライフを過ごしましょう！</strong></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1259.phobos.apple.com/us/r1000/118/Purple/v4/89/9f/17/899f1725-a244-da72-6fb6-08938b10e425/mzl.lfbsajvk.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1259.phobos.apple.com/us/r1000/118/Purple/v4/89/9f/17/899f1725-a244-da72-6fb6-08938b10e425/mzl.lfbsajvk.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
 <div class="pochi_price" style="display:inline;">250円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.30時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

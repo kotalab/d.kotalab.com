@@ -33,20 +33,20 @@ SeeqにURLスキームを登録すればアプリを起動することが出来�
 <blockquote><p>この方法だとアイコンを1回1回保存してEvernoteへ移して登録してという作業がちょっとめんどくさいのが欠点です。</p></blockquote>
 <p>この方法だと正直めんどくさかったんです。<br />
 リリースから1ヶ月以上が経ちSeeqに関する情報が増えてきて、その中に簡単にアイコンを登録する方法があったのでご紹介します！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a779.phobos.apple.com/us/r1000/109/Purple/v4/c9/36/24/c93624e9-7691-11c2-73cf-904defc3c718/mzl.tqwckvue.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a779.phobos.apple.com/us/r1000/109/Purple/v4/c9/36/24/c93624e9-7691-11c2-73cf-904defc3c718/mzl.tqwckvue.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
 <div class="pochi_price" style="display:inline;">85円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.25時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <p><!--more--></p>
 <h2>Seeq内でブックマークレットを使って登録する方法</h2>
 <p>▼参考にした方法はこちら<br />
-<a href="http://www.feelingplace.com/2012/12/18/062300/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://www.feelingplace.com/2012/12/18/062300/" alt="Seeqにアイテムを追加するためのブックマークレット | Feelingplace" width="150" height="130" /></a><a href="http://www.feelingplace.com/2012/12/18/062300/" target="_blank">Seeqにアイテムを追加するためのブックマークレット | Feelingplace</a><a href="http://b.hatena.ne.jp/entry/http://www.feelingplace.com/2012/12/18/062300/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.feelingplace.com/2012/12/18/062300/" alt="" /></a><br style="clear:both;" />とてもありがたいことにアイコン登録用のブックマークレットを公開してくださっています！<br />
+<a href="http://www.feelingplace.com/2012/12/18/062300/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://www.feelingplace.com/2012/12/18/062300/" alt="Seeqにアイテムを追加するためのブックマークレット | Feelingplace" width="150" height="130" /></a><a href="http://www.feelingplace.com/2012/12/18/062300/" target="_blank">Seeqにアイテムを追加するためのブックマークレット | Feelingplace</a><a href="https://b.hatena.ne.jp/entry/http://www.feelingplace.com/2012/12/18/062300/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.feelingplace.com/2012/12/18/062300/" alt="" /></a><br style="clear:both;" />とてもありがたいことにアイコン登録用のブックマークレットを公開してくださっています！<br />
 感謝！</p>
 <h2>登録してみた！</h2>
 <p>まずは公開されてるブックマークレットをSeeqへ追加します。<br />
@@ -80,13 +80,13 @@ OKボタンを押すと入力欄が切り替わり、アイコンを登録した
 もちろんSeeqも割引中！<br />
 クリスマスセールは今日（12月25日）までです！お早めに！<br />
 <a href="https://kotalab.com/xmas-present" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/appsale_121224-448x320.png" alt="＠Rivawanさんからアプリ開発者ならではのクリスマスプレゼント！2日間限定！大人気アプリがダウンロード無料！ | kotala's note" width="150" /></a><a href="https://kotalab.com/xmas-present" target="_blank">＠Rivawanさんからアプリ開発者ならではのクリスマスプレゼント！2日間限定！大人気アプリがダウンロード無料！ | kotala's note</a><br style="clear:both;" /></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a779.phobos.apple.com/us/r1000/109/Purple/v4/c9/36/24/c93624e9-7691-11c2-73cf-904defc3c718/mzl.tqwckvue.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a779.phobos.apple.com/us/r1000/109/Purple/v4/c9/36/24/c93624e9-7691-11c2-73cf-904defc3c718/mzl.tqwckvue.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
 <div class="pochi_price" style="display:inline;">85円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.25時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

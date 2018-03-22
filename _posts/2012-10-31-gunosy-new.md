@@ -21,13 +21,13 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/gunosy_121031.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/gunosy_121031.jpg" alt="" title="gunosy_121031" width="448" height="297" class="alignnone size-full wp-image-3826" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/yourdon/3475417696/" target="_blank">Bryant Park, late Apr 2009 - 21</a> / Ed Yourdon</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/yourdon/3475417696/" target="_blank">Bryant Park, late Apr 2009 - 21</a> / Ed Yourdon</span><br />
 僕はRSSとTwitterで情報収集しています。@kotala_bです。<br />
 他にもFacebookやはてブ、Google+など人によって様々なサービスで情報収集していると思います。<br />
 この情報収集を新しいカタチで行う「<strong>Gunosy</strong>」というサービスがあるのをご存知でしょうか？<br />
 僕が<strong>Gunosy</strong>を知ったのは、今朝ツイッターをチラッと見た時でした。<br />
 <strong>Gunosy</strong>を紹介していたのはこちら。<br />
-<a href="http://saiut.com/webservice/gunosy/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://saiut.com/webservice/gunosy/" alt="RSSの時代は終わった！？自分の好みを分析して配信してくれる「Gunosy」が超便利！ | TRAVELING" width="150" height="130" /></a><a href="http://saiut.com/webservice/gunosy/" target="_blank">RSSの時代は終わった！？自分の好みを分析して配信してくれる「Gunosy」が超便利！ | TRAVELING</a><a href="http://b.hatena.ne.jp/entry/http://saiut.com/webservice/gunosy/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://saiut.com/webservice/gunosy/" alt="" /></a><br style="clear:both;" />超便利ということなので早速使ってみることにしました！<br />
+<a href="http://saiut.com/webservice/gunosy/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://saiut.com/webservice/gunosy/" alt="RSSの時代は終わった！？自分の好みを分析して配信してくれる「Gunosy」が超便利！ | TRAVELING" width="150" height="130" /></a><a href="http://saiut.com/webservice/gunosy/" target="_blank">RSSの時代は終わった！？自分の好みを分析して配信してくれる「Gunosy」が超便利！ | TRAVELING</a><a href="https://b.hatena.ne.jp/entry/http://saiut.com/webservice/gunosy/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://saiut.com/webservice/gunosy/" alt="" /></a><br style="clear:both;" />超便利ということなので早速使ってみることにしました！<br />
 <!--more--></p>
 <h2>Gunosyとは</h2>
 <p>まず先にこの<strong>Gunosy</strong>と言うのは何なのかをご紹介！<br />
@@ -65,7 +65,7 @@ comments: []
 これが僕の<strong>Gunosy</strong>ページです。<br />
 <a href="http://gunosy.com/kotala_b" target="_blank">Gunosy（グノシー）</a><br />
 そして僕に届いたトップ記事がこちら<br />
-<a href="http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" alt="お肉1000食を無料配布だって！「五反田肉祭り2012」開催 - ねとらぼ" width="150" height="130" /></a><a href="http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" target="_blank">お肉1000食を無料配布だって！「五反田肉祭り2012」開催 - ねとらぼ</a><a href="http://b.hatena.ne.jp/entry/http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" alt="" /></a><br style="clear:both;" /><strong>五反田肉祭り2012！</strong><br />
+<a href="http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" alt="お肉1000食を無料配布だって！「五反田肉祭り2012」開催 - ねとらぼ" width="150" height="130" /></a><a href="http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" target="_blank">お肉1000食を無料配布だって！「五反田肉祭り2012」開催 - ねとらぼ</a><a href="https://b.hatena.ne.jp/entry/http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://nlab.itmedia.co.jp/nl/articles/1210/29/news114.html" alt="" /></a><br style="clear:both;" /><strong>五反田肉祭り2012！</strong><br />
 確かにこれは気になる！！<br />
 こういう自分に最適化された情報が送られてくるというのも面白いのでこれから使っていこうと思います！<br />
 興味を持たれた方は是非登録してみてください！<br />

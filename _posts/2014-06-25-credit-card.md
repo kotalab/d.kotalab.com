@@ -49,7 +49,7 @@ comments: []
 <p>お店によって提携するカードは変わりますが、ほとんどが年会費無料なので近くのお店の提携カードを1枚持っておくといいですよ！</p>
 <p>カードの申込みはこちらから。<br />
 <a href="http://c.af.moshimo.com/af/c/click?a_id=440560&p_id=826&pc_id=1010&pl_id=10723&guid=ON" target="_blank">ウォルマートカード セゾン</a><img src="http://i.af.moshimo.com/af/i/impression?a_id=440560&p_id=826&pc_id=1010&pl_id=10723" width="1" height="1" style="border:none;"></p>
-<p><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882759822" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882759822" height="1" width="1" border="0">イオンカードセレクト</a></p>
+<p><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882759822" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882759822" height="1" width="1" border="0">イオンカードセレクト</a></p>
 <p><a href="http://px.a8.net/svt/ejp?a8mat=2BPSCZ+8DUUSQ+2LAC+5YJRM" target="_blank">セブンカード</a><br />
 <img border="0" width="1" height="1" src="http://www15.a8.net/0.gif?a8mat=2BPSCZ+8DUUSQ+2LAC+5YJRM" alt=""></p>
 <p><a href="http://c.af.moshimo.com/af/c/click?a_id=440561&p_id=58&pc_id=58&pl_id=2801&guid=ON" target="_blank">楽天カード新規入会キャンペーン</a><img src="http://i.af.moshimo.com/af/i/impression?a_id=440561&p_id=58&pc_id=58&pl_id=2801" width="1" height="1" style="border:none;"></p>

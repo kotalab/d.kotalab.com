@@ -54,13 +54,13 @@ Dpubに参加してきました。@kotala_bです。<br />
 1次会ではずっとiIDを表示させたiPhoneを首にぶら下げてました。<br />
 ただウロウロしてるだけでもiIDのおかげで何人もの方から「あ！こたらさんだ！」と声をかけて頂けて嬉しかったです。<br />
 iIDの効果はスゴかったです！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fiid-ofu-hui-ming-zha%252Fid545150992%253Fmt%253D8%2526uo%253D4"><img src="http://a1552.phobos.apple.com/us/r1000/071/Purple/v4/44/ce/8b/44ce8bd6-664c-de2a-89a0-91f46e4c0fb8/mzl.wrpttauk.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fiid-ofu-hui-ming-zha%252Fid545150992%253Fmt%253D8%2526uo%253D4"><img src="http://a1552.phobos.apple.com/us/r1000/071/Purple/v4/44/ce/8b/44ce8bd6-664c-de2a-89a0-91f46e4c0fb8/mzl.wrpttauk.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fiid-ofu-hui-ming-zha%252Fid545150992%253Fmt%253D8%2526uo%253D4">iID - オフ会名札</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fiid-ofu-hui-ming-zha%252Fid545150992%253Fmt%253D8%2526uo%253D4">iID - オフ会名札</span></div>
 <div class="pochi_price" style="display:inline;">85円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.02.03時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fitok%252Fid290525994%253Fuo%253D4">itok</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fitok%252Fid290525994%253Fuo%253D4">itok</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

@@ -42,7 +42,7 @@ comments: []
 <p>僕が持ってるのは「iPhoneアプリを作ってみたい」そんな単純な気持ちです。</p>
 <h3>アプリクリエイター　開発塾の応募方法</h3>
 <p>最新の講座の応募はこちらから！<br />
-<a href="http://egg-is-world.com/app-creator-dojo-develop/" target="_blank">未経験者向けのiPhoneアプリ開発講座「アプリクリエイター道場 東京塾・大阪塾」</a><a href="http://b.hatena.ne.jp/entry/http://egg-is-world.com/app-creator-dojo-develop/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://egg-is-world.com/app-creator-dojo-develop/" alt="" /></a></p>
+<a href="http://egg-is-world.com/app-creator-dojo-develop/" target="_blank">未経験者向けのiPhoneアプリ開発講座「アプリクリエイター道場 東京塾・大阪塾」</a><a href="https://b.hatena.ne.jp/entry/http://egg-is-world.com/app-creator-dojo-develop/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://egg-is-world.com/app-creator-dojo-develop/" alt="" /></a></p>
 <p>気になってるけど日程が合わないって人は、アプリ道場か講師のあきおさんのメルマガを読むといいらしいですよ！<br />
 アプリクリエイター道場・自由大学(<a href="https://twitter.com/appcreatordojo" target="_blank">@AppCreatorDojo</a>)<br />
 <a href="https://www.facebook.com/AppCreatorDojo" target="_blank">アプリクリエイター道場 - フェイスブックページ</a><br />

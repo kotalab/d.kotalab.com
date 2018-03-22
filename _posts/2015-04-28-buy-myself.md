@@ -25,7 +25,7 @@ comments: []
 でもちょっと気になるモノ。</p>
 <p>新しいモノが発売されると、つい気になることもあります。<br />
 でもそれって、自分の中から欲しいと思っていることがほとんどない。</p>
-<p>「<a href="http://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>」という<a href="https://twitter.com/@4dsk">四角大輔さん</a>の本を再読していて、そのことに気づきました。</p>
+<p>「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>」という<a href="https://twitter.com/@4dsk">四角大輔さん</a>の本を再読していて、そのことに気づきました。</p>
 <p>自分がそこまで欲しいと思っていなくてもつい手を出してしまう仕組みがあること。<br />
 その「モノを買わせる仕組み」の中に自分がいること。<br />
 この2つを意識するようにしていると、無駄遣いが減らせるような気がします。</p>
@@ -33,7 +33,7 @@ comments: []
 街は今、モノを買わせる仕組みにあふれている。<br />
 外からの刺激で反射的に「欲しい」と思わされたモノは、だいたいすぐにいらなくなる。<br />
 時間とこだわりを投入し、語れるほど愛せるモノだけを所有しよう。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>
 </p></blockquote>
 <p><!--more--></p>
 <h2>無駄遣いを減らすためには</h2>
@@ -45,7 +45,7 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="
 <blockquote><p>
 つい買おうかどうしようか迷ったら、自分の心に聞いてみて欲しい。<br />
 「そのモノについて、自分は誰かに熱く語れるか？」<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>
 </p></blockquote>
 <p>自分が欲しいのか周りの影響で欲しいのかわからない時は、モノに対する熱い思いを語れるかどうかで考えてみること。</p>
 <h2>モノを買う基準を持つ</h2>
@@ -56,22 +56,22 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="
 でもその情報自体、他の人たちの基準で考えられているものかもしれません。</p>
 <p>四角さんの基準は、</p>
 <blockquote><p>自分自身をアップグレードしてくれるかどうかを真剣に考える。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a></p>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a></p>
 </blockquote>
 <p>だそうです。</p>
 <p>僕は「自分だけの基準」というとはじめは難しく感じたので、<br />
 「<strong>この世で自分だけしか持っていなくても欲しいモノなのか？</strong>」<br />
 と自分に聞いてみるようにしてみました。</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51k6Cm1McfL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51k6Cm1McfL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">四角大輔 サンクチュアリ出版 2014-08-13    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4861139716/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4861139716/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

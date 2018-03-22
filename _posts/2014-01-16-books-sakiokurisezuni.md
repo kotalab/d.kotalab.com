@@ -33,8 +33,8 @@ comments: []
 <blockquote><p>
 人生をみずから変え、好転させていける人には、共通点があります。<br />
 それは「行動力のある人」です。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a></p></blockquote>
-<p>「行動」という最初の一歩を踏み出すことを心理学という側面から、佐々木正悟さんが書いたのが今日紹介する「<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法</a>」だ。<br />
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a></p></blockquote>
+<p>「行動」という最初の一歩を踏み出すことを心理学という側面から、佐々木正悟さんが書いたのが今日紹介する「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法</a>」だ。<br />
 <!--more--></p>
 <h2>貯金も家計簿もうまくいく6つの方法</h2>
 <p>僕はブロガーでありファイナンシャルプランナーでもある。<br />
@@ -52,7 +52,7 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="
 <h3>2.決める覚悟をする</h3>
 <blockquote><p>
 すぐやれない、というのは、それを「やる」と本当は決めていない場合もあります。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a>
 </p></blockquote>
 <p>貯金をしたいのにできないのは「貯金をする」と決めていないのかも知れない。<br />
 貯金したほうがいいんだろうなと漠然と思っているからできないということだ。<br />
@@ -63,7 +63,7 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="
 <blockquote><p>
 すぐに動けない人は、準備ができていないことが多いのです。<br />
 「すぐにやろう！」ではなく「まず準備しよう！」という意識に切替えてみるといいでしょう。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a></p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a></p></blockquote>
 <p>例えば貯金もそう。「貯金しよう！」じゃなくて「貯金の準備をしよう！」に変えるだけでできることが増えてくる。<br />
 家計簿をつけるなら「家計簿をつける準備をしよう！」<br />
 意識をほんの少し変えるだけで手のつけやすさが段違いになる。</p>
@@ -86,7 +86,7 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="
 これこそが「先読み」だ。そして不況な今はこの先読みがとっても大切になってくる。</p>
 <blockquote><p>
 現状を把握して、先読みをしてみてください。おのずといますべきことをやる意欲がわいてくるでしょう。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a>
 </p></blockquote>
 <h3>6.最大の損失を先取りする</h3>
 <p>貯金をしたい、家計簿をつけたい。でも手をつけられない。<br />
@@ -94,7 +94,7 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="
 理由を書き出して一度自分の中から出すことで「なんだこの程度の理由か」と思ってすぐやれる場合もあるし、「だったらこうすればいい」と対策が出てくる場合もある。<br />
 できないならできない最大の理由をとにかく書き出してみるのだ。</p>
 <blockquote><p>すぐやれないのであれば「すぐやれない理由は何だろう」と立ち止まって考えてみてください。おのずと答えは見えてくるはずです。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a></p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a></p></blockquote>
 <h3>さいごに</h3>
 <p>本書には今回紹介した内容をはじめ、全55項目の先送りせずにすぐやる人に変わる方法が書かれている。<br />
 この記事を読んだだけではお金も貯まらないし家計簿もつけられないし、本書を読んでも同じだろう。<br />
@@ -103,20 +103,20 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="
 <blockquote><p>
 あなたがもし知識やノウハウをもっているとすれば、それに行動をプラスするだけで、他の大勢に大きな差をつけることができるのです。<br />
 あなたに足りないのは、最初の一歩。ただ、それだけです。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a></p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a></p></blockquote>
 <p>「人生をみずから変えていきたい」「好転させていきたい」そう思っているなら是非読んでみて欲しい。<br />
 オススメです！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51lLDYud3FL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51lLDYud3FL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">佐々木 正悟 KADOKAWA / 中経出版 2012-12-27    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00ARBMSQG/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4806142476/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00ARBMSQG/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4806142476/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

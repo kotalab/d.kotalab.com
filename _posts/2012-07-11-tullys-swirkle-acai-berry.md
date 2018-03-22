@@ -22,7 +22,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/tullys_120711.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tullys_120711.jpg" alt="" title="tullys_120711" width="448" height="336" class="alignnone size-full wp-image-1369" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/mah_japan/2783868355/" target="_blank">a photo with manual adjustment</a> / mah_japan</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/mah_japan/2783868355/" target="_blank">a photo with manual adjustment</a> / mah_japan</span><br />
 <strong>アサイー</strong>と<strong>スワークル</strong>どちらも初体験です。@kotala_bです。<br />
 ところで<strong>スワークル</strong>と<strong>アサイー</strong>は一体なんなのでしょう。<br />
 アサイーは何度か耳にしたことはあったんですが、<strong>スワークル</strong>というものは今日初めて知りました。<br />
@@ -30,7 +30,7 @@ comments: []
 <h2>スワークルとは</h2>
 <p><strong>スワークル</strong>という言葉を初めて目にするという方もいらっしゃるでしょう。<br />
 Wikipediaで調べるとこう書いてありました。<br />
-<a href="http://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC#.E3.83.89.E3.83.AA.E3.83.B3.E3.82.AF" title="スワークル" target="_blank">スワークル</a></p>
+<a href="https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC#.E3.83.89.E3.83.AA.E3.83.B3.E3.82.AF" title="スワークル" target="_blank">スワークル</a></p>
 <blockquote><p>フローズン状のドリンクで、マンゴータンゴ、ロイヤルミルクティー、エスプレッソ、抹茶、などがある。その他にあんず等季節ごとに新商品が提供される。</p></blockquote>
 <p>どうやらTULLY'S独自の商品名のようです。</p>
 <h2>アサイーとは</h2>

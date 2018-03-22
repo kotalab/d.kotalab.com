@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/whiteplan_120928_01.jpg"><img src="https://kotalab.com/wp-content/uploads/whiteplan_120928_01.jpg" alt="" title="whiteplan_120928_01" width="448" height="336" class="alignnone size-full wp-image-3012" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/nobmouse/4052848608/" target="_blank">Contracts</a> / NobMouse</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/nobmouse/4052848608/" target="_blank">Contracts</a> / NobMouse</span><br />
 SoftBankのホワイトプランが新しくなっていることを知りませんでした。@kotala_bです。<br />
 iPhone5に機種変更した時の申込内容確認書を見て初めて知りました。<br />
 申込内容確認書にはホワイトプランの変更に伴い、「契約解除料9975円の支払いが必要になります。」と書いてあり「えっ？何これ？」っていうのがありました。<br />

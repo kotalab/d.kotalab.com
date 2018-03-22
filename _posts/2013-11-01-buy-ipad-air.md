@@ -65,32 +65,32 @@ Appleオンラインストアではもっと早い時間から販売されてい
 <p><img src="https://kotalab.com/wp-content/uploads/buyipadair_131101_04-546x546.jpg" alt="buyipadair_131101_04" width="546" height="546" class="alignnone size-large wp-image-10100" /><br />
 ヨドバシカメラはiPad Airをそこそこ確保してる感じでしたが、大型店舗でも夕方になるとほとんどの店舗でほとんどのモデルが予約になってました。<br />
 入荷状況が気になる方はヨドバシカメラの在庫をチェックしてみてください。<br />
-<span class="removed_link" title="http://www.yodobashi.com/ec/news/1000069210/index.html?kind=0002&amp;store=0011">ヨドバシ.com -ヨドバシカメラ店舗ニュース一覧-新宿西口本店のニュース一覧-【iPad Air】Wi-Fi モデル　各店舗在庫状況</span><br />
+<span class="removed_link" title="www.yodobashi.com/ec/news/1000069210/index.html?kind=0002&amp;store=0011">ヨドバシ.com -ヨドバシカメラ店舗ニュース一覧-新宿西口本店のニュース一覧-【iPad Air】Wi-Fi モデル　各店舗在庫状況</span><br />
 Appleのオンラインストアでは24時間以内の発送になってる（11/1、20時現在）ので、そちらもチェックしてみてください。<br />
 <a href="http://store.apple.com/jp/buy-ipad/ipad-air" target="_blank">iPad Air - iPad Airを購入する。送料無料。 - Apple Store (Japan)</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DE4TFRI/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51U75iKot8L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DE4TFRI/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51U75iKot8L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DE4TFRI/same-22/ref=nosim/" rel="nofollow" target="_blank">iphone5 USBケーブル iOS7 対応 ライトニングUSBケーブル iPhone5 5S 5C ipad mini 新型ipad ipod iPodnano7対応/巻取り式 全長70cm</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DE4TFRI/same-22/ref=nosim/" rel="nofollow" target="_blank">iphone5 USBケーブル iOS7 対応 ライトニングUSBケーブル iPhone5 5S 5C ipad mini 新型ipad ipod iPodnano7対応/巻取り式 全長70cm</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> HanyeTech     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=iPhone5%205S%205C%20ipad%20mini%20%90V%8C%5Eipad%20ipod%20iPodnano7%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=iPhone5%205S%205C%20ipad%20mini%20%90V%8C%5Eipad%20ipod%20iPodnano7%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00G3RYFK0/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41yN3OrPTML._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00G3RYFK0/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41yN3OrPTML._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00G3RYFK0/same-22/ref=nosim/" rel="nofollow" target="_blank">iPad Air 専用 スマートレザーケース　& 液晶保護フィルム　（クリアタイプ） & イヤフォンジャックカバー　/ オートスリープ機能つき (iPad Air 2013, ブラック)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00G3RYFK0/same-22/ref=nosim/" rel="nofollow" target="_blank">iPad Air 専用 スマートレザーケース　& 液晶保護フィルム　（クリアタイプ） & イヤフォンジャックカバー　/ オートスリープ機能つき (iPad Air 2013, ブラック)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> pas cher     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=iPad%20Air%202013&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=iPad%20Air%202013&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

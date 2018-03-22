@@ -36,20 +36,20 @@ iPhone5で撮った写真はiPhoto経由でMacから見ています。@kotala_b�
 僕はiPhoneアプリでよく画像編集をしていて、自分で用意した画像にコピーライト表示をつけてからこのブログにアップしています。<br />
 そんな時に困るのがMacで撮ったスクリーンショットをiPhoneへ送ることでした。<br />
 この悩みを解決しそうなアプリ「AirLib」が今日リリースされたというので早速使ってみました！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fairlib%252Fid632366888%253Fmt%253D8%2526uo%253D4"><img src="http://a245.phobos.apple.com/us/r1000/065/Purple/v4/d8/6b/aa/d86baaf5-2372-a690-5aa8-3cd561c69034/mzl.cwcrahdr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fairlib%252Fid632366888%253Fmt%253D8%2526uo%253D4"><img src="http://a245.phobos.apple.com/us/r1000/065/Purple/v4/d8/6b/aa/d86baaf5-2372-a690-5aa8-3cd561c69034/mzl.cwcrahdr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fairlib%252Fid632366888%253Fmt%253D8%2526uo%253D4">AirLib</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fairlib%252Fid632366888%253Fmt%253D8%2526uo%253D4">AirLib</span></div>
 <div class="pochi_price" style="display:inline;">250円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.04.17時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ffeedtailor-inc.%252Fid296489248%253Fuo%253D4">feedtailor Inc.</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ffeedtailor-inc.%252Fid296489248%253Fuo%253D4">feedtailor Inc.</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <p><!--more--></p>
 <h2>AirLibの使い方</h2>
 <p>▼詳しい使い方についてはこちらをご覧ください<br />
-<a href="http://feedtailor.jp/wp/?p=11580" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://feedtailor.jp/wp/?p=11580" alt="新作！iPhoneのカメラロールをブラウザからアクセス出来るようにするアプリ「AirLib」を公開します | 関西/大阪のiPhone・iPadアプリ開発 feedtailor Inc. 社長ブログ" width="150" height="130" /></a><a href="http://feedtailor.jp/wp/?p=11580" target="_blank">新作！iPhoneのカメラロールをブラウザからアクセス出来るようにするアプリ「AirLib」を公開します | 関西/大阪のiPhone・iPadアプリ開発 feedtailor Inc. 社長ブログ</a><a href="http://b.hatena.ne.jp/entry/http://feedtailor.jp/wp/?p=11580" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://feedtailor.jp/wp/?p=11580" alt="" /></a><br style="clear:both;" />開発者さんのページなので使い方が詳しく載っています！</p>
+<a href="http://feedtailor.jp/wp/?p=11580" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://feedtailor.jp/wp/?p=11580" alt="新作！iPhoneのカメラロールをブラウザからアクセス出来るようにするアプリ「AirLib」を公開します | 関西/大阪のiPhone・iPadアプリ開発 feedtailor Inc. 社長ブログ" width="150" height="130" /></a><a href="http://feedtailor.jp/wp/?p=11580" target="_blank">新作！iPhoneのカメラロールをブラウザからアクセス出来るようにするアプリ「AirLib」を公開します | 関西/大阪のiPhone・iPadアプリ開発 feedtailor Inc. 社長ブログ</a><a href="https://b.hatena.ne.jp/entry/http://feedtailor.jp/wp/?p=11580" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://feedtailor.jp/wp/?p=11580" alt="" /></a><br style="clear:both;" />開発者さんのページなので使い方が詳しく載っています！</p>
 <h2>WiFi回線内で画像を共有するAirLib</h2>
 <p>▼同一WiFi回線内であればカメラロールの共有が出来るということなので早速試してみました。<br />
 <img src="https://kotalab.com/wp-content/uploads/airlib_130417_01-448x262.jpg" alt="airlib_130417_01" width="448" height="262" class="alignnone size-large wp-image-6852" /><br />
@@ -69,13 +69,13 @@ by開発者さん</p></blockquote>
 <h2>最後に</h2>
 <p>iPhoneとPCの連携が便利になるアプリのご紹介でした！<br />
 リリースされたアプリなので不具合などあるかもしれませんが今のところ順調に使えました！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fairlib%252Fid632366888%253Fmt%253D8%2526uo%253D4"><img src="http://a245.phobos.apple.com/us/r1000/065/Purple/v4/d8/6b/aa/d86baaf5-2372-a690-5aa8-3cd561c69034/mzl.cwcrahdr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fairlib%252Fid632366888%253Fmt%253D8%2526uo%253D4"><img src="http://a245.phobos.apple.com/us/r1000/065/Purple/v4/d8/6b/aa/d86baaf5-2372-a690-5aa8-3cd561c69034/mzl.cwcrahdr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fairlib%252Fid632366888%253Fmt%253D8%2526uo%253D4">AirLib</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fairlib%252Fid632366888%253Fmt%253D8%2526uo%253D4">AirLib</span></div>
 <div class="pochi_price" style="display:inline;">250円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.04.17時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ffeedtailor-inc.%252Fid296489248%253Fuo%253D4">feedtailor Inc.</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ffeedtailor-inc.%252Fid296489248%253Fuo%253D4">feedtailor Inc.</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

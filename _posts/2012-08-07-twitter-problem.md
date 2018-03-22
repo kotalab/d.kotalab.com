@@ -21,7 +21,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/twitter_120803.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/twitter_120803.jpg" alt="" title="twitter_120803" width="448" height="298" class="alignnone size-full wp-image-1961" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/pleuntje/7557559670/" target="_blank">search</a> / Pleuntje</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/pleuntje/7557559670/" target="_blank">search</a> / Pleuntje</span><br />
 Twitterで自分のツイートを検索したら表示されませんでした。@kotala_bです。<br />
 エゴサーチをしようとTwitterで「kotala_b」を検索してみたところ、表示されるツイートと<strong>表示されないツイート</strong>がありました。<br />
 <!--more--></p>

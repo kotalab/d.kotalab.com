@@ -28,7 +28,7 @@ comments: []
 寝不足になってまでみたAppleのイベントですが、現在はApple公式サイトで動画が配信されています！<br />
 <!--more--></p>
 <h2>Apple Special Events September 10,2013</h2>
-<p><a href="http://www.apple.com/apple-events/september-2013/" target="_blank">Apple - Apple Events - Special Event September 2013</a><br />
+<p><a href="https://www.apple.com/apple-events/september-2013/" target="_blank">Apple - Apple Events - Special Event September 2013</a><br />
 見逃してしまった方も動画でイベントの様子を楽しみましょう！<br />
 英語がわからなくてもAppleのプレゼンテーションは新製品の魅力が伝わってきます！<br />
 iPhone 5s、iPhone 5c関連エントリー：<br />

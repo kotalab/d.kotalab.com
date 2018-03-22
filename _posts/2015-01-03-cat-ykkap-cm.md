@@ -34,11 +34,11 @@ comments: []
 <h2>CMの音楽はオリジナル楽曲</h2>
 <blockquote><p>TVCM「それぞれの物語」篇、「似たものどうし」篇、「映画と窓」篇、「文学と窓」篇および「APW330 あなたに新しい窓を」篇で使用した曲は今回のTVCMのために制作したオリジナル楽曲です。<br />
 CD等の発売の予定はございません<br />
-via:<a href="http://faq.ykkap.co.jp/faq_detail.html?id=1017&category=815" target="_blank">よくあるお問い合せ(FAQ) - YKK AP株式会社</a><a href="http://b.hatena.ne.jp/entry/http://faq.ykkap.co.jp/faq_detail.html?id=1017&category=815" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://faq.ykkap.co.jp/faq_detail.html?id=1017&category=815" alt="" /></a></p></blockquote>
+via:<a href="http://faq.ykkap.co.jp/faq_detail.html?id=1017&category=815" target="_blank">よくあるお問い合せ(FAQ) - YKK AP株式会社</a><a href="https://b.hatena.ne.jp/entry/http://faq.ykkap.co.jp/faq_detail.html?id=1017&category=815" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://faq.ykkap.co.jp/faq_detail.html?id=1017&category=815" alt="" /></a></p></blockquote>
 <p>CMで使われている音楽も気になったんですが、どうやらオリジナル楽曲のようですね。<br />
 ちなみに発売予定はないそうです。ちょっと残念！</p>
 <h3>思わず飼いたくなっちゃった！</h3>
 <p>実家でラブラドールを飼っているのもあって、僕はどちらかというとネコよりも犬の方が好きなんですけど、このCMを見たらネコも飼ってみたいなーという気持ちになっちゃいました。</p>
 <p>「似たものどうし」特別篇の90秒ロングバージョンは必見です！<br />
 &darr;「似たものどうし」特別篇はこちらから<br />
-<a href="http://www.ykkap.co.jp/company/ad/tv_radio.asp" target="_blank">テレビ・ラジオ | YKK AP株式会社</a><a href="http://b.hatena.ne.jp/entry/http://www.ykkap.co.jp/company/ad/tv_radio.asp" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.ykkap.co.jp/company/ad/tv_radio.asp" alt="" /></a></p>
+<a href="http://www.ykkap.co.jp/company/ad/tv_radio.asp" target="_blank">テレビ・ラジオ | YKK AP株式会社</a><a href="https://b.hatena.ne.jp/entry/http://www.ykkap.co.jp/company/ad/tv_radio.asp" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.ykkap.co.jp/company/ad/tv_radio.asp" alt="" /></a></p>

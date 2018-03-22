@@ -29,11 +29,11 @@ Gunosyについては以前紹介しました。<br />
 <!--more--></p>
 <h2>GunosyのiPhoneアプリが出る！</h2>
 <p>iPhoneアプリが11月下旬からと発表がありました。<br />
-<span class="removed_link" title="http://gunosy.com/iphone/"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://gunosy.com/iphone/" alt="Gunosy for iPhone" width="150" height="130" /></span><span class="removed_link" title="http://gunosy.com/iphone/">Gunosy for iPhone</span><a href="http://b.hatena.ne.jp/entry/http://gunosy.com/iphone/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://gunosy.com/iphone/" alt="" /></a><br style="clear:both;" />今はwebもしくはメールからしか見れませんが、この度専用アプリがリリースされるようです！<br />
+<span class="removed_link" title="gunosy.com/iphone/"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://gunosy.com/iphone/" alt="Gunosy for iPhone" width="150" height="130" /></span><span class="removed_link" title="gunosy.com/iphone/">Gunosy for iPhone</span><a href="https://b.hatena.ne.jp/entry/http://gunosy.com/iphone/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://gunosy.com/iphone/" alt="" /></a><br style="clear:both;" />今はwebもしくはメールからしか見れませんが、この度専用アプリがリリースされるようです！<br />
 もし興味があって登録がまだの方は早めの登録をオススメします！<br />
 登録は<a href="http://gunosy.com/" target="_blank">こちら</a><br />
 ※11/30追記：いつの間にか公式サイトの<strong>11月下旬から</strong>という表示が<strong>12月下旬から</strong>に変更になっていました。<br />
-<span class="removed_link" title="http://gunosy.com/iphone/"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://gunosy.com/iphone/" alt="Gunosy for iPhone" width="150" height="130" /></span><span class="removed_link" title="http://gunosy.com/iphone/">Gunosy for iPhone</span><a href="http://b.hatena.ne.jp/entry/http://gunosy.com/iphone/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://gunosy.com/iphone/" alt="" /></a><br style="clear:both;" />iPhoneアプリの登場は少し先延ばしになったようです。</p>
+<span class="removed_link" title="gunosy.com/iphone/"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://gunosy.com/iphone/" alt="Gunosy for iPhone" width="150" height="130" /></span><span class="removed_link" title="gunosy.com/iphone/">Gunosy for iPhone</span><a href="https://b.hatena.ne.jp/entry/http://gunosy.com/iphone/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://gunosy.com/iphone/" alt="" /></a><br style="clear:both;" />iPhoneアプリの登場は少し先延ばしになったようです。</p>
 <h2>早めの登録をオススメする理由</h2>
 <p>このGunosyの面白いところは<strong>自動</strong>で自分が興味ありそうなことを選んでくれるところです。<br />
 そして使い込めば使い込むほど自分に最適化されていくところもまた素晴らしいです！<br />

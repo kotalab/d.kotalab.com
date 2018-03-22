@@ -32,7 +32,7 @@ Gunosyは毎日チェックしてます。@kotala_bです。<br />
 この幅広さがとても面白く、僕がGunosyを毎日チェックするようになった理由でもあります。</p></blockquote>
 <h2>2012年のGunosyまとめ</h2>
 <p>▼今朝Evernoteを開くと送られてきていました！<br />
-<span class="removed_link" title="http://gunosy.com/2012/kotala_b"><img class="alignleft" src="http://capture.heartrails.com/150x130?http://gunosy.com/2012/kotala_b" alt="Gunosy（グノシー）" width="150" height="130" /></span><span class="removed_link" title="http://gunosy.com/2012/kotala_b">Gunosy（グノシー）</span><a href="http://b.hatena.ne.jp/entry/http://gunosy.com/2012/kotala_b" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://gunosy.com/2012/kotala_b" alt="" /></a><br style="clear:both" />ちなみにこのGunosyまとめには2つの基準があるそうです。</p>
+<span class="removed_link" title="gunosy.com/2012/kotala_b"><img class="alignleft" src="https://capture.heartrails.com/150x130?http://gunosy.com/2012/kotala_b" alt="Gunosy（グノシー）" width="150" height="130" /></span><span class="removed_link" title="gunosy.com/2012/kotala_b">Gunosy（グノシー）</span><a href="https://b.hatena.ne.jp/entry/http://gunosy.com/2012/kotala_b" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://gunosy.com/2012/kotala_b" alt="" /></a><br style="clear:both" />ちなみにこのGunosyまとめには2つの基準があるそうです。</p>
 <blockquote><p>・ユーザー様がGunosy経由でクリックしていない記事<br />
 ・ユーザー様の趣味/嗜好をGunosyエンジンが分析して記事を推薦</p></blockquote>
 <p>届いたまとめはGunosyに登録した10月31日より前の物がほとんどでした。<br />
@@ -42,4 +42,4 @@ Gunosyは毎日チェックしてます。@kotala_bです。<br />
 <h2>最後に</h2>
 <p>今年も注目のGunosyです！<br />
 ▼登録がまだの方はこちらからどうぞ<br />
-<a href="http://gunosy.com/" target="_blank"><img class="alignleft" src="http://capture.heartrails.com/150x130?http://gunosy.com/" alt="Gunosy（グノシー）" width="150" height="130" /></a><a href="http://gunosy.com/" target="_blank">Gunosy（グノシー）</a><a href="http://b.hatena.ne.jp/entry/http://gunosy.com/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://gunosy.com/" alt="" /></a><br style="clear:both" />Gunosyオススメです！</p>
+<a href="http://gunosy.com/" target="_blank"><img class="alignleft" src="https://capture.heartrails.com/150x130?http://gunosy.com/" alt="Gunosy（グノシー）" width="150" height="130" /></a><a href="http://gunosy.com/" target="_blank">Gunosy（グノシー）</a><a href="https://b.hatena.ne.jp/entry/http://gunosy.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://gunosy.com/" alt="" /></a><br style="clear:both" />Gunosyオススメです！</p>

@@ -48,17 +48,17 @@ comments: []
 <p>サラリーマンから独立し、現在はプロとして活躍されている<a href="https://twitter.com/ttachi">立花岳志さん</a>と<a href="https://twitter.com/jmatsuzaki">松崎純一さん</a>から、上記のようなプロとしてのあり方を教えてもらう機会がありました。</p>
 <p>立花岳志さんが主催する「情報発信・ブランディング講座」では、お昼休みや懇親会を含め午前10時から午後8時まで熱くて濃い内容の、<strong>ブログを主軸にした活動に関するお話</strong>を聞くことができました。</p>
 <p>僕が参加したのは東京でしたが、大阪（6月6日）や名古屋（7月18日）でも開催されるそうです。</p>
-<p>参考：<a href="http://www.ttcbn.net/no_second_life/archives/49501" target="_blank">No Second Life</a>、<a href="http://jmatsuzaki.com/" target="_blank">jMatsuzaki</a></p>
+<p>参考：<a href="https://www.ttcbn.net/no_second_life/archives/49501" target="_blank">No Second Life</a>、<a href="https://jmatsuzaki.com/" target="_blank">jMatsuzaki</a></p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51PEyMORgNL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51PEyMORgNL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank">サラリーマンだけが知らない好きなことだけして食っていくための29の方法[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank">サラリーマンだけが知らない好きなことだけして食っていくための29の方法[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">立花岳志 大和書房 2014-06-27    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00L8GABLS/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4479794298/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00L8GABLS/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4479794298/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/life-insurance-deduction_20150104_01-780x585.jpg" alt="life-insurance-deduction_20150104_01" width="780" height="585" class="aligncenter size-large wp-image-13740" /><br />
-<a href="http://ja.wikipedia.org/wiki/%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A" target="_blank">確定申告</a>では税務署が所得税の計算を行うのですが、計算対象となる所得から対象外として引かれる所得控除というものがあります。</p>
+<a href="https://ja.wikipedia.org/wiki/%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A" target="_blank">確定申告</a>では税務署が所得税の計算を行うのですが、計算対象となる所得から対象外として引かれる所得控除というものがあります。</p>
 <p>所得控除には基礎控除や配偶者控除、医療費控除など様々な控除があるのですが、生命保険料控除も所得控除の1つとなっています。<br />
 生命保険料控除では支払った生命保険料や介護医療保険料、個人年金保険料の中から一定の割合で控除を受けることができます。</p>
 <p>生命保険料控除と名前が似ているものに社会保険料控除というものがありますが、今回は生命保険料控除について書いていきます。<br />
@@ -33,7 +33,7 @@ comments: []
 <h2>生命保険料控除の対象となる生命保険料</h2>
 <blockquote><p>・生命保険会社又は外国生命保険会社等と締結した生存又は死亡に基因して一定額の保険金が支払われる保険契約<br />
 ・生命保険会社若しくは外国生命保険会社等又は損害保険会社若しくは外国損害保険会社等と締結した疾病又は身体の傷害等により保険金が支払われる保険契約のうち、医療費支払事由に基因して保険金等が支払われる保険契約<br />
-via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1141.htm" target="_blank">No.1141　生命保険料控除の対象となる保険契約等｜所得税｜国税庁</a><a href="http://b.hatena.ne.jp/entry/https://www.nta.go.jp/taxanswer/shotoku/1141.htm" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://www.nta.go.jp/taxanswer/shotoku/1141.htm" alt="" /></a></p></blockquote>
+via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1141.htm" target="_blank">No.1141　生命保険料控除の対象となる保険契約等｜所得税｜国税庁</a><a href="https://b.hatena.ne.jp/entry/https://www.nta.go.jp/taxanswer/shotoku/1141.htm" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.nta.go.jp/taxanswer/shotoku/1141.htm" alt="" /></a></p></blockquote>
 <p>生命保険会社や損害保険会社などと契約している保険で、医療保険やがん保険、税制適格特約のついた個人年金などが対象となります。</p>
 <h2>生命保険料控除額</h2>
 <p>平成24年1月1日以後に契約した場合には生命保険料控除は3つに、平成23年12月31日以前に契約した場合には2分かれていて、<br />
@@ -150,17 +150,17 @@ via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1141.htm" target="_blank">N
 <h4 class="aam">Amazonのオススメ！</h4>
 <p>個人事業主の方にオススメの1冊。</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41jpOByWCrL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41jpOByWCrL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank">あらゆる領収書は経費で落とせる (中公新書ラクレ)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank">あらゆる領収書は経費で落とせる (中公新書ラクレ)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">大村 大次郎 中央公論新社 2011-09-09    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00LMB05LK/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00LMB05LK/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11332395%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4121503961" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4121503961" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

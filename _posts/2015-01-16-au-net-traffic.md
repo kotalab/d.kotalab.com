@@ -36,20 +36,20 @@ comments: []
 <p>auお客さまサポート専用のIDです。ご利用いただけるサービスは、auお客さまサポートでの料金照会・プラン変更・住所変更等です。</p>
 <p>au ID</p>
 <p>複数のサービスで共通してご利用いただけるIDです。アプリ購入やオンラインショップでのお買い物 (auかんたん決済) 等を、ひとつのIDでお楽しみいただけます。いくつものIDを管理する手間がかからない便利なau IDのご利用をおすすめします。<br />
-via:<a href="https://cs.kddi.com/support/login_help.html#idpass" target="_blank">ログインでお困りの方 | auお客さまサポート</a><a href="http://b.hatena.ne.jp/entry/https://cs.kddi.com/support/login_help.html#idpass" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://cs.kddi.com/support/login_help.html#idpass" alt="" /></a></p></blockquote>
+via:<a href="https://cs.kddi.com/support/login_help.html#idpass" target="_blank">ログインでお困りの方 | auお客さまサポート</a><a href="https://b.hatena.ne.jp/entry/https://cs.kddi.com/support/login_help.html#idpass" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://cs.kddi.com/support/login_help.html#idpass" alt="" /></a></p></blockquote>
 <p>auIDの方が複数のサービスで使える分便利なようです。</p>
 <blockquote><p>au携帯電話を解約・MNP・譲渡されていませんか？該当の手続きをされると、今までお使いのau IDでログインいただいた場合、WEB de 請求書の確認などauお客さまサポート上での情報照会・お手続きができなくなります。その場合、au IDではなく、サポートIDでログインいただくことで問題が解決します。サポートIDをお持ちでない方は、サポートIDの新規登録をお願いします。<br />
-via:<a href="https://cs.kddi.com/support/login_help.html#idpass" target="_blank">ログインでお困りの方 | auお客さまサポート</a><a href="http://b.hatena.ne.jp/entry/https://cs.kddi.com/support/login_help.html#idpass" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://cs.kddi.com/support/login_help.html#idpass" alt="" /></a></p></blockquote>
+via:<a href="https://cs.kddi.com/support/login_help.html#idpass" target="_blank">ログインでお困りの方 | auお客さまサポート</a><a href="https://b.hatena.ne.jp/entry/https://cs.kddi.com/support/login_help.html#idpass" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://cs.kddi.com/support/login_help.html#idpass" alt="" /></a></p></blockquote>
 <p>解約時などauIDは使えなくなってしまう場合でも、サポートIDであればお客様サポートを利用できるそうです。</p>
 <p>どちらか片方があればデータ通信量の確認はできるので、どちらでも構わないと思います。</p>
 <p>僕は念のために両方作りました。</p>
-<p>アカウント登録はこちらから:<a href="https://cs.kddi.com/support/smt_i/index.html" target="_blank">auお客さまサポート</a><a href="http://b.hatena.ne.jp/entry/https://cs.kddi.com/support/smt_i/index.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://cs.kddi.com/support/smt_i/index.html" alt="" /></a></p>
+<p>アカウント登録はこちらから:<a href="https://cs.kddi.com/support/smt_i/index.html" target="_blank">auお客さまサポート</a><a href="https://b.hatena.ne.jp/entry/https://cs.kddi.com/support/smt_i/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://cs.kddi.com/support/smt_i/index.html" alt="" /></a></p>
 <h2>auスマホのデータ通信量を確認する方法</h2>
 <p>auスマホのデータ通信量を確認する方法は2つあります。</p>
 <h3>1.Webから確認する</h3>
 <p>サポートIDまたはauIDでログインし、メニューのデータ通信量から確認ができるようになります。</p>
 <p>Webの場合はPCでもスマホでもネットに繋がってさえ入れば確認ができます。</p>
-<p>ログイン画面はこちら:<a href="https://cs.kddi.com/support/smt_i/index.html" target="_blank">auお客さまサポート</a><a href="http://b.hatena.ne.jp/entry/https://cs.kddi.com/support/smt_i/index.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://cs.kddi.com/support/smt_i/index.html" alt="" /></a></p>
+<p>ログイン画面はこちら:<a href="https://cs.kddi.com/support/smt_i/index.html" target="_blank">auお客さまサポート</a><a href="https://b.hatena.ne.jp/entry/https://cs.kddi.com/support/smt_i/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://cs.kddi.com/support/smt_i/index.html" alt="" /></a></p>
 <h3>2.アプリから確認する</h3>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/01/slooProImg_20150116074037.jpg" width="300" height="514" /></p>
 <div class="applink">
@@ -65,7 +65,7 @@ via:<a href="https://cs.kddi.com/support/login_help.html#idpass" target="_blank"
 </div>
 <p>iPhoneは上記App Storeからアプリのダウンロードができます。</p>
 <p>Androidはau Marketアプリ内ならダウンロードできるそうです。</p>
-<p>au Marketアプリの説明はこちら:<a href="http://market.kddi.com/update_info/" target="_blank">au Market</a><a href="http://b.hatena.ne.jp/entry/http://market.kddi.com/update_info/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://market.kddi.com/update_info/" alt="" /></a></p>
+<p>au Marketアプリの説明はこちら:<a href="http://market.kddi.com/update_info/" target="_blank">au Market</a><a href="https://b.hatena.ne.jp/entry/http://market.kddi.com/update_info/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://market.kddi.com/update_info/" alt="" /></a></p>
 <p>アプリをダウンロードしたらサポートIDまたはauIDでログインし、メニューのデータ通信量から確認ができるようになります。</p>
 <h3>制限される前に確認しよう</h3>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/01/slooProImg_20150116074036.jpg" width="300" height="514" /><br />

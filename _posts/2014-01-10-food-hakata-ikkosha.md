@@ -69,5 +69,5 @@ comments: []
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/ramen-show-ikosha" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20121026182849.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/ramen-show-ikosha" target="_blank">東京ラーメンショーで博多一幸舎の全部のせを食べた！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/ramen-show-ikosha"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/ramen-show-ikosha" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/ramen-show-ikosha" target="_blank">東京ラーメンショーで博多一幸舎の全部のせを食べた！</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/ramen-show-ikosha"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/ramen-show-ikosha" alt="" /></span></div>
 </div>

@@ -23,7 +23,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/ipad_121029.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipad_121029.jpg" alt="" title="ipad_121029" width="448" height="300" class="alignnone size-full wp-image-3778" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/jedalani/2744362014/" target="_blank">Le Penseur</a> / Jean-David &amp; Anne-Laure</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/jedalani/2744362014/" target="_blank">Le Penseur</a> / Jean-David &amp; Anne-Laure</span><br />
 タブレット端末は何も持っていません。@kotala_bです。<br />
 11月2日発売のiPadminiを買おうと考えています。<br />
 iPadminiを買えば<strong>今まではなかった物が生活の中へ入ってくる</strong>わけですが、安くても28800円するので買って無駄にならないかななんて考えたりもします。<br />

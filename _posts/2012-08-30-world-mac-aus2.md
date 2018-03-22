@@ -59,6 +59,6 @@ comments: []
 <section id="rele">
 <h2>関連記事</h2>
 <p>こちらの記事もいかがですか？<br />
-<a href="https://kotalab.com/world-mac-ind2" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/2026" alt="https://kotalab.com/archives/2026" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-ind2" target="_blank">[食]レギュラーメニューに追加して欲しい！世界の★★★マック第2弾、ホットゴールドマサラを食べた！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/world-mac-aus" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/2400" alt="https://kotalab.com/archives/2400" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-aus" target="_blank">[食]パストラミビーフがたっぷり！今日からスタートのチーズオージーデリを食べた！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/world-mac-ind2" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2026" alt="https://kotalab.com/archives/2026" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-ind2" target="_blank">[食]レギュラーメニューに追加して欲しい！世界の★★★マック第2弾、ホットゴールドマサラを食べた！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/world-mac-aus" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2400" alt="https://kotalab.com/archives/2400" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-aus" target="_blank">[食]パストラミビーフがたっぷり！今日からスタートのチーズオージーデリを食べた！ | kotala's note</a><br style="clear:both;" /><br />
 </section>

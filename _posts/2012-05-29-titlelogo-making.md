@@ -19,7 +19,7 @@ tags:
 comments: []
 ---
 <p>持ってるPhotshopのバージョンはCS2です。@kotala_bです。<br />
-<a href="http://blog.quusookagaku.com/design-idea/6283/" target="_blank"><img title="Now Updating..." src="http://capture.heartrails.com/150x130/shadow?http://blog.quusookagaku.com/design-idea/6283/" alt="http://blog.quusookagaku.com/design-idea/6283/" width="150" height="130" align="left" /></a><em><strong><a href="http://blog.quusookagaku.com/design-idea/6283/" target="_blank">使おうよ！Photoshopを持ってるとブログタイトルロゴが4分でお洒落に仕上がるチュートリアル*frasm</a></strong></em><br style="clear:both;" /><br />
+<a href="https://blog.quusookagaku.com/design-idea/6283/" target="_blank"><img title="Now Updating..." src="https://capture.heartrails.com/150x130/shadow?https://blog.quusookagaku.com/design-idea/6283/" alt="https://blog.quusookagaku.com/design-idea/6283/" width="150" height="130" align="left" /></a><em><strong><a href="https://blog.quusookagaku.com/design-idea/6283/" target="_blank">使おうよ！Photoshopを持ってるとブログタイトルロゴが4分でお洒落に仕上がるチュートリアル*frasm</a></strong></em><br style="clear:both;" /><br />
 @shintarowfreshさんが「一度お試しアレ」と言ってたのでタイトルロゴを作ってみました。<br />
 <!--more--></p>
 <h2>出来た！</h2>

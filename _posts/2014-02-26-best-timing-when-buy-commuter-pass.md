@@ -35,7 +35,7 @@ comments: []
 これを利用すると、<span class="b">4月14日までに期限が切れる人は3月31日までに更新する</span>ことで値上がり前の料金で6ヶ月定期券が買えます。<br />
 2月中に3ヶ月定期を買った人は、残りちょうど2ヶ月になったタイミングが買い替え時だそうです。</p>
 <blockquote><p>鉄道の定期は、3ヶ月定期を買っている人は、増税前に残り期間をきっちり2ヶ月残して、6ヶ月定期に買い換えるとお得！<br />
-via:<a href="http://allabout.co.jp/gm/gc/439187/2/" target="_blank">2/2 消費税増税前に定期券は、買い換えるとオトク？ [家計簿・家計管理] All About</a><a href="http://b.hatena.ne.jp/entry/http://allabout.co.jp/gm/gc/439187/2/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://allabout.co.jp/gm/gc/439187/2/" alt="" /></a></p></blockquote>
+via:<a href="http://allabout.co.jp/gm/gc/439187/2/" target="_blank">2/2 消費税増税前に定期券は、買い換えるとオトク？ [家計簿・家計管理] All About</a><a href="https://b.hatena.ne.jp/entry/http://allabout.co.jp/gm/gc/439187/2/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://allabout.co.jp/gm/gc/439187/2/" alt="" /></a></p></blockquote>
 <h2>4月から定期を使いたい場合</h2>
 <p>4月といえば入学、入社のシーズンです！<br />
 新社会人のみなさんは4月1日から働く場所が決まっていれば3月中に買うことをオススメします！<br />
@@ -51,18 +51,18 @@ via:<a href="http://allabout.co.jp/gm/gc/439187/2/" target="_blank">2/2 消費�
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/train-fare-rise-in-price"><img src="https://kotalab.com/wp-content/uploads/trainfareriseinprice_131221_01-546x364.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/train-fare-rise-in-price">消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/train-fare-rise-in-price"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/train-fare-rise-in-price" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/train-fare-rise-in-price">消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/train-fare-rise-in-price"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/train-fare-rise-in-price" alt="" /></span></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/communications-cost-95off"><img src="https://kotalab.com/wp-content/uploads/communications-cost-95off_140228_01-546x285.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/communications-cost-95off">スマホの通話料が95%OFF！？消費税増税前に使い始めたい格安通話サービス</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/communications-cost-95off" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/communications-cost-95off" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/communications-cost-95off">スマホの通話料が95%OFF！？消費税増税前に使い始めたい格安通話サービス</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/communications-cost-95off" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/communications-cost-95off" alt="" /></a></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/costco-item-before-tax-up"><img src="https://kotalab.com/wp-content/uploads/costco-item-before-tax-up_20140203_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/costco-item-before-tax-up">消費税増税前に買い込むならこれだ！コストコでオススメの5つのアイテム！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/costco-item-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/costco-item-before-tax-up" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/costco-item-before-tax-up">消費税増税前に買い込むならこれだ！コストコでオススメの5つのアイテム！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/costco-item-before-tax-up" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/costco-item-before-tax-up" alt="" /></a></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/how-to-buy-smartphone-before-tax-up"><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_08-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/how-to-buy-smartphone-before-tax-up">消費税増税前にスマホ買い換えますか？お得な買い替え方をご紹介！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/how-to-buy-smartphone-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/how-to-buy-smartphone-before-tax-up" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/how-to-buy-smartphone-before-tax-up">消費税増税前にスマホ買い換えますか？お得な買い替え方をご紹介！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/how-to-buy-smartphone-before-tax-up" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/how-to-buy-smartphone-before-tax-up" alt="" /></a></div>
 </div>
 <p>iPad Airから<a href="https://itunes.apple.com/jp/app/surupuro-for-ios-buroguedita/id436676299?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">するぷろ for iOS</a>を使って更新しました！</p>

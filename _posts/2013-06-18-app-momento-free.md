@@ -38,13 +38,13 @@ comments:
 あの日はこんな場所へ行ったな、あの時はことがあったな、と取ったログを眺めているあの時間が一番好きです。<br />
 ログを振り返る時間が好きなのには、見ていて飽きのこないシンプルでキレイなUIのiPhoneアプリ「Momento」があるから。<br />
 普段は250円だった「Momento」が期間限定で無料となっています。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmomento%252Fid347019672%253Fmt%253D8%2526uo%253D4"><img src="http://a251.phobos.apple.com/us/r1000/092/Purple2/v4/54/2e/72/542e72d9-6a08-2512-9e89-515178293944/mzl.hieecndz.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmomento%252Fid347019672%253Fmt%253D8%2526uo%253D4"><img src="http://a251.phobos.apple.com/us/r1000/092/Purple2/v4/54/2e/72/542e72d9-6a08-2512-9e89-515178293944/mzl.hieecndz.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmomento%252Fid347019672%253Fmt%253D8%2526uo%253D4">Momento</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmomento%252Fid347019672%253Fmt%253D8%2526uo%253D4">Momento</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.06.18時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fd3i-ltd%252Fid347019675%253Fuo%253D4">d3i Ltd</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fd3i-ltd%252Fid347019675%253Fuo%253D4">d3i Ltd</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -63,13 +63,13 @@ RSSが読み込めるので自分の書いたブログ自体をライフログ�
 最初にアカウントの設定を済ませてしまえば、ライフログが自動で取得出来る。<br />
 手間がかかるのは最初だけというのがたまりません。<br />
 ダウンロードは無料期間の今のうちに</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmomento%252Fid347019672%253Fmt%253D8%2526uo%253D4"><img src="http://a251.phobos.apple.com/us/r1000/092/Purple2/v4/54/2e/72/542e72d9-6a08-2512-9e89-515178293944/mzl.hieecndz.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmomento%252Fid347019672%253Fmt%253D8%2526uo%253D4"><img src="http://a251.phobos.apple.com/us/r1000/092/Purple2/v4/54/2e/72/542e72d9-6a08-2512-9e89-515178293944/mzl.hieecndz.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmomento%252Fid347019672%253Fmt%253D8%2526uo%253D4">Momento</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmomento%252Fid347019672%253Fmt%253D8%2526uo%253D4">Momento</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.06.18時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fd3i-ltd%252Fid347019675%253Fuo%253D4">d3i Ltd</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fd3i-ltd%252Fid347019675%253Fuo%253D4">d3i Ltd</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

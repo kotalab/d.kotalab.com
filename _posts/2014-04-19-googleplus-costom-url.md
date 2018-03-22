@@ -45,7 +45,7 @@ URLの変更方法をご紹介していきます！<br />
 確認済みのローカル ビジネスであること<br></p>
 <p><span class="b">Google+ ローカル ページ以外のページの場合</span>:<br />
 ウェブサイトにリンクしていること<br></p>
-<p>via:<a href="https://support.google.com/plus/answer/2676340?hl=ja" target="_blank">Google+ カスタム URL スタート ガイド - Google+ ヘルプ</a><a href="http://b.hatena.ne.jp/entry/https://support.google.com/plus/answer/2676340?hl=ja" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://support.google.com/plus/answer/2676340?hl=ja" alt="" /></a></p></blockquote>
+<p>via:<a href="https://support.google.com/plus/answer/2676340?hl=ja" target="_blank">Google+ カスタム URL スタート ガイド - Google+ ヘルプ</a><a href="https://b.hatena.ne.jp/entry/https://support.google.com/plus/answer/2676340?hl=ja" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://support.google.com/plus/answer/2676340?hl=ja" alt="" /></a></p></blockquote>
 <p>条件を満たしたらURLを変えましょう！</p>
 <h2>Google+のURLを変更する方法</h2>
 <p>Google+のURLを変更するには、まず自分のページにアクセスします。<br />

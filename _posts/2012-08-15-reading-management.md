@@ -37,7 +37,7 @@ iPhoneを購入してから、その仕方が変わり試行錯誤していま�
 <p>買ったけどまだ読んでない本は<a href="https://itunes.apple.com/jp/app/bookever/id539150062?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">BookEver</a>でバーコードをスキャンしEvernoteに入れています。<br />
 <a href="https://itunes.apple.com/jp/app/bookever/id539150062?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">BookEver</a>で作成したノートには、読み始めた日と読み終えた日の日付を入力します。<br />
 <a href="https://itunes.apple.com/jp/app/bookever/id539150062?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">BookEver</a>についての記事はこちら<br />
-<a href="https://kotalab.com/bookever" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/1608" alt="https://kotalab.com/archives/1608" width="150" height="130" align="left" /></a><a href="https://kotalab.com/bookever" target="_blank">バーコードから本の情報を素早く読みとれるアプリ「BookEver」これを入れたら本の管理が簡単になった！ | kotala's note</a><br style="clear:both;" /></p>
+<a href="https://kotalab.com/bookever" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/1608" alt="https://kotalab.com/archives/1608" width="150" height="130" align="left" /></a><a href="https://kotalab.com/bookever" target="_blank">バーコードから本の情報を素早く読みとれるアプリ「BookEver」これを入れたら本の管理が簡単になった！ | kotala's note</a><br style="clear:both;" /></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/bookever/id539150062?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1481.phobos.apple.com/us/r30/Purple/v4/08/99/32/089932f1-34a4-d1e8-2218-8dc8678dbdf9/mzl.xegqmvbt.png" width="80" /></a></div>
 <div class="applinktext">

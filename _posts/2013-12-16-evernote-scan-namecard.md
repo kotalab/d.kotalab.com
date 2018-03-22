@@ -56,8 +56,8 @@ iPhoneアプリのバージョン7.2からプレミアム機能に「名刺カ�
 <h3>名刺を取り込んだらタグ付けしとくと便利！</h3>
 <p>scansnapがあればいいんでしょうが、名刺のためだけにスキャナ買うのはちょっとなーと思っていました。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://nanapi.jp/31390/" target="_blank"><img src="http://capture.heartrails.com/150x130/shadow?http://nanapi.jp/31390/" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://nanapi.jp/31390/" target="_blank">絶対にオススメ！名刺をEvernoteで管理しよう！スキャン編 | nanapi [ナナピ]</a><a href="http://b.hatena.ne.jp/entry/http://nanapi.jp/31390/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://nanapi.jp/31390/" alt="" /></a></div>
+<div class="shhtimg"><a href="http://nanapi.jp/31390/" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?http://nanapi.jp/31390/" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="http://nanapi.jp/31390/" target="_blank">絶対にオススメ！名刺をEvernoteで管理しよう！スキャン編 | nanapi [ナナピ]</a><a href="https://b.hatena.ne.jp/entry/http://nanapi.jp/31390/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://nanapi.jp/31390/" alt="" /></a></div>
 </div>
 <p>公式アプリに名刺カメラが備わったので、iPhoneだけでもキレイに名刺スキャンができるようになりました！<br />
 <strong>スキャンした名刺には貰った日付や会ったイベント名などをタグ付けしておくと後から検索するときに便利ですよ！</strong></p>
@@ -75,40 +75,40 @@ iPhoneアプリのバージョン7.2からプレミアム機能に「名刺カ�
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DBLQ82E/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/21bzMzZ0k5L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DBLQ82E/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/21bzMzZ0k5L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DBLQ82E/same-22/ref=nosim/" rel="nofollow" target="_blank">富士通 ScanSnap SV600 FI-SV600</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DBLQ82E/same-22/ref=nosim/" rel="nofollow" target="_blank">富士通 ScanSnap SV600 FI-SV600</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> 富士通 2013-07-12    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=SV600%20FI-SV600&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=SV600%20FI-SV600&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00A5YE7C8/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31s62g6u4ML._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00A5YE7C8/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31s62g6u4ML._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00A5YE7C8/same-22/ref=nosim/" rel="nofollow" target="_blank">FUJITSU ScanSnap iX500 FI-IX500</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00A5YE7C8/same-22/ref=nosim/" rel="nofollow" target="_blank">FUJITSU ScanSnap iX500 FI-IX500</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> 富士通 2012-11-30    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=iX500%20FI-IX500&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=iX500%20FI-IX500&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004COKSSE/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31JmkRNwXCL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B004COKSSE/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31JmkRNwXCL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004COKSSE/same-22/ref=nosim/" rel="nofollow" target="_blank">FUJITSU ScanSnap S1100 FI-S1100</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B004COKSSE/same-22/ref=nosim/" rel="nofollow" target="_blank">FUJITSU ScanSnap S1100 FI-S1100</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> 富士通 2010-11-22    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=S1100%20FI-S1100&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=S1100%20FI-S1100&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

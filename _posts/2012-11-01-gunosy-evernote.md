@@ -41,7 +41,7 @@ comments:
     &#8211; kotaka&#8217;s note [...]"
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
 Gunosy2日目です。@kotala_bです。<br />
 毎日送られてくるGunosyをEvernoteへ貯たらライフログのひとつとして面白いなと思いました。<br />
 そこでGunosyはメールで送られてくるサービスということを利用して、自動的にEvernoteへ入れていつでも見返すことが出来るようにしました！<br />
@@ -59,12 +59,12 @@ Evernoteへどうやって入れるのかまず思いついたのが、受信メ
 まずはGunosyの受信先をgmailへ変更します。<br />
 そしてラベル機能を使って、gunosy.comから届いたメールにGunosyというラベルを付けるように設定します。<br />
 ラベルとフィルタの使い方はこちらを参考に。<br />
-<a href="http://blog.kushii.net/archives/1675403.html" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://blog.kushii.net/archives/1675403.html" alt="今さら聞けない！基本的なGmailのラベル付けとフィルタの使い方 - 941::blog" width="150" height="130" /></a><a href="http://blog.kushii.net/archives/1675403.html" target="_blank">今さら聞けない！基本的なGmailのラベル付けとフィルタの使い方 - 941::blog</a><a href="http://b.hatena.ne.jp/entry/http://blog.kushii.net/archives/1675403.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://blog.kushii.net/archives/1675403.html" alt="" /></a><br style="clear:both;" />Gmailで設定したフィルタはこちら。<br />
+<a href="http://blog.kushii.net/archives/1675403.html" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://blog.kushii.net/archives/1675403.html" alt="今さら聞けない！基本的なGmailのラベル付けとフィルタの使い方 - 941::blog" width="150" height="130" /></a><a href="http://blog.kushii.net/archives/1675403.html" target="_blank">今さら聞けない！基本的なGmailのラベル付けとフィルタの使い方 - 941::blog</a><a href="https://b.hatena.ne.jp/entry/http://blog.kushii.net/archives/1675403.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://blog.kushii.net/archives/1675403.html" alt="" /></a><br style="clear:both;" />Gmailで設定したフィルタはこちら。<br />
 「<strong>条件: from:(@gunosy.com) subject:(*まとめが更新されました。)</strong>」<br />
 「<strong>処理: ラベル「Gunosy」を付ける</strong>」<br />
 次はIFTTTで設定を行います。<br />
 IFTTTを使ったgmailとEvernoteの連携はこちらを参考に。<br />
-<a href="http://mag.torumade.nu/?p=6967" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://mag.torumade.nu/?p=6967" alt="iftttのタスクを作成してGmailで受信したメールをEvernoteにバックアップしてみよう | crocodile notebook [ 鰐ノート ]" width="150" height="130" /></a><a href="http://mag.torumade.nu/?p=6967" target="_blank">iftttのタスクを作成してGmailで受信したメールをEvernoteにバックアップしてみよう | crocodile notebook [ 鰐ノート ]</a><a href="http://b.hatena.ne.jp/entry/http://mag.torumade.nu/?p=6967" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://mag.torumade.nu/?p=6967" alt="" /></a><br style="clear:both;" />こちらでは「backup」というラベルを付けていますが、今回は「Gunosy」というラベルにします。<br />
+<a href="http://mag.torumade.nu/?p=6967" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://mag.torumade.nu/?p=6967" alt="iftttのタスクを作成してGmailで受信したメールをEvernoteにバックアップしてみよう | crocodile notebook [ 鰐ノート ]" width="150" height="130" /></a><a href="http://mag.torumade.nu/?p=6967" target="_blank">iftttのタスクを作成してGmailで受信したメールをEvernoteにバックアップしてみよう | crocodile notebook [ 鰐ノート ]</a><a href="https://b.hatena.ne.jp/entry/http://mag.torumade.nu/?p=6967" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://mag.torumade.nu/?p=6967" alt="" /></a><br style="clear:both;" />こちらでは「backup」というラベルを付けていますが、今回は「Gunosy」というラベルにします。<br />
 送られてきたのがこのノートです。<br />
 <a href="https://www.evernote.com/shard/s110/sh/df2a06d9-7345-44f2-9a19-96c30b0edd5f/db1f873f5225b19bd023db155e25c35a" target="_blank">11/1のGunosy</a><br />
 文字だけ！読みづらいなんてもんじゃない！<br />
@@ -72,7 +72,7 @@ IFTTTを使ったgmailとEvernoteの連携はこちらを参考に。<br />
 <h2>改良します</h2>
 <p>IFTTTを使ってEvernoteのメールアドレスへ送信する方法ならうまくいくようなので試してみます！<br />
 やり方はこちらを参考に。<br />
-<span class="removed_link" title="http://katamarinokatamari.blog.fc2.com/blog-entry-72.html"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://katamarinokatamari.blog.fc2.com/blog-entry-72.html" alt="#068 続き/iftttにevernoteのメールを設定する方法。 カタマリのカタマリ" width="150" height="130" /></span><span class="removed_link" title="http://katamarinokatamari.blog.fc2.com/blog-entry-72.html">#068 続き/iftttにevernoteのメールを設定する方法。 カタマリのカタマリ</span><a href="http://b.hatena.ne.jp/entry/http://katamarinokatamari.blog.fc2.com/blog-entry-72.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://katamarinokatamari.blog.fc2.com/blog-entry-72.html" alt="" /></a><br style="clear:both;" />Evernoteへメールを送信する場合、件名に@と#をつけるとノートブックとタグの指定が可能です。<br />
+<span class="removed_link" title="katamarinokatamari.blog.fc2.com/blog-entry-72.html"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://katamarinokatamari.blog.fc2.com/blog-entry-72.html" alt="#068 続き/iftttにevernoteのメールを設定する方法。 カタマリのカタマリ" width="150" height="130" /></span><span class="removed_link" title="katamarinokatamari.blog.fc2.com/blog-entry-72.html">#068 続き/iftttにevernoteのメールを設定する方法。 カタマリのカタマリ</span><a href="https://b.hatena.ne.jp/entry/http://katamarinokatamari.blog.fc2.com/blog-entry-72.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://katamarinokatamari.blog.fc2.com/blog-entry-72.html" alt="" /></a><br style="clear:both;" />Evernoteへメールを送信する場合、件名に@と#をつけるとノートブックとタグの指定が可能です。<br />
 そのことを利用して、「<strong>Gunosy_日付@inbox#Gunosy</strong>」という件名でEvernoteへメールを送ると「<strong>inboxというノートブックへ、Gunosyというタグをつけて、Gunosy_日付というタイトルのノート</strong>」が作成されます。<br />
 お試しということで他のメールにラベルを付けて送りました。<br />
 ▼送られてきたノートがこちら<br />

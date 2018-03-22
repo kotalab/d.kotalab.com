@@ -39,7 +39,7 @@ comments: []
 問題が違えば解決策も異なる。<br />
 つまり問題を間違って定義してしまうと解決策も間違ったものになってしまう。<br />
 そして結局何も解決されないという結果になってしまうからだ。<br />
-via:<a href="https://kotalab.com/textbook-of-problem-solving" target="_blank">問題解決5つの基本プロセス &ndash; マッキンゼー流入社1年目問題解決の教科書　大嶋祥誉著</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/textbook-of-problem-solving" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/textbook-of-problem-solving" alt="" /></a></p></blockquote>
+via:<a href="https://kotalab.com/textbook-of-problem-solving" target="_blank">問題解決5つの基本プロセス &ndash; マッキンゼー流入社1年目問題解決の教科書　大嶋祥誉著</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/textbook-of-problem-solving" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/textbook-of-problem-solving" alt="" /></a></p></blockquote>
 <p>核となる部分をつかむには、視点を変える必要がある。<br />
 問題の核となる部分をつかむには、自分の視点だけでなくもっと多面的な視点が必要なのだ。</p>
 <p>人間関係の問題には相手の視点が必要になるし、環境問題には人間だけじゃなく自然や動物たちの視点も必要になる。</p>
@@ -67,17 +67,17 @@ via:<a href="https://kotalab.com/textbook-of-problem-solving" target="_blank">�
 <p>本書を読んでそういうことに気づけてすごくよかった。</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4806136336/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51tzn6A0qPL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4806136336/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51tzn6A0qPL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4806136336/same-22/" rel="nofollow" target="_blank">本質をつかむ思考法</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4806136336/same-22/" rel="nofollow" target="_blank">本質をつかむ思考法</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">伊藤 真 中経出版 2010-03-24    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4806136336/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00I0LKSE4/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4806136336/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00I0LKSE4/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6391373%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4806136336" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4806136336" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

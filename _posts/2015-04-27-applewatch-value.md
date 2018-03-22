@@ -43,16 +43,16 @@ Appleとは真逆の販売方法です。</p>
 なんだかんだ言われてますけど、人気の高さはすごいですね。</p>
 <p>Amazonではこんなのが人気らしいです。</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VSGVVNA/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41SZopD2WwL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00VSGVVNA/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41SZopD2WwL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VSGVVNA/same-22/ref=nosim/" rel="nofollow" target="_blank">Apple Watch スタンド, Spigen&reg; [充電 クレードル ドック] アップル ウォッチ 38mm / 42mm 対応 アルミニウム製 スタンド S330【国内正規品】(2015) (S330 【SGP11555】)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00VSGVVNA/same-22/ref=nosim/" rel="nofollow" target="_blank">Apple Watch スタンド, Spigen&reg; [充電 クレードル ドック] アップル ウォッチ 38mm / 42mm 対応 アルミニウム製 スタンド S330【国内正規品】(2015) (S330 【SGP11555】)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Spigen     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=Apple%20Watch%20%83X%83%5E%83%93%83h%20Spigen&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank">Amazon</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=Apple%20Watch%20%83X%83%5E%83%93%83h%20Spigen&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank">Amazon</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2520Watch%2520%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2520Spigen%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" rel="nofollow" target="_blank">楽天市場</a><img src="http://i.af.moshimo.com/af/i/impression?a_id=374939&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;"></div>
-<div class="shoplinkyahoo"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DApple%2520Watch%2520%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2520Spigen" rel="nofollow"  target="_blank">Yahooショッピング<img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></a></div>
+<div class="shoplinkyahoo"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DApple%2520Watch%2520%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589%2520Spigen" rel="nofollow"  target="_blank">Yahooショッピング<img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

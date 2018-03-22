@@ -69,23 +69,23 @@ SIMフリーiPhoneが公式発売開始！こたら（@kotala_b）です。<br /
 通信キャリアと契約した場合、2年間の縛り期間中の利用料金は端末の割引や通信料込みで<span class="b">合計13万円以上！</span></p>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/iphone-5s-use-2years" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5suse2years_130914-546x408.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/iphone-5s-use-2years" target="_blank">iPhone 5sを2年間使い続けたら13万円以上！料金表を作ってみた！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/iphone-5s-use-2years" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/iphone-5s-use-2years" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/iphone-5s-use-2years" target="_blank">iPhone 5sを2年間使い続けたら13万円以上！料金表を作ってみた！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/iphone-5s-use-2years" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/iphone-5s-use-2years" alt="" /></a></div>
 </div>
 <p>SIMフリー機には海外でもSIMを入れ替えればそのままiPhoneを使えるという便利さもある。<br />
 これまでは日本国内だとau、Softbank、ドコモのどこかと契約しなければなりませんでしたが、SIMフリーiPhoneの登場で変わってきそうですね！<br />
 iPhone 5s発売と同時にこのSIMフリー機も発売してたら機種変しないで新規で買ったのに！残念！<br />
 次のiPhoneはSIMフリー機も同時発売して欲しいな！<br />
-SIMフリーのiPhoneはこちらから買えます：<span class="removed_link" title="http://aos.prf.hn/click/camref:1l3v2BV/creativeref:305238">Store Homepage</span></p>
+SIMフリーのiPhoneはこちらから買えます：<span class="removed_link" title="aos.prf.hn/click/camref:1l3v2BV/creativeref:305238">Store Homepage</span></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009V5Z2RG/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/513rqtMoTfL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009V5Z2RG/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/513rqtMoTfL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009V5Z2RG/same-22/ref=nosim/" rel="nofollow" target="_blank">NanoSIM カッター 3種のアダプタ付　iPhone5/iPhone4S/4用 通常サイズのSIMをnanoSIMサイズに簡単にカット</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009V5Z2RG/same-22/ref=nosim/" rel="nofollow" target="_blank">NanoSIM カッター 3種のアダプタ付　iPhone5/iPhone4S/4用 通常サイズのSIMをnanoSIMサイズに簡単にカット</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Remarks Japan     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=iPhone5%2FiPhone4S%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=iPhone5%2FiPhone4S%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

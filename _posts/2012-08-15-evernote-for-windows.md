@@ -21,7 +21,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
 ぼくはwindowsでEvernoteを使っています。@kotala_bです。<br />
 <a href="https://kotalab.com/evernote-for-mac" title="可能性が膨らむ！Evernote for Macにアカウント切り替え機能が公式対応！" target="_blank">先日Evernote for Macにユーザー切り替え機能が追加</a>されましたが、本日Evernote for Windowsにもユーザ切り替え機能が追加されました！<br />
 <!--more--></p>

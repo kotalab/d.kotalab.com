@@ -73,7 +73,7 @@ comments:
 <a href="https://play.google.com/store/apps/details?id=com.dropbox.android&hl=ja" target="_blank">Dropbox - Google Play の Android アプリ</a><br />
 スマホを契約解除してしまってネットに繋げない場合はWi-Fi接続するかiPhoneのテザリングでネットに繋ぎましょう。<br />
 iPhoneのテザリングの使い方はこちらを参考にしてみてください。<br />
-<a href="http://www.ipodwave.com/iphone/howto/tethering.html" target="_blank">【au/Softbank/docomo】iPhone 5/5s/5cでのテザリングの設定方法と使い方 | iPhone Wave</a><a href="http://b.hatena.ne.jp/entry/http://www.ipodwave.com/iphone/howto/tethering.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.ipodwave.com/iphone/howto/tethering.html" alt="" /></a></p>
+<a href="http://www.ipodwave.com/iphone/howto/tethering.html" target="_blank">【au/Softbank/docomo】iPhone 5/5s/5cでのテザリングの設定方法と使い方 | iPhone Wave</a><a href="https://b.hatena.ne.jp/entry/http://www.ipodwave.com/iphone/howto/tethering.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.ipodwave.com/iphone/howto/tethering.html" alt="" /></a></p>
 <h3>ガラケーの場合はmicroSDカードを使う！</h3>
 <p><img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="transfer-data-for-ketai-to-iphone_01" width="546" height="409" class="alignnone size-large wp-image-10657" /><br />
 ガラケーの場合はmicroSDカードに電話帳データを一度保存します。<br />

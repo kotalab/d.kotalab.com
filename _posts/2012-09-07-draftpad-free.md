@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/draftpad_120907.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/draftpad_120907.jpg" alt="" title="draftpad_120907" width="448" height="336" class="alignnone size-full wp-image-2545" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/typicalgenius/2387819098/" target="_blank">Memo</a> / typicalgenius</span></p>
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/typicalgenius/2387819098/" target="_blank">Memo</a> / typicalgenius</span></p>
 <p><strong>残念ながら2014年4月現在、AppStoreからDraftPadはダウンロードできなくなっています。</strong></p>
 <p>DraftPadが無料アプリということが信じられません。@kotala_bです。<br />
 それくらいDraftPadは便利なメモアプリです。<br />

@@ -25,7 +25,7 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/kaikaewari_121024.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kaikaewari_121024.png" alt="" title="kaikaewari_121024" width="448" height="305" class="alignnone size-full wp-image-3657" /></a><br />
 iPhone5を買って約1ヶ月が経ちました。@kotala_bです。<br />
 SoftbankでiPhoneを買い替えると「<strong>iPhoneかいかえ割</strong>」という機種変更特典が受けられます。<br />
-参考：<a href="http://mb.softbank.jp/mb/iphone/price_plan/cp_replacement/" target="_blank">iPhone 5の機種変更特典：iPhone かいかえ割│料金・割引│ソフトバンクモバイル</a><br />
+参考：<a href="https://mb.softbank.jp/mb/iphone/price_plan/cp_replacement/" target="_blank">iPhone 5の機種変更特典：iPhone かいかえ割│料金・割引│ソフトバンクモバイル</a><br />
 この特典の申込はSoftBankからメールが届いて、そこから申込となるようです。<br />
 購入から1ヶ月経ってもなかなかメールが送られてこないので調べてみました。<br />
 <!--more--></p>

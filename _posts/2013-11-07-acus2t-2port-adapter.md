@@ -55,42 +55,42 @@ iPad Airもしっかり充電できて大満足！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <p>今回紹介したのはこれ</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0089HZVR8/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/3153zdNEuCL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0089HZVR8/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/3153zdNEuCL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0089HZVR8/same-22/ref=nosim/" rel="nofollow" target="_blank">オウルテック 新しいiPadとiPhone・スマートフォンを2台同時に最速充電可能な超高出力3.1A対応充電ACアダプター ホワイト OWL-ACUS2(W)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0089HZVR8/same-22/ref=nosim/" rel="nofollow" target="_blank">オウルテック 新しいiPadとiPhone・スマートフォンを2台同時に最速充電可能な超高出力3.1A対応充電ACアダプター ホワイト OWL-ACUS2(W)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> オウルテック 2012-07-01    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=%83I%83E%83%8B%83e%83b%83N%20%92%B4%8D%82%8Fo%97%CD3.1A%91%CE%89%9E%8F%5B%93dAC%83A%83_%83v%83%5E%81%5B&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=%83I%83E%83%8B%83e%83b%83N%20%92%B4%8D%82%8Fo%97%CD3.1A%91%CE%89%9E%8F%5B%93dAC%83A%83_%83v%83%5E%81%5B&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <p>コンセントプラグの代わりにコードがついた4口タイプもあります。</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009QVIGNC/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31q-b6ZT7FL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009QVIGNC/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31q-b6ZT7FL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009QVIGNC/same-22/ref=nosim/" rel="nofollow" target="_blank">オウルテック iPhone5/新しいiPad/スマートフォン/タブレットPC対応5.1A超高出力AC USB充電器 ホワイト OWL-ACUS4(W)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009QVIGNC/same-22/ref=nosim/" rel="nofollow" target="_blank">オウルテック iPhone5/新しいiPad/スマートフォン/タブレットPC対応5.1A超高出力AC USB充電器 ホワイト OWL-ACUS4(W)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> オウルテック 2012-10-20    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=iPhone5%20%83I%83E%83%8B%83e%83b%83N&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=iPhone5%20%83I%83E%83%8B%83e%83b%83N&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <p>今まで使ってたのがこれ</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31c-qkZHAhL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31c-qkZHAhL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(2ポート合計2000mA)USB ACアダプタ ホワイト PL-WUCHG03-W (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(2ポート合計2000mA)USB ACアダプタ ホワイト PL-WUCHG03-W (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> プラネックス 2010-10-15    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

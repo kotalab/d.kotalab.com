@@ -51,8 +51,8 @@ iOS8になってホーム画面に追加されたんですが、これまでは�
 睡眠時間はもちろんのこと、睡眠の質も表示してくれるアプリです。<br />
 僕はこのアプリを2年以上前からずっと使っています<br />
 &darr;参考エントリー<br />
-<a href="https://kotalab.com/sleeptime-free-download" target="_blank">なんと睡眠ログアプリ「SleepTime」が期間限定で無料！ダウンロードするなら今しかない！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/sleeptime-free-download" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/sleeptime-free-download" alt="" /></a><br />
-<a href="https://kotalab.com/sleeptime-updata" target="_blank">SleepTimeがアップデート！Soundscapeやログのグラフ表示も可能に！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/sleeptime-updata" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/sleeptime-updata" alt="" /></a></p>
+<a href="https://kotalab.com/sleeptime-free-download" target="_blank">なんと睡眠ログアプリ「SleepTime」が期間限定で無料！ダウンロードするなら今しかない！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/sleeptime-free-download" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/sleeptime-free-download" alt="" /></a><br />
+<a href="https://kotalab.com/sleeptime-updata" target="_blank">SleepTimeがアップデート！Soundscapeやログのグラフ表示も可能に！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/sleeptime-updata" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/sleeptime-updata" alt="" /></a></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/sleep-time-sleep-cycle-smart/id555564825?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a216.phobos.apple.com/us/r30/Purple3/v4/8f/9b/d2/8f9bd20f-ad28-b3c3-becb-9a991b107e26/mzl.eydhcjlj.png" width="80" /></a></div>
 <div class="applinktext">
@@ -68,7 +68,7 @@ iOS8になってホーム画面に追加されたんですが、これまでは�
 <p>もう一つのWithingsは体重計「WS-50 SmartBodyAnalyzer」と連携するアプリです。<br />
 この体重計とアプリが優れもので、体重計に乗るだけで自動でスイッチが入って体重・体脂肪率・心拍数を計測してくれて、計測データを対応アプリへ自動で送信してくれるのです。</p>
 <p>&darr;参考エントリー<br />
-<a href="https://kotalab.com/ws50-smart-body-analyzer" target="_blank">Withingsの最新体重計「WS-50 Smart Body Analyzer」を購入！買ってよかった！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/ws50-smart-body-analyzer" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/ws50-smart-body-analyzer" alt="" /></a></p>
+<a href="https://kotalab.com/ws50-smart-body-analyzer" target="_blank">Withingsの最新体重計「WS-50 Smart Body Analyzer」を購入！買ってよかった！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/ws50-smart-body-analyzer" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/ws50-smart-body-analyzer" alt="" /></a></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/health-mate-by-withings-bu/id542701020?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1518.phobos.apple.com/us/r30/Purple5/v4/07/ea/7b/07ea7b73-d7a1-e107-c0a0-06700bb66163/mzl.tebmhssz.png" width="80" /></a></div>
 <div class="applinktext">
@@ -81,10 +81,10 @@ iOS8になってホーム画面に追加されたんですが、これまでは�
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/health-mate-by-withings-bu/id542701020?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00GRP609C/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31ObUIeOaDL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00GRP609C/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31ObUIeOaDL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00GRP609C/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings Smart Body Analyzer ネットワーク対応 体重計 ( Bluetooth Wi-Fi 機能 / 超薄型 / BMI 体脂肪 心拍数 測定可 / ブラック ) WS-50</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00GRP609C/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings Smart Body Analyzer ネットワーク対応 体重計 ( Bluetooth Wi-Fi 機能 / 超薄型 / BMI 体脂肪 心拍数 測定可 / ブラック ) WS-50</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Covia 2013-11-20    </div>
 <div class="kaerebalink-link1"></div>
@@ -110,10 +110,10 @@ iOS8になってホーム画面に追加されたんですが、これまでは�
 <h4 class="aam">Amazonのオススメ！</h4>
 <p>&darr;僕が持ってる体重計</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00GRP609C/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31ObUIeOaDL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00GRP609C/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31ObUIeOaDL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00GRP609C/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings Smart Body Analyzer ネットワーク対応 体重計 ( Bluetooth Wi-Fi 機能 / 超薄型 / BMI 体脂肪 心拍数 測定可 / ブラック ) WS-50</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00GRP609C/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings Smart Body Analyzer ネットワーク対応 体重計 ( Bluetooth Wi-Fi 機能 / 超薄型 / BMI 体脂肪 心拍数 測定可 / ブラック ) WS-50</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Covia 2013-11-20    </div>
 <div class="kaerebalink-link1"></div>
@@ -122,10 +122,10 @@ iOS8になってホーム画面に追加されたんですが、これまでは�
 </div>
 <p>&darr;体重計と同じメーカーのwithingsから発売されているウェアラブルデバイスもあります</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00J8LVJ98/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41UIc%2Buo-PL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00J8LVJ98/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41UIc%2Buo-PL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00J8LVJ98/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings Pulse O2 Wireless Activity and Heart Rate Tracker black [並行輸入品]</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00J8LVJ98/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings Pulse O2 Wireless Activity and Heart Rate Tracker black [並行輸入品]</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Withings     </div>
 <div class="kaerebalink-link1"></div>

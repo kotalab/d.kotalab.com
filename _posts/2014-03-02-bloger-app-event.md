@@ -50,7 +50,7 @@ comments:
 <p><img src="https://kotalab.com/wp-content/uploads/bloger-app-event_140301_01-546x409.jpg" alt="bloger-app-event_140301_01" width="546" height="409" class="alignnone size-large wp-image-11028" /><br />
 <a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a>のあきおさん(<a href="https://twitter.com/akio0911" target="_blank">@akio0911</a>)が主催のブロガー向けiPhoneアプリ開発体験会に行ってきました！<br />
 場所は渋谷のワーキングスペース「<a href="http://lightningspot.com/" target="_blank">Lightningspot</a>」で行われました。<br />
-参加者は<span class="removed_link" title="http://xtrailor.com/">果報は寝て待て</span>の慶次郎さん（<a href="https://twitter.com/Keijirou_" target="_blank">@Keijirou_</a>）、<a href="http://hatch2.com/blog/" target="_blank">hatch2 blog</a>のくまもんさん（<a href="https://twitter.com/hatch2" target="_blank">@hatch2</a>）、<a href="http://ilmio-notizie.com/" target="_blank">いるみお</a>のとろあさん（<a href="https://twitter.com/tohroa" target="_blank">@tohroa</a>）、<a href="http://hamako9999.net/" target="_blank">hamako9999.net</a>のハマコーさん（<a href="https://twitter.com/hamako9999" target="_blank">@hamako9999</a>）、そして僕の5人でした。<br />
+参加者は<span class="removed_link" title="xtrailor.com/">果報は寝て待て</span>の慶次郎さん（<a href="https://twitter.com/Keijirou_" target="_blank">@Keijirou_</a>）、<a href="http://hatch2.com/blog/" target="_blank">hatch2 blog</a>のくまもんさん（<a href="https://twitter.com/hatch2" target="_blank">@hatch2</a>）、<a href="http://ilmio-notizie.com/" target="_blank">いるみお</a>のとろあさん（<a href="https://twitter.com/tohroa" target="_blank">@tohroa</a>）、<a href="http://hamako9999.net/" target="_blank">hamako9999.net</a>のハマコーさん（<a href="https://twitter.com/hamako9999" target="_blank">@hamako9999</a>）、そして僕の5人でした。<br />
 <!--more--></p>
 <h2>初めてのiPhoneアプリ開発体験</h2>
 <p>今回作ったのは「自分のブログからRSSで記事一覧を読み取って、その中から選んだものをTwitterでつぶやく」というアプリです。<br />
@@ -84,30 +84,30 @@ iPhoneアプリ開発体験会の後はLightningspotの近くにあるおいし�
 iPhoneアプリを作ってみたいという気持ちとMacBook AirなどXcodeが動く環境だけあれば十分だと思います。</p>
 <h4 class="aam">あきおさんの著書</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/484433204X/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51uIVgPhuNL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/484433204X/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51uIVgPhuNL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/484433204X/same-22/" rel="nofollow" target="_blank">はじめてのXcode4プログラミング</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/484433204X/same-22/" rel="nofollow" target="_blank">はじめてのXcode4プログラミング</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">まえだひさこ,佐藤 伸吾 インプレスジャパン 2012-05-24    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/484433204X/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%82%CD%82%B6%82%DF%82%C4%82%CCXcode4%83v%83%8D%83O%83%89%83%7E%83%93%83O&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/484433204X/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%82%CD%82%B6%82%DF%82%C4%82%CCXcode4%83v%83%8D%83O%83%89%83%7E%83%93%83O&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11675382%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51txMMyQ0xL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51txMMyQ0xL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank">iPhoneアプリ開発レシピ iOS 6対応</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank">iPhoneアプリ開発レシピ iOS 6対応</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">佐藤 伸吾 インプレスジャパン 2013-04-18    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=iPhone%83A%83v%83%8A%8AJ%94%AD%83%8C%83V%83s%20iOS%206%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=iPhone%83A%83v%83%8A%8AJ%94%AD%83%8C%83V%83s%20iOS%206%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12270629%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

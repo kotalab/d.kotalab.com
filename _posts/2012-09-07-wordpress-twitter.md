@@ -22,15 +22,15 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/link_120708.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 ブログ内のツイッターアカウントのリンク表示としてwordpressプラグインの「<strong>Twitter  Plus</strong>」を使っていました。@kotala_bです。<br />
 Twitterアカウントの上にマウスを置くと「Hovercards」と言われるカードが表示されるのが気に入ってこのブログではずっと使っていました。<br />
 そんな「<strong>Twitter ＠Anywhere Plus</strong>」ですが、サービスの提供を終了するというニュースが流れました。<br />
-<a href="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" target="_blank"><img src="http://capture.heartrails.com/150x130?http://www.itmedia.co.jp/news/articles/1209/07/news039.html" alt="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" width="150" height="130" align="left" /></a><a href="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" target="_blank">Twitter、WebサイトにTwitter機能を埋め込む「＠Anywhere」を終了　12月6日までに移行を - ITmedia ニュース</a><br style="clear:both;" />そこで「<strong>Twitter ＠Anywhere Plus</strong>」に代わる方法を探し導入しましたので紹介します。<br />
+<a href="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" target="_blank"><img src="https://capture.heartrails.com/150x130?http://www.itmedia.co.jp/news/articles/1209/07/news039.html" alt="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" width="150" height="130" align="left" /></a><a href="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" target="_blank">Twitter、WebサイトにTwitter機能を埋め込む「＠Anywhere」を終了　12月6日までに移行を - ITmedia ニュース</a><br style="clear:both;" />そこで「<strong>Twitter ＠Anywhere Plus</strong>」に代わる方法を探し導入しましたので紹介します。<br />
 <!--more--></p>
 <h2>Twitter ＠Anywhere Plusに代わる方法</h2>
 <p>参考にしたのはこちら。<br />
-<a href="http://kachibito.net/wordpress/automatically-link-twitter.html" target="_blank"><img src="http://capture.heartrails.com/150x130?http://kachibito.net/wordpress/automatically-link-twitter.html" alt="http://kachibito.net/wordpress/automatically-link-twitter.html" width="150" height="130" align="left" /></a><a href="http://kachibito.net/wordpress/automatically-link-twitter.html" target="_blank">WordPressで記事内に書かれたTwitterアカウント名を、＠Anywhereを使わずに自動リンク化する - かちびと.net</a><br style="clear:both;" />正規表現で＠から始まる文字を探し変換する方法です。</p>
+<a href="http://kachibito.net/wordpress/automatically-link-twitter.html" target="_blank"><img src="https://capture.heartrails.com/150x130?http://kachibito.net/wordpress/automatically-link-twitter.html" alt="http://kachibito.net/wordpress/automatically-link-twitter.html" width="150" height="130" align="left" /></a><a href="http://kachibito.net/wordpress/automatically-link-twitter.html" target="_blank">WordPressで記事内に書かれたTwitterアカウント名を、＠Anywhereを使わずに自動リンク化する - かちびと.net</a><br style="clear:both;" />正規表現で＠から始まる文字を探し変換する方法です。</p>
 <h2>実際にやってみました</h2>
 <p>まずはプラグインの停止から。<br />
 「<strong>Twitter ＠Anywhere Plus</strong>」を停止させます。<br />
@@ -54,7 +54,7 @@ Twitterアカウントの上にマウスを置くと「Hovercards」と言われ
 ********************************/<br />
 function add_twitter_link($content) {<br />
     $pattern= '/(?<=^|(?<=[^a-zA-Z0-9-_&#46;]))@([A-Za-z]+[A-Za-z0-9</em>]+)/i';<br />
-    $replace= '@<a href="http://www.twitter.com/$1" target="_blank">$1</a>';<br />
+    $replace= '@<a href="https://www.twitter.com/$1" target="_blank">$1</a>';<br />
     $content= preg_replace($pattern, $replace, $content);<br />
     return $content;<br />
 }</p>

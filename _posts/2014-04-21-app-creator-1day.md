@@ -31,7 +31,7 @@ comments: []
 <!--more--></p>
 <h2>「アプリクリエイター道場　開発塾19期」1日目</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/app-creator-1day_140421_02.jpg" alt="App creator 1day 140421 02" title="app-creator-1day_140421_02.JPG" border="0" width="548" height="365" /><br />
-<a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a><a href="http://b.hatena.ne.jp/entry/http://akio0911.net/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://akio0911.net/" alt="" /></a>のアキオさんが講師を務める、「アプリクリエイター道場　開発塾」の1日目が始まりました！<br />
+<a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a><a href="https://b.hatena.ne.jp/entry/http://akio0911.net/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://akio0911.net/" alt="" /></a>のアキオさんが講師を務める、「アプリクリエイター道場　開発塾」の1日目が始まりました！<br />
 アプリクリエイター道場の1日目は午前と午後に講義が1つずつ。<br><br />
 自己紹介から始まって、実際にXcodeでプログラムを書くところまでやりました。</p>
 <p>ただ講義を聞いているだけじゃなくて、手を動かしてコードを書いていくので、ちょっとずつ出来ることが増えていくのが実感できてよかったです。</p>
@@ -67,7 +67,7 @@ comments: []
 毎日ちょっとずつやっていこうと思います！</p>
 <p>行ってみたいなって思った人はこちらから応募できます！</p>
 <p>最新の講座の応募はこちらから！<br />
-<a href="http://egg-is-world.com/app-creator-dojo-develop/" target="_blank">未経験者向けのiPhoneアプリ開発講座「アプリクリエイター道場 東京塾・大阪塾」</a><a href="http://b.hatena.ne.jp/entry/http://egg-is-world.com/app-creator-dojo-develop/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://egg-is-world.com/app-creator-dojo-develop/" alt="" /></a></p>
+<a href="http://egg-is-world.com/app-creator-dojo-develop/" target="_blank">未経験者向けのiPhoneアプリ開発講座「アプリクリエイター道場 東京塾・大阪塾」</a><a href="https://b.hatena.ne.jp/entry/http://egg-is-world.com/app-creator-dojo-develop/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://egg-is-world.com/app-creator-dojo-develop/" alt="" /></a></p>
 <p>気になってるけど日程が合わないって人は、アプリ道場か講師のあきおさんのメルマガを読むといいらしいですよ！<br />
 アプリクリエイター道場・自由大学(<a href="https://twitter.com/appcreatordojo" target="_blank">@AppCreatorDojo</a>)<br />
 <a href="https://www.facebook.com/AppCreatorDojo" target="_blank">アプリクリエイター道場 - フェイスブックページ</a><br />
@@ -80,64 +80,64 @@ comments: []
 <h4 class="aam">Amazonのオススメ！</h4>
 <p>講師のアキオさんの本です！</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51txMMyQ0xL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51txMMyQ0xL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank">iPhoneアプリ開発レシピ iOS 6対応</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank">iPhoneアプリ開発レシピ iOS 6対応</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">佐藤 伸吾 インプレスジャパン 2013-04-18    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=iPhone%83A%83v%83%8A%8AJ%94%AD%83%8C%83V%83s%20iOS%206%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12270629%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882584357&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4844333925" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844333925/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=iPhone%83A%83v%83%8A%8AJ%94%AD%83%8C%83V%83s%20iOS%206%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12270629%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882584357&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4844333925" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <p>講義中に聞いたアキオさんのオススメ本</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00HY5BWOM/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/61-W%2BJdjKbL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00HY5BWOM/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61-W%2BJdjKbL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00HY5BWOM/same-22/" rel="nofollow" target="_blank">現場で通用する力を身につける　iPhoneアプリ開発の教科書　【iOS 7＆Xcode 5対応】 (教科書シリーズ)[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00HY5BWOM/same-22/" rel="nofollow" target="_blank">現場で通用する力を身につける　iPhoneアプリ開発の教科書　【iOS 7＆Xcode 5対応】 (教科書シリーズ)[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">森 巧尚 マイナビ 2014-01-25    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00HY5BWOM/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4839948291/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00HY5BWOM/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4839948291/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4797368276/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41VdFg9YqsL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4797368276/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41VdFg9YqsL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4797368276/same-22/" rel="nofollow" target="_blank">詳解 Objective-C 2.0 第3版</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4797368276/same-22/" rel="nofollow" target="_blank">詳解 Objective-C 2.0 第3版</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">荻原 剛志 ソフトバンククリエイティブ 2011-12-28    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4797368276/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00GJGOPDW/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11463002%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882584357&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4797368276" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4797368276/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00GJGOPDW/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11463002%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882584357&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4797368276" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4863541058/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/510VnYna5LL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4863541058/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/510VnYna5LL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4863541058/same-22/" rel="nofollow" target="_blank">改訂2版 Objective-C逆引きハンドブック</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4863541058/same-22/" rel="nofollow" target="_blank">改訂2版 Objective-C逆引きハンドブック</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">林 晃 シーアンドアール研究所 2012-05-26    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4863541058/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%89%FC%92%F92%94%C5%20Objective-C%8Bt%88%F8%82%AB%83n%83%93%83h%83u%83b%83N&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11641530%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882584357&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4863541058" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4863541058/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%89%FC%92%F92%94%C5%20Objective-C%8Bt%88%F8%82%AB%83n%83%93%83h%83u%83b%83N&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11641530%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882584357&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4863541058" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

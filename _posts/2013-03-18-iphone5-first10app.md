@@ -165,7 +165,7 @@ AndroidやPCで使っていた方でも使いやすいのがこのGoogle純正�
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/miiru-mo-fanoo-liao-likamera/id472973118?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <p>食べたものを共有するSNSミイルのiPhoneアプリ！<br />
-<a href="http://miil.me/u/kotala" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://miil.me/u/kotala" alt="kotala - ミイル（miil）" width="150" height="130" /></a><a href="http://miil.me/u/kotala" target="_blank">kotala - ミイル（miil）</a><a href="http://b.hatena.ne.jp/entry/http://miil.me/u/kotala" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://miil.me/u/kotala" alt="" /></a><br style="clear:both;" />僕はほぼ毎日、食べたものを投稿しています！</p>
+<a href="https://miil.me/u/kotala" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://miil.me/u/kotala" alt="kotala - ミイル（miil）" width="150" height="130" /></a><a href="https://miil.me/u/kotala" target="_blank">kotala - ミイル（miil）</a><a href="https://b.hatena.ne.jp/entry/https://miil.me/u/kotala" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://miil.me/u/kotala" alt="" /></a><br style="clear:both;" />僕はほぼ毎日、食べたものを投稿しています！</p>
 <h2>Amazon</h2>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/amazon-mobairu/id374254473?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1558.phobos.apple.com/us/r30/Purple/v4/cc/7f/4c/cc7f4c9d-3617-df6f-671b-0b14bf210fcc/icon.png" width="80" /></a></div>

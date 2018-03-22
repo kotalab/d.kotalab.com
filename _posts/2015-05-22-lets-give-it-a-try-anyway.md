@@ -40,7 +40,7 @@ comments: []
 今はそのあとできた彼女と結婚して幸せな毎日を送っています。</p>
 <h2>恋は偉大！</h2>
 <p>最初の彼女のおかげで、諦めないこととにかくやってみることの大切さを体験しました。</p>
-<p>そのあと、2012年3月に<a href="http://www.ttcbn.net/no_second_life/archives/19748" target="_blank">今年から本気出す人へ 「6本の柱」で5年後の自分を計画しよう</a>という立花岳志さん(<a href="https://twitter.com/ttachi" target="_blank">@ttachi</a>)のブログ記事を読んで、「<strong>とにかくやってみよう</strong>、今すぐ本気だそう！」とこのブログを始めました。</p>
+<p>そのあと、2012年3月に<a href="https://www.ttcbn.net/no_second_life/archives/19748" target="_blank">今年から本気出す人へ 「6本の柱」で5年後の自分を計画しよう</a>という立花岳志さん(<a href="https://twitter.com/ttachi" target="_blank">@ttachi</a>)のブログ記事を読んで、「<strong>とにかくやってみよう</strong>、今すぐ本気だそう！」とこのブログを始めました。</p>
 <h2>今すぐに始められる</h2>
 <p>このブログを始めたのは2012年5月9日。<br />
 立花さんの記事を読んでから間があいています。</p>

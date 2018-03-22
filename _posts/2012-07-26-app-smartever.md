@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
 EvernoteのiPhoneアプリの数に驚いてます。@kotala_bです。<br />
 SmartEver、MergeEverやBookEverなど数えるとキリがないほど多くのアプリがあります。<br />
 そんな中からiPhone4Sを買ってから約2週間の間に、公式アプリを含め7つのアプリを入れました。<br />
@@ -49,7 +49,7 @@ SmartEver、MergeEverやBookEverなど数えるとキリがないほど多くの
 削ったというのは読んで字のごとくタグを付けているノート数を削りました。<br />
 一番下のURLは<strong>SmartEver</strong>の運用方法を調べている時にメモしたものです。<br />
 リンクさきはこちら。<br />
-<a href="http://rashita.net/blog/?p=8543" target="_blank"><img src="http://capture.heartrails.com/150x130?http://rashita.net/blog/?p=8543" alt="http://rashita.net/blog/?p=8543" width="150" height="130" align="left" /></a><a href="http://rashita.net/blog/?p=8543" target="_blank">R-style &raquo; マイクロEvernoteクライアント「SmartEver」の運用法</a><br style="clear:both;" />運用方法として、アイデアノートとTODOリストという使い方を紹介しています。</p>
+<a href="http://rashita.net/blog/?p=8543" target="_blank"><img src="https://capture.heartrails.com/150x130?http://rashita.net/blog/?p=8543" alt="http://rashita.net/blog/?p=8543" width="150" height="130" align="left" /></a><a href="http://rashita.net/blog/?p=8543" target="_blank">R-style &raquo; マイクロEvernoteクライアント「SmartEver」の運用法</a><br style="clear:both;" />運用方法として、アイデアノートとTODOリストという使い方を紹介しています。</p>
 <h2>まとめ</h2>
 <p>「ちょっとした見ておきたいノート」を<strong>ストレスなく表示させる</strong>「<a href="https://itunes.apple.com/jp/app/smartever/id493990103?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">SmartEver</a>」のご紹介でした。<br />
 アイデアノートとしての使い道以外にも、TODOリストや買い物リストにも使ってみます！</p>

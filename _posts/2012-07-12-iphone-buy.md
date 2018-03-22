@@ -23,7 +23,7 @@ comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/iphone_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone_01.jpg" alt="" title="iphone_01" width="448" height="336" class="alignnone size-full wp-image-1430" /></a><br />
 iPhone4S32GBを買いました。@kotala_bです。<br />
-<a href="https://kotalab.com/iphone4s32gb-0yen" target="_blank"><img title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note" src="http://capture.heartrails.com/150x130/1342095433402?https://kotalab.com/iphone4s32gb-0yen" alt="https://kotalab.com/archives/1402" width="150" height="130" align="left" /></a><a href="https://kotalab.com/iphone4s32gb-0yen" title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！" target="_blank">念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note</a><br style="clear:both;" />こちらの記事で書いたように<strong>iPhone4S</strong>を購入しました！<br />
+<a href="https://kotalab.com/iphone4s32gb-0yen" target="_blank"><img title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note" src="https://capture.heartrails.com/150x130/1342095433402?https://kotalab.com/iphone4s32gb-0yen" alt="https://kotalab.com/archives/1402" width="150" height="130" align="left" /></a><a href="https://kotalab.com/iphone4s32gb-0yen" title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！" target="_blank">念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note</a><br style="clear:both;" />こちらの記事で書いたように<strong>iPhone4S</strong>を購入しました！<br />
 <!--more--></p>
 <h2>開封の儀とやらを</h2>
 <p>発売から9ヶ月経ち今更感はありますがそんなのは関係ありません！<br />

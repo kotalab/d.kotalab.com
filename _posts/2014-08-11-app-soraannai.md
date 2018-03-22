@@ -33,7 +33,7 @@ comments: []
 <p>従来のレーダーでは対応できなかったゲリラ豪雨にも対応できるのがXバンドMPレーダーです。<br />
 僕は最近知ったんですが、2013年から国土交通省が運用していたようです。</p>
 <p>今までよりも高性能なレーダーのようですが、Webサイトで公開されているXバンドMPレーダーはお世辞にも見やすいとは言えません。<br />
-参考:<a href="http://www.river.go.jp/xbandradar/" target="_blank">ＸＲＡＩＮ雨量情報 地域選択</a><a href="http://b.hatena.ne.jp/entry/http://www.river.go.jp/xbandradar/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.river.go.jp/xbandradar/" alt="" /></a></p>
+参考:<a href="http://www.river.go.jp/xbandradar/" target="_blank">ＸＲＡＩＮ雨量情報 地域選択</a><a href="https://b.hatena.ne.jp/entry/http://www.river.go.jp/xbandradar/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.river.go.jp/xbandradar/" alt="" /></a></p>
 <h2>そら案内でXバンドMPレーダーが見られた！</h2>
 <p>僕は普段、iPhoneアプリのそら案内というアプリで1日の天気を確認しているんですが、そのそら案内のアプリからとっても見やすいXバンドMPレーダーの様子がわかることを昨日知りました！<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140811084431.jpg" width="548" height="411" class="slooProImg" /></p>

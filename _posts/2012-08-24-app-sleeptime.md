@@ -24,7 +24,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/sleeplog_120824.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120824.jpg" alt="" title="sleeplog_120824" width="448" height="302" class="alignnone size-full wp-image-2294" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/nenzen/4123832749/" target="_blank">Waking up</a> / Carl Lov&eacute;n</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/nenzen/4123832749/" target="_blank">Waking up</a> / Carl Lov&eacute;n</span><br />
 2つの睡眠ログアプリを比べてみました。@kotala_bです。<br />
 比べたアプリは「<a href="https://itunes.apple.com/jp/app/sleep-time+-alarm-clock-sleep/id498360026?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">Sleep Time</a>」と「<a href="https://itunes.apple.com/jp/app/kuai-mianrizumu-shui-mian/id542317934?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">快眠リズム</a>」です。<br />
 <!--more--></p>

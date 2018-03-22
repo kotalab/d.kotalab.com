@@ -51,7 +51,7 @@ comments:
 <h2>iPhone4SからiPhone5へ移行</h2>
 <p>iPhone5の開封はさておき、次は移行です。<br />
 iPhone5への移行はすんなり出来ました。<br />
-<a href="https://kotalab.com/from-iphone-to-iphone" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/2677" alt="https://kotalab.com/from-iphone-to-iphone" width="150" height="130" align="left" /></a><a href="https://kotalab.com/from-iphone-to-iphone" target="_blank">iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note</a><br style="clear:both;" />自分で書いた記事ですが、ほんとこのままでした。<br />
+<a href="https://kotalab.com/from-iphone-to-iphone" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2677" alt="https://kotalab.com/from-iphone-to-iphone" width="150" height="130" align="left" /></a><a href="https://kotalab.com/from-iphone-to-iphone" target="_blank">iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note</a><br style="clear:both;" />自分で書いた記事ですが、ほんとこのままでした。<br />
 アプリの設定もそのままでいいものも多く、ほんとすんなりと移行出来ました。<br />
 ▼「新規」の文字が初々しいホーム画面<br />
 <a href="https://kotalab.com/wp-content/uploads/iphone5_120924_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5_120924_01.png" alt="" title="iphone5_120924_01" width="300" height="533" class="alignnone size-full wp-image-2953" /></a><br />

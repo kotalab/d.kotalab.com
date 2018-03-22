@@ -31,14 +31,14 @@ windowsでしか動かないソフトの存在です。<br />
 僕が週1で使っていたのはWindowsでしか動かない弥生の会計ソフトだったのです。<br />
 そこで<a href="https://kotalab.com/macbook-air-dual-diysplay" title="MacBookAirでもデュアルディスプレイにしてみたらかなり快適だった！一番よく使う画面は大きい方がいい！" target="_blank">デュアルディスプレイ化する時</a>に一緒にUSBSurperDriveを購入しBootCampからWindowsを入れることにしました。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0062DEZBO/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51mac1s104L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0062DEZBO/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51mac1s104L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0062DEZBO/same-22/ref=nosim/" rel="nofollow" target="_blank">やよいの青色申告 12</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0062DEZBO/same-22/ref=nosim/" rel="nofollow" target="_blank">やよいの青色申告 12</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> 弥生 2011-12-02    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=%90%C2%90F%90%5C%8D%90%20%82%E2%82%E6%82%A2&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=%90%C2%90F%90%5C%8D%90%20%82%E2%82%E6%82%A2&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
@@ -56,27 +56,27 @@ Google先生に聞いたところMountainLion(OSX10.8)のBootcamp4.0からはWin
 3.仮想化ソフトにWindows7または8を入れる<br />
 仮想化ソフトを使って再起動なしでWindowsが動くっていうのに魅力を感じているので、理想としては3番お財布的には2番。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51hrN%2BOGmPL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51hrN%2BOGmPL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank">VMware Fusion 5</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank">VMware Fusion 5</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> アクト・ツー 2012-09-28    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=VMware%20Fusion%205&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=VMware%20Fusion%205&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0096Y9LCE/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51p8-cH%2B4jL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0096Y9LCE/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51p8-cH%2B4jL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0096Y9LCE/same-22/ref=nosim/" rel="nofollow" target="_blank">Parallels Desktop 8 for Mac</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0096Y9LCE/same-22/ref=nosim/" rel="nofollow" target="_blank">Parallels Desktop 8 for Mac</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> Parallels 2012-09-05    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=Parallels%20Desktop%208%20for%20Mac&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=Parallels%20Desktop%208%20for%20Mac&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

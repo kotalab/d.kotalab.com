@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 368
-wordpress_url: http://kotala.wordpress.com/?p=368
+wordpress_url: https://kotala.wordpress.com/?p=368
 date: '2012-05-23 21:18:31 +0900'
 date_gmt: '2012-05-23 12:18:31 +0900'
 category:
@@ -23,7 +23,7 @@ comments: []
 昨日行ってきたディズニーランドについて書こうと思います。<br />
 <!--more--></p>
 <h2>入園前にパスケースを購入</h2>
-<p>10時に舞浜駅に到着し、駅前のディズニーショップ<a title="ボンヴォヤージュ" href="http://www.tokyodisneyresort.co.jp/bv/" target="_blank">ボンヴォヤージュ</a>でパスケースを買いました。<br />
+<p>10時に舞浜駅に到着し、駅前のディズニーショップ<a title="ボンヴォヤージュ" href="https://www.tokyodisneyresort.co.jp/bv/" target="_blank">ボンヴォヤージュ</a>でパスケースを買いました。<br />
 行く前はさほど積極的な感じではありませんでしたが、<strong>夢の国</strong>の入口が見えてくると次第に<strong>興奮</strong>してきました。<br />
 入口に入ってすぐ脇にあるコインロッカーを利用し、手荷物をその中へ入れてお金は財布からパスケースへ移し替えて傘とスマホ以外は何も持たずに園内へ。</p>
 <h2>シンデレラ城がお出迎え</h2>
@@ -33,7 +33,7 @@ comments: []
 <h2>快適な待ち時間</h2>
 <p>雨の日ということもありあまり混んでおらず、サクサクと乗り物に乗れました。<br />
 普段だと1時間以上待つような人気の物でも最大で15分くらい待つくらいで、ほとんどの乗り物が普段並ぶ通路をそのまま進めば乗れるといった感じした。<br />
-<a title="ファストパス" href="http://www.tokyodisneyresort.co.jp/tdl/service/in_fastpass.html" target="_blank">ファストパス</a>も利用せずに<strong>快適な待ち時間</strong>でした。</p>
+<a title="ファストパス" href="https://www.tokyodisneyresort.co.jp/tdl/service/in_fastpass.html" target="_blank">ファストパス</a>も利用せずに<strong>快適な待ち時間</strong>でした。</p>
 <h2>大満足</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/disney_smallworld.jpg"><img src="https://kotalab.com/wp-content/uploads/disney_smallworld.jpg" alt="" title="disney_smallworld" width="448" height="600" class="alignnone size-full wp-image-1159" /></a><br />
 夕方になると更に人も減り「It's a small world」は1つのボートがまるまる貸切。<br />

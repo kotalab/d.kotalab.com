@@ -31,7 +31,7 @@ comments: []
 <!--more--></p>
 <h2>何を聞くか</h2>
 <blockquote><p>「何を話すか」ではなく「何を聞くか」<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank">キラークエスチョン</a>  - P.5</p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank">キラークエスチョン</a>  - P.5</p></blockquote>
 <p>コミュニケーションで大切な事は「話す」ではなくて「聞く」ことだそうです。</p>
 <p>「話す」は自分のことを話すだけですし、独り言のように一人で「話す」こともできます。<br />
 でも「聞く」という行為はまず相手がいないと成り立ちません。</p>
@@ -43,7 +43,7 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="
 ひとついえることは、<span class="b">自分が話してばかりだと相手のことがわからないということです。</span></p>
 <h2>人は誰でも話を聞いてほしい</h2>
 <blockquote><p>人は基本的に話を聞いてほしい生き物だからだ。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank">キラークエスチョン</a>  - P.7</p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank">キラークエスチョン</a>  - P.7</p></blockquote>
 <p><span class="b">自分に興味を持ってくれる人に話をするのを嫌だと思う人は少ないのでしょう。</span></p>
 <p>僕自身、どちらかというと人に自分のことを話すのは苦手な方なんですが、話を聞かれると意外としゃべることが多い気がします。</p>
 <h2>相手に関心を持つ</h2>
@@ -57,20 +57,20 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="
 <p>もしあの頃の自分に戻れるなら、もっと相手の話を聞きなさいとアドバイスしてあげたいです。<br />
 もし何を聞けばいいかわからないときは、</p>
 <blockquote><p>初対面で何を話せばいいかのコツは、自分が正直に感じた事の中で相手を不快にさせないことを選んで話すことだ。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank">キラークエスチョン</a>  - P.18</p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank">キラークエスチョン</a>  - P.18</p></blockquote>
 <h2 class="aam">Amazonのオススメ！</h2>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31U2c0ZO4vL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31U2c0ZO4vL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank">キラークエスチョン (光文社新書)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank">キラークエスチョン (光文社新書)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">山田玲司 光文社 2009-08-18    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00GU4RC4C/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00GU4RC4C/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6149959%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4334035213" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4334035213" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

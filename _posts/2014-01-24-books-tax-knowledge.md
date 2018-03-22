@@ -74,15 +74,15 @@ via:P.147</p></blockquote>
 ただし、実際の確定申告には税理士などの専門家に相談して、しっかり準備しておきましょう！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41jpOByWCrL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41jpOByWCrL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank">あらゆる領収書は経費で落とせる (中公新書ラクレ)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank">あらゆる領収書は経費で落とせる (中公新書ラクレ)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">大村 大次郎 中央公論新社 2011-09-09    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%82%A0%82%E7%82%E4%82%E9%97%CC%8E%FB%8F%91%82%CD%8Co%94%EF%82%C5%97%8E%82%C6%82%B9%82%E9%20%28%92%86%8C%F6%90V%8F%91%83%89%83N%83%8C%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4121503961/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%82%A0%82%E7%82%E4%82%E9%97%CC%8E%FB%8F%91%82%CD%8Co%94%EF%82%C5%97%8E%82%C6%82%B9%82%E9%20%28%92%86%8C%F6%90V%8F%91%83%89%83N%83%8C%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11332395%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>
@@ -91,5 +91,5 @@ via:P.147</p></blockquote>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/books-sakiokurisezuni" target="_blank"><img src="https://kotalab.com/wp-content/uploads/books-sakiokurisezuni_140116-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/books-sakiokurisezuni" target="_blank">こうすれば貯金も家計簿もうまくいく6つの方法！ &ndash; 先送りせずにすぐやる人に変わる方法 佐々木正悟著</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/books-sakiokurisezuni"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/books-sakiokurisezuni" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/books-sakiokurisezuni" target="_blank">こうすれば貯金も家計簿もうまくいく6つの方法！ &ndash; 先送りせずにすぐやる人に変わる方法 佐々木正悟著</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-sakiokurisezuni"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-sakiokurisezuni" alt="" /></span></div>
 </div>

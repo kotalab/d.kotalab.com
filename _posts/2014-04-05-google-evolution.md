@@ -49,7 +49,7 @@ comments:
 <p>Web制作会社LIGのブログにはこんなことが書いてあります。</p>
 <blockquote><p>
 検索エンジンを意識した文字数、30字までにおさめる<br />
-via:<a href="http://liginc.co.jp/web/seo/30932" target="_blank">アクセス増加を狙え！読みたくなる記事タイトルの付け方、7つの秘密 | 株式会社LIG</a><a href="http://b.hatena.ne.jp/entry/http://liginc.co.jp/web/seo/30932" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://liginc.co.jp/web/seo/30932" alt="" /></a>
+via:<a href="http://liginc.co.jp/web/seo/30932" target="_blank">アクセス増加を狙え！読みたくなる記事タイトルの付け方、7つの秘密 | 株式会社LIG</a><a href="https://b.hatena.ne.jp/entry/http://liginc.co.jp/web/seo/30932" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://liginc.co.jp/web/seo/30932" alt="" /></a>
 </p></blockquote>
 <p>こういうのを見たりすると「そうか30文字くらいがいいのか」って思いますよね。</p>
 <p>そんなのは別に気にしなくてもいいのかなっていう出来事がありました。<br />

@@ -25,7 +25,7 @@ comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/books-memo-and-log_20140304-546x409.jpg" alt="books-memo-and-log_20140304" width="546" height="409" class="alignnone size-large wp-image-11065" /><br />
 メモと記録ってどう違うの？<br />
-「<a href="http://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank">メモと記録だけでストレスフリーな毎日を続ける仕事術</a>」というタイトルを見て思い浮かんだ言葉がこれだ。<br />
+「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank">メモと記録だけでストレスフリーな毎日を続ける仕事術</a>」というタイトルを見て思い浮かんだ言葉がこれだ。<br />
 本書を読み進めていくとこれがわかるようになってくる。<br />
 メモをするというのは<span class="b">自分の感情だったり頭の中に思い浮かんだことを書き留めておくこと</span>で、記録をするというのは作業の内容とか時間のような<span class="b">事実を書き留めておく</span>ことだ。</p>
 <p><span class="b">本書の内容はメモと記録を使い分けるというよりも、うまく融合させていくというやり方である。</span><br />
@@ -63,22 +63,22 @@ comments: []
 <p>メモと記録をするのにうってつけなツールはあげればきりがないほど沢山ある。<br />
 しかしそんなツールがなくても、紙とペンさえあればできるのがメモと記録だ。</p>
 <blockquote><p>ツールが変わっても根本は変わらないと思うものが2つあります。それは「行動内容と時間を記録する」ことと、「頭に浮かんだことをメモにする」ことです。<br />
-<a href="http://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank">メモと記録だけでストレスフリーな毎日を続ける仕事術[Kindle版]</a></p></blockquote>
+<a href="https://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank">メモと記録だけでストレスフリーな毎日を続ける仕事術[Kindle版]</a></p></blockquote>
 <p>行動記録を取ろうとかチェックリストを作ろうという、仕事術やストレスフリーを謳う本は沢山ある。<br />
-それらの多くの本と今回紹介した「<a href="http://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank">メモと記録だけでストレスフリーな毎日を続ける仕事術</a>」が違うのは、「<span class="b">作ったリスト（記録）にメモを加えるて自分だけのリストに作り変えよう</span>」という著者の気持ちが表れていることだ。<br />
+それらの多くの本と今回紹介した「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank">メモと記録だけでストレスフリーな毎日を続ける仕事術</a>」が違うのは、「<span class="b">作ったリスト（記録）にメモを加えるて自分だけのリストに作り変えよう</span>」という著者の気持ちが表れていることだ。<br />
 行動記録はとってるのになかなか思い通りにうまくいかないという人は是非読んでみて欲しい。<br />
 オススメです！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51NJ94w56PL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51NJ94w56PL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank">メモと記録だけでストレスフリーな毎日を続ける仕事術　マニュアル通りじゃないから続けられるタスク管理のコツ26箇条 (impress QuickBooks)[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank">メモと記録だけでストレスフリーな毎日を続ける仕事術　マニュアル通りじゃないから続けられるタスク管理のコツ26箇条 (impress QuickBooks)[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">とゆ インプレスコミュニケーションズ 2013-10-10    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00FR2XNVY/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=%83%81%83%82%82%C6%8BL%98%5E%82%BE%82%AF%82%C5%83X%83g%83%8C%83X%83t%83%8A%81%5B%82%C8%96%88%93%FA%82%F0%91%B1%82%AF%82%E9%8Ed%8E%96%8Fp%81%40%83%7D%83j%83%85%83A%83%8B%92%CA%82%E8%82%B6%82%E1%82%C8%82%A2%82%A9%82%E7%91%B1%82%AF%82%E7%82%EA%82%E9%83%5E%83X%83N%8A%C7%97%9D%82%CC%83R%83c26%89%D3%8F%F0%20%28impress%20QuickBooks%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=search-alias%3Dstripbooks&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00FR2XNVY/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=%83%81%83%82%82%C6%8BL%98%5E%82%BE%82%AF%82%C5%83X%83g%83%8C%83X%83t%83%8A%81%5B%82%C8%96%88%93%FA%82%F0%91%B1%82%AF%82%E9%8Ed%8E%96%8Fp%81%40%83%7D%83j%83%85%83A%83%8B%92%CA%82%E8%82%B6%82%E1%82%C8%82%A2%82%A9%82%E7%91%B1%82%AF%82%E7%82%EA%82%E9%83%5E%83X%83N%8A%C7%97%9D%82%CC%83R%83c26%89%D3%8F%F0%20%28impress%20QuickBooks%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=search-alias%3Dstripbooks&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

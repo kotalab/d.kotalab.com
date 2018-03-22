@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 275
-wordpress_url: http://kotala.wordpress.com/?p=275
+wordpress_url: https://kotala.wordpress.com/?p=275
 date: '2012-05-19 11:43:50 +0900'
 date_gmt: '2012-05-19 02:43:50 +0900'
 category:
@@ -24,7 +24,7 @@ comments: []
 平日が休みの@kotala_bです。<br />
 雷がゴロゴロしてるかと思ったら急に日が差したりと天気が不安定。「こんな日は屋内に限る」ということで昨日はCOSTCOに行ってきました。<br />
 COSTCOというのは食品からテレビ等の家電、さらに宝石まで売ってる会員制の大型スーパーマーケットで、世界に600店舗以上日本では13店舗そのうち関東には8店舗ほどあります。<br />
-<a href="http://www.costco.co.jp/p/" target="_blank"><img title="コストコ Japan Home" src="http://capture.heartrails.com/150x130/shadow?http://www.costco.co.jp/p/" alt="http://www.costco.co.jp/p/" width="150" height="130" align="left" /></a><a title="コストコ Japan Home" href="http://www.costco.co.jp/p/" target="_blank">コストコ Japan Home</a><br />
+<a href="https://www.costco.co.jp/p/" target="_blank"><img title="コストコ Japan Home" src="https://capture.heartrails.com/150x130/shadow?https://www.costco.co.jp/p/" alt="https://www.costco.co.jp/p/" width="150" height="130" align="left" /></a><a title="コストコ Japan Home" href="https://www.costco.co.jp/p/" target="_blank">コストコ Japan Home</a><br />
 コストコホールセールは、高品質な優良ブランド商品をできる限りの低価格にて提供する会員制倉庫型店です。世界中にある数百ヵ所のコストコ倉庫店では幅広い品揃えに加え、専門店としての便利なサービスも備えており、お買い物をより一層楽しんで頂けます。<br style="clear:both;" /><br />
 <!--more--></p>
 <h2>会員制スーパー</h2>
@@ -34,7 +34,7 @@ COSTCOというのは食品からテレビ等の家電、さらに宝石まで�
 <strong>年会費は4200円</strong>で、1枚発行すると家族用にもう1枚無料で発行することが出来ます。</p>
 <h2>店内の雰囲気</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/costco_view.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/costco_view.jpg" alt="" title="costco_view" width="448" height="336" class="alignnone size-full wp-image-1143" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/abrasnet/5451300810/" title="costco" target="_blank">costco</a> / Portal Abras</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/abrasnet/5451300810/" title="costco" target="_blank">costco</a> / Portal Abras</span><br />
 店内は倉庫のような雰囲気になっていて、商品の陳列もフォークリフトでそのまま運んできたような感じで木のパレットの上に置いてあります。<br />
 <strong>アメリカンな雰囲気</strong>が漂う店内になってます。<br />
 この写真はネットで見つけてきたものですが、ぼくが昨日行ったところも全く同じ風景。<br />

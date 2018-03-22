@@ -47,7 +47,7 @@ Mセットのクーポンで820円でした。<br />
 ▼裏<br />
 <img src="https://kotalab.com/wp-content/uploads/quarterpounder_130621_05-448x336.jpg" alt="quarterpounder_130621_05" width="448" height="336" class="alignnone size-large wp-image-7547" /><br />
 ▼先行販売店はこちら<br />
-<span class="removed_link" title="http://www.mcdonalds.co.jp/shop/search/campaign/qlb/top.php">クォーターパウンダー BLT/ハバネロトマト販売店舗 | レストラン情報 | McDonald's Japan</span></p>
+<span class="removed_link" title="www.mcdonalds.co.jp/shop/search/campaign/qlb/top.php">クォーターパウンダー BLT/ハバネロトマト販売店舗 | レストラン情報 | McDonald's Japan</span></p>
 <h2 class="rele">関連記事</h2>
 <p><a href="https://kotalab.com/quarterpounder-habanero-tomato" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/habanerotomato_130621_01-448x336.jpg" alt="[Food]新百合ケ丘のマクドナルドで先行販売中のクォーターパウンダーハバネロトマトを食べたぞ！ | kotala's note" width="150" /></a><a href="https://kotalab.com/quarterpounder-habanero-tomato" target="_blank">[Food]新百合ケ丘のマクドナルドで先行販売中のクォーターパウンダーハバネロトマトを食べたぞ！ | kotala's note</a><br style="clear:both;" /><br />
 <a href="https://kotalab.com/mac-bbq-chiken" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130502125650.jpg" alt="マクドナルドの期間限定メニュー！バーベキューチキンを食べた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/mac-bbq-chiken" target="_blank">マクドナルドの期間限定メニュー！バーベキューチキンを食べた！ | kotala's note</a><br style="clear:both;" /></p>

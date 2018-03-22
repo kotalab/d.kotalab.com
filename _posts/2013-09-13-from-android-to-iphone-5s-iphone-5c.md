@@ -39,7 +39,7 @@ comments:
 別エントリーにiPhoneへの電話帳データの移行方法をまとめました。</p>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank">ガラケーからもスマホからもできる！iPhoneへの電話帳移行方法</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/transfer-data-for-ketai-to-iphone" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank">ガラケーからもスマホからもできる！iPhoneへの電話帳移行方法</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/transfer-data-for-ketai-to-iphone" alt="" /></a></div>
 </div>
 <div class="clear"></div>
 <p>よかったらそちらも参考にしてみてください。<br />
@@ -76,7 +76,7 @@ Androidの連絡先アプリを開き、<strong>データをSDカードへイン
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/gmail-google-nomeru/id422689480?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h2>写真や動画の移行</h2>
-<p>写真や動画の移行はバックアップを兼ねてクラウドアプリの<a href="http://db.tt/BXcySQmO" title="Dropbox" target="_blank">Dropbox</a>や<a href="http://www.google.com/intl/ja/drive/about.html" target="_blank">Google ドライブ</a>、<a href="http://www.flickr.com" title="Flickr" target="_blank">Flickr</a>へ保存することをオススメします。</p>
+<p>写真や動画の移行はバックアップを兼ねてクラウドアプリの<a href="https://db.tt/BXcySQmO" title="Dropbox" target="_blank">Dropbox</a>や<a href="http://www.google.com/intl/ja/drive/about.html" target="_blank">Google ドライブ</a>、<a href="https://www.flickr.com" title="Flickr" target="_blank">Flickr</a>へ保存することをオススメします。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/dropbox/id327630330?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1493.phobos.apple.com/us/r30/Purple6/v4/5e/f2/cd/5ef2cde3-9cef-b6eb-004a-e8142a2a9496/Icon.png" width="80" /></a></div>
 <div class="applinktext">
@@ -167,42 +167,42 @@ iPhone 5s、iPhone 5c関連エントリー：<br />
 <a href="https://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31KsxIFmn0L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31KsxIFmn0L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank">cheero Power Plus 10400mAh DANBOARD Version マルチデバイス対応モバイルバッテリー</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank">cheero Power Plus 10400mAh DANBOARD Version マルチデバイス対応モバイルバッテリー</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> cheero mart     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=cheero%20Power%20Plus%2010400mAh%20DANBOARD%20Version&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=cheero%20Power%20Plus%2010400mAh%20DANBOARD%20Version&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fcheero%2520Power%2520Plus%252010400mAh%2520DANBOARD%2520Version%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" rel="nofollow" target="_blank" title="楽天市場" >楽天市場でチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX040/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/316MSGmwC7L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX040/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/316MSGmwC7L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX040/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(2ポート合計2000mA)USB ACアダプタ ブラック PL-WUCHG03-B (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX040/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(2ポート合計2000mA)USB ACアダプタ ブラック PL-WUCHG03-B (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> プラネックス 2010-10-15    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FG%252F3GS%252F4%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" rel="nofollow" target="_blank" title="楽天市場" >楽天市場でチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00AJFB51E/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51l6YjrxJQL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00AJFB51E/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51l6YjrxJQL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00AJFB51E/same-22/ref=nosim/" rel="nofollow" target="_blank">iphone5 lightning　USBケーブル 巻き取りケーブル ライトニングケーブル コードリール式70cm</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00AJFB51E/same-22/ref=nosim/" rel="nofollow" target="_blank">iphone5 lightning　USBケーブル 巻き取りケーブル ライトニングケーブル コードリール式70cm</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> HanyeTech     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=iphone5%20lightning%20USB%83P%81%5B%83u%83%8B%20%8A%AA%82%AB%8E%E6%82%E8%83P%81%5B%83u%83%8B%20%83%89%83C%83g%83j%83%93%83O&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=iphone5%20lightning%20USB%83P%81%5B%83u%83%8B%20%8A%AA%82%AB%8E%E6%82%E8%83P%81%5B%83u%83%8B%20%83%89%83C%83g%83j%83%93%83O&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fiphone5%2520lightning%2520USB%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AB%2520%25E5%25B7%25BB%25E3%2581%258D%25E5%258F%2596%25E3%2582%258A%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AB%2520%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" rel="nofollow" target="_blank" title="楽天市場" >楽天市場でチェック</a></div>
 </div>
 </div>

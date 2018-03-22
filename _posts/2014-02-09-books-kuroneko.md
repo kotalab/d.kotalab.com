@@ -26,7 +26,7 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="books_kuroneko_140209" width="546" height="361" class="alignnone size-large wp-image-10797" /><br />
 僕たちは毎日、何人もの人と接している。<br />
 そうすると無意識で人の目を気にしてしまい、自分でも気づかないうちにそれがストレスとなっている。<br />
-今回読んだ、金光サリィさんの本「<a href="http://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank">人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと</a>」はそんな僕たちのストレスを減らしてくれる、「黒猫思考」という考え方を教えてくれる素晴らしい本だ。<br />
+今回読んだ、金光サリィさんの本「<a href="https://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank">人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと</a>」はそんな僕たちのストレスを減らしてくれる、「黒猫思考」という考え方を教えてくれる素晴らしい本だ。<br />
 物語のように話は進んでいき、読んでいるうちにどんどんのめり込んでしまうとても面白い本だ。<br />
 本書で書かれている「黒猫思考」という、人の目を気にしないストレスフリーな自分の作り方をご紹介したい。<br />
 あなたが「黒猫思考」を身につけたら、きっと今まで以上にラクでストレスフリーな生活が送れるだろう。<br />
@@ -62,29 +62,29 @@ comments: []
 これを毎日、起きてすぐと寝る前に行うといいそうだ。<br />
 自分を変えたいなら是非やってみて欲しい。</p>
 <h3>人の目を気にせずラクに生きるために黒猫が教えてくれた9つのことを読んで</h3>
-<p>「<a href="http://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank">人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと</a>」は物語のように話は進んでいきとても読みやすい。<br />
+<p>「<a href="https://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank">人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと</a>」は物語のように話は進んでいきとても読みやすい。<br />
 内容ももちろん素晴らしいが、読書が苦手な人にもオススメできる読みやすさはこの本ならではの良さだ。<br />
 人生をもっとラクに生きたい、ストレスフリーに生きたい人にオススメの1冊です！</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/books-cloud-task" target="_blank"><img src="https://kotalab.com/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/books-cloud-task" target="_blank">頭の中でタスク管理しないストレスフリーなタスク管理術 &ndash; クラウド時代のタスク管理の技術　佐々木正悟著</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/books-cloud-task" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/books-cloud-task" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/books-cloud-task" target="_blank">頭の中でタスク管理しないストレスフリーなタスク管理術 &ndash; クラウド時代のタスク管理の技術　佐々木正悟著</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/books-cloud-task" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-cloud-task" alt="" /></a></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/books-thinking" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yuruku_121129-448x336.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/books-thinking"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/books-thinking" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-thinking"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-thinking" alt="" /></span></div>
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51MW7e5rPSL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51MW7e5rPSL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank">人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank">人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">金光 サリィ 大和書房 2012-12-15    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%90l%82%CC%96%DA%82%F0%8BC%82%C9%82%B9%82%B8%83%89%83N%82%C9%90%B6%82%AB%82%E9%82%BD%82%DF%82%C9%8D%95%94L%82%AA%8B%B3%82%A6%82%C4%82%AD%82%EA%82%BD9%82%C2%82%CC%82%B1%82%C6&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%90l%82%CC%96%DA%82%F0%8BC%82%C9%82%B9%82%B8%83%89%83N%82%C9%90%B6%82%AB%82%E9%82%BD%82%DF%82%C9%8D%95%94L%82%AA%8B%B3%82%A6%82%C4%82%AD%82%EA%82%BD9%82%C2%82%CC%82%B1%82%C6&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12085501%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

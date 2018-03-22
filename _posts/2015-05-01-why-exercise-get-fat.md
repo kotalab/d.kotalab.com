@@ -74,10 +74,10 @@ comments: []
 <p>僕が使っているwithingsの体重計は乗るだけで体重や体脂肪などのデータをiPhoneに自動で取り込んでくれる優れもの。<br />
 この体重計のおかげで、ちょっとした体重の変化がわかるようになって、体調管理にも役立っています。</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00J8H59J8/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31D2eJYTRtL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00J8H59J8/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31D2eJYTRtL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00J8H59J8/same-22/ref=nosim/" rel="nofollow" target="_blank">【日本正規代理店品】 Withings ネットワーク対応 体重計 Smart Body Analyzer WS-50 ( Bluetooth Wi-Fi 機能搭載 / 超薄型 / 体重 / 体脂肪 / 心拍数 / 室内環境 ） ブラック 70023101</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00J8H59J8/same-22/ref=nosim/" rel="nofollow" target="_blank">【日本正規代理店品】 Withings ネットワーク対応 体重計 Smart Body Analyzer WS-50 ( Bluetooth Wi-Fi 機能搭載 / 超薄型 / 体重 / 体脂肪 / 心拍数 / 室内環境 ） ブラック 70023101</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Withings 2015-04-16    </div>
 <div class="kaerebalink-link1"></div>
@@ -86,10 +86,10 @@ comments: []
 </div>
 <p>iPhoneと連携する体重計はあのTANITAからも出ています。</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00KBI448K/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41uhOuGsiRL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00KBI448K/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41uhOuGsiRL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00KBI448K/same-22/ref=nosim/" rel="nofollow" target="_blank">TANITA 【国内メーカー初 BLE搭載でiPhone対応 &amp; 人気のiPhoneアプリとも連携可能】 &amp; 【体重50g単位表示】 体組成計 インナースキャンデュアル ブラック RD-901-BK</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00KBI448K/same-22/ref=nosim/" rel="nofollow" target="_blank">TANITA 【国内メーカー初 BLE搭載でiPhone対応 &amp; 人気のiPhoneアプリとも連携可能】 &amp; 【体重50g単位表示】 体組成計 インナースキャンデュアル ブラック RD-901-BK</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> タニタ(TANITA)     </div>
 <div class="kaerebalink-link1"></div>

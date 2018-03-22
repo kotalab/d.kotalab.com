@@ -40,8 +40,8 @@ Windows、Mac OSそれぞれ向けにありますので、お使いのOSに合�
 <p>詳しい使い方はこちらを参考に。</p>
 <div class="video-container"><iframe src="//www.youtube.com/embed/JaB5mcwPEPo?rel=0" frameborder="0" allowfullscreen></iframe></div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kachibito.net/software/php-mysql-local-server-bitnami.html" target="_blank"><img src="http://capture.heartrails.com/150x130/shadow?http://kachibito.net/software/php-mysql-local-server-bitnami.html" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kachibito.net/software/php-mysql-local-server-bitnami.html" target="_blank">超簡単＆スピーディにローカル環境にPHP+MySQL 、WordPress構築を実現するBitNami - かちびと.net</a><a href="http://b.hatena.ne.jp/entry/http://kachibito.net/software/php-mysql-local-server-bitnami.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kachibito.net/software/php-mysql-local-server-bitnami.html" alt="" /></a></div>
+<div class="shhtimg"><a href="http://kachibito.net/software/php-mysql-local-server-bitnami.html" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?http://kachibito.net/software/php-mysql-local-server-bitnami.html" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="http://kachibito.net/software/php-mysql-local-server-bitnami.html" target="_blank">超簡単＆スピーディにローカル環境にPHP+MySQL 、WordPress構築を実現するBitNami - かちびと.net</a><a href="https://b.hatena.ne.jp/entry/http://kachibito.net/software/php-mysql-local-server-bitnami.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://kachibito.net/software/php-mysql-local-server-bitnami.html" alt="" /></a></div>
 </div>
 <div class="clear"></div>
 <h3>ちょっといじりたいだけでもローカル環境を！</h3>

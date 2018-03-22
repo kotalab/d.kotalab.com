@@ -22,7 +22,7 @@ tags:
 comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/rss_121210-448x336.jpg" alt="rss_121210" width="448" height="336" class="alignnone size-large wp-image-4666" /><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/pandemia/457723666/" target="_blank">Segnalibri live</a> / pandemia</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/pandemia/457723666/" target="_blank">Segnalibri live</a> / pandemia</span><br />
 Googleリーダー終了後はどうするかまだ決めていません。@kotala_bです。<br />
 Googleリーダーの終了までの3ヶ月と少し。<br />
 刻一刻とその時が迫っています。<br />

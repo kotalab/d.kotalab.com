@@ -30,7 +30,7 @@ comments: []
 <p><!--more--></p>
 <h2>時間投資の観点から見直す</h2>
 <blockquote><p>自分の仕事の進め方やライフスタイルを、常に時間投資の観点から見直すことが重要なのです。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" target="_blank" >レバレッジ時間術</a></p>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" target="_blank" >レバレッジ時間術</a></p>
 </blockquote>
 <p>本田直之さんのレバレッジ時間術という本にはこう書かれていました。</p>
 <p>「時間投資の観点」という言葉に注目しました。<br />
@@ -49,15 +49,15 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" targe
 <p>これからは時間の質を上げることにも意識を向けていきたいです。</p>
 <p>レバレッジ時間術は何度読んでだかわからないくらい、繰り返し読んでいるオススメの本です！</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" target="_blank" ><img src="http://ecx.images-amazon.com/images/I/41SnKzqnaTL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/41SnKzqnaTL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" target="_blank" >レバレッジ時間術―ノーリスク・ハイリターンの成功原則 (幻冬舎新書)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" target="_blank" >レバレッジ時間術―ノーリスク・ハイリターンの成功原則 (幻冬舎新書)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">本田 直之 幻冬舎 2007-05    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" target="_blank" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009CTUGIQ/same-22/" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" target="_blank" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009CTUGIQ/same-22/" target="_blank" >Kindle</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

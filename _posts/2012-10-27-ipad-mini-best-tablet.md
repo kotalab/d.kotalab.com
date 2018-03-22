@@ -40,7 +40,7 @@ iPad専用になっているのでUIが使いやすくなっています。<br /
 逆にAndroidのタブレットではスマホ用のアプリをそのまま使っているので、使いやすさ見やすさに難点があるようです。</p>
 <blockquote><p>スマートフォンでは具合は良いものの、タブレットでは間延びするアプリケーションがAndroidにはまだ数多く見られる。
 </p></blockquote>
-<p>参考：<a href="http://weekly.ascii.jp/elem/000/000/114/114461/" target="_blank">iPad miniのナゼを理解するための縦横比と解像度のロジック by 本田雅一</a><a href="http://b.hatena.ne.jp/entry/http://weekly.ascii.jp/elem/000/000/114/114461/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://weekly.ascii.jp/elem/000/000/114/114461/" alt="" /></a><br style="clear:both;" /><br />
+<p>参考：<a href="http://weekly.ascii.jp/elem/000/000/114/114461/" target="_blank">iPad miniのナゼを理解するための縦横比と解像度のロジック by 本田雅一</a><a href="https://b.hatena.ne.jp/entry/http://weekly.ascii.jp/elem/000/000/114/114461/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://weekly.ascii.jp/elem/000/000/114/114461/" alt="" /></a><br style="clear:both;" /><br />
 また、iPadには使いたいアプリがあるというのもあります。</p>
 <h3>他の端末との連携</h3>
 <p>僕は今、iPhone5とMacBookAir、windowsPCを持っています。<br />

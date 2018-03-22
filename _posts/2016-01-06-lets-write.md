@@ -37,17 +37,17 @@ thumbnail: https://kotalab.com/wp-content/uploads/2016/01/lets-write_20160106-78
 <p>書き出すときのコツはなるべく具体的に書くことです。<br><br />
 例えば「本をたくさん読む」とやりたいことに書き出しても、「たくさん」が何冊なのかわかりません。<br><br />
 <strong> 「1年間で小説を100冊読む」だとか「1年間で技術書を20冊読む」のように具体的に書きます。 </strong></p>
-<p>なかなかうまく書き出せないときは、「<a href="http://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >書きだすことから始めよう</a>」というこちらの本がオススメです。</p>
+<p>なかなかうまく書き出せないときは、「<a href="https://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >書きだすことから始めよう</a>」というこちらの本がオススメです。</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" ><img src="http://ecx.images-amazon.com/images/I/411%2BKPrJOGL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/411%2BKPrJOGL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >書きだすことから始めよう</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >書きだすことから始めよう</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">バーバラ・シェア,アニー・ゴットリーブ ディスカヴァー・トゥエンティワン 2008-03-15    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%8F%91%82%AB%82%BE%82%B7%82%B1%82%C6%82%A9%82%E7%8En%82%DF%82%E6%82%A4&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%8F%91%82%AB%82%BE%82%B7%82%B1%82%C6%82%A9%82%E7%8En%82%DF%82%E6%82%A4&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" target="_blank" >Kindle</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
@@ -81,15 +81,15 @@ thumbnail: https://kotalab.com/wp-content/uploads/2016/01/lets-write_20160106-78
 このギャップを埋めることが難しい理由なのかもしれませんね。</p>
 <p>「やりたいことを叶える」というのは、<strong>実に泥臭くてコツコツと積み上げていくことなのだと感じています。</strong></p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" ><img src="http://ecx.images-amazon.com/images/I/411%2BKPrJOGL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" ><img src="https://images-fe.ssl-images-amazon.com/images/I/411%2BKPrJOGL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >書きだすことから始めよう</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >書きだすことから始めよう</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">バーバラ・シェア,アニー・ゴットリーブ ディスカヴァー・トゥエンティワン 2008-03-15    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%8F%91%82%AB%82%BE%82%B7%82%B1%82%C6%82%A9%82%E7%8En%82%DF%82%E6%82%A4&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4887596243/same-22/" target="_blank" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%8F%91%82%AB%82%BE%82%B7%82%B1%82%C6%82%A9%82%E7%8En%82%DF%82%E6%82%A4&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" target="_blank" >Kindle</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

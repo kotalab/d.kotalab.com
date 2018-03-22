@@ -54,7 +54,7 @@ comments: []
 古い働き方では「働きやすさランキング」のような誰が決めたのかわからないような基準で選ばれていた。しかしこれからは違うのである。</p>
 <blockquote><p>ニューヨーク・タイムズ紙に興味深い記事がありました。デューク大学の研究者キャシー・デビッドソンが、こんなコメントをしていたのです。2011年に小学生になった子どもの65%は、将来今はない仕事に就く。<br />
 今はない仕事に就くなら、働き方もまったく違ったものになっていくはずです。<br />
-<a href="http://www.amazon.co.jp/exec/obidos/asin/B00DE3CUBW/same-22/" rel="nofollow" target="_blank">あたらしい働き方 - P.11</a></p></blockquote>
+<a href="https://www.amazon.co.jp/exec/obidos/asin/B00DE3CUBW/same-22/" rel="nofollow" target="_blank">あたらしい働き方 - P.11</a></p></blockquote>
 <h3>さいごに</h3>
 <p>新しい時代には新しい働き方、新しい会社選びの仕方が必要になってくる。<br />
 6つのクライテリアを組み合わせ、「自分なり」の理想の会社を見つけることがこれからの会社選びには大切なのだ。<br />
@@ -62,15 +62,15 @@ comments: []
 新しい働き方に興味がある人はもちろん、会社選びに迷っている人にもオススメです！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00DE3CUBW/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41fLIzVjP2L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00DE3CUBW/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41fLIzVjP2L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00DE3CUBW/same-22/" rel="nofollow" target="_blank">あたらしい働き方[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00DE3CUBW/same-22/" rel="nofollow" target="_blank">あたらしい働き方[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">本田 直之 ダイヤモンド社 2013-06-17    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DE3CUBW/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478023808/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DE3CUBW/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4478023808/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

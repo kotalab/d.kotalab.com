@@ -38,7 +38,7 @@ comments: []
 <a href="https://kotalab.com/wp-content/uploads/slooProImg_20120919153559.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153559.jpg" alt="" title="slooProImg_20120919153559.jpg" width="448" height="336" class="alignnone size-full wp-image-2852" /></a><br />
 <a href="https://kotalab.com/wp-content/uploads/slooProImg_20120919153556.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153556.jpg" alt="" title="slooProImg_20120919153556.jpg" width="448" height="336" class="alignnone size-full wp-image-2851" /></a><br />
 こちらは大野伴睦という政治家のお墓だそうです。<br />
-<a href="http://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E4%BC%B4%E7%9D%A6" target="_blank">大野伴睦 - Wikipedia</a><br />
+<a href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E4%BC%B4%E7%9D%A6" target="_blank">大野伴睦 - Wikipedia</a><br />
 ▼紀伊徳川家のお墓<br />
 <a href="https://kotalab.com/wp-content/uploads/slooProImg_20120919153549.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153549.jpg" alt="" title="slooProImg_20120919153549.jpg" width="448" height="336" class="alignnone size-full wp-image-2848" /></a><br />
 こちらは最近になって掘り起こしていたそうで、中を見ることは出来ませんでした。<br />

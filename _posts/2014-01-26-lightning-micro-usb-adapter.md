@@ -41,7 +41,7 @@ PocketWi-Fiの充電用に使うmicroUSBケーブルももちろん巻き取り�
 ケーブルの接続/切断を繰り返す<br />
 ケーブルが認定されていないと表示されることがある<br />
 充電中に本体が異常に熱くなることがある<br />
-via:<a href="http://azur256.com/archives/10414" target="_blank">巻き取り式 Lightning ケーブルがご臨終になりました、ちょっと危ない壊れ方なのでご紹介しておきます</a><a href="http://b.hatena.ne.jp/entry/http://azur256.com/archives/10414" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://azur256.com/archives/10414" alt="" /></a></p></blockquote>
+via:<a href="http://azur256.com/archives/10414" target="_blank">巻き取り式 Lightning ケーブルがご臨終になりました、ちょっと危ない壊れ方なのでご紹介しておきます</a><a href="https://b.hatena.ne.jp/entry/http://azur256.com/archives/10414" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://azur256.com/archives/10414" alt="" /></a></p></blockquote>
 <p>中でも特にiPhone自体が異常に熱くなるというのが一番気になるところ。</p>
 <h2>どうしても巻き取り式が使いたい人のための変換アダプタ</h2>
 <p>持ち運びにはどうしても巻き取り式ケーブルが使いたい。<br />
@@ -60,40 +60,40 @@ via:<a href="http://azur256.com/archives/10414" target="_blank">巻き取り式 
 多少高くてもiPhoneが壊れるよりはましですからね！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EFO5066/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31xL%2BYfSRIL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00EFO5066/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31xL%2BYfSRIL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EFO5066/same-22/ref=nosim/" rel="nofollow" target="_blank">Logitec Lightning充電専用変換アダプタ microUSB (Apple認証 Made for iPhone取得) ブラック LHC-MBLADBK</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00EFO5066/same-22/ref=nosim/" rel="nofollow" target="_blank">Logitec Lightning充電専用変換アダプタ microUSB (Apple認証 Made for iPhone取得) ブラック LHC-MBLADBK</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> ロジテック 2013-08-26    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=microUSB%20LHC-MBLAD&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=microUSB%20LHC-MBLAD&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009LKSJS0/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/11oaZzGji8L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009LKSJS0/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/11oaZzGji8L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009LKSJS0/same-22/ref=nosim/" rel="nofollow" target="_blank">Apple Lightning - Micro USBアダプタ MD820ZM/A</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009LKSJS0/same-22/ref=nosim/" rel="nofollow" target="_blank">Apple Lightning - Micro USBアダプタ MD820ZM/A</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> アップル 2012-12-10    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=MD820ZM%2FA&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=MD820ZM%2FA&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009A5EIWC/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31sgHSkZ7UL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009A5EIWC/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31sgHSkZ7UL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009A5EIWC/same-22/ref=nosim/" rel="nofollow" target="_blank">Apple Lightning - 30ピンアダプタ MD823ZM/A</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009A5EIWC/same-22/ref=nosim/" rel="nofollow" target="_blank">Apple Lightning - 30ピンアダプタ MD823ZM/A</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> アップル 2012-10-20    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=MD823ZM%2FA&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=MD823ZM%2FA&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

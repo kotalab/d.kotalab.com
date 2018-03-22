@@ -26,13 +26,13 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140214083545.jpg" width="546" height="409" class="slooProImg" /><br />
 「人脈に関する本は2冊の本に集約されている」<br />
 これは僕が尊敬してるプロブロガー立花岳志さん(<a href="https://mobile.twitter.com/ttachi" target="_blank">@ttachi</a>)の一言だ。<br />
-今回紹介するのはそのうちの1冊、本田直之さんの「<a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a>」だ。<br />
+今回紹介するのはそのうちの1冊、本田直之さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a>」だ。<br />
 人脈という言葉を聞くと「異業種交流会」のようなものを思い浮かべるかもしれないが、そう言った話ではない。<br />
 あの人と知り合いだとか、こんな人を知ってるというようなものではない。<br />
-「<a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a>」の大きな目的は</p>
+「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a>」の大きな目的は</p>
 <blockquote><p>
 自分の価値観に合った仲間を見つけ、つながりを持ち、ともに高め合うこと<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a> - P.7
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a> - P.7
 </p></blockquote>
 <p>なのだ。</p>
 <p><!--more--></p>
@@ -43,7 +43,7 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="
 「何かしてもらう」相手ベースの関わりじゃなくて、「自分が何をできるか」という自分ベースの積極的な考え方が大切なのだ。</p>
 <blockquote><p>
 人から頼りにされるぐらいでちょうどいい<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a> - P.5
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a> - P.5
 </p></blockquote>
 <h2>あなたは何ができるのか</h2>
 <p>「自分が何をできるか」、言い換えれば「相手にどんな貢献ができるのか」である。<br />
@@ -61,7 +61,7 @@ TwitterやFacebookでゆるく広く繋がれるようになった現代では�
 <p>著者の本田直之さんの考える人脈というのはこうだ。</p>
 <blockquote><p>
 情報を交換したり、人を紹介したり、刺激しあったりして、一緒に成長していけるようなマインドの高い仲間のことです。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a> - P.5
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a> - P.5
 </p></blockquote>
 <p>一緒に成長していける仲間が欲しいと思った僕はこの本を読むことにした。</p>
 <p>今回ご紹介した内容はほんの一部にすぎない。<br />
@@ -70,15 +70,15 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="
 オススメです！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41vVRaHG7ZL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41vVRaHG7ZL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">本田 直之 ダイヤモンド社 2007-12-14    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83%8C%83o%83%8C%83b%83W%90l%96%AC%8Fp&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%83%8C%83o%83%8C%83b%83W%90l%96%AC%8Fp&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F5149937%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

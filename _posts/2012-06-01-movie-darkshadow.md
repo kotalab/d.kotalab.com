@@ -27,7 +27,7 @@ comments: []
 <p>1966年から1971年まで人気のテレビドラマとして放送されていた「Dark Shadows」が原作。 監督は「ティム・バートン」、主演は「ジョニー・デップ」。 この2人のタッグは「アリス・イン・ワンダーランド」以来だそうです。</p>
 <h2>普通じゃないヴァンパイア</h2>
 <p>主演のジョニーデップが演じるのはちょっとおかしなヴァンパイア。<br />
-<a href="http://wwws.warnerbros.co.jp/darkshadows/index.html"><img title="映画『ダーク・シャドウ』公式サイト" src="http://capture.heartrails.com/150x130/shadow?http://wwws.warnerbros.co.jp/darkshadows/index.html" alt="http://wwws.warnerbros.co.jp/darkshadows/index.html" width="150" height="130" align="left" /></a> <em><strong><a href="http://wwws.warnerbros.co.jp/darkshadows/index.html" target="_blank">映画『ダーク・シャドウ』公式サイト</a></strong></em><br />
+<a href="https://warnerbros.co.jp/darkshadows/index.html"><img title="映画『ダーク・シャドウ』公式サイト" src="https://capture.heartrails.com/150x130/shadow?https://warnerbros.co.jp/darkshadows/index.html" alt="https://warnerbros.co.jp/darkshadows/index.html" width="150" height="130" align="left" /></a> <em><strong><a href="https://warnerbros.co.jp/darkshadows/index.html" target="_blank">映画『ダーク・シャドウ』公式サイト</a></strong></em><br />
 <em>１、愛人魔女をフッて、ヴァンパイアにされた ２、200年ぶりに甦ったので、時代の流れについていけない ３、髪型がちょっとおかしい ４、サングラスと日傘があれば、太陽光もへっちゃら ５、そして、家族思い</em><br style="clear:both;" /><br />
 ジョニーデップ演じるヴァンパイアがコミカルなところもあり、そこそこ<strong>楽しめる作品</strong>でした。</p>
 <h2>毎月1日は映画の日</h2>

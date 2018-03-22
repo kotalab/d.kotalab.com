@@ -30,31 +30,31 @@ comments: []
 ちょっとした勘違いがこの先の会社員生活を変えてしまうのなら、今のうちから正しておきたい。<br />
 この先まだあと何十年もあるであろう会社員としての生活で、これだけは頭に入れておきたいというポイントをご紹介します。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;overflow: hidden">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0"><a href="http://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41KzWpVZOCL._SL160_.jpg" style="border: none" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0"><a href="https://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41KzWpVZOCL._SL160_.jpg" style="border: none" /></a></div>
 <div class="booklink-info" style="line-height:120%;overflow: hidden">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" rel="nofollow" name="booklink" target="_blank">会社で不幸になる人、ならない人 (日経プレミアシリーズ)</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" rel="nofollow" name="booklink" target="_blank">会社で不幸になる人、ならない人 (日経プレミアシリーズ)</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px">本田 直之 日本経済新聞出版社 2012-10-10    </div>
 <div class="booklink-link2" style="margin-top:10px">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%89%EF%8E%D0%82%C5%95s%8DK%82%C9%82%C8%82%E9%90l%81A%82%C8%82%E7%82%C8%82%A2%90l%20%28%93%FA%8Co%83v%83%8C%83%7E%83A%83V%83%8A%81%5B%83Y%29&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;url=node%3D2275256051&amp;tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11809764%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス">楽天ブックス</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%89%EF%8E%D0%82%C5%95s%8DK%82%C9%82%C8%82%E9%90l%81A%82%C8%82%E7%82%C8%82%A2%90l%20%28%93%FA%8Co%83v%83%8C%83%7E%83A%83V%83%8A%81%5B%83Y%29&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;url=node%3D2275256051&amp;tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11809764%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス">楽天ブックス</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;overflow: hidden">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0"><a href="http://www.amazon.co.jp/exec/obidos/asin/4023310573/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41M5F1jiW5L._SL160_.jpg" style="border: none" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0"><a href="https://www.amazon.co.jp/exec/obidos/asin/4023310573/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41M5F1jiW5L._SL160_.jpg" style="border: none" /></a></div>
 <div class="booklink-info" style="line-height:120%;overflow: hidden">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4023310573/same-22/" rel="nofollow" name="booklink" target="_blank">ノマドライフ 好きな場所に住んで自由に働くために、やっておくべきこと</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4023310573/same-22/" rel="nofollow" name="booklink" target="_blank">ノマドライフ 好きな場所に住んで自由に働くために、やっておくべきこと</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px">本田直之 朝日新聞出版 2012-03-16    </div>
 <div class="booklink-link2" style="margin-top:10px">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4023310573/same-22/" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83m%83%7D%83h%83%89%83C%83t%20%8DD%82%AB%82%C8%8F%EA%8F%8A%82%C9%8FZ%82%F1%82%C5%8E%A9%97R%82%C9%93%AD%82%AD%82%BD%82%DF%82%C9%81A%82%E2%82%C1%82%C4%82%A8%82%AD%82%D7%82%AB%82%B1%82%C6&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;url=node%3D2275256051&amp;tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11569355%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス">楽天ブックス</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4023310573/same-22/" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%83m%83%7D%83h%83%89%83C%83t%20%8DD%82%AB%82%C8%8F%EA%8F%8A%82%C9%8FZ%82%F1%82%C5%8E%A9%97R%82%C9%93%AD%82%AD%82%BD%82%DF%82%C9%81A%82%E2%82%C1%82%C4%82%A8%82%AD%82%D7%82%AB%82%B1%82%C6&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;url=node%3D2275256051&amp;tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11569355%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス">楽天ブックス</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
@@ -106,16 +106,16 @@ Amazonより引用</p></blockquote>
 そんな今だからこそ、読んでおきたい知っておきたい本が今回紹介した「会社で不幸になる人、ならない人」でした。<br />
 会社員だけじゃなく、今現在就職活動中の学生さんにも読んでもらいたい本です。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;overflow: hidden">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0"><a href="http://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41KzWpVZOCL._SL160_.jpg" style="border: none" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0"><a href="https://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41KzWpVZOCL._SL160_.jpg" style="border: none" /></a></div>
 <div class="booklink-info" style="line-height:120%;overflow: hidden">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" rel="nofollow" name="booklink" target="_blank">会社で不幸になる人、ならない人 (日経プレミアシリーズ)</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" rel="nofollow" name="booklink" target="_blank">会社で不幸になる人、ならない人 (日経プレミアシリーズ)</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px">本田 直之 日本経済新聞出版社 2012-10-10    </div>
 <div class="booklink-link2" style="margin-top:10px">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%89%EF%8E%D0%82%C5%95s%8DK%82%C9%82%C8%82%E9%90l%81A%82%C8%82%E7%82%C8%82%A2%90l%20%28%93%FA%8Co%83v%83%8C%83%7E%83A%83V%83%8A%81%5B%83Y%29&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;url=node%3D2275256051&amp;tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11809764%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス">楽天ブックス</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4532261716/same-22/" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%89%EF%8E%D0%82%C5%95s%8DK%82%C9%82%C8%82%E9%90l%81A%82%C8%82%E7%82%C8%82%A2%90l%20%28%93%FA%8Co%83v%83%8C%83%7E%83A%83V%83%8A%81%5B%83Y%29&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;url=node%3D2275256051&amp;tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11809764%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス">楽天ブックス</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

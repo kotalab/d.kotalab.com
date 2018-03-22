@@ -28,13 +28,13 @@ Seeqにはランチャーとしてアプリを自分で登録出来る機能が�
 いくつか同じアイコンが並ぶと非常にわかりづらい！<br />
 なのでアイコンを登録したアプリと同じアイコンへ変える方法を探しました。<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121110120036.png" width="300" height="514" /></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1391.phobos.apple.com/us/r1000/119/Purple/v4/38/8b/5c/388b5c3f-fe7d-0c05-bd7a-d9f22518122c/mzl.bgvgozcg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1391.phobos.apple.com/us/r1000/119/Purple/v4/38/8b/5c/388b5c3f-fe7d-0c05-bd7a-d9f22518122c/mzl.bgvgozcg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.11.10時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -46,7 +46,7 @@ Seeqにはランチャーとしてアプリを自分で登録出来る機能が�
 実際に使われている物は角丸なのでちょっと雰囲気が変わります。<br />
 今回僕が使いたいのは角丸の方のアイコンなので、それがどこにあるのかGoogleで聞いてみました。<br />
 教えてくれた答えがこちら<br />
-<a href="http://blog.livedoor.jp/ottorigatana/archives/6355927.html" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://blog.livedoor.jp/ottorigatana/archives/6355927.html" alt="iPhoneアプリのアイコン画像を保存する方法:おっとり刀で付け焼刃" width="150" height="130" /></a><a href="http://blog.livedoor.jp/ottorigatana/archives/6355927.html" target="_blank">iPhoneアプリのアイコン画像を保存する方法:おっとり刀で付け焼刃</a><a href="http://b.hatena.ne.jp/entry/http://blog.livedoor.jp/ottorigatana/archives/6355927.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://blog.livedoor.jp/ottorigatana/archives/6355927.html" alt="" /></a><br style="clear:both;" />実はiTunes内にあったのです！</p>
+<a href="http://blog.livedoor.jp/ottorigatana/archives/6355927.html" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://blog.livedoor.jp/ottorigatana/archives/6355927.html" alt="iPhoneアプリのアイコン画像を保存する方法:おっとり刀で付け焼刃" width="150" height="130" /></a><a href="http://blog.livedoor.jp/ottorigatana/archives/6355927.html" target="_blank">iPhoneアプリのアイコン画像を保存する方法:おっとり刀で付け焼刃</a><a href="https://b.hatena.ne.jp/entry/http://blog.livedoor.jp/ottorigatana/archives/6355927.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://blog.livedoor.jp/ottorigatana/archives/6355927.html" alt="" /></a><br style="clear:both;" />実はiTunes内にあったのです！</p>
 <h2>iTunesから画像を保存する</h2>
 <p>まずはPC側で使いたい画像を用意します。<br />
 iTunesを開きアプリを選択すると左下に表示されるのがそうです。<br />
@@ -81,13 +81,13 @@ iTunesを開きアプリを選択すると左下に表示されるのがそう�
 <a href="https://kotalab.com/how-to-seeq" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note" width="150" /></a><a href="https://kotalab.com/how-to-seeq" target="_blank">Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note</a><br style="clear:both;" /><br />
 <strong>追記終わり</strong></p>
 <hr>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1391.phobos.apple.com/us/r1000/119/Purple/v4/38/8b/5c/388b5c3f-fe7d-0c05-bd7a-d9f22518122c/mzl.bgvgozcg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1391.phobos.apple.com/us/r1000/119/Purple/v4/38/8b/5c/388b5c3f-fe7d-0c05-bd7a-d9f22518122c/mzl.bgvgozcg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.11.10時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

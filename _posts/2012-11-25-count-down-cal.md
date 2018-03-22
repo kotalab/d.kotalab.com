@@ -30,23 +30,23 @@ comments: []
 家を出る時間をDueというリマインダーアプリを使って通知させていたことがありましたが、毎日家を出る時間が同じならいいですがそうではありません。<br />
 家を出る時間に合わせて「あと15分ある」「もう5分前だ」ということをDueで細かく設定しておくのは<strong>とても面倒くさく</strong>、なかなか続きませんでした。<br />
 今回紹介するアプリ「カウントダウンカレンダー」はその面倒くささを解消するすごく便利なアプリです！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4"><img src="http://a1156.phobos.apple.com/us/r1000/107/Purple/v4/15/2f/f4/152ff43f-e847-a2d2-839d-39218b8a7fef/mzl.lvqxjxvr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4"><img src="http://a1156.phobos.apple.com/us/r1000/107/Purple/v4/15/2f/f4/152ff43f-e847-a2d2-839d-39218b8a7fef/mzl.lvqxjxvr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4">カウントダウン カレンダー　残り時間を音声読み上げ</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4">カウントダウン カレンダー　残り時間を音声読み上げ</span></div>
 <div class="pochi_price" style="display:inline;">85円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.11.25時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyasuko-shikiuchi%252Fid316029096%253Fuo%253D4">Yasuko Shikiuchi</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyasuko-shikiuchi%252Fid316029096%253Fuo%253D4">Yasuko Shikiuchi</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4"><img src="http://a1127.phobos.apple.com/us/r1000/083/Purple/v4/09/e8/6c/09e86c7f-acc1-f73d-7198-f1dc29e5d99b/mzm.sivkbxum.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4"><img src="http://a1127.phobos.apple.com/us/r1000/083/Purple/v4/09/e8/6c/09e86c7f-acc1-f73d-7198-f1dc29e5d99b/mzm.sivkbxum.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4">Due 〜 リマインダー、タイマー、アラーム</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4">Due 〜 リマインダー、タイマー、アラーム</span></div>
 <div class="pochi_price" style="display:inline;">450円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.11.25時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fphocus-llp%252Fid387681526%253Fuo%253D4">Phocus LLP</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fphocus-llp%252Fid387681526%253Fuo%253D4">Phocus LLP</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -92,13 +92,13 @@ Googleカレンダーを使っている僕でも、Googleカレンダーの予�
 これは地味に効果がありました。<br />
 決して多機能ではありませんがかゆい所に手が届くといった印象のアプリです。<br />
 是非使ってみてください！オススメです！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4"><img src="http://a1156.phobos.apple.com/us/r1000/107/Purple/v4/15/2f/f4/152ff43f-e847-a2d2-839d-39218b8a7fef/mzl.lvqxjxvr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4"><img src="http://a1156.phobos.apple.com/us/r1000/107/Purple/v4/15/2f/f4/152ff43f-e847-a2d2-839d-39218b8a7fef/mzl.lvqxjxvr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4">カウントダウン カレンダー　残り時間を音声読み上げ</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4">カウントダウン カレンダー　残り時間を音声読み上げ</span></div>
 <div class="pochi_price" style="display:inline;">85円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.11.25時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyasuko-shikiuchi%252Fid316029096%253Fuo%253D4">Yasuko Shikiuchi</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyasuko-shikiuchi%252Fid316029096%253Fuo%253D4">Yasuko Shikiuchi</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

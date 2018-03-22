@@ -159,8 +159,8 @@ auやSoftBankでスマホを契約してる場合は同一名義でセット割�
 このプランは2014年6月まではそれぞれの上限が7GB、2014年6月からは合計で9GBまでとなります。<br />
 月額の通信料が1050円になる代わりに毎月割が適用外となる点も通常のセット割と違います。<br />
 詳しくはau、SoftBankのキャンペーンページをご覧ください。<br />
-<a href="http://www.au.kddi.com/mobile/campaign/data-share/" target="_blank">先取り！データシェアキャンペーン | キャンペーン | au</a><a href="http://b.hatena.ne.jp/entry/http://www.au.kddi.com/mobile/campaign/data-share/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.au.kddi.com/mobile/campaign/data-share/" alt="" /></a><br />
-<a href="http://www.softbank.jp/mobile/ipad/program/list/tabletset/" target="_blank">タブレットセット割 | モバイル | ソフトバンク</a><a href="http://b.hatena.ne.jp/entry/http://www.softbank.jp/mobile/ipad/program/list/tabletset/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.softbank.jp/mobile/ipad/program/list/tabletset/" alt="" /></a><br />
+<a href="http://www.au.kddi.com/mobile/campaign/data-share/" target="_blank">先取り！データシェアキャンペーン | キャンペーン | au</a><a href="https://b.hatena.ne.jp/entry/http://www.au.kddi.com/mobile/campaign/data-share/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.au.kddi.com/mobile/campaign/data-share/" alt="" /></a><br />
+<a href="http://www.softbank.jp/mobile/ipad/program/list/tabletset/" target="_blank">タブレットセット割 | モバイル | ソフトバンク</a><a href="https://b.hatena.ne.jp/entry/http://www.softbank.jp/mobile/ipad/program/list/tabletset/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.softbank.jp/mobile/ipad/program/list/tabletset/" alt="" /></a><br />
 このセット割を適用した場合の料金を表にしてみると次のようになります。</p>
 <table border="1" width="100%" align="center">
 <tbody>
@@ -194,7 +194,7 @@ auやSoftBankでスマホを契約してる場合は同一名義でセット割�
 <p>通常のセット割に比べると、利用できる通信量が減った分だけ2年間の費用も安くなります。<br />
 どっちの契約をするかは毎月の通信量にもよるので自分がどれだけ使ってるかを把握しておきましょう。<br />
 自分がどれくらいデータ通信してるか確認するにはこちらを参考にしてみてください。<br />
-<a href="https://kotalab.com/limit-7gb" target="_blank">7GB制限対策！データ通信量を確認する方法</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/limit-7gb" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/limit-7gb" alt="" /></a></p>
+<a href="https://kotalab.com/limit-7gb" target="_blank">7GB制限対策！データ通信量を確認する方法</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/limit-7gb" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/limit-7gb" alt="" /></a></p>
 <h2>iPad mini Retinaディスプレイモデルを2年間使った場合の費用</h2>
 <p>2年間での合計費用をWi-Fi版も含めて比較した表が次の表です。</p>
 <table border="1" width="100%" align="center">
@@ -242,30 +242,30 @@ auやSoftBankでスマホを契約してる場合は同一名義でセット割�
 <p><a href="https://kotalab.com/ipad-air-softbank-plan" title="SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！">iPad Airの料金プランを比較したとき</a>もそうでしたが、表にしてみるとWi-Fi版とセルラー版のトータル費用の違いにビックリしますね。<br />
 トータル費用を確認しておくと無駄な出費も抑えられるので、契約する前に一度確認しておきましょう。<br />
 iPad Airの料金はこちら<br />
-<a href="https://kotalab.com/ipad-air-softbank-plan" target="_blank">SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/ipad-air-softbank-plan" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/ipad-air-softbank-plan" alt="" /></a></p>
+<a href="https://kotalab.com/ipad-air-softbank-plan" target="_blank">SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/ipad-air-softbank-plan" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/ipad-air-softbank-plan" alt="" /></a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CDG0O78/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41BY6Vca-aL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00CDG0O78/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41BY6Vca-aL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CDG0O78/same-22/ref=nosim/" rel="nofollow" target="_blank">LOGICOOL ウルトラスリムキーボードミニ ホワイト TM710WH</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00CDG0O78/same-22/ref=nosim/" rel="nofollow" target="_blank">LOGICOOL ウルトラスリムキーボードミニ ホワイト TM710WH</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> ロジクール 2013-04-24    </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=TM710WH&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=TM710WH&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009ZNHS4O/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51cqR4lpgbL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009ZNHS4O/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51cqR4lpgbL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009ZNHS4O/same-22/ref=nosim/" rel="nofollow" target="_blank">オートスリープ機能　(自動 ON/OFF )　【３点セット】 iPad mini　専用 スマートレザーケース　＆　液晶保護フィルム クリアタイプ & イヤホンジャックカバー 付 【スマートカバー 機能】　【スタンド機能】　 mlle_importer オリジナル商品 (ブラック)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009ZNHS4O/same-22/ref=nosim/" rel="nofollow" target="_blank">オートスリープ機能　(自動 ON/OFF )　【３点セット】 iPad mini　専用 スマートレザーケース　＆　液晶保護フィルム クリアタイプ & イヤホンジャックカバー 付 【スマートカバー 機能】　【スタンド機能】　 mlle_importer オリジナル商品 (ブラック)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> pas cher     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=%89t%8F%BB%95%DB%8C%EC%83t%83B%83%8B%83%80%20%83N%83%8A%83A%83%5E%83C%83v%20iPad%20mini&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=%89t%8F%BB%95%DB%8C%EC%83t%83B%83%8B%83%80%20%83N%83%8A%83A%83%5E%83C%83v%20iPad%20mini&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

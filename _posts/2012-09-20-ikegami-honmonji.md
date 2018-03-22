@@ -25,7 +25,7 @@ comments: []
 年に3回（春と秋のお彼岸、夏のお盆）はなるべくお墓参りに行くようにしています。<br />
 お墓は東京都大田区の池上にあります。<br />
 池上には本門寺と言う大きなお寺があります。<br />
-<a href="http://honmonji.jp/00index/index2.html" target="_blank"><img src="http://capture.heartrails.com/150x130?http://honmonji.jp/00index/index2.html" alt="http://honmonji.jp/00index/index2.html" width="150" height="130" align="left" /></a><a href="http://honmonji.jp/00index/index2.html" target="_blank">日蓮宗大本山　池上本門寺　home</a><br style="clear:both;" />今までは目の前を通ることしかなかったんですが、今回初めて行ってきました。<br />
+<a href="http://honmonji.jp/00index/index2.html" target="_blank"><img src="https://capture.heartrails.com/150x130?http://honmonji.jp/00index/index2.html" alt="http://honmonji.jp/00index/index2.html" width="150" height="130" align="left" /></a><a href="http://honmonji.jp/00index/index2.html" target="_blank">日蓮宗大本山　池上本門寺　home</a><br style="clear:both;" />今までは目の前を通ることしかなかったんですが、今回初めて行ってきました。<br />
 <!--more--></p>
 <p>▼入口には案内板があり<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153657.jpg" width="448" height="336" /><br />

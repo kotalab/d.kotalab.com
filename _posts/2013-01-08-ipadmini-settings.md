@@ -53,6 +53,6 @@ Macのフルスクリーンアプリを切り替える操作と同じ動作で�
 <p>iPadminiで出来るのでおそらくiPadでも出来るでしょう。<br />
 気になったので調べてみました。<br />
 ▼iPadでも同じ操作が出来ました！<br />
-<span class="removed_link" title="http://shizu-navi.info/archives/3272"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://shizu-navi.info/archives/3272" alt="iOS5でiPadの正式機能となった4本指でのマルチタッチジェスチャーでホームボタンの使用頻度が激減 - First Lounge" width="150" height="130" /></span><span class="removed_link" title="http://shizu-navi.info/archives/3272">iOS5でiPadの正式機能となった4本指でのマルチタッチジェスチャーでホームボタンの使用頻度が激減 - First Lounge</span><a href="http://b.hatena.ne.jp/entry/http://shizu-navi.info/archives/3272" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://shizu-navi.info/archives/3272" alt="" /></a><br style="clear:both;" />iOS5から正式機能として使えるようになっていたんですね。<br />
+<span class="removed_link" title="shizu-navi.info/archives/3272"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://shizu-navi.info/archives/3272" alt="iOS5でiPadの正式機能となった4本指でのマルチタッチジェスチャーでホームボタンの使用頻度が激減 - First Lounge" width="150" height="130" /></span><span class="removed_link" title="shizu-navi.info/archives/3272">iOS5でiPadの正式機能となった4本指でのマルチタッチジェスチャーでホームボタンの使用頻度が激減 - First Lounge</span><a href="https://b.hatena.ne.jp/entry/http://shizu-navi.info/archives/3272" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://shizu-navi.info/archives/3272" alt="" /></a><br style="clear:both;" />iOS5から正式機能として使えるようになっていたんですね。<br />
 僕は今年に入ってから知りました！<br />
 4本指での操作を活用してちょっと便利なiPadmini生活を！</p>

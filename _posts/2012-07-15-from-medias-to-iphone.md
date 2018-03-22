@@ -30,7 +30,7 @@ comments: []
 よかったらそちらも参考にしてみてください。</p>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank">ガラケーからもスマホからもできる！iPhoneへの電話帳移行方法</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/transfer-data-for-ketai-to-iphone" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank">ガラケーからもスマホからもできる！iPhoneへの電話帳移行方法</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/transfer-data-for-ketai-to-iphone" alt="" /></a></div>
 </div>
 <p>追記終わり</p>
 <hr>
@@ -54,7 +54,7 @@ comments: []
 <strong>手動</strong>って・・・。</p>
 <h2>やっぱり頼れるグーグル先生</h2>
 <p>その店員さんじゃらちがあかないので、帰ってグーグル先生に聞いてみたらいとも簡単に電話帳コピーの仕方が見つかりました。<br />
-<a href="http://lblevery.com/blog/blog/2011/08/29/android-iphone-adress/" target="_blank"><img title="AndroidからiPhoneへアドレス帳の移行をする方法 | Re:very" src="http://capture.heartrails.com/150x130/1342322927591?http://lblevery.com/blog/blog/2011/08/29/android-iphone-adress/" alt="http://lblevery.com/blog/blog/2011/08/29/android-iphone-adress/" width="150" height="130" align="left" /></a><a href="http://lblevery.com/blog/blog/2011/08/29/android-iphone-adress/" title="AndroidからiPhoneへアドレス帳の移行をする方法 | Re:very" target="_blank">AndroidからiPhoneへアドレス帳の移行をする方法 | Re:very</a><br style="clear:both;" />こちらの記事を参考にしました。<br />
+<a href="http://lblevery.com/blog/blog/2011/08/29/android-iphone-adress/" target="_blank"><img title="AndroidからiPhoneへアドレス帳の移行をする方法 | Re:very" src="https://capture.heartrails.com/150x130/1342322927591?http://lblevery.com/blog/blog/2011/08/29/android-iphone-adress/" alt="http://lblevery.com/blog/blog/2011/08/29/android-iphone-adress/" width="150" height="130" align="left" /></a><a href="http://lblevery.com/blog/blog/2011/08/29/android-iphone-adress/" title="AndroidからiPhoneへアドレス帳の移行をする方法 | Re:very" target="_blank">AndroidからiPhoneへアドレス帳の移行をする方法 | Re:very</a><br style="clear:both;" />こちらの記事を参考にしました。<br />
 mediasWP(n-06c)の連絡先から「その他&rarr;インポート/エクスポート&rarr;SDカードにエクスポート」。<br />
 すると連絡先リストを「/sdcard/PIM/00001.vcfにエクスポートしますか」というメッセージが出るのでOKを選択。<br />
 「00001.vcf」というファイルを直接選択し、Androidの便利な共有機能を使ってEvernoteに送信。<br />
@@ -63,6 +63,6 @@ Evernoteに送っておけばいざという時にまた使えるのでバック
 このファイルをiPhoneのEvernote上で開くと連絡先を追加出来ます。</p>
 <h2>別の方法</h2>
 <p>電話帳コピーにはiTunesを利用したやり方もありました。<br />
-<a href="http://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" target="_blank"><img title="iPhone 4S / 4：メモリ移行について | ソフトバンクモバイル" src="http://capture.heartrails.com/150x130/1342323828550?http://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" alt="http://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" width="150" height="130" align="left" /></a><a href="http://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" title="iPhone 4S / 4：メモリ移行について | ソフトバンクモバイル" target="_blank">iPhone 4S / 4：メモリ移行について | ソフトバンクモバイル</a><br style="clear:both;" />ソフトバンクが提供している「電話帳かんたんコピー」を利用出来ない人向けにiTunesでの操作方法や設定方法が載っています。<br />
+<a href="https://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" target="_blank"><img title="iPhone 4S / 4：メモリ移行について | ソフトバンクモバイル" src="https://capture.heartrails.com/150x130/1342323828550?http://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" alt="https://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" width="150" height="130" align="left" /></a><a href="https://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" title="iPhone 4S / 4：メモリ移行について | ソフトバンクモバイル" target="_blank">iPhone 4S / 4：メモリ移行について | ソフトバンクモバイル</a><br style="clear:both;" />ソフトバンクが提供している「電話帳かんたんコピー」を利用出来ない人向けにiTunesでの操作方法や設定方法が載っています。<br />
 <strong>2012/09/06追記：MNPに関するまとめ記事を書きました。</strong><br />
 <a href="https://kotalab.com/mnp-todobetter" target="_blank">MNPの前後でやったこと、やっておいた方がいいこと | kotala's note</a></p>

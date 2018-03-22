@@ -57,58 +57,58 @@ CSSに1行追加（削除）するだけでこのように非表示（表示）�
 PC用とスマホ用の2つのCSSを用意している方はデザインに合わせて表示・非表示を切替えてみてはいかがでしょう？</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B009NQ7MGM/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51R5X8BZm-L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B009NQ7MGM/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51R5X8BZm-L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B009NQ7MGM/same-22/" rel="nofollow" target="_blank">必ず結果がでるブログ運営テクニック100 プロ・ブロガーが教える"俺メディア"の極意[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B009NQ7MGM/same-22/" rel="nofollow" target="_blank">必ず結果がでるブログ運営テクニック100 プロ・ブロガーが教える"俺メディア"の極意[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">コグレ マサト,するぷ インプレスジャパン 2012-08-23    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009NQ7MGM/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4844331779/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009NQ7MGM/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4844331779/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51OmKlbWagL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51OmKlbWagL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank">プロ・ブロガーの必ず結果が出るアクセスアップテクニック100[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank">プロ・ブロガーの必ず結果が出るアクセスアップテクニック100[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">コグレ マサト,するぷ インプレスジャパン 2013-08-09    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4844334417/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4844334417/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844363581/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51oMOcOn9xL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844363581/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51oMOcOn9xL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844363581/same-22/" rel="nofollow" target="_blank">HTML+CSSデザイン|基本原則、これだけ。【HTML5 & CSS3対応版】</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844363581/same-22/" rel="nofollow" target="_blank">HTML+CSSデザイン|基本原則、これだけ。【HTML5 & CSS3対応版】</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">大藤 幹,久保 知己,境 祐司,佐藤 裕 エムディエヌコーポレーション 2013-08-01    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844363581/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EUSWDOY/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844363581/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00EUSWDOY/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12397704%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00E3K9TRS/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41oxN8mnDWL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00E3K9TRS/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41oxN8mnDWL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00E3K9TRS/same-22/" rel="nofollow" target="_blank">レスポンシブWebデザイン　マルチデバイス時代のコンセプトとテクニック (アスキー書籍)[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00E3K9TRS/same-22/" rel="nofollow" target="_blank">レスポンシブWebデザイン　マルチデバイス時代のコンセプトとテクニック (アスキー書籍)[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">菊池 崇 アスキー・メディアワークス 2013-07-31    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00E3K9TRS/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4048863231/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00E3K9TRS/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4048863231/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

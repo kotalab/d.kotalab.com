@@ -29,7 +29,7 @@ comments: []
 <h2>「February 2013 Breaking Changes」とは</h2>
 <p>「February 2013 Breaking Changes」がなんなのか調べてみると、FacebookDevelopersに詳細が書いてありました。<br />
 ▼詳細はこちら<br />
-<a href="http://developers.facebook.com/roadmap/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://developers.facebook.com/roadmap/" alt="Developer Roadmap - Facebook開発者" width="150" height="130" /></a><a href="http://developers.facebook.com/roadmap/" target="_blank">Developer Roadmap - Facebook開発者</a><a href="http://b.hatena.ne.jp/entry/http://developers.facebook.com/roadmap/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://developers.facebook.com/roadmap/" alt="" /></a><br style="clear:both;" />中身は全文英語です。</p>
+<a href="http://developers.facebook.com/roadmap/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://developers.facebook.com/roadmap/" alt="Developer Roadmap - Facebook開発者" width="150" height="130" /></a><a href="http://developers.facebook.com/roadmap/" target="_blank">Developer Roadmap - Facebook開発者</a><a href="https://b.hatena.ne.jp/entry/http://developers.facebook.com/roadmap/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://developers.facebook.com/roadmap/" alt="" /></a><br style="clear:both;" />中身は全文英語です。</p>
 <h2>「February 2013 Breaking Changes」の対処法</h2>
 <p>▼メッセージ内の「移行設定を編集」から<br />
 <img src="https://kotalab.com/wp-content/uploads/facebook_130204_02-448x237.jpg" alt="facebook_130204_02" width="448" height="237" class="alignnone size-large wp-image-6029" /><br />

@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 69
-wordpress_url: http://kotala.wordpress.com/?p=69
+wordpress_url: https://kotala.wordpress.com/?p=69
 date: '2012-05-14 16:30:31 +0900'
 date_gmt: '2012-05-14 07:30:31 +0900'
 category:
@@ -19,7 +19,7 @@ tags:
 comments: []
 ---
 <p><span style="font-size:10px;"><a href="https://kotalab.com/wp-content/uploads/health.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/health.jpg" alt="" title="health" width="448" height="298" class="alignnone size-full wp-image-1111" /></a><br />
-<a href="http://www.flickr.com/photos/quinnanya/5645559731/" target="_blank">Disposable blood pressure cuff</a> / quinn.anya</span><br />
+<a href="https://www.flickr.com/photos/quinnanya/5645559731/" target="_blank">Disposable blood pressure cuff</a> / quinn.anya</span><br />
 中肉中背の@kotala_bです。<br />
 昨日はライフログをPosteverでEvernoteに入れていることを紹介しました。<br />
 今日は見返す方法について書いていきます。<br />

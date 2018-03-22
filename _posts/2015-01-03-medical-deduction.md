@@ -48,14 +48,14 @@ comments: []
 <blockquote><p>小さいお子さんの通院に付添が必要なときなどは、付添人の交通費も通院費に含まれます。<br />
 通院費は、診察券などで通院した日を確認できるようにしておくとともに金額も記録しておくようにしてください。<br />
 通院費として認められるのは、交通機関などを利用したときの人的役務の提供の対価ですから、自家用車で通院したときのガソリン代や駐車場代等といったものは、医療費控除の対象になりません。<br />
-via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1128.htm" target="_blank">No.1128　医療費控除の対象となる歯の治療費の具体例｜所得税｜国税庁</a><a href="http://b.hatena.ne.jp/entry/https://www.nta.go.jp/taxanswer/shotoku/1128.htm" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://www.nta.go.jp/taxanswer/shotoku/1128.htm" alt="" /></a></p></blockquote>
+via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1128.htm" target="_blank">No.1128　医療費控除の対象となる歯の治療費の具体例｜所得税｜国税庁</a><a href="https://b.hatena.ne.jp/entry/https://www.nta.go.jp/taxanswer/shotoku/1128.htm" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.nta.go.jp/taxanswer/shotoku/1128.htm" alt="" /></a></p></blockquote>
 <p>意外と知られていないのが、入院や通院の為にかかった電車代やバス代などの交通費ですね。</p>
 <h2>出産時の費用も医療費控除の対象になります</h2>
 <blockquote><p>
 妊娠と診断されてからの定期検診や検査などの費用、また、通院費用は医療費控除の対象になります。<br />
 出産で入院するときにタクシーを利用した場合、そのタクシー代は医療費控除の対象となります。<br />
 それは、入院が出産という緊急時のため、通常の交通手段によることが困難だからです。<br />
-via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1124.htm" target="_blank">No.1124　医療費控除の対象となる出産費用の具体例｜所得税｜国税庁</a><a href="http://b.hatena.ne.jp/entry/https://www.nta.go.jp/taxanswer/shotoku/1124.htm" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://www.nta.go.jp/taxanswer/shotoku/1124.htm" alt="" /></a>
+via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1124.htm" target="_blank">No.1124　医療費控除の対象となる出産費用の具体例｜所得税｜国税庁</a><a href="https://b.hatena.ne.jp/entry/https://www.nta.go.jp/taxanswer/shotoku/1124.htm" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.nta.go.jp/taxanswer/shotoku/1124.htm" alt="" /></a>
 </p></blockquote>
 <p>出産した場合には出産育児一時金として42万円補填されますが、プラス10万円した52万円を超える医療費がかかった場合には医療費控除の対象となります。</p>
 <h2>医療費控除の対象になる場合とならない場合がある費用</h2>
@@ -87,36 +87,36 @@ via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1124.htm" target="_blank">N
 <p>[article include="12460" type="custom"][article include="10575" type="custom"]</p>
 <div class="clear"></div>
 <p>さらに詳しい内容を知りたい方は国税庁のサイトで確認してみてください。<br />
-<a href="https://www.nta.go.jp/taxanswer/shotoku/1120.htm" target="_blank">国税庁の医療費控除に関するページ</a><a href="http://b.hatena.ne.jp/entry/https://www.nta.go.jp/taxanswer/shotoku/1120.htm" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://www.nta.go.jp/taxanswer/shotoku/1120.htm" alt="" /></a></p>
+<a href="https://www.nta.go.jp/taxanswer/shotoku/1120.htm" target="_blank">国税庁の医療費控除に関するページ</a><a href="https://b.hatena.ne.jp/entry/https://www.nta.go.jp/taxanswer/shotoku/1120.htm" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.nta.go.jp/taxanswer/shotoku/1120.htm" alt="" /></a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4163741607/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51lo2BAwd2L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4163741607/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51lo2BAwd2L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4163741607/same-22/" rel="nofollow" target="_blank">年収１００万円の豊かな節約生活</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4163741607/same-22/" rel="nofollow" target="_blank">年収１００万円の豊かな節約生活</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">山崎　寿人 文藝春秋 2011-06-24    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4163741607/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009A49012/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4163741607/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009A49012/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11197382%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4163741607" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4163741607" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4763133675/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31VHRP%2BMeBL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4763133675/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31VHRP%2BMeBL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4763133675/same-22/" rel="nofollow" target="_blank">すべてのお金の悩みを永久に解決する方法</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4763133675/same-22/" rel="nofollow" target="_blank">すべてのお金の悩みを永久に解決する方法</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">ビクター・ボック サンマーク出版 2014-03-18    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4763133675/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00JE9IJI8/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4763133675/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00JE9IJI8/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12707321%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4763133675" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4763133675" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

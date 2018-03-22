@@ -21,11 +21,11 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/Android_120805.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/Android_120805.jpg" alt="" title="Android_120805" width="448" height="299" class="alignnone size-full wp-image-1931" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/comedynose/4388430444/" target="_blank">Project 365 #56: 250210 Thanks For The Memory</a> / comedy_nose</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/comedynose/4388430444/" target="_blank">Project 365 #56: 250210 Thanks For The Memory</a> / comedy_nose</span><br />
 Androidを使ってる時は容量不足に悩んでました。@kotala_bです。<br />
 その時書いたのがこちらの2つの記事です。<br />
-<a href="https://kotalab.com/android-memorycapacity" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/https://kotalab.com/hello-world" alt="https://kotalab.com/archives/107" width="150" height="130" align="left" /></a><a href="https://kotalab.com/android-memorycapacity" target="_blank">【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/android-memoryshortage" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/429" alt="https://kotalab.com/archives/429" width="150" height="130" align="left" /></a><a href="https://kotalab.com/android-memoryshortage" target="_blank">【Android】空き容量不足に悩むぼくがやっている4つのこと | kotala's note</a><br style="clear:both;" />2つの記事で書いた内容は、出た症状に対処する方法であって根本的な解決方法ではありませんでした。<br />
+<a href="https://kotalab.com/android-memorycapacity" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/https://kotalab.com/hello-world" alt="https://kotalab.com/archives/107" width="150" height="130" align="left" /></a><a href="https://kotalab.com/android-memorycapacity" target="_blank">【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/android-memoryshortage" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/429" alt="https://kotalab.com/archives/429" width="150" height="130" align="left" /></a><a href="https://kotalab.com/android-memoryshortage" target="_blank">【Android】空き容量不足に悩むぼくがやっている4つのこと | kotala's note</a><br style="clear:both;" />2つの記事で書いた内容は、出た症状に対処する方法であって根本的な解決方法ではありませんでした。<br />
 <!--more--></p>
 <h2>根本的な解決方法</h2>
 <p>根本的な解決方法は1つしかありません。<br />

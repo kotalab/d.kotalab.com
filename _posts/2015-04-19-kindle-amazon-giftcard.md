@@ -49,61 +49,61 @@ iPhoneの中に何冊入れてあっても重さが気にならないので、�
 前に読んだ本を風呂の中で再読していると前回読んだ時とは違った発見があったりして、それはそれでいいものです。</p>
 <p>最近はこんな本を買ったり読んだりしました。</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00VV5C40M/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51k8BkK1KOL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00VV5C40M/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51k8BkK1KOL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00VV5C40M/same-22/" rel="nofollow" target="_blank">現場のプロが教えるHTML＋CSSコーディングの最新常識　知らないと困るWebデザインの新ルール4[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00VV5C40M/same-22/" rel="nofollow" target="_blank">現場のプロが教えるHTML＋CSSコーディングの最新常識　知らないと困るWebデザインの新ルール4[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">大竹 孔明,小川 裕之,高梨 ギンペイ,中江 亮 エムディエヌコーポレーション（MdN） 2015-04-10    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VV5C40M/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4844364936/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00VV5C40M/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4844364936/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00VHPUKR0/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/514Bazdy5FL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00VHPUKR0/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/514Bazdy5FL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00VHPUKR0/same-22/" rel="nofollow" target="_blank">一生お金に困らない生き方[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00VHPUKR0/same-22/" rel="nofollow" target="_blank">一生お金に困らない生き方[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">心屋 仁之助 PHP研究所 2015-04-17    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VHPUKR0/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4569822614/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00VHPUKR0/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4569822614/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478064784/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51GLVSqdPLL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478064784/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51GLVSqdPLL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478064784/same-22/" rel="nofollow" target="_blank">マーケット感覚を身につけよう---「これから何が売れるのか?」わかる人になる5つの方法</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478064784/same-22/" rel="nofollow" target="_blank">マーケット感覚を身につけよう---「これから何が売れるのか?」わかる人になる5つの方法</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">ちきりん ダイヤモンド社 2015-02-20    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478064784/same-22/" rel="nofollow" target="_blank">Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00TPC8JXE/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478064784/same-22/" rel="nofollow" target="_blank">Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00TPC8JXE/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13092091%2F" rel="nofollow" target="_blank">楽天ブックス</a><img src="http://i.af.moshimo.com/af/i/impression?a_id=374939&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4478064784" target="_blank">7net</a><img src="http://atq.ad.valuecommerce.com/servlet/atq/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4478064784" target="_blank">7net</a><img src="http://atq.ad.valuecommerce.com/servlet/atq/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887597460/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/418J55UaMQL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4887597460/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/418J55UaMQL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887597460/same-22/" rel="nofollow" target="_blank">フォーカル・ポイント</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4887597460/same-22/" rel="nofollow" target="_blank">フォーカル・ポイント</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">ブライアン・トレーシー ディスカヴァー・トゥエンティワン 2009-10-03    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4887597460/same-22/" rel="nofollow" target="_blank">Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83t%83H%81%5B%83J%83%8B%81E%83%7C%83C%83%93%83g&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4887597460/same-22/" rel="nofollow" target="_blank">Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%83t%83H%81%5B%83J%83%8B%81E%83%7C%83C%83%93%83g&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6198900%2F" rel="nofollow" target="_blank">楽天ブックス</a><img src="http://i.af.moshimo.com/af/i/impression?a_id=374939&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4887597460" target="_blank">7net</a><img src="http://atq.ad.valuecommerce.com/servlet/atq/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4887597460" target="_blank">7net</a><img src="http://atq.ad.valuecommerce.com/servlet/atq/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

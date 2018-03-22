@@ -56,10 +56,10 @@ comments: []
 <p>僕が買った留め具つき以外にも、ベルクロで留めるタイプとゴムバンドで留めるタイプの3種類があります。<br />
 大きさも11インチ・13インチ・15インチと揃っています。</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00L0XDVWK/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51vM8BquWhL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00L0XDVWK/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51vM8BquWhL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00L0XDVWK/same-22/ref=nosim/" rel="nofollow" target="_blank">Inateck 15.4Inch インナーケース MacBook Pro Retina/ウルトラブック/ネットブック用 プロテクターケース [寸法: 15.4インチ, カラー: グレー]</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00L0XDVWK/same-22/ref=nosim/" rel="nofollow" target="_blank">Inateck 15.4Inch インナーケース MacBook Pro Retina/ウルトラブック/ネットブック用 プロテクターケース [寸法: 15.4インチ, カラー: グレー]</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Inateck     </div>
 <div class="kaerebalink-link1"></div>
@@ -67,10 +67,10 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00JO2XD5Y/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51TF33ENdYL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00JO2XD5Y/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51TF33ENdYL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00JO2XD5Y/same-22/ref=nosim/" rel="nofollow" target="_blank">Inateck 13.3Inch インナーケース Macbook Air/ MacBook Pro Retina/ウルトラブック/ネットブック用 プロテクターケース [寸法: 13.3インチ, カラー: グレー]</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00JO2XD5Y/same-22/ref=nosim/" rel="nofollow" target="_blank">Inateck 13.3Inch インナーケース Macbook Air/ MacBook Pro Retina/ウルトラブック/ネットブック用 プロテクターケース [寸法: 13.3インチ, カラー: グレー]</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Inateck     </div>
 <div class="kaerebalink-link1"></div>
@@ -78,10 +78,10 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00ODSSFRU/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51L25Rpy-UL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00ODSSFRU/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51L25Rpy-UL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00ODSSFRU/same-22/ref=nosim/" rel="nofollow" target="_blank">Inateck 11Inch インナーケースMacBook Air/ウルトラブック/ネットブック用 プロテクターケース [寸法: 11インチ, カラー: グレー]</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00ODSSFRU/same-22/ref=nosim/" rel="nofollow" target="_blank">Inateck 11Inch インナーケースMacBook Air/ウルトラブック/ネットブック用 プロテクターケース [寸法: 11インチ, カラー: グレー]</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Inateck     </div>
 <div class="kaerebalink-link1"></div>

@@ -23,7 +23,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/platinum_120727.jpg"><img src="https://kotalab.com/wp-content/uploads/platinum_120727.jpg" alt="" title="platinum_120727" width="448" height="336" class="alignnone size-full wp-image-1681" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/mujitra/4808589278/" target="_blank">SoftBank.</a> / MJ/TR (&acute;･&omega;･)</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/mujitra/4808589278/" target="_blank">SoftBank.</a> / MJ/TR (&acute;･&omega;･)</span><br />
 iPhoneに変えて約1ヶ月です。@kotala_bです。<br />
 つい先日<strong>SoftBank</strong>から、キャンペーンのメールが2通届きました。<br />
 どちらも特に申請などはいらないようで、適用条件を満たすと送られてくるようです。<br />
@@ -33,7 +33,7 @@ iPhoneに変えて約1ヶ月です。@kotala_bです。<br />
 他社から<strong>SoftBankにのりかえる</strong>ことが適用条件です。<br />
 特典内容は、4種類の特典から1つを選んでもらえるという物です。<br />
 僕は1年間基本料無料を選択しました。<br />
-参考：<a href="http://mb.softbank.jp/mb/welcome/norikae/" target="_blank">のりかえ割 | ソフトバンクモバイル</a></p>
+参考：<a href="https://mb.softbank.jp/mb/welcome/norikae/" target="_blank">のりかえ割 | ソフトバンクモバイル</a></p>
 <h2>かえとくキャンペーン</h2>
 <p>2つ目の内容はかえトクキャンペーンのメールでした。<br />
 こちらはiPhone4かiPhone4Sに新規契約した場合、もしくは機種変をした学生が対象です。<br />

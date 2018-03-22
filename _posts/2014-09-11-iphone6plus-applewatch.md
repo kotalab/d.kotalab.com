@@ -22,7 +22,7 @@ tags:
 comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/iPhone6plus-applewatch_20140910-780x465.png" alt="iPhone6plus-applewatch_20140910" width="780" height="465" class="aligncenter size-large wp-image-13426" /><br />
-via:<a href="http://www.apple.com/" target="_blank">Apple</a><br />
+via:<a href="https://www.apple.com/" target="_blank">Apple</a><br />
 とうとうiPhone6が発表されましたね！<br />
 iPhone6とiPhone6Plusが9月19日に発売予定となりました。</p>
 <p>同時に発表されたAppleWatchは来年の発売だそうですね。</p>

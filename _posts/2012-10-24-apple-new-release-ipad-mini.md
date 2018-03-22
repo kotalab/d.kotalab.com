@@ -30,7 +30,7 @@ comments: []
 <h2>新製品</h2>
 <p>今回発表されたのは、iPadmini、iPad、MacBook ProRetina13inch、iMac、Macminiとなっています。<br />
 新製品の情報は各サイトでいち早く紹介されているので、そちらを紹介します！<br />
-<a href="http://wayohoo.com/ios/news/summary-of-apple-special-event-on-october-23-2012.html" target="_blank"><img src="http://capture.heartrails.com/150x130?http://wayohoo.com/ios/news/summary-of-apple-special-event-on-october-23-2012.html" alt="http://wayohoo.com/ios/news/summary-of-apple-special-event-on-october-23-2012.html" width="150" height="130" align="left" /></a><a href="http://wayohoo.com/ios/news/summary-of-apple-special-event-on-october-23-2012.html" target="_blank">iPad mini、MBPR13、iMac、iPad 4、Mac miniと盛り沢山だったAppleスペシャルイベント（2012年10月）の製品スペックまとめ｜和洋風KAI</a><br style="clear:both;" />いち早く今回の新製品がまとまっています！</p>
+<a href="https://wayohoo.com/ios/news/summary-of-apple-special-event-on-october-23-2012.html" target="_blank"><img src="https://capture.heartrails.com/150x130?https://wayohoo.com/ios/news/summary-of-apple-special-event-on-october-23-2012.html" alt="https://wayohoo.com/ios/news/summary-of-apple-special-event-on-october-23-2012.html" width="150" height="130" align="left" /></a><a href="https://wayohoo.com/ios/news/summary-of-apple-special-event-on-october-23-2012.html" target="_blank">iPad mini、MBPR13、iMac、iPad 4、Mac miniと盛り沢山だったAppleスペシャルイベント（2012年10月）の製品スペックまとめ｜和洋風KAI</a><br style="clear:both;" />いち早く今回の新製品がまとまっています！</p>
 <h2>一番気になるのは！</h2>
 <p>新製品の中で僕が一番気になっているのはiPadminiです！<br />
 もちろん薄くなったiMacや13インチのMacBookProRetinaモデルもとっても魅力的ですがやはり一番はiPadminiです！</p>

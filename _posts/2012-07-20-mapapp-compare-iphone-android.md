@@ -40,7 +40,7 @@ GPSだけに頼ってないので屋内でも簡単に現在地が割り出せ�
 一方AndroidではGPSのみで現在地を割り出すため、精度はややイマイチという場面もあります。<br />
 精度に大きな差があるかなと思ってたんですが、調べてみたらそんなことはありませんでした！<br />
 Androidでは設定を変えることによってiPhoneと同じように高い精度で現在地を割り出すことが出来ます。<br />
-<a href="http://xenonews.blog50.fc2.com/blog-entry-3581.html" target="_blank"><img src="http://capture.heartrails.com/150x130?http://xenonews.blog50.fc2.com/blog-entry-3581.html" alt="http://xenonews.blog50.fc2.com/blog-entry-3581.html" width="150" height="130" align="left" /></a><a href="http://xenonews.blog50.fc2.com/blog-entry-3581.html" target="_blank">AndroidのGPS精度を劇的に改善するたった1つの設定。</a><br style="clear:both;" /><br />
+<a href="http://xenonews.blog50.fc2.com/blog-entry-3581.html" target="_blank"><img src="https://capture.heartrails.com/150x130?http://xenonews.blog50.fc2.com/blog-entry-3581.html" alt="http://xenonews.blog50.fc2.com/blog-entry-3581.html" width="150" height="130" align="left" /></a><a href="http://xenonews.blog50.fc2.com/blog-entry-3581.html" target="_blank">AndroidのGPS精度を劇的に改善するたった1つの設定。</a><br style="clear:both;" /><br />
 初期設定ではオフになっているようなので、Androidで地図の精度に不満がある方は是非オンにしてみてください。</p>
 <h2>まとめ</h2>
 <p>どちらの標準地図アプリもgoogleマップを採用していることもあり機能自体に大きな差はありませんでした。<br />

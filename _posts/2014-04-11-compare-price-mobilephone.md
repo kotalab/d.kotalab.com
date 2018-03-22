@@ -40,7 +40,7 @@ comments: []
 通話料定額とパケット定額がひとまとめになって、選べるの料金プランが3種類になりました。<br />
 スマ放題の概要を載せておきます。</p>
 <p><img src="https://kotalab.com/wp-content/uploads/compare-price-mobilephone_140411_011.png" alt="Compare price mobilephone 140411 01" title="compare-price-mobilephone_140411_01.png" border="0" width="548" height="479" /><br />
-via:<a href="http://www.softbank.jp/corp/group/sbm/news/press/2014/20140401_02/" target="_blank">音声定額とパケット定額をパックにした新定額サービスの改定について | 企業・IR | ソフトバンク</a><a href="http://b.hatena.ne.jp/entry/http://www.softbank.jp/corp/group/sbm/news/press/2014/20140401_02/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.softbank.jp/corp/group/sbm/news/press/2014/20140401_02/" alt="" /></a></p>
+via:<a href="http://www.softbank.jp/corp/group/sbm/news/press/2014/20140401_02/" target="_blank">音声定額とパケット定額をパックにした新定額サービスの改定について | 企業・IR | ソフトバンク</a><a href="https://b.hatena.ne.jp/entry/http://www.softbank.jp/corp/group/sbm/news/press/2014/20140401_02/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.softbank.jp/corp/group/sbm/news/press/2014/20140401_02/" alt="" /></a></p>
 <h3>「スマ放題」と従来の料金プランの違い</h3>
 <p>従来の料金プランではパケット定額は7GBまでの利用で5200円でした。</p>
 <p>スマ放題に変えると10分以内の通話が1000回まで無料になります。<br>その代わりに5200円だったパケット利用料が最初の6ヶ月は5980円に、7ヶ月目以降は6980に値上がります。</p>
@@ -52,28 +52,28 @@ via:<a href="http://www.softbank.jp/corp/group/sbm/news/press/2014/20140401_02/"
 <img src="https://kotalab.com/wp-content/uploads/compare-price-mobilephone_140411_02.png" alt="Compare price mobilephone 140411 02" title="compare-price-mobilephone_140411_02.png" border="0" width="548" height="235" /><br />
 <img src="https://kotalab.com/wp-content/uploads/compare-price-mobilephone_140411_03.png" alt="Compare price mobilephone 140411 03" title="compare-price-mobilephone_140411_03.png" border="0" width="548" height="270" /><br />
 <img src="https://kotalab.com/wp-content/uploads/compare-price-mobilephone_140411_04.png" alt="Compare price mobilephone 140411 04" title="compare-price-mobilephone_140411_04.png" border="0" width="548" height="68" /><br />
-via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/index.html" target="_blank">新料金プラン「カケホーダイ＆パケあえる」 | 料金・割引 | NTTドコモ</a><a href="http://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/index.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/index.html" alt="" /></a></p>
+via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/index.html" target="_blank">新料金プラン「カケホーダイ＆パケあえる」 | 料金・割引 | NTTドコモ</a><a href="https://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/index.html" alt="" /></a></p>
 <h3>「カケホーダイ&パケあえる」と従来の料金プランの違い</h3>
 <p>表だけをみると何やら複雑でわかりづらいですが、簡単に言ってしまうと、<strong>国内通話が回数制限なしに無料</strong>になるカケホーダイプラン、<strong>通信料を何人かで分け合える</strong>シェアプランが追加されました。</p>
 <h2>ドコモの新料金プランがいい感じかもしれない</h2>
 <p>ドコモの新料金プランがいいというのはどんな場合かというといわゆる「営業マンタイプ」の人です。</p>
 <p><span class="b">あまりデータ通信はしないけど、電話はよくかけるという「営業マンタイプ」の人はガラケーなら6000円で通話がかけ放題</span>になるわけです。<br />
 <img src="https://kotalab.com/wp-content/uploads/compare-price-mobilephone_140411_06.png" alt="Compare price mobilephone 140411 06" title="compare-price-mobilephone_140411_06.png" border="0" width="548" height="205" /><br />
-via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank">「カケホーダイ＆パケあえる」かんたんシミュレーション | NTTドコモ</a><a href="http://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" alt="" /></a></p>
+via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank">「カケホーダイ＆パケあえる」かんたんシミュレーション | NTTドコモ</a><a href="https://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" alt="" /></a></p>
 <p>僕の両親がまさにそれで、仕事で色んな相手にケータイからかけなきゃいけない人なので、今までの半額以下の利用料になる試算結果がでました。<br />
 しかもあと数ヶ月でグランプレミアステージに入る状況だったので、新料金プランの恩恵がかなり大きい！</p>
 <p>スマホでもうちょっとデータ通信するなって人なら通話定額・5GBまでという条件なら月額8000円です。<br />
 <img src="https://kotalab.com/wp-content/uploads/compare-price-mobilephone_140411_07.png" alt="Compare price mobilephone 140411 07" title="compare-price-mobilephone_140411_07.png" border="0" width="548" height="198" /><br />
-via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank">「カケホーダイ＆パケあえる」かんたんシミュレーション | NTTドコモ</a><a href="http://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" alt="" /></a></p>
+via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank">「カケホーダイ＆パケあえる」かんたんシミュレーション | NTTドコモ</a><a href="https://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" alt="" /></a></p>
 <h2>シェアグループの気になるところ</h2>
 <p>公式発表のところにこんなことが書いてありました。</p>
 <blockquote><p>シェアグループを構成する契約者全員のお申込意思を確認させていただきます。お申込みの回線の中に、異なる名字、異なる住所にお住まいの方が含まれる際は、その方に委任状または電話による意思確認をさせていただく場合があります。<br />
-via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/index.html" target="_blank">新料金プラン「カケホーダイ＆パケあえる」 | 料金・割引 | NTTドコモ</a><a href="http://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/index.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/index.html" alt="" /></a></p></blockquote>
+via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/index.html" target="_blank">新料金プラン「カケホーダイ＆パケあえる」 | 料金・割引 | NTTドコモ</a><a href="https://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/index.html" alt="" /></a></p></blockquote>
 <p>これって今までのファミリー割引とは違って、<del datetime="2014-04-11T19:26:36+00:00">家族じゃなくてもお互いに認め合えばどんな人たちでもグループが組めるってこと</del>ですよね。</p>
 <p><del datetime="2014-04-11T19:26:36+00:00">自分たち夫婦に加えて奥さんの両親と旦那さんの両親と計6人でグループを組むなんてことができるんですよね。</del></p>
 <p><del datetime="2014-04-11T19:26:36+00:00">もしくは「会社の営業マン同士で組む」みたいなこともできるのかなーと。</del><br />
 <img src="https://kotalab.com/wp-content/uploads/compare-price-mobilephone_140411_05.png" alt="Compare price mobilephone 140411 05" title="compare-price-mobilephone_140411_05.png" border="0" width="548" height="477" /><br />
-via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank">「カケホーダイ＆パケあえる」かんたんシミュレーション | NTTドコモ</a><a href="http://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" alt="" /></a><br />
+via:<a href="https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank">「カケホーダイ＆パケあえる」かんたんシミュレーション | NTTドコモ</a><a href="https://b.hatena.ne.jp/entry/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.nttdocomo.co.jp/charge/new_plan/simulation/index.html" alt="" /></a><br />
 僕みたいにそこそこデータ通信をする人と、メールとネットができればいいやっていう僕の両親みたいな人がデータ通信量のシェアができてお互いが安く済むならいいなーと思いました。</p>
 <hr>
 <p>4月12日追記：<br />

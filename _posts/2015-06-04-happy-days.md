@@ -21,7 +21,7 @@ tags:
 comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/sleeplog_120829.jpg" alt="sleeplog_120829" width="780" class="aligncenter size-large wp-image-2389" /><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/thejasp/2723492046/" target="_blank">Watching The Sun Rise</a> / thejasp</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/thejasp/2723492046/" target="_blank">Watching The Sun Rise</a> / thejasp</span><br />
 一つの大きな幸せも小さいいくつもの幸せも、同じ幸せ。<br />
 幸せを感じることが嫌な人はいない。</p>
 <p>大きな幸せを味わうのは大変かもしれないが、小さな幸せなら1日の中でいくつもえられる。<br />
@@ -37,7 +37,7 @@ comments: []
 <p>疲れを翌日に持ち越さないためにも、いつもより5分でも10分でもいいからとにかく早く寝よう。</p>
 <h2>2.早く起きる</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/sleeplog_120829.jpg" alt="sleeplog_120829" width="780" class="aligncenter size-large wp-image-2389" /><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/thejasp/2723492046/" target="_blank">Watching The Sun Rise</a> / thejasp</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/thejasp/2723492046/" target="_blank">Watching The Sun Rise</a> / thejasp</span><br />
 早く寝たら早く起きる。</p>
 <p>せっかく早く寝たのにいつもと同じ時間に起きてはもったいない。<br />
 1日を幸せに過ごすにはスタートが大切だ。</p>

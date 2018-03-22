@@ -24,14 +24,14 @@ comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/books-readable-code_20141230-780x520.jpg" alt="books-readable-code_20141230" width="780" height="520" class="aligncenter size-large wp-image-13702" /><br />
 アプリ開発を始めて1年目の僕はまだまだ経験も浅く、コードの書き方はわかってもどんなコードがいいコードなのかわからない。</p>
-<p>どんなコードがいいコードなのか、どんなコードを書くのがいいのかを知りたかった僕は、<a href="https://kotalab.com/category/ios-developer/app-dojo">アプリ道場</a>の忘年会で知った「<a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a>」という本を読んでみた。</p>
+<p>どんなコードがいいコードなのか、どんなコードを書くのがいいのかを知りたかった僕は、<a href="https://kotalab.com/category/ios-developer/app-dojo">アプリ道場</a>の忘年会で知った「<a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a>」という本を読んでみた。</p>
 <p>リーダブルコードにはこのようなことが最初に書いてある。</p>
 <blockquote><p>コードは理解しやすくなければならない。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a> P.2</p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a> P.2</p></blockquote>
 <p>優れたいいコードというのは他人が理解しやすく、短時間で理解できるコードなのだという。<br />
 個人で開発していれば他人のことを考える必要はないと思うかもしれない。<br />
 だが、ここでいう他人というのは半年後の自分も含まれている。</p>
-<p>「<a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a>」に書かれていた優れたコードを書くためのコツを紹介したい。<br />
+<p>「<a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a>」に書かれていた優れたコードを書くためのコツを紹介したい。<br />
 <!--more--></p>
 <h2>1.名前に意味を持たせる</h2>
 <pre class="lang:default decode:true " >func a (number:Int) ->Int {
@@ -104,17 +104,17 @@ func convertKgToGram (weightKg:Int) ->Int {
 <p>リーダブルコードは最近アプリ開発を始めたばかりで、コードを少しは書けるようになってきたという人が次のステップへ進むための1冊です！<br />
 リーダブルコードを読んで優れたコードを書けるようになりましょう！</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51MgH8Jmr3L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51MgH8Jmr3L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">Dustin Boswell,Trevor Foucher オライリージャパン 2012-06-23    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83%8A%81%5B%83_%83u%83%8B%83R%81%5B%83h%20%81%5C%82%E6%82%E8%97%C7%82%A2%83R%81%5B%83h%82%F0%8F%91%82%AD%82%BD%82%DF%82%CC%83V%83%93%83v%83%8B%82%C5%8E%C0%91H%93I%82%C8%83e%83N%83j%83b%83N%20%28Theory%20in%20practice%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%83%8A%81%5B%83_%83u%83%8B%83R%81%5B%83h%20%81%5C%82%E6%82%E8%97%C7%82%A2%83R%81%5B%83h%82%F0%8F%91%82%AD%82%BD%82%DF%82%CC%83V%83%93%83v%83%8B%82%C5%8E%C0%91H%93I%82%C8%83e%83N%83j%83b%83N%20%28Theory%20in%20practice%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11753651%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4873115655" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4873115655" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

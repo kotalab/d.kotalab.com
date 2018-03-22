@@ -81,9 +81,9 @@ iPhoneとiPadどちらでも使えるユニバーサルアプリ、Mac版は別�
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/app-queuingcam-due"><img src="https://kotalab.com/wp-content/uploads/miyajima_131009_06-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/app-queuingcam-due">動画でライフログを残す。QueuingCamとDueの組み合わせがおすすめ！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/app-queuingcam-due"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/app-queuingcam-due" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/app-queuingcam-due">動画でライフログを残す。QueuingCamとDueの組み合わせがおすすめ！</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/app-queuingcam-due"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/app-queuingcam-due" alt="" /></span></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/due-urlscheme"><img src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/due-urlscheme">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/due-urlscheme"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/due-urlscheme" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/due-urlscheme">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/due-urlscheme"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/due-urlscheme" alt="" /></span></div>
 </div>

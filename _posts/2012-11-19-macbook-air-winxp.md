@@ -31,29 +31,29 @@ MacBookAirにwindowsを入れる方法を探してました。@kotala_bです。
 <p>Taskchuteを使うなら毎回再起動をする必要があるBootcampを使うという選択肢はなくなりました。<br />
 またwindows8へのアップデートがwindowsXPから結構安い価格で出来ることも知り、まずは手持ちのWindowsXPを入れることに決めました。<br />
 あとは何を使ってMacBook AirにWindowsXPを入れるかということだけでした。<br />
-NSLセミナーの帰りに秋葉原のヨドバシに寄ったんですが、ヨドバシのポイントが2000円分くらい貯まっていて割と安く買える<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank">VMware Fusion 5</a>を購入することにしました！</p>
+NSLセミナーの帰りに秋葉原のヨドバシに寄ったんですが、ヨドバシのポイントが2000円分くらい貯まっていて割と安く買える<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank">VMware Fusion 5</a>を購入することにしました！</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51hrN%2BOGmPL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51hrN%2BOGmPL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank">VMware Fusion 5</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009316BXW/same-22/ref=nosim/" rel="nofollow" target="_blank">VMware Fusion 5</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> アクト・ツー 2012-09-28    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=VMware%20Fusion%205&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=VMware%20Fusion%205&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B008N6SO6U/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41r8-DgAdlL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B008N6SO6U/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41r8-DgAdlL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B008N6SO6U/same-22/ref=nosim/" rel="nofollow" target="_blank">Microsoft Windows 8 Pro 発売記念優待版 (XP・Vista・7からのアップグレード専用:2013年1月31日まで)</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B008N6SO6U/same-22/ref=nosim/" rel="nofollow" target="_blank">Microsoft Windows 8 Pro 発売記念優待版 (XP・Vista・7からのアップグレード専用:2013年1月31日まで)</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> マイクロソフト 2012-10-26    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=Microsoft%20Windows%208%20Pro&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=Microsoft%20Windows%208%20Pro&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

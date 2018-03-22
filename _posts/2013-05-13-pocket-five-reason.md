@@ -68,13 +68,13 @@ WebクリップをEvernoteに保存することをやめ、Pocketに保存する
 <p>Pocketの使い方を考え直し、使いやすいように<strong>自分から工夫</strong>したことで、Pocketをよく使うようになりました。<br />
 MacやiPhone、iPadminiからいつでも読めますし、同期しておけばオフラインでも読める。<br />
 Pocketを使いたいと思うようになった背景には、その便利さが根底にあります。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpocket-formerly-read-it-later%252Fid309601447%253Fmt%253D8%2526uo%253D4"><img src="http://a367.phobos.apple.com/us/r1000/063/Purple2/v4/41/76/db/4176dbc3-7fa9-f9d4-a581-53874c840693/mzl.ojdymsdp.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpocket-formerly-read-it-later%252Fid309601447%253Fmt%253D8%2526uo%253D4"><img src="http://a367.phobos.apple.com/us/r1000/063/Purple2/v4/41/76/db/4176dbc3-7fa9-f9d4-a581-53874c840693/mzl.ojdymsdp.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpocket-formerly-read-it-later%252Fid309601447%253Fmt%253D8%2526uo%253D4">Pocket (Formerly Read It Later)</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpocket-formerly-read-it-later%252Fid309601447%253Fmt%253D8%2526uo%253D4">Pocket (Formerly Read It Later)</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.05.13時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fidea-shower%252Fid309597405%253Fuo%253D4">Idea Shower</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fidea-shower%252Fid309597405%253Fuo%253D4">Idea Shower</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

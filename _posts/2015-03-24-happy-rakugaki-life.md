@@ -73,10 +73,10 @@ A4用紙を4つに折って真っ直ぐな線をひいて、見せ合ったり</
 <h2>14個のパーツを組み合わせて100の表情を作る</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/03/happy-rakugaki-life_20150323_01-780x585.jpg" alt="happy-rakugaki-life_20150323_01" width="780" height="585" class="aligncenter size-large wp-image-14052" /></p>
 <p>お次は<br />
-<a href="http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank">絵心がないと悩む人でも一瞬で100の表情が描けるようになるラクガキテクニックとちょっとしたコツ</a><a href="http://b.hatena.ne.jp/entry/http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://tamkaism.com/2015/03/rakugaki100faces/" alt="" /></a><br />
+<a href="http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank">絵心がないと悩む人でも一瞬で100の表情が描けるようになるラクガキテクニックとちょっとしたコツ</a><a href="https://b.hatena.ne.jp/entry/http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://tamkaism.com/2015/03/rakugaki100faces/" alt="" /></a><br />
 の実践。</p>
 <blockquote><p>人の顔を構成するパーツは様々あるのですが、表情に関わるのは「口、目、眉」のたった3つなのです。これをそれぞれ5個、5個、4個使うことで表情を描こうというのがこのテクニックのキモです。<br />
-via:<a href="http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank">絵心がないと悩む人でも一瞬で100の表情が描けるようになるラクガキテクニックとちょっとしたコツ</a><a href="http://b.hatena.ne.jp/entry/http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://tamkaism.com/2015/03/rakugaki100faces/" alt="" /></a></p></blockquote>
+via:<a href="http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank">絵心がないと悩む人でも一瞬で100の表情が描けるようになるラクガキテクニックとちょっとしたコツ</a><a href="https://b.hatena.ne.jp/entry/http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://tamkaism.com/2015/03/rakugaki100faces/" alt="" /></a></p></blockquote>
 <p>円を描いてそこに「口、目、眉」の3つのパーツを描くというものなんですが、このテクニックを使うだけで絵が下手な僕でも「うれしい」とか「かなしい」表情を絵で描くことができました。</p>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/03/happy-rakugaki-life_20150323_02-780x585.jpg" alt="happy-rakugaki-life_20150323_02" width="780" height="585" class="aligncenter size-large wp-image-14051" /><br />
 描いた表情に吹き出しをつければもう完璧です。<br />
@@ -102,17 +102,17 @@ via:<a href="http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank">絵�
 <p>Amazonで予約が殺到してるみたいで、予約してもお届け予定日は発売日に間に合わないらしい。<br />
 ハッピーラクガキライフで一部だけ読ませてもらったんですが、その続きも気になる！今から読むのが楽しみです！</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4777935396/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41oIE94q0LL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4777935396/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41oIE94q0LL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4777935396/same-22/" rel="nofollow" target="_blank">ラクガキノート術</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4777935396/same-22/" rel="nofollow" target="_blank">ラクガキノート術</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">タムラカイ エイ出版社 2015-03-25    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4777935396/same-22/" rel="nofollow" target="_blank">Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%83%89%83N%83K%83L%83m%81%5B%83g%8Fp&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4777935396/same-22/" rel="nofollow" target="_blank">Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%83%89%83N%83K%83L%83m%81%5B%83g%8Fp&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank">Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13182097%2F" rel="nofollow" target="_blank">楽天ブックス</a><img src="http://i.af.moshimo.com/af/i/impression?a_id=374939&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4777935396" target="_blank">7net</a><img src="http://atq.ad.valuecommerce.com/servlet/atq/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4777935396" target="_blank">7net</a><img src="http://atq.ad.valuecommerce.com/servlet/atq/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

@@ -42,7 +42,7 @@ nanacoにチャージするのにクレジットカードからチャージで�
 <p><span class="bred">2015/02/08追記：漢方スタイルクラブカードでは2015年6月1日から2000円チャージにつき0.25%分のポイントしか加算されないように変更されてしまいました。</span><br />
 <a href="https://kotalab.com/kanpostyle-change-pointsystem" target="_blank">nanacoクレジットチャージのポイント還元が変更！漢方スタイルカードの還元率が1.75%&rarr;0.25%に改悪！</a></p>
 <p>nanacoにチャージできるクレジットカードはこちら：<br />
-<a href="http://www.nanaco-net.jp/service/crecha_cards.html" target="_blank">電子マネー nanaco 【公式サイト】 ： ご登録いただけるクレジットカード</a><a href="http://b.hatena.ne.jp/entry/http://www.nanaco-net.jp/service/crecha_cards.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.nanaco-net.jp/service/crecha_cards.html" alt="" /></a></p>
+<a href="http://www.nanaco-net.jp/service/crecha_cards.html" target="_blank">電子マネー nanaco 【公式サイト】 ： ご登録いただけるクレジットカード</a><a href="https://b.hatena.ne.jp/entry/http://www.nanaco-net.jp/service/crecha_cards.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.nanaco-net.jp/service/crecha_cards.html" alt="" /></a></p>
 <h2>3.iTunesカードなどのプリペイドカードが買える</h2>
 <p>iTunesカードやQUOカードなどのプリペイドカードもnanacoで支払うことができます。</p>
 <p>ちなみに1万円分のQUOカードを買うと10,180円分カードに入っているんですが、1万円をチャージするのにクレジットカードだと175円分のポイントが入ります。<br />
@@ -52,7 +52,7 @@ nanacoにチャージするのにクレジットカードからチャージで�
 <p>ちなみにQUOカードは他のコンビニでも使えますし、書店やファミレスでも使えたりします。<br />
 僕はよく本を買うのですが、書店で買う時はnanacoで買ったQUOカードを使うようになりました。<br />
 QUOカードが使えるお店はこちら：<br />
-<a href="http://www.quocard.com/member/" target="_blank">加盟店情報(QUOカードが使えるお店) | ギフト券（商品券）ならQUOカード</a><a href="http://b.hatena.ne.jp/entry/http://www.quocard.com/member/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.quocard.com/member/" alt="" /></a></p>
+<a href="http://www.quocard.com/member/" target="_blank">加盟店情報(QUOカードが使えるお店) | ギフト券（商品券）ならQUOカード</a><a href="https://b.hatena.ne.jp/entry/http://www.quocard.com/member/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.quocard.com/member/" alt="" /></a></p>
 <h2>4.nanacoは公共料金の支払いに使える</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/use-nanaco-4-reason_20150104_03-780x438.jpg" alt="use-nanaco-4-reason_20150104_03" width="780" height="438" class="aligncenter size-large wp-image-13745" /><br />
 公共料金や税金の支払いをコンビニでしている方も多いと思うんですが、セブンイレブンでももちろん公共料金の支払いができます。<br />

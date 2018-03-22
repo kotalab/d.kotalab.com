@@ -62,7 +62,7 @@ WindowsXPが今年の4月にサポートを終了してしまうので、Windows
 <p>領収書・レシート読込アプリの精度も気になるし、マネーフォワードを試してみようと思います。<br />
 今年の確定申告分はもう大丈夫そうなので、来年提出分からはラクができるといいな！</p>
 <p><iframe frameborder="0" allowtransparency="true" height="60" width="234" marginheight="0" scrolling="no" src="http://ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=2967684&pid=882545490" marginwidth="0"><script language="javascript" src="http://ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=2967684&pid=882545490"></script><br />
-<noscript><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882545490" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882545490" height="60" width="234" border="0"></a></noscript>
+<noscript><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882545490" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882545490" height="60" width="234" border="0"></a></noscript>
 <p></iframe></p>
 <h4 class="app">記事の中で紹介したアプリ</h4>
 <div class="applink">

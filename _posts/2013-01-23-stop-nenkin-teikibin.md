@@ -36,7 +36,7 @@ comments: []
 <h2>ねんきんネットのユーザー登録</h2>
 <p>登録には年金手帳や年金定期便に記載されている自分の年金基礎番号が必要になります。<br />
 ▼登録はこちらから<br />
-<a href="http://www.nenkin.go.jp/n/www/n_net/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://www.nenkin.go.jp/n/www/n_net/" alt="「ねんきんネット」サービス｜日本年金機構" width="150" height="130" /></a><a href="http://www.nenkin.go.jp/n/www/n_net/" target="_blank">「ねんきんネット」サービス｜日本年金機構</a><a href="http://b.hatena.ne.jp/entry/http://www.nenkin.go.jp/n/www/n_net/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.nenkin.go.jp/n/www/n_net/" alt="" /></a><br style="clear:both;" />ユーザーIDがない場合は新規登録からユーザー登録を行ってください。<br />
+<a href="http://www.nenkin.go.jp/n/www/n_net/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://www.nenkin.go.jp/n/www/n_net/" alt="「ねんきんネット」サービス｜日本年金機構" width="150" height="130" /></a><a href="http://www.nenkin.go.jp/n/www/n_net/" target="_blank">「ねんきんネット」サービス｜日本年金機構</a><a href="https://b.hatena.ne.jp/entry/http://www.nenkin.go.jp/n/www/n_net/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.nenkin.go.jp/n/www/n_net/" alt="" /></a><br style="clear:both;" />ユーザーIDがない場合は新規登録からユーザー登録を行ってください。<br />
 登録を完了させると数日中にユーザーIDが記載された封筒が日本年金機構から届きます。<br />
 僕が申請した時には申込から2日で届きました。<br />
 ▼届いた封筒がこちら<br />

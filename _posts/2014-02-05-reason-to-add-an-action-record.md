@@ -86,7 +86,7 @@ iライフログはiPhoneで使える時間を記録するライフログアプ�
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/change-habit" target="_blank"><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_01-546x307.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/change-habit" target="_blank">ちょっとした習慣の変化が積み重なると人生は変わるのかも知れない</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/change-habit" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/change-habit" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/change-habit" target="_blank">ちょっとした習慣の変化が積み重なると人生は変わるのかも知れない</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/change-habit" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/change-habit" alt="" /></a></div>
 </div>
 <h4 class="app">記事の中に出てきたアプリ</h4>
 <p><a href="http://shigotano.info/item/55031/2259/"><img src="https://www.wom-p.com/upload/banner/2259_1382800482.jpg" alt=""></a></p>

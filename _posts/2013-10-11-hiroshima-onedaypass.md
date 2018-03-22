@@ -52,30 +52,30 @@ JRが通ってない広島市の中心街、本通りにも線路が通ってる
 その時はもちろん宮島フリーパスで！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4398272526/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/61hwIpCHsHL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4398272526/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61hwIpCHsHL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4398272526/same-22/" rel="nofollow" target="_blank">まっぷる広島・宮島 呉・尾道・しまなみ海道'14 (マップルマガジン)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4398272526/same-22/" rel="nofollow" target="_blank">まっぷる広島・宮島 呉・尾道・しまなみ海道'14 (マップルマガジン)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail"> 昭文社 2013-03-15    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4398272526/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%82%DC%82%C1%82%D5%82%E9%8DL%93%87%81E%8B%7B%93%87%20%8C%E0%81E%94%F6%93%B9%81E%82%B5%82%DC%82%C8%82%DD%8AC%93%B9%2714%20%28%83%7D%83b%83v%83%8B%83%7D%83K%83W%83%93%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4398272526/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%82%DC%82%C1%82%D5%82%E9%8DL%93%87%81E%8B%7B%93%87%20%8C%E0%81E%94%F6%93%B9%81E%82%B5%82%DC%82%C8%82%DD%8AC%93%B9%2714%20%28%83%7D%83b%83v%83%8B%83%7D%83K%83W%83%93%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12247157%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/453309208X/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/61qA%2B4bPiQL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/453309208X/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61qA%2B4bPiQL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/453309208X/same-22/" rel="nofollow" target="_blank">るるぶ広島 宮島 尾道 呉 岩国'14 (国内シリーズ)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/453309208X/same-22/" rel="nofollow" target="_blank">るるぶ広島 宮島 尾道 呉 岩国'14 (国内シリーズ)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail"> ジェイティビィパブリッシング 2013-06-19    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/453309208X/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%82%E9%82%E9%82%D4%8DL%93%87%20%8B%7B%93%87%20%94%F6%93%B9%20%8C%E0%20%8A%E2%8D%91%2714%20%28%8D%91%93%E0%83V%83%8A%81%5B%83Y%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/453309208X/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%82%E9%82%E9%82%D4%8DL%93%87%20%8B%7B%93%87%20%94%F6%93%B9%20%8C%E0%20%8A%E2%8D%91%2714%20%28%8D%91%93%E0%83V%83%8A%81%5B%83Y%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12332550%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

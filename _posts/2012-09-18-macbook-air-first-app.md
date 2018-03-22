@@ -52,7 +52,7 @@ DropBoxにはブログを自動でバックアップしています。<br />
 またDropBox自体をバックアップすることでもしもの時のリスクを抑えられます。<br />
 <a href="https://kotalab.com/dropbox-backup" target="_blank">これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note</a><br />
 ダウンロード先：<a href="https://www.dropbox.com/" title="dropbox" target="_blank">ダウンロード</a><br />
-こちらからDropboxを登録して頂くと、僕とあなたは250MBの追加容量を得ることが出来ます：<a href="http://db.tt/BXcySQmO" title="dropboxに登録" target="_blank">Dropbox</a></p>
+こちらからDropboxを登録して頂くと、僕とあなたは250MBの追加容量を得ることが出来ます：<a href="https://db.tt/BXcySQmO" title="dropboxに登録" target="_blank">Dropbox</a></p>
 <h2>3.KeepassX</h2>
 <p>KeepassXはパスワード管理アプリの一つです。<br />
 参考：<a href="http://www.keepassx.org/" target="_blank">keepassx</a><br />

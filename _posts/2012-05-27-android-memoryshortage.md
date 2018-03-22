@@ -21,7 +21,7 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/think.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/think.jpg" alt="" title="think" width="448" height="336" class="alignnone size-full wp-image-1329" /></a><br />
 内部ストレージの容量が少なすぎることで発生する「空き容量が不足しています」<br />
 このメッセージが出るとスマホ本体の動作が不安定になり<strong>悩んでいました</strong>。@kotala_bです。<br />
-<a href="https://kotalab.com/android-memorycapacity" target="_blank"><img title="【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。 | kotala's note" src="http://capture.heartrails.com/150x130?https://kotalab.com/https://kotalab.com/hello-world" alt="https://kotalab.com/archives/107" width="150" height="130" align="left" /></a><a href="https://kotalab.com/android-memorycapacity" title="【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。" target="_blank">【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/android-memorycapacity" target="_blank"><img title="【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。 | kotala's note" src="https://capture.heartrails.com/150x130?https://kotalab.com/https://kotalab.com/hello-world" alt="https://kotalab.com/archives/107" width="150" height="130" align="left" /></a><a href="https://kotalab.com/android-memorycapacity" title="【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。" target="_blank">【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。 | kotala's note</a><br style="clear:both;" /><br />
 この記事を書いてから以下のことに気をつけるだけでまだ<strong>1度も</strong>「空き容量が不足しています」のメッセージは出ていません。<br />
 <!--more--></p>
 <h2>1.なるべくプリインストールのアプリを使う</h2>

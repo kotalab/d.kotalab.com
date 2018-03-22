@@ -32,7 +32,7 @@ Evernoteのウェジットで使える機能は「新規ノート作成」「ス
 この中から最大で5つを選んでホーム画面に置いておくことが出来ます。<br />
 新規ノート作成では1タップで本文入力画面になり、スナップショットでは写真撮影後にノートのタイトルや本文を入れることが出来ます。<br />
 タイトル等の入力を省きたい場合はもう1つクイックスナップという機能を使うことでカメラの起動・撮影・保存の3タップで素早く写真を保存できます。<br />
-ウェジットを使うことでAndroidにはない「<a title="Fastever" href="http://itunes.apple.com/jp/app/fastever-su-zaoku-jian-dannievernotenimemo/id364580273?mt=8" target="_blank">Fastever</a>」のような機能を使うことが出来ます。</p>
+ウェジットを使うことでAndroidにはない「<a title="Fastever" href="https://itunes.apple.com/jp/app/fastever-su-zaoku-jian-dannievernotenimemo/id364580273?mt=8" target="_blank">Fastever</a>」のような機能を使うことが出来ます。</p>
 <h2>内部ストレージの節約</h2>
 <p>便利なウェジット機能なんですが 1つ残念なことがあって、SDカード上にインストールされているとこのウェジット機能は使用できません。<br />
 ですが<a href="https://play.google.com/store/apps/details?id=com.evernote.widget&amp;feature=more_from_developer#?t=W251bGwsMSwxLDEwMiwiY29tLmV2ZXJub3RlLndpZGdldCJd" target="_blank">EvernoteWidget</a>という別のアプリをインストールすることで、Evernote本体をSDカードに入れたままでも使えるようになります。<br />

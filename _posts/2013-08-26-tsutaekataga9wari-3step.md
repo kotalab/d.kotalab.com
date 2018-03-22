@@ -77,16 +77,16 @@ comments: []
 <p>本書では今回紹介した2ステップ目を更に細かく分けた7つの切り口や、「強いコトバを作る技術」なども紹介されている。<br />
 「<strong>簡単に伝え方を鍛えたい！</strong>」そんなあなたにオススメの1冊！</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478017212/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41ENcyGFWkL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478017212/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41ENcyGFWkL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478017212/same-22/" rel="nofollow" name="booklink" target="_blank">伝え方が9割</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478017212/same-22/" rel="nofollow" name="booklink" target="_blank">伝え方が9割</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px;">佐々木 圭一 ダイヤモンド社 2013-03-01    </div>
 <div class="booklink-link2" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478017212/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00BHCM7HE/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12171241%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478017212/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00BHCM7HE/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12171241%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

@@ -57,10 +57,10 @@ comments: []
 <p>保険をかけすぎてると言われる日本人。<br />
 生涯で何千万も払う家庭が多いそうです。</p>
 <blockquote><p>１世帯あたりの年間払い込み保険料は平均で45.5万円。これを20年間払い続けたら1,000万円近くになる。30年なら1,300万円を超える計算だ。<br />
-via:<a href="http://biz-journal.jp/2014/01/post_3931.html" target="_blank">生涯で2000万円負担？&ldquo;保険好き&rdquo;日本人、無駄に保険をかけすぎる謎 | ビジネスジャーナル</a><a href="http://b.hatena.ne.jp/entry/http://biz-journal.jp/2014/01/post_3931.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://biz-journal.jp/2014/01/post_3931.html" alt="" /></a></p></blockquote>
+via:<a href="http://biz-journal.jp/2014/01/post_3931.html" target="_blank">生涯で2000万円負担？&ldquo;保険好き&rdquo;日本人、無駄に保険をかけすぎる謎 | ビジネスジャーナル</a><a href="https://b.hatena.ne.jp/entry/http://biz-journal.jp/2014/01/post_3931.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://biz-journal.jp/2014/01/post_3931.html" alt="" /></a></p></blockquote>
 <p>保険をかける前に、毎月いくら払うだけじゃなくて生涯いくら払うのか計算した上でかけることをオススメします。</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/no-insurance" target="_blank"><img src="https://kotalab.com/wp-content/uploads/no-insurance_130118_01-546x233.png" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/no-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/no-insurance" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/no-insurance"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/no-insurance" alt="" /></span></div>
 </div>

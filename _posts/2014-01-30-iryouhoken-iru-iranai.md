@@ -36,7 +36,7 @@ comments: []
 年間だと18,744円。<br />
 総額にすると35年間で656,040円。<br />
 これが確実に出て行くお金です。<br />
-via:<a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/no-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/no-insurance" alt="" /></span></p></blockquote>
+via:<a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/no-insurance"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/no-insurance" alt="" /></span></p></blockquote>
 <p>まずはこの70万円を安いと思うか高いと思うか。<br />
 ちなみにこの70万円という額はほぼ最低限度の保障内容なので、保障をもっと厚くしたい（ガン特約や女性疾病特約など）場合はもっと増えます。<br />
 死ぬまでずっと医療保険に入るとなると日本人の平均寿命は約83歳（男性80歳、女性86歳）なので、保険料の総額はさらに増えます。</p>
@@ -64,9 +64,9 @@ via:<a href="https://kotalab.com/no-insurance" target="_blank">医療保険な�
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/no-insurance" target="_blank"><img src="https://kotalab.com/wp-content/uploads/no-insurance_130118_01-546x233.png" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/no-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/no-insurance" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/no-insurance"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/no-insurance" alt="" /></span></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank"><img src="https://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/money-kougakuryoyohi"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/money-kougakuryoyohi" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/money-kougakuryoyohi"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/money-kougakuryoyohi" alt="" /></span></div>
 </div>

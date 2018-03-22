@@ -21,7 +21,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
 Evernoteはほんとに便利です。@kotala_bです。<br />
 昨日はEvernote for Macのアップデートがあり、アカウント切り替え機能が公式にサポートされました。<br />
 参考：<a href="http://blog.evernote.com/jp/2012/08/03/9626" target="_blank">Evernote for Macにアカウント切り替え機能搭載（プレミアム機能） &laquo; Evernote日本語版ブログ</a><br />
@@ -40,7 +40,7 @@ Evernoteはほんとに便利です。@kotala_bです。<br />
 無料アカウントを同期する場合は、自然とメインとサブアカウントという分け方になります。<br />
 ▼無料アカウントとプレミアムアカウントの比較<br />
 <a href="https://kotalab.com/wp-content/uploads/evernote_120804_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/evernote_120804_01.jpg" alt="" title="evernote_120804_01" width="448" height="336" class="alignnone size-full wp-image-1910" /></a><br />
-参考：<a href="http://evernote.com/intl/jp/premium/" title="あなたの世界をより素晴らしく | Evernote" target="_blank">あなたの世界をより素晴らしく | Evernote</a><br />
+参考：<a href="https://evernote.com/intl/jp/premium/" title="あなたの世界をより素晴らしく | Evernote" target="_blank">あなたの世界をより素晴らしく | Evernote</a><br />
 1ヶ月60MBというと1日当たり2MBになります。<br />
 そうなってくると無料アカウントには写真が多いライフログを入れるという使い方はアップロード制限にひっかかる恐れが出てきます。<br />
 ではサブアカウントには何を入れるか？<br />

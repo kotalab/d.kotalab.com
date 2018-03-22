@@ -31,40 +31,40 @@ comments: []
 他の2つは2ポートで2ポート合計2000mAのものと、2ポート合計1000mAのものです。<br />
 僕が選んだのは2ポートで合計2000mAのWUCHG03-Wです。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX04A/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/313i8dkZ05L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX04A/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/313i8dkZ05L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX04A/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(4ポート合計2000mA)USB ACアダプタ ホワイト PL-QUCHG03-W (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX04A/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(4ポート合計2000mA)USB ACアダプタ ホワイト PL-QUCHG03-W (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> プラネックス 2010-10-15    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31c-qkZHAhL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31c-qkZHAhL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(2ポート合計2000mA)USB ACアダプタ ホワイト PL-WUCHG03-W (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(2ポート合計2000mA)USB ACアダプタ ホワイト PL-WUCHG03-W (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> プラネックス 2010-10-15    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002GKBD5I/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31yBGG3GHOL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B002GKBD5I/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31yBGG3GHOL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002GKBD5I/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 「充電万能」 2ポートUSB充電器 ホワイト PL-WUCHG01 (iPod/iPhone5/4s/4/3GS/3G/Xperia/Galaxy/au/docomo/SoftBank/ウォークマン/PSP/DS/DSLite/Dsi 全ポート合計1A )</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B002GKBD5I/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 「充電万能」 2ポートUSB充電器 ホワイト PL-WUCHG01 (iPod/iPhone5/4s/4/3GS/3G/Xperia/Galaxy/au/docomo/SoftBank/ウォークマン/PSP/DS/DSLite/Dsi 全ポート合計1A )</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> プラネックス 2009-07-27    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=NW-X1060%20X06HT%20G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=NW-X1060%20X06HT%20G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
@@ -92,14 +92,14 @@ comments: []
 外出先だとどうしても電源の数が限られてくるので、1つの電源で2台を同時充電出来るこのアダプターはとっても便利！<br />
 iPhone5とPocketWifiの同時充電もしっかり出来ました！</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31c-qkZHAhL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31c-qkZHAhL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(2ポート合計2000mA)USB ACアダプタ ホワイト PL-WUCHG03-W (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0043BX03Q/same-22/ref=nosim/" rel="nofollow" target="_blank">PLANEX 急速充電(2ポート合計2000mA)USB ACアダプタ ホワイト PL-WUCHG03-W (iPod/iPad/iPhone5/4s/4/3GS/3G/Xperia/ウォークマン/Xperia/Galaxy/au/docomo/SoftBank)</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> プラネックス 2010-10-15    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=G%2F3GS%2F4&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

@@ -375,31 +375,31 @@ Web検索するときも、辞書で英語の意味を調べたい時もこの�
 <div class="clear"></div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00JH83OPY/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51GiTSWvq9L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00JH83OPY/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51GiTSWvq9L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00JH83OPY/same-22/ref=nosim/" rel="nofollow" target="_blank">iPhone 6 Plus ケース Spigen [ スタンド機能 ] ウォレット S レザー 手帳型 ケース Apple iPhone (5.5) (国内正規品) (ブラック 【SGP10918】)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00JH83OPY/same-22/ref=nosim/" rel="nofollow" target="_blank">iPhone 6 Plus ケース Spigen [ スタンド機能 ] ウォレット S レザー 手帳型 ケース Apple iPhone (5.5) (国内正規品) (ブラック 【SGP10918】)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Spigen     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=iPhone%206%20Plus%20%83P%81%5B%83X%20Spigen&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=iPhone%206%20Plus%20%83P%81%5B%83X%20Spigen&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FiPhone%25206%2520Plus%2520%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2520Spigen%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div>
-<div class="shoplinkyahoo"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3DiPhone%25206%2520Plus%2520%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2520Spigen" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング<img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></a></div>
+<div class="shoplinkyahoo"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3DiPhone%25206%2520Plus%2520%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2520Spigen" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング<img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00N98LX88/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41lHYnC840L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00N98LX88/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41lHYnC840L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00N98LX88/same-22/ref=nosim/" rel="nofollow" target="_blank">英国 Snugg製 iPhone6 ケース 手帳型 PUレザーカバー - カードポケット・スタンド機能付き （ブラック）</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00N98LX88/same-22/ref=nosim/" rel="nofollow" target="_blank">英国 Snugg製 iPhone6 ケース 手帳型 PUレザーカバー - カードポケット・スタンド機能付き （ブラック）</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Snugg     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=%89p%8D%91%20Snugg%90%BB%20iPhone6%20%83P%81%5B%83X%20%8E%E8%92%A0%8C%5E&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=%89p%8D%91%20Snugg%90%BB%20iPhone6%20%83P%81%5B%83X%20%8E%E8%92%A0%8C%5E&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%258B%25B1%25E5%259B%25BD%2520Snugg%25E8%25A3%25BD%2520iPhone6%2520%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2520%25E6%2589%258B%25E5%25B8%25B3%25E5%259E%258B%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div>
-<div class="shoplinkyahoo"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3D%25E8%258B%25B1%25E5%259B%25BD%2520Snugg%25E8%25A3%25BD%2520iPhone6%2520%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2520%25E6%2589%258B%25E5%25B8%25B3%25E5%259E%258B" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング<img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></a></div>
+<div class="shoplinkyahoo"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=881104827&vc_url=http%3A%2F%2Fshopping.search.yahoo.co.jp%2Fsearch%3FuIv%3Don%26ei%3DUTF-8%26tab_ex%3Dcommerce%26slider%3D0%26va%3D%25E8%258B%25B1%25E5%259B%25BD%2520Snugg%25E8%25A3%25BD%2520iPhone6%2520%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%2520%25E6%2589%258B%25E5%25B8%25B3%25E5%259E%258B" rel="nofollow"  target="_blank" title="Yahooショッピング" >Yahooショッピング<img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=881104827" height="1" width="1" border="0"></a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

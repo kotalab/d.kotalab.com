@@ -21,12 +21,12 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/sharehtml_20121006.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sharehtml_20121006.jpg" alt="" title="sharehtml_20121006" width="448" height="321" class="alignnone size-full wp-image-3220" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/centralasian/3986792701/" target="_blank">Problems, Only Solutions</a> / Cea.</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/centralasian/3986792701/" target="_blank">Problems, Only Solutions</a> / Cea.</span><br />
 昨日のSharehtml記事の続きです。@kotala_bです。<br />
 昨日はSharehtmlにwordpressのサムネイル画像を自動で表示出来るようにならないか調べました。<br />
 <a href="https://kotalab.com/sharehtml-popularposts" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/sharehtml_121005.jpg" alt="Sharehtmlを見直してたらPopularPostsに似てることに気づいた！同じように自動で画像表示出来ないか調べてみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/sharehtml-popularposts" target="_blank">Sharehtmlを見直してたらPopularPostsに似てることに気づいた！同じように自動で画像表示出来ないか調べてみた！ | kotala's note</a><br style="clear:both;" />結局やり方が分からなく昨日は途中で断念しました。<br />
 再び@delaymaniaさんがSharehtmlのカスタマイズ記事を書かれているのを発見！<br />
-<a href="http://delaymania.com/201210/blog/sharehtml_3_wa/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://delaymania.com/201210/blog/sharehtml_3_wa/" alt="「ShareHTMLでリンクタグを作成する際に加えている一工夫、から一手間なくす」を実践してみた | delaymania.com" width="150" height="130" /></a><a href="http://delaymania.com/201210/blog/sharehtml_3_wa/" target="_blank">「ShareHTMLでリンクタグを作成する際に加えている一工夫、から一手間なくす」を実践してみた | delaymania.com</a><a href="http://b.hatena.ne.jp/entry/http://delaymania.com/201210/blog/sharehtml_3_wa/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://delaymania.com/201210/blog/sharehtml_3_wa/" alt="" /></a><br style="clear:both;" />これはやるしかない！と早速Sharehtmlを編集しました。<br />
+<a href="http://delaymania.com/201210/blog/sharehtml_3_wa/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://delaymania.com/201210/blog/sharehtml_3_wa/" alt="「ShareHTMLでリンクタグを作成する際に加えている一工夫、から一手間なくす」を実践してみた | delaymania.com" width="150" height="130" /></a><a href="http://delaymania.com/201210/blog/sharehtml_3_wa/" target="_blank">「ShareHTMLでリンクタグを作成する際に加えている一工夫、から一手間なくす」を実践してみた | delaymania.com</a><a href="https://b.hatena.ne.jp/entry/http://delaymania.com/201210/blog/sharehtml_3_wa/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://delaymania.com/201210/blog/sharehtml_3_wa/" alt="" /></a><br style="clear:both;" />これはやるしかない！と早速Sharehtmlを編集しました。<br />
 <!--more--></p>
 <h2>カスタマイズ方法</h2>
 <p>やり方はSharehtmlに入れられるコメントを「img」タグ内に置いて、挿入するコメントに画像のurlを貼付けるというもの。<br />

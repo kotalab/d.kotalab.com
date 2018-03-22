@@ -38,7 +38,7 @@ comments: []
 最新の調査結果を知りたい場合は、文部科学省のホームページで調査結果の名前を検索してみてください。</p>
 <h2>もっと簡単に知りたい人のための教育費計算</h2>
 <p>調べてみたら教育費を計算してくれる便利サイトがありました。<br />
-<a href="http://educationalcost.com/" target="_blank">よくわかる日本の教育費《子供の教育費の平均は？》</a><a href="http://b.hatena.ne.jp/entry/http://educationalcost.com/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://educationalcost.com/" alt="" /></a><br />
+<a href="http://educationalcost.com/" target="_blank">よくわかる日本の教育費《子供の教育費の平均は？》</a><a href="https://b.hatena.ne.jp/entry/http://educationalcost.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://educationalcost.com/" alt="" /></a><br />
 こちらのサイトで使ってる資料は最新版ではありませんでしたが、だいたいこれくらいだなという把握には十分です。</p>
 <blockquote><p>主に参考とした資料<br />
 文部科学省　平成20年度　子どもの学習費調査（下記以外のすべての金額算出に使用）<br />
@@ -55,4 +55,4 @@ gooベビー　育児ママのマネー実態調査（私立無認可保育園�
 また、純粋な学校の授業料ではなく、塾や習い事等のにかけるお金だったり教育にかかるあらゆる費用が調査結果に含まれています。<br />
 「うちの子も私立に通わせたいけどいくらかかるんだろう」というかたは、だいたいの目安としてお使いください。</p>
 <h4 class="rel">関連記事</h4>
-<p><a href="https://kotalab.com/educational-insurance" target="_blank">学資保険に入る前に知っておきたい表と裏。</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/educational-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/educational-insurance" alt="" /></span></p>
+<p><a href="https://kotalab.com/educational-insurance" target="_blank">学資保険に入る前に知っておきたい表と裏。</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/educational-insurance"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/educational-insurance" alt="" /></span></p>

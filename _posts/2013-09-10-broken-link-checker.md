@@ -34,7 +34,7 @@ LinkShareへのリンクは9月いっぱいまで。10月1日からはリンク�
 ここの画面右端にある「検索」というボタンを押します。<br />
 <img src="https://kotalab.com/wp-content/uploads/brokenlinkchecker_130910_01-546x191.jpg" alt="brokenlinkchecker_130910_01" width="546" height="191" class="alignnone size-large wp-image-8589" /><br />
 すると検索ボックスが開き、ブログに貼ってある全てのリンクを対象とした検索ができます！<br />
-検索ボックスのURLに「http://click.linksynergy.com」と入力するとLinkShareへのリンクを全てみることができます。<br />
+検索ボックスのURLに「https://click.linksynergy.com」と入力するとLinkShareへのリンクを全てみることができます。<br />
 <img src="https://kotalab.com/wp-content/uploads/brokenlinkchecker_130910_02.jpg" alt="brokenlinkchecker_130910_02" width="346" height="392" class="alignnone size-full wp-image-8586" /><br />
 検索すると「URL」の他に「リンクタイトル」と「リンクが貼ってあるページ」が表示されます。<br />
 <img src="https://kotalab.com/wp-content/uploads/brokenlinkchecker_130910_03-546x240.jpg" alt="brokenlinkchecker_130910_03" width="546" height="240" class="alignnone size-large wp-image-8587" /></p>
@@ -49,43 +49,43 @@ LinkShareへのリンクは9月いっぱいまで。10月1日からはリンク�
 リンク切れを自動で見つけてくれる便利な「Broken Link Checker」は<strong>リンク張り替え作業にもオススメです！</strong></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B009NQ7MGM/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51R5X8BZm-L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B009NQ7MGM/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51R5X8BZm-L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B009NQ7MGM/same-22/" rel="nofollow" target="_blank">必ず結果がでるブログ運営テクニック100 プロ・ブロガーが教える"俺メディア"の極意[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B009NQ7MGM/same-22/" rel="nofollow" target="_blank">必ず結果がでるブログ運営テクニック100 プロ・ブロガーが教える"俺メディア"の極意[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">コグレ マサト,するぷ インプレスジャパン 2012-08-23    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009NQ7MGM/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4844331779/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009NQ7MGM/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4844331779/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51OmKlbWagL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51OmKlbWagL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank">プロ・ブロガーの必ず結果が出るアクセスアップテクニック100[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank">プロ・ブロガーの必ず結果が出るアクセスアップテクニック100[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">コグレ マサト,するぷ インプレスジャパン 2013-08-09    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4844334417/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00E9IYWJ4/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4844334417/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4883377245/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51M0dcqriiL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4883377245/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51M0dcqriiL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4883377245/same-22/" rel="nofollow" target="_blank">WordPress レッスンブック 3.x対応</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4883377245/same-22/" rel="nofollow" target="_blank">WordPress レッスンブック 3.x対応</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">エビスコム ソシム 2010-09-08    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4883377245/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=WordPress%20%83%8C%83b%83X%83%93%83u%83b%83N%203.x%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4883377245/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=WordPress%20%83%8C%83b%83X%83%93%83u%83b%83N%203.x%91%CE%89%9E&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6719352%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

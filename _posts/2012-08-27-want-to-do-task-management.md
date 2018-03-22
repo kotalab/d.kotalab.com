@@ -25,7 +25,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/yaritai_120827.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yaritai_120827.jpg" alt="" title="yaritai_120827" width="448" height="336" class="alignnone size-full wp-image-2354" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/sookie/31219031/" target="_blank">massive change</a> / 416style</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/sookie/31219031/" target="_blank">massive change</a> / 416style</span><br />
 ここ半年くらいで自分が劇的に変化しています。@kotala_bです。<br />
 「やりたいことをするには色々な仕組みがある」ということがわかったのが自分の変化に大きく繋がっています。<br />
 <!--more--></p>
@@ -42,7 +42,7 @@ comments: []
 まずは週に1回Evernoteに入った「<strong>やりたいこと</strong>」を整理します。<br />
 いわゆる週次レビューというやつです。<br />
 週次レビューというのはなんなのか？それはこちらの記事を参考に。<br />
-<a href="http://www.ashi-tano.jp/?p=3808" target="_blank"><img src="http://capture.heartrails.com/150x130?http://www.ashi-tano.jp/?p=3808" alt="http://www.ashi-tano.jp/?p=3808" width="150" height="130" align="left" /></a><a href="http://www.ashi-tano.jp/?p=3808" target="_blank">リラックスして生産性を上げる！週次レビューのススメ</a><br style="clear:both;" /><br />
+<a href="http://www.ashi-tano.jp/?p=3808" target="_blank"><img src="https://capture.heartrails.com/150x130?http://www.ashi-tano.jp/?p=3808" alt="http://www.ashi-tano.jp/?p=3808" width="150" height="130" align="left" /></a><a href="http://www.ashi-tano.jp/?p=3808" target="_blank">リラックスして生産性を上げる！週次レビューのススメ</a><br style="clear:both;" /><br />
 この週次レビューの段階ですぐに行動可能なことは1つのタスクとして扱います。<br />
 僕の場合、タスク管理にはTaskchuteを使用しています。<br />
 例えば「どこどこのラーメンを食べたい」というようなことは休みの日があればすぐに行動可能なのでTaskchuteに入れてしまいます。<br />

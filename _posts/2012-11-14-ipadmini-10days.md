@@ -43,31 +43,31 @@ iPadminiは発売日当日に買いました。@kotala_bです。<br />
 MacBookAirも持っていこうかほんの少しだけ迷いましたがiPadminiだけで正解でした。<br />
 つなカンでは気に入ったフレーズなどをEvernoteにメモをとるのにiPadminiを使用していました。<br />
 その日の朝たまたまiPadminiの充電をし忘れてて20％くらいしか充電が残っていなかったんですが、<a href="https://kotalab.com/cheero-power-plus" title="大容量なのに安い！あのcheeroPowerPlusを購入！" target="_blank">以前買ったCheeroのモバイルバッテリー</a>でイベント中に充電してたらいつの間にか90％くらいまで充電されていました。<br />
-僕はMacBookAirを外で充電出来る<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00456DWUA/same-22/ref=nosim/" rel="nofollow" target="_blank">HyperJuice</a>を持っていないので、もしこれがiPadminiじゃなくMacBookAirだったら同じことは出来ていませんでした。<br />
+僕はMacBookAirを外で充電出来る<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00456DWUA/same-22/ref=nosim/" rel="nofollow" target="_blank">HyperJuice</a>を持っていないので、もしこれがiPadminiじゃなくMacBookAirだったら同じことは出来ていませんでした。<br />
 いざという時にモバイルバッテリーで気軽に充電出来るのもiPadminiのいいところです。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00ASSGJ3Q/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/3173aByQOvL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00ASSGJ3Q/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/3173aByQOvL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00ASSGJ3Q/same-22/ref=nosim/" rel="nofollow" target="_blank">cheero Power Plus 2 10400mAh (シルバー)　大容量モバイルバッテリー ★2.1A,1A 2出力ポート★ 安全設計(過充電/過放電/発熱時/短絡化時 自動停止)★半年保証★マルチデバイス対応 (各種スマホ/iPhone5/iPad/wifiルータ/kindle等対応)</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00ASSGJ3Q/same-22/ref=nosim/" rel="nofollow" target="_blank">cheero Power Plus 2 10400mAh (シルバー)　大容量モバイルバッテリー ★2.1A,1A 2出力ポート★ 安全設計(過充電/過放電/発熱時/短絡化時 自動停止)★半年保証★マルチデバイス対応 (各種スマホ/iPhone5/iPad/wifiルータ/kindle等対応)</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> cheero mart     </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=cheero%20Power%20Plus2%2010400mAh&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fcheero%2520Power%2520Plus2%252010400mAh%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=cheero%20Power%20Plus2%2010400mAh&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fcheero%2520Power%2520Plus2%252010400mAh%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00456DWUA/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31ig39yAxoL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00456DWUA/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31ig39yAxoL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00456DWUA/same-22/ref=nosim/" rel="nofollow" target="_blank">アクト・ツー HyperJuice 60Wh External Battery achj060 jhotna</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00456DWUA/same-22/ref=nosim/" rel="nofollow" target="_blank">アクト・ツー HyperJuice 60Wh External Battery achj060 jhotna</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> アクト・ツー 2011-06-01    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=achj060&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=achj060&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

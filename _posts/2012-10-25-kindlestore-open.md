@@ -28,7 +28,7 @@ Kindleストアがオープンしたので欲しいものリストから本を�
 <!--more--></p>
 <h2>まずはお試し</h2>
 <p>iPhoneから直接Kindleストアの本をダウンロードする方法が見つからなかったので、ブラウザからやってみました。<br />
-選んだ本は本田直之さんの<a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>です。<br />
+選んだ本は本田直之さんの<a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>です。<br />
 Amazonの商品ページに行くとKindle版と書籍版の2種類から選択出来るようになっていました！<br />
 Kindle版を選択すると今度はKindle版の購入ページへ移動します。<br />
 Kindle版ページでは書籍版との価格の違い一目で分かるように表示されています！<br />
@@ -41,14 +41,14 @@ Kindle版ページでは書籍版との価格の違い一目で分かるよう�
 読めない！<br />
 まだ初日ということで不具合もあるんでしょう。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51BE1142H2L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51BE1142H2L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px;">本田 直之 東洋経済新報社 2006-12-01    </div>
 <div class="booklink-link2" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

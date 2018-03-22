@@ -56,9 +56,9 @@ Xcodeの中の設定を弄って色々試すのに1時間以上、それでも�
 <p>追加したらinfo.plistにLaunchScreenを設定してあげておしまい。<br />
 <img src="https://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_06.png" alt="xcode-keyboard-size20140923_06" width="806" height="26" class="aligncenter size-full wp-image-13527" /></p>
 <p>これだけでiPhone 6Plusでちゃんと表示されるようになりました。</p>
-<p>参考：<a href="http://qiita.com/koogawa/items/ad1f998ebb68827009a6" target="_blank">iOS - 既存アプリをiPhone 6 Plusの解像度に最適化する - Qiita</a><a href="http://b.hatena.ne.jp/entry/http://qiita.com/koogawa/items/ad1f998ebb68827009a6" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://qiita.com/koogawa/items/ad1f998ebb68827009a6" alt="" /></a></p>
+<p>参考：<a href="http://qiita.com/koogawa/items/ad1f998ebb68827009a6" target="_blank">iOS - 既存アプリをiPhone 6 Plusの解像度に最適化する - Qiita</a><a href="https://b.hatena.ne.jp/entry/http://qiita.com/koogawa/items/ad1f998ebb68827009a6" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://qiita.com/koogawa/items/ad1f998ebb68827009a6" alt="" /></a></p>
 <h3>さすがXcode</h3>
-<p><a href="http://www.landerblue.co.jp/blog/?p=14975" target="_blank">iPhone6 Plus用に適正化されているアプリとされてないアプリ | More Access! More Fun!</a><a href="http://b.hatena.ne.jp/entry/http://www.landerblue.co.jp/blog/?p=14975" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.landerblue.co.jp/blog/?p=14975" alt="" /></a></p>
+<p><a href="http://www.landerblue.co.jp/blog/?p=14975" target="_blank">iPhone6 Plus用に適正化されているアプリとされてないアプリ | More Access! More Fun!</a><a href="https://b.hatena.ne.jp/entry/http://www.landerblue.co.jp/blog/?p=14975" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.landerblue.co.jp/blog/?p=14975" alt="" /></a></p>
 <p>ついこの前上記のエントリーを見てたので、解像度ごとに作ったりしなきゃいけないのかなーとか思ったりもしてました。<br />
 でも実際にやってみたら、さすがXcodeというかなんというかすごーく簡単。<br />
 これでスペースが広く使えるようになるので、あとはアプリ内で使うアイコンを@3xに対応させて広くなった部分をどう変えるか！</p>
@@ -70,10 +70,10 @@ Xcodeの中の設定を弄って色々試すのに1時間以上、それでも�
 <div class="clear"></div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00JH83OPY/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51EnGnN6hjL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00JH83OPY/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51EnGnN6hjL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00JH83OPY/same-22/ref=nosim/" rel="nofollow" target="_blank">iPhone 6 Plus ケース, Spigen&reg; [ スタンド機能 ] ウォレット S レザー 手帳型 ケース Apple iPhone (5.5) アイフォン 6 プラス カバー (国内正規品) (ブラック 【SGP10918】)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00JH83OPY/same-22/ref=nosim/" rel="nofollow" target="_blank">iPhone 6 Plus ケース, Spigen&reg; [ スタンド機能 ] ウォレット S レザー 手帳型 ケース Apple iPhone (5.5) アイフォン 6 プラス カバー (国内正規品) (ブラック 【SGP10918】)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Spigen     </div>
 <div class="kaerebalink-link1"></div>

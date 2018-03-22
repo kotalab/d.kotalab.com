@@ -32,17 +32,17 @@ comments: []
 投資のためには多くのビジネス書を読みあさり、様々な成功者のエッセンスを抽出し自分のものへと馴染ませていくことが必要になります。<br />
 多くのビジネス書を読みあさる為に必要になってくるのが<strong>多読</strong>という方法です。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51BE1142H2L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51BE1142H2L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px;">本田 直之 東洋経済新報社 2006-12-01    </div>
 <div class="booklink-link2" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00978ZRTU/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4175228%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkbookoff" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 -200px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&subid=&offerid=169505.1&type=10&tmpid=3677&RD_PARM1=http%253A%252F%252Fwww.bookoffonline.co.jp%252Fdisplay%252FL001%252Cbg%253D12%252Cq%253D9784492042694" rel="nofollow" target="_blank" title="ブックオフオンライン" >ブックオフ</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00978ZRTU/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4175228%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
+<div class="shoplinkbookoff" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 -200px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&subid=&offerid=169505.1&type=10&tmpid=3677&RD_PARM1=http%253A%252F%252Fwww.bookoffonline.co.jp%252Fdisplay%252FL001%252Cbg%253D12%252Cq%253D9784492042694" rel="nofollow" target="_blank" title="ブックオフオンライン" >ブックオフ</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
@@ -80,13 +80,13 @@ comments: []
 また、レバレッジメモはいつでも持ち歩いて見れるようにしておき、ちょっとした空き時間にメモを繰り返し読むことで自分の中に馴染ませていきます。<br />
 本書の中ではA4の紙に書き出していましたが、僕はEvernoteにまとめて管理していきます。<br />
 いつも持ち歩けるのはもちろんのこと、マージやタグ付けしていくことでレバレッジメモを整理しやすいからです。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fevernote%252Fid281796108%253Fmt%253D8%2526uo%253D4"><img src="http://a400.phobos.apple.com/us/r1000/096/Purple/v4/ce/20/67/ce2067a3-39ab-4ff2-c618-256f321cc67a/temp..ceozfaqv.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fevernote%252Fid281796108%253Fmt%253D8%2526uo%253D4"><img src="http://a400.phobos.apple.com/us/r1000/096/Purple/v4/ce/20/67/ce2067a3-39ab-4ff2-c618-256f321cc67a/temp..ceozfaqv.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fevernote%252Fid281796108%253Fmt%253D8%2526uo%253D4">Evernote</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fevernote%252Fid281796108%253Fmt%253D8%2526uo%253D4">Evernote</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.06時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fevernote%252Fid281796111%253Fuo%253D4">Evernote</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fevernote%252Fid281796111%253Fuo%253D4">Evernote</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -96,28 +96,28 @@ comments: []
 読書に対する目的がより一層明確化され、新たな気持ちで読書をすることが出来るようになりました。<br />
 レバレッジリーディングおすすめです！</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51BE1142H2L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51BE1142H2L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px;">本田 直之 東洋経済新報社 2006-12-01    </div>
 <div class="booklink-link2" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00978ZRTU/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4175228%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkbookoff" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 -200px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&subid=&offerid=169505.1&type=10&tmpid=3677&RD_PARM1=http%253A%252F%252Fwww.bookoffonline.co.jp%252Fdisplay%252FL001%252Cbg%253D12%252Cq%253D9784492042694" rel="nofollow" target="_blank" title="ブックオフオンライン" >ブックオフ</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00978ZRTU/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F4175228%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
+<div class="shoplinkbookoff" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 -200px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&subid=&offerid=169505.1&type=10&tmpid=3677&RD_PARM1=http%253A%252F%252Fwww.bookoffonline.co.jp%252Fdisplay%252FL001%252Cbg%253D12%252Cq%253D9784492042694" rel="nofollow" target="_blank" title="ブックオフオンライン" >ブックオフ</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <hr>
 <p>このアプリを使って更新しました！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1.mzstatic.com/us/r1000/065/Purple/v4/4c/c6/a8/4cc6a855-cc5c-34ed-0436-36e219eafb81/mzl.xejvrijs.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1.mzstatic.com/us/r1000/065/Purple/v4/4c/c6/a8/4cc6a855-cc5c-34ed-0436-36e219eafb81/mzl.xejvrijs.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iPhone</span></div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" target="_blank">ポチレバ</a></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iPhone</span></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com" target="_blank">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

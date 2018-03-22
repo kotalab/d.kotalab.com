@@ -30,7 +30,7 @@ comments: []
 <h2>SleepTimeの使い方</h2>
 <p>使い方は@ttachiさんのブログで詳しく解説されています。<br />
 英語の設定画面も詳しい解説のおかげでまるわかり！<br />
-<a href="http://www.ttcbn.net/no_second_life/archives/22186" target="_blank"><img src="http://capture.heartrails.com/150x130?http://www.ttcbn.net/no_second_life/archives/22186" alt="http://www.ttcbn.net/no_second_life/archives/22186" width="150" height="130" align="left" /></a><a href="http://www.ttcbn.net/no_second_life/archives/22186" target="_blank">クールなUIとログ精度がいい！ 睡眠ログアプリ新機軸 &ldquo;Sleep Time&rdquo; がすごくいい！ | No Second Life</a><br style="clear:both;" /><br />
+<a href="https://www.ttcbn.net/no_second_life/archives/22186" target="_blank"><img src="https://capture.heartrails.com/150x130?https://www.ttcbn.net/no_second_life/archives/22186" alt="https://www.ttcbn.net/no_second_life/archives/22186" width="150" height="130" align="left" /></a><a href="https://www.ttcbn.net/no_second_life/archives/22186" target="_blank">クールなUIとログ精度がいい！ 睡眠ログアプリ新機軸 &ldquo;Sleep Time&rdquo; がすごくいい！ | No Second Life</a><br style="clear:both;" /><br />
 セッティングでは、スヌーズ機能のon/offやアラーム音の設定、アラームの止め方の設定が出来ます。<br />
 ▼プリインストールされている「Silence」を使うことでアラーム音なしで睡眠ログを取る機能だけ使うことも出来ます。<br />
 <a href="https://kotalab.com/wp-content/uploads/sleeptime_120822_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120822_01.png" alt="" title="sleeptime_120822_01" width="300" height="432" class="alignnone size-full wp-image-2242" /></a><br />

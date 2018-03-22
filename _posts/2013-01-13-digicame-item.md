@@ -37,15 +37,15 @@ D80についているディスプレイは2.5インチ。<br />
 思いついたのはデジイチで撮った写真をその場でiPadminiに送り、iPadminiで写真を確認する方法です。<br />
 <strong>これをするのに用意したのはWifi機能搭載のEye-Fiというメモリーカードです。</strong></p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;overflow: hidden">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004ZWQN28/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41GpB0gjxrL._SL160_.jpg" style="border: none" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B004ZWQN28/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41GpB0gjxrL._SL160_.jpg" style="border: none" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;overflow: hidden">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B004ZWQN28/same-22/ref=nosim/" rel="nofollow" target="_blank">Eye-Fi Mobile X2 8GB EFJ-MB-8G</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B004ZWQN28/same-22/ref=nosim/" rel="nofollow" target="_blank">Eye-Fi Mobile X2 8GB EFJ-MB-8G</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px"> Eye-Fi Japan 2011-05-18    </div>
 <div class="kaerebalink-link1" style="margin-top:10px">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=EFJ-MB-8G&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;tag=same-22" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEFJ-MB-8G%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場">楽天市場</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=EFJ-MB-8G&amp;__mk_ja_JP=%83J%83%5E%83J%83i&amp;tag=same-22" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEFJ-MB-8G%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場">楽天市場</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
@@ -64,16 +64,16 @@ iPhone5もいいんですが、iPadminiもiPhoneと同様に通勤で毎日持�
 Eye-Fiで写真を送るならiPadminiがオススメです！<br />
 ▼Eye-Fiカードの設定はこれを参考にしました。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;overflow: hidden">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844331515/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51vI-U%2BFSqL._SL160_.jpg" style="border: none" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844331515/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51vI-U%2BFSqL._SL160_.jpg" style="border: none" /></a></div>
 <div class="booklink-info" style="line-height:120%;overflow: hidden">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844331515/same-22/" rel="nofollow" name="booklink" target="_blank">できるポケット Eye-Fi (アイファイ) 公式ガイド  写真がもっと楽しくなる基本&amp;活用ワザ 70</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844331515/same-22/" rel="nofollow" name="booklink" target="_blank">できるポケット Eye-Fi (アイファイ) 公式ガイド  写真がもっと楽しくなる基本&amp;活用ワザ 70</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px">北 真也,できるシリーズ編集部 インプレスジャパン 2012-02-23    </div>
 <div class="booklink-link2" style="margin-top:10px">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4844331515/same-22/" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009OWX5PC/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkrakuten"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11552099%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス">楽天ブックス</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4844331515/same-22/" rel="nofollow" target="_blank" title="アマゾン">Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009OWX5PC/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkrakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11552099%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス">楽天ブックス</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

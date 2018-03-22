@@ -95,12 +95,12 @@ FPになりたいと思ってからだいたい1ヶ月後の3月7日にユーキ
 毎月4冊という読書の目標がありましたが、3月から5月までは読書時間を減らしテキストを読む時間を増やしました。</p>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/readingpace" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/readingpace" target="_blank">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/readingpace" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/readingpace" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/readingpace" target="_blank">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/readingpace" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/readingpace" alt="" /></a></div>
 </div>
 <p>そして7月からは試験勉強の優先順位を一番にしました。それまで最優先だったブログ更新の優先順位を一時的に下げ、417日間連続更新していたブログの連続更新をやめて書ける時に書くようにしました。</p>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/the-order-of-priority" target="_blank"><img src="https://kotalab.com/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/the-order-of-priority" target="_blank">時間は作るもの！物事に優先順位をつけて行動しよう！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/the-order-of-priority"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/the-order-of-priority" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/the-order-of-priority" target="_blank">時間は作るもの！物事に優先順位をつけて行動しよう！</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/the-order-of-priority"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/the-order-of-priority" alt="" /></span></div>
 </div>
 <p>ブログ更新に関しては、朝ごはんを食べたらすぐにブログを書くというくらい優先順位を上げていたので、それを勉強に置き換えたら自ずと勉強することが毎日の習慣になっていました。</p>
 <h3>人間は習慣の塊</h3>
@@ -109,35 +109,35 @@ FPになりたいと思ってからだいたい1ヶ月後の3月7日にユーキ
 しかし、天才ではない一般の人である僕らでも、自分の人生を劇的に変えて、理想の日々を手にすることができる。<br />
 どうすればいいのか？<br />
 それは「習慣」を変えるのである。<br />
-<a href="http://www.ttcbn.net/no_second_life/archives/36945" target="_blank">キーストーン・ハビット（要の習慣）を変えれば人生は劇的に変わるしかない！！ | No Second Life</a><a href="http://b.hatena.ne.jp/entry/http://www.ttcbn.net/no_second_life/archives/36945" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.ttcbn.net/no_second_life/archives/36945" alt="" /></a></p></blockquote>
+<a href="https://www.ttcbn.net/no_second_life/archives/36945" target="_blank">キーストーン・ハビット（要の習慣）を変えれば人生は劇的に変わるしかない！！ | No Second Life</a><a href="https://b.hatena.ne.jp/entry/https://www.ttcbn.net/no_second_life/archives/36945" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.ttcbn.net/no_second_life/archives/36945" alt="" /></a></p></blockquote>
 <p>僕は「習慣」を変えました。<br />
 試験に合格するために「習慣」を変えて「合格する習慣」を身につけました。<br />
 今まで勉強してなかった僕が6ヶ月間で一発合格できたのは「合格する習慣」を身につけたからに他なりません。</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00GD80S1Y/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51T3qYmuRwL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00GD80S1Y/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51T3qYmuRwL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00GD80S1Y/same-22/" rel="nofollow" target="_blank">レバレッジ勉強法 (だいわ文庫)[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00GD80S1Y/same-22/" rel="nofollow" target="_blank">レバレッジ勉強法 (だいわ文庫)[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">本田直之 大和書房 2013-11-08    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00GD80S1Y/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4479302905/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00GD80S1Y/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4479302905/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4426605067/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51lQ%2BBx8LBL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4426605067/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51lQ%2BBx8LBL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4426605067/same-22/" rel="nofollow" target="_blank">'13~'14年版 U-CANのFP技能士2級・AFP 速習レッスン (ユーキャンの資格試験シリーズ)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4426605067/same-22/" rel="nofollow" target="_blank">'13~'14年版 U-CANのFP技能士2級・AFP 速習レッスン (ユーキャンの資格試験シリーズ)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">ユーキャンFP技能士試験研究会 U-CAN 2013-06-26    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4426605067/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%2713%7E%2714%94N%94%C5%20U-CAN%82%CCFP%8BZ%94%5C%8Em2%8B%89%81EAFP%20%91%AC%8FK%83%8C%83b%83X%83%93%20%28%83%86%81%5B%83L%83%83%83%93%82%CC%8E%91%8Ai%8E%8E%8C%B1%83V%83%8A%81%5B%83Y%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4426605067/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%2713%7E%2714%94N%94%C5%20U-CAN%82%CCFP%8BZ%94%5C%8Em2%8B%89%81EAFP%20%91%AC%8FK%83%8C%83b%83X%83%93%20%28%83%86%81%5B%83L%83%83%83%93%82%CC%8E%91%8Ai%8E%8E%8C%B1%83V%83%8A%81%5B%83Y%29&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12318461%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

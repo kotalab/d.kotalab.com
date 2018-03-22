@@ -26,10 +26,10 @@ comments: []
 <p>AppStoreからアプリをダウンロードするときの通信料が無料になる、iPhone/iPad専用のSIMがあるということで使ってみることにしました。</p>
 <p>月々たったの299円から使えて、しかも<a href="https://mobareco.jp/a61244/" target="_blank">MVNOの中では速い方らしい</a>FREETELのSIMです！</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01685VASQ/same-22/ref=nosim/" target="_blank" rel="nofollow" ><img src="http://ecx.images-amazon.com/images/I/51b3Tt-krkL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01685VASQ/same-22/ref=nosim/" target="_blank" rel="nofollow" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51b3Tt-krkL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01685VASQ/same-22/ref=nosim/" target="_blank" rel="nofollow" >FREETEL SIM for iPhone/iPad データ通信専用 nano SIM (月額299円(税抜)より)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01685VASQ/same-22/ref=nosim/" target="_blank" rel="nofollow" >FREETEL SIM for iPhone/iPad データ通信専用 nano SIM (月額299円(税抜)より)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> FREETEL     </div>
 <div class="kaerebalink-link1"></div>
@@ -67,10 +67,10 @@ comments: []
 たまたま新幹線で使う機会があったのですが、今まで使っていたau回線だったら途切れ途切れだったトンネル区間も割と快適に使えました。</p>
 <p>「安くて早い」は</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01685VASQ/same-22/ref=nosim/" target="_blank" rel="nofollow" ><img src="http://ecx.images-amazon.com/images/I/51b3Tt-krkL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01685VASQ/same-22/ref=nosim/" target="_blank" rel="nofollow" ><img src="https://images-fe.ssl-images-amazon.com/images/I/51b3Tt-krkL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01685VASQ/same-22/ref=nosim/" target="_blank" rel="nofollow" >FREETEL SIM for iPhone/iPad データ通信専用 nano SIM (月額299円(税抜)より)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01685VASQ/same-22/ref=nosim/" target="_blank" rel="nofollow" >FREETEL SIM for iPhone/iPad データ通信専用 nano SIM (月額299円(税抜)より)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> FREETEL     </div>
 <div class="kaerebalink-link1"></div>

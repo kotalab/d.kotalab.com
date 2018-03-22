@@ -37,7 +37,7 @@ iPhone5発売日に小包が届きました。@kotala_bです。<br />
 オリジナルのデザインで作ってもらえてとても嬉しかったです！<br />
 ありがとうございました！</p>
 <h2>オリジナルデザインの名刺が1枚当たり11.5円</h2>
-<p><a href="http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993#trackback-list" target="_blank"><img src="http://capture.heartrails.com/150x130?http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993#trackback-list" alt="http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993#trackback-list" width="150" height="130" align="left" /></a><a href="http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993#trackback-list" target="_blank">ブロガー名刺、送料込みで１０００円じゃすと！ - 川柳をこよなく愛する明石のタコ</a><br style="clear:both;" />表面カラー裏面白黒というデザインで100枚1500円で作って頂きました。<br />
+<p><a href="http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993#trackback-list" target="_blank"><img src="https://capture.heartrails.com/150x130?http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993#trackback-list" alt="http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993#trackback-list" width="150" height="130" align="left" /></a><a href="http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993#trackback-list" target="_blank">ブロガー名刺、送料込みで１０００円じゃすと！ - 川柳をこよなく愛する明石のタコ</a><br style="clear:both;" />表面カラー裏面白黒というデザインで100枚1500円で作って頂きました。<br />
 送料350円込みの値段なのでそれを引くと<strong>1枚当たり11.5円</strong>！<br />
 こんなに安くていいのかなと思ってしまうほどの安さです。<br />
 しかも質が悪いようなことは全くなく、デザイナーさんがデザインを作ってくれて満足のいく名刺が作れます！<br />

@@ -34,23 +34,23 @@ comments:
 RSSを一切見なくなって1週間になりました。@kotala_bです。<br />
 今までは、読みたいブログ、会ったことがある人のブログ、ライフハッカー系のサイトなどなど様々なものを登録しRSSで読んでいました。<br />
 日に日に読みたいブログや会ったことがある人のブログが増えていき、それらを読むだけでかなりの時間を費やすようになっていました。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid325502379%253Fmt%253D8%2526uo%253D4"><img src="http://a1396.phobos.apple.com/us/r1000/113/Purple/v4/1e/0f/e5/1e0fe52a-a678-c24a-557e-dcafcf8bbf9b/mzm.bvkpybrb.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid325502379%253Fmt%253D8%2526uo%253D4"><img src="http://a1396.phobos.apple.com/us/r1000/113/Purple/v4/1e/0f/e5/1e0fe52a-a678-c24a-557e-dcafcf8bbf9b/mzm.bvkpybrb.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid325502379%253Fmt%253D8%2526uo%253D4">Reeder</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid325502379%253Fmt%253D8%2526uo%253D4">Reeder</span></div>
 <div class="pochi_price" style="display:inline;">250円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.05時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fsilvio-rizzi%252Fid325502382%253Fuo%253D4">Silvio Rizzi</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fsilvio-rizzi%252Fid325502382%253Fuo%253D4">Silvio Rizzi</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder-for-ipad%252Fid375661689%253Fmt%253D8%2526uo%253D4"><img src="http://a1112.phobos.apple.com/us/r1000/068/Purple/v4/5e/9b/b9/5e9bb9ef-8ef6-f496-b692-696261cb15a0/mzm.rwdpumdo.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder-for-ipad%252Fid375661689%253Fmt%253D8%2526uo%253D4"><img src="http://a1112.phobos.apple.com/us/r1000/068/Purple/v4/5e/9b/b9/5e9bb9ef-8ef6-f496-b692-696261cb15a0/mzm.rwdpumdo.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder-for-ipad%252Fid375661689%253Fmt%253D8%2526uo%253D4">Reeder for iPad</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder-for-ipad%252Fid375661689%253Fmt%253D8%2526uo%253D4">Reeder for iPad</span></div>
 <div class="pochi_price" style="display:inline;">450円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.05時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fsilvio-rizzi%252Fid325502382%253Fuo%253D4">Silvio Rizzi</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fsilvio-rizzi%252Fid325502382%253Fuo%253D4">Silvio Rizzi</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

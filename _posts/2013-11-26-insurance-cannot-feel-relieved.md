@@ -25,7 +25,7 @@ comments: []
 今回は生命保険について。<br />
 日本は90％以上の世帯で生命保険に入ってるという、世界でも有数の生命保険加入率の高い国だそうです。</p>
 <blockquote><p>生命保険の世帯加入率(個人年金保険を含む)は90.5%<br />
-<a href="http://www.jili.or.jp/press/2012/pdf/h24_zenkoku.pdf" target="_blank">生命保険に関する 全国実態調査</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://www.jili.or.jp/press/2012/pdf/h24_zenkoku.pdf"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.jili.or.jp/press/2012/pdf/h24_zenkoku.pdf" alt="" /></span>
+<a href="http://www.jili.or.jp/press/2012/pdf/h24_zenkoku.pdf" target="_blank">生命保険に関する 全国実態調査</a><span class="removed_link" title="b.hatena.ne.jp/entry/http://www.jili.or.jp/press/2012/pdf/h24_zenkoku.pdf"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.jili.or.jp/press/2012/pdf/h24_zenkoku.pdf" alt="" /></span>
 </p></blockquote>
 <p>ところであなたが生命保険をかけるのはどんな理由ですか？<br />
 「ただなんとなく不安だから」、「保険のお姉さんが入っとけば安心と言うから」<br />
@@ -37,7 +37,7 @@ comments: []
 Wikipediaにはこう書かれていました。</p>
 <blockquote><p>
 生命保険は、一般に（出生直後などを除けば）年齢とともに高まる病気や死亡の危険を保障するための仕組み<br />
-<a href="http://ja.wikipedia.org/wiki/%E7%94%9F%E5%91%BD%E4%BF%9D%E9%99%BA#.E7.94.9F.E5.91.BD.E4.BF.9D.E9.99.BA.E8.B1.86.E7.9F.A5.E8.AD.98" target="_blank">生命保険 - Wikipedia</a><a href="http://b.hatena.ne.jp/entry/http://ja.wikipedia.org/wiki/%E7%94%9F%E5%91%BD%E4%BF%9D%E9%99%BA#.E7.94.9F.E5.91.BD.E4.BF.9D.E9.99.BA.E8.B1.86.E7.9F.A5.E8.AD.98" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://ja.wikipedia.org/wiki/%E7%94%9F%E5%91%BD%E4%BF%9D%E9%99%BA#.E7.94.9F.E5.91.BD.E4.BF.9D.E9.99.BA.E8.B1.86.E7.9F.A5.E8.AD.98" alt="" /></a>
+<a href="https://ja.wikipedia.org/wiki/%E7%94%9F%E5%91%BD%E4%BF%9D%E9%99%BA#.E7.94.9F.E5.91.BD.E4.BF.9D.E9.99.BA.E8.B1.86.E7.9F.A5.E8.AD.98" target="_blank">生命保険 - Wikipedia</a><a href="https://b.hatena.ne.jp/entry/https://ja.wikipedia.org/wiki/%E7%94%9F%E5%91%BD%E4%BF%9D%E9%99%BA#.E7.94.9F.E5.91.BD.E4.BF.9D.E9.99.BA.E8.B1.86.E7.9F.A5.E8.AD.98" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://ja.wikipedia.org/wiki/%E7%94%9F%E5%91%BD%E4%BF%9D%E9%99%BA#.E7.94.9F.E5.91.BD.E4.BF.9D.E9.99.BA.E8.B1.86.E7.9F.A5.E8.AD.98" alt="" /></a>
 </p></blockquote>
 <p>「そんなのわかってるよ」という声が聞こえてきそうですが、ほんとにわかっているでしょうか。<br />
 生命保険の本来の目的は「死亡リスクを保障すること」です。<br />
@@ -63,6 +63,6 @@ Wikipediaにはこう書かれていました。</p>
 余談ですが、日本人の平均寿命は世界一だそうです。</p>
 <blockquote><p>日本人の平均寿命は、男性が79歳、女性が86歳、男女平均が83歳。<br />
 男女の平均寿命は日本、サンマリノ、スイスの3カ国が83歳で1位。<br />
-<a href="http://memorva.jp/ranking/unfpa/who_2013_life_expectancy.php" target="_blank">平均寿命ランキング・男女国別順位 - WHO世界保健統計2013年版</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://memorva.jp/ranking/unfpa/who_2013_life_expectancy.php"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://memorva.jp/ranking/unfpa/who_2013_life_expectancy.php" alt="" /></span></p></blockquote>
+<a href="http://memorva.jp/ranking/unfpa/who_2013_life_expectancy.php" target="_blank">平均寿命ランキング・男女国別順位 - WHO世界保健統計2013年版</a><span class="removed_link" title="b.hatena.ne.jp/entry/http://memorva.jp/ranking/unfpa/who_2013_life_expectancy.php"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://memorva.jp/ranking/unfpa/who_2013_life_expectancy.php" alt="" /></span></p></blockquote>
 <p>「世界一長生きする」日本は「世界でも有数の生命保険加入率」でもある。なんかこれって不思議ですよね。<br />
 いくら必要なのかというのは別のエントリーに書きたいと思います。</p>

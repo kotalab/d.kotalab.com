@@ -25,7 +25,7 @@ comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/google-evolution-2_140416.jpg" alt="Google evolution 2 140416" title="google-evolution-2_140416.jpg" border="0" width="548" height="365" /><br />
 Googleの検索エンジンの仕組みが変わってきてるようです。<br><br />
-先週「<a href="https://kotalab.com/google-evolution" target="_blank">これからはタイトルの文字数ってそんな気にしなくてもいいのかもね</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/google-evolution" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/google-evolution" alt="" /></a>」という記事を書いきました。</p>
+先週「<a href="https://kotalab.com/google-evolution" target="_blank">これからはタイトルの文字数ってそんな気にしなくてもいいのかもね</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/google-evolution" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/google-evolution" alt="" /></a>」という記事を書いきました。</p>
 <p>その時は「キーワードが勝手に分けられて表示されてる」ってことを書いたんですが、今回はまた違った検索結果が表示されてることに気づきました。<br />
 <span class="b">同じキーワードで検索しても表示順位が変わった</span>のです</p>
 <p>僕がただ単に知らなかっただけなのか、最近の新しい表示結果なのかはわかりません。<br />

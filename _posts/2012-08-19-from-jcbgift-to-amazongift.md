@@ -24,7 +24,7 @@ comments: []
 amazonギフト券を初めて買いました。@kotala_bです。<br />
 <a href="https://kotalab.com/softbank-welcome-norikae" title="【SoftBank】のりかえ割とかえとくキャンペーン合わせて2年間基本料無料！" target="_blank">つい先日申し込んだかえとくキャンペーン</a>の特典、JCBギフトカード1万円分が届きました。<br />
 このJCBギフトカードを使ってサンクスでamazonギフト券を買ってみました。<br />
-参考：<a href="http://www.lifehacker.jp/2012/07/120709amazongiftcard.html" target="_blank">商品券をAmazonギフト券に交換する方法 : ライフハッカー［日本版］</a><br />
+参考：<a href="https://www.lifehacker.jp/2012/07/120709amazongiftcard.html" target="_blank">商品券をAmazonギフト券に交換する方法 : ライフハッカー［日本版］</a><br />
 <!--more--></p>
 <h2>店員さんに確認</h2>
 <p>限られた店舗でしか使えないJCBギフトカードですが、使える店舗の中にサークルKサンクスが含まれています。<br />

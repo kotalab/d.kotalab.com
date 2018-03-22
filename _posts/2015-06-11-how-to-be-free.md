@@ -40,7 +40,7 @@ comments: []
 たとえ失敗してもそれを失敗で終わらせないようにすることが大切なのでしょう。</p>
 <h2>3.周りに流されない</h2>
 <blockquote><p>一般人としては飛び抜けたレベルにまで趣味をきわめていくことで、徐々に「趣味がお金を生む」という、夢のような世界への入口が開くことになるのです。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank">サラリーマンだけが知らない好きなことだけして食っていくための29の方法</a></p>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank">サラリーマンだけが知らない好きなことだけして食っていくための29の方法</a></p>
 </blockquote>
 <p>普通のサラリーマンが、自分の好きなことで食べていく普通じゃない人になるには、他の人と違う何かを持っていなければいけません。</p>
 <p>ただそこで難しく考える必要はありません。</p>
@@ -52,15 +52,15 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="
 <p>さらに頭一つ飛びぬけるには、<strong>自分だけのユニークな部分を強みに変えていく</strong>必要があるのかもしれません。</p>
 <p>常に学びを忘れずに自分だけの強みを深めよう！</p>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51PEyMORgNL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51PEyMORgNL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank">サラリーマンだけが知らない好きなことだけして食っていくための29の方法[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="nofollow" target="_blank">サラリーマンだけが知らない好きなことだけして食っていくための29の方法[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">立花岳志 大和書房 2014-06-27    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00L8GABLS/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4479794298/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00L8GABLS/same-22/" rel="nofollow" target="_blank">Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4479794298/same-22/" rel="nofollow" target="_blank">Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

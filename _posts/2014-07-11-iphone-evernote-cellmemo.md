@@ -51,7 +51,7 @@ comments: []
 <h3>自分が使いたいアプリを作りたい</h3>
 <p><img src="https://kotalab.com/wp-content/uploads/iphone-evernote-cellmemo_140711-546x364.jpg" alt="iphone-evernote-cellmemo_140711" width="546" height="364" class="alignnone size-large wp-image-13323" /></p>
 <blockquote><p>CellMemoは「自分が使いたいEvernoteアプリ」として開発し、リリースしました。<br />
-via:<span class="removed_link" title="http://egg-is-world.com/archives/1004900108.html">Evernoteに写真を含んだメモを取れるiPhoneアプリ「CellMemo」をリリースしました : 卵は世界である</span></p></blockquote>
+via:<span class="removed_link" title="egg-is-world.com/archives/1004900108.html">Evernoteに写真を含んだメモを取れるiPhoneアプリ「CellMemo」をリリースしました : 卵は世界である</span></p></blockquote>
 <p>とCellMemo開発者のあきおさん(<a href="https://twitter.com/akio0911/" target="_blank">@akio0911</a>)が言っていました。</p>
 <p>僕も自分で使いたいEvernoteと連携するアプリがあるので、少しずつ作り始めています。<br />
 早く完成させたいなー！</p>

@@ -32,13 +32,13 @@ comments: []
 iPhone5と同時にMacの純正アプリが導入され、その完成度はAppStoreさえも他社アプリをオススメするほどの低さでした。<br />
 <strong>GoogleMapの登場を今か今かと待ち続け、ついに登場しました！</strong><br />
 早速ダウンロードしてみたので紹介していきます！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgoogle-maps%252Fid585027354%253Fmt%253D8%2526uo%253D4"><img src="http://a456.phobos.apple.com/us/r30/Purple/v4/04/68/87/04688702-4979-9d54-cc3c-20c76223f049/mzl.qobqfuxq.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgoogle-maps%252Fid585027354%253Fmt%253D8%2526uo%253D4"><img src="http://a456.phobos.apple.com/us/r30/Purple/v4/04/68/87/04688702-4979-9d54-cc3c-20c76223f049/mzl.qobqfuxq.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgoogle-maps%252Fid585027354%253Fmt%253D8%2526uo%253D4">Google Maps</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgoogle-maps%252Fid585027354%253Fmt%253D8%2526uo%253D4">Google Maps</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.13時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgoogle-inc.%252Fid281956209%253Fuo%253D4">Google, Inc.</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgoogle-inc.%252Fid281956209%253Fuo%253D4">Google, Inc.</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -78,33 +78,33 @@ GoogleアカウントのIDとパスワードを入れたらもう使えます！
 早速Seeqに登録しておきました！<br />
 <strong>Seeqでは「googlemaps://search?q=<em>Q</em>」とすることでGooglemaps内で検索が可能です！</strong><br />
 GoogleMapsオススメです！無料なので是非ダウンロードして使ってみてください！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgoogle-maps%252Fid585027354%253Fmt%253D8%2526uo%253D4"><img src="http://a456.phobos.apple.com/us/r30/Purple/v4/04/68/87/04688702-4979-9d54-cc3c-20c76223f049/mzl.qobqfuxq.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgoogle-maps%252Fid585027354%253Fmt%253D8%2526uo%253D4"><img src="http://a456.phobos.apple.com/us/r30/Purple/v4/04/68/87/04688702-4979-9d54-cc3c-20c76223f049/mzl.qobqfuxq.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgoogle-maps%252Fid585027354%253Fmt%253D8%2526uo%253D4">Google Maps</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgoogle-maps%252Fid585027354%253Fmt%253D8%2526uo%253D4">Google Maps</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.13時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgoogle-inc.%252Fid281956209%253Fuo%253D4">Google, Inc.</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgoogle-inc.%252Fid281956209%253Fuo%253D4">Google, Inc.</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a915.phobos.apple.com/us/r1000/090/Purple/v4/71/ea/ca/71eaca6a-ff2f-9ce5-3f3f-816f1a1d6d0e/mzl.bgvgozcg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a915.phobos.apple.com/us/r1000/090/Purple/v4/71/ea/ca/71eaca6a-ff2f-9ce5-3f3f-816f1a1d6d0e/mzl.bgvgozcg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.12.13時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <hr>
 <p>このアプリを使って更新しました！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1.mzstatic.com/us/r1000/065/Purple/v4/4c/c6/a8/4cc6a855-cc5c-34ed-0436-36e219eafb81/mzl.xejvrijs.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1.mzstatic.com/us/r1000/065/Purple/v4/4c/c6/a8/4cc6a855-cc5c-34ed-0436-36e219eafb81/mzl.xejvrijs.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iPhone</span></div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" target="_blank">ポチレバ</a></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4">するぷろ for iPhone</span></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fgachatech%252Fid358731102%253Fuo%253D4">Gachatech</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com" target="_blank">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

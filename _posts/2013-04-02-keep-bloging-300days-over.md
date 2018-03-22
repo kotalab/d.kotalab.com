@@ -56,16 +56,16 @@ RSSやTwitter、Gunosyから気になったことを見つける他に、食べ�
 <p>毎日ブログを書けないというのは結局のところ「書かないという選択をしているから」です。<br />
 書くのも書かないのも自分の意思次第。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479793631/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41fOesLivPL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479793631/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41fOesLivPL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479793631/same-22/" rel="nofollow" name="booklink" target="_blank">スタンフォードの自分を変える教室</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479793631/same-22/" rel="nofollow" name="booklink" target="_blank">スタンフォードの自分を変える教室</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px;">ケリー・マクゴニガル 大和書房 2012-10-20    </div>
 <div class="booklink-link2" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479793631/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=%83X%83%5E%83%93%83t%83H%81%5B%83h%82%CC%8E%A9%95%AA%82%F0%95%CF%82%A6%82%E9%8B%B3%8E%BA&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://hb.afl.rakuten.co.jp/hgc/0fac4537.dbf8529f.0fac4538.a4466d9e/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12056267%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479793631/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=%83X%83%5E%83%93%83t%83H%81%5B%83h%82%CC%8E%A9%95%AA%82%F0%95%CF%82%A6%82%E9%8B%B3%8E%BA&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://hb.afl.rakuten.co.jp/hgc/0fac4537.dbf8529f.0fac4538.a4466d9e/?pc=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12056267%2F%3Fscid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2Fev%2Fbook%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>

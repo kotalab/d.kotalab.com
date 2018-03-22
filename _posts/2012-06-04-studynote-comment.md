@@ -21,11 +21,11 @@ comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/comment_1206041.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/comment_1206041.jpg" alt="" title="comment_120604" width="400" height="300" class="alignnone size-full wp-image-1242" /></a><br />
 初めてのコメントが届きました！@kotala_bです。<br />
-なんと初コメントを<a href="http://studynote.jp" target="_blank">Studynote</a>運営会社代表の廣瀬さん(@cshiroseさん)から頂きました！<br />
+なんと初コメントをStudynote運営会社代表の廣瀬さん(@cshiroseさん)から頂きました！<br />
 <!--more--></p>
 <h2>感無量！！</h2>
 <p>初めてコメントを頂き、ブログを誰かに読んで貰っているという実感と初めてコメントを貰ったことの喜びとで胸がいっぱいになりました！まさに感無量とはこのこと！！<br />
-これが<a href="http://studynote.jp" target="_blank">Studynote</a>運営会社代表の廣瀬さんからというのがまた驚きです！<br />
+これがStudynote運営会社代表の廣瀬さんからというのがまた驚きです！<br />
 まだ始めて1ヶ月も経たないブログを見に来て頂いてありがとうございます！</p>
 <h2>フル機能版のリリース！</h2>
 <p>コメントを頂いたこともそうですがコメントの内容にも驚きました！<br />

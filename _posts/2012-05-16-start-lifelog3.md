@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 84
-wordpress_url: http://kotala.wordpress.com/?p=84
+wordpress_url: https://kotala.wordpress.com/?p=84
 date: '2012-05-16 14:22:09 +0900'
 date_gmt: '2012-05-16 05:22:09 +0900'
 category:
@@ -28,7 +28,7 @@ comments:
 <p>ライフログを取ることで習慣が続くようになった@kotala_bです。<br />
 なかなか続けられなかった勉強も今では毎日続けられています。<br />
 そんな僕が続けられてる理由が勉強を記録出来るwebサービス「Sutdynote」の存在です。<br />
-<a href="http://studynote.jp/" target="_blank"><img title="勉強が楽しく続くSNS - Studynote（スタディノート）" src="http://capture.heartrails.com/150x130/shadow?http://studynote.jp/" alt="http://studynote.jp/" width="150" height="130" align="left" /></a><a href="http://studynote.jp/" target="_blank">勉強が楽しく続くSNS - Studynote（スタディノート）</a><br />
+<a href="http://studynote.jp/" target="_blank"><img title="勉強が楽しく続くSNS - Studynote（スタディノート）" src="https://capture.heartrails.com/150x130/shadow?http://studynote.jp/" alt="http://studynote.jp/" width="150" height="130" align="left" /></a><a href="http://studynote.jp/" target="_blank">勉強が楽しく続くSNS - Studynote（スタディノート）</a><br />
 勉強で成果を出すには､｢勉強の継続｣が不可欠です｡スタディノートは､誰でも楽しく勉強が継続できる 新しいソーシャルラーニングサービスです<br />
 <br style="clear:both;" /><br />
 <!--more--></p>

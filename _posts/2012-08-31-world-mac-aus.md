@@ -24,7 +24,7 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" alt="" title="legrand_120718_02" width="448" height="336" class="alignnone size-full wp-image-1539" /></a><br />
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/6914750483.html" target="_blank">Enseigne McDonald&rsquo;s</a> / zigazou76</span><br />
 チーズオージーデリを食べました。@kotala_bです。<br />
-<a href="https://kotalab.com/world-mac-aus2" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/world-mac-aus2" alt="https://kotalab.com/archives/2395" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-aus2" target="_blank">世界の★★★マック第3弾！オージーデリがいよいよ明日新登場！ゴールドマサラは今日(8/30)まで！ | kotala's note</a><br style="clear:both;" />今日から始まった「<strong>世界の★★★マック</strong>」第3弾のオーストラリア・チーズオージーデリ。<br />
+<a href="https://kotalab.com/world-mac-aus2" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/world-mac-aus2" alt="https://kotalab.com/archives/2395" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-aus2" target="_blank">世界の★★★マック第3弾！オージーデリがいよいよ明日新登場！ゴールドマサラは今日(8/30)まで！ | kotala's note</a><br style="clear:both;" />今日から始まった「<strong>世界の★★★マック</strong>」第3弾のオーストラリア・チーズオージーデリ。<br />
 朝マック時間帯から販売中ということで、今朝早速食べました！<br />
 <!--more--></p>
 <h2>チーズオージーデリを食べてみた！</h2>

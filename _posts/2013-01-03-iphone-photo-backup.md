@@ -40,19 +40,19 @@ iPhoneのカメラロールは定期的に整理しています。@kotala_bで�
 <p>まずはカメラロールの写真をバックアップを兼ねて他の場所へ保存します。<br />
 せっかく撮った写真です、いらないと思ってもまたいつか見たい日が来るかもしれません。<br />
 すぐに削除するのは勿体ないので別の場所へ保存します。<br />
-保存先の候補としてPCのHDD、<a href="http://evernote.com/intl/jp/" target="_blank">Evernote</a>や<a href="http://db.tt/BXcySQmO" title="Dropbox" target="_blank">Dropbox</a>のようなクラウドサービスがあります。<br />
-クラウドサービスの中には<a href="http://picasa.google.com" title="Picasa" target="_blank">Picasa</a>や<a href="http://www.flickr.com" title="fkickr" target="_blank">Flickr</a>のような写真に特化したもありますので、お好みで保存先を決めましょう。<br />
+保存先の候補としてPCのHDD、<a href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>や<a href="https://db.tt/BXcySQmO" title="Dropbox" target="_blank">Dropbox</a>のようなクラウドサービスがあります。<br />
+クラウドサービスの中には<a href="http://picasa.google.com" title="Picasa" target="_blank">Picasa</a>や<a href="https://www.flickr.com" title="fkickr" target="_blank">Flickr</a>のような写真に特化したもありますので、お好みで保存先を決めましょう。<br />
 <strong>僕は外付けHDDとPicasaそしてEvernoteの3ヶ所に写真を保存しています。</strong></p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00620LXOO/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31OkiqknN1L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00620LXOO/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31OkiqknN1L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00620LXOO/same-22/ref=nosim/" rel="nofollow" target="_blank">BUFFALO USB3.0用 【Wii U動作確認済み】 外付けハードディスク 2TB HD-LB2.0TU3J</a>
-<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://kaereba.com" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00620LXOO/same-22/ref=nosim/" rel="nofollow" target="_blank">BUFFALO USB3.0用 【Wii U動作確認済み】 外付けハードディスク 2TB HD-LB2.0TU3J</a>
+<div class="kaerebalink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://kaereba.com" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail" style="margin-bottom:5px;"> バッファロー 2011-11-26    </div>
 <div class="kaerebalink-link1" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/gp/search?keywords=USB3.0%20HD-LB2.0TU3J&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_k_01.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUSB3.0%2520HD-LB2.0TU3J%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/gp/search?keywords=USB3.0%20HD-LB2.0TU3J&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkrakuten" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_k_01.gif') 0 -50px no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://hb.afl.rakuten.co.jp/hgc/0fa7afc8.bbfc196a.0fa7afc9.d56c38f1/?pc=http%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUSB3.0%2520HD-LB2.0TU3J%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F" rel="nofollow" target="_blank" title="楽天市場" >楽天市場</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
@@ -119,13 +119,13 @@ SuperAlbumというアプリで僕はPicasaの写真を見ています。<br />
 ・Tumblr<br />
 ・TwitPic<br />
 ・500px</p></blockquote>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fxie-zhen-guan-li-superalbum%252Fid474978531%253Fmt%253D8%2526uo%253D4"><img src="http://a983.phobos.apple.com/us/r1000/069/Purple/v4/32/64/f0/3264f083-aa40-1fd4-a8e4-7c113e22a8e9/mzl.yjpspdqo.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fxie-zhen-guan-li-superalbum%252Fid474978531%253Fmt%253D8%2526uo%253D4"><img src="http://a983.phobos.apple.com/us/r1000/069/Purple/v4/32/64/f0/3264f083-aa40-1fd4-a8e4-7c113e22a8e9/mzl.yjpspdqo.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fxie-zhen-guan-li-superalbum%252Fid474978531%253Fmt%253D8%2526uo%253D4">写真管理 SuperAlbum</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fxie-zhen-guan-li-superalbum%252Fid474978531%253Fmt%253D8%2526uo%253D4">写真管理 SuperAlbum</span></div>
 <div class="pochi_price" style="display:inline;">250円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.01.03時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fart-mobile%252Fid288895705%253Fuo%253D4">Art & Mobile</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fart-mobile%252Fid288895705%253Fuo%253D4">Art & Mobile</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

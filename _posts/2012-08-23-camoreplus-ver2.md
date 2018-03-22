@@ -27,20 +27,20 @@ comments: []
 Camore+の新しいアイコンが好きです。@kotala_bです。<br />
 Camera+と他のアプリとの連携が強化されるアプリCamore+がアップデートされました！<br />
 <!--more--></p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4"><img src="http://a3.mzstatic.com/us/r1000/077/Purple/v4/73/ef/96/73ef96af-7476-dbdc-5e75-9af1a1141e20/mza_3185481238071127193.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4"><img src="http://a3.mzstatic.com/us/r1000/077/Purple/v4/73/ef/96/73ef96af-7476-dbdc-5e75-9af1a1141e20/mza_3185481238071127193.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4">Camore+ for Camera+</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4">Camore+ for Camera+</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.08.23時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Frivawan%252Fid406318338%253Fuo%253D4">Rivawan</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Frivawan%252Fid406318338%253Fuo%253D4">Rivawan</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>Camore+2.0アップデート内容</h2>
 <p>アップデート内容は開発者である@rivawanさんのブログに詳しく書いてあります。<br />
-<a href="http://rivawan.com/archives/2072" target="_blank"><img src="http://capture.heartrails.com/150x130?http://rivawan.com/archives/2072" alt="http://rivawan.com/archives/2072" width="150" height="130" align="left" /></a><a href="http://rivawan.com/archives/2072" target="_blank">Camore+がバージョン2.0にアップデート！アイコン変更や通知センターからの起動などを搭載。 : Rivawan</a><br style="clear:both;" /><br />
-<a href="http://rivawan.com/archives/2084" target="_blank"><img src="http://capture.heartrails.com/150x130?http://rivawan.com/archives/2084" alt="http://rivawan.com/archives/2084" width="150" height="130" align="left" /></a><a href="http://rivawan.com/archives/2084" target="_blank">通知センターなどから画像の受け渡しの流れを自動化できるCamore+のショートカット作成機能について : Rivawan</a><br style="clear:both;" />アップデートの内容で1番気に入ったのはアイコンの変更、2番目はOneCamの起動に対応したことでした。</p>
+<a href="http://rivawan.com/archives/2072" target="_blank"><img src="https://capture.heartrails.com/150x130?http://rivawan.com/archives/2072" alt="http://rivawan.com/archives/2072" width="150" height="130" align="left" /></a><a href="http://rivawan.com/archives/2072" target="_blank">Camore+がバージョン2.0にアップデート！アイコン変更や通知センターからの起動などを搭載。 : Rivawan</a><br style="clear:both;" /><br />
+<a href="http://rivawan.com/archives/2084" target="_blank"><img src="https://capture.heartrails.com/150x130?http://rivawan.com/archives/2084" alt="http://rivawan.com/archives/2084" width="150" height="130" align="left" /></a><a href="http://rivawan.com/archives/2084" target="_blank">通知センターなどから画像の受け渡しの流れを自動化できるCamore+のショートカット作成機能について : Rivawan</a><br style="clear:both;" />アップデートの内容で1番気に入ったのはアイコンの変更、2番目はOneCamの起動に対応したことでした。</p>
 <h2>アイコンがいい！</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/camore_120823.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/camore_120823.png" alt="" title="camore_120823" width="150" height="150" class="alignnone size-full wp-image-2263" /></a><br />
 なんといってもこのアイコンです！<br />
@@ -62,13 +62,13 @@ Camera+と他のアプリとの連携が強化されるアプリCamore+がアッ
 <h2>まとめ</h2>
 <p>僕は普段CneCamで食事の写真を撮ることが多いので、起動時のカメラ選択がとても気に入りました！<br />
 これでメシログが捗ること間違いなし！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4"><img src="http://a3.mzstatic.com/us/r1000/077/Purple/v4/73/ef/96/73ef96af-7476-dbdc-5e75-9af1a1141e20/mza_3185481238071127193.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4"><img src="http://a3.mzstatic.com/us/r1000/077/Purple/v4/73/ef/96/73ef96af-7476-dbdc-5e75-9af1a1141e20/mza_3185481238071127193.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4">Camore+ for Camera+</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4">Camore+ for Camera+</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2012.08.23時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Frivawan%252Fid406318338%253Fuo%253D4">Rivawan</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com" target="_blank">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Frivawan%252Fid406318338%253Fuo%253D4">Rivawan</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com" target="_blank">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

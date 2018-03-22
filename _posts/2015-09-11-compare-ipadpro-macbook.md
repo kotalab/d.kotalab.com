@@ -22,7 +22,7 @@ tags:
 comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911.png" alt="Compare ipadpro macbook 20150911" width="780" height ="405" class="aligncenter size-large" /><br />
-<span style="font-size:14px;">via:<a href="http://www.apple.com/jp/ipad/" target="_blank">http://www.apple.com/jp/ipad/</a></span></p>
+<span style="font-size:14px;">via:<a href="https://www.apple.com/jp/ipad/" target="_blank">https://www.apple.com/jp/ipad/</a></span></p>
 <p>日本時間の9月10日午前2時すぎ開催されたAppleのイベント「September Event2015」でiPadの新型、iPad Proが発表されました。</p>
 <p>11月発売予定のiPad Proは12.9インチのRetinaディスプレイを搭載し、iPad Air2の2倍近いCPUパフォーマンスだそうです。</p>
 <p>iPad Proが発表されて気になったのは、半年くらい前に発売されたばかりのMacBookとの違いです。<br />
@@ -73,7 +73,7 @@ comments: []
 <p>iPad Proの方はApplePencilとSmartKeyboardが別売りなので、セットでプラス30,000円くらいはみといた方がよさそうです。</p>
 <h2>ストレージ容量で選ぶならMacBook</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_03.png" alt="Compare ipadpro macbook 20150911 03" width="780" height ="481" class="aligncenter size-large" /><br />
-<span style="font-size:14px;">via:<a href="http://www.apple.com/jp/macbook/" target="_blank">http://www.apple.com/jp/macbook/</a></span></p>
+<span style="font-size:14px;">via:<a href="https://www.apple.com/jp/macbook/" target="_blank">https://www.apple.com/jp/macbook/</a></span></p>
 <table class="ipadpro">
 <thead>
 <tr>
@@ -186,7 +186,7 @@ comments: []
 <p>MacBookにはどれもありません。</p>
 <h2>カメラで選ぶならiPad Pro</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_04.png" alt="Compare ipadpro macbook 20150911 04" width="780" height ="440" class="aligncenter size-large" /><br />
-<span style="font-size:14px;">via:<a href="http://www.apple.com/jp/ipad/" target="_blank">http://www.apple.com/jp/ipad/</a></span></p>
+<span style="font-size:14px;">via:<a href="https://www.apple.com/jp/ipad/" target="_blank">https://www.apple.com/jp/ipad/</a></span></p>
 <p>iPad Proには1200万画素の背面カメラに800万画素の前面カメラがついています。<br />
 バーストモードやパノラマ撮影、動画撮影ができるのはiPad Proだけ。</p>
 <p>MacBookにはFaceTimeカメラだけです。</p>
@@ -198,7 +198,7 @@ comments: []
 マウスでカーソルを動かせるのはMacBookです。</p>
 <h2>キーボードで選ぶと迷う</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_02.png" alt="Compare ipadpro macbook 20150911 02" width="780" height ="364" class="aligncenter size-large" /><br />
-<span style="font-size:14px;">via:<a href="http://www.apple.com/jp/ipad/" target="_blank">http://www.apple.com/jp/ipad/</a></span></p>
+<span style="font-size:14px;">via:<a href="https://www.apple.com/jp/ipad/" target="_blank">https://www.apple.com/jp/ipad/</a></span></p>
 <table class="ipadpro">
 <thead>
 <tr>
@@ -223,7 +223,7 @@ comments: []
 キーボードは実際に触って確かめるのが一番かもしれません。</p>
 <h2>Apple Pencilが使えるのはiPad Pro</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_01.png" alt="Compare ipadpro macbook 20150911 01" width="780" height ="560" class="aligncenter size-large" /><br />
-<span style="font-size:14px;">via:<a href="http://www.apple.com/jp/ipad/" target="_blank">http://www.apple.com/jp/ipad/</a></span></p>
+<span style="font-size:14px;">via:<a href="https://www.apple.com/jp/ipad/" target="_blank">https://www.apple.com/jp/ipad/</a></span></p>
 <p>iPad Proなら専用のApple Pencilが使えます。</p>
 <p>Apple Pencilの凄さはこの2分ちょっとの動画を見てもらえれば分かると思います。<br />
 <a href="http://images.apple.com/media/jp/ipad-pro/2015/7d9c7133-1f96-46ef-b8a7-bb968f96cd34/films/pencil/ipad-pro-pencil-jp-20150909_r848-9dwc.mov">動画を見る</a></p>

@@ -37,13 +37,13 @@ comments:
     Androidに入ったおサイフケータイのデータを初期化するには、各キャリアショップへ持って行ってやってもらうしかないようです。
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/androidreset_120820.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/androidreset_120820.jpg" alt="" title="androidreset_120820" width="448" height="336" class="alignnone size-full wp-image-2205" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/jesseyvette/5752137437/" target="_blank">It is time to Reset the System!</a> / yvetteSoler</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/jesseyvette/5752137437/" target="_blank">It is time to Reset the System!</a> / yvetteSoler</span><br />
 androidを初期化しました。@kotala_bです。<br />
 友人・知人に譲りたいbookoffに売りたいなど、使わなくなったandroidを手放す時に必ずやっておきたいandroidの初期化をご紹介します。<br />
 <!--more--></p>
 <h2>androidを初期化する方法</h2>
 <p>参考にしたのはコチラです。<br />
-<a href="http://howcollect.jp/article/1806" target="_blank"><img src="http://capture.heartrails.com/150x130?http://howcollect.jp/article/1806" alt="http://howcollect.jp/article/1806" width="150" height="130" align="left" /></a><a href="http://howcollect.jp/article/1806" target="_blank">Androidを初期化する方法 | ハウコレ</a><br style="clear:both;" /><br />
+<a href="http://howcollect.jp/article/1806" target="_blank"><img src="https://capture.heartrails.com/150x130?http://howcollect.jp/article/1806" alt="http://howcollect.jp/article/1806" width="150" height="130" align="left" /></a><a href="http://howcollect.jp/article/1806" target="_blank">Androidを初期化する方法 | ハウコレ</a><br style="clear:both;" /><br />
 突然のフリーズや再起動しても動作が正常に戻らないといったトラブルの対処にも役立つようです。</p>
 <h2>実際にandroidを初期化してみた</h2>
 <p>手順はとても簡単です。<br />

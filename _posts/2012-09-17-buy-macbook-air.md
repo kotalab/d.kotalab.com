@@ -22,7 +22,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/macbookair_120917.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/macbookair_120917.jpg" alt="" title="macbookair_120917" width="448" height="299" class="alignnone size-full wp-image-2790" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/67088558@N05/6339421190/" target="_blank">Sunrise, reflected in the West</a> / Calm Vistas</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/67088558@N05/6339421190/" target="_blank">Sunrise, reflected in the West</a> / Calm Vistas</span><br />
 4年半程前に買ったデスクトップPCを使ってます。@kotala_bです。<br />
 突然電源がつかなくなったりグラボが壊れたりと色々なことがありながらも、4年以上使ってきました。<br />
 そんなデスクトップPCですが1ヶ月くらい前から勝手に再起動がかかったりしていました。<br />

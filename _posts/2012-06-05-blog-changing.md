@@ -19,9 +19,9 @@ tags: []
 comments: []
 ---
 <p>ブログ移転しました！@kotala_bです！<br />
-<span style="font-size:10px;"><a href="https://kotalab.com/wp-content/uploads/change_120605.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/change_120605.jpg" alt="Victoria is changing"　width="400" height="300" /></a><br /><a href="http://www.flickr.com/photos/victoriapeckham/1346099385/" target="_blank">Victoria is changing</a> / victoriapeckham</span></p>
+<span style="font-size:10px;"><a href="https://kotalab.com/wp-content/uploads/change_120605.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/change_120605.jpg" alt="Victoria is changing"　width="400" height="300" /></a><br /><a href="https://www.flickr.com/photos/victoriapeckham/1346099385/" target="_blank">Victoria is changing</a> / victoriapeckham</span></p>
 <p>URL：<a href="https://kotalab.com/" title="https://kotalab.com/" target="_blank">https://kotalab.com/</a><br />
-RSS：<a href="http://feeds.feedburner.com/kotalab/hUrZ" title="http://feeds.feedburner.com/kotalab/hUrZ" target="_blank">http://feeds.feedburner.com/kotalab/hUrZ</a></p>
+RSS：<a href="https://feeds.feedburner.com/kotalab/hUrZ" title="https://feeds.feedburner.com/kotalab/hUrZ" target="_blank">https://feeds.feedburner.com/kotalab/hUrZ</a></p>
 <p>お手数ですが、RSSとブックマークの再登録をお願いします！<br />
 <!--more--></p>
 <h2>これからもよろしくお願いします</h2>

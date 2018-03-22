@@ -58,10 +58,10 @@ via:<a href="http://allabout.co.jp/newsdig/c/77944/2/" target="_blank">自転車
 <p>なんでもそうですが使い方を間違えれば危険です。<br />
 iPhoneは清く正しく使いましょう！</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00S0CO4HK/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41oF8u%2B6UGL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00S0CO4HK/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41oF8u%2B6UGL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00S0CO4HK/same-22/ref=nosim/" rel="nofollow" target="_blank">ロードバイクiPhone6プラス トップチューブバッグ（iPhone6 Plus専用版） (ブラック)</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00S0CO4HK/same-22/ref=nosim/" rel="nofollow" target="_blank">ロードバイクiPhone6プラス トップチューブバッグ（iPhone6 Plus専用版） (ブラック)</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> ReUdo     </div>
 <div class="kaerebalink-link1"></div>

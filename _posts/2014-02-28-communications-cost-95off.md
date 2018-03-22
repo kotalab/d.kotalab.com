@@ -98,17 +98,17 @@ LINEを使ってる人なら登録などの初期設定なしで使えるよう�
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/best-timing-when-buy-commuter-pass"><img src="https://kotalab.com/wp-content/uploads/best-timing-when-buy-commuter-pass_140226-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/best-timing-when-buy-commuter-pass">消費税増税前に定期券を買うベストタイミング！？定期券をいつ買えばいいかを調べてみた！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/best-timing-when-buy-commuter-pass" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/best-timing-when-buy-commuter-pass" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/best-timing-when-buy-commuter-pass">消費税増税前に定期券を買うベストタイミング！？定期券をいつ買えばいいかを調べてみた！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/best-timing-when-buy-commuter-pass" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/best-timing-when-buy-commuter-pass" alt="" /></a></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/train-fare-rise-in-price"><img src="https://kotalab.com/wp-content/uploads/trainfareriseinprice_131221_01-546x364.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/train-fare-rise-in-price">消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/train-fare-rise-in-price"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/train-fare-rise-in-price" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/train-fare-rise-in-price">消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/train-fare-rise-in-price"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/train-fare-rise-in-price" alt="" /></span></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/costco-item-before-tax-up"><img src="https://kotalab.com/wp-content/uploads/costco-item-before-tax-up_20140203_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/costco-item-before-tax-up">消費税増税前に買い込むならこれだ！コストコでオススメの5つのアイテム！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/costco-item-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/costco-item-before-tax-up" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/costco-item-before-tax-up">消費税増税前に買い込むならこれだ！コストコでオススメの5つのアイテム！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/costco-item-before-tax-up" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/costco-item-before-tax-up" alt="" /></a></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/how-to-buy-smartphone-before-tax-up"><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_08-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/how-to-buy-smartphone-before-tax-up">消費税増税前にスマホ買い換えますか？お得な買い替え方をご紹介！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/how-to-buy-smartphone-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/how-to-buy-smartphone-before-tax-up" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/how-to-buy-smartphone-before-tax-up">消費税増税前にスマホ買い換えますか？お得な買い替え方をご紹介！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/how-to-buy-smartphone-before-tax-up" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/how-to-buy-smartphone-before-tax-up" alt="" /></a></div>
 </div>

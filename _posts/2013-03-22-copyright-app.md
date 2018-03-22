@@ -34,13 +34,13 @@ iPhoneやiPadにはこのcopyright表示を簡単に画像につけるアプリ�
 <h2>Reduce</h2>
 <p>Reduceというアプリは画像のファイルサイズを小さくするための画像編集アプリです。<br />
 このアプリの機能で簡単に画像内に文字を挿入出来るのです。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freduce-batch-resize-images%252Fid580474806%253Fmt%253D8%2526uo%253D4"><img src="http://a1180.phobos.apple.com/us/r1000/088/Purple/v4/d1/7d/af/d17dafe0-ef47-9d0d-b6e5-91cc38dc4d87/mzl.krfksjdm.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freduce-batch-resize-images%252Fid580474806%253Fmt%253D8%2526uo%253D4"><img src="http://a1180.phobos.apple.com/us/r1000/088/Purple/v4/d1/7d/af/d17dafe0-ef47-9d0d-b6e5-91cc38dc4d87/mzl.krfksjdm.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freduce-batch-resize-images%252Fid580474806%253Fmt%253D8%2526uo%253D4">Reduce - Batch Resize Images and Photos for iPhone &amp; iPad</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freduce-batch-resize-images%252Fid580474806%253Fmt%253D8%2526uo%253D4">Reduce - Batch Resize Images and Photos for iPhone &amp; iPad</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.03.22時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ftobias-wiedenmann%252Fid344803176%253Fuo%253D4">Tobias Wiedenmann</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ftobias-wiedenmann%252Fid344803176%253Fuo%253D4">Tobias Wiedenmann</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -68,13 +68,13 @@ copyright表示がついた画像の出来上がりです！<br />
 ▼画像をダブルタップすることで全ての画像が選択されます。<br />
 <img src="https://kotalab.com/wp-content/uploads/reduse_130322_06-300x513.jpg" alt="reduse_130322_06" width="300" height="513" class="alignnone size-medium wp-image-6577" /><br />
 これならcopyright表示をつけたい画像がたくさんあっても一発で出来るのでとっても簡単です！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freduce-batch-resize-images%252Fid580474806%253Fmt%253D8%2526uo%253D4"><img src="http://a1180.phobos.apple.com/us/r1000/088/Purple/v4/d1/7d/af/d17dafe0-ef47-9d0d-b6e5-91cc38dc4d87/mzl.krfksjdm.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freduce-batch-resize-images%252Fid580474806%253Fmt%253D8%2526uo%253D4"><img src="http://a1180.phobos.apple.com/us/r1000/088/Purple/v4/d1/7d/af/d17dafe0-ef47-9d0d-b6e5-91cc38dc4d87/mzl.krfksjdm.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freduce-batch-resize-images%252Fid580474806%253Fmt%253D8%2526uo%253D4">Reduce - Batch Resize Images and Photos for iPhone &amp; iPad</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freduce-batch-resize-images%252Fid580474806%253Fmt%253D8%2526uo%253D4">Reduce - Batch Resize Images and Photos for iPhone &amp; iPad</span></div>
 <div class="pochi_price" style="display:inline;">170円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.03.22時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ftobias-wiedenmann%252Fid344803176%253Fuo%253D4">Tobias Wiedenmann</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ftobias-wiedenmann%252Fid344803176%253Fuo%253D4">Tobias Wiedenmann</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -82,13 +82,13 @@ copyright表示がついた画像の出来上がりです！<br />
 <p>画像のファイルサイズを小さくするアプリとして便利なReduce！<br />
 copyright表示を画像につけるためだけに使う使い方もオススメです！<br />
 ▼画像フォルダに自動で振り分けるならこのアプリがオススメ！</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsumatoarubamu%252Fid566956835%253Fmt%253D8%2526uo%253D4"><img src="http://a1623.phobos.apple.com/us/r1000/074/Purple2/v4/0e/68/34/0e6834ec-e7d6-51f1-f739-32af3aafb80b/mzl.ratejqto.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsumatoarubamu%252Fid566956835%253Fmt%253D8%2526uo%253D4"><img src="http://a1623.phobos.apple.com/us/r1000/074/Purple2/v4/0e/68/34/0e6834ec-e7d6-51f1-f739-32af3aafb80b/mzl.ratejqto.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsumatoarubamu%252Fid566956835%253Fmt%253D8%2526uo%253D4">スマートアルバム</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsumatoarubamu%252Fid566956835%253Fmt%253D8%2526uo%253D4">スマートアルバム</span></div>
 <div class="pochi_price" style="display:inline;">85円</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.03.22時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fyusuke-tsuji%252Fid406318338%253Fuo%253D4">Yusuke Tsuji</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

@@ -28,7 +28,7 @@ comments: []
 <h2>おさらい</h2>
 <p><a href="https://kotalab.com/taskchute-wakeup-clock" title="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！" target="_blank">昨日の記事</a>では睡眠時間と起き時間をTaskchuteにいれました。<br />
 <strong>今日の空き時間を計算する方法</strong>は昨日の設定も必要になりますので、詳しいやり方は<a href="https://kotalab.com/taskchute-wakeup-clock" title="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！" target="_blank">昨日の記事</a>をご覧ください。<br />
-<a href="https://kotalab.com/taskchute-wakeup-clock" target="_blank"><img title="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！ | kotala's note" src="http://capture.heartrails.com/150x130?https://kotalab.com/taskchute-wakeup-clock" alt="https://kotalab.com/archives/863" width="150" height="130" align="left" /></a><a href="https://kotalab.com/taskchute-wakeup-clock" title="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！" target="_blank">思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！ | kotala's note</a><br style="clear:both;" /></p>
+<a href="https://kotalab.com/taskchute-wakeup-clock" target="_blank"><img title="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！ | kotala's note" src="https://capture.heartrails.com/150x130?https://kotalab.com/taskchute-wakeup-clock" alt="https://kotalab.com/archives/863" width="150" height="130" align="left" /></a><a href="https://kotalab.com/taskchute-wakeup-clock" title="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！" target="_blank">思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！ | kotala's note</a><br style="clear:both;" /></p>
 <h2>やり方</h2>
 <p>では<strong>今日の空き時間を自動で計算し表示させる方法</strong>ご紹介です。</p>
 <h3>入力するセルを作成</h3>

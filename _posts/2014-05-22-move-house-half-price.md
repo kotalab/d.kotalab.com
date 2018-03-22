@@ -40,7 +40,7 @@ comments: []
 ちょっと疑問を持ってしまいます。</p>
 <h2>見積りサイトで見積りを頼んでみた</h2>
 <p>見積りを頼むなら1社に頼むより何社かまとめて見積りしてもらった方が比較もできていいので一括見積りができるサイトで申込んでみました。</p>
-<p>210社以上から無料一括見積もりができるという<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882698077" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882698077" height="1" width="1" border="0">ズバット引越し比較</a>というところで一括見積りをしてみました。</p>
+<p>210社以上から無料一括見積もりができるという<a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882698077" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882698077" height="1" width="1" border="0">ズバット引越し比較</a>というところで一括見積りをしてみました。</p>
 <p>申込んだ数分後からメールやら電話で「見積りに行きますがいつがいいですか？」みたいなのがやたら来るようになります。</p>
 <p>日曜日の午前中に一括請求したら、その日のうちに3社から見積りを家にきてもらうことになりました。<br />
 見積りをしてもらうことが決まったんじゃなくて、見積りをしに家にくることが決まりました。</p>
@@ -59,5 +59,5 @@ comments: []
 <p>交渉次第で安い料金にできるわけじゃなくて、<strong>交渉しない人には高い料金、交渉してくる人には安い料金</strong>があるんじゃないかなって思いました。<br><br />
 そうでもないとわざわざ営業マンが来て見積りする理由が僕にはわかりません。</p>
 <p><iframe frameborder="0" allowtransparency="true" height="60" width="234" marginheight="0" scrolling="no" src="http://ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=2967684&pid=882698081" marginwidth="0"><script language="javascript" src="http://ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=2967684&pid=882698081"></script><br />
-<noscript><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882698081" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882698081" height="60" width="234" border="0"></a></noscript>
+<noscript><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882698081" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882698081" height="60" width="234" border="0"></a></noscript>
 <p></iframe></p>

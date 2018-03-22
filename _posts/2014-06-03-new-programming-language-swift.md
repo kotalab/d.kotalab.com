@@ -28,9 +28,9 @@ Appleの開発者向け発表会WWDCで、新プログラミング言語のSwift
 <h2>SwiftのドキュメントはAppleサイトから入手可能！</h2>
 <p>Swiftに関するドキュメントはAppleのデベロッパー向けサイトから見られるようになっています。<br />
 ▼Swiftの概要<br />
-<a href="https://developer.apple.com/swift/" target="_blank">Swift - Apple Developer</a><a href="http://b.hatena.ne.jp/entry/https://developer.apple.com/swift/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://developer.apple.com/swift/" alt="" /></a><br />
+<a href="https://developer.apple.com/swift/" target="_blank">Swift - Apple Developer</a><a href="https://b.hatena.ne.jp/entry/https://developer.apple.com/swift/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://developer.apple.com/swift/" alt="" /></a><br />
 ▼SwiftのWeb版ドキュメント<br />
-<span class="removed_link" title="https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html">Welcome to Swift</span><a href="http://b.hatena.ne.jp/entry/https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html" alt="" /></a><br />
+<span class="removed_link" title="https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html">Welcome to Swift</span><a href="https://b.hatena.ne.jp/entry/https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/LandingPage/index.html" alt="" /></a><br />
 ▼SwiftのiBooks版ドキュメント<br />
 <a href="https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11" target="_blank">https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11</a></p>
 <h3>さあ勉強だ！</h3>

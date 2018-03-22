@@ -31,7 +31,7 @@ comments: []
 <p>去年はペースにばらつきがあって、1ヶ月に9冊読む時もありました。</p>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/readingpace"><img src="https://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/readingpace">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/readingpace" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/readingpace" alt="" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/readingpace">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/readingpace" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/readingpace" alt="" /></a></div>
 </div>
 <p>この時はオーディオブックを含めての数でしたが、今年に入ってからはオーディオブックを聞いていません。<br />
 それでいて今のペースですから、去年の僕では考えられないことです。</p>
@@ -54,30 +54,30 @@ comments: []
 自分の好きなことは自分の内側から探してみましょう。</p>
 <h4 class="aam">Amazonのおすすめ</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479302832/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/519t0SfjIUL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479302832/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/519t0SfjIUL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479302832/same-22/" rel="nofollow" target="_blank">20代にしておきたい17のこと (だいわ文庫)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479302832/same-22/" rel="nofollow" target="_blank">20代にしておきたい17のこと (だいわ文庫)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">本田 健 大和書房 2010-04-09    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479302832/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EXODB64/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479302832/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00EXODB64/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6444212%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479303014/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/311-sFvrrbL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479303014/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/311-sFvrrbL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479303014/same-22/" rel="nofollow" target="_blank">30代にしておきたい17のこと (だいわ文庫)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479303014/same-22/" rel="nofollow" target="_blank">30代にしておきたい17のこと (だいわ文庫)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">本田 健 大和書房 2010-09-10    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4479303014/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00EXODB6E/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4479303014/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00EXODB6E/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F6719382%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

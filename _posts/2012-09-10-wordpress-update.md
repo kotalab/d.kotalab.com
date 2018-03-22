@@ -24,10 +24,10 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/link_120708.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 僕のwordpressのバージョンは3.4.1です。@kotala_bです。<br />
 つい最近wordpressが新しい3.4.2に更新されましたが、僕はまだ入れていません。<br />
-<a href="http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" target="_blank"><img src="http://capture.heartrails.com/150x130?http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" alt="http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" width="150" height="130" align="left" /></a><a href="http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" target="_blank">WordPress 3.4.2がリリースされたけどアップデートはちょい待ったほうが良いかも | [M] mbdb</a><br style="clear:both;" />アップデート後にエラーが出て管理画面に入れない方もいるそうです<br />
+<a href="http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" target="_blank"><img src="https://capture.heartrails.com/150x130?http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" alt="http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" width="150" height="130" align="left" /></a><a href="http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" target="_blank">WordPress 3.4.2がリリースされたけどアップデートはちょい待ったほうが良いかも | [M] mbdb</a><br style="clear:both;" />アップデート後にエラーが出て管理画面に入れない方もいるそうです<br />
 <!--more--></p>
 <h2>wordpressのアップデート</h2>
 <p>wordpressのアップデートには2種類あるのはご存知でしょうか？<br />
@@ -38,7 +38,7 @@ comments: []
 <p>wordpressの更新画面では「<strong>アップデートの前にデータベースとファイルをバックアップしてください。</strong>」と親切にメッセージが表示されます。<br />
 wordpressをアップデートする前にバックアップを取りましょう。<br />
 バックアップを取るにはプラグインを利用するのが便利です。<br />
-<a href="https://kotalab.com/wordpress-backwpup" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/wordpress-backwpup" alt="https://kotalab.com/archives/1251" width="150" height="130" align="left" /></a><a href="https://kotalab.com/wordpress-backwpup" target="_blank">WordPressブログを自動でバックアップ！ | kotala's note</a><br style="clear:both;" />「<strong>BackWPup</strong>」というプラグインを利用してバックアップをしています。<br />
+<a href="https://kotalab.com/wordpress-backwpup" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/wordpress-backwpup" alt="https://kotalab.com/archives/1251" width="150" height="130" align="left" /></a><a href="https://kotalab.com/wordpress-backwpup" target="_blank">WordPressブログを自動でバックアップ！ | kotala's note</a><br style="clear:both;" />「<strong>BackWPup</strong>」というプラグインを利用してバックアップをしています。<br />
 更にバックアップ先はローカルのHDDの他にDropboxとSugarSyncにも同じファイルをバックアップしています。</p>
 <h2>まとめ</h2>
 <p>最新のアップデートは細心の注意を払い実行しましょう。<br />

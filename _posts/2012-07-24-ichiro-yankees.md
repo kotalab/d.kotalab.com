@@ -21,11 +21,11 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/ichiro_120724.jpg"><img src="https://kotalab.com/wp-content/uploads/ichiro_120724.jpg" alt="" title="ichiro_120724" width="448" height="336" class="alignnone size-full wp-image-1645" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/pleeker/3810148463/" target="_blank">Ichiro!</a> / Matt McGee</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/pleeker/3810148463/" target="_blank">Ichiro!</a> / Matt McGee</span><br />
 いきなりのイチロー移籍のニュースに驚きました。@kotala_bです。<br />
 シーズン途中、シアトルマリナーズに11年半在籍していたイチロー選手が<strong>ニューヨークヤンキースへ移籍</strong>しました。<br />
 参考：<a href="http://www.jiji.com/jc/c?g=spo_30&k=2012072400103" target="_blank">時事ドットコム：イチロー、ヤンキース移籍＝「環境変えたい」と自ら志願－背番号３１で早速出場</a><br />
-参考：<a href="http://www.facebook.com/Yankees" target="_blank">New York Yankeesフェイスブックページ</a><br />
+参考：<a href="https://www.facebook.com/Yankees" target="_blank">New York Yankeesフェイスブックページ</a><br />
 <!--more--></p>
 <h2>記者会見でのコメント</h2>
 <p>「僕自身も環境を変えて刺激を求めたいという強い思いがあった。」<br />

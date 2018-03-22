@@ -27,7 +27,7 @@ Twitterアカウントが他の人に乗っ取られてしまうと、フォロ�
 <p>そして乗っ取られて一番困るのは自分です。<br />
 僕もフォローしている方が乗っ取られているのを目の当たりにしているので、他人事ではありません。</p>
 <blockquote><p>ユーザーのアカウントを乗っ取り、ブランド品の激安通販サイトを宣伝するスパムの勢いが、3月に入っても止まらない。特に「レイバン」のサングラスを宣伝するスパムが目立っており、芸人のぜんじろうさんなど有名人も被害にあっている。<br />
-<a href="http://www.itmedia.co.jp/news/articles/1503/06/news112.html?utm_content=buffer7d01e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">「レイバン激安」Twitter乗っ取りでスパム送信、勢い衰えず　有名人も被害に - ITmedia ニュース</a><a href="http://b.hatena.ne.jp/entry/http://www.itmedia.co.jp/news/articles/1503/06/news112.html?utm_content=buffer7d01e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.itmedia.co.jp/news/articles/1503/06/news112.html?utm_content=buffer7d01e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" alt="" /></a></p>
+<a href="http://www.itmedia.co.jp/news/articles/1503/06/news112.html?utm_content=buffer7d01e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">「レイバン激安」Twitter乗っ取りでスパム送信、勢い衰えず　有名人も被害に - ITmedia ニュース</a><a href="https://b.hatena.ne.jp/entry/http://www.itmedia.co.jp/news/articles/1503/06/news112.html?utm_content=buffer7d01e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.itmedia.co.jp/news/articles/1503/06/news112.html?utm_content=buffer7d01e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" alt="" /></a></p>
 </blockquote>
 <p>芸能人も被害に遭っています。</p>
 <p>Twitterアカウントが乗っ取られないように、自分でできることがあります。</p>
@@ -68,7 +68,7 @@ Twitterアカウントが他の人に乗っ取られてしまうと、フォロ�
 電話番号を登録しても「他のユーザーが電話番号から検索可能にする」がオフになっていれば、電話番号からあなたのTwitterアカウントを見つけることはできません。</p>
 <h2>2段階認証ができているか確認</h2>
 <p>2段階認証が設定できているか確認してみましょう。</p>
-<p>PCやiPhoneのブラウザから<a href="http://twitter.com" target="_blank">Twitter</a>にアクセスしてログインしてみます。<br />
+<p>PCやiPhoneのブラウザから<a href="https://twitter.com" target="_blank">Twitter</a>にアクセスしてログインしてみます。<br />
 もし先にログインしている場合はログアウトしてからログインしなおします。</p>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/twitter-security_20150601_02.png" alt="Twitter security 20150601 02" width="601" height ="342" class="aligncenter size-large" /></p>
 <p>ログインする時に、こんな風に表示されたら2段階認証が設定されています。</p>

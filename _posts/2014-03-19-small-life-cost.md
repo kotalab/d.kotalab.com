@@ -57,7 +57,7 @@ comments: []
 「ドルコスト平均法」という言葉を聞いたことはありませんか？<br />
 ドルコスト平均法というのは決まった金額を定期的に投資する手法で、「安い時には多く買えて、高い時には少しか買えない」という、平均購入単価を低く抑える方法です。</p>
 <p>言いかえると、<span class="b">長い目で見た時に買い物に使うお金を節約するコツ</span>なのです。</p>
-<p>参考:<span class="removed_link" title="http://headlines.yahoo.co.jp/hl?a=20140225-00010001-manetatsun-bus_all">ガソリン代をお得にする方法　「ドルコスト平均法」を活用しよう（マネーの達人） - Y!ニュース</span><a href="http://b.hatena.ne.jp/entry/http://headlines.yahoo.co.jp/hl?a=20140225-00010001-manetatsun-bus_all" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://headlines.yahoo.co.jp/hl?a=20140225-00010001-manetatsun-bus_all" alt="" /></a></p>
+<p>参考:<span class="removed_link" title="headlines.yahoo.co.jp/hl?a=20140225-00010001-manetatsun-bus_all">ガソリン代をお得にする方法　「ドルコスト平均法」を活用しよう（マネーの達人） - Y!ニュース</span><a href="https://b.hatena.ne.jp/entry/http://headlines.yahoo.co.jp/hl?a=20140225-00010001-manetatsun-bus_all" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://headlines.yahoo.co.jp/hl?a=20140225-00010001-manetatsun-bus_all" alt="" /></a></p>
 <p>iPad Airから<a href="https://itunes.apple.com/jp/app/surupuro-for-ios-buroguedita/id436676299?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">するぷろ for iOS</a>を使って更新しました！</p>
 <h4 class="rel">関連記事</h4>
 <p>[article include="10739" type="custom"][article include="10838" type="custom"][article include="10320" type="custom"]</p>

@@ -42,14 +42,14 @@ iPhone専用アプリ、iPhoneでもAndroidでもWebでも使えるアプリ、�
 収入・支出の一元管理、過去の収支閲覧、グラフによる分析など、今回紹介する4つは<strong>はっきりいって家計簿としての機能に差はほとんどありません</strong>。</p>
 <h3>MoneyForward</h3>
 <p><img src="https://kotalab.com/wp-content/uploads/recommend-money-app_20140107_02-300x300.png" alt="recommend-money-app_20140107_02" width="300" height="300" class="alignnone size-medium wp-image-10430" /><br />
-<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882545494" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882545494" height="1" width="1" border="0">マネーフォワード</a>は自動入力機能がついたアプリです。<br />
+<a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882545494" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882545494" height="1" width="1" border="0">マネーフォワード</a>は自動入力機能がついたアプリです。<br />
 自動入力機能というのは、お金の出し入れがあった際にアプリ側で自動的に入力してくれる機能です。<br />
 これは口座のIDとパスワードを家計簿アプリに預けることで可能にするもので、IDやパスワードの流出の可能性があるというのが最大のデメリットになります。<br />
 「もしクレジットカードやネットバンクのIDとパスワードが流出してしまった時に、すぐ対処できますか？」<br />
 この質問に「できる」と即答できるのであれば何も問題ありません。<br />
-登録してある銀行口座、クレジットカード、証券会社、年金、電子マネーなどあらゆる金融機関に対応している便利な<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882545494" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882545494" height="1" width="1" border="0">マネーフォワード</a>をオススメします。</p>
+登録してある銀行口座、クレジットカード、証券会社、年金、電子マネーなどあらゆる金融機関に対応している便利な<a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882545494" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882545494" height="1" width="1" border="0">マネーフォワード</a>をオススメします。</p>
 <p><iframe frameborder="0" allowtransparency="true" height="60" width="234" marginheight="0" scrolling="no" src="http://ad.jp.ap.valuecommerce.com/servlet/htmlbanner?sid=2967684&pid=882545490" marginwidth="0"><script language="javascript" src="http://ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=2967684&pid=882545490"></script><br />
-<noscript><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882545490" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882545490" height="60" width="234" border="0"></a></noscript>
+<noscript><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882545490" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882545490" height="60" width="234" border="0"></a></noscript>
 <p></iframe></p>
 <h3>Moneytree</h3>
 <p><img src="https://kotalab.com/wp-content/uploads/recommend-money-app_20140107_01-300x300.png" alt="recommend-money-app_20140107_01" width="300" height="300" class="alignnone size-medium wp-image-10429" /><br />
@@ -57,8 +57,8 @@ MoneytreeはAppStoreの2013年ベストアプリにも選ばれた、iPhone専�
 このアプリもMoneyForward同様、自動入力をウリにしていることからIDやパスワードの流出に対応できるかが問題になります。<br />
 アプリの入力画面の好みでいうと僕はこのアプリが一番好きです。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://akio0911.net/archives/19825" target="_blank"><img src="http://capture.heartrails.com/150x130/shadow?http://akio0911.net/archives/19825" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://akio0911.net/archives/19825" target="_blank">めっちゃ簡単！ 銀行やカードの明細をまとめて確認できるMoneytree - 拡張現実ライフ</a><a href="http://b.hatena.ne.jp/entry/http://akio0911.net/archives/19825" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://akio0911.net/archives/19825" alt="" /></a></div>
+<div class="shhtimg"><a href="http://akio0911.net/archives/19825" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?http://akio0911.net/archives/19825" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="http://akio0911.net/archives/19825" target="_blank">めっちゃ簡単！ 銀行やカードの明細をまとめて確認できるMoneytree - 拡張現実ライフ</a><a href="https://b.hatena.ne.jp/entry/http://akio0911.net/archives/19825" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://akio0911.net/archives/19825" alt="" /></a></div>
 </div>
 <h3>iCompta</h3>
 <p><img src="https://kotalab.com/wp-content/uploads/recommend-money-app_20140107_03-300x300.jpg" alt="recommend-money-app_20140107_03" width="300" height="300" class="alignnone size-medium wp-image-10432" /><br />
@@ -68,8 +68,8 @@ iComptaは英語の資産管理アプリです。<br />
 ただし口座の出し入れが自動的に入力されるという便利機能はありません。<br />
 このアプリは全て英語表示になってるので、その部分で苦手意識があると使い続けるのは難しいかも知れません。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://www.ttcbn.net/no_second_life/archives/21028" target="_blank"><img src="http://capture.heartrails.com/150x130/shadow?http://www.ttcbn.net/no_second_life/archives/21028" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://www.ttcbn.net/no_second_life/archives/21028" target="_blank">資産管理アプリ iCompta を本気で使いこなそう！ その1. iCompta でできること！ | No Second Life</a><a href="http://b.hatena.ne.jp/entry/http://www.ttcbn.net/no_second_life/archives/21028" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.ttcbn.net/no_second_life/archives/21028" alt="" /></a></div>
+<div class="shhtimg"><a href="https://www.ttcbn.net/no_second_life/archives/21028" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?https://www.ttcbn.net/no_second_life/archives/21028" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://www.ttcbn.net/no_second_life/archives/21028" target="_blank">資産管理アプリ iCompta を本気で使いこなそう！ その1. iCompta でできること！ | No Second Life</a><a href="https://b.hatena.ne.jp/entry/https://www.ttcbn.net/no_second_life/archives/21028" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.ttcbn.net/no_second_life/archives/21028" alt="" /></a></div>
 </div>
 <h3>bookeep</h3>
 <p><img src="https://kotalab.com/wp-content/uploads/recommend-money-app_20140107_04-300x300.png" alt="recommend-money-app_20140107_04" width="300" height="300" class="alignnone size-medium wp-image-10431" /><br />
@@ -86,10 +86,10 @@ iComptaやbookeepは手作業の不便さはありながら、手作業ならで
 <strong>家計簿としての基本的な機能という点では今回紹介した4つに大差はありません。</strong><br />
 緑のゾウが気になるならMoneytreeを使ってみるのもよし、緑のブタが気になるならBookeepを使ってみるのもよし。<br />
 お好みで使ってみてください。<br />
-<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882437623" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882437623" height="1" width="1" border="0">MoneyForwardに登録する</a><br />
-<a href="https://moneytree.jp/" target="_blank">マネーツリーのサイトを見る</a><a href="http://b.hatena.ne.jp/entry/https://moneytree.jp/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://moneytree.jp/" alt="" /></a><br />
-<a href="http://www.icompta-app.com/" target="_blank">iComptaのサイトを見る</a><a href="http://b.hatena.ne.jp/entry/http://www.icompta-app.com/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.icompta-app.com/" alt="" /></a><br />
-<a href="https://bookeep.com/user_add.cgi" target="_blank">bookeepに登録する</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://bookeep.com/user_add.cgi"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://bookeep.com/user_add.cgi" alt="" /></span></p>
+<a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=882437623" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=2967684&pid=882437623" height="1" width="1" border="0">MoneyForwardに登録する</a><br />
+<a href="https://moneytree.jp/" target="_blank">マネーツリーのサイトを見る</a><a href="https://b.hatena.ne.jp/entry/https://moneytree.jp/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://moneytree.jp/" alt="" /></a><br />
+<a href="http://www.icompta-app.com/" target="_blank">iComptaのサイトを見る</a><a href="https://b.hatena.ne.jp/entry/http://www.icompta-app.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.icompta-app.com/" alt="" /></a><br />
+<a href="https://bookeep.com/user_add.cgi" target="_blank">bookeepに登録する</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://bookeep.com/user_add.cgi"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://bookeep.com/user_add.cgi" alt="" /></span></p>
 <h4 class="app">記事の中に出てきたアプリ</h4>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/wu-liao-jia-ji-bu-manefowado/id594145971?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1982.phobos.apple.com/us/r30/Purple4/v4/1e/60/b4/1e60b4eb-f447-72ee-37ac-b83f120ecaef/mzl.sanjdcui.png" width="80" /></a></div>
@@ -138,9 +138,9 @@ iComptaやbookeepは手作業の不便さはありながら、手作業ならで
 <h4 class="rel">関連記事</h4>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/money-app-good-habits" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bookeep_130301-448x448.png" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/money-app-good-habits" target="_blank">資産管理や家計簿アプリを続けやすくする為にする、始める時のたった1つのコツ</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/money-app-good-habits"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/money-app-good-habits" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/money-app-good-habits" target="_blank">資産管理や家計簿アプリを続けやすくする為にする、始める時のたった1つのコツ</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/money-app-good-habits"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/money-app-good-habits" alt="" /></span></div>
 </div>
 <div class="shht">
 <div class="shhtimg"><a href="https://kotalab.com/three-uses-of-money" target="_blank"><img src="https://kotalab.com/wp-content/uploads/threeusesofmoney_131228-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/three-uses-of-money" target="_blank">お金の3つの使い道、投資と消費と浪費。間違った認識をしてませんか？</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/three-uses-of-money"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/three-uses-of-money" alt="" /></span></div>
+<div class="shhttext"><a href="https://kotalab.com/three-uses-of-money" target="_blank">お金の3つの使い道、投資と消費と浪費。間違った認識をしてませんか？</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/three-uses-of-money"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/three-uses-of-money" alt="" /></span></div>
 </div>

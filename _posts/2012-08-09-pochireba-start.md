@@ -24,11 +24,11 @@ comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/potireba_120809.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/potireba_120809.png" alt="" title="potireba_120809" width="282" height="77" class="alignnone size-full wp-image-2014" /></a><br />
 ヨメレバ・カエレバには大変お世話になっています。@kotala_bです。<br />
-ヨメレバ・カエレバに続く<a href="http://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>というサービスが登場したのでご紹介します。<br />
-<a href="http://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>はiTunesの商品を紹介出来るサービスです。<br />
+ヨメレバ・カエレバに続く<a href="https://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>というサービスが登場したのでご紹介します。<br />
+<a href="https://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>はiTunesの商品を紹介出来るサービスです。<br />
 <!--more--></p>
 <h2>使い方</h2>
-<p>まずは<a href="http://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>にアクセスし、ページの中段にあるユーザーデータを入力します。<br />
+<p>まずは<a href="https://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>にアクセスし、ページの中段にあるユーザーデータを入力します。<br />
 ▼サイト名とアフィリエイトIDを入れて保存。<br />
 <a href="https://kotalab.com/wp-content/uploads/potireba_120809_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/potireba_120809_01.jpg" alt="" title="potireba_120809_01" width="448" height="175" class="alignnone size-full wp-image-2007" /></a><br />
 ユーザーデータを入力したらページの一番上に戻り、紹介したい商品のキーワードを入れて検索ボタンを押します。<br />
@@ -47,8 +47,8 @@ comments: []
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/evernote/id281796108?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h2>便利なところ</h2>
-<p><a href="http://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>の便利なところは、作成日がアプリの値段の横に自動で表示されることです。<br />
+<p><a href="https://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>の便利なところは、作成日がアプリの値段の横に自動で表示されることです。<br />
 アプリはセールなどで値段が変わることが多いので、この自動表示は助かります。<br />
 また選べるデザインが多いことや、独自のスタイルに変更することが出来るのもいいところです。<br />
 まだの方は是非試してみてください！<br />
-参考：<a href="http://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a></p>
+参考：<a href="https://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a></p>

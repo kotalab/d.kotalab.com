@@ -29,9 +29,9 @@ comments: []
 まじめな人はいつも一生懸命に物事をこなしていく。<br />
 「まじめ」という周りからの評価がまじめな人をよりまじめにさせる。<br />
 「まじめ」はいいことのようにされているが、それだけなのだろうか。<br />
-今回紹介する、勝間和代さんの「<a href="http://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a>」で「まじめな自分」についてこう書いてある。</p>
+今回紹介する、勝間和代さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a>」で「まじめな自分」についてこう書いてある。</p>
 <blockquote><p>それまでのまじめな私は、ただ単に駒として使い勝手がよく、上手に利用されていたに過ぎなかったのでしょう。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a> - P.5</p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a> - P.5</p></blockquote>
 <p>何事にも良い面と悪い面がある。「まじめ」という言葉にも裏があるのだろう。<br />
 <!--more--></p>
 <h2>小さい頃から「まじめ」がいいこととされていた理由</h2>
@@ -58,25 +58,25 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="
 もしあなたが仕事で強いストレスを感じているなら、それはあなたが「まじめの罠」にかかっているからなのかもしれない。</p>
 <h3>まじめの罠を読んでみて</h3>
 <p>僕たちは知らず知らずのうちに「まじめの罠」にかかっている可能性がある。<br />
-そのことに気づかせてくれたのが、今回紹介した「<a href="http://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a>」だ。<br />
-どういう人が「まじめの罠」にかかっているのか、「もしかしたら自分も？」と気になる人はぜひ「<a href="http://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a> 」を読んでみて欲しい。</p>
+そのことに気づかせてくれたのが、今回紹介した「<a href="https://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a>」だ。<br />
+どういう人が「まじめの罠」にかかっているのか、「もしかしたら自分も？」と気になる人はぜひ「<a href="https://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a> 」を読んでみて欲しい。</p>
 <p>最後に「まじめの罠」から抜け出す方法を一つだけご紹介したい。<br />
 「まじめの罠」から抜け出すためには「何故だろう？」「本当なのかな？」と全てのことに疑問を持つことだ。<br />
 「疑う」ことはよくないこととして小さい頃から言われてきて、「疑う」ということに抵抗がある人もいるだろう。<br />
 そういう人は「疑うことは悪いことなのか」ということに疑問をもってみて欲しい。</p>
 <blockquote><p>ものごとを批判的に検討するのは善悪の問題ではありません。悪いヤツだと疑うのではなく、批判的に検討するということが、逆に真剣に話を聞いていることの証拠でもあり、ある種の礼儀だといっても差し支えありません。「疑う」ということについてのネガティブな感覚を捨ててみてください。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a> - P.161</p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠</a> - P.161</p></blockquote>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/3172XPhPpvL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/3172XPhPpvL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠 (光文社新書)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank">まじめの罠 (光文社新書)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">勝間和代 光文社 2011-10-18    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009KZ43FY/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4334036465/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009KZ43FY/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11408297%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

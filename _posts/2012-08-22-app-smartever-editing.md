@@ -23,7 +23,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/smartever_120822.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120822.jpg" alt="" title="smartever_120822" width="448" height="336" class="alignnone size-full wp-image-2256" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/jaybergesen/2993161890/" target="_blank">Lonely Planet Product Placement, Elafonissi</a> / jaybergesen</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/jaybergesen/2993161890/" target="_blank">Lonely Planet Product Placement, Elafonissi</a> / jaybergesen</span><br />
 <a href="https://itunes.apple.com/jp/app/smartever/id493990103?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">SmartEver</a>が最近のお気に入りです。@kotala_bです。<br />
 <a href="https://itunes.apple.com/jp/app/smartever/id493990103?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">SmartEver</a>で編集した時に「<strong>編集可能な形式に変換</strong>」と表示されるノートと表示されないノートがあるのをご存知でしょうか？<br />
 編集可能な形式に変換すると、編集前と編集後のノートが1つずつEvernote上に保存されます。<br />

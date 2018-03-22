@@ -20,7 +20,7 @@ tags: []
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/taskchutecustom_121126.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/taskchutecustom_121126-448x298.jpg" alt="" title="taskchutecustom_121126" width="448" height="298" class="alignnone size-large wp-image-4415" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/pennuja/5364124040/" target="_blank">Multi Tools</a> / pennuja</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/pennuja/5364124040/" target="_blank">Multi Tools</a> / pennuja</span><br />
 Taskchute2を使い始めて1週間が経ちました。@kotala_bです。<br />
 以前使っていたTaskchuteでは様々なカスタマイズを行っていました。<br />
 TaskchuteはExcelベースということで拡張性があることも大きな魅力の1つです。<br />
@@ -29,7 +29,7 @@ TaskchuteはExcelベースということで拡張性があることも大きな
 <h2>見積り時間と実績の差</h2>
 <p>これは自分で立てた見積り時間と実際にかかった時間とを比べどのくらいの差があるかを把握する為に入れています。<br />
 導入方法はこちらに詳しく書かれています。<br />
-<a href="http://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" alt="TaskChute2のワークログをピボットテーブルで分析する方法 | 旧jMatsuzaki" width="150" height="130" /></a><a href="http://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" target="_blank">TaskChute2のワークログをピボットテーブルで分析する方法 | 旧jMatsuzaki</a><a href="http://b.hatena.ne.jp/entry/http://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" alt="" /></a><br style="clear:both;" />Taskchuteの8行目のあいてる場所に数式を入れるだけ。<br />
+<a href="https://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" alt="TaskChute2のワークログをピボットテーブルで分析する方法 | 旧jMatsuzaki" width="150" height="130" /></a><a href="https://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" target="_blank">TaskChute2のワークログをピボットテーブルで分析する方法 | 旧jMatsuzaki</a><a href="https://b.hatena.ne.jp/entry/https://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://jmatsuzaki.wordpress.com/2012/04/16/taskchute2pivot/" alt="" /></a><br style="clear:both;" />Taskchuteの8行目のあいてる場所に数式を入れるだけ。<br />
 「=IF(M8="","",(M8-L8))」という数式を入れることで表示出来ます。</p>
 <h2>実績の時間表示</h2>
 <p>これは次のピボットテーブルで表示させる為に入れています。<br />
@@ -48,7 +48,7 @@ Taskchuteに標準で入っているのは実績時間の分単位のものに�
 セクションごとに表示させることで、本来は3時間あるセクションに3時間以上のタスクが入っている場合に、タスクリスト修正する為に使っています。<br />
 これを表示させておくことで時間にゆとりを持って行動することが出来るようになります。<br />
 導入方法はこちらを参考に。<br />
-<a href="http://taskviewer.posterous.com/archive/4/2012" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://taskviewer.posterous.com/archive/4/2012" alt="たすかん - タスク管理だから" width="150" height="130" /></a><a href="http://taskviewer.posterous.com/archive/4/2012" target="_blank">たすかん - タスク管理だから</a><a href="http://b.hatena.ne.jp/entry/http://taskviewer.posterous.com/archive/4/2012" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://taskviewer.posterous.com/archive/4/2012" alt="" /></a><br style="clear:both;" />わかりやすい解説が載っています！</p>
+<a href="http://taskviewer.posterous.com/archive/4/2012" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://taskviewer.posterous.com/archive/4/2012" alt="たすかん - タスク管理だから" width="150" height="130" /></a><a href="http://taskviewer.posterous.com/archive/4/2012" target="_blank">たすかん - タスク管理だから</a><a href="https://b.hatena.ne.jp/entry/http://taskviewer.posterous.com/archive/4/2012" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://taskviewer.posterous.com/archive/4/2012" alt="" /></a><br style="clear:both;" />わかりやすい解説が載っています！</p>
 <h2>次の日の起床時刻と1日の空き時間</h2>
 <p>これは「今日のタスク終了時刻＝寝る時間」という前提で作られています。<br />
 自分が取りたい睡眠時間を入力することで「今日のタスク終了時間＋睡眠時間＝次の日の起床時刻」としています。<br />

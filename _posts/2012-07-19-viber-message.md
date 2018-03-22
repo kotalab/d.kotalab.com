@@ -23,7 +23,7 @@ tags:
 comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/viber_120719_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/viber_120719_05.jpg" alt="" title="viber_120719_05" width="448" height="336" class="alignnone size-full wp-image-1557" /></a><br />
-<span style="font-size:10px;"><a href="http://www.flickr.com/photos/girolame/4592377835/" target="_blank">internet WiFi availaible</a> / girolame</span><br />
+<span style="font-size:10px;"><a href="https://www.flickr.com/photos/girolame/4592377835/" target="_blank">internet WiFi availaible</a> / girolame</span><br />
 Androidを使っていた時からViberはよく使うアプリのひとつでした。@kotala_bです。<br />
 iPhoneに変えてからViberの起動時にメッセージが毎回出て困っていましたが、簡単に解決出来たので直し方をshare。<br />
 <!--more--></p>

@@ -27,7 +27,7 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/shiblogger_121130.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/shiblogger_121130-448x336.jpg" alt="" title="shiblogger_121130" width="448" height="336" class="alignnone size-large wp-image-4451" /></a><br />
 いい肉の日の夕ごはんは魚料理でした。@kotala_bです。<br />
 この日は奥野さん（@odaiji）主催の「ちょっと早いシブロガー忘年会」に参加してきました！<br />
-<a href="http://twipla.jp/events/34498" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://twipla.jp/events/34498" alt="TwiPla - ちょっと早いシブロガー忘年会" width="150" height="130" /></a><a href="http://twipla.jp/events/34498" target="_blank">TwiPla - ちょっと早いシブロガー忘年会</a><a href="http://b.hatena.ne.jp/entry/http://twipla.jp/events/34498" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://twipla.jp/events/34498" alt="" /></a><br style="clear:both;" />奥野さんとはつなかんで知り合い、その場でこの忘年会のことを教えて頂きました。<br />
+<a href="http://twipla.jp/events/34498" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://twipla.jp/events/34498" alt="TwiPla - ちょっと早いシブロガー忘年会" width="150" height="130" /></a><a href="http://twipla.jp/events/34498" target="_blank">TwiPla - ちょっと早いシブロガー忘年会</a><a href="https://b.hatena.ne.jp/entry/http://twipla.jp/events/34498" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://twipla.jp/events/34498" alt="" /></a><br style="clear:both;" />奥野さんとはつなかんで知り合い、その場でこの忘年会のことを教えて頂きました。<br />
 ブログを読んで一方的には知ってはいるけど、今回参加した半分が初対面の方で、残りの半分もつなかんとnslセミナーでちょっと面識がある程度の方達でした。<br />
 人見知りの自分としてはなんとも言えない状況ですが、細かいことは気にせず参加してきました！<br />
 <!--more--></p>

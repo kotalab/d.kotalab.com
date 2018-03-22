@@ -47,8 +47,8 @@ comments: []
 <p>ちょっと古いデータですが、厚生労働省による平成20年度の平均在院日数は35.6日だそうです。<br />
 ちなみにこれは総合失調症のように500日以上入院する場合なども含んだ数字となります。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" target="_blank"><img src="http://capture.heartrails.com/150x130/shadow?http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" target="_blank">入院した場合、入院日数は何日くらい？｜公益財団法人　生命保険文化センター</a><a href="http://b.hatena.ne.jp/entry/http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" alt="" /></a></div>
+<div class="shhtimg"><a href="http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" target="_blank">入院した場合、入院日数は何日くらい？｜公益財団法人　生命保険文化センター</a><a href="https://b.hatena.ne.jp/entry/http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.jili.or.jp/lifeplan/lifesecurity/medical/3.html" alt="" /></a></div>
 </div>
 <p>35日間入院するとしたら給付金総額は175,000円。<br />
 そんな入院を30歳から65歳までの35年間に4回もあなたはすると思いますか？<br />

@@ -36,8 +36,8 @@ comments: []
 Safariから起動できればいいなっていうことでブックマークレットを作ってみることにしました。</p>
 <p>作る前に「僕が欲しいのがどっかにあるかも」と思って調べてみたりもしたんですがみつかりません。<br />
 こんな感じでTwitterのWebからの投稿画面が開くブックマークレットならありました。</p>
-<pre class="width-set:true width:548 lang:default decode:true " title="Twitterでつぶやくブックマークレット" >javascript:window.open('http://twitter.com/home?status=' + encodeURIComponent(document.title + ' %C2%BB ' + location.href));void(0)</pre>
-<p>via:<a href="http://blog.yagi2.com/?p=808" target="_blank">今見ているWebページをTwitterでつぶやくブックマークレットを作りました。 &laquo; やぎにいどっとこむ</a><a href="http://b.hatena.ne.jp/entry/http://blog.yagi2.com/?p=808" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://blog.yagi2.com/?p=808" alt="" /></a></p>
+<pre class="width-set:true width:548 lang:default decode:true " title="Twitterでつぶやくブックマークレット" >javascript:window.open('https://twitter.com/home?status=' + encodeURIComponent(document.title + ' %C2%BB ' + location.href));void(0)</pre>
+<p>via:<a href="http://blog.yagi2.com/?p=808" target="_blank">今見ているWebページをTwitterでつぶやくブックマークレットを作りました。 &laquo; やぎにいどっとこむ</a><a href="https://b.hatena.ne.jp/entry/http://blog.yagi2.com/?p=808" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://blog.yagi2.com/?p=808" alt="" /></a></p>
 <h2>ツイートするURLスキーム</h2>
 <p>TwitterのWebの投稿画面がどうも好きになれない僕は、Twitterクライアントを使って投稿したいわけです。<br />
 なのでTwitterクライアントのURLスキームを調べて、投稿するURLスキームを探しました。</p>
@@ -57,7 +57,7 @@ Safariから起動できればいいなっていうことでブックマーク�
 <p>念願の<strong>見てるページをタイトルとURLつきでツイートするブックマークレット</strong>を作ることができました！<br />
 このブックマークレットはTwitterの公式クライアントが入ってれば、Macでも動きますし、もちろんiPadでも動きます。</p>
 <p>まさかMacでも動くと思ってなかったんですが、Macアプリも同じURLスキームだったみたいです。</p>
-<p><a href="http://www.lifehacker.jp/2014/03/140326tabroid_iphoneseeq.html" target="_blank">今話題のSeeq+</a>みたいに、内蔵ブラウザにブックマークレットが登録できれば、他のアプリからも起動できちゃいます！<br />
+<p><a href="https://www.lifehacker.jp/2014/03/140326tabroid_iphoneseeq.html" target="_blank">今話題のSeeq+</a>みたいに、内蔵ブラウザにブックマークレットが登録できれば、他のアプリからも起動できちゃいます！<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140329091228.jpg" width="300" height="514" class="slooProImg" /></p>
 <h2>とっても便利なURLスキーム</h2>
 <p>コードの前半の</p>
@@ -73,7 +73,7 @@ Safariから起動できればいいなっていうことでブックマーク�
 <p>これはいいのができた！<br />
 と思ってたんですけど、どうやらもう何年も前からあったみたいで。</p>
 <p>この記事を書いてる最中にTweetBookmarkletというのを見つけました！<br />
-参考記事：<a href="http://iphone.uchi.in/article/225676689.html" target="_blank">iPhoneの世界: お待たせ！TweetBookmarklet Ver.1.3でEchofon対応しました</a><a href="http://b.hatena.ne.jp/entry/http://iphone.uchi.in/article/225676689.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://iphone.uchi.in/article/225676689.html" alt="" /></a></p>
+参考記事：<a href="http://iphone.uchi.in/article/225676689.html" target="_blank">iPhoneの世界: お待たせ！TweetBookmarklet Ver.1.3でEchofon対応しました</a><a href="https://b.hatena.ne.jp/entry/http://iphone.uchi.in/article/225676689.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://iphone.uchi.in/article/225676689.html" alt="" /></a></p>
 <p>探せば大抵のものは見つかるもんですね。<br />
 自分で作ってみたことで、色々わかったしそれはそれでよかったかな！</p>
 <p>iPhone 5sから<a href="https://itunes.apple.com/jp/app/surupuro-for-ios-buroguedita/id436676299?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">するぷろ for iOS</a>を使って更新しました！</p>

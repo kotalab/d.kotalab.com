@@ -43,7 +43,7 @@ comments:
 <p>追記：<br />
 2016年からは自由大学での講座はなくなったそうです。<br />
 アプリ道場自体はまだまだ続けていくそうなので、興味ある方はこちらからどうぞ！<br />
-<a href="http://egg-is-world.com/app-creator-dojo-develop/" target="_blank">未経験者向けのiPhoneアプリ開発講座「アプリクリエイター道場 東京塾・大阪塾」</a><a href="http://b.hatena.ne.jp/entry/http://egg-is-world.com/app-creator-dojo-develop/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://egg-is-world.com/app-creator-dojo-develop/" alt="" /></a></p>
+<a href="http://egg-is-world.com/app-creator-dojo-develop/" target="_blank">未経験者向けのiPhoneアプリ開発講座「アプリクリエイター道場 東京塾・大阪塾」</a><a href="https://b.hatena.ne.jp/entry/http://egg-is-world.com/app-creator-dojo-develop/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://egg-is-world.com/app-creator-dojo-develop/" alt="" /></a></p>
 <p>そんなアプリ道場が今回、AppleStore銀座でイベントを開催しました！<br />
 今回のイベントではアプリ道場卒業生達がリリースしたアプリの紹介や開発秘話、アプリを出してからの生活や考え方の変化などなど色々な発表ありました。<br />
 <!--more--></p>
@@ -63,11 +63,11 @@ comments:
 <p>個人的にはもっともっとうまく人前で話せるようになりたいなーと思うイベントでした。</p>
 <h2>みんなのイベントレポート</h2>
 <p>見にきてくれた個人開発者<a href="https://twitter.com/100nasu" target="_blank">@100nasu</a>さんのレポート<br />
-<a href="http://jknh.randyapps.com/archives/6343" target="_blank">アップルストア銀座の『アプリ道場演武会』に行ってきました！個人アプリ開発者、バンザ〜イ☆ | 情熱の彼方 熱狂の果て</a><a href="http://b.hatena.ne.jp/entry/http://jknh.randyapps.com/archives/6343" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://jknh.randyapps.com/archives/6343" alt="" /></a></p>
+<a href="http://jknh.randyapps.com/archives/6343" target="_blank">アップルストア銀座の『アプリ道場演武会』に行ってきました！個人アプリ開発者、バンザ〜イ☆ | 情熱の彼方 熱狂の果て</a><a href="https://b.hatena.ne.jp/entry/http://jknh.randyapps.com/archives/6343" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://jknh.randyapps.com/archives/6343" alt="" /></a></p>
 <p>発表者<a href="https://twitter.com/toshi586014" target="_blank">@toshi586014</a>さんのレポート<br />
-<a href="http://toshi586014.net/2014/10/22/applestore-app-dojo/" target="_blank">ジョブズも登壇した伝説のAppleStore銀座シアターでショートコントをしてきました！ | はれときどきくもりZ</a><a href="http://b.hatena.ne.jp/entry/http://toshi586014.net/2014/10/22/applestore-app-dojo/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://toshi586014.net/2014/10/22/applestore-app-dojo/" alt="" /></a></p>
+<a href="http://toshi586014.net/2014/10/22/applestore-app-dojo/" target="_blank">ジョブズも登壇した伝説のAppleStore銀座シアターでショートコントをしてきました！ | はれときどきくもりZ</a><a href="https://b.hatena.ne.jp/entry/http://toshi586014.net/2014/10/22/applestore-app-dojo/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://toshi586014.net/2014/10/22/applestore-app-dojo/" alt="" /></a></p>
 <p>発表者長尾さんのレポート<br />
-<a href="http://between-a-point-and-point.blogspot.jp/2014/10/blog-post.html?m=1" target="_blank">点と点の間: 「アプリケーションクリエイター道場　演武会」に参加してきた(発表者側で)ー前編ー</a><a href="http://b.hatena.ne.jp/entry/http://between-a-point-and-point.blogspot.jp/2014/10/blog-post.html?m=1" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://between-a-point-and-point.blogspot.jp/2014/10/blog-post.html?m=1" alt="" /></a></p>
+<a href="http://between-a-point-and-point.blogspot.jp/2014/10/blog-post.html?m=1" target="_blank">点と点の間: 「アプリケーションクリエイター道場　演武会」に参加してきた(発表者側で)ー前編ー</a><a href="https://b.hatena.ne.jp/entry/http://between-a-point-and-point.blogspot.jp/2014/10/blog-post.html?m=1" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://between-a-point-and-point.blogspot.jp/2014/10/blog-post.html?m=1" alt="" /></a></p>
 <h3>アプリ道場イベントを振り返ってみて</h3>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20141025132810.jpg" width="720" height="479" class="slooProImg" /><br />
 とにかく楽しくてすごくあっという間の1日でした。</p>

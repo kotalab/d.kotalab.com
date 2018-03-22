@@ -34,17 +34,17 @@ comments: []
 iPhoneやMacと連携出来るのはWithingsのWifiBodyScaleただひとつでした。<br />
 Withingsの体重計を調べているとWS-50という新型が4月に発売されることを知ります。<br />
 残念なことに日本でのは発売はまだでした。<br />
-<a href="https://kotalab.com/withings-ws50" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/withings_130406-448x336.jpg" alt="日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note" width="150" /></a><a href="https://kotalab.com/withings-ws50" target="_blank">日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note</a><br style="clear:both;" />日本で発売されたら絶対買おうと思っていて、今週の火曜日にふとAmazonを見てみるとなんと<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings WS-50</a>が売られているではありませんか！<br />
+<a href="https://kotalab.com/withings-ws50" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/withings_130406-448x336.jpg" alt="日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note" width="150" /></a><a href="https://kotalab.com/withings-ws50" target="_blank">日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note</a><br style="clear:both;" />日本で発売されたら絶対買おうと思っていて、今週の火曜日にふとAmazonを見てみるとなんと<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings WS-50</a>が売られているではありませんか！<br />
 WS-50を知った時から欲しい欲しいとずっと言っていたこともあり、パートナーの了承もすんなり得られて無事買うことが出来ました！</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31rQcZYY9zL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31rQcZYY9zL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings WS-50　Smart Body Analyzer 多機能体重計 【並行輸入品】</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings WS-50　Smart Body Analyzer 多機能体重計 【並行輸入品】</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Withings     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=WS-50&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=WS-50&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
@@ -75,7 +75,7 @@ WS-50を知った時から欲しい欲しいとずっと言っていたことも
 <h2>Smartな機能</h2>
 <p>二酸化炭素濃度がわかると快適な生活が出来そう！<br />
 そう思って買ってみた訳ですが実際のところは使ってみないとわからないというのがホントのところ。<br />
-iPhoneアプリの「<span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fwithingsherusukonpanion%252Fid542701020%253Fmt%253D8%2526uo%253D4">Withingsヘルスコンパニオン</span>」と連携させて部屋の状態がどうやって表示されるのかを見てみました。<br />
+iPhoneアプリの「<span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fwithingsherusukonpanion%252Fid542701020%253Fmt%253D8%2526uo%253D4">Withingsヘルスコンパニオン</span>」と連携させて部屋の状態がどうやって表示されるのかを見てみました。<br />
 <a href="https://itunes.apple.com/jp/app/withingsherusukonpanion/id542701020?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">Withingsヘルスコンパニオン</a>のダッシュボード画面にはCO2レベルと温度が表示されます。<br />
 <img src="https://kotalab.com/wp-content/uploads/ws50_130726_08-300x513.jpg" alt="ws50_130726_08" width="300" height="513" class="alignnone size-medium wp-image-7917" /><br />
 これをグラフで見ることも出来ました。<br />
@@ -104,14 +104,14 @@ iPhoneアプリの「<span class="removed_link" title="http://click.linksynergy.
 僕が買ったのはAmazonで並行輸入品として販売されていた<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2FB00DF3E7DU%2Fref%3Dnosim" rel="nofollow" target="_blank">Withings WS-50 Smart Body Analyzer</a>です。<br />
 買ってよかった！と思える体重計がようやく手に入りました。</p>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31rQcZYY9zL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31rQcZYY9zL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings WS-50　Smart Body Analyzer 多機能体重計 【並行輸入品】</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings WS-50　Smart Body Analyzer 多機能体重計 【並行輸入品】</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> Withings     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=WS-50&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=WS-50&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

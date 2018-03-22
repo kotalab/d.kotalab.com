@@ -37,7 +37,7 @@ LINE電話を使うには、LINE電話専用のコールクレジットを<span 
 <p>LINE電話は料金を先払いしておく必要があると書きましたが、かける相手によっては無料で通話することもできます。</p>
 <p>個人的な相手には料金がかかりますが、「お店」にはLINE電話で無料通話ができちゃいます！</p>
 <blockquote><p>通話先がLINE＠加盟店の場合、通話料は無料です。<br />
-via:<a href="http://line.me/ja/call/howto" target="_blank">ご利用方法 - LINE電話 | LINE（ライン</a><a href="http://b.hatena.ne.jp/entry/http://line.me/ja/call/howto" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://line.me/ja/call/howto" alt="" /></a></p></blockquote>
+via:<a href="http://line.me/ja/call/howto" target="_blank">ご利用方法 - LINE電話 | LINE（ライン</a><a href="https://b.hatena.ne.jp/entry/http://line.me/ja/call/howto" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://line.me/ja/call/howto" alt="" /></a></p></blockquote>
 <h2>LINE電話の「お店」機能がいい感じ</h2>
 <p>LINE＠加盟店限定で通話料無料とのことですが、LINE電話を開いてみると無料と書かれたお店の電話番号がずらっと並びます！<br />
 動作の不具合なのか今だけ無料なのかはわかりません。<br />

@@ -29,7 +29,7 @@ comments: []
 MMD研究所が発表した「<a href="https://mmdlabo.jp/investigation/detail_1429.html" target="_blank">22015年4月格安スマホ通信速度調査</a>」によると、MVNO10社とdocomo、au、SoftBankのキャリアでは昼間の時間帯に通信速度の差が大きくなることがわかりました。</p>
 <blockquote><p>
 トラフィックが集中すると言われている12時～13時のお昼の時間帯は、顕著に通信キャリアと格安スマホでダウンロード平均スピードに差が出ており、docomo、au、SoftBankの3キャリア平均が27.6Mbpsだったのに対し、調査対象格安スマホ全体の平均は1.8Mbpsと速度低下が見られた。<br />
-via:<a href="https://mmdlabo.jp/investigation/detail_1429.html" target="_blank">2015年4月格安スマホ通信速度調査</a><a href="http://b.hatena.ne.jp/entry/https://mmdlabo.jp/investigation/detail_1429.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://mmdlabo.jp/investigation/detail_1429.html" alt="" /></a>
+via:<a href="https://mmdlabo.jp/investigation/detail_1429.html" target="_blank">2015年4月格安スマホ通信速度調査</a><a href="https://b.hatena.ne.jp/entry/https://mmdlabo.jp/investigation/detail_1429.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://mmdlabo.jp/investigation/detail_1429.html" alt="" /></a>
 </p></blockquote>
 <p>この調査では主にダウンロードスピードに差がでることがわかり、特に12時から13時のちょうど昼休みになる時間帯にMVNOでは通信速度が低下することが明らかになりました。</p>
 <p><!--more--></p>

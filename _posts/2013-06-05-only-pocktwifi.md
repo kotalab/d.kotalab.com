@@ -36,13 +36,13 @@ iPhoneではMovesというライフログアプリをバックグラウンドで
 家を出てから約10時間半後に帰宅。<br />
 この使い方でGL04Pは1度も充電せずにバッテリーが1日持ちます。<br />
 iPhoneを使う時間が多いと、帰り道の途中にバッテリーが切れることもありますが、1ヶ月間で1日あるかどうか。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmoves%252Fid509204969%253Fmt%253D8%2526uo%253D4"><img src="http://a336.phobos.apple.com/us/r1000/062/Purple2/v4/83/4b/52/834b5251-8336-1354-b275-bf7ffaaa9d22/mzl.hfawetew.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmoves%252Fid509204969%253Fmt%253D8%2526uo%253D4"><img src="http://a336.phobos.apple.com/us/r1000/062/Purple2/v4/83/4b/52/834b5251-8336-1354-b275-bf7ffaaa9d22/mzl.hfawetew.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmoves%252Fid509204969%253Fmt%253D8%2526uo%253D4">Moves</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmoves%252Fid509204969%253Fmt%253D8%2526uo%253D4">Moves</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.06.05時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fprotogeo%252Fid509204972%253Fuo%253D4">ProtoGeo</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fprotogeo%252Fid509204972%253Fuo%253D4">ProtoGeo</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
@@ -64,13 +64,13 @@ EMOBILEにも制限はあることはあるんですが、他社とは異なり�
 <h2>最後に</h2>
 <p>PocketWiFiを使うようになって8ヶ月つかってみて、雑感を書いてみました。<br />
 これからPocketWiFiを使ってみようかなと思ってる人の参考になれば幸いです。</p>
-<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgl06pstatus-gl06p-gl04p-gl01p%252Fid518845331%253Fmt%253D8%2526uo%253D4"><img src="http://a1987.phobos.apple.com/us/r1000/099/Purple2/v4/27/e9/30/27e93096-f284-97c5-4535-62d5c056bafe/mzl.puxelvwl.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
+<div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgl06pstatus-gl06p-gl04p-gl01p%252Fid518845331%253Fmt%253D8%2526uo%253D4"><img src="http://a1987.phobos.apple.com/us/r1000/099/Purple2/v4/27/e9/30/27e93096-f284-97c5-4535-62d5c056bafe/mzl.puxelvwl.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
-<div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgl06pstatus-gl06p-gl04p-gl01p%252Fid518845331%253Fmt%253D8%2526uo%253D4">GL06PStatus - GL06P,GL04P,GL01P を活用するアプリ</span></div>
+<div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgl06pstatus-gl06p-gl04p-gl01p%252Fid518845331%253Fmt%253D8%2526uo%253D4">GL06PStatus - GL06P,GL04P,GL01P を活用するアプリ</span></div>
 <div class="pochi_price" style="display:inline;">無料</div>
 <div class="pochi_time" style="font-size:x-small;display:inline;">(2013.06.05時点)</div>
-<div class="pochi_seller"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Firimasu-dian-suan-qi-hua%252Fid396385132%253Fuo%253D4">いります電算企画</span></div>
-<div class="pochi_post" style="font-size:x-small;">posted with <a href="http://pochireba.com">ポチレバ</a></div>
+<div class="pochi_seller"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Firimasu-dian-suan-qi-hua%252Fid396385132%253Fuo%253D4">いります電算企画</span></div>
+<div class="pochi_post" style="font-size:x-small;">posted with <a href="https://pochireba.com">ポチレバ</a></div>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>

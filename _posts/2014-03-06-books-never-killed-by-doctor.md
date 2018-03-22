@@ -39,7 +39,7 @@ comments: []
 風邪薬を飲むこともありますよね。<br />
 本書にはこう書かれていました。</p>
 <blockquote><p>風邪そのものを治す薬は存在しません。<br />
-<a href="http://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank">絶対に、医者に殺されない47の心得</a> - P.73</p></blockquote>
+<a href="https://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank">絶対に、医者に殺されない47の心得</a> - P.73</p></blockquote>
 <p>熱や鼻水、くしゃみといった症状を抑えるだけで風邪そのものを治す薬はないんだそうです。</p>
 <p>じゃあ風邪をひいたらどうするか。答えは簡単です。<br />
 家でゆっくり寝るのです。<br />
@@ -51,22 +51,22 @@ comments: []
 僕だけかも知れませんが「新しいもの=改良された良いもの」と思ってしまいがち。<br />
 新薬に限ってはそうではないそうです。</p>
 <blockquote><p>新薬開発の際は、薬の短期的な効果は調べられますが、長期的な効果や安全性については調べられません。それはあくまでも、発売されてから調査される要件、つまり、新薬はつねに危険が伴うのです。<br />
-<a href="http://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank">絶対に、医者に殺されない47の心得</a> - P.82</p></blockquote>
+<a href="https://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank">絶対に、医者に殺されない47の心得</a> - P.82</p></blockquote>
 <p>新薬には5年10年と使い続けた場合の効果や副作用がわからないというのは納得できます。</p>
 <h3>絶対に、医者に殺されない47の心得を読んでみて</h3>
 <p>全体を通して聞き慣れない単語が多く、「医療者」ではない僕からすると読むのが大変だったです。<br />
 ただ、薬にはあまり気にされない副作用やデメリットの部分があり、そこをもっと注意すべきだということはわかりました。</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41VD%2BSxLfoL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41VD%2BSxLfoL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank">絶対に、医者に殺されない47の心得</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank">絶対に、医者に殺されない47の心得</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">岩田 健太郎 講談社 2013-12-10    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/gp/search?keywords=%90%E2%91%CE%82%C9%81A%88%E3%8E%D2%82%C9%8EE%82%B3%82%EA%82%C8%82%A247%82%CC%90S%93%BE&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4062187485/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/gp/search?keywords=%90%E2%91%CE%82%C9%81A%88%E3%8E%D2%82%C9%8EE%82%B3%82%EA%82%C8%82%A247%82%CC%90S%93%BE&__mk_ja_JP=%83J%83%5E%83J%83i&url=node%3D2275256051&tag=same-22" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374941&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12546338%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
 </p></div>
 </div>

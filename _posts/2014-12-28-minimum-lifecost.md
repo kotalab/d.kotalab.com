@@ -38,11 +38,11 @@ comments: []
 <!--more--></p>
 <h2>生活するのに最低限必要なお金「ミニマム・ライフコスト」</h2>
 <p>1年間生活するのに最低でもいくら必要なのか、ランニングコストはいくらかかるのか。<br />
-四角大輔さんの「<a href="http://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>」という本の中では、この最低限必要な費用のことを「ミニマム・ライフコスト」と呼んでいます。</p>
+四角大輔さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>」という本の中では、この最低限必要な費用のことを「ミニマム・ライフコスト」と呼んでいます。</p>
 <p>ミニマム・ライフコストがわかっていれば、お金がなくて不安だということはありません。<br />
 だって必要なお金がわかっているから。</p>
 <blockquote><p>それ（ミニマム・ライフコスト）さえ把握しておけば、ここぞというときに思い切って攻めることができる。<br />
-via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>　P.53</p></blockquote>
+via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>　P.53</p></blockquote>
 <p><strong>僕はミニマム・ライフコストがわかっていたからこそ、はたから見ると無謀にも見えるこの時期に新しい挑戦ができました。</strong></p>
 <h3>お金から自由になる為のミニマム・ライフコスト</h3>
 <p>これだけあれば家賃を払うのにもご飯を食べるのにも困るようなことはない。<br />
@@ -53,17 +53,17 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="
 <div class="clear"></div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41ZG9kjLQGL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41ZG9kjLQGL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと (Sanctuary books)</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと (Sanctuary books)</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">四角大輔 サンクチュアリ出版 2012-07-12    </div>
 <div class="booklink-link2">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00IUE8QRC/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00IUE8QRC/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 <div class="shoplinkrakuten"><a href="http://c.af.moshimo.com/af/c/click?a_id=374939&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F11731716%2F" rel="nofollow" target="_blank" title="楽天ブックス" >楽天ブックス</a></div>
-<div class="shoplinkseven"><a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4861139716" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
+<div class="shoplinkseven"><a href="https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=2967684&pid=883100332&vc_url=http%3A%2F%2Fwww.7netshopping.jp%2Fbooks%2Fsearch_result%2F%3Fctgy%3Dbooks%26code%3D4861139716" rel="nofollow" target="_blank" title="セブンネットショッピング" >7net</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

@@ -46,26 +46,26 @@ comments: []
 だから家に持ち帰って仕事をする。サービス残業と同じだ。<br />
 それではいつまでたっても会社で仕事を終わらせることはできない。</p>
 <blockquote><p>サービス残業をするようではプロフェッショナルではなくアマチュアの仕事しかできていない証拠。プロならば堂々と残業代を請求しますし、そもそも残業などしないと思います。<br />
-<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank">あなたの仕事に革命を起こす！「しないことリスト」[Kindle版]</a></p></blockquote>
+<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank">あなたの仕事に革命を起こす！「しないことリスト」[Kindle版]</a></p></blockquote>
 <h3>最後に</h3>
 <p>今以上にプライベートを充実させたいと思うなら「しないことリスト」を作ってみてはどうだろう。<br />
-今回紹介した「<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank">あなたの仕事に革命を起こす！「しないことリスト」</a>」には「しないことリスト」を作るためのヒントがいくつも載っている。</p>
+今回紹介した「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank">あなたの仕事に革命を起こす！「しないことリスト」</a>」には「しないことリスト」を作るためのヒントがいくつも載っている。</p>
 <blockquote><p>ゴールや目標だけを掲げるのではなく、ついついやってしまうようなことを書き出して意識することが「しないことリスト」の大切なポイントです。<br />
-<a href="http://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank">あなたの仕事に革命を起こす！「しないことリスト」[Kindle版]</a></p></blockquote>
+<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank">あなたの仕事に革命を起こす！「しないことリスト」[Kindle版]</a></p></blockquote>
 <p>気軽に読める量。<br />
 そして何よりも気軽に買える100円以下の電子書籍！<br />
 オススメです！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">
-<div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51q62KkSq7L._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51q62KkSq7L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
-<div class="booklink-name"><a href="http://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank">あなたの仕事に革命を起こす！「しないことリスト」[Kindle版]</a>
-<div class="booklink-powered-date">posted with <a href="http://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00ET0DF04/same-22/" rel="nofollow" target="_blank">あなたの仕事に革命を起こす！「しないことリスト」[Kindle版]</a>
+<div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail">中島孝志 ゴマブックス株式会社 2013-08-27    </div>
 <div class="booklink-link2">
-<div class="shoplinkkindle"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00ET0DF04/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4777124363/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
+<div class="shoplinkkindle"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00ET0DF04/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4777124363/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon[書籍版]</a></div>
 </p></div>
 </div>
 <div class="booklink-footer"></div>

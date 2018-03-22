@@ -37,7 +37,7 @@ comments:
 <!--more--></p>
 <h2>WP Total Hacks</h2>
 <p>鬱陶しいセルフピンバックを簡単に止めてくれるのが「WP Total Hacks」というプラグインです。<br />
-<a href="http://firegoby.jp/wp/wp-total-hacks" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://firegoby.jp/wp/wp-total-hacks" alt="WP Total Hacks &ndash; 20項目以上のカスタマイズができるWordPressプラグイン | firegoby" width="150" height="130" /></a><a href="http://firegoby.jp/wp/wp-total-hacks" target="_blank">WP Total Hacks &ndash; 20項目以上のカスタマイズができるWordPressプラグイン | firegoby</a><a href="http://b.hatena.ne.jp/entry/http://firegoby.jp/wp/wp-total-hacks" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://firegoby.jp/wp/wp-total-hacks" alt="" /></a><br style="clear:both;" />▼作者は日本の方なのでプラグインも日本語で表記されていてわかりやすくなっています。<br />
+<a href="http://firegoby.jp/wp/wp-total-hacks" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://firegoby.jp/wp/wp-total-hacks" alt="WP Total Hacks &ndash; 20項目以上のカスタマイズができるWordPressプラグイン | firegoby" width="150" height="130" /></a><a href="http://firegoby.jp/wp/wp-total-hacks" target="_blank">WP Total Hacks &ndash; 20項目以上のカスタマイズができるWordPressプラグイン | firegoby</a><a href="https://b.hatena.ne.jp/entry/http://firegoby.jp/wp/wp-total-hacks" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://firegoby.jp/wp/wp-total-hacks" alt="" /></a><br style="clear:both;" />▼作者は日本の方なのでプラグインも日本語で表記されていてわかりやすくなっています。<br />
 <img src="https://kotalab.com/wp-content/uploads/wptotalhacks_130412_01-448x332.jpg" alt="wptotalhacks_130412_01" width="448" height="332" class="alignnone size-large wp-image-6789" /><br />
 このプラグインは20項目以上のカスタマイズが可能で、FaviconやAppleTouchIcon（iPhoneやiPadのホーム画面用アイコン）の設定なども簡単に出来ます！</p>
 <h2>セルフピンバックの止め方</h2>

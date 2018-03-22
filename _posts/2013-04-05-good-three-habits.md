@@ -44,7 +44,7 @@ comments: []
 <p>20代前半の頃はマンガばかり読んでいました。<br />
 その頃の影響もあって今でもONE PIECEだけは読んでいますが、それ以外はビジネス書や資格関連の本ばかり読むようになりました。<br />
 そのきっかけになったのが立花岳志さん（@ttachi)のブログのこちらの記事です。<br />
-<a href="http://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://www.ttcbn.net/no_second_life/archives/19748" alt="今年から本気出す人へ 「6本の柱」で5年後の自分を計画しよう | No Second Life" width="150" height="130" /></a><a href="http://www.ttcbn.net/no_second_life/archives/19748" target="_blank">今年から本気出す人へ 「6本の柱」で5年後の自分を計画しよう | No Second Life</a><a href="http://b.hatena.ne.jp/entry/http://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.ttcbn.net/no_second_life/archives/19748" alt="" /></a><br style="clear:both;" />ブログタイトルの「No Second Life」には</p>
+<a href="https://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://www.ttcbn.net/no_second_life/archives/19748" alt="今年から本気出す人へ 「6本の柱」で5年後の自分を計画しよう | No Second Life" width="150" height="130" /></a><a href="https://www.ttcbn.net/no_second_life/archives/19748" target="_blank">今年から本気出す人へ 「6本の柱」で5年後の自分を計画しよう | No Second Life</a><a href="https://b.hatena.ne.jp/entry/https://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.ttcbn.net/no_second_life/archives/19748" alt="" /></a><br style="clear:both;" />ブログタイトルの「No Second Life」には</p>
 <blockquote><p>人生は一度だけ。<br />
 二度目の人生はない。<br />
 だからこそ一度だけの人生をしっかり生きたい。</p></blockquote>

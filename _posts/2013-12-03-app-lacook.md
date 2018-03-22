@@ -39,13 +39,13 @@ ccとかmlは「容量」でグラムは「重量」ということで、水と�
 <p>調べてみると色々出てきたので使えそうなのを2つご紹介します。<br />
 普段料理で使う調味料とお菓子作りで使う材料の変換リスト。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://nanapi.jp/19581/" target="_blank"><img src="http://capture.heartrails.com/150x130/shadow?http://nanapi.jp/19581/" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://nanapi.jp/19581/" target="_blank">大さじ小さじって何グラム?「これで完璧！大さじ小さじからグラムへの変換リスト決定版」 | nanapi [ナナピ]</a><a href="http://b.hatena.ne.jp/entry/http://nanapi.jp/19581/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://nanapi.jp/19581/" alt="" /></a></div>
+<div class="shhtimg"><a href="http://nanapi.jp/19581/" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?http://nanapi.jp/19581/" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="http://nanapi.jp/19581/" target="_blank">大さじ小さじって何グラム?「これで完璧！大さじ小さじからグラムへの変換リスト決定版」 | nanapi [ナナピ]</a><a href="https://b.hatena.ne.jp/entry/http://nanapi.jp/19581/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://nanapi.jp/19581/" alt="" /></a></div>
 </div>
 <p>グラムで表記されたものを計量スプーンでどれくらいなのか一発でわかる換算機というのもありました。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://www.benricho.org/doryoko_cup_spoon/conv.html" target="_blank"><img src="http://capture.heartrails.com/150x130/shadow?http://www.benricho.org/doryoko_cup_spoon/conv.html" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://www.benricho.org/doryoko_cup_spoon/conv.html" target="_blank">みんなの知識【ちょっと便利帳】 - 食品の重さと計量スプーン・計量カップの換算機</a><a href="http://b.hatena.ne.jp/entry/http://www.benricho.org/doryoko_cup_spoon/conv.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.benricho.org/doryoko_cup_spoon/conv.html" alt="" /></a></div>
+<div class="shhtimg"><a href="http://www.benricho.org/doryoko_cup_spoon/conv.html" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?http://www.benricho.org/doryoko_cup_spoon/conv.html" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="http://www.benricho.org/doryoko_cup_spoon/conv.html" target="_blank">みんなの知識【ちょっと便利帳】 - 食品の重さと計量スプーン・計量カップの換算機</a><a href="https://b.hatena.ne.jp/entry/http://www.benricho.org/doryoko_cup_spoon/conv.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.benricho.org/doryoko_cup_spoon/conv.html" alt="" /></a></div>
 </div>
 <h3>大さじの分量をlaCook</h3>
 <p>いちいちサイトを開くのが面倒だからiPhoneアプリであったら便利そうですよね。<br />
@@ -79,27 +79,27 @@ ccとかmlは「容量」でグラムは「重量」ということで、水と�
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002TYZSYS/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41ReCmbl1kL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B002TYZSYS/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41ReCmbl1kL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B002TYZSYS/same-22/ref=nosim/" rel="nofollow" target="_blank">パール金属 アンテノール  ステンレス製 計量スプーン (3本組) D-3556</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B002TYZSYS/same-22/ref=nosim/" rel="nofollow" target="_blank">パール金属 アンテノール  ステンレス製 計量スプーン (3本組) D-3556</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> パール金属     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=D-3556&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=D-3556&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>
 </div>
 <div class="kaerebalink-box">
-<div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0057SCG7K/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51-RsdGSPVL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0057SCG7K/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51-RsdGSPVL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">
-<div class="kaerebalink-name"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0057SCG7K/same-22/ref=nosim/" rel="nofollow" target="_blank">パール金属 make a good 耐熱計量カップ200ml C-4955</a>
-<div class="kaerebalink-powered-date">posted with <a href="http://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
+<div class="kaerebalink-name"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0057SCG7K/same-22/ref=nosim/" rel="nofollow" target="_blank">パール金属 make a good 耐熱計量カップ200ml C-4955</a>
+<div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div>
 </div>
 <div class="kaerebalink-detail"> パール金属     </div>
 <div class="kaerebalink-link1">
-<div class="shoplinkamazon"><a href="http://www.amazon.co.jp/gp/search?keywords=C-4955&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
+<div class="shoplinkamazon"><a href="https://www.amazon.co.jp/gp/search?keywords=C-4955&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" rel="nofollow" target="_blank" title="アマゾン" >Amazonでチェック</a></div>
 </div>
 </div>
 <div class="booklink-footer"></div>

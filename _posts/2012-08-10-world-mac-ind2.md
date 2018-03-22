@@ -25,7 +25,7 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" alt="" title="legrand_120718_02" width="448" height="336" class="alignnone size-full wp-image-1539" /></a><br />
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/6914750483.html" target="_blank">Enseigne McDonald&rsquo;s</a> / zigazou76</span><br />
 ホットゴールドマサラを食べました。@kotala_bです。<br />
-<a href="https://kotalab.com/world-mac-ind" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/2017" alt="https://kotalab.com/archives/2017" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-ind" target="_blank">世界の★★★マック第2弾！ゴールドマサラがいよいよ明日スタート！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/world-mac-ind" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2017" alt="https://kotalab.com/archives/2017" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-ind" target="_blank">世界の★★★マック第2弾！ゴールドマサラがいよいよ明日スタート！ | kotala's note</a><br style="clear:both;" /><br />
 今日から始まった「<strong>世界の★★★マック</strong>」第2弾のインド・ホットゴールドマサラを食べました！<br />
 <!--more--></p>
 <h2>ゴールドマサラを食べてみた！</h2>
