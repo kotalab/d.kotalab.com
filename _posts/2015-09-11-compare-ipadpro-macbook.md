@@ -20,9 +20,9 @@ tags:
 - iPad Pro
 - MacBook
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911.png
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911.png" alt="Compare ipadpro macbook 20150911" width="780" height ="405" class="aligncenter size-large" /><br />
-<span style="font-size:14px;">via:<a href="https://www.apple.com/jp/ipad/" target="_blank">https://www.apple.com/jp/ipad/</a></span></p>
+<p><<span style="font-size:14px;">via:<a href="https://www.apple.com/jp/ipad/" target="_blank">https://www.apple.com/jp/ipad/</a></span></p>
 <p>日本時間の9月10日午前2時すぎ開催されたAppleのイベント「September Event2015」でiPadの新型、iPad Proが発表されました。</p>
 <p>11月発売予定のiPad Proは12.9インチのRetinaディスプレイを搭載し、iPad Air2の2倍近いCPUパフォーマンスだそうです。</p>
 <p>iPad Proが発表されて気になったのは、半年くらい前に発売されたばかりのMacBookとの違いです。<br />

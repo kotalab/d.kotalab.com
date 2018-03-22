@@ -20,9 +20,9 @@ tags:
 - 格安SIM
 - WebNoteアップデート情報
 comments: []
+thumbnail https://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922-780x702.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922-780x702.jpg" alt="webnote-update-2_20150922" width="780" height="702" class="aligncenter size-large wp-image-14879" /><br />
-iPhoneアプリWebNoteのアップデートを行い、通信量が気になる方のための機能を追加しました。<br />
+<p>iPhoneアプリWebNoteのアップデートを行い、通信量が気になる方のための機能を追加しました。<br />
 今回のアップデートの目玉はiOS9のコンテンツブロッカーの追加です！</p>
 <p>コンテンツブロッカーというと広告をブロックするだけの機能のように思われがちですが、WebNoteでは広告ではなく画像の読み込みをブロックします。</p>
 <div class="applink">

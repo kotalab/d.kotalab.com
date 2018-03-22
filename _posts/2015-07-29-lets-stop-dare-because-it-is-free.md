@@ -19,8 +19,8 @@ tags:
 - アイスコーヒー
 - R.O.STAR
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/07/Lets-stop-dare-because-it-is-free_20150729.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/07/Lets-stop-dare-because-it-is-free_20150729.jpg" alt="Lets stop dare because it is free 20150729" width="780" height ="520" class="aligncenter size-large" /></p>
 <p><a href="https://kotalab.com/cafe-rostar-toyosu" title="豊洲にある電源とWi-Fiが使えて自家焙煎のコーヒーが飲めるカフェ「R.O.STAR」">最近毎朝のように通っている「R.O.STAR」というカフェ</a>では、ミルクやガムシロが有料で売られています。</p>
 <p>普通のお店だとタダでもらえるので、なんとなくもらってなんとなく使うことがよくありました。</p>
 <p>アイスコーヒーに入れるミルクやガムシロについて深く考えたこともなかったんですが、有料で売られていて気づいたことがありました。</p>

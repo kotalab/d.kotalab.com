@@ -23,9 +23,9 @@ tags:
 - iPad mini
 - iPhone 6s Plus
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/09/the-reason-I-chose-the-iPhone6splus_20150915_01.png
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/the-reason-I-chose-the-iPhone6splus_20150915_01.png" alt="The reason I chose the iPhone6splus 20150915 01" width="780" height ="422" class="aligncenter size-large" /><br />
-<span style="font-size:14px;">via:<a href="https://www.apple.com/jp/iphone-6s/" target="_blank">https://www.apple.com/jp/iphone-6s/</a></span><br />
+<p><span style="font-size:14px;">via:<a href="https://www.apple.com/jp/iphone-6s/" target="_blank">https://www.apple.com/jp/iphone-6s/</a></span><br />
 iPhone 6sPlusを買うことに決めました！</p>
 <p>決めるのに1週間弱考えたのは、iPhone 6sにするかiPhone 6sPlusにするかではありません。</p>
 <p>iPhone 6sPlusを買うか買わないかです。<br />

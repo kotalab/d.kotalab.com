@@ -20,8 +20,8 @@ tags:
 - iOS9
 - コンテンツブロッカー
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/09/content-blocker-off_20150927_04.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/content-blocker-off_20150927_04.jpg" alt="Content blocker off 20150927 04" width="600" height ="531" class="aligncenter size-large" /></p>
 <p>iOS9からiPhoneのSafariに追加されたコンテンツブロッカー。</p>
 <p>コンテンツブロッカーのON/OFFの切り替えにはいちいちiPhoneの設定アプリを開いて設定変更をしなければなりません。</p>
 <p>いちいち変えなきゃいけないのは面倒くさいと思っていたのですが、今見ているページのコンテンツブロッカーだけをサッとオフにする方法がありました！</p>

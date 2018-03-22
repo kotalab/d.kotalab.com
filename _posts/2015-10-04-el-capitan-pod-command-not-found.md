@@ -21,8 +21,7 @@ tags:
 comments: []
 thumbnail: https://kotalab.com/wp-content/uploads/2015/10/el-capitan-pod-command-not-found_20151004-780x488.png
 ---
-<p>
-CocoaPodsで入れたライブラリを更新しようとターミナルで</p>
+<p>CocoaPodsで入れたライブラリを更新しようとターミナルで</p>
 <pre class="lang:default decode:true " >pod update</pre>
 <p>と打ったら、「pod: command not found」と出てアップデートができなくなってしまいました。</p>
 <p>つい何日か前は普通に使えてたのに。</p>

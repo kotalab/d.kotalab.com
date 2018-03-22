@@ -19,8 +19,8 @@ tags:
 - WebNote
 - アプリ道場
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/07/change-the-non-consciousness_20150722-780x520.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/07/change-the-non-consciousness_20150722-780x520.jpg" alt="change-the-non-consciousness_20150722.jpg" width="780" height="520" class="aligncenter size-large wp-image-14787" /></p>
 <p>僕は去年からプログラミングというものを始めました。</p>
 <p>iPhoneアプリ作りを教えてくれる<a href="http://freedom-univ.com" target="_blank">自由大学</a>の「<a href="https://freedom-univ.com/lecture/app_developmen.html" target="_blank">アプリ道場</a>」という講座に通い、その半年後くらいには「<a href="https://itunes.apple.com/jp/app/webnote/id911802747?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">WebNote</a>」というiPhoneアプリをApp Storeから発売することができました。</p>
 <p>まさかこんな早くに自分のiPhoneアプリを作れるとは思ってなかったし、それができた自分にほんの少し自信がつきました。<br />

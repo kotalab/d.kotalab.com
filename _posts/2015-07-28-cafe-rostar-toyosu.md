@@ -19,8 +19,8 @@ tags:
 - アイスコーヒー
 - R.O.STAR
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/07/cafe-rostar-toyosu_20150728_01.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/07/cafe-rostar-toyosu_20150728_01.jpg" alt="Cafe rostar toyosu 20150728 01" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>僕が平日はほぼ毎朝通ってるカフェ「R.O.STAR」をご紹介します！</p>
 <p>カフェの場所は地下鉄有楽町線、豊洲駅を降りてC1出口目の前。<br />
 ららぽーと豊洲から晴海通りを挟んだ向かい側のビルの1階です。</p>
