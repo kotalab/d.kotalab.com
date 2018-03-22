@@ -20,7 +20,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/hello.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/hello.jpg" alt="" title="hello" width="448" height="336" class="alignnone size-full wp-image-1049" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/fenris117/4536603725/" title="hello">HELLO</a> / Odd.note</span><br />
 はじめまして、今日からこのブログを始めることにしました@kotala_bです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>初めのきっかけ</h2>
 <p>2011年8月、ドコモのスマフォ「MediasWP N-06C」を購入。<br />
 iphoneにも興味はあったものの、高校卒業以来ずっとドコモを使っていて家族も全員ドコモの携帯というただそれだけの理由でAndroid端末を購入、そして「Evernote」と出会う。<br />

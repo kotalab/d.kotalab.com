@@ -30,22 +30,22 @@ Taskchuteを始めたのは今年の4月11日です。@kotala_bです。<br />
 なんでそんなことが分かるかというとTaskchuteを始めて1ヶ月後にこのブログで感想を書いていたからです。<br />
 <a href="https://kotalab.com/taskchute-1month" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/cal.jpg" alt="Taskchuteを始めてから1ヶ月たった感想 | kotala's note" width="150" /></a><a href="https://kotalab.com/taskchute-1month" target="_blank">Taskchuteを始めてから1ヶ月たった感想 | kotala's note</a><br style="clear:both;" />4月から使っていたTaskchuteですが1度やめていました。<br />
 メインとして使っていたWindowsのデスクトップが突然のブルスクや電源が入らなくなるなど不調に陥り、MacBook Airを購入しそれをメインとして使うことに。<br />
-そのときMacBook AirでTaskchuteを使うには少し敷居が高いことと、佐々木正悟さん（@nokibaさん）の著書「<a href="http://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" rel="nofollow" name="booklink" target="_blank">クラウド時代のタスク管理の技術</a>」を読みToodledoとTogglを使ってTaskchuteと同じようなことが出来ると知っていたこともあり、今まで慣れ親しんだTaskchuteからToodledo+Togglという組み合わせに変えていました。</p>
+そのときMacBook AirでTaskchuteを使うには少し敷居が高いことと、佐々木正悟さん（@nokibaさん）の著書「<a href="https://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" rel="nofollow" name="booklink" target="_blank">クラウド時代のタスク管理の技術</a>」を読みToodledoとTogglを使ってTaskchuteと同じようなことが出来ると知っていたこともあり、今まで慣れ親しんだTaskchuteからToodledo+Togglという組み合わせに変えていました。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
-<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41Uk63c9VWL._SL160_.jpg" style="border: none;" /></a></div>
+<div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41Uk63c9VWL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
-<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" rel="nofollow" name="booklink" target="_blank">クラウド時代のタスク管理の技術―驚くほど仕事が片付いてしまう!</a>
-<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="http://yomereba.com" target="_blank">ヨメレバ</a></div>
+<div class="booklink-name" style="margin-bottom:10px;line-height:120%"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" rel="nofollow" name="booklink" target="_blank">クラウド時代のタスク管理の技術―驚くほど仕事が片付いてしまう!</a>
+<div class="booklink-powered-date" style="font-size:8pt;margin-top:5px;font-family:verdana;line-height:120%">posted with <a href="https://yomereba.com" target="_blank">ヨメレバ</a></div>
 </div>
 <div class="booklink-detail" style="margin-bottom:5px;">佐々木 正悟 東洋経済新報社 2011-11-25    </div>
 <div class="booklink-link2" style="margin-top:10px;">
-<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
-<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('http://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009E5JT8Q/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
+<div class="shoplinkamazon" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" rel="nofollow" target="_blank" title="アマゾン" >Amazon</a></div>
+<div class="shoplinkkindle" style="display:inline;margin-right:5px;background: url('https://img.yomereba.com/tam_y.gif') 0 0 no-repeat;padding: 2px 0 2px 18px;white-space: nowrap;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B009E5JT8Q/same-22/" rel="nofollow" target="_blank" >Kindle</a></div>
 </div>
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ToodledoとToggl</h2>
 <p>ToodledoとTogglの運用を始めたわけですが、Taskchuteと同じようなことが出来ると言ってもまるっきり同じというわけではないのでなかなか思うようにはいきませんでした。<br />
 Toodledoをタスクリストとして使いTogglを時間管理に使います。<br />
@@ -64,9 +64,9 @@ MacBook AirにはFusion5を入れて、WindowsXPとExcelをMacBook Airでも使�
 Taskchute2を使ってみると無料版にはなかった豊富なリピート機能や動作の軽快さに、早くこれを使っておけばと思いました。<br />
 デスクトップで使っていた無料版よりも、MacBookAirでFusion経由で使うTaskchute2の方が圧倒的に動作が軽かったです！<br />
 Toodledoに登録してあるタスクリストを見ながら、まずはやったことの時間の記録をつけることから始めました。<br />
-<a href="http://hama73.blog137.fc2.com/blog-entry-198.html" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://hama73.blog137.fc2.com/blog-entry-198.html" alt="344 TaskChute初心者の方にはまず「記録のみ」をおすすめします | 【旧】化学系メーカー研究職です" width="150" height="130" /></a><a href="http://hama73.blog137.fc2.com/blog-entry-198.html" target="_blank">344 TaskChute初心者の方にはまず「記録のみ」をおすすめします | 【旧】化学系メーカー研究職です</a><a href="http://b.hatena.ne.jp/entry/http://hama73.blog137.fc2.com/blog-entry-198.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://hama73.blog137.fc2.com/blog-entry-198.html" alt="" /></a><br style="clear:both;" />1週間もすればだいたいの見積り時間がわかってくるので、それまではひたすら記録していきます。</p>
+1週間もすればだいたいの見積り時間がわかってくるので、それまではひたすら記録していきます。</p>
 <h2>最後に</h2>
 <p>Taskchuteがどんなモノか気になった方はこちら！<br />
-<a href="https://55auto.biz/cyblog/touroku/taskchute2c.htm" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://55auto.biz/cyblog/touroku/taskchute2c.htm" alt="タスク管理ツール・TaskChute2 (C)" width="150" height="130" /></a><a href="https://55auto.biz/cyblog/touroku/taskchute2c.htm" target="_blank">タスク管理ツール・TaskChute2 (C)</a><a href="http://b.hatena.ne.jp/entry/https://55auto.biz/cyblog/touroku/taskchute2c.htm" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://55auto.biz/cyblog/touroku/taskchute2c.htm" alt="" /></a><br style="clear:both;" />使ってみたいけどよくわかんないという方にはこちらのまとめ！<br />
-<a href="http://matome.naver.jp/odai/2132957287079245101" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://matome.naver.jp/odai/2132957287079245101" alt="TaskChute初心者のための参考記事まとめ - NAVER まとめ" width="150" height="130" /></a><a href="http://matome.naver.jp/odai/2132957287079245101" target="_blank">TaskChute初心者のための参考記事まとめ - NAVER まとめ</a><a href="http://b.hatena.ne.jp/entry/http://matome.naver.jp/odai/2132957287079245101" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://matome.naver.jp/odai/2132957287079245101" alt="" /></a><br style="clear:both;" />公式の説明書以外にも様々な紹介記事があります！<br />
+<a href="https://55auto.biz/cyblog/touroku/taskchute2c.htm" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://55auto.biz/cyblog/touroku/taskchute2c.htm" alt="タスク管理ツール・TaskChute2 (C)" width="150" height="130" /></a><a href="https://55auto.biz/cyblog/touroku/taskchute2c.htm" target="_blank">タスク管理ツール・TaskChute2 (C)</a><a href="https://b.hatena.ne.jp/entry/https://55auto.biz/cyblog/touroku/taskchute2c.htm" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://55auto.biz/cyblog/touroku/taskchute2c.htm" alt="" /></a><br style="clear:both;" />使ってみたいけどよくわかんないという方にはこちらのまとめ！<br />
+<a href="https://matome.naver.jp/odai/2132957287079245101" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://matome.naver.jp/odai/2132957287079245101" alt="TaskChute初心者のための参考記事まとめ - NAVER まとめ" width="150" height="130" /></a><a href="https://matome.naver.jp/odai/2132957287079245101" target="_blank">TaskChute初心者のための参考記事まとめ - NAVER まとめ</a><a href="https://b.hatena.ne.jp/entry/https://matome.naver.jp/odai/2132957287079245101" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://matome.naver.jp/odai/2132957287079245101" alt="" /></a><br style="clear:both;" />公式の説明書以外にも様々な紹介記事があります！<br />
 是非ご覧ください！</p>

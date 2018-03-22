@@ -43,8 +43,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--><br />
-<!--</p>
+<!--more-->
 <h2>モノと向き合い、捨てるということ</h2>
 <p>部屋が自然に散らかることはありません。<br />
 自分自身が散らかしているから散らかるのです。<br />

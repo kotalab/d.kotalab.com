@@ -26,7 +26,8 @@ comments: []
 <p>今週こそは！と思ったんですが、土曜日はあいにくの天気。</p>
 <p>日曜日は元々予定はなかったんですが、親戚のうちで赤ちゃんが産まれたということで、川崎市にある病院まで行くことになりました。<br />
 僕の住んでる町田からはだいたい30キロくらい。</p>
-<p>先日、<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00S0CO4HK/same-22/ref=nosim/" rel="nofollow" target="_blank">クロスバイクにiPhoneを取り付けるケース</a>を買って、どうしてもそれを使いたかった僕は川崎までクロスバイクで行くことにしました。</p<!--more-->
+<p>先日、<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00S0CO4HK/same-22/ref=nosim/" rel="nofollow" target="_blank">クロスバイクにiPhoneを取り付けるケース</a>を買って、どうしてもそれを使いたかった僕は川崎までクロスバイクで行くことにしました。</p>
+<!--more-->
 <h2>iPhone6Plusも入る自転車用ケース</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_01.jpg" alt="Crossbike iphone case 20150517 01" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>買ったケースはポーチのようになっていて、</p>

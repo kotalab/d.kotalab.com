@@ -39,8 +39,7 @@ comments: []
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--><br />
-<!--</p>
+<!--more-->
 <h2>Kindleを選ぶたったひとつの理由</h2>
 <p><strong>Amazonと同じアカウントで買える。</strong><br />
 この一言に尽きます。<br />

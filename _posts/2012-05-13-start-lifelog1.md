@@ -23,7 +23,8 @@ comments: []
 <a href="https://www.flickr.com/photos/sekikos/3031651026" target="_blank">バルコニーにて</a> / Sekikos</span><br />
 ライフログを取り始めて1ヶ月半くらいの@kotala_bです。<br />
 いきなりなんでもかんでもライフログ取ろうと思っても早々に挫折することはわかっていたので、少しずつライフログをとる習慣を増やしてます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ライフログの最初の1歩</h2>
 <p>最初に始めたのは「朝起きてすぐ体重計に乗る」、それをEvernoteに書き込むということだけでした。<br />
 少しやってみたんですが、<br />
@@ -43,7 +44,7 @@ iphone版・android版どちらもあるので、Posteverぜひ試してみて�
 <a href="https://play.google.com/store/apps/details?id=jp.ne.atech.android.postever&amp;hl=ja" title="android版" target="_blank">android版</a><br />
 ▼iPhone版</p>
 <div class="applink">
-<div class="applinkimg"><a href="https://itunes.apple.com/jp/app/postever-2-raifurogu-todo/id724109467?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a781.phobos.apple.com/us/r30/Purple6/v4/9a/24/fc/9a24fca5-d481-99f7-06b2-ed7ed4dd9dd7/mzl.aqxnmqkm.png" width="80" /></a></div>
+<div class="applinkimg"><a href="https://itunes.apple.com/jp/app/postever-2-raifurogu-todo/id724109467?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"></a></div>
 <div class="applinktext">
 <div class="applinktitle"><strong><a href="https://itunes.apple.com/jp/app/postever-2-raifurogu-todo/id724109467?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">PostEver 2 - ライフログ,ToDo,日記を素早くEvernoteに記録</a></strong></div>
 <div class="applinkinfo">Atech inc.</div>
