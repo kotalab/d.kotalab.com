@@ -1,0 +1,14 @@
+language: ruby
+cache: bundler
+rvm: 2.4.1
+before_install:
+- bundle install
+- chmod +x ./deploy.sh
+script:
+- "./deploy.sh"
+branches:
+  only:
+  - master
+env:
+  global:
+    secure: rw9ldfPAF3x41HiZ6/h/qnyfPgclQE/D96oqlk1NiIw0Rvp8nW8/X8cPxdTehDxoezEXRJx/w45jtxN3+c6DIgTLf5kXcOqIGxtYGxU/KVjbG/ZOW/M75OeQKfNhZdIzkLx8FDVBdUK1vD2cExJAy7o8ejUZkm5OsTIri3KKCBfnkCoUzfMsVp2X6kmYk/oDHtwE4PWPctreRYcmkkzq+NxujdPCAmwCsIbjtiQdgmtO2J+uVYoJkmsNooxV5aIG4kZLyFXkCjlJD35BSxWW4eIRJO4jtvP3JYgleeAI+/a9BwYqJmZA+fHAXrs4fq02QoFqGCTBek61yG2EM1S6A780PX150C1BtQnO5xR2vVWQ6D3S2o5yzJ5O4oVospzJovG0j3nVCWItl+eC66x5xfcQN5j/z06n0/qBkYLMQaKyxHYQKn7N0QuKeBWJcUipAJ/NSJuoFEju/POiraCE4GuNTacUn6+qBtQS95pwsaDSY+8u5QvTqnzt1PHQ9yRKhAaLvq1YO3R5NJRpHLiMv7loCwfDCVUItJe/Tv9jfe45b/SzjZSt+Tqjd+lyx8FauI4GjnxINU7k+zf9Dx/0ZFIT8FBVVZ+GwrFKQ5/lu/Ybsjp2yr+KLmxYzRg/Vkmty2Hv5tOPDyAExomZ6ls4DZ+4BYmcG6eCd5lUNdTS1DI=
