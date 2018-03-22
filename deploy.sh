@@ -12,7 +12,7 @@ cp -R _site /tmp/kotalab.com
 
 git reset --hard HEAD
 git checkout -b gh-pages
-git remote add upstream https://$GH_TOKEN@gihthub.com/kotalab/kotalab.com.git
+git remote add upstream https://$GH_TOKEN@github.com/kotalab/kotalab.com.git
 
 rm -rf *
 cp -R /tmp/kotalab.com/* .
