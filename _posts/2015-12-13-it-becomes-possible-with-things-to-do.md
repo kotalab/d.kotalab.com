@@ -19,9 +19,9 @@ tags:
 - アプリ開発
 - アプリ道場
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/12/it-becomes-possible-with-things-to-do_20151213_01-780x585.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/it-becomes-possible-with-things-to-do_20151213_01-780x585.jpg" alt="it-becomes-possible-with-things-to-do_20151213_01" width="780" height="585" class="aligncenter size-large wp-image-14969" /><br />
-できるからやるのか、やったからできるようになったのか。<br><br />
+<p>できるからやるのか、やったからできるようになったのか。<br><br />
 卵が先か鶏が先かじゃありませんが、どっちが先なのか？と少し考えたことがあります。</p>
 <p>僕の中では、「やり始めた結果できるようになった」という答えになりました。</p>
 <!--more-->

@@ -24,8 +24,8 @@ tags:
 - Apple
 - iPhone6s
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_04.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_04.jpg" alt="Fp recommend mnp 20151001 04" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>おすすめなのは断然SIMフリーのiPhoneです。<br />
 なぜかというと、お金のめんでSIMフリーiPhoneの方がお得に売り買いができる可能性を秘めているからです。</p>
 <p>iPhone6s/6sPlusが発売されて今日で7日。</p>

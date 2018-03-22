@@ -20,9 +20,9 @@ tags:
 - iPhone6s
 - iPhone6sPlus
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/09/keyboard_3d_touch_20150930_03.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/keyboard_3d_touch_20150930_03.jpg" alt="Keyboard 3d touch 20150930 03" width="621" height ="345" class="aligncenter size-large" /><br />
-iPhone6s/6sPlusから3D Touchという機能が追加されました。</p>
+<p>iPhone6s/6sPlusから3D Touchという機能が追加されました。</p>
 <p>どんな機能か簡単に説明するとiPhoneのディスプレイを押す強さを検知して、強さに合わせた動作をしてくれる機能です。</p>
 <p>今のところはアプリによって対応はまちまちで、まだ対応していないアプリの方が多いです。<br />
 そんな3D Touchですが、文字入力をするアプリならほとんどのアプリで3D Touchを使うことができます。</p>

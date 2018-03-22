@@ -17,8 +17,9 @@ category:
 tags:
 - 親指シフト
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/12/start-oyayubishift_20151210-780x488.png
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/start-oyayubishift_20151210-780x488.png" alt="start-oyayubishift_20151210" width="780" height="488" class="aligncenter size-large wp-image-14943" /><br />
+<p>
 <a href="https://kotalab.com/there-is-a-good-thing-and-continue" title="毎日続けてると、なんか知らないけどいいことがある">半年くらい続けていたアプリ開発がひと段落した</a>ので、朝の30分くらいを使って親指シフトという文字入力方法の練習を始めることにしました。<br><br />
 今も親指シフトで入力中です。</p>
 <p>今まではずっとローマ字で入力していたんですが、「文字入力をもっと楽にしたい」「できればもっと早く打てるようになりたい」という気持ちで親指シフトを始めてみることにしました。</p>

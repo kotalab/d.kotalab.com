@@ -19,8 +19,9 @@ tags:
 - CocoaPods
 - El Capitan
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/10/el-capitan-pod-command-not-found_20151004-780x488.png
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/10/el-capitan-pod-command-not-found_20151004-780x488.png" alt="el-capitan-pod-command-not-found_20151004" width="780" height="488" class="aligncenter size-large wp-image-14922" /><br />
+<p>
 CocoaPodsで入れたライブラリを更新しようとターミナルで</p>
 <pre class="lang:default decode:true " >pod update</pre>
 <p>と打ったら、「pod: command not found」と出てアップデートができなくなってしまいました。</p>

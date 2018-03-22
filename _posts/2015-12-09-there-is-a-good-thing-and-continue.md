@@ -19,9 +19,9 @@ tags:
 - やりたいこと
 - アプリ開発
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/12/there-is-a-good-thing-and-continue_20151209-780x585.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/there-is-a-good-thing-and-continue_20151209-780x585.jpg" alt="there-is-a-good-thing-and-continue_20151209" width="780" height="585" class="aligncenter size-large wp-image-14940" /><br />
-6月の後半くらいから個人でiPhoneアプリを作っていました。<br><br />
+<p>6月の後半くらいから個人でiPhoneアプリを作っていました。<br><br />
 つい先日、Appleの審査へ提出したので、何も問題なければ年内にリリースできそうです。<br />
 100円のコーヒーを飲みながら、仕事が始まる前の1時間くらい毎朝もくもくと作業をしてアプリを作っていました。</p>
 <p>半年以上も続けることができたのにはわけがあります。<br><br />

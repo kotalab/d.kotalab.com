@@ -21,9 +21,9 @@ tags:
 - El Capitan
 - 親指シフト
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_20151211-780x520.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_20151211-780x520.jpg" alt="setup-oyayubishift_20151211" width="780" height="520" class="aligncenter size-large wp-image-14956" /><br />
-親指シフトというローマ字入力に変わる入力方法の練習を最近始めました。<br><br />
+<p>親指シフトというローマ字入力に変わる入力方法の練習を最近始めました。<br><br />
 僕が普段使っているのはMacBook ProのJISキーボードモデルなのですが、WindowsではなくMacで親指シフトを始める時の始め方を書こうと思います。<br />
 </p>
 <!--more-->

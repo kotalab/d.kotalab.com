@@ -183,10 +183,10 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit * 1.5 0;
+  padding: $spacing-unit * 0.75 0;
 
   @include media-query($on-palm) {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit * 0.5 0;
   }
 }
 
@@ -227,13 +227,75 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin: $spacing-unit * 0.75 0 ;
+  border-bottom: 1px solid $sepalator-color;
+
+  @include media-query($on-laptop) {
+    margin: $spacing-unit * 0.5 0 ;
+  }
+}
+
+.post-list-wrapper {
+  @extend %clearfix;
+  width: -webkit-calc(100% - (#{$spacing-unit} * 0.75));
+  width:         calc(100% - (#{$spacing-unit} * 0.75));
+
+  @include media-query($on-laptop) {
+    width: -webkit-calc(100% - (#{$spacing-unit} * 0.5));
+    width:         calc(100% - (#{$spacing-unit} * 0.5));
+  }
+}
+
+.post-list-image {
+  float: left;
+  margin-right: $spacing-unit * 0.75;
+  margin-bottom: $spacing-unit * 1.5;
+
+  img {
+    width: 153px;
+    height: 102px;
+  }
+  @include media-query($on-laptop) {
+    margin-right: $spacing-unit * 0.5;
+    margin-bottom: $spacing-unit;
+
+    img {
+      width: 120px;
+      height: 80px;
+    }
+  }
+}
+
+.post-list-title {
+  float: left;
+  width: -webkit-calc(100% - (#{$spacing-unit} * 0.75) * 2 - 153px);
+  width:         calc(100% - (#{$spacing-unit} * 0.75) * 2 - 153px);
+  margin: 0 0 $spacing-unit * 1.5 $spacing-unit * 0.75;
+
+  @include media-query($on-laptop) {
+    width: -webkit-calc(100% - (#{$spacing-unit} * 0.5) * 2 - 120px);
+    width:         calc(100% - (#{$spacing-unit} * 0.5) * 2 - 120px);
+    margin: 0 0 $spacing-unit $spacing-unit * 0.5;
+  }
+
+  h2 {
+    margin-bottom: 0;
+    font-weight: 600;
+    @include relative-font-size(1.5);
+    line-height: $base-font-size * 1.5 * 1.25;
+    letter-spacing: $base-letter-spacing * 1.2;
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1);
+      line-height: $base-font-size * 1 * 1.25;
+      letter-spacing: $base-letter-spacing;
+    }
+  }
 }
 
 .post-title {
   @include relative-font-size(1.5);
   font-weight: 600;
-  letter-spacing: $base-letter-spacing;
   line-height: $base-font-size * 1.5 * 1.25;
 
   @include media-query($on-laptop) {

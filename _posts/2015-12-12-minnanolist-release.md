@@ -21,8 +21,8 @@ tags:
 - チェックリスト
 - みんなのリスト
 comments: []
+thumbnail: https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212-780x660.jpg
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212-780x660.jpg" alt="minnanolist-release_20151212" width="780" height="660" class="aligncenter size-large wp-image-14963" /></p>
 <p>「みんなのリスト」というiPhoneアプリをリリースしました！<br><br />
 「みんなのリスト」はみんなで使えるリストアプリです。</p>
 <p>自分専用のマイリストを「みんなのリスト」を使ってるみんなに公開したり、友達同士でひとつのリストを同時に使うことができます。</p>

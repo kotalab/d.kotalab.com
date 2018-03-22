@@ -5,21 +5,18 @@ layout: default
 <div class="home">
   {% for page in paginator.posts %}
     <article class="post" itemscope itemtype="https://schema.org/BlogPosting">
-      <header class="post-header">
-        <h2 class="post-list-heading" itemprop="name headline"><a href="{{ page.url }}">{{ page.title | escape }}</a></h2>
-        <p class="post-meta">
-          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
-            {{ page.date | date: date_format }}
-          </time>
-          {%- if page.category -%}
-            <a href="{{site.baseurl}}/categories/#{{ page.category|slugize }}">{{ page.category }}</a>
-          {%- endif -%}</p>
+      <header class="post-header post-list-wrapper">
+        <div class="post-list-image">
+          {% if page.thumbnail %}
+            <a href="{{ page.url }}"><img src="{{ page.thumbnail }}"></a>
+          {% else %}
+            <a href="{{ page.url }}"><img src="{{ "/assets/no_image.png" | relative_url  }}"></a>
+          {% endif %}
+        </div>
+        <div class="post-list-title">
+          <h2 class="post-list-heading" itemprop="name headline"><a href="{{ page.url }}">{{ page.title | escape }}</a></h2>
+        </div>
       </header>
-
-      <div class="post-content" itemprop="articleBody">
-        {{ page.excerpt }}
-      </div>
     </article>
   {% endfor %}
 
