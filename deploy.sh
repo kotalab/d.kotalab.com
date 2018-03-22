@@ -1,6 +1,6 @@
 set -e
 
-git branch -D gh-pages
+echo "Deploy start"
 JEKYLL_ENV=production bundle exec jekyll build
 
 rm -rf /tmp/kotalab.com
@@ -17,4 +17,7 @@ git add -A
 git commit -m Deploy
 git push upstream gh-pages --force
 
+echo "Deploy success"
+
 git checkout master
+git branch -D gh-pages
