@@ -26,7 +26,7 @@ comments: []
 それがどうにも自分に合わないような気がしていて、そもそもなんでやってたんだっけ？と。</p>
 <p>その答え次第ではたすくまを使わなくてもいいかもなんて思っていました。<br />
 目的を果たすためにもっといい方法があればそれでもいいなと。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>ぼくがタスク管理をする理由</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/07/blog-is-album_20150705_01.png" alt="Blog is album 20150705 01" width="520" height ="338" class="aligncenter size-large" /></p>
 <p>それは第1に行動を起こすためです。<br />

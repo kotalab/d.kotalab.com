@@ -26,7 +26,7 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/app-release_140824.jpg" alt="app-release_140824" width="1280" height="960" class="aligncenter size-full wp-image-13380" /><br />
 WebページのタイトルとURLにメモを追記して送れるiPhoneアプリ「WebNote」をリリースしました！</p>
 <p>僕の初めてのiPhoneアプリとなる「WebNote」をリリースしたのでお知らせします！</p>
-<p><!--more--></p>
+<!--more-->
 <h2>WebNoteの特徴</h2>
 <h3>1.見ているWebページのURLとタイトルをサクッとEvernoteに送れる</h3>
 <p><img src="https://kotalab.com/wp-content/uploads/webnote-release-1-0-0_01-300x532.jpg" alt="webnote-release-1-0-0_01" width="300" height="532" class="aligncenter size-medium wp-image-13416" /><br />

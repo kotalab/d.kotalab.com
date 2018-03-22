@@ -25,7 +25,7 @@ comments: []
 <p>iOS9からiPhoneのSafariに追加されたコンテンツブロッカー。</p>
 <p>コンテンツブロッカーのON/OFFの切り替えにはいちいちiPhoneの設定アプリを開いて設定変更をしなければなりません。</p>
 <p>いちいち変えなきゃいけないのは面倒くさいと思っていたのですが、今見ているページのコンテンツブロッカーだけをサッとオフにする方法がありました！</p>
-<p><!--more--></p>
+<!--more-->
 <h2>手軽にコンテンツブロッカーをオフにする方法</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/09/content-blocker-off_20150927_01.jpg" alt="Content blocker off 20150927 01" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>コンテンツブロッカーがONになっている状態でSafariを開いていたとします。<br />

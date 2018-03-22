@@ -47,7 +47,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ノマドライフを実践する前から出来る、ノマド的暮らし方の3つの練習</h2>
 <h3>1.所有物を半分にする</h3>
 <p>ノマドの本来の意味である遊牧民はモノを多く持っていませんでした。<br />

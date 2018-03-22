@@ -39,7 +39,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>TWINBIRD ミラーガラスオーブントースター</h2>
 <p>▼正面はミラーガラスになっていて、写真を撮るとしっかり映り込みます！<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130325192547.jpg" width="448" height="336" /><br />

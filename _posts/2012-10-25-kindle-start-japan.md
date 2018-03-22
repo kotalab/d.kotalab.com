@@ -56,7 +56,7 @@ KindleではKindleストアという専用のストアで購入した電子書�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Kindleのラインナップ</h2>
 <p>Kindle端末は4種類が発売になるようです。<br />
 詳しくはこちらから<br />

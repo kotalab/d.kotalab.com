@@ -27,7 +27,7 @@ comments: []
 <p>ということで金沢に着いて早々、北陸で有名？な回転寿しの「もりもり寿し」でお寿司を食べました。</p>
 <p>金沢市内に何店舗かあるうちの、駅前のKUUGOという商業施設の6階にあるお店へ行ってきました。</p>
 <p>おいしい寿司を写真でご紹介！</p>
-<p><!--more--></p>
+<!--more-->
 <h2>お店の外観</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-morimorisushi_20150503_03.jpg" alt="Kanazawa morimorisushi 20150503 03" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>もりもり寿しの看板。</p>

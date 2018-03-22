@@ -26,7 +26,7 @@ comments: []
 MacBook Proを買って設定を済ませてからはMacBook Airを開いていません。</p>
 <p>MacBook Proが思った以上に快適で、もうMacBook Airには戻れなくなりそうです。</p>
 <p>2台のマシンの性能差より真っ先に体感したのはディスプレイのキレイさです。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>Retinaディスプレイが見やすい</h2>
 <p>MacBook AirとMacBook Proの違いの一つがディスプレイにあります。</p>
 <p>MacBook ProのRetinaディスプレイはMacBook Airよりも精細なディスプレイでとても目に優しく感じています。</p>

@@ -41,7 +41,7 @@ GoogleカレンダーからiCalへの移行方法をご紹介します。</p>
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>GoogleカレンダーとiCalの同期と移行の違い</h2>
 <p>今回紹介するのは<strong>同期ではなく移行</strong>です。<br />
 同期した場合と移行した場合では、iCalでは同じように表示されるので一目では違いはわかりません。<br />

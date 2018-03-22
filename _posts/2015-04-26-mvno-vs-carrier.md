@@ -32,7 +32,7 @@ MMD研究所が発表した「<a href="https://mmdlabo.jp/investigation/detail_1
 via:<a href="https://mmdlabo.jp/investigation/detail_1429.html" target="_blank">2015年4月格安スマホ通信速度調査</a><a href="https://b.hatena.ne.jp/entry/https://mmdlabo.jp/investigation/detail_1429.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://mmdlabo.jp/investigation/detail_1429.html" alt="" /></a>
 </p></blockquote>
 <p>この調査では主にダウンロードスピードに差がでることがわかり、特に12時から13時のちょうど昼休みになる時間帯にMVNOでは通信速度が低下することが明らかになりました。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>MVNOはなぜ遅い？</h2>
 <p>MVNOはdocomoやauから通信回線を借りて、消費者が安く使えるようにサービス提供を行っています。<br />
 この通信回線はベストエフォート方式なので、回線の混雑状況によって通信速度が遅くなってしまうことがあります。</p>

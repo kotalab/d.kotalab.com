@@ -26,7 +26,7 @@ comments: []
 <a href="https://kotalab.com/app-creator-1day" target="_blank">先週に引き続き</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/app-creator-1day" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/app-creator-1day" alt="" /></a>、日曜日はアプリ道場19期に行ってきました！<br />
 2日目も1日目同様、午前と午後に1講義ずつ。<br />
 1日目とはまた違った内容の濃い時間を過ごせました。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>アプリ道場19期、2日目の流れ</h2>
 <p>午前中は「初心者がよく間違えそうなことのtipsの紹介」、「UIWebViewという部品の使い方」、「1日目の宿題発表」。<br />
 午後からは「実機での動かし方」、「ペアプログラミング」という流れでした。</p>

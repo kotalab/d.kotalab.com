@@ -42,7 +42,7 @@ iPhone5と同時にMacの純正アプリが導入され、その完成度はAppS
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>GoogleMaps</h2>
 <p>▼早速ダウンロード！<br />
 <a href="https://kotalab.com/wp-content/uploads/googlemap_121213_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemap_121213_01.jpg" alt="" title="googlemap_121213_01" width="300" height="514" class="alignnone size-full wp-image-4703" /></a><br />

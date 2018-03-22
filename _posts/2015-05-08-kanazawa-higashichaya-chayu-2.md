@@ -27,7 +27,7 @@ comments: []
 近江町市場は金沢駅から兼六園までの道中にあって、金沢駅からはバスで5分程のところにあります。</p>
 <p>近江町市場には地元の鮮魚や加賀野菜など、獲れたての食材が沢山！</p>
 <p>近江町市場の中にはそんな食材を使ったお店が早いところでは朝9時ごろから開店しています。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>日本海で獲れた新鮮な魚介類がその場で食べられる</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-daidokoro_20150508_04.jpg" alt="Kanazawa daidokoro 20150508 04" width="780" height ="516" class="aligncenter size-large" /></p>
 <p>近江町市場には新鮮な魚介類が並ぶお店が沢山！<br />

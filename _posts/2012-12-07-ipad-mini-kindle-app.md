@@ -59,7 +59,7 @@ iPadminiを買った直後は積読本があったので、新たに電子書籍
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>レバレッジリーディング</h2>
 <p>レバレッジリーディングには多読という読書法が載っています。<br />
 その読書法をKindleアプリで実際に使いながらレバレッジリーディングを読んでみました。<br />

@@ -36,7 +36,7 @@ iOS版のEvernoteが5.0にバージョンアップされました。<br />
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>大きく変わったUI</h2>
 <p>▼バージョンアップの内容を見ると「素早く」ということが強調され、使いやすさに拘ったアップデート内容になっています。<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121111102433.jpg" width="300" height="514" /><br />

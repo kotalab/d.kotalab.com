@@ -58,7 +58,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>日替わりセールを見逃さない方法</h2>
 <p>▼Kindle本の日替わりセールはこちらで確認が出来ます</p>
 <p><iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?t=same-22&o=9&p=6&l=ur1&category=kindlebooks&banner=17T0MQGMJMJ3NSPWFR82&f=ifr" width="120" height="150" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></p>

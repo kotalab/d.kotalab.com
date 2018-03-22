@@ -37,7 +37,7 @@ comments: []
 <div class="clear"></div>
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/minnanorisuto/id1065194661?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>みんなのリストの特徴</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212_01-780x416.png" alt="minnanolist-release_20151212_01" width="780" height="416" class="aligncenter size-large wp-image-14965" /></p>
 <h3>1.シンプルに使える「マイリスト」</h3>

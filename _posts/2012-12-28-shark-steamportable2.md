@@ -40,7 +40,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>使う前の準備</h2>
 <p>まずは本体にホースとヘッドを取り付けます。<br />
 ▼今回は拭き取り用の大きいヘッドを使用しました。<br />

@@ -69,7 +69,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>時間を使うとは命を削ること</h2>
 <p>序章から始まり7章まで続く本書の冒頭、序章の最初に書かれていたのが「時間を使うとは命を削ること」<br />
 最初からいきなりズシリと響く言葉。<br />

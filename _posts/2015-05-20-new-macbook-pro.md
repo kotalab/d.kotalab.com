@@ -28,7 +28,7 @@ MacBook Pro Retina15インチモデルが登場しました！<br />
 それでいて前モデルと価格が変わらないのも見逃せません。</p>
 <p>2012年に買ったMacBook Airをそろそろ買い換えようとしているところだったので、僕の中ではビッグニュース！</p>
 <p>まだどれにしようかはっきりしていないので、MacBook Pro Retina13インチモデルと15インチモデルを比べて考えてみます。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>新しくなった15インチモデルのスペック</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/new-macbook-pro-15_20150520_01.png" alt="New macbook pro 15 20150520 01" width="489" height ="286" class="aligncenter size-large" /></p>
 <p>まずは元になる新しくなった15インチモデルのスペックから</p>

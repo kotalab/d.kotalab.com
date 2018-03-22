@@ -56,7 +56,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>飲み物を常に持っておく</h2>
 <p>水分補給するには飲み物がなければ始まりません！<br />
 いつでも飲めるように水筒やペットボトルを携帯しましょう。</p>

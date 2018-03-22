@@ -42,7 +42,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>質のよい睡眠には昼間の過ごし方が重要</h2>
 <p>質のよい睡眠を取るには夜ではなく昼間の過ごし方がとても重要だそうです。<br />
 昼間の過ごし方を考える上で知っておきたいのが、3つの生体リズムです。<br />

@@ -43,7 +43,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ABITAX 0510TagLight</h2>
 <p>▼外観<br />
 <img src="https://kotalab.com/wp-content/uploads/abitax_130222_01-448x336.jpg" alt="abitax_130222_01" width="448" height="336" class="alignnone size-large wp-image-6288" /><br />

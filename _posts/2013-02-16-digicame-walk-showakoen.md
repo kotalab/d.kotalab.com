@@ -42,7 +42,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>モノレールで立川へ</h2>
 <p>昭和記念公園へは多摩センターからモノレールに乗っていきました。<br />
 昭和記念公園の入園券とモノレールの一日乗車券がセットになったお得なセット券があります。<br />

@@ -57,7 +57,7 @@ amazonで頼んで翌日に届きました！<br />
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>開封！</h2>
 <p>おなじみのAmazonの段ボールで届きました！<br />
 <a href="https://kotalab.com/wp-content/uploads/cheero_121014_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_02.jpg" alt="" title="cheero_121014_02" width="448" height="336" class="alignnone size-full wp-image-3420" /></a><br />

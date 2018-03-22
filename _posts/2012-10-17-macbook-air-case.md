@@ -38,7 +38,7 @@ MacBookAirをそのまま入れられるケースかつけるタイプのもの�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>開封！</h2>
 <p>買ったのはMacBookAir13インチ対応、SpeckのSeeThruです！<br />
 <a href="https://kotalab.com/wp-content/uploads/case121017_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/case121017_01.jpg" alt="" title="case121017_01" width="448" height="336" class="alignnone size-full wp-image-3466" /></a><br />

@@ -28,7 +28,7 @@ comments: []
 <p>知っている人は知っているかと思いますが、iPhoneやMacのアプリを作るときに使うあのアプリです。</p>
 <p>iPhoneを持っていなくても、XcodeについているiOSシミュレータでiPhone6Plus・iPhone6・iPhone5S・iPhone4S・iPadAir・iPad2から見たときのデザインをチェックすることができます。</p>
 <p>Xcodeを使ってデザインをチェックする方法をご紹介したいと思います。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>Xcodeをインストール</h2>
 <p>MacにXcodeが入っているのを前提に話を進めていきます。</p>
 <p>Xcodeが入っていない方はこちらからどうぞ。無料です。</p>

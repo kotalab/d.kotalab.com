@@ -28,7 +28,7 @@ comments: []
 <p>白は絶対に思い浮かばないですよね。</p>
 <p>でも世の中には白いカレーも存在してするのです。</p>
 <p>高田馬場駅近くを流れる神田川沿いに白いカレーが食べられるお店があります。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>白いカレーが食べられるお店「ゆらぎ」</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502181557.jpg" width="548" height="366" class="slooProImg" /><br />
 看板には白カレーと書いてありますが、看板の写真はどうみてもクリームシチューです。<br />

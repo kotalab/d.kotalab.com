@@ -43,7 +43,7 @@ Dueの音を聞かない日はありません。@kotala_bです。<br />
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Dueに設定しているリマインダー</h2>
 <p>▼iPhone<br />
 <img src="https://kotalab.com/wp-content/uploads/due_130309_01-300x513.jpg" alt="due_130309_01" width="300" height="513" class="alignnone size-medium wp-image-6442" /><br />

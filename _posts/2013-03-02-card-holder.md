@@ -40,7 +40,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>コクヨノビータ</h2>
 <p>今回買ったのはグリーン！<br />
 他にもブルーやクリアなど全5色！<br />

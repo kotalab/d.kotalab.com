@@ -54,7 +54,7 @@ RSSを一切見なくなって1週間になりました。@kotala_bです。<br 
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>RSSの目的が変わっていった</h2>
 <p>始めのうちはRSS購読には情報収集という目的を持っていました。<br />
 読みたいブログが更新されたらそれを教えてくれるのがRSS。<br />

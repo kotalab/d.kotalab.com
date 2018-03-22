@@ -41,7 +41,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>初めての1台を選ぶときに気にすること</h2>
 <p>僕が初めてのデジイチを選ぶ時に一番気にしたのは重さです。<br />
 重くて持ち運ぶのが嫌になったら折角のカメラが台無し。<br />

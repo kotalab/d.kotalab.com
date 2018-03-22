@@ -38,7 +38,7 @@ comments: []
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>500円分のクーポンが貰えるキャンペーン</h2>
 <p>▼詳細はこちら<br />
 <a href="http://kobo.rakuten.co.jp/application/ios/?scid=wi_kb_application" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://kobo.rakuten.co.jp/application/ios/?scid=wi_kb_application" alt="電子ブック楽天＜kobo＞:楽天＜kobo＞アプリ for iPhone / iPad / iPod touch" width="150" height="130" /></a><a href="http://kobo.rakuten.co.jp/application/ios/?scid=wi_kb_application" target="_blank">電子ブック楽天＜kobo＞:楽天＜kobo＞アプリ for iPhone / iPad / iPod touch</a><a href="https://b.hatena.ne.jp/entry/http://kobo.rakuten.co.jp/application/ios/?scid=wi_kb_application" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://kobo.rakuten.co.jp/application/ios/?scid=wi_kb_application" alt="" /></a><br style="clear:both;" />アプリをダウンロードしてアプリ内からログインをすると500円分の無料クーポン券が貰えます！<br />

@@ -40,7 +40,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>オーディオブックとは</h2>
 <p>オーディオブックは本を朗読して音声データ化したもの。<br />
 MP3形式のデータになっているので、iPhoneやiPod、ウォークマンなどで聞くことができる本なのです。<br />

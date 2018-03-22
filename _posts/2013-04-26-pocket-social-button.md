@@ -36,7 +36,7 @@ Pocketは「後で読む」サービスの代表的なwebサービスです。<b
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Pocketに追加ボタンを設置してみました</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/pocket_130426_01-448x76.jpg" alt="pocket_130426_01" width="448" height="76" class="alignnone size-large wp-image-6921" /><br />
 実際にボタンを設置してみました。<br />

@@ -48,7 +48,7 @@ ReederがFeedlyへ対応するという公式発表があり、それならGoogl
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Feedlyへの移行方法</h2>
 <p>まずは<a href="http://cloud.feedly.com/" title="Feedly" target="_blank">Feedly</a>を開きます。<br />
 トップページに3つあるボタンの中から青いボタン「One-click Google Reader Import」をクリック。<br />

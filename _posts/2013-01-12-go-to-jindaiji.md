@@ -41,7 +41,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>深大寺を散歩</h2>
 <p>深大寺へは調布駅から出ているバスで行きます。<br />
 途中に行ってみたいそば屋さんがあったのでバスを途中下車し散歩しました。<br />

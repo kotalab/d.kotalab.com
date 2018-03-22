@@ -46,7 +46,7 @@ iPhone5で撮った写真はiPhoto経由でMacから見ています。@kotala_b�
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>AirLibの使い方</h2>
 <p>▼詳しい使い方についてはこちらをご覧ください<br />
 <a href="http://feedtailor.jp/wp/?p=11580" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://feedtailor.jp/wp/?p=11580" alt="新作！iPhoneのカメラロールをブラウザからアクセス出来るようにするアプリ「AirLib」を公開します | 関西/大阪のiPhone・iPadアプリ開発 feedtailor Inc. 社長ブログ" width="150" height="130" /></a><a href="http://feedtailor.jp/wp/?p=11580" target="_blank">新作！iPhoneのカメラロールをブラウザからアクセス出来るようにするアプリ「AirLib」を公開します | 関西/大阪のiPhone・iPadアプリ開発 feedtailor Inc. 社長ブログ</a><a href="https://b.hatena.ne.jp/entry/http://feedtailor.jp/wp/?p=11580" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://feedtailor.jp/wp/?p=11580" alt="" /></a><br style="clear:both;" />開発者さんのページなので使い方が詳しく載っています！</p>

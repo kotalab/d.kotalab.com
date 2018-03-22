@@ -35,7 +35,7 @@ comments: []
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>朝起きてからすぐの時間</h2>
 <p>朝起きてから仕事に出るまでの時間は1日の中で最も大切な時間です。<br />
 仕事中は仕事に集中しなければなりませんし、仕事から帰った後は疲れてなかなか集中力が続きません。<br />

@@ -31,7 +31,7 @@ Kindle本が実質最大50%オフになるセール中です。<br />
 <p><del datetime="2015-06-01T11:37:29+00:00">と<a target="_blank" href="https://www.amazon.co.jp/b/ref=as_li_ss_tl?_encoding=UTF8&camp=247&creative=7399&linkCode=ur2&node=3085855051&pf_rd_i=2275256051&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=206884789&pf_rd_r=0T7DVKX65NE4V9NNSP8N&pf_rd_s=merchandised-search-leftnav&pf_rd_t=101&tag=same-22">キャンペーンページ</a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=same-22&l=ur2&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />に書いてあって、期間はいつまでか今のところ不明です。<br />
 欲しい本があったらお早めに！</del><br />
 追記：月曜の12時ごろまでだったようで、あっという間に終わってしまいました。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>現場で通用する力を身につける　iPhoneアプリ開発の教科書</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/Irecommend-kindlebooks-for-ios_20150531_01.jpg" alt="Recommend kindlebooks for ios 20150531 01" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>ラベルやボタンの配置、TableViewの使い方など、iPhoneアプリ開発でよく使う部品の使い方がObjectiveCのサンプルコードと共に載っています。<br />

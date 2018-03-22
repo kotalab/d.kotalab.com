@@ -43,7 +43,7 @@ iPhoneではなかなか出来なかったボケた写真を撮りたくてこ�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>D7000+DX NIKKOR 35mm f/1.8G</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/d7000_130521_05-448x336.jpg" alt="d7000_130521_05" width="448" height="336" class="alignnone size-large wp-image-7215" /><br />
 撮影モードは絞り優先オート。<br />

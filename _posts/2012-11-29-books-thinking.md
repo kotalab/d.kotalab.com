@@ -45,7 +45,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ストレスフリーな生活をするための思考法</h2>
 <blockquote><p>自分がラクで楽しく感じられることをやって生きるのは、甘えでも逃げでもなく、むしろそれこそが正しい道のはずなのです。<br />
 P.5</p></blockquote>

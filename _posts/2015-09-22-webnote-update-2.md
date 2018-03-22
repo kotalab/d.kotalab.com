@@ -36,7 +36,7 @@ iPhoneアプリWebNoteのアップデートを行い、通信量が気になる�
 <div class="clear"></div>
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/webnote/id911802747?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>画像をブロックする理由</h2>
 <p>WebNoteのコンテンツブロッカーは「広告をブロックする」機能ではありません。<br />
 <strong>通信量の制限が気になるあなたのための「画像の読み込みをブロックする」機能です。</strong></p>

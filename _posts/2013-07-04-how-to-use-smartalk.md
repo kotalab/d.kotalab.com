@@ -39,7 +39,7 @@ SMARTalkの登録とログイン方法、そして最初にやっておきたい
 <div class="clear"></div>
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/smartalk-sumahono-tong-hua/id646647577?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>SMARTalkの登録方法</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130704200825.jpg" width="448" height="126" /><br />
 SMARTalkを使うにはwebからの登録が必要になります。<br />

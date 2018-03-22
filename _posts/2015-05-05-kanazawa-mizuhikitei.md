@@ -27,7 +27,7 @@ comments: []
 <p>金沢市、香林坊の近くにあるお店「水ひき亭」さんです。</p>
 <p>5時半ごろお店に入ったところ、その日は予約でほぼ満席。<br />
 たまたま2席だけあいていたカウンター席があって、運良くおいしいしゃぶしゃぶを食べることができました！</p>
-<p><!--more--></p>
+<!--more-->
 <h2>住宅街の一角にあるお店「水ひき亭」</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-mizuhikitei_20150505_01.jpg" alt="Kanazawa mizuhikitei 20150505 01" width="780" height ="516" class="aligncenter size-large" /></p>
 <p>大通りから坂を下って少し入ったところ、住宅街の一角にお店はあります。</p>

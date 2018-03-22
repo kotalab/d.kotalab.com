@@ -45,7 +45,7 @@ Amazonで探してみたら見つかりました。<br />
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>エツミ クッションボックスフレキシブルS</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/innerbag_130627_02-448x297.jpg" alt="innerbag_130627_02" width="448" height="297" class="alignnone size-large wp-image-7666" /><br />
 「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2FB004M8QB4U%2Fref%3Dnosim" rel="nofollow" target="_blank">エツミ クッションボックスフレキシブルS E-6128</a>」は伸縮性のあるインナーボックスとなっていて、横幅が5センチ伸び縮みします。<br />

@@ -37,7 +37,7 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <p>ヨドバシカメラで買ったら、SIMの設定は家でもできるということだったので家に持ち帰って設定してみました。</br ></p>
-<p><!--more--></p>
+<!--more-->
 <h2>FREETEL SIM for iPhone/iPadの設定方法</h2>
 <p>FREETELのホームページ<a href="htps://www.freetel.jp/sim/">htps://www.freetel.jp/sim/</a>にアクセスします。</p>
 <p><img src="https://kotalab.com/wp-content/uploads/2016/01/freetel-setup-20160123_01-300x534.jpg" alt="freetel-setup-20160123_01" width="300" height="534" class="aligncenter size-medium wp-image-14993" /></p>

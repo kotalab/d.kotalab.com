@@ -35,7 +35,7 @@ comments: []
 時間とこだわりを投入し、語れるほど愛せるモノだけを所有しよう。<br />
 via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel="nofollow" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>
 </p></blockquote>
-<p><!--more--></p>
+<!--more-->
 <h2>無駄遣いを減らすためには</h2>
 <p>欲しいと思ってもすぐに買わないこと。</p>
 <p>買う前に「自分にとって本当に必要かな？」と自分の心に聞いてみる。<br />

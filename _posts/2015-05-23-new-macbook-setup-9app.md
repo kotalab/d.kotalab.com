@@ -32,7 +32,7 @@ comments: []
 MacBook Pro Retina15インチモデルを買いました！</p>
 <p>まだMacBook Airの方で書いていますが、セットアップが終わり次第新しいMacBook Proの方で書いていきます。</p>
 <p>隣でセットアップ中にアプリを入れていってる最中なのですが、何よりも先に入れた9つのアプリをご紹介します！</p>
-<p><!--more--></p>
+<!--more-->
 <h2>1.Dropbox</h2>
 <p>クラウドサービスのDropboxのおかげで、HDDの中身を移し替えるみたいな作業がありません。</p>
 <p>MacBook AirからMacBook Proへ変えてもMacBook Airで使っているファイルはほとんどDropboxに入れてあります。</p>

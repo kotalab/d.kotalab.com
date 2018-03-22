@@ -57,7 +57,7 @@ KindleStore一筋でしたが、アップデートによってAppleのiBookstore
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>iBookstoreには純正の良さがある</h2>
 <p>iBooksやiBookstoreというのはAppleが独自に展開しています。<br />
 iBooks内で電子書籍が購入出来たり、PCからiTunesStoreを経由して電子書籍の購入が出来るなどApple純正としての強みがあります。<br />

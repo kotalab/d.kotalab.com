@@ -24,7 +24,7 @@ comments: []
 <p>金沢には金沢城があり、周辺には城下町の名残りがある茶屋街がいくつかあります。<br />
 ひがし茶屋街もそのうちの1つ。</p>
 <p>GWに観光で金沢に行った時にひがし茶屋街で入った、甘味カフェの「茶ゅ」というお店の雰囲気がすごく気に入ったのでご紹介したいと思います。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>お店の雰囲気</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_04.jpg" alt="Kanazawa higashichaya chayu 20150507 04" width="780" height ="516" class="aligncenter size-large" /></p>
 <p>1階にはテイクアウト用のアイス、2階はゆったりくつろげる畳10畳ほどのスペースがあります。<br />

@@ -29,7 +29,7 @@ comments: []
 <p>それでも町田から新宿へロマンスカーで行く人はいて、僕はいつもその人たちがなぜ倍以上の料金を払ってわざわざロマンスカーに乗っているのか、<br />
 「なんでそんなことをするんだろう？」と不思議でしょうがなかった。</p>
 <p>今日はいつもよりちょっと贅沢をして、ロマンスカーで町田から新宿まで行ってみることにした。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>快適なロマンスカー</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/04/romancecar-good-experience_20150429_02.jpg" alt="Romancecar good experience 20150429 02" width="546" height ="364" class="aligncenter size-large" /></p>
 <p>ロマンスカーに乗ると全席指定席なので、必ず座れるというメリットがある。<br />

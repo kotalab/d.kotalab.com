@@ -44,7 +44,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>大好きなエアフォース1を作った</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/nike_130511_01-448x336.jpg" alt="nike_130511_01" width="448" height="336" class="alignnone size-large wp-image-7105" /><br />
 特にエアフォース1は中学生のころから今までに計3足履いた大好きなモデルで、今年の誕生日を記念に<a href="http://px.a8.net/svt/ejp?a8mat=25P43I+6P4N3E+2ASK+5YJRM" target="_blank">NIKEiD</a>でエアフォース1のオリジナルシューズを作ることにしました。<br />

@@ -59,7 +59,7 @@ iPadminiを毎日使っています。@kotala_bです。<br />
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>買う前に考えていた使い道</h2>
 <p>iPadminiを購入する前はこんなことを考えていました。<br />
 <a href="https://kotalab.com/ipad-mini-best-tablet" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="タブレット端末でやりたいことを考えるとやっぱりiPadminiがいい！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-best-tablet" target="_blank">タブレット端末でやりたいことを考えるとやっぱりiPadminiがいい！ | kotala's note</a><br style="clear:both;" /><br />

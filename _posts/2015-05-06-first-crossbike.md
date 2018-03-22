@@ -29,7 +29,7 @@ comments: []
 <p>カゴやスタンドといった普通の自転車にはあるものがなくて、クロスバイクにつけたい場合はオプションでつけることになります。</p>
 <p>街で乗るにはクロスバイク本体だけでは不十分。<br />
 僕がクロスバイクを買ったときに、お店で一緒に買い揃えた最低限のオプションを紹介します。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>1.LEDライト</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/first-crossbike_20150505_04.jpg" alt="First crossbike 20150505 04" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>乗るのが昼間だけならライトを取り付ける必要はないそうですが、夜間走る時はライトをつけないとダメです。</p>

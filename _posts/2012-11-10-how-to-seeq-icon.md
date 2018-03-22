@@ -38,7 +38,7 @@ Seeqにはランチャーとしてアプリを自分で登録出来る機能が�
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>アイコンを探す</h2>
 <p>このブログでアプリを紹介する時に使っているアプリのアイコンはiPhoneで実際に使われているものとは若干違いがあります。<br />
 ▼4隅が角になっています。<br />

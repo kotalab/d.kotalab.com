@@ -50,7 +50,7 @@ Pocketに集約しておけばいつでも読みたい時に読めるのです�
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ReederからPocketに保存する方法</h2>
 <p>まずはReederにPocketのアカウントを登録します。<br />
 ▼Settingsを開きSharingServicesからPocketを選びます。<br />

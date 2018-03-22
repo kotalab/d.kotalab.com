@@ -69,7 +69,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>WUCHG03-Wの外観</h2>
 <p>▼コンパクトなパッケージ<br />
 <img src="https://kotalab.com/wp-content/uploads/usbadpt_130219_01-448x336.jpg" alt="usbadpt_130219_01" width="448" height="336" class="alignnone size-large wp-image-6249" /><br />

@@ -43,7 +43,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>片づけでやるべきことはたった2つ</h2>
 <p>ときめくモノを残し、ときめかないモノを捨てること。<br />
 もうひとつは残すと決めた全ての持ちモノの定位置を決め、使った後は必ず定位置に戻すこと。<br />

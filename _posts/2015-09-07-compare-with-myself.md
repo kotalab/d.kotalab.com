@@ -25,7 +25,7 @@ comments: []
 <p>iPhoneアプリ作りを教えてくれる<a href="http://freedom-univ.com" target="_blank">自由大学</a>の「<a href="https://freedom-univ.com/lecture/app_developmen.html" target="_blank">アプリ道場</a>」という講座に通い、その半年後くらいには「<a href="https://itunes.apple.com/jp/app/webnote/id911802747?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">WebNote</a>」というiPhoneアプリをApp Storeから発売することができました。</p>
 <p>まさかこんな早くに自分のiPhoneアプリを作れるとは思ってなかったし、それができた自分にほんの少し自信がつきました。<br />
 初めてプログラミングに触れて1年が過ぎた頃、とあるiOS勉強会に参加したのですがその時のことを今でもよく覚えています。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>周りとの差に愕然</h2>
 <p>自分と周りの人の差に愕然としたのを今でもよく覚えています。<br />
 発表者の方たちが発表している内容がほとんど理解できませんでした。</p>

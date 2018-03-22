@@ -39,7 +39,7 @@ comments: []
 </div>
 </div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>親指シフト</h2>
 <p>ぼくはこれが一番気になりました！そしてぐぐりました！<br />
 <a href="https://www.ttcbn.net/no_second_life/2009/04/mac-leopardnicola-mac.html"><img title="Mac Leopardで親指シフト・NICOLA配列キーボードを使いたい [mac] - No Second Life" src="https://capture.heartrails.com/150x130?https://www.ttcbn.net/no_second_life/2009/04/mac-leopardnicola-mac.html" alt="https://www.ttcbn.net/no_second_life/2009/04/mac-leopardnicola-mac.html" width="150" height="130" align="left" /></a><a href="https://www.ttcbn.net/no_second_life/2009/04/mac-leopardnicola-mac.html" title="Mac Leopardで親指シフト・NICOLA配列キーボードを使いたい [mac] - No Second Life" target="_blank">Mac Leopardで親指シフト・NICOLA配列キーボードを使いたい [mac] - No Second Life</a><br style="clear:both;" /><br />

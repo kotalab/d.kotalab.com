@@ -29,7 +29,7 @@ comments: []
 「iPad ProとMacBookを買うならどっちがいいかな？」と気になったので違いを比べてみることにしました。</p>
 <p><a href="http://aos.prf.hn/click/camref:111l7s5/creativeref:305240">iPad ProをAppleOnlineStoreで見る</a><br />
 <a href="http://aos.prf.hn/click/camref:111l7s5/creativeref:1101l2928">MacBookをAppleOnlineStoreで見る</a></p>
-<p><!--more--></p>
+<!--more-->
 <h2>安さで選ぶならiPad Pro</h2>
 <p>iPad Proは発表された価格を今のレート(1ドル120円)で換算。<br />
 発売中のMacBookはAppleStore価格です。</p>

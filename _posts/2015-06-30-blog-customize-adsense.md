@@ -27,7 +27,7 @@ comments: []
 <p>僕が使っているWordPressテーマのstingerもそうです。<br />
 こういった作りの場合、よくわからずにトップページに広告を設置すると1記事おきに表示されてしまうことがあります。</p>
 <p>そうならないよう、トップページの記事と記事の間の自分の置きたい場所に広告を表示させる方法をご紹介します。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>広告設置位置</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/06/blog-customize-adsense_20150630_02.jpg" alt="Blog customize adsense 20150630 02" width="780" height ="693" class="aligncenter size-large" /></p>
 <p><a href="https://kotalab.com">このブログのトップページ</a>には20件の最新記事を並べています。<br />

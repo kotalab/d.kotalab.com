@@ -36,7 +36,7 @@ cocoapods-stats (0.5.3)
 cocoapods-trunk (0.6.4)
 cocoapods-try (0.4.5)</pre>
 <p>cocoapods関連のものがしっかり入っていました。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>「pod: command not found」の原因</h2>
 <p>「入ってるのになんでー？」と調べてみるとMacBook Proに入れている<strong>OSをEl Capitan(OS X 10.11)にアップデートしたことが原因</strong>ぽいことがわかりました。</p>
 <blockquote><p>AppleはEl Capitanのインストーラーに新たに導入されたシステム整合性保護(SIP)機能"Rootless"に関する面白い機能を実装しているようです。<br />

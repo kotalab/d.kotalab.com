@@ -43,7 +43,7 @@ Pocketの使い方を1からおさらい中です。@kotala_bです。<br />
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>SafariにPocketへ保存するブックマークレットを追加する</h2>
 <p>まずはPocketを開きます。<br />
 ▼ホームに何もない状態だとこのように表示されるので、真ん中の「Save From Mobile Safari」を選びます。<br />

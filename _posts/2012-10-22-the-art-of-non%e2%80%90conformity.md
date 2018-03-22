@@ -43,7 +43,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>人生で本当に望むものを明確にする3つの方法</h2>
 <h3>1.ライフプランニング</h3>
 <p>「理想とする完璧な1日」を書き出す。<br />

@@ -37,7 +37,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>1.瞑想をする</h2>
 <p>瞑想は注意力、集中力、ストレス管理、衝動の抑制、自己認識といった自己コントロールの様々なスキルが向上します。<br />
 時間が短くても毎日やることが大切です。<br />

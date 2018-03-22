@@ -41,7 +41,7 @@ miilにはほぼ毎日投稿しています。@kotala_bです。<br />
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>用意する4つのアプリ</h2>
 <p>僕がmiilに投稿する際に使ってるカメラアプリはOneCamです。<br />
 静音という点と投稿にちょうどいい640*640という正方形のサイズを指定して撮影出来るところが気に入ってます。<br />

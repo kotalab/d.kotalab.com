@@ -24,7 +24,7 @@ iPad miniは2012年の発売と同時に購入しました。<br />
 それからiPad Airが出るまでの約1年間使っていました。<br />
 iPad miniはそれはそれで持ち運びやすくて、どこにでも持っていけるいいヤツでした。<br />
 iPad Airが出て使い始めてみると、僕にはiPad miniよりもiPad Airの方がいいというのがよくわかってきました。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>iPad miniからiPad Airに変えてよかった理由</h2>
 <p>iPad miniとiPad Airの決定的な違いは大きさです。<br />
 持ち運び面でみると小さい方がいい気がします。<br />

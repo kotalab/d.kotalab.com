@@ -30,7 +30,7 @@ iPhone 6sPlusを買うことに決めました！</p>
 <p>決めるのに1週間弱考えたのは、iPhone 6sにするかiPhone 6sPlusにするかではありません。</p>
 <p>iPhone 6sPlusを買うか買わないかです。<br />
 そもそもiPhone 6sは比べる対象にすらなりませんでした。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>サイズはiPhone 6sを選ぶ理由にはならない</h2>
 <p>ぼくは今iPhone 6Plusを使っています。</p>
 <p>ぼくがもしiPhone 6Plusのサイズを大きいと感じて小さいサイズのiPhoneを買うとしたら、iPhone 6sではなくiPhone 5sを選びます。</p>

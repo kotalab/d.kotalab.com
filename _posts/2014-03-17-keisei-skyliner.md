@@ -33,7 +33,7 @@ comments: []
 いざって時には時間が読みやすい電車を利用したいですよね。</p>
 <p>そこで、帰りは試しにバスじゃなく電車を使ってみました。<br />
 乗ったのは京成線の上野、日暮里から成田までを結ぶスカイライナーです。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>京成線スカイライナーに乗ってみた！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/keisei-skyliner_140317_02-546x409.jpg" alt="keisei-skyliner_140317_02" width="546" height="409" class="alignnone size-large wp-image-11163" /><br />
 スカイライナーは今回が初めての乗車でしたが、迷うことなく乗ることができました。<br />

@@ -30,7 +30,7 @@ GW中とはいえ、一応平日です。<br />
 新宿に着くのは8時台なのでちょうど通勤時間にかぶります。</p>
 <p>iPhoneのYahoo!乗換案内で調べてみたら、大宮から北陸新幹線に乗った方が料金的にも時間的にも一番好条件だったので、大宮から北陸新幹線へ乗ることにしました。</p>
 <p>大宮駅から北陸新幹線に乗ってみたら、思っていたよりずっと便利というかすごく楽でした。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>朝の通勤時間でも下り電車はすいている</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/hokuriku-shinkansen-from-oomiya_20150503_02.jpg" alt="Hokuriku shinkansen from oomiya 20150503 02" width="546" height ="364" class="aligncenter size-large" /></p>
 <p>旅行で荷物が多いと満員電車にはあまり乗りたくありません。<br />

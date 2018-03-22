@@ -43,7 +43,7 @@ SeeqにURLスキームを登録すればアプリを起動することが出来�
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Seeq内でブックマークレットを使って登録する方法</h2>
 <p>▼参考にした方法はこちら<br />
 <a href="http://www.feelingplace.com/2012/12/18/062300/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://www.feelingplace.com/2012/12/18/062300/" alt="Seeqにアイテムを追加するためのブックマークレット | Feelingplace" width="150" height="130" /></a><a href="http://www.feelingplace.com/2012/12/18/062300/" target="_blank">Seeqにアイテムを追加するためのブックマークレット | Feelingplace</a><a href="https://b.hatena.ne.jp/entry/http://www.feelingplace.com/2012/12/18/062300/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.feelingplace.com/2012/12/18/062300/" alt="" /></a><br style="clear:both;" />とてもありがたいことにアイコン登録用のブックマークレットを公開してくださっています！<br />

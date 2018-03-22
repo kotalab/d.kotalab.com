@@ -41,7 +41,7 @@ Seeqは今回バージョン1.4になりスゴイ機能が追加されました�
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>アップデート内容</h2>
 <p>アップデート内容をAppStoreから拝借</p>
 <blockquote><p>- iPadに対応し、ユニバーサルアプリとなりました。<br />

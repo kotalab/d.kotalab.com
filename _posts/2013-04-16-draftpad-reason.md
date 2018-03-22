@@ -36,7 +36,7 @@ DraftPadは僕のメモの受け皿として大活躍しています。<br />
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>起動が早い</h2>
 <p>とにかく起動が早いです！<br />
 どんなアプリでも起動時にロゴ画面が入りスクリーンショットを取る余裕が十分にあります。<br />

@@ -29,7 +29,7 @@ comments: []
 <p>このブログを始めてからいつも思っていることです。<br />
 ブログを始めた3年前からは想像もつかないことが本当にたくさん起こりました。</p>
 <p><span class="b">僕の人生を大きく変えたのはこのブログのおかげ</span>だと断言できます。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>僕はファイナンシャルプランナー！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/money-nenkin_140208.jpg" alt="money-nenkin_140208" width="780" class="aligncenter size-large wp-image-10785" /></p>
 <p>3年前からは想像できなかったことの1つは僕がファイナンシャルプランナーだということ。</p>

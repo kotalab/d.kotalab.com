@@ -63,7 +63,7 @@ Ideal = 理想の<br />
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ID-2</h2>
 <p>表参道駅のB1出口からすぐの場所にある「Cay」というタイ料理のお店を貸し切ってのトークライブでした。<br />
 ▼入り口にはID会場だとすぐわかるようになっています。<br />

@@ -57,7 +57,7 @@ ReederはGoogleリーダーがサービス中止を決定した時から、Googl
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>GoogleリーダーからReederへの移行方法</h2>
 <p>Googleリーダーに登録してあるデータをReederへの移行はiPhoneアプリから出来ます。<br />
 まずはGoogleリーダーに登録してあるRSSを入れるフォルダを作ります。<br />

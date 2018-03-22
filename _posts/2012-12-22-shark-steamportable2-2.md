@@ -40,7 +40,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>開封！</h2>
 <p>▼まずは本体！<br />
 <a href="https://kotalab.com/wp-content/uploads/steamportable_121222_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/steamportable_121222_02-448x336.jpg" alt="steamportable_121222_02" width="448" height="336" class="alignnone size-large wp-image-5017" /></a><br />

@@ -36,7 +36,7 @@ iPhoneでやるお金の管理にはbookeepというwebサービスを利用し�
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>bookeepを使う前</h2>
 <p>僕はこれまでiComptaという資産管理アプリを使っていました。<br />
 このアプリもよかったんですが、起動時に同期を行うのがネックとなっていました。<br />

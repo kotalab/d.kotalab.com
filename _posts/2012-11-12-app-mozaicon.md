@@ -35,7 +35,7 @@ comments: []
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>モザイコンとは</h2>
 <p>一言でいえば「写真の顔部分にTwitterのアイコンを貼付ける」そんなアプリです。<br />
 MoveEverやMergeEverでお馴染みのShamrock Records, Inc.さんのアプリです。<br />

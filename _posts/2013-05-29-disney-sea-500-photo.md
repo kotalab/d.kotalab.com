@@ -56,7 +56,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>撮った写真</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/disnysea_130528-448x297.jpg" alt="disnysea_130528" width="448" height="297" class="alignnone size-large wp-image-7284" /><br />
 <img src="https://kotalab.com/wp-content/uploads/disnysea_130529_11-448x297.jpg" alt="disnysea_130529_11" width="448" height="297" class="alignnone size-large wp-image-7309" /><br />

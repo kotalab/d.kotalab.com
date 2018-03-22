@@ -36,7 +36,7 @@ comments: []
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>iIDとは</h2>
 <blockquote><p>iID（あい・あいでぃー）はiPhone上で簡単に名札（IDカード）を作成し、表示するためのアプリです。オフ会や勉強会、初対面の人と出会うような場面でiPhoneを首から下げてお使いください。<br />
 App Storeより</p></blockquote>

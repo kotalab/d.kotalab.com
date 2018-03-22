@@ -48,7 +48,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>HAKUBA レンズペン2 BK KMC-LP6B</h2>
 <p>ペンの片側は山羊毛を使ったブラシが付属。<br />
 <img src="https://kotalab.com/wp-content/uploads/lenspen_130625_02-448x336.jpg" alt="lenspen_130625_02" width="448" height="336" class="alignnone size-large wp-image-7623" /><br />

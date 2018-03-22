@@ -29,7 +29,7 @@ comments: []
 <p>今回選んだのは月額660円から使える、DMMmobileのSIM。<br />
 申し込んで3日後くらいにようやく届きました。<br />
 到着予定日に合わせて回線の開通をしてくれていたおかげで、届いたらすぐに使えるようになりました。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>写真で見るSIMカードの取り付け方</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/02/slooProImg_20150227103006.jpg" width="720" height="540" /><br />
 ドコモの回線を利用しているので、SIMカードはドコモ。</p>

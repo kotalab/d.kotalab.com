@@ -50,7 +50,7 @@ Taskchuteを使わなくなりました。@kotala_bです。<br />
 <div class="clear"></div>
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/omnifocus/id402835630?mt=12&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Taskchuteとの別れ</h2>
 <p>約半年間使ってきたTaskchuteに別れを告げ、手元にある<a href="https://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" rel="nofollow" name="booklink" target="_blank">クラウド時代のタスク管理の技術</a>と<a href="https://www.amazon.co.jp/exec/obidos/asin/4863541112/same-22/" rel="nofollow" name="booklink" target="_blank">Toodledo「超」タスク管理術</a>を参考にしながら移行させました。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">

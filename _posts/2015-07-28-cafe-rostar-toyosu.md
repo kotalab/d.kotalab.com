@@ -27,7 +27,7 @@ comments: []
 <p>住所でいうと<br />
 東京都江東区豊洲3-2-20 豊洲フロントビル1F<br />
 です。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>108円で飲めるこだわりの自家焙煎コーヒー</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/07/cafe-rostar-toyosu_20150728_02.jpg" alt="Cafe rostar toyosu 20150728 02" width="780" height ="520" class="aligncenter size-large" /></p>
 <blockquote><p>コーヒーは生鮮食品同様、焙煎してからの鮮度管理が重要。<br />

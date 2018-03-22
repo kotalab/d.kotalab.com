@@ -23,7 +23,7 @@ comments: []
 <p>8月25日にあったRealm meetup #6の時に<a href="https://www.wantedly.com" target="_blank">wantedly</a>のエンジニア杉上さん<a href="https://twitter.com/susieyy" target="_blank">@susieyy</a>の発表で「<strong>Swiftはコンパイルに時間がかかる、MacBook Pro2台体制で開発をしている</strong>」という話がありました。</p>
 <p>コンパイルにかかる時間の対策の一つとして「<strong>必要なライブラリがCarthageに対応していればCocoaPodsではなくCarthageを使う</strong>」と。</p>
 <p>CocoaPods自体最近使い始めたばかりでCarthageのことは全然知らなかったんですが、コンパイル時間が短くなるなら試してみようと思い早速使ってみることにしました。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>Carthageの使い方</h2>
 <p>Carthageを使って実際にライブラリを入れるまでの流れを<br />
 モバイルデータベースの<a href="https://realm.io/jp/" target="_blank">Realm</a>を例に、新規プロジェクト作成からプロジェクト内でimportするところまでを紹介したいと思います。</p>

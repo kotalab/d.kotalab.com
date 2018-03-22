@@ -55,7 +55,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>MOLESKINEより安いお手頃価格</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/c-d-notebook_20141117_02-780x585.jpg" alt="c-d-notebook_20141117_02" width="780" height="585" class="aligncenter size-large wp-image-13598" /><br />
 無地で書きやすいノートがないかなぁと文房具屋さんに立ち寄ったときのこと。<br />

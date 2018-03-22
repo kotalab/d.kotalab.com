@@ -35,7 +35,7 @@ comments: []
 via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a> - P.7
 </p></blockquote>
 <p>なのだ。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>人脈の基本は「誰に知られているか」</h2>
 <p>僕はあの人を知ってる、あの人と名刺交換したことがある。<br />
 そういう関係は人脈とは呼べない。<br />

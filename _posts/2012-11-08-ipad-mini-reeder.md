@@ -47,7 +47,7 @@ iPhone5では「<span class="removed_link" title="click.linksynergy.com/fs-bin/c
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ReederのiPhone版とiPad版の違い</h2>
 <p>まず一覧画面での表示数が違います。<br />
 ▼iPadmini<br />

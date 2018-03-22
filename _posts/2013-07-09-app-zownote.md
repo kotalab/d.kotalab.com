@@ -40,7 +40,7 @@ Evernoteには読書メモ専用のノートブックを作り、いつでも読
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Zownoteの特徴</h2>
 <p><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fzownote-for-evernote%252Fid543468336%253Fmt%253D8%2526uo%253D4">ZowNote</span>は「==ZOENOTE==」というタグをつけたノートだけを同期するiPhoneアプリです。<br />
 全てのノートを同期するわけじゃないので、iPhoneで読みたいノート（外出先で読みたいノート）だけを読み込むことができます。</p>

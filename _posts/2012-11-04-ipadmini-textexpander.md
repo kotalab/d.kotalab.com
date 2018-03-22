@@ -36,7 +36,7 @@ Textexpanderが動かなくて焦りました。@kotala_bです。<br />
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>DraftPadで動かない！</h2>
 <p>DraftPadは初期状態ではTextexpanderは使えないのですが、Assists機能によってTextexpanderが使えるようになります！<br />
 iPhoneアプリでは動くのでiPadminiでも同様に動くはずなんですが、Assists機能を使ってもTextexpanderが動きませんでした。</p>

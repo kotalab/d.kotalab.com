@@ -37,7 +37,7 @@ Googleカレンダーとすぐに同期出来て見た目もキレイなカレ�
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>SunriseCalendar</h2>
 <p>SunriseCalendarの特徴はGoogleカレンダーとの同期の早さとシンプルでキレイなUIです。<br />
 アプリ起動時に自動同期してくれるので、毎回最新の情報に更新されます。<br />

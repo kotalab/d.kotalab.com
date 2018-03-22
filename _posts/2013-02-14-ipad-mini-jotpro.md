@@ -38,7 +38,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>JotProは書き心地がいい！</h2>
 <p>スタライスペンを購入するにあたりいくつか実際に触ってみました。<br />
 <img src="https://kotalab.com/wp-content/uploads/jotpro_130214_01-448x336.jpg" alt="jotpro_130214_01" width="448" height="336" class="alignnone size-large wp-image-6151" /><br />

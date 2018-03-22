@@ -47,7 +47,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>読書は本選びから</h2>
 <p>読む前に目的をはっきりさせておく。<br />
 一字一句丁寧に文章を追わなくても、目的意識をもって読むことで重要な部分を飛ばさずに読むことが出来る。<br />

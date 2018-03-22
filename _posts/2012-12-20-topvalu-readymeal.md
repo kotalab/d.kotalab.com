@@ -44,7 +44,7 @@ TVCMで見かけるようになりその存在が気になっていました。<
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>レディーミールのペスカトーレスパゲッティ</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/readymeal_121220_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readymeal_121220_01-448x448.jpg" alt="readymeal_121220_01" width="448" height="448" class="alignnone size-large wp-image-4963" /></a><br />
 色々あるなかから今回はペスカトーレスパゲッティを買ってみました！<br />

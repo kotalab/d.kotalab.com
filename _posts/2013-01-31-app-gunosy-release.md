@@ -44,7 +44,7 @@ Gunosyは毎日見てます。@kotala_bです。<br />
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Gunosyとは</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/gunosy_130131_01-300x513.png" alt="gunosy_130131_01" width="300" height="513" class="alignnone size-medium wp-image-5976" /><br />
 GunosyはTwitter、Facebook、はてなの3つのアカウントから興味を分析し、興味に合った記事を紹介してくれるサービスです。<br />

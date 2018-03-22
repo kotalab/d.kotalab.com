@@ -42,7 +42,7 @@ DpubのBはBloggerブロガー<br />
 昼の1時に乾杯して飲み始めその後二次会三次会までただひたすら飲み語るイベントです。<br />
 協賛企業なし出し物なしじゃんけん大会も何もありません。<br />
 ただの巨大な飲み会それがDpubです。</p></blockquote>
-<p><!--more--></p>
+<!--more-->
 <h2>行ってみたいイベント</h2>
 <p><a href="http://odaimoku.com" title="odaimoku.com" target="_blank">odaimoku.com</a>のお題で書きましたが、今年注目している一度は行ってみたいイベント。<br />
 それが僕にとってのDpubです。<br />

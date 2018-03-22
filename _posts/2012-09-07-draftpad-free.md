@@ -41,7 +41,7 @@ comments: []
 <div class="clear"></div>
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/draftpad/id358067114?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>起動が早い</h2>
 <p>シンプルな機能のおかげかとにかく起動が早い！<br />
 アイコンをタップしてすぐに起動します。</p>

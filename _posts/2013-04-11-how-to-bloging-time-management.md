@@ -46,7 +46,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>時間に締め切りを設ける</h2>
 <p>今まではブログを書き終わるまでひたすらブログに時間をかけていました。<br />
 朝食を食べた後から出勤するまでの時間をブログに使っていたのです。<br />

@@ -39,7 +39,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>栓抜き型ツールキーホルダー</h2>
 <p>▼パッケージ<br />
 <img src="https://kotalab.com/wp-content/uploads/6waytools_130220_01-448x336.jpg" alt="6waytools_130220_01" width="448" height="336" class="alignnone size-large wp-image-6256" /><br />

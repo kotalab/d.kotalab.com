@@ -44,7 +44,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のことを振り返ってみる</h2>
 <p><a href="https://kotalab.com/want-to-do-twenties" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/jiyuude_120815.jpg" alt="【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note" width="150" /></a><a href="https://kotalab.com/want-to-do-twenties" target="_blank">【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note</a><br style="clear:both;" />実践したくなった10のことをこのブログでご紹介しました。<br />
 それから10ヶ月が経ち、どれくらい自分で実践できているのか振り返ってみようと思います。<br />

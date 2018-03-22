@@ -40,7 +40,7 @@ Amazonの定期おトク便を使うようになりました。@kotala_bです�
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ラックスやダヴなどユニリーバ製品が安い！</h2>
 <p>4月1日からのキャンペーンでラックスやダヴなどのユニリーバ製品がお買い得になっています！</p>
 <p><iframe src="https://ws-fe.assoc-amazon.com/widgets/cm?t=same-22&o=9&p=20&l=ur1&category=healthbeauty&banner=1ZQM7VRNKBPYV6DS65R2&f=ifr" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></p>

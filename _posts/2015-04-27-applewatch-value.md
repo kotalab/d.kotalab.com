@@ -28,7 +28,7 @@ Appleのオンラインストアで予約しても発売日当日に届かない
 Appleとは真逆の販売方法です。</p>
 <p>家電量販店には当日分があるのにヤフオクでは定価よりも高い値段で落札されるというようなことが起きています。<br />
 参考：<a href="http://auctions.search.yahoo.co.jp/search?auccat=&tab_ex=commerce&ei=utf-8&p=Apple+watch&x=0&y=0" target="_blank">ヤフオク! - 「Apple watch」の検索結果</a></p>
-<p><!--more--></p>
+<!--more-->
 <h2>ネットでは簡単に買えないAppleWatch</h2>
 <p>近所にAppleWatchを取り扱ってる家電量販店があればいいですが、ヨドバシカメラもビックカメラも全国展開しているわりに、AppleWatchの販売は特定店舗のみでネット販売はなし。</p>
 <p>Appleで予約してもいつ届くか未定。</p>

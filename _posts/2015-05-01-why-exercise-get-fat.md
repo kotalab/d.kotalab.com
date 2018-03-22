@@ -41,7 +41,7 @@ comments: []
 <div class="clear"></div>
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/health-mate-by-withings-bu/id542701020?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>休みの日にたくさん動いた！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/why-exercise-get-fat_20150501_05.jpg" alt="Why exercise get fat 20150501 05" width="546" height ="364" class="aligncenter size-large" /></p>
 <p>休みの日に奥さんと六本木・銀座辺りに行った時、平日だと6000〜7000歩くらいのところその日はなんと17000歩も歩きました。<br />

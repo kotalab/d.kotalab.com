@@ -36,7 +36,7 @@ Seeqはとっても便利なんですが「URLスキーム」や「ランチャ�
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>準備</h2>
 <p>まずは検索方法を登録しておく必要があります。<br />
 <strong>SeeqのLibraryには予め沢山のアプリや検索手段が登録されているので、自分がよく使うモノを全て登録しましょう。<br />

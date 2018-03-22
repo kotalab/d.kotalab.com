@@ -26,7 +26,7 @@ comments: []
 <p>使うからには自分の使いやすい環境を作りたいです。<br />
 これは新しく買ったMacBook Proも一緒。</p>
 <p>初期設定のままだと何かと使いづらいこともあるので、MacBook Pro Retina15インチモデルを買って環境設定を変更しました。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>トラックパッド</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/macbook-pro-change-setting_20150524_022.png" alt="Macbook pro change setting 20150524 02" width="780" height ="626" class="aligncenter size-large" /></p>
 <p>2015年モデルから搭載された感圧トラックパッドの設定もここで変更できます。</p>

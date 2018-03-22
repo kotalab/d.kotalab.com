@@ -37,7 +37,7 @@ RSS以外にもGunosyやTwitter、Facebookなどのおかげでお気に入り�
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Gunosyとは</h2>
 <p>Gunosyというのは、<strong>自分にマッチした情報</strong>を毎日定期的に配信してくれるサービスです。<br />
 <a href="https://kotalab.com/gunosy-new" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/gunosy_121031.jpg" alt="新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note" width="150" /></a><a href="https://kotalab.com/gunosy-new" target="_blank">新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note</a><br style="clear:both;" /><strong>日経新聞</strong>や<strong>はてブ記事</strong>から、今まで見たことがなかったブログまで幅広く<strong>自分にマッチした情報</strong>が届きます。</p>

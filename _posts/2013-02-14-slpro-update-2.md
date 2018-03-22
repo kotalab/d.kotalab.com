@@ -52,7 +52,7 @@ iPadアプリとしてするぷろが使えるようになることを、iPadmin
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>するぷろの変更点</h2>
 <p>▼AppStoreから転載</p>
 <blockquote><p>・iPad対応<br />

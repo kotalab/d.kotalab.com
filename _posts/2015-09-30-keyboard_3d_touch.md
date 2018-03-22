@@ -26,7 +26,7 @@ iPhone6s/6sPlusから3D Touchという機能が追加されました。</p>
 <p>どんな機能か簡単に説明するとiPhoneのディスプレイを押す強さを検知して、強さに合わせた動作をしてくれる機能です。</p>
 <p>今のところはアプリによって対応はまちまちで、まだ対応していないアプリの方が多いです。<br />
 そんな3D Touchですが、文字入力をするアプリならほとんどのアプリで3D Touchを使うことができます。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>文字入力にかかせなくなりそうなキーボードの3D Touch</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/09/keyboard_3d_touch_20150930_02-300x533.jpg" alt="keyboard_3d_touch_20150930_02.jpg" width="300" height="533" class="aligncenter size-medium wp-image-14900" /></p>
 <p>文字入力中にキーボードを強めに押すとカーソル移動が自由に動き回れるように切り替わります。</p>

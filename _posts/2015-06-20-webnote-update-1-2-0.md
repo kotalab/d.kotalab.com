@@ -33,7 +33,7 @@ comments: []
 <div class="clear"></div>
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/webnote/id911802747?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ブラウザにアドレスバー追加</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/06/webnote-update-1-2-0_20150620_01-300x533.jpg" alt="webnote-update-1-2-0_20150620_01" width="300" height="533" class="aligncenter size-medium wp-image-14644" /></p>
 <p>アプリ内のブラウザにアドレスバーが追加されます。<br />

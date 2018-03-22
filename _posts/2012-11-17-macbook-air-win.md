@@ -43,7 +43,7 @@ windowsでしか動かないソフトの存在です。<br />
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>WindowsXPをBootcampで入れる</h2>
 <p>MacBookAirのBootcampを起動しWindowsXPを入れようとしたところ、BootcampのメニューにはWindows7の文字が！<br />
 Google先生に聞いたところMountainLion(OSX10.8)のBootcamp4.0からはWindowsXPはインストール出来ないそうです。<br />

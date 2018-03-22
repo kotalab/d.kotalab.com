@@ -48,7 +48,7 @@ comments:
 </div>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Momentoとは</h2>
 <p>Momentoは複数のSNSを同時に1つのタイムラインで眺めることが出来るアプリ。<br />
 それも各SNSを横断して、時系列ごとに並ぶので眺めるのが楽しいのです。<br />

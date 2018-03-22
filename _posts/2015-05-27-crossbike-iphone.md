@@ -26,7 +26,7 @@ comments: []
 予定のない日はどこへ行こうか考えるのも楽しいです。</p>
 <p>予定があっても行ける範囲であれば、今までは電車を使って行ってたような場所でもクロスバイクで行ってます。</p>
 <p>ついこの間も、自宅の町田から川崎駅まで片道約30キロの道を2時間くらいかけて行ってきました。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>Runtastic Road Bikeで記録を残そう</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/Icrossbike-iphone_20150527_01.png" alt="Crossbike iphone 20150527 01" width="780" height ="484" class="aligncenter size-large" /></p>
 <p>これは先日、川崎から町田へクロスバイクで移動したときのルートです。<br />

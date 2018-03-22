@@ -87,7 +87,7 @@ comments:
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>ソーラータイプのモバイルバッテリー</h2>
 <p>▼パッケージを開封すると短いUSBケーブルが2種類はいっていました。<br />
 <img src="https://kotalab.com/wp-content/uploads/solarbattery_130220_01-448x336.jpg" alt="solarbattery_130220_01" width="448" height="336" class="alignnone size-large wp-image-6260" /><br />

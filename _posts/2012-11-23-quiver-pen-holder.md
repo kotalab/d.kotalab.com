@@ -45,7 +45,7 @@ Evernoteも好きですがアナログのノートも好きです。@kotala_bで
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>Quiverとは</h2>
 <p>Quiverとはペンケース屋さんの名前で、直訳すると「矢筒」。<br />
 日本ではなくアメリカのお店です。<br />

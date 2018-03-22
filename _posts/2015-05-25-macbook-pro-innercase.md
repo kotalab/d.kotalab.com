@@ -26,7 +26,7 @@ comments: []
 表面に傷がつくことくらいならよかったんですが、液晶とキーボードを繋いでいるところのプラスチックが割れてしまっていました。</p>
 <p>新しく買ったMacBook Proではそれは避けたいと思ってケースを購入することにしました。</p>
 <p>Amazonで買ったおすすめのケースを紹介します。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>MacBook Pro Retina15インチ用ケースを写真で紹介</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/macbook-pro-innercase_20150525_011.jpg" alt="Macbook pro innercase 20150525 01" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>MacBook Pro Retina15インチが入るケースと、</p>

@@ -59,7 +59,7 @@ comments: []
 </div>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
-<p><!--more--></p>
+<!--more-->
 <h2>20代の今だからこそ知っておきたいこと</h2>
 <blockquote><p>この一冊を読めば、10年後のあなたは自由で、楽しく、幸せな会社人生を送ることができる。<br />
 会社員時代から経営者までの20年間、ビジネス界でいろいろな会社員を見てきた著者が、<br />

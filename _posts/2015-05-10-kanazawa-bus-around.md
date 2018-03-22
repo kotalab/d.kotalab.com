@@ -26,7 +26,7 @@ comments: []
 <p>金沢滞在2日目は金沢市内を走る周遊バスを使って、<a href="https://kotalab.com/kanazawa-higashichaya-chayu-2" title="金沢へ行ったら朝ごはんはホテルで食べない方がいい" target="_blank">朝の近江町市場</a>や<a href="https://kotalab.com/kanazawa-higashichaya-chayu" title="金沢ひがし茶屋街でゆっくりくつろげるスペース" target="_blank">ひがし茶屋街</a>、兼六園などの観光地巡りをしました。<br />
 金沢市内を走る周遊バスには1日乗り放題のフリー乗車券があって、1日500円で乗り放題。</p>
 <p>金沢市内を1日巡るにはぴったりです。</p>
-<p><!--more--></p>
+<!--more-->
 <h2>1日フリー乗車券で行ける場所</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-bus-around_20150510_09.jpg" alt="Kanazawa bus around 20150510 09" width="300" height ="400" class="aligncenter size-large" /></p>
 <p>周遊バスは金沢駅から右・左回りルートが出ていて、その他に兼六園シャトルというバスの3種類があります。<br />
