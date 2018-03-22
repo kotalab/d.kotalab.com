@@ -32,7 +32,8 @@ comments: []
 どこかに保存しておいてもスペースは食うし、いざ必要な情報を探したいと思ってもすぐには見つからない。<br />
 そんな経験が1度でもあるなら、貰った名刺はEvernoteに入れておくのをおすすめします。<br />
 Evernoteへ入れるとなるとスキャナが必要になりそうですが、iPhoneアプリのアップデートでiPhoneで写真を撮るだけで取り込めるようになりました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>EvernoteのiPhoneアプリがバージョンアップで名刺カメラを搭載</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/evernotescannamecard_131216_01-300x362.jpg" alt="evernotescannamecard_131216_01" width="300" height="362" class="alignnone size-medium wp-image-10287" /><br />
 iPhoneアプリのバージョン7.2からプレミアム機能に「名刺カメラ」モードが追加されました。<br />

@@ -25,7 +25,8 @@ comments: []
 クォーターパウンダーBLTを一足先に食べました。こたら（@kotala_b）です。<br />
 クォーターパウンダーBLTは来週月曜（6月24日）から全国で販売開始になります。<br />
 一足先に食べてきたクォーターパウンダーBLTをご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>クォーターパウンダーBLT</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/quarterpounder_130621-300x400.jpg" alt="quarterpounder_130621" width="300" height="400" class="alignnone size-medium wp-image-7550" /><br />
 ▼B（ベーコン）L（レタス）T（トマト）が印刷されたパッケージ<br />

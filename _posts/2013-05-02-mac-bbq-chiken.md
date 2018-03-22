@@ -24,7 +24,8 @@ comments: []
 久しぶりにマックで食べました。@kotala_bです。<br />
 食べたのは期間限定メニューのバーベキューチキン！<br />
 4月２６日から5月6日まで、ゴールデンウィーク期間中のみの限定販売です！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>バーベキューチキンを食べた！</h2>
 <p>▼普通の包装紙<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130502125649.jpg" width="448" height="448" /><br />

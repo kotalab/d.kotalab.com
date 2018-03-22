@@ -26,7 +26,8 @@ comments: []
 Evernoteが大好きです。@kotala_bです。<br />
 Evernoteにはメモをなんでも放り込んでます。<br />
 そんなEvernoteと連携する、iPad用の手書きのメモアプリPenultimateをご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Penultimate</h2>
 <p>▼公式の動画がこちら</p>
 <div class=video-container"><iframe width="448" height="252" src="http://www.youtube.com/embed/ItRaJBmdOL0?rel=0" frameborder="0" allowfullscreen></iframe></div>

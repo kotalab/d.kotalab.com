@@ -28,7 +28,8 @@ comments: []
 僕が<strong>Gunosy</strong>を知ったのは、今朝ツイッターをチラッと見た時でした。<br />
 <strong>Gunosy</strong>を紹介していたのはこちら。<br />
 <a href="http://saiut.com/webservice/gunosy/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://saiut.com/webservice/gunosy/" alt="RSSの時代は終わった！？自分の好みを分析して配信してくれる「Gunosy」が超便利！ | TRAVELING" width="150" height="130" /></a><a href="http://saiut.com/webservice/gunosy/" target="_blank">RSSの時代は終わった！？自分の好みを分析して配信してくれる「Gunosy」が超便利！ | TRAVELING</a><a href="https://b.hatena.ne.jp/entry/http://saiut.com/webservice/gunosy/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://saiut.com/webservice/gunosy/" alt="" /></a><br style="clear:both;" />超便利ということなので早速使ってみることにしました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Gunosyとは</h2>
 <p>まず先にこの<strong>Gunosy</strong>と言うのは何なのかをご紹介！<br />
 公式のメッセージを使うと、<strong>スマートなパーソナルマガジン</strong>。<br />

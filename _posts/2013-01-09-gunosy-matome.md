@@ -24,7 +24,8 @@ comments: []
 Gunosyは毎日チェックしてます。@kotala_bです。<br />
 今朝、Gunosyから2012年のまとめが届いていることに気づきました！<br />
 2012年のGunosyまとめをご紹介します！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Gunosyとは</h2>
 <p>▼Gunosyがよく分からない方はこちらからどうぞ。<br />
 <a href="https://kotalab.com/recommend-gunosy" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/gunosy_20121109.png" alt="RSS登録を減らしたのはGunosyの影響もあった！Gunosyをオススメする理由！ | kotala's note" width="150" /></a><a href="https://kotalab.com/recommend-gunosy" target="_blank">RSS登録を減らしたのはGunosyの影響もあった！Gunosyをオススメする理由！ | kotala's note</a><br style="clear:both" /></p>

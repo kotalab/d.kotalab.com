@@ -24,7 +24,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/akaricafe_130215-448x336.jpg" alt="akaricafe_130215" width="448" height="336" class="alignnone size-large wp-image-6181" /><br />
 立川の昭和記念公園に行ってしました。@kotala_bです。<br />
 昭和記念公園へ行く途中に立ち寄ったカフェがおしゃれでいい雰囲気だったので紹介したいと思います！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>akari cafe</h2>
 <p>▼落ち着いた雰囲気の店内<br />
 <img src="https://kotalab.com/wp-content/uploads/akaricafe_130215-448x336.jpg" alt="akaricafe_130215" width="448" height="336" class="alignnone size-large wp-image-6181" /><br />

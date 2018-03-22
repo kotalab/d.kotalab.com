@@ -40,7 +40,8 @@ comments:
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/jesseyvette/5752137437/" target="_blank">It is time to Reset the System!</a> / yvetteSoler</span><br />
 androidを初期化しました。@kotala_bです。<br />
 友人・知人に譲りたいbookoffに売りたいなど、使わなくなったandroidを手放す時に必ずやっておきたいandroidの初期化をご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>androidを初期化する方法</h2>
 <p>参考にしたのはコチラです。<br />
 <a href="http://howcollect.jp/article/1806" target="_blank"><img src="https://capture.heartrails.com/150x130?http://howcollect.jp/article/1806" alt="http://howcollect.jp/article/1806" width="150" height="130" align="left" /></a><a href="http://howcollect.jp/article/1806" target="_blank">Androidを初期化する方法 | ハウコレ</a><br style="clear:both;" /><br />

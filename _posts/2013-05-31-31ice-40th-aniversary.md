@@ -26,7 +26,8 @@ comments: []
 サーティーワンアイスクリームで40周年を記念して「Happy4You」という期間限定メニューが食べられます！<br />
 期間は5月29日から6月28日まで。<br />
 4つのアイスが1つのカップ楽しめるのは今だけ！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>4つのアイスが楽しめる「Happy4You」</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130531185215.jpg" width="448" height="297" /><br />
 「Happy4You」ではサーティーワンのアイスクリーム全種類の中から好きな4つを選べます。<br />

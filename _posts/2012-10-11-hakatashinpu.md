@@ -28,7 +28,8 @@ comments: []
 大つけ麺博とは、現在東京の浜松町駅前で開催されているつけ麺の日本一決定戦です。<br />
 参考：<a href="https://kotalab.com/daitukemenhaku" title="浜松町で開催されている大つけ麺博日本一決定戦に行ってきた！" target="_blank">浜松町で開催されている大つけ麺博日本一決定戦に行ってきた！</a><br />
 2つ食べたうちの1つは博多新風さんのつけ麺です！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>▼お店の前の様子<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121011215231.jpg" width="448" height="597" /><br />
 第2陣最終日ということもあって、行ったときにはすでに味玉が売り切れていました。残念！<br />

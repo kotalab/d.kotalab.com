@@ -32,7 +32,8 @@ comments: []
 月に1冊、2冊という時もあるけど、だいたい4冊は読めていました。<br />
 <strong>今月読んだ本を振り返ってみると倍以上の9冊を読んでいました！</strong><br />
 この大きな変化には今月から新たに始めたこととやめたことに要因がありそうです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1ヶ月間で読む本が2倍になった！</h2>
 <p>今年これまでに読んだ本のタイトルはこんな感じ。<br />
 <img src="https://kotalab.com/wp-content/uploads/readingpace_130902_02-546x244.jpg" alt="readingpace_130902_02" width="546" height="244" class="alignnone size-large wp-image-8308" /><br />

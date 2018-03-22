@@ -38,7 +38,8 @@ comments:
 東京から広島までの交通手段の選択肢は2つ。新幹線か飛行機か。<br />
 新幹線は簡単に探せたんですが安い航空券を探すのに一苦労。<br />
 そこで見つけたのがスカイスキャナーという安い航空券を探すのに便利なサイトです！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>新幹線で東京から広島へ</h2>
 <p>Yahoo!乗換案内で新幹線を使った場合の交通費と時間を調べてみました。<br />
 <img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_02-300x513.jpg" alt="skyscanner_130903_02" width="300" height="513" class="alignnone size-medium wp-image-8325" /><br />

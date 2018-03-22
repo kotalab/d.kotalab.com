@@ -24,7 +24,8 @@ comments: []
 とらやの羊羹を初めて食べました。@kotala_bです。<br />
 とらやと言えば羊羹、羊羹と言えばとらや。<br />
 <a href="http://www.toraya-group.co.jp/main.html" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://www.toraya-group.co.jp/main.html" alt="株式会社 虎屋" width="150" height="130" /></a><a href="http://www.toraya-group.co.jp/main.html" target="_blank">株式会社 虎屋</a><a href="https://b.hatena.ne.jp/entry/http://www.toraya-group.co.jp/main.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.toraya-group.co.jp/main.html" alt="" /></a><br style="clear:both;" />そんなとらやの羊羹を頂いたので食べてみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>開封！</h2>
 <p>▼これが頂いたとらやの羊羹の箱<br />
 <a href="https://kotalab.com/wp-content/uploads/toraya_121026.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/toraya_121026.jpg" alt="" title="toraya_121026" width="448" height="336" class="alignnone size-full wp-image-3699" /></a><br />

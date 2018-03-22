@@ -41,7 +41,8 @@ Bluetoothキーボードを購入しました。@kotala_bです。<br />
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <p>iPadminiのカバーにもスタンドにもなるキーボードです！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPadmini用Bluetoothキーボード</h2>
 <p>Amazonで調べてみると4つのiPadmini用Bluetoothキーボードが見つかりました。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;overflow: hidden">

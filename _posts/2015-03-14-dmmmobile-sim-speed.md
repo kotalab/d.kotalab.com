@@ -31,7 +31,8 @@ iPhoneの回線はauで月7GBまでは普通に使えて、それ以上だと速
 <p>au回線だけだと心許ないのでテザリングの代わりに、今まで使っていたPocketWi-Fiに格安SIMを入れて使えたらいいなーと思ってまずはDMMMobileのSIMを使ってみることにしました。</p>
 <p>何しろ初めてだったのでSIMフリーのモバイルルーターとしてホントに使えるのかってところも不安だったし、思うような速度が出なくても嫌なので月660円から使えるDMMMobileのSIMを選びました。</p>
 <p>そして実際に使ってみてどれくらい速度が出たのかをご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h3>新宿駅周辺</h3>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_01-780x520.jpg" alt="dmmmobile-sim-speed_150309_01" width="780" height="520" class="aligncenter size-large wp-image-14017" /><br />
 平日昼、新宿駅付近で測った時の速度</p>

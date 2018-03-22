@@ -28,7 +28,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/mobile-packet-cost-up_140704.jpg" alt="mobile-packet-cost-up_140704" width="780" class="aligncenter size-full wp-image-13311" /><br />
 SIMロック解除が義務化されるって聞くんですけど、詳しいことがよくわからないので<a href="http://www.soumu.go.jp/menu_news/s-news/01kiban03_02000275.html" target="_blank">総務省発表</a>の「<a href="http://www.soumu.go.jp/main_content/000330409.pdf" target="_blank">SIMロック解除に関するガイドライン</a>」というのを読んで、今まで気になってた部分をまとめました。</p>
 <p>SIMロック解除について気になっている人はぜひ参考にしてみてください。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>本当にSIMロック解除が義務化されるの？</h2>
 <p>真っ先に気になったのが「本当に義務化されるの？」ってことでした。</p>
 <p>SIMロック解除に関するガイドラインには「義務化」という言葉は書かれていません。<br />

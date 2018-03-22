@@ -23,7 +23,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120917123814.jpg" width="448" height="336" /><br />
 出勤時間を間違えそうになりました。。@kotala_bです。<br />
 予想外の早さで届いたMacBook Airが原因です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>早速開封</h2>
 <p>予想外の早さで届いたMacBook Airを早速開封です！<br />
 ▼まずは外箱から<br />

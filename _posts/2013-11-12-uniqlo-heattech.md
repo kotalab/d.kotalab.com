@@ -26,7 +26,8 @@ comments: []
 防寒対策はばっちり。こたら（@kotala_b）です。<br />
 東京は昨日から一気に寒くなりましたね。皆さんは防寒対策してますか？<br />
 僕はユニクロのヒートテックにお世話になってます！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ヒートテックタイツがスゴく暖かい</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/heattech_131112-546x361.jpg" alt="heattech_131112" width="546" height="361" class="alignnone size-large wp-image-10146" /><br />
 僕は夏も冬も1年中、室温10度くらいの部屋で仕事をしてたりします。<br />

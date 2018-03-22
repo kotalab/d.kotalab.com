@@ -26,7 +26,8 @@ comments: []
 幸せを感じることが嫌な人はいない。</p>
 <p>大きな幸せを味わうのは大変かもしれないが、小さな幸せなら1日の中でいくつもえられる。<br />
 僕が毎日を幸せに過ごすために実践している5つを紹介したい。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1.早く寝る</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/sleeptime_120822.jpg" alt="sleeptime_120822" width="780" class="aligncenter size-large wp-image-2241" /><br />
 夜はとにかく早く寝ること。</p>

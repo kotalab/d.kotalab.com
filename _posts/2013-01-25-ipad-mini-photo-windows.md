@@ -29,7 +29,8 @@ comments: []
 WindowsにiPadminiを接続してカメラロールの写真を見ようと思ったところすぐには見れませんでした。<br />
 Macだとフォトストリーム経由ですぐ見れるのに。<br />
 Windowsを弄っていたら見れるようになったので、そのやり方をご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPadminiの写真が見れなかった</h2>
 <p>▼iPadminiをWindowsに接続してマイコンピュータを開いたところ<br />
 <a href="https://kotalab.com/wp-content/uploads/ipadphoto_130125_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadphoto_130125_01-448x323.jpg" alt="ipadphoto_130125_01" width="448" height="323" class="alignnone size-large wp-image-5881" /></a><br />

@@ -30,7 +30,8 @@ comments: []
 <strong>撮った写真は外付けHDDとPicasaそしてEvernoteの3ヶ所に保存しています。<br />
 保存するための時間はたったの3分です。</strong><br />
 面倒くさがりな僕でも毎朝出来る簡単な方法をご紹介します！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>カメラロールをEvernoteへ保存する</h2>
 <p>Evernoteへの保存はiPhoneアプリのPictShareを使います。<br />
 PictShareにはあらかじめEvernoteのアカウントを登録しておきます。<br />

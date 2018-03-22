@@ -24,7 +24,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140603070504.jpg" width="548" height="309" class="slooProImg" /><br />
 Appleの開発者向け発表会WWDCで、新プログラミング言語のSwiftが発表されました！</p>
 <p>Appleがモダンでパワフルな言語と表現するSwiftは今日から開発可能となっています！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>SwiftのドキュメントはAppleサイトから入手可能！</h2>
 <p>Swiftに関するドキュメントはAppleのデベロッパー向けサイトから見られるようになっています。<br />
 ▼Swiftの概要<br />

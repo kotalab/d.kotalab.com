@@ -26,7 +26,8 @@ comments: []
 アイキャッチにもなってるトップの画像を見たことありますか？<br />
 僕は今朝初めて見ました。<br />
 これ実はiPhoneにデフォルトで入ってる電卓なんです！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhoneの電卓</h2>
 <p>良く目にするのは縦画面のこれです。<br />
 <img src="https://kotalab.com/wp-content/uploads/iphoneappcalculator_131030_02-300x513.jpg" alt="iphoneappcalculator_131030_02" width="300" height="513" class="alignnone size-medium wp-image-10079" /><br />

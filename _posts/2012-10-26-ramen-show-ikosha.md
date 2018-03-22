@@ -25,7 +25,8 @@ comments: []
 東京ラーメンショーでラーメンを2杯食べました。@kotala_bです。<br />
 1杯目は博多一幸舎のラーメンです！<br />
 とんこつに細麺の組み合わせに最近はまっていて、一杯目は迷わずここに決めました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>▼チャーシュー、たまご、高菜、ねぎ、のりと入った全部のせがこちら！<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121026182904.jpg" width="448" height="448" /><br />
 ▼面は細麺<br />

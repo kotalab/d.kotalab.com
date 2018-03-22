@@ -30,7 +30,8 @@ via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4478006431/same-22/" rel=
 <p>勝間和代さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478006431/same-22/" rel="nofollow" target="_blank">起きていることはすべて正しい―運を戦略的につかむ勝間式4つの技術</a>」という本の中でフォトリーディングが上記のように紹介されており、フォトリーディングに対してすごく興味を持った。</p>
 <p>「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478006431/same-22/" rel="nofollow" target="_blank">起きていることはすべて正しい―運を戦略的につかむ勝間式4つの技術</a>」の中で紹介されていたフォトリーディングに関する本「<a href="https://www.amazon.co.jp/exec/obidos/asin/4894513692/same-22/" rel="nofollow" target="_blank">[新版]あなたもいままでの10倍速く本が読める</a>」をすぐさまAmazonで注文して読むことにした。</p>
 <p>早速フォトリーディングを実践してみた感想を書きたいと思う。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>学校で習ってきた読書とは全く違う読書法</h2>
 <p>僕は小学校の頃に習った読書の仕方を今までずっと使ってきていた。<br />
 それは「文章の先頭から末尾まで、一字一句間違わずに読む」というものだ。<br />

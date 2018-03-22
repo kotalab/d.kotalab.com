@@ -25,7 +25,8 @@ comments: []
 GoogleAnalyticsがiPhoneでもiPadでも見れるアプリ「AnalyticsTiles」</p>
 <p>エラーでログインできなくなり、ある日突然AppStoreから消えていたアプリ。<br />
 そして<a href="https://kotalab.com/app-analytics-tiles" title="AnalyticsTilesのアップデートがきた！また元通り使えるようになってるよ！">今日のアップデートでまた使えるようになった</a>最近なにかとお騒がせ？なAnalyticsTilesがAppStoreに戻ってきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>AnalyticsTilesが戻ってきた！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/back-analytics-tiles_140403_01-546x407.png" alt="back-analytics-tiles_140403_01" width="546" height="407" class="alignnone size-large wp-image-11345" /><br />
 ブロガーに大人気のAnalyticsTilesがようやくAppStoreに並びました！<br />

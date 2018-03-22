@@ -25,7 +25,8 @@ comments: []
 今月に入ってから睡眠のログを取り始めました。@kotala_bです。<br />
 使ってるアプリは<strong>快眠リズム</strong>というアプリです。<br />
 今回は小石川ホームクリニックの門川誠さんという医師監修の<strong>快眠リズム</strong>という睡眠アプリをご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>快眠リズムの使い方</h2>
 <p>▼<strong>快眠リズム</strong>を起動するとセンサーの感度設定をします。<br />
 <a href="https://kotalab.com/wp-content/uploads/sleeplog_120813_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120813_01.png" alt="" title="sleeplog_120813_01" width="300" height="450" class="alignnone size-full wp-image-2074" /></a><br />

@@ -23,7 +23,8 @@ comments: []
 <p><</p>
 <p>p><script src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br />
 昨日は1時間程早く目が覚め、仕事が休みの日の今日も4時半には目が覚めました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ワクワク感</h2>
 <p>小学生が日曜日なのに早く起きるあれと似ています。<br />
 休みの日に対するワクワク感。<br />

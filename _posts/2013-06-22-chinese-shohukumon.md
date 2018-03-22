@@ -28,7 +28,8 @@ comments: []
 行ったのは飲茶食べ放題のお店「紹福門」です。<br />
 「紹福門」は渋谷ヒカリエにも出店する中華料理店。<br />
 お店の2階が飲茶食べ放題のフロア、6階は普通の中華料理を出していてメニューを見るとフカヒレランチもやっていました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>招福門の食べ放題メニューは全40種類</h2>
 <p>行ったのは2階の飲茶食べ放題。<br />
 <img src="https://kotalab.com/wp-content/uploads/shohukumon_130622_01-448x297.jpg" alt="shohukumon_130622_01" width="448" height="297" class="alignnone size-large wp-image-7586" /><br />

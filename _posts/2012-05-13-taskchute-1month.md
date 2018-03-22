@@ -19,7 +19,8 @@ comments: []
 ---
 <p><a href="https://kotalab.com/wp-content/uploads/cal.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cal.jpg" alt="" title="cal" width="448" height="448" class="alignnone size-full wp-image-656" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/busbong/5345325898/" title="カレンダーをめくりました。" target="_blank">カレンダーをめくりました。</a> / senov</span><br />
 4月11日からTaslchuteを始めて1ヶ月経ちました、@kotala_bです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>きっかけ</h2>
 <p>Taskchuteを使うきっかけになったのは<br />
 @jMatsuzakiさんの<br />
@@ -27,10 +28,8 @@ comments: []
 <img title="7つの習慣&times;TaskChute2！これでやっと完璧な第四世代の手帳が作れる！！ | 旧jMatsuzaki" src="https://capture.heartrails.com/150x130?https://jmatsuzaki.wordpress.com/2012/03/21/7%E3%81%A4%E3%81%AE%E7%BF%92%E6%85%A3%C3%97taskchute2%EF%BC%81%E3%81%93%E3%82%8C%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A8%E5%AE%8C%E7%92%A7%E3%81%AA%E7%AC%AC%E5%9B%9B%E4%B8%96%E4%BB%A3%E3%81%AE%E6%89%8B/" alt="https://jmatsuzaki.wordpress.com/2012/03/21/7%E3%81%A4%E3%81%AE%E7%BF%92%E6%85%A3%C3%97taskchute2%EF%BC%81%E3%81%93%E3%82%8C%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A8%E5%AE%8C%E7%92%A7%E3%81%AA%E7%AC%AC%E5%9B%9B%E4%B8%96%E4%BB%A3%E3%81%AE%E6%89%8B/" width="150" height="130" align="left"/>7つの習慣&times;TaskChute2！これでやっと完璧な第四世代の手帳が作れる！！<br style="clear:both;" /><br />
 この2つの記事でTaskchuteのスゴさ、活用方法を知り使ってみることにしました。<br />
 そして導入するにあたり<br />
-Taskchute公式エバンジェリストの@Surf_Fishさんの<br />
-<a href="http://hama73.blog137.fc2.com/blog-entry-198.html" target="_blank"><img title="344 TaskChute初心者の方にはまず「記録のみ」をおすすめします | 化学系メーカー研究職です" src="https://capture.heartrails.com/150x130?http://hama73.blog137.fc2.com/blog-entry-198.html" alt="http://hama73.blog137.fc2.com/blog-entry-198.html" width="150" height="130" align="left"/></a><a title="344 TaskChute初心者の方にはまず「記録のみ」をおすすめします " href="http://hama73.blog137.fc2.com/blog-entry-198.html" target="_blank">344 TaskChute初心者の方にはまず「記録のみ」をおすすめします</a><br style="clear:both;" /><br />
-この記事を参考にまずは記録することを始めました。<br />
-<!--more--></p>
+Taskchute公式エバンジェリストの@Surf_Fishさんの記事を参考にまずは記録することを始めました。<br />
+</p>
 <h2>使い始めてすぐに実感</h2>
 <p>5日くらい使っていると、毎日やっているルーチンがあることがわかってきてそれを繰り返しタスクとして登録するようになりました。<br />
 そして毎朝のルーチンにかかる時間を見積もり、起きてから出勤するまでの間にある空き時間がわかるようになってきました。</p>

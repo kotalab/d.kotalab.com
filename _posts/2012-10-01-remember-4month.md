@@ -28,7 +28,8 @@ comments: []
 今日は10月1日月曜日、色々な節目の始まりです。@kotala_bです。<br />
 週の始まりでもあり1ヶ月の始まりでもあり、今年最後の3ヶ月の始まりでもあります。<br />
 そんな節目の日に、<a href="https://kotalab.com" title="kotalab.com">kotalab.com</a>の推移を振り返りたいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>秘かにたてた目標</h2>
 <p>秘かにたてていた今年のブログの目標は月間5000PVでした。<br />
 <a href="http://masaya5923.com/?p=2496" target="_blank"><img src="https://capture.heartrails.com/150x130?http://masaya5923.com/?p=2496" alt="http://masaya5923.com/?p=2496" width="150" height="130" align="left" /></a><a href="http://masaya5923.com/?p=2496" target="_blank">一皮剥けたいブロガーへ送る！ブログの目標を数値化することで質を高めていくことができる | masaya5923.com</a><br style="clear:both;" /></p>

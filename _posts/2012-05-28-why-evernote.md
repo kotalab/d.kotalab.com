@@ -22,7 +22,8 @@ comments: []
 <a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>のノート数がいつの間にか1000を超えてました。<a href="https://twitter.com/kotala_b" target="_blank">@kotala_b</a>です。<br />
 まだ5ヶ月と日が浅いですが<a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>のノートを無作為に選んで見てみると面白いです。<br />
 なぜ<a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>をこんなに使っているのか考えてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>なんでも入れられる</h2>
 <p>テキストメモ以外にも動画・画像・PDF・webクリップなどなんでも入れられる。<br />
 また動画+メモやPDF+画像+メモといった組み合わせで1つのノートに保存出来ることが素晴らしいです。</p>

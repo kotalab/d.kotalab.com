@@ -40,7 +40,8 @@ PV数や売り上げなど表には出てこない裏の部分。<br />
 GoogleアナリティクスやGoogleアドセンスなどの解析ページは、パソコンからブラウザを開いて確認するのは詳細な情報まで取り出せる反面、毎日のちょっとしたチェック程度には手間がかかりすぎる。<br />
 そこでちょっとしたチェックに役立つのが今回紹介する4つのアプリです。<br />
 アプリを起動するだけで十分な情報を得ることが出来る4つのアプリをご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Feedback</h2>
 <p>SNSでのブログの反響を確認することが出来るアプリ「<span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ffeedback-buroguno-fan-xiangwo%252Fid577698758%253Fmt%253D8%2526uo%253D4">Feedback</span>」<br />
 ▼このようにSNSでの反響が一目で分かるようになります<br />

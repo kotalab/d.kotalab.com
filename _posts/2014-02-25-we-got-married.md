@@ -24,7 +24,8 @@ comments: []
 婚姻届を提出しただけなので、すぐに何か変わるわけじゃありません。<br />
 ちょっとずつ何かが変わっていくのでしょう。<br />
 1日1日の小さな変化にはあまり気づかないけど、振り返ってみた時に大きな変化になっているんだと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>育ててくれてありがとう！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/image-546x409.jpg" alt="" width="546" height="409" class="alignnone size-large wp-image-10979" /><br />
 両親に報告した時はすごい喜んでもらえました。<br />

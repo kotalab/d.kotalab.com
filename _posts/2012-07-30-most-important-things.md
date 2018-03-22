@@ -25,7 +25,8 @@ comments: []
 オリンピック選手を見るとこの日の為に大変な思いをして頑張ってたんだろうなとふと考えることがありました。<br />
 中にはオリンピックに出場することだったり、金メダルを取ることだったり目標は違えど、目標に向かって進む姿はかっこいいですよね。<br />
 そんなことを考えてたら今自分の中で一番大切なことって何だろうと疑問が浮かんできたので考えてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>人それぞれの目標</h2>
 <p>僕がブログを始めるきっかけにもなった@ttachiさんの記事では6つの分野について目標を作っていました。<br />
 <a href="https://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img src="https://capture.heartrails.com/150x130?https://www.ttcbn.net/no_second_life/archives/19748" alt="https://www.ttcbn.net/no_second_life/archives/19748" width="150" height="130" align="left" /></a><a href="https://www.ttcbn.net/no_second_life/archives/19748" target="_blank">今年から本気出す人へ 「6本の柱」で5年後の自分を計画しよう | No Second Life</a><br style="clear:both;" /><br />

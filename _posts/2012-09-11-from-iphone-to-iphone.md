@@ -38,7 +38,8 @@ appleの新製品発表が9月12日（アメリカ現地時間）に行われま
 この発表で紹介されるであろう新しいiPhoneにデータの移行をする際の手順を調べてみました。<br />
 参考にしたのはこちらです。<br />
 <a href="https://www.lifehacker.jp/2011/03/110309_backup.html" target="_blank"><img src="https://capture.heartrails.com/150x130?https://www.lifehacker.jp/2011/03/110309_backup.html" alt="https://www.lifehacker.jp/2011/03/110309_backup.html" width="150" height="130" align="left" /></a><a href="https://www.lifehacker.jp/2011/03/110309_backup.html" target="_blank">古いiPhoneから新しいiPhoneへデータを移行する方法 : ライフハッカー［日本版］</a><br style="clear:both;" />新しいiPhoneが出た時にすぐ使えるようにしていきましょう！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iTunesのバージョンの確認</h2>
 <p>まずはiTunesのバージョンを確認。<br />
 ▼iTunesを開きヘルプからバージョンを確認します。<br />

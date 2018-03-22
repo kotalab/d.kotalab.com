@@ -29,7 +29,8 @@ comments: []
 通勤時間が増えて電車に乗ってる時間が多くなったわけなんですが、そのおかげで読書ペースが大幅に上がりました。<br />
 今年に入ってから9冊読んで、9冊全部をブログで紹介できたことが今までになかったことです。<br />
 じゃあなんでそんなことができたのかと考えた時に、「習慣」という言葉が出てきました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>習慣の第1の変化</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_02-546x546.jpg" alt="change-habit_140204_02" width="546" height="546" class="alignnone size-large wp-image-10754" /><br />
 去年までは片道40分の通勤時間中、電車に乗ってるは約10分。<br />

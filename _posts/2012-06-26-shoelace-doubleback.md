@@ -21,7 +21,8 @@ comments: []
 ---
 <p><a href="https://kotalab.com/gravis-tarmac-hi-cut-mns" target="_blank"><img title="[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！ | kotala's note" src="https://capture.heartrails.com/150x130?https://kotalab.com/gravis-tarmac-hi-cut-mns" alt="https://kotalab.com/archives/967" width="150" height="130" align="left" /></a><a href="https://kotalab.com/gravis-tarmac-hi-cut-mns" title="[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！" target="_blank">[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！ | kotala's note</a><br style="clear:both;" /><a href="https://kotalab.com/gravis-tarmac-hi-cut-mns" title="[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！" target="_blank">先日新しい靴を買いました。</a>@kotala_bです。<br />
 靴には2種類の紐が入っていたので2本使って靴ひもをアレンジしてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p><iframe src="https://ws-fe.assoc-amazon.com/widgets/cm?t=same-22&o=9&p=13&l=ur1&category=special_apparel&f=ifr" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></p>
 <h2>靴ひもをアレンジ！</h2>
 <p>参考にしたのはこちらの記事です。<br />

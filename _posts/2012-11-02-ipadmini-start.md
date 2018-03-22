@@ -25,7 +25,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="" title="ipadmini_121027" width="448" height="336" class="alignnone size-full wp-image-3744" /></a><br />
 iPadminiが気になって仕方がありません。@kotala_bです。<br />
 ついに今日iPadminiが発売になりました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>AppleStoreでは午前8時から発売開始！</h2>
 <p>AppleStoreでは恒例の行列が出来ていたようです。<br />
 <a href="http://blog.livedoor.jp/mensstudio/archives/54241027.html" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://blog.livedoor.jp/mensstudio/archives/54241027.html" alt="【リアルタイム更新】「iPad mini」を買いにAppleStore銀座の行列に並んでおります！ | め～んずスタジオ" width="150" height="130" /></a><a href="http://blog.livedoor.jp/mensstudio/archives/54241027.html" target="_blank">【リアルタイム更新】「iPad mini」を買いにAppleStore銀座の行列に並んでおります！ | め～んずスタジオ</a><a href="https://b.hatena.ne.jp/entry/http://blog.livedoor.jp/mensstudio/archives/54241027.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://blog.livedoor.jp/mensstudio/archives/54241027.html" alt="" /></a><br style="clear:both;" />行列に並んでいた@asuka_xpさんの様子です。</p>

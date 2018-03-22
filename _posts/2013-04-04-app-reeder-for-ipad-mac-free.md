@@ -27,7 +27,8 @@ comments: []
 RSSを読むのはReederです。@kotala_bです。<br />
 iPhoneにもiPadにもMacにもReederが入っています。<br />
 <a href="https://kotalab.com/ipad-mini-reeder" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/reeder_121108.png" alt="iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-reeder" target="_blank">iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note</a><br style="clear:both;" />そんなReederから嬉しいお知らせがありました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Reederからのお知らせ</h2>
 <p>お知らせはReederの公式Twitterアカウントからです。</p>
 <blockquote class="twitter-tweet" lang="ja"><p>Reeder for Mac and iPad are now free. See here for more information: <a href="http://t.co/pKDN2a4y9y" title="http://reederapp.com/reader">reederapp.com/reader</a></p>

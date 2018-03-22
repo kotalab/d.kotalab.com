@@ -27,7 +27,8 @@ comments: []
 初めてのMacに徐々に慣れてきました。@kotala_bです。<br />
 <a href="https://kotalab.com/macbook-air-24hours" title="圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！" target="_blank">昨日お伝え</a>した通りMacBookAirが届いて、windowsから移行をしている真っ最中です。<br />
 そんな僕がMacBookAirに真っ先に入れたアプリをご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1.Evernote</h2>
 <p>真っ先に入れたのはEvernoteです。<br />
 これがなくては始まらない。<br />

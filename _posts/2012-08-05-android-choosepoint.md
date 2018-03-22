@@ -26,7 +26,8 @@ Androidを使ってる時は容量不足に悩んでました。@kotala_bです�
 その時書いたのがこちらの2つの記事です。<br />
 <a href="https://kotalab.com/android-memorycapacity" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/https://kotalab.com/hello-world" alt="https://kotalab.com/archives/107" width="150" height="130" align="left" /></a><a href="https://kotalab.com/android-memorycapacity" target="_blank">【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。 | kotala's note</a><br style="clear:both;" /><br />
 <a href="https://kotalab.com/android-memoryshortage" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/429" alt="https://kotalab.com/archives/429" width="150" height="130" align="left" /></a><a href="https://kotalab.com/android-memoryshortage" target="_blank">【Android】空き容量不足に悩むぼくがやっている4つのこと | kotala's note</a><br style="clear:both;" />2つの記事で書いた内容は、出た症状に対処する方法であって根本的な解決方法ではありませんでした。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>根本的な解決方法</h2>
 <p>根本的な解決方法は1つしかありません。<br />
 それは大容量モデルに機種変更することです。<br />

@@ -26,7 +26,8 @@ comments: []
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/girolame/4592377835/" target="_blank">internet WiFi availaible</a> / girolame</span><br />
 Androidを使っていた時からViberはよく使うアプリのひとつでした。@kotala_bです。<br />
 iPhoneに変えてからViberの起動時にメッセージが毎回出て困っていましたが、簡単に解決出来たので直し方をshare。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Viberとは</h2>
 <p>まずはViberのご紹介から。<br />
 Viber（バイバー）はアプリをインストールしてる端末同士なら通話やメッセージの送受信がパケット通信料のみで出来るツールです。<br />

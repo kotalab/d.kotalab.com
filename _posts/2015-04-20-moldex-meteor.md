@@ -27,7 +27,8 @@ comments: []
 静かな場所がすぐ見つかればいいけど、そういうわけにいかないことのほうが多い。</p>
 <p>だったら普段の場所で静かな環境が作れないかと思って、試しに耳栓を買ってみました。<br />
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00B4K8W1O/same-22/ref=nosim/" rel="nofollow" target="_blank">MOLDEX メテオ</a>という耳栓を使ってみたら、想像以上によかったのでご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>寝すぎるくらい静か</h2>
 <p><img src="https://images-fe.ssl-images-amazon.com/images/I/316P%2BwsnnVL.jpg" /><br />
 日曜のお昼ご飯を食べた後、眠くて15分くらい横になろうと思った時に初めて「<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00B4K8W1O/same-22/ref=nosim/" rel="nofollow" target="_blank">MOLDEX メテオ</a>」を使ってみました。</p>

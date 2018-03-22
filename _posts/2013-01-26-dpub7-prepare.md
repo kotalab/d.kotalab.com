@@ -35,7 +35,8 @@ comments:
 注文したのは1月22日。<br />
 届いたのが1月25日。<br />
 ビックリするほど早く届きました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ブロガー名刺が届きました</h2>
 <p>▼頼んだ時のことはこちら<br />
 <a href="https://kotalab.com/blogger-meishi-maekawa-insatsu" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/blogermeishi_130123-448x336.jpg" alt="Dpub7に向けてブロガー名刺を再注文！今回も前川企画印刷さんにお願いしました！ | kotala's note" width="150" /></a><a href="https://kotalab.com/blogger-meishi-maekawa-insatsu" target="_blank">Dpub7に向けてブロガー名刺を再注文！今回も前川企画印刷さんにお願いしました！ | kotala's note</a><br style="clear:both;" />注文した翌日には発送完了とのメールを頂きました。<br />

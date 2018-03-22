@@ -26,7 +26,8 @@ comments: []
 カバンの中がすっきりしました。@kotala_bです。<br />
 無印良品でタテヨコどちら向きでも使えるバッグインバッグを買いました。<br />
 <a href="http://www.muji.net/store/cmdty/detail/4548718598458" target="_blank"><img src="https://capture.heartrails.com/150x130?http://www.muji.net/store/cmdty/detail/4548718598458" alt="http://www.muji.net/store/cmdty/detail/4548718598458" width="150" height="130" align="left" /></a><a href="http://www.muji.net/store/cmdty/detail/4548718598458" target="_blank">タテでもヨコでも使える　取外しポケット付整理パネル　Ａ４・黒 | 無印良品ネットストア</a><br style="clear:both;" />便利なバッグインバッグの紹介です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>バッグインバッグ</h2>
 <p>▼表面のポケットは全部で４つ<br />
 <a href="https://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" alt="" title="baginbag_120919_02" width="448" height="336" class="alignnone size-full wp-image-2826" /></a><br />

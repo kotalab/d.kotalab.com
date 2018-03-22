@@ -28,7 +28,8 @@ comments: []
 via:<a href="https://kotalab.com/use-nanaco-4-reason" target="_blank">電子マネーはnanaco！僕がnanacoを使う4つの理由</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/use-nanaco-4-reason" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/use-nanaco-4-reason" alt="" /></a>
 </p></blockquote>
 <p>この時紹介した還元率がnanacoチャージに限り変更となってしまうことになりました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>nanacoクレジットチャージのポイント還元は0.5%に！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/02/kanpostyle-change-pointsystem_20150226_02-780x585.jpg" alt="kanpostyle-change-pointsystem_20150226_02" width="780" height="585" class="aligncenter size-large wp-image-13934" /><br />
 2月5日に漢方スタイルクラブカードからサービス改定のご案内というハガキが届きました。</p>

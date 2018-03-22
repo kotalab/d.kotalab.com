@@ -46,7 +46,8 @@ comments:
 <a href="http://egg-is-world.com/app-creator-dojo-develop/" target="_blank">未経験者向けのiPhoneアプリ開発講座「アプリクリエイター道場 東京塾・大阪塾」</a><a href="https://b.hatena.ne.jp/entry/http://egg-is-world.com/app-creator-dojo-develop/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://egg-is-world.com/app-creator-dojo-develop/" alt="" /></a></p>
 <p>そんなアプリ道場が今回、AppleStore銀座でイベントを開催しました！<br />
 今回のイベントではアプリ道場卒業生達がリリースしたアプリの紹介や開発秘話、アプリを出してからの生活や考え方の変化などなど色々な発表ありました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>イベント会場はあのスティーブ・ジョブズも立った場所</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20141025132812.jpg" width="720" height="479" class="slooProImg" /><br />
 今回のイベント会場となったのはAppleStore銀座の3階シアターです！<br />

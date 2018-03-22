@@ -24,7 +24,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/bank_130425-448x336.jpg" alt="bank_130425" width="448" height="336" class="alignnone size-large wp-image-6915" /><br />
 メインバンクとして住信SBIネット銀行を5年以上使っています。こたら（@kotala_b）です。<br />
 メインバンクとして使う大きな理由あるからです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>他行宛の振込手数料が毎月3回まで無料</h2>
 <p>毎月決まった振込をするという方にはとってもおトクな振込手数料無料です。<br />
 僕はクレジットカードの引き落としを別口座にしているので、毎月その口座宛にネットで振込をしています。<br />

@@ -31,7 +31,8 @@ Googleリーダーは7月1日でサービス終了となります。<br />
 Googleリーダーからの移行がまだ終わっていない方、まだ移行先を決めかねている方もデータだけは保存しておきましょう。<br />
 RSSデータの保存方法はこちら<br />
 <a href="https://kotalab.com/change-googlereader" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/rss_121210-448x336.jpg" alt="Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/change-googlereader" target="_blank">Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note</a><br style="clear:both;" /><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>オススメRSSリーダーはReeder</h2>
 <p>僕のイチオシRSSリーダーはiPhoneアプリのReederです。<br />
 <a href="https://kotalab.com/app-reeder-local-rss" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="https://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" />単独でRSSの登録ができますし、SNSへのシェアやPocketへの追加など僕が欲しい機能が入ってます。<br />

@@ -21,7 +21,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/disney_light.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/disney_light.jpg" alt="" title="disney_light" width="448" height="600" class="alignnone size-full wp-image-1156" /></a><br />
 週間予報で1日だけしかない雨の日にディズニーランドに行ってきました。@kotala_bです。<br />
 昨日行ってきたディズニーランドについて書こうと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>入園前にパスケースを購入</h2>
 <p>10時に舞浜駅に到着し、駅前のディズニーショップ<a title="ボンヴォヤージュ" href="https://www.tokyodisneyresort.co.jp/bv/" target="_blank">ボンヴォヤージュ</a>でパスケースを買いました。<br />
 行く前はさほど積極的な感じではありませんでしたが、<strong>夢の国</strong>の入口が見えてくると次第に<strong>興奮</strong>してきました。<br />

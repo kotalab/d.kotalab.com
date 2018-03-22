@@ -33,7 +33,8 @@ comments: []
 これまで作っていた5年計画や年間計画の他に30代の10年間計画を作ってみようと思います。<br />
 10年計画の作成は、10年後の自分を想像して文字にするという作業。<br />
 「あんなことやりたい、こんな風になっていたい」と想像しながら作るのはとっても楽しい時間です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>5ヶ年計画を作り始めたきっかけ</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_01-546x409.jpg" alt="iphone5scompareiphone5_130920_01" width="546" height="409" class="alignnone size-large wp-image-9560" /><br />
 僕が5ヶ年計画を作り、更には年間計画を作るようになったのは立花岳志さん（@ttachi）のブログ記事を見てからのことです。</p>

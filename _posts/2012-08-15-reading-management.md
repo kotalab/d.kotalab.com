@@ -26,7 +26,8 @@ comments: []
 <span style="font-size:10px;"><a href="http://www.ashinari.com/2010/10/29-037077.php?category=317" target="_blank">読書する女性</a>　/　足成</span><br />
 ライフログとして読書ログを取っています。@kotala_bです。<br />
 iPhoneを購入してから、その仕方が変わり試行錯誤しています。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>読みたい本のリスト</h2>
 <p>▼読みたい本のリストとしてamazonの欲しい物リストを使っています。<br />
 <a href="https://kotalab.com/wp-content/uploads/book_120815_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/book_120815_01.jpg" alt="" title="book_120815_01" width="448" height="336" class="alignnone size-full wp-image-2138" /></a><br />

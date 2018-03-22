@@ -27,7 +27,8 @@ comments: []
 <p>最近はミネラルウォーターを頼むと配送料がかかるようになっているのですが、20キロ以上のミネラルウォーターをお店から家まで運ぶことを考えたら安いものです。<br />
 Amazonプライム会員なら配送料もかかりませんしね。</p>
 <p>そんな感じで1、2ヶ月に1回はAmazonでミネラルウォーターを買ってるんですが、見慣れないミネラルウォーターがあったので頼んでみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Amazon限定「TABLE WATER」</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/amazon-water_140810_03.jpg" alt="Amazon water 140810 03" title="amazon-water_140810_03.jpg" border="0" width="548" height="365" /><br />
 初めて見るTABLEWATERのパッケージ。</p>

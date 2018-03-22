@@ -25,7 +25,8 @@ comments: []
 チキンサルサバーガーを食べました。こたら（@kotala_b）です。<br />
 今マクドナルドではメキシカンテイストのサルサバーガー3種類が発売中です。<br />
 3種類の中からチキンサルサを食べてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>チキンサルサ</h2>
 <p>チキンとサルサソースがプリントされた包装紙<br />
 <img src="https://kotalab.com/wp-content/uploads/macmexican_130803-448x448.jpg" alt="macmexican_130803" width="448" height="448" class="alignnone size-large wp-image-7967" /><br />

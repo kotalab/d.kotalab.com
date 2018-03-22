@@ -27,7 +27,8 @@ comments: []
 大つけ麺博は日本一おいしいつけ麺を決める大イベント！<br />
 計24店舗が日本一おいしいつけ麺の名をかけた大つけ麺博日本一決定戦！<br />
 去年は浜松町で開催されましたが、今年は新宿歌舞伎町で開催されてます！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>2013年の大つけ麺博は新宿歌舞伎町で開催</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_02-546x409.jpg" alt="tukemenhaku_131012_02" width="546" height="409" class="alignnone size-large wp-image-9894" /><br />
 場所を新宿に移し開催されてる大つけ麺博。<br />

@@ -28,7 +28,8 @@ comments: []
 その名もodaimoku.com<br />
 <a href="http://odaimoku.com/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://odaimoku.com/" alt="odaimoku.com | ブログのネタがないよー！という皆様におくる、ネタ帳？的な？" width="150" height="130" /></a><a href="http://odaimoku.com/" target="_blank">odaimoku.com | ブログのネタがないよー！という皆様におくる、ネタ帳？的な？</a><span class="removed_link" title="b.hatena.ne.jp/entry/http://odaimoku.com/"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://odaimoku.com/" alt="" /></span><br style="clear:both;" />ブログネタがないよ！という人に送るネタ帳的なブログ！<br />
 記念すべき第一回目のお題目について書いてみようと思います！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>2013年注目のイベント</h2>
 <p>記念すべき第一回目のお題目は2013年の注目してるイベントです。<br />
 <span class="removed_link" title="odaimoku.com/2013/01/05/odaimoku-com%e5%88%9d%e3%81%ae%e3%81%8a%e9%a1%8c%e7%9b%ae%e3%80%82/"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://odaimoku.com/2013/01/05/odaimoku-com%e5%88%9d%e3%81%ae%e3%81%8a%e9%a1%8c%e7%9b%ae%e3%80%82/" alt="odaimoku.com初のお題目。「2013年で注目しているイベントはなんですか？」　#odaimoku_2013_Event | odaimoku.com" width="150" height="130" /></span><span class="removed_link" title="odaimoku.com/2013/01/05/odaimoku-com%e5%88%9d%e3%81%ae%e3%81%8a%e9%a1%8c%e7%9b%ae%e3%80%82/">odaimoku.com初のお題目。「2013年で注目しているイベントはなんですか？」　#odaimoku_2013_Event | odaimoku.com</span><span class="removed_link" title="b.hatena.ne.jp/entry/http://odaimoku.com/2013/01/05/odaimoku-com%e5%88%9d%e3%81%ae%e3%81%8a%e9%a1%8c%e7%9b%ae%e3%80%82/"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://odaimoku.com/2013/01/05/odaimoku-com%e5%88%9d%e3%81%ae%e3%81%8a%e9%a1%8c%e7%9b%ae%e3%80%82/" alt="" /></span><br style="clear:both;" />今年個人的に注目してるイベントを紹介します！</p>

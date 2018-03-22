@@ -36,7 +36,8 @@ comments: []
 便利なアプリが大好きです。@kotala_bです。<br />
 こんな企画があったので参加したいと思います！<br />
 <a href="http://crossmodelife.com/2012/11/27/2680/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://crossmodelife.com/2012/11/27/2680/" alt="〈企画〉あなたにとっての神アプリを教えてください。#my_kamiapp | iPhoneアプリ紹介 | Cross Mode Life" width="150" height="130" /></a><a href="http://crossmodelife.com/2012/11/27/2680/" target="_blank">〈企画〉あなたにとっての神アプリを教えてください。#my_kamiapp | iPhoneアプリ紹介 | Cross Mode Life</a><a href="https://b.hatena.ne.jp/entry/http://crossmodelife.com/2012/11/27/2680/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://crossmodelife.com/2012/11/27/2680/" alt="" /></a><br style="clear:both;" /><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>僕の中の神アプリ8つ</h2>
 <p>神アプリというには基準がそれぞれということで、紹介するアプリの基準をまず決めました。<br />
 今回選んだ基準は<strong>毎日使っている僕にとってなくてはならないアプリ</strong>です！<br />

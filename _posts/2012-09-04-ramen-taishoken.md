@@ -25,7 +25,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904172617.jpg" width="448" height="336" /><br />
 今日はつけ麺にしました。@kotala_bです。<br />
 <a href="https://kotalab.com/machida-taishoken" target="_blank">前回</a>は油そばを食べましたが、今回はつけ麺です！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>今回は全部入りのつけ麺並(950円)を頼みました。<br />
 ▼通されたのは一番奥の席<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904171536.jpg" width="448" height="336" /><br />

@@ -26,7 +26,8 @@ comments: []
 広島へ行く前に羽田空港でランチを食べました。<br />
 羽田空港国内線第2ターミナルの4階にある洋食レストランの「グリルアンドバール」<br />
 お店の前に広がる景色がとってもいいお店でした！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>滑走路が目の前にあるお店</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/grillbar_131003_05-546x546.jpg" alt="grillbar_131003_05" width="546" height="546" class="alignnone size-large wp-image-9751" /><br />
 ランチを食べたお店「グリルアンドバール」はなんと目の前が滑走路！<br />

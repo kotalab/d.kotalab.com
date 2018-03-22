@@ -25,7 +25,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121026183926.jpg" width="448" height="336" /><br />
 初めて牛骨スープを食べました。@kotala_bです。<br />
 東京ラーメンショーで食べた2杯目のラーメンで牛骨スープを食べました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>▼チャーシューのせをたのみました！<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121026183925.jpg" width="448" height="448" /><br />
 ▼ブラックペッパーが効いて香ばしい風味のチャーシュー<br />

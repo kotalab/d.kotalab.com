@@ -24,7 +24,8 @@ comments: []
 XMLサイトマップはプラグインで導入しました。こたら（@kotala_b）です。<br />
 検索エンジンに対して、サイト内のページ情報を伝えるのに使うのがXMLサイトマップ。<br />
 WordPressブログの場合、プラグインの「Google XML Sitemaps」を使うことでこのXMLサイトマップを一瞬で作成出来ます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Google XML Sitemapsの使い方</h2>
 <p>まずは管理画面からプラグインの導入をします。<br />
 インストールし有効化すると管理画面の設定に「XML-Sitemaps」が追加されます。<br />

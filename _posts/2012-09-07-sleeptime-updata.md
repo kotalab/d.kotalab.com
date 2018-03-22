@@ -26,7 +26,8 @@ comments: []
 睡眠ログはライフログに欠かせないものになってきてます。@kotala_bです。<br />
 寝る前に起動して起きたら止めるだけなので簡単に習慣化が出来るのも続けられるコツです。<br />
 僕はSleepTimeというアプリを使って睡眠ログを取っていますが、そのSleepTimeがバージョン2.0にアップデートされたのでアップデート内容を紹介していきます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>アップデート内容</h2>
 <p>一番最初に目についたのはアイコンの変更でした。<br />
 <a href="https://kotalab.com/wp-content/uploads/sleeptime_120907_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120907_01.jpg" alt="" title="sleeptime_120907_01" width="448" height="224" class="alignnone size-full wp-image-2562" /></a><br />

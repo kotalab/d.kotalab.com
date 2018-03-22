@@ -26,7 +26,8 @@ comments: []
 <strong>アサイー</strong>と<strong>スワークル</strong>どちらも初体験です。@kotala_bです。<br />
 ところで<strong>スワークル</strong>と<strong>アサイー</strong>は一体なんなのでしょう。<br />
 アサイーは何度か耳にしたことはあったんですが、<strong>スワークル</strong>というものは今日初めて知りました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>スワークルとは</h2>
 <p><strong>スワークル</strong>という言葉を初めて目にするという方もいらっしゃるでしょう。<br />
 Wikipediaで調べるとこう書いてありました。<br />

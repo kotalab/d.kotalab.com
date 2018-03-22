@@ -25,7 +25,8 @@ comments: []
 バックアップにはプラグインの「BackWPup」を使用しました。<br />
 <a href="https://blog.quusookagaku.com/wordpress/6876/" target="_blank"><img title="自分のWordPressブログを守るために出来る３つのこと*frasm" src="https://capture.heartrails.com/150x130/1341345039037?https://blog.quusookagaku.com/wordpress/6876/" alt="https://blog.quusookagaku.com/wordpress/6876/" width="150" height="130" align="left" /></a><a href="https://blog.quusookagaku.com/wordpress/6876/" title="自分のWordPressブログを守るために出来る３つのこと*frasm" target="_blank">自分のWordPressブログを守るために出来る３つのこと*frasm</a><br style="clear:both;" /><br />
 ブログのバックアップを取ろうと思ったのはこちらの記事を見たことがきっかけでした。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>BuckWPup</h2>
 <p>「BuckWPup」の使い方はこちらを参考にしました。<br />
 <a href="http://knk-n.com/2012/06/08/backwpup_wordpress_backup-plugin/" target="_blank"><img title="[K] データベースもファイルもこれ一本で大丈夫！WordPressバックアッププラグイン「BackWPup」を使ってみた" src="https://capture.heartrails.com/150x130?http://knk-n.com/2012/06/08/backwpup_wordpress_backup-plugin/" alt="http://knk-n.com/2012/06/08/backwpup_wordpress_backup-plugin/" width="150" height="130" align="left" /></a><a href="http://knk-n.com/2012/06/08/backwpup_wordpress_backup-plugin/" title="[K] データベースもファイルもこれ一本で大丈夫！WordPressバックアッププラグイン「BackWPup」を使ってみた" target="_blank">[K] データベースもファイルもこれ一本で大丈夫！WordPressバックアッププラグイン「BackWPup」を使ってみた</a><br style="clear:both;" />設定の仕方が詳しく載っています。<br />

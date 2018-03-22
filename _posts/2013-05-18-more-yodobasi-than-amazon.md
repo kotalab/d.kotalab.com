@@ -30,7 +30,8 @@ comments: []
 それともう1つ。<br />
 ▼この記事を見てお店の対応を見てみたかったというのもあります。<br />
 <a href="http://frnk.hatenablog.jp/entry/2013/04/08/080159" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://frnk.hatenablog.jp/entry/2013/04/08/080159" alt="最近のヨドバシカメラが完全にAmazonを超えている件 - らっこのじゆうちょう" width="150" height="130" /></a><a href="http://frnk.hatenablog.jp/entry/2013/04/08/080159" target="_blank">最近のヨドバシカメラが完全にAmazonを超えている件 - らっこのじゆうちょう</a><a href="https://b.hatena.ne.jp/entry/http://frnk.hatenablog.jp/entry/2013/04/08/080159" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://frnk.hatenablog.jp/entry/2013/04/08/080159" alt="" /></a><br style="clear:both;" />ヨドバシがAmazonを超えているというので試しに価格交渉をしてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ヨドバシ店頭で価格交渉をしてみた</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/Amazonyodobasi_130518_01-448x337.jpg" alt="Amazonyodobasi_130518_01" width="448" height="337" class="alignnone size-large wp-image-7175" /><br />
 ヨドバシの店頭価格はAmazonよりも若干高めの設定のモノが多かったです。<br />

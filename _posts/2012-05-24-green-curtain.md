@@ -21,7 +21,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/greencurtain.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/greencurtain.jpg" alt="" title="greencurtain" width="448" height="597" class="alignnone size-full wp-image-1161" /></a><br />
 去年はゴーヤのグリーンカーテンをやりました。@kotala_bです。<br />
 去年は食べきれないほどのゴーヤが出来てしまい、今年は他の植物に変えることになりました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>フウセンカズラ</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/greencurtain_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/greencurtain_01.jpg" alt="" title="greencurtain_01" width="448" height="597" class="alignnone size-full wp-image-1162" /></a><br />
 今年植えたのは<a href="http://yasashi.info/hu_00034.htm" target="_blank">フウセンカズラ</a>というつる性の植物です。風船状の果実を見て楽しむ植物だそうです。<br />

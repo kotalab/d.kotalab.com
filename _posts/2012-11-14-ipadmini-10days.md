@@ -27,7 +27,8 @@ comments: []
 iPadminiは発売日当日に買いました。@kotala_bです。<br />
 もともと予約をしていなかったので発売日当日に買えるとは思ってもいませんでした。<br />
 <a href="https://kotalab.com/ipad-mini-machida-ydobashi" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121102132946.jpg" alt="iPadmini購入！ヨドバシ町田に行ったら当日分があった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-machida-ydobashi" target="_blank">iPadmini購入！ヨドバシ町田に行ったら当日分があった！ | kotala's note</a><br style="clear:both;" />iPadminiを買ってから約10日間経ち、色々使ってたことでわかったよかった点悪かった点について書いてみたいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>よかった部分</h2>
 <h3>RSSが読みやすい</h3>
 <p>RSS購読については大変満足しています。<br />

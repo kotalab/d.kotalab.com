@@ -27,7 +27,8 @@ Googleカレンダーにはなかった便利な機能がMacのデフォルト�
 それが予定のコピペです。<br />
 Googleカレンダーで予定を複製する場合は、個別の予定編集画面からいちいち複製して日付を変えるという面倒くさい手間がありました。<br />
 iCalではカレンダー上でコピーしたい予定のコピペが行えるのです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iCalで予定をコピペする方法</h2>
 <p>まずはコピーしたい予定を選択して「Command+C」で予定のコピー。<br />
 <img src="https://kotalab.com/wp-content/uploads/ical_130619_01-448x275.jpg" alt="ical_130619_01" width="448" height="275" class="alignnone size-large wp-image-7530" /><br />

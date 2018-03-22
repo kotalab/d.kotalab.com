@@ -25,7 +25,8 @@ comments: []
 wordpressのプラグイン＠anywhereplusを使っていました。@kotala_bです。<br />
 ところが9月にこんなニュースがあり、プラグインを削除していたのでした。<br />
 <a href="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://www.itmedia.co.jp/news/articles/1209/07/news039.html" alt="Twitter、WebサイトにTwitter機能を埋め込む「＠Anywhere」を終了　12月6日までに移行を - ITmedia ニュース" width="150" height="130" /></a><a href="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" target="_blank">Twitter、WebサイトにTwitter機能を埋め込む「＠Anywhere」を終了　12月6日までに移行を - ITmedia ニュース</a><a href="https://b.hatena.ne.jp/entry/http://www.itmedia.co.jp/news/articles/1209/07/news039.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.itmedia.co.jp/news/articles/1209/07/news039.html" alt="" /></a><br style="clear:both;" />12月6日までにとあり、昨日その日を迎えることになりました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>まだ使える！？</h2>
 <p>12月6日を過ぎ現在12月7日なんですが、実際にまだ＠anyhwereplusのプラグインを入れたままのサイトも現状でまだ使えてるようです。<br />
 Hovercardsというポップアップが表示されますし、プラグインのインストールも今のところ可能でした。</p>

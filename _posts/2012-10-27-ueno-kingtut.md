@@ -27,7 +27,8 @@ comments: []
 ツタンカーメン展に行ってきました。@kotala_bです。<br />
 上野の森美術館で開催中のツタンカーメン展！<br />
 <span class="removed_link" title="kingtut.jp/"><img src="https://capture.heartrails.com/150x130?http://kingtut.jp/" alt="http://kingtut.jp/" width="150" height="130" align="left" /></span><span class="removed_link" title="kingtut.jp/">KINGTUT　ツタンカーメン展　～黄金の秘宝と少年王の真実～ 　- Tutankhamun and The Golden Age of The Pharaohs -　フジテレビ</span><br style="clear:both;" /><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>公園口から向かう</h2>
 <p>上野の森美術館へは上野駅の公園口から行きました！<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121027133610.jpg" width="448" height="336" /><br />

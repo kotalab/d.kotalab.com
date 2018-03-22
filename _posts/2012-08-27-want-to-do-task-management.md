@@ -28,7 +28,8 @@ comments: []
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/sookie/31219031/" target="_blank">massive change</a> / 416style</span><br />
 ここ半年くらいで自分が劇的に変化しています。@kotala_bです。<br />
 「やりたいことをするには色々な仕組みがある」ということがわかったのが自分の変化に大きく繋がっています。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>やりたいことはやりたいと思ってもすぐに忘れてしまう</h2>
 <p>どんなにやりたくても、やりたいと思っただけではすぐに忘れてしまうことがわかりました。<br />
 まずはやりたいことを忘れない仕組みを作りました。<br />

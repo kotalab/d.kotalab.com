@@ -26,7 +26,8 @@ comments: []
 <a href="http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" alt="「ガリガリ君リッチコーンポタージュ」わずか３日間で販売休止 - MSN産経ニュース" width="150" height="130" /></a><a href="http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" target="_blank">「ガリガリ君リッチコーンポタージュ」わずか３日間で販売休止 - MSN産経ニュース</a><a href="https://b.hatena.ne.jp/entry/http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" alt="" /></a><br style="clear:both;" />発売されてたった3日間で販売が休止となりました。<br />
 そんなガリガリ君に今月新たに「<strong>ガリガリ君リッチプリンプリン味</strong>」が登場しました！<br />
 <strong>もしかしたら</strong>また販売休止になってしまうかも！？ということで早速食べてみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>僕がガリガリ君リッチプリンプリン味を知ったのは昨日この記事を見てです。<br />
 <a href="http://www.jmuto.info/2012/10/garigari-pudding.html" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://www.jmuto.info/2012/10/garigari-pudding.html" alt="また短命？ガリガリ君プリン・プリンを食す | 羽根帽子の太公望" width="150" height="130" /></a><a href="http://www.jmuto.info/2012/10/garigari-pudding.html" target="_blank">また短命？ガリガリ君プリン・プリンを食す | 羽根帽子の太公望</a><span class="removed_link" title="b.hatena.ne.jp/entry/http://www.jmuto.info/2012/10/garigari-pudding.html"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.jmuto.info/2012/10/garigari-pudding.html" alt="" /></span><br style="clear:both;" />ムチャさん（@mutoj_rdm821さん）情報ありがとうございます！<br />
 コンポタ味の様に販売休止になっては食べられないので、早速仕事帰りにコンビニに寄って買ってきました！</p>

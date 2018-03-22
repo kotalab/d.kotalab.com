@@ -51,7 +51,8 @@ comments:
 <a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a>のあきおさん(<a href="https://twitter.com/akio0911" target="_blank">@akio0911</a>)が主催のブロガー向けiPhoneアプリ開発体験会に行ってきました！<br />
 場所は渋谷のワーキングスペース「<a href="http://lightningspot.com/" target="_blank">Lightningspot</a>」で行われました。<br />
 参加者は<span class="removed_link" title="xtrailor.com/">果報は寝て待て</span>の慶次郎さん（<a href="https://twitter.com/Keijirou_" target="_blank">@Keijirou_</a>）、<a href="http://hatch2.com/blog/" target="_blank">hatch2 blog</a>のくまもんさん（<a href="https://twitter.com/hatch2" target="_blank">@hatch2</a>）、<a href="http://ilmio-notizie.com/" target="_blank">いるみお</a>のとろあさん（<a href="https://twitter.com/tohroa" target="_blank">@tohroa</a>）、<a href="http://hamako9999.net/" target="_blank">hamako9999.net</a>のハマコーさん（<a href="https://twitter.com/hamako9999" target="_blank">@hamako9999</a>）、そして僕の5人でした。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>初めてのiPhoneアプリ開発体験</h2>
 <p>今回作ったのは「自分のブログからRSSで記事一覧を読み取って、その中から選んだものをTwitterでつぶやく」というアプリです。<br />
 作業自体はあきおさんが用意してくれてるコードをコピペしていくだけなので、プログラミングが初めてでも大丈夫！<br />

@@ -27,7 +27,8 @@ comments: []
 これが誰とも言えない、どっかのイベントでちょっとお話ししただけの人だと「どこかで会ったことがある人」という記憶が残ります。</p>
 <p>思い出すためのきっかけが何もないから思い出せないわけです。</p>
 <p>もし自分のことを相手に覚えてもらいたかったら、何か思い出してもらうためのきっかけを自分から作るしかありません。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>プライベートではプライベート用の名刺</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/blogermeishi_130123-448x336.jpg" alt="blogermeishi_130123" width="546" height="410" class="alignnone size-full wp-image-5857" /><br />
 僕は初対面の人に会った時、仕事の場では名刺交換をします。<br />

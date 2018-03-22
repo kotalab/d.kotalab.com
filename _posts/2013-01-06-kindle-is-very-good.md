@@ -30,7 +30,8 @@ comments: []
 写真の転送を今までよりもっと楽にするのがEye-Fiです。<br />
 僕は今年デジイチで写真を撮り始めようと思いました。<br />
 デジカメを始めるにあたり、真っ先に欲しかったのがEye-Fiです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Eye-Fi</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/eyefi130106_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/eyefi130106_01-448x336.jpg" alt="eyefi130106_01" width="448" height="336" class="alignnone size-large wp-image-5533" /></a><br />
 今年初めてAmazonで買ったものはこのEye-Fiです！<br />

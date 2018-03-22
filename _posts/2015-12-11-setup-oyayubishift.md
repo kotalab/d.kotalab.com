@@ -25,7 +25,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_20151211-780x520.jpg" alt="setup-oyayubishift_20151211" width="780" height="520" class="aligncenter size-large wp-image-14956" /><br />
 親指シフトというローマ字入力に変わる入力方法の練習を最近始めました。<br><br />
 僕が普段使っているのはMacBook ProのJISキーボードモデルなのですが、WindowsではなくMacで親指シフトを始める時の始め方を書こうと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1. ソフトのインストール</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_20151211_02-780x422.png" alt="setup-oyayubishift_20151211_02" width="780" height="422" class="aligncenter size-large wp-image-14954" /></p>
 <p>Macで親指シフトを始めるには、<a href="https://pqrs.org/osx/karabiner/index.html.ja" target="_blank">Karabiner</a>というキーボードカスタマイズソフトを使います。<br><br />

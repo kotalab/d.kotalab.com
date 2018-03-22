@@ -28,7 +28,8 @@ comments: []
 iPhoneアプリのLINEでようやくLINE電話が使えるようになりました。</p>
 <p>格安通話サービスとして押されてる感はありますが、ドコモやSoftBankは通話料定額のかけ放題サービスを発表しているので「LINEがすごくいい！」とは言い切れなくなっています。</p>
 <p>でもLINE電話を使ってみると「これは絶対使える！」って思った機能があったのでご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>LINE電話の仕組み</h2>
 <p>LINE電話の基本的な仕組みは「料金を先払いしておいて、その分だけ通話ができる」です。<br />
 <img src="https://kotalab.com/wp-content/uploads/line-denwa-very-good_140504_02.jpg" alt="Line denwa very good 140504 02" title="line-denwa-very-good_140504_02.jpg" border="0" width="350" height="600" /><br />

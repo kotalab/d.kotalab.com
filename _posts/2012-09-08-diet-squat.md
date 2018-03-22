@@ -28,7 +28,8 @@ comments: []
 筋トレは毎日欠かしません。@kotala_bです。<br />
 筋トレの中でもスクワットは誰もが取りいれた方がいいと言われているそうです。<br />
 <a href="https://www.lifehacker.jp/2012/09/120904squats.html" target="_blank"><img src="https://capture.heartrails.com/150x130?https://www.lifehacker.jp/2012/09/120904squats.html" alt="https://www.lifehacker.jp/2012/09/120904squats.html" width="150" height="130" align="left" /></a><a href="https://www.lifehacker.jp/2012/09/120904squats.html" target="_blank">スクワットは誰もが日課にすると良いベスト・オブ・エクササイズ！ : ライフハッカー［日本版］</a><br style="clear:both;" />なぜスクワットにはそんな効果があるのでしょうか<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>スクワットがいい理由</h2>
 <p>スクワットは物を拾って立ち上がるような動作をします。<br />
 この動作が日常的な動きを円滑にするようです。<br />

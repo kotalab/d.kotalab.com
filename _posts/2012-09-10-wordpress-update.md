@@ -28,7 +28,8 @@ comments: []
 僕のwordpressのバージョンは3.4.1です。@kotala_bです。<br />
 つい最近wordpressが新しい3.4.2に更新されましたが、僕はまだ入れていません。<br />
 <a href="http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" target="_blank"><img src="https://capture.heartrails.com/150x130?http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" alt="http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" width="150" height="130" align="left" /></a><a href="http://mbdb.jp/hacks/wordpress/wordpress3-4-2.html" target="_blank">WordPress 3.4.2がリリースされたけどアップデートはちょい待ったほうが良いかも | [M] mbdb</a><br style="clear:both;" />アップデート後にエラーが出て管理画面に入れない方もいるそうです<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>wordpressのアップデート</h2>
 <p>wordpressのアップデートには2種類あるのはご存知でしょうか？<br />
 2種類と言うのは英語版と日本語版です。<br />

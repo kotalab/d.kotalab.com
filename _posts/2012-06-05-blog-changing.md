@@ -23,7 +23,8 @@ comments: []
 <p>URL：<a href="https://kotalab.com/" title="https://kotalab.com/" target="_blank">https://kotalab.com/</a><br />
 RSS：<a href="https://feeds.feedburner.com/kotalab/hUrZ" title="https://feeds.feedburner.com/kotalab/hUrZ" target="_blank">https://feeds.feedburner.com/kotalab/hUrZ</a></p>
 <p>お手数ですが、RSSとブックマークの再登録をお願いします！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>これからもよろしくお願いします</h2>
 <p>旧ブログの方は更新を停止し、今見てくださっている<a href="https://kotalab.com/" title="https://kotalab.com/" target="_blank">このブログ</a>で続けていきます。<br />
 まだ内部リンク等、手がつけられずそのままになっていますが、順次更新していきますのでよろしくお願いします。</p>

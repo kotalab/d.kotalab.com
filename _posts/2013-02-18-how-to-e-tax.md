@@ -34,7 +34,8 @@ comments:
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/t-ohashi/5153084671/" target="_blank">R0010005</a> / t.ohashi</span><br />
 今年からe-Taxで申告します。@kotala_bです。<br />
 初めのてe-Taxに向けて必要なモノや申告の流れなどを調べたので紹介していきます！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>e-Taxに必要なモノ</h2>
 <p>e-Taxに必要なモノは3つです。</p>
 <h3>住民基本台帳カード</h3>

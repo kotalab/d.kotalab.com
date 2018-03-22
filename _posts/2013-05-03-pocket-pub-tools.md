@@ -32,7 +32,8 @@ comments:
 先日「Pocketに追加するボタン」を設置しました。@kotala_bです。<br />
 <a href="https://kotalab.com/pocket-social-button" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/pocket_130426-448x448.png" alt="blogのソーシャルボタンの横に「Pocketに追加する」ボタンを設置する方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/pocket-social-button" target="_blank">blogのソーシャルボタンの横に「Pocketに追加する」ボタンを設置する方法！ | kotala's note</a><br style="clear:both;" />ボタン追加と同時に、パブリッシャーツールにも同時に登録していました。<br />
 登録申請から数日後メールが届き、パブリッシャーツールが利用可能になりました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Pocketパブリッシャーツールとは</h2>
 <p>パブリッシャーツールとブログを連携させることで、自分のブログのどの記事がどれだけPocketに保存されたか。<br />
 また保存された記事がどれだけ読まれたのかを解析してくれるツールです。<br />

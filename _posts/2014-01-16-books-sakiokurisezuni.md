@@ -35,7 +35,8 @@ comments: []
 それは「行動力のある人」です。<br />
 via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法 (中経の文庫)[Kindle版]</a></p></blockquote>
 <p>「行動」という最初の一歩を踏み出すことを心理学という側面から、佐々木正悟さんが書いたのが今日紹介する「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法</a>」だ。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>貯金も家計簿もうまくいく6つの方法</h2>
 <p>僕はブロガーでありファイナンシャルプランナーでもある。<br />
 そこで今回は本書の中から特に気になった6つを「貯金すること」や「家計簿を付けること」と絡めて紹介しようと思う。</p>

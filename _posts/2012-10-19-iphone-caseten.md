@@ -26,7 +26,8 @@ comments: []
 iPhoneケース展に行ってきました。@kotala_bです。<br />
 今日から3日間、横浜の赤レンガ倉庫で開催中のiPhoneケース展に行ってきました！<br />
 <a href="http://iphone-caseten.com/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://iphone-caseten.com/" alt="第6回iPhoneケース展 - iPhone Creative Festa 2012 - 100人のアーティストが作る世界に1つのアート・ケースギャラリー！" width="150" height="130" /></a><a href="http://iphone-caseten.com/" target="_blank">第6回iPhoneケース展 - iPhone Creative Festa 2012 - 100人のアーティストが作る世界に1つのアート・ケースギャラリー！</a><a href="https://b.hatena.ne.jp/entry/http://iphone-caseten.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://iphone-caseten.com/" alt="" /></a><br style="clear:both;" />色々なケースがあって面白かったです！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>桜木町から赤レンガ倉庫へ</h2>
 <p>僕は桜木町駅から歩いて赤レンガ倉庫へ向かいました。<br />
 <a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_01.jpg" alt="" title="iphonecase_121019_01" width="448" height="336" class="alignnone size-full wp-image-3513" /></a><br />

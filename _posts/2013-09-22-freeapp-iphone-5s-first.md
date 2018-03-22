@@ -30,7 +30,8 @@ comments: []
 iPhone 5sを使ってます。こたら（@kotala_b）です。<br />
 もうiPhone 5sやiPhone 5cを手にされましたか？<br />
 今日はiPhone 5sやiPhone 5cを買ったら真っ先にいれたい無料アプリを紹介したいと思います！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iWork</h2>
 <p><strong>9月1日以降アクティベートされたiOS7端末からのダウンロードが無料</strong>になっているiWorkとiPhoto、iMovieアプリ。<br />
 iPhone 5sからももちろん無料でダウンロード可能です。<br />

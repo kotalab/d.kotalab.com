@@ -30,7 +30,8 @@ comments: []
 <span class="b">1年以上前に書いた記事には「この記事は◯年◯月◯日に書いたものです。情報が古くなっている可能性があるのでご注意ください。」と記事の冒頭に書いておくことにしました。</span></p>
 <p>ただし全ての記事に手動で文字を入れていくわけにはいかないので、Wordpressのソースを少しいじって1年以上前の記事には自動で注意の文章が入るように設定しました。<br />
 今回はその設定方法をご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>表示させる内容</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/old-entry-maintenance_20141231-780x244.png" alt="old-entry-maintenance_20141231" width="780" height="244" class="aligncenter size-large wp-image-13708" /></p>
 <p>設置場所はタイトルや投稿日などの下の本文が始まる直前の部分。<br />

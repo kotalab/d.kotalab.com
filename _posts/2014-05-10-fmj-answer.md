@@ -27,7 +27,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/fmj-answer_140510.png" alt="Fmj answer 140510" title="fmj-answer_140510.png" border="0" width="548" height="204" /><br />
 <a href="http://fmj-jp.info/?page_id=2471" target="_blank">ファミリーマネージメントジャーナル</a>さんというところで、3日間に渡り家計のお悩みについてお答えしてきました。</p>
 <p>3日間の質問に対して補足というか付け足すカタチで、僕が考えていることを書いてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>そもそもお金って？</h2>
 <p>5月7日の質問は「そもそもお金って？」です。</p>
 <div class="shht">

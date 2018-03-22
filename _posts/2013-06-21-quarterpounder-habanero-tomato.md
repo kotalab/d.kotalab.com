@@ -24,7 +24,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/quarterpounder_130621-300x400.jpg" alt="quarterpounder_130621" width="300" height="400" class="alignnone size-medium wp-image-7550" /><br />
 6月25日から全国販売開始のクォーターパウンダーハバネロトマトを一足先に食べました。こたら（@kotala_b）です。<br />
 ハバネロトマトをご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>クォーターパウンダーハバネロトマト</h2>
 <p>▼パッケージにはトマトとパティそしてハバネロ<br />
 <img src="https://kotalab.com/wp-content/uploads/habanerotomato_130621_01-448x336.jpg" alt="habanerotomato_130621_01" width="448" height="336" class="alignnone size-large wp-image-7566" /><br />

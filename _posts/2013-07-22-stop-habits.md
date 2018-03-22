@@ -27,7 +27,8 @@ comments: []
 それまでは417日間連続でブログの更新をしてきました。<br />
 ブログを更新することを続けているうちに、いつの間にか続けること自体が目的となっていました。<br />
 そのことに薄々気づいていながらもブログの更新を続けていました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>習慣をあえてやめてみる</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/habit_130722_01-300x431.jpg" alt="habit_130722_01" width="300" height="431" class="alignnone size-medium wp-image-7894" /><br />
 ブログを始めた当初の思いはこうでした。</p>

@@ -45,7 +45,8 @@ iPadmini用のスタンドを購入しました。@kotala_bです。<br />
 <strong>75％オフはかなりお買い得！</strong><br />
 というわけで即購入しました！<br />
 Amazonから届いたので早速ご紹介していきます！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>開封！</h2>
 <p>▼パッケージにはスタンドの説明書きが英語で書いてあります。<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215103623.jpg" width="448" height="336" /><br />

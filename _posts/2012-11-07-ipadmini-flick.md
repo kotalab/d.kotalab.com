@@ -29,7 +29,8 @@ iPhone5ではフリック入力です。@kotala_bです。<br />
 iPhoneで文章を書くならフリック入力が一番早く文字をうてるので、iPadminiでも出来たらいいなと思っていました。<br />
 調べて見たところiPadminiでもフリック入力ができることが分かりました！<br />
 早速やり方をご紹介します！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>キーボードの分割</h2>
 <p>▼iPadminiのキーボードは通常こうなっています。<br />
 <img src="https://kotalab.com/wp-content/uploads/slooProImg_20121106200101.jpg" alt="" width="448" height="180" /><br />

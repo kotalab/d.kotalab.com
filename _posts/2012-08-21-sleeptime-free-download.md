@@ -26,7 +26,8 @@ comments: []
 全世界で3000万以上もダウンロードされている大人気の睡眠ログアプリ「<a href="https://itunes.apple.com/jp/app/sleep-time-alarm-clock-sleep/id555564825?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">Sleep Time</a>」が期間限定で無料となっています。<br />
 今までは「快眠リズム」を使っていましたが、無料ということで試しにダウンロードして使ってみました！<br />
 ※8月27日追記：無料期間は終わってしまったようです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>SleepTimeの使い方</h2>
 <p>使い方は@ttachiさんのブログで詳しく解説されています。<br />
 英語の設定画面も詳しい解説のおかげでまるわかり！<br />

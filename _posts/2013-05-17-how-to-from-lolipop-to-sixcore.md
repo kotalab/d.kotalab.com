@@ -39,7 +39,8 @@ comments:
 sixcoreへ<br />
 <a href="http://px.a8.net/svt/ejp?a8mat=25PB6D+3SXS8A+CO4+O0MJL" target="_blank"><br />
 <img border="0" width="234" height="60" alt="" src="http://www25.a8.net/svt/bgt?aid=130511317230&wid=004&eno=01&mid=s00000001642004034000&mc=1"></a><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>サーバー移行で参考にした記事</h2>
 <p>はっきりいってこれだけ見とけば大丈夫！というくらいわかりやすい、この2つの記事を参考にしました。<br />
 <a href="http://number333.org/2013/03/04/wordpress-sever-moving/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://number333.org/2013/03/04/wordpress-sever-moving/" alt="【完全版】これでもう迷わない！WordPressのブログをサーバー移転（引越し）する詳しい手順・方法を解説します。【ロリポップからSIXCOREへ】 | iPhone・Macの情報発信ブログ〜Number333~" width="150" height="130" /></a><a href="http://number333.org/2013/03/04/wordpress-sever-moving/" target="_blank">【完全版】これでもう迷わない！WordPressのブログをサーバー移転（引越し）する詳しい手順・方法を解説します。【ロリポップからSIXCOREへ】 | iPhone・Macの情報発信ブログ〜Number333~</a><a href="https://b.hatena.ne.jp/entry/http://number333.org/2013/03/04/wordpress-sever-moving/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://number333.org/2013/03/04/wordpress-sever-moving/" alt="" /></a><br style="clear:both;" /><br />

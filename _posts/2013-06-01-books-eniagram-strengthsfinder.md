@@ -27,7 +27,8 @@ comments: []
 3月31日にあった立花岳志さん（@ttachi）が主催するNoSecondLifeセミナーで紹介のあった2冊の本、「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4047913944%2Fref%3Dnosim" rel="nofollow" name="booklink" target="_blank">エニアグラム</a>」と「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4532149479%2Fref%3Dnosim" rel="nofollow" name="booklink" target="_blank">さあ、才能(じぶん)に目覚めよう</a>」を読みました。<br />
 この2冊の本は、自分を知る方法としてセミナー中に紹介された本です。<br />
 この2冊で紹介されている、性格や自分の強みを知るためのテストやってみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>エニアグラム</h2>
 <p><a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4047913944%2Fref%3Dnosim" rel="nofollow" name="booklink" target="_blank">エニアグラム</a>は生まれたときから持っている「本当の性格」を9つに分けた性格タイプ論です。<br />
 改革する人、助ける人、達成する人、個性的な人、調べる人、忠実な人、熱中する人、挑戦する人、平和をもたらす人。<br />

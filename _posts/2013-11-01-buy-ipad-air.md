@@ -35,7 +35,8 @@ iPad Airを買いました。こたら（@kotala_b）です。<br />
 ついに発売されましたね！<br />
 皆さんは手に入れましたか？<br />
 僕は仕事帰りに寄り道して買いました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPad Airはどこで買う？</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/buyipadair_131101_02-546x546.jpg" alt="buyipadair_131101_02" width="546" height="546" class="alignnone size-large wp-image-10097" /><br />
 発売日当日は仕事だったのでどこかのオンラインストアで買おうかなとも思ってました。<br />

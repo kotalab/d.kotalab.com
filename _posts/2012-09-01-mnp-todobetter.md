@@ -29,7 +29,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/mnp_20120712_06.jpg"><img src="https://kotalab.com/wp-content/uploads/mnp_20120712_06.jpg" alt="" title="mnp_20120712_06" width="448" height="336" class="alignnone size-full wp-image-1403" /></a><br />
 7月にdocomoからSoftBankにMNPしました。@kotala_bです。<br />
 <strong>iPhone5</strong>が出たらMNPしようと考えてる人もいそうなので、僕がMNPした前後にやったことをまとめます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>MNP番号の発行</h2>
 <p>まずはMNP前にする準備から。<br />
 <a href="https://kotalab.com/mnp-prepare" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/763" alt="https://kotalab.com/archives/763" width="150" height="130" align="left" /></a><a href="https://kotalab.com/mnp-prepare" target="_blank">MNPの手順と今から準備しておくこと！ | kotala's note</a><br style="clear:both;" /><br />

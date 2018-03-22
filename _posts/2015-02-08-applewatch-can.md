@@ -28,7 +28,8 @@ Apple Watchの発表から約5ヶ月。<br />
 発売日の正式発表はまだされていませんが、AppleのWebサイトでは「2015年に発売」という表示がされています。</p>
 <p>まだかまだかという感じですが発表前の今のうちに、Apple Watchでできることのおさらいをしておきたいと思います。<br />
 Apple Watchでできることって何だっけ？という人は参考にしてみてください。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Apple Watchの文字盤は数百万通り以上のカスタマイズが可能</h2>
 <p>Watchというからには時計なんですが、Apple Watchでは時間を見ることだけにとどまりません。</p>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/02/applewatch-can_20150208_02.png" alt="applewatch-can_20150208_02" width="780" height="485" class="aligncenter size-full wp-image-13943" /><br />

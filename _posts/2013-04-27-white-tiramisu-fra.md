@@ -29,7 +29,8 @@ comments: []
 新作が出ていたので注文しました！<br />
 頼んだのはホワイト ティラミス フラペチーノ！<br />
 僕はティラミスが大好きなので何も考えずにこれを注文しました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ホワイト ティラミス フラペチーノ</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/starbucks_130427_01-448x447.jpg" alt="starbucks_130427_01" width="448" height="447" class="alignnone size-large wp-image-6930" /><br />
 ▼スタバの商品説明から抜粋</p>

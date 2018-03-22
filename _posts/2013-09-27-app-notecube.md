@@ -27,7 +27,8 @@ comments: []
 NoteCubeがスゴくシンプルで使いやすくていい感じ！<br />
 1ヶ月くらい使ってますが、かなりオススメのメモアプリです！<br />
 そんなメモアプリNoteCubeをご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>シンプルで使いやすいメモアプリ「NoteCube」</h2>
 <p>まずはこちらをご覧ください。</p>
 <p><iframe width="548" height="308" src="//www.youtube.com/embed/sNesq62YvvE?rel=0" frameborder="0" allowfullscreen></iframe></p>

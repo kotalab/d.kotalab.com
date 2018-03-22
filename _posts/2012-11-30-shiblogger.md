@@ -30,7 +30,8 @@ comments: []
 <a href="http://twipla.jp/events/34498" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://twipla.jp/events/34498" alt="TwiPla - ちょっと早いシブロガー忘年会" width="150" height="130" /></a><a href="http://twipla.jp/events/34498" target="_blank">TwiPla - ちょっと早いシブロガー忘年会</a><a href="https://b.hatena.ne.jp/entry/http://twipla.jp/events/34498" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://twipla.jp/events/34498" alt="" /></a><br style="clear:both;" />奥野さんとはつなかんで知り合い、その場でこの忘年会のことを教えて頂きました。<br />
 ブログを読んで一方的には知ってはいるけど、今回参加した半分が初対面の方で、残りの半分もつなかんとnslセミナーでちょっと面識がある程度の方達でした。<br />
 人見知りの自分としてはなんとも言えない状況ですが、細かいことは気にせず参加してきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>遅刻しかけた！</h2>
 <p>渋谷の文化村の方にある4番サード魚真というお店に行きました。<br />
 現地集合で行ったことないお店だったので行く前に調べて<strong>準備万端</strong>で向かいました。<br />

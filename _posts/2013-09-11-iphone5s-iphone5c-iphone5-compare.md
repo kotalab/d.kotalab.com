@@ -33,7 +33,8 @@ comments:
 <p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /><br />
 iPhoneが好きです。こたら（@kotala_b）です。<br />
 ついに今日発表された新型iPhoneですが、iPhone5とどこが変わったのか比較表を作ってみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhone5SとiPhone5CとiPhone5の比較表</h2>
 <table border="1" width="100%" align="center">
 <tbody>

@@ -25,7 +25,8 @@ comments: []
 本書では「<strong>トヨタ語</strong>」と言われている、トヨタグループやトヨタ式の実践企業で上司から部下へと伝えられている仕事に活かされている数々の言葉がまとめられた内容となっています。<br />
 「<strong>トヨタ語</strong>」の多くは、現場の理解と納得を得よう、知恵を引き出そうという中で生まれた言葉です。<br />
 そんな数多くある「<strong>トヨタ語</strong>」の中から「<strong>自分を成長させる、すぐに実践したい</strong>」言葉を6つ選びました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4569690645/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51qdjSxmf2L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">

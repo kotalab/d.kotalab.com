@@ -24,7 +24,8 @@ comments: []
 <p>人生初メガネを買いました。@kotala_bです。<br />
 長時間パソコンで作業することもあり目の疲れが気になっていたのでパソコン用メガネが気になっていました。<br />
 パソコン用メガネというと他にJINSがありますが、Zoffでパソコン用メガネ<strong>ZoffPC</strong>購入しました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p><iframe src="https://ws-fe.assoc-amazon.com/widgets/cm?t=same-22&o=9&p=13&l=ur1&category=apparelshoes&banner=1RM28Z7BWYX5KRYDHXG2&f=ifr" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></p>
 <h2>Zoffを選んだ理由</h2>
 <h3>近くに店舗があった</h3>

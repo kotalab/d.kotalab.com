@@ -27,7 +27,8 @@ iPadminiをチェックリスト代わりに使ってます。こたら（@kotal
 iPhoneでは<a href="https://itunes.apple.com/jp/app/domo-todo+-sync-google-calendar/id317736733?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">domo Todo+</a>にチェックリストを入れています。<br />
 iPadminiをMacBook Airの横に置いてサブディスプレイのようにして使うようになったので、iPadminiでもチェックリストアプリを使いたいと思っていました。<br />
 <a href="https://itunes.apple.com/jp/app/domo-todo+-sync-google-calendar/id317736733?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">domo Todo+</a>はiPadアプリではないのでiPadで使えるチェックリストアプリを探し、<a href="https://itunes.apple.com/jp/app/mei-richekku-mei-rinochekkurisuto/id619589439?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">毎日チェック</a>というアプリを見つけました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>チェックリストにあって欲しい機能</h2>
 <p>僕がチェックリストアプリに絶対に欲しいと思っている機能は、ワンボタンで全てのチェックを外せる機能です。<br />
 項目を実行する時はひとつずつチェックをしていきますが、繰り返し使う時にはワンボタンでチェックを外せないと使いづらいからです。<br />

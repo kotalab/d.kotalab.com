@@ -25,7 +25,8 @@ comments: []
 2週連続で大つけ麺博に行ってきました。こたら（@kotala_b）です。<br />
 大つけ麺博は4週間に及ぶつけ麺の大イベント！<br />
 1週間ごとに出場店舗が変わるので毎週違う味が楽しめちゃいます！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>第二陣はチャンピオン「とみ田」が登場！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/tukemenhaku20132ndweek_131017_03-546x409.jpg" alt="tukemenhaku20132ndweek_131017_03" width="546" height="409" class="alignnone size-large wp-image-9953" /><br />
 10月17日から23日までの第二陣では2012年大つけ麺博のチャンピオン「とみ田」が登場！<br />

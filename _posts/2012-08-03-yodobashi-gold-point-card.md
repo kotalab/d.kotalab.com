@@ -27,7 +27,8 @@ comments: []
 ヨドバシカメラのポイントカードはおサイフケータイじゃないiPhoneでも使えることをご存知でしょうか？<br />
 僕はつい先日ヨドバシカメラに行った時に、おサイフケータイじゃなくてもアプリでポイントカードが使えることを知りました。<br />
 参考：<a href="http://www.yodobashi.com/ec/support/member/pointservice/gold/about/iphone/" target="_blank">ヨドバシ.com-iPhone対応ゴールドポイントカード</a><br style="clear:both;" /><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhone対応ゴールドポイントカードの導入手順</h2>
 <p>ポイントカードをiPhoneで使う条件は2つあります。<br />
 1.ポイントカードを持ってる<br />

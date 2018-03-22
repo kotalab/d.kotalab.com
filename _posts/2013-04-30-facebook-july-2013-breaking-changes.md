@@ -25,7 +25,8 @@ comments: []
 Facebookページにメッセージが届きました。@kotala_bです。<br />
 Facebook Developer Roadmapによると、2月から4月にかけてあったFacebookの「Breaking Changes」が7月10日にもあるようです。<br />
 7月10日に行われる「Breaking Changes」を前にFacebookページの設定を有効化しておく必要があります。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>「July 2013 Breaking Changes」と表示された時の対処法</h2>
 <p>▼2月にも書きました。<br />
 <a href="https://kotalab.com/facebook-error-feb" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/facebook_130204-448x448.png" alt="Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note" width="150" /></a><a href="https://kotalab.com/facebook-error-feb" target="_blank">Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note</a><br style="clear:both;" />これと同様のことをしていきます。<br />

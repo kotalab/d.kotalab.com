@@ -26,7 +26,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/camore_120823.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/camore_120823.png" alt="" title="camore_120823" width="448" height="448" class="alignnone size-full wp-image-2263" /></a><br />
 Camore+の新しいアイコンが好きです。@kotala_bです。<br />
 Camera+と他のアプリとの連携が強化されるアプリCamore+がアップデートされました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4"><img src="http://a3.mzstatic.com/us/r1000/077/Purple/v4/73/ef/96/73ef96af-7476-dbdc-5e75-9af1a1141e20/mza_3185481238071127193.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4">Camore+ for Camera+</span></div>

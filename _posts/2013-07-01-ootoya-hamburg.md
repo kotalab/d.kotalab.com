@@ -26,7 +26,8 @@ comments: []
 全国展開する定食屋チェーン店の「大戸屋」と日テレの朝の情報番組「スッキリ！」とのコラボレーションで出来た限定メニュー。<br />
 その名も「夏！スッキリ！ハンバーグ定食」です。<br />
 今日からの限定メニューを早速食べてきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>夏！スッキリ！ハンバーグ定食</h2>
 <p>▼お店の前にはデカデカとポスターが貼ってあります。<br />
 <img src="https://kotalab.com/wp-content/uploads/ootoya_130701_01-448x336.jpg" alt="ootoya_130701_01" width="448" height="336" class="alignnone size-large wp-image-7709" /><br />

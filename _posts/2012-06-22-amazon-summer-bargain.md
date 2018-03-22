@@ -23,7 +23,8 @@ comments: []
 ---
 <p>ちょくちょくamazonで買い物します。@kotala_bです。<br />
 amazonのお買い得情報のご紹介です！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>書籍ランキング！</h2>
 <p><a href="https://www.amazon.co.jp/b/?_encoding=UTF8&node=2403637051&tag=same-22&linkCode=ur2&camp=247&creative=1211" target="_blank"><img src="https://kotalab.com/wp-content/uploads/amazon_120622-300x83.jpg" alt="" title="amazon_120622" width="487" height="135" class="alignnone size-medium wp-image-896" align="left" /></a><br style="clear:both;" />2012年上半期Booksランキング掲載の書籍に、Amazonポイント最大7％還元中！<br />
 キャンペーン期間は<strong>7月8日23時59分</strong>まで！</p>

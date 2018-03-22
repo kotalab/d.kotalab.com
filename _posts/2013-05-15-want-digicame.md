@@ -32,7 +32,8 @@ comments: []
 それなりのお値段もしますし、どれがいいかなんてすぐ選べません。<br />
 まして、僕みたいなカメラ初心者には特に。<br />
 そこで「デジタル一眼レフを買いたいけど、どれを買ったらいいかわからない人向けに書かれている記事」を探してみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>どこのメーカーにする？</h2>
 <p><a href="http://nousnou.net/2013/04/09/degicame/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://nousnou.net/2013/04/09/degicame/" alt="デジカメを選ぶとき 何を基準にしたらいいの？ | What's Iwasaki?" width="150" height="130" /></a><a href="http://nousnou.net/2013/04/09/degicame/" target="_blank">デジカメを選ぶとき 何を基準にしたらいいの？ | What's Iwasaki?</a><a href="https://b.hatena.ne.jp/entry/http://nousnou.net/2013/04/09/degicame/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://nousnou.net/2013/04/09/degicame/" alt="" /></a><br style="clear:both;" /></p>
 <blockquote><p>カメラ選びは、クルマ選びと同じで、選ぶ基準は人によって様々<br />

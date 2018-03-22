@@ -28,7 +28,8 @@ comments: []
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/bu_arras/6165675170/" target="_blank">check list</a> / Artois Biblioth&egrave;ques</span><br />
 プロジェクト管理にはToodledoを使っています。@kotala_bです。<br />
 多機能で便利な<strong>Toodledo</strong>ですが、新たに「<strong>TaskLog</strong>」というブックマークレットが公開されました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>TaskLogとは</h2>
 <p><strong>TaskLog</strong>はこちらのページで公開されています。<br />
 <a href="http://blog.toodledotips.jp/?p=1958" target="_blank"><img src="https://capture.heartrails.com/150x130?http://blog.toodledotips.jp/?p=1958" alt="http://blog.toodledotips.jp/?p=1958" width="150" height="130" align="left" /></a><a href="http://blog.toodledotips.jp/?p=1958" target="_blank">あなたのToodledoタスクがライフログになる「TaskLog」ブックマークレット作りました。 | Toodledo Tips Blog</a><br style="clear:both;" /></p>

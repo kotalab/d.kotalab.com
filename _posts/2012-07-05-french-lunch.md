@@ -24,7 +24,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/french_120705_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/french_120705_03.jpg" alt="" title="french_120705_03" width="448" height="336" class="alignnone size-full wp-image-1261" /></a><br />
 首都大学東京のキャンパス内でフレンチを食べました。@kotala_bです。<br />
 南大沢にある「ルヴェソンヴェール南大沢」さんに行ってきました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p><a href="https://kotalab.com/wp-content/uploads/french_120705_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/french_120705_01.jpg" alt="" title="french_120705_01" width="448" height="336" class="alignnone size-full wp-image-1259" /></a><br />
 大学の入口は警備が厳しいわけでもなく、誰でも気軽に入れるような雰囲気でした。<br />
 キャンパス内に入ると緑の多さに目がいきます。<br />

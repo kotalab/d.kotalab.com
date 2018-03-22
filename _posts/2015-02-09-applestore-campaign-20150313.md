@@ -33,7 +33,8 @@ AppleStoreやAppleOnlineStoreで3万円以上の買い物をした場合、分�
 <a href="http://store.apple.com/jp/browse/finance/loan" target="_blank">Appleローン 分割金利0%キャンペーン - Apple Store（日本）</a><a href="https://b.hatena.ne.jp/entry/http://store.apple.com/jp/browse/finance/loan" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://store.apple.com/jp/browse/finance/loan" alt="" /></a></p>
 <p>中には「分割払いとかローンはちょっと気が引ける」という人もいると思います。<br />
 そんな人にお伝えしたいことがあります。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ローンとか借金は負のイメージだけじゃない</h2>
 <p>ローンとか借金というと「お金がない」とか「借金地獄」とか「取り立て」とか、とにかく負のイメージが強いです。</p>
 <p>そしてできれば借金はしたくないという気持ちは、誰しもが心のどこかに必ずあります。</p>

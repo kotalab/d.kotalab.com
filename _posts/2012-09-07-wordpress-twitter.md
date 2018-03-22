@@ -27,7 +27,8 @@ comments: []
 Twitterアカウントの上にマウスを置くと「Hovercards」と言われるカードが表示されるのが気に入ってこのブログではずっと使っていました。<br />
 そんな「<strong>Twitter ＠Anywhere Plus</strong>」ですが、サービスの提供を終了するというニュースが流れました。<br />
 <a href="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" target="_blank"><img src="https://capture.heartrails.com/150x130?http://www.itmedia.co.jp/news/articles/1209/07/news039.html" alt="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" width="150" height="130" align="left" /></a><a href="http://www.itmedia.co.jp/news/articles/1209/07/news039.html" target="_blank">Twitter、WebサイトにTwitter機能を埋め込む「＠Anywhere」を終了　12月6日までに移行を - ITmedia ニュース</a><br style="clear:both;" />そこで「<strong>Twitter ＠Anywhere Plus</strong>」に代わる方法を探し導入しましたので紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Twitter ＠Anywhere Plusに代わる方法</h2>
 <p>参考にしたのはこちら。<br />
 <a href="http://kachibito.net/wordpress/automatically-link-twitter.html" target="_blank"><img src="https://capture.heartrails.com/150x130?http://kachibito.net/wordpress/automatically-link-twitter.html" alt="http://kachibito.net/wordpress/automatically-link-twitter.html" width="150" height="130" align="left" /></a><a href="http://kachibito.net/wordpress/automatically-link-twitter.html" target="_blank">WordPressで記事内に書かれたTwitterアカウント名を、＠Anywhereを使わずに自動リンク化する - かちびと.net</a><br style="clear:both;" />正規表現で＠から始まる文字を探し変換する方法です。</p>

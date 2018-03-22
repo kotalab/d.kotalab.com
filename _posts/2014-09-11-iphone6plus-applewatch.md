@@ -27,7 +27,8 @@ via:<a href="https://www.apple.com/" target="_blank">Apple</a><br />
 iPhone6とiPhone6Plusが9月19日に発売予定となりました。</p>
 <p>同時に発表されたAppleWatchは来年の発売だそうですね。</p>
 <p>僕の中でiPhone6Plusはパッと見でただ大きくなっただけのiPhoneだけど、実は違うんじゃないかなーって思いました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhoneが大きくなったことはどうでもいい</h2>
 <p>サイズが大きくなったことが取沙汰されてますけど、大きくなったことが良いとか悪いじゃないと思うんですよ。<br />
 それが嫌なら買わなきゃいいだけだし。</p>

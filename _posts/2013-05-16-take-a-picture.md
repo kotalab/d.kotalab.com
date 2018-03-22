@@ -29,7 +29,8 @@ comments: []
 その為にはどうすればいいのか？<br />
 うまく撮る為の基礎知識から、実際に撮る撮り方まで。<br />
 この疑問に答えてくれる記事をまとめました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>デジイチの基礎知識</h2>
 <p>まずは基礎知識から。<br />
 <a href="http://blog.be-open.net/digital_camera/movie-a_single-lens_reflex-_camera/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://blog.be-open.net/digital_camera/movie-a_single-lens_reflex-_camera/" alt="動画で見る！初心者一眼レフ入門ーー動画のほうが分かりやすいかも | びーおーぷんどっとねっと" width="150" height="130" /></a><a href="http://blog.be-open.net/digital_camera/movie-a_single-lens_reflex-_camera/" target="_blank">動画で見る！初心者一眼レフ入門ーー動画のほうが分かりやすいかも | びーおーぷんどっとねっと</a><a href="https://b.hatena.ne.jp/entry/http://blog.be-open.net/digital_camera/movie-a_single-lens_reflex-_camera/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://blog.be-open.net/digital_camera/movie-a_single-lens_reflex-_camera/" alt="" /></a><br style="clear:both;" />説明は動画がわかりやすいですね。<br />

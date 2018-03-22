@@ -29,7 +29,8 @@ iPhone6（Plus）に変えてから、iPhoneで写真を撮るのが少しやり
 <p>iPhoneが薄くなって画面が広がった分だけ、重心とシャッターボタンの距離が離れたせいで片手でシャッターボタンを押すのがかなり不安定。<br />
 そして不安定になったということは落としやすくなったとも言えます。<br />
 片手でiPhoneを持って写真は撮りたいけど落としたくはない、しかもできるだけ手ぶれしない写真が撮りたいという人におすすめのiPhoneの持ち方・写真の撮り方を紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhone6Plusを片手で持って写真を撮るときの持ち方</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/iphone6-camera-grip_01-780x585.jpg" alt="iphone6-camera-grip_01" width="780" height="585" class="aligncenter size-large wp-image-13624" /><br />
 iPhoneはこうやって真ん中をがっちりホールド。<br />

@@ -28,7 +28,8 @@ comments: []
 ▼書き初めといっても筆や墨汁は使わずにiPadminiを使ってです。<br />
 <a href="https://kotalab.com/ipad-mini-kakizome" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kakizome130102-448x336.jpg" alt="墨汁や半紙がなくてもiPad miniがあれば手軽に書き初めが出来る！今年の抱負を書き初めしてみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-kakizome" target="_blank">墨汁や半紙がなくてもiPad miniがあれば手軽に書き初めが出来る！今年の抱負を書き初めしてみた！ | kotala's note</a><br style="clear:both;" />今年の抱負を書いただけで終わらせるのは勿体ない！<br />
 1年の最初に抱いたこの思いを忘れないための工夫をしました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>今年の抱負を忘れない工夫</h2>
 <p>▼今年の抱負を忘れない工夫はこれです<br />
 <a href="https://kotalab.com/wp-content/uploads/wasurenai130104_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/wasurenai130104_01-300x513.jpg" alt="wasurenai130104_01" width="300" height="513" class="alignnone size-medium wp-image-5357" /></a><br />

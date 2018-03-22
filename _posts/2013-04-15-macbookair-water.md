@@ -27,7 +27,8 @@ comments: []
 おとといの夜MacBook Airに水をこぼしました。@kotala_bです。<br />
 その時とった対処法は、真っ先に電源を切り場所を移し完全に乾燥させることでした。<br />
 <a href="https://kotalab.com/macbook-air-water-accident" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130413232251.jpg" alt="MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note" width="150" /></a><a href="https://kotalab.com/macbook-air-water-accident" target="_blank">MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note</a><br style="clear:both;" />それから丸1日以上経った今朝、恐る恐るMacBook Airに電源を入れてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>水没からの開封！</h2>
 <p>▼この状態で1日半近く放置していました。<br />
 <img src="https://kotalab.com/wp-content/uploads/suibotsu_130415_01-448x336.jpg" alt="suibotsu_130415_01" width="448" height="336" class="alignnone size-large wp-image-6827" /><br />

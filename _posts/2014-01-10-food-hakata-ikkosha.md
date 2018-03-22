@@ -26,7 +26,8 @@ comments: []
 そんな僕が博多に来て1番最初に食べたのが「博多一幸舎 博多本店」さんのラーメンです。<br />
 実はここのお店、<a href="https://kotalab.com/go-to-ramen-show" target="_blank">一昨年の東京ラーメンショー</a>で1度食べたことがあるお店。<br />
 駒沢公園でしたが、今回は博多本店へ行ってきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>博多一幸舎のラーメン</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/food-hakata-ikkosha_01-546x409.jpg" alt="food-hakata-ikkosha_01" width="546" height="409" class="alignnone size-large wp-image-10488" /><br />
 博多一幸舎のラーメンは普通の豚骨の他に、塩豚骨、黒ラーメン、赤ラーメンと4種類。<br />

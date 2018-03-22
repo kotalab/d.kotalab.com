@@ -38,7 +38,8 @@ comments:
 RSS以外の更新情報の配信について考えてます。@kotala_bです。<br />
 昨日は情報を収集する側として代替サービスについて書きました。<br />
 <a href="https://kotalab.com/googlereader-end" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/googlereader_130314-448x336.jpg" alt="2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note" width="150" /></a><a href="https://kotalab.com/googlereader-end" target="_blank">2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note</a><br style="clear:both;" />情報を発信する側としてはRSSの他にどんな方法があるのか見ていきます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Facebookページ</h2>
 <p>個人的なページではなくブログ専用のFacebookページです。<br />
 このブログでもFacebookページを使って更新情報を流しています。<br />

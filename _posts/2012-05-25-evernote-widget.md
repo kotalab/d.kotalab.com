@@ -21,7 +21,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/Evernote_01.gif" target="_blank"><img src="https://kotalab.com/wp-content/uploads/Evernote_01.gif" alt="" title="Evernote_01" width="228" height="118" class="alignnone size-full wp-image-1166" /></a><br />
 Androidの内部ストレージの空きが49MB、SDカードの空きは6.1GB。@kotala_bです。<br />
 Androidにはウェジットという便利な機能があるのはご存知でしょうか。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ウェジットとは</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/android.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/android.png" alt="" title="android" width="240" height="400" class="alignnone size-full wp-image-1168" /></a><br />
 ウェジットというのはAndroidに標準で搭載されているもので、ホーム画面に置いておくことでアプリを起動せずとも使える便利な機能です。<br />

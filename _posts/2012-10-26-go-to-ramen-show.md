@@ -27,7 +27,8 @@ comments: []
 駒沢公園で東京ラーメンショーが開催中ということで行ってきました！<br />
 つい先日つけ麺博があったばかりですが、今回はラーメンショーです！<br />
 <a href="https://kotalab.com/daitukemenhaku" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/3317" alt="https://kotalab.com/archives/3317" width="150" height="130" align="left" /></a><a href="https://kotalab.com/daitukemenhaku" target="_blank">浜松町で開催されている大つけ麺博日本一決定戦に行ってきた！ | kotala's note</a><br style="clear:both;" /><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>東京ラーメンショーとは</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121026165341.jpg" width="448" height="598" /><br />
 日本全国のご当地有名ラーメン店が東京に集結し、10日間を前後5日間ずつにわけ全40種類のラーメンが食べられるというイベントです！<br />

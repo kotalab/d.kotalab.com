@@ -24,7 +24,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120927155002.jpg" width="448" height="336" /><br />
 橋本で油そばを食べました。@kotala_bです。<br />
 神奈川県相模原市、JR横浜線の橋本駅から徒歩3分のところにある「麺屋ZERO1」というお店にいってきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>▼店内にはプロレスラー蝶野正洋さんがブラックパワー全開でお出迎え！<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120927155008.jpg" width="448" height="598" /><br />
 ▼こちらのお店には豚甘醤油ベースのガッツ系と和風豚骨ベースの新節系があります！<br />

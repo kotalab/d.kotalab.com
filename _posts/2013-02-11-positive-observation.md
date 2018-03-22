@@ -24,7 +24,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/influence_130211-448x383.jpg" alt="influence_130211" width="448" height="383" class="alignnone size-large wp-image-6105" /><br />
 僕には見習いたい人が沢山います。@kotala_bです。<br />
 ブロガーとして、上司として、親として、いろいろな役割ごとに尊敬する人見習いたい人がいます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>自分の役割</h2>
 <p>自分で大切にしたい役割が僕の中には存在します。<br />
 ブロガーとして、社会人として、家族として、その役割は人生の大切な柱として自分の中に存在しています。<br />

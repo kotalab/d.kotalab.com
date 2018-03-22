@@ -26,7 +26,8 @@ comments: []
 MacBook Airをメインに使ってます。こたら（@kotala_b）です。<br />
 以前はWindowsのデスクトップを使ってましたが、<a href="https://kotalab.com/macbook-air-24hours" title="圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！">去年MacBook Airを買ってから</a>はこれがメインのパソコンになりました。<br />
 買ってから1年2ヶ月ずっと使ってきたMacBook Airが不調の兆し。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>バッテリーの交換修理という表示が出てきた</h2>
 <p>初めに「おかしいな」と思ったのが今年の夏。<br />
 外で使っている時にバッテリーの減りが早くなったような感じがありました。<br />

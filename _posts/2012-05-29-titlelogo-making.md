@@ -21,7 +21,8 @@ comments: []
 <p>持ってるPhotshopのバージョンはCS2です。@kotala_bです。<br />
 <a href="https://blog.quusookagaku.com/design-idea/6283/" target="_blank"><img title="Now Updating..." src="https://capture.heartrails.com/150x130/shadow?https://blog.quusookagaku.com/design-idea/6283/" alt="https://blog.quusookagaku.com/design-idea/6283/" width="150" height="130" align="left" /></a><em><strong><a href="https://blog.quusookagaku.com/design-idea/6283/" target="_blank">使おうよ！Photoshopを持ってるとブログタイトルロゴが4分でお洒落に仕上がるチュートリアル*frasm</a></strong></em><br style="clear:both;" /><br />
 @shintarowfreshさんが「一度お試しアレ」と言ってたのでタイトルロゴを作ってみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>出来た！</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/logo.jpg"><img src="https://kotalab.com/wp-content/uploads/logo.jpg" alt="" title="logo" width="448" height="99" class="alignnone size-full wp-image-1178" /></a><br />
 ほんのりうっすらを意識して記事に書いてある通りに進めて出来たのがこれです。</p>

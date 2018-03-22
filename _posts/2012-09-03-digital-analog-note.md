@@ -25,7 +25,8 @@ comments: []
 よく使うノートはEvernoteとモレスキンです。@kotala_bです。<br />
 デジタルとアナログのノートを使っております。<br />
 なかなか定まらなかった2種類のノートの使い分けですが、それぞれの特徴を生かして使うようになり使い方が定まってきました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/evernote/id281796108?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1527.phobos.apple.com/us/r30/Purple/v4/d6/af/ec/d6afec25-4d92-7b99-833b-14727820b3af/mzl.fwrhqtje.png" width="80" /></a></div>
 <div class="applinktext">

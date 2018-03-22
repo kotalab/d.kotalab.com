@@ -23,7 +23,8 @@ comments: []
 このメッセージが出るとスマホ本体の動作が不安定になり<strong>悩んでいました</strong>。@kotala_bです。<br />
 <a href="https://kotalab.com/android-memorycapacity" target="_blank"><img title="【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。 | kotala's note" src="https://capture.heartrails.com/150x130?https://kotalab.com/https://kotalab.com/hello-world" alt="https://kotalab.com/archives/107" width="150" height="130" align="left" /></a><a href="https://kotalab.com/android-memorycapacity" title="【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。" target="_blank">【Android】「空き容量が不足しています。」を一時的に解消出来たけどやっぱり・・・。 | kotala's note</a><br style="clear:both;" /><br />
 この記事を書いてから以下のことに気をつけるだけでまだ<strong>1度も</strong>「空き容量が不足しています」のメッセージは出ていません。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1.なるべくプリインストールのアプリを使う</h2>
 <p>地図やメールアプリはgoogleマップやGmailが便利なのでそのままプリインストールのものを使っています。<br />
 MediasWPではTwitterアプリのついっぷるがプリインストールされています。<br />

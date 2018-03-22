@@ -26,7 +26,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/app-release_140824.jpg" alt="app-release_140824" width="780" height="585" class="aligncenter size-full wp-image-13380" /><br />
 僕が開発・販売しているiPhoneアプリ、WebNoteのアップデートを行いました。</p>
 <p>今回のアップデートではタグ一覧画面の検索機能を追加しました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>WebNoteができること</h2>
 <p>WebNoteはEvernoteと連携して、ネットで見ていたページにメモを書き加えてEvernoteへ送るアプリです。<br />
 WebNoteの最大の特徴はネットで<span class="b">見ていたページのタイトルとURLを自動で付け加えてくれる機能</span>です。</p>

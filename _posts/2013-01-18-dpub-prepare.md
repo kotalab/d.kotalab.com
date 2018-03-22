@@ -26,7 +26,8 @@ comments: []
 Dpub7の参加が決まりました。@kotala_bです。<br />
 昨日お伝えした通り<br />
 <a href="https://kotalab.com/dpub7-one-chance" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/dpub_130117-448x114.jpg" alt="Dpub7の申込みが遂にスタート！募集は3回、でも個人的にはチャンスは1回しかなかった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/dpub7-one-chance" target="_blank">Dpub7の申込みが遂にスタート！募集は3回、でも個人的にはチャンスは1回しかなかった！ | kotala's note</a><br style="clear:both" />応募のチャンスは1回きりだったんですが、なんとか締め切り前に応募が完了しました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ちょっと焦った一般応募</h2>
 <p>15分前にDueのタイマーをセットし、ZusaarにはTwitterアカウントでログイン、PayPalのアカウントとIDをすぐ入力出来る準備もしてその時を待ちました。<br />
 21時ちょうどにTwitterで応募URLが発表され、Zusaarの応募ページへ！<br />

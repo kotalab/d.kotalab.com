@@ -24,7 +24,8 @@ comments: []
 <p>プロジェクト管理を始めてから目標がすぐ手の届く場所まで近づいてきた気がします。@kotala_bです。<br />
 佐々木正悟さん著書の「<strong><a href="https://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" title="クラウド時代のタスク管理の技術" target="_blank">クラウド時代のタスク管理の技術</a></strong>」から影響を受けて始めたプロジェクト管理。<br />
 後編の今回はどうやってやっているのかを書いていきます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>使うツール</h2>
 <p>僕の環境はWindows+Android、タスク管理としてTaskchuteを使っていています。<br />
 <a href="https://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" title="クラウド時代のタスク管理の技術" target="_blank">本書</a>で書かれているプロジェクト管理ソフトはMac用のアプリ<span class="removed_link" title="click.linksynergy.com/fs-bin/stat?id=d2yYUp776R4&amp;offerid=94348&amp;type=3&amp;subid=0&amp;tmpid=2192&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fomnifocus-for-iphone%252Fid284885288%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30">Omuniforcus</span>だったので同じものを使うことは出来ませんでした。<br />

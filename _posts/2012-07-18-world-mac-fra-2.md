@@ -26,7 +26,8 @@ comments: []
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/6914750483.html" target="_blank">Enseigne McDonald&rsquo;s</a> / zigazou76</span><br />
 マクドよりもマック派です。@kotala_bです。<br />
 今日から「<strong>世界の★★★マック</strong>」がスタートしました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>まずはフランスから！</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/legrand_120718_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/legrand_120718_01.jpg" alt="" title="legrand_120718_01" width="448" height="596" class="alignnone size-full wp-image-1538" /></a><br />
 フランス・インド・オーストラリアと続く「<strong>世界の★★★マック</strong>」の第1弾、フランスの<strong>ル・グラントマト</strong>と<strong>ル・グランソーセージ</strong>が今日からスタートしました！<br />

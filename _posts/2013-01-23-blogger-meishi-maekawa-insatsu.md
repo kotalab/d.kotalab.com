@@ -31,7 +31,8 @@ comments: []
 <p>&mdash; 中尾隆志／川柳勉強中さん (@saruq) <a href="https://twitter.com/saruq/status/293275399780171776">1月 21, 2013</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"><br />
 急いで再注文したのでした。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>前回と同じ前川企画印刷さんを選んだ理由</h2>
 <p>今回も前川企画印刷にブロガー名刺を注文しました。<br />
 僕がまた前川企画印刷さんにお願いした理由はなんといってもサービスの良さ！<br />

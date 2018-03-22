@@ -21,7 +21,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/disney.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/disney.png" alt="" title="disney" width="448" height="336" class="alignnone size-full wp-image-1153" /></a><br />
 以前東京ディズニーランドに行ったのは高校生の時でした。@kotala_bです。<br />
 時間が経つのは早いもんだなぁと改めて感じます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>平日割引</h2>
 <p><img title="首都圏ウィークデースペシャルパスポート&amp;スプリングWパスポート | 東京ディズニーリゾート" src="https://capture.heartrails.com/150x130/shadow?https://www.tokyodisneyresort.co.jp/event/campaign/springw/index.html" alt="https://www.tokyodisneyresort.co.jp/event/campaign/springw/index.html" width="150" height="130" align="left" />首都圏ウィークデースペシャルパスポート&amp;スプリングWパスポート | 東京ディズニーリゾート<br style="clear:both;" /></p>
 <hr>

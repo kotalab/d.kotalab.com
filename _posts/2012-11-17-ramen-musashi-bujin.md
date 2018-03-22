@@ -24,7 +24,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_01-448x336.jpg" alt="" title="akibamusasi_20121117_01" width="448" height="336" class="alignnone size-large wp-image-4285" /></a><br />
 秋葉原でラーメンを食べました。@kotala_bです。<br />
 今回行ったお店は昭和通り口から出てすぐ、駅前の交差点を渡って左へ曲がりすぐのところにある麺屋武蔵武仁です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>今回頼んだのは武人ラーメン(1000円)<br />
 麺の量を並盛り、中盛り、大盛りから選べて今回は中盛りを注文。<br />
 ▼カウンターには辛味にんにくが置いてありました。<br />

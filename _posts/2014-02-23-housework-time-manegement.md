@@ -26,7 +26,8 @@ comments: []
 そんな時にオススメなのがポモドーロテクニックという時間管理術です。<br />
 時間管理術と言うと難しそうに聞こえますけどやってみるのは簡単です。<br />
 僕が実践してるポモドーロテクニックをご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ポモドーロテクニックとは</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/housework-time-manegement_140223_02-300x513.jpg" alt="housework-time-manegement_140223_02" width="300" height="513" class="alignnone size-medium wp-image-10958" /><br />
 25分間作業に集中しその後5分休憩を取る、これの1セットを1ポモドーロとして4ポモドーロ行う。<br />

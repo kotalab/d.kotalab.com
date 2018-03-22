@@ -26,7 +26,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/softbank-smahodai_140626_01.png" alt="Softbank smahodai 140626 01" title="softbank-smahodai_140626_01.png" border="0" width="548" height="296" /><br />
 家族2人でSoftBankのiPhoneを使っています。<br />
 そんな僕達がSoftBankの新料金プラン「スマ放題」に切替えると料金的にお得なのか試算してみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ホワイトプランを使ってる今の料金</h2>
 <p>基本料金：0円（MNPで乗換たので割引あり）<br />
 パケット代：5200円（7GB）<br />

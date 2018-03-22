@@ -26,7 +26,8 @@ comments: []
 とんこつラーメンが大好きです。こたら（@kotala_b）です。<br />
 とんこつといえば、細麺の博多ラーメンが有名です。<br />
 東京都府中市で博多ラーメンのお店「長浜や」でとんこつラーメンを食べてきました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ゆで時間3秒の麺「粉落とし」</h2>
 <p>店内にはとんこつラーメンの特徴が貼られています。<br />
 <img src="https://kotalab.com/wp-content/uploads/nagahamaya_130608_02-448x597.jpg" alt="nagahamaya_130608_02" width="448" height="597" class="alignnone size-large wp-image-7404" /><br />

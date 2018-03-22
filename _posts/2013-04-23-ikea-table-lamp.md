@@ -27,7 +27,8 @@ comments: []
 久しぶりにIKEAに行きました。@kotala_bです。<br />
 机の上に置くライトを探していたら良さそうなのがあったので購入しました！<br />
 ソーラーパネル内蔵でコードレスなライトがいい感じです！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ソーラーパネル内蔵のテーブルランプ！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/ikea_130423_01-448x336.jpg" alt="ikea_130423_01" width="448" height="336" class="alignnone size-large wp-image-6906" /><br />
 このライトの特徴はソーラーパネル内蔵というところ！<br />

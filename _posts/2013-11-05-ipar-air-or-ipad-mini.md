@@ -31,7 +31,8 @@ iPad Airを発売日当日に買いました。こたら（@kotala_b）です。
 11月中にRetinaディスプレイになったiPad miniが発売されますが、僕はiPad Airを買いました。<br />
 なぜ僕は今回iPad Airを選んだのか。<br />
 iPad miniを持ってる僕がなぜiPad Airを買ったのか書いてみようと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPad miniのいいところ</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/ipadmini10days_20121114_01.jpg" alt="ipadmini10days_20121114_01" width="592" height="409" class="alignnone size-full wp-image-4213" /><br />
 ちょうど1年前、<a href="https://kotalab.com/ipad-mini-machida-ydobashi" title="iPadmini購入！ヨドバシ町田に行ったら当日分があった！" target="_blank">iPad miniも発売日に買いました</a>。<br />

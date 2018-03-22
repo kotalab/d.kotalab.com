@@ -26,7 +26,8 @@ comments: []
 前編では99アプリのうち57をご紹介しました。<br />
 後編では2画面目のアプリを42個ご紹介していきます！<br />
 <a href="https://kotalab.com/iphone1year-app1" target="_blank">前編はこちら</a><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>2画面目</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/home_130713-300x513.jpg" alt="home_130713" width="300" height="513" class="alignnone size-medium wp-image-7849" /><br />
 僕のiPhoneはほぼ1画面目で完結しているので、2画面目のアプリはあまり使いません<br />

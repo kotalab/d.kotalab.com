@@ -31,7 +31,8 @@ comments:
 <p><img src="https://kotalab.com/wp-content/uploads/macappmarsedit_130929_01-546x313.png" alt="macappmarsedit_130929_01" width="546" height="313" class="alignnone size-large wp-image-9724" /><br />
 MarsEdit始めました。こたら（@kotala_b）です。<br />
 オフラインでも使えるブログエディタが使いたくて、MarsEditを使い始めてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>まずはお試し版から</h2>
 <p>MarsEditというMacアプリがあるのはだいぶ前から知ってました。<br />
 数百円というアプリがほとんどなiPhoneアプリに慣れているせいか、MarsEditの3450円という値段に抵抗があってこれまでずっと使っていませんでした。<br />

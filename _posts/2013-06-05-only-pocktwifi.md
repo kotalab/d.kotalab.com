@@ -26,7 +26,8 @@ comments: []
 iPhone5はWifiだけで運用しています。こたら（@kotala_b）です。<br />
 使っているのはEMOBILEのPocketWifi「GL04P」。<br />
 この機種の特徴としては約10時間の連続通信時間が可能という点です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>GL04Pの毎日の使用状況</h2>
 <p>出勤で家を出る時に電源をオンに。<br />
 iPhoneではMovesというライフログアプリをバックグラウンドで動かせています。<br />

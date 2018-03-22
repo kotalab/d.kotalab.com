@@ -25,7 +25,8 @@ comments: []
 発売日にiPadminiを思わぬカタチで買うことが出来ました。@kotala_bです。<br />
 AppleOnlineStoreだと予約開始から早い段階で初回出荷分がなくなっていたようなので、まさか店頭で買えるとは思いませんでした。<br />
 昨日は<a href="https://kotalab.com/ipad-mini-machida-ydobashi" title="iPadmini購入！ヨドバシ町田に行ったら当日分があった！" target="_blank">iPadminiを買ってから</a>仕事に行ったわけですが、その帰りに電車の中でiPadminiを使ってみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPadminiを電車の中で使ってみた</h2>
 <p>今まで電車の中ではiPhone5を使ってRSS購読したりTwitterを見たりとしていました。<br />
 これをiPadminiに置き換えたところ想像以上に快適でした！<br />

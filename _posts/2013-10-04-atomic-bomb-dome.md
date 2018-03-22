@@ -34,7 +34,8 @@ comments: []
 予約してあったホテルのチェックインを済ませてブラブラ広島市内をお散歩してきました。<br />
 真っ先に向かったのが広島に来たら行ってみたかった原爆ドーム。<br />
 原爆ドーム周辺で撮った写真を紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>原爆ドーム周辺の写真</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_01-546x361.jpg" alt="atomicbombdome_131004_01" width="546" height="361" class="alignnone size-large wp-image-9767" /><br />
 <img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_02-546x361.jpg" alt="atomicbombdome_131004_02" width="546" height="361" class="alignnone size-large wp-image-9763" /><br />

@@ -25,7 +25,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121213153245.jpg" width="448" height="448" /><br />
 窯蒸しチーズスフレを食べました。@kotala_bです。<br />
 食べたのは小田急線新百合ケ丘駅前のお店「<strong>パティスリージロー</strong>」の「<strong>窯蒸しチーズスフレ</strong>」です！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>駅前のお店</h2>
 <p>お店の場所は本当に駅すぐ！<br />
 ▼パノラマで撮るとこんな感じ<br />

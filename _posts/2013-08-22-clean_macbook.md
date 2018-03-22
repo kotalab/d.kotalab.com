@@ -27,7 +27,8 @@ comments: []
 <p>MacBook Airをキレイに掃除しました。こたら（@kotala_b）です。<br />
 皆さんはMacBook Air（Pro）の正しい掃除方法をご存知ですか？<br />
 僕は今まで知りませんでした。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>MacBook Airの掃除方法を調べてみた</h2>
 <p>僕がMacBook Airを買ったのは<a href="https://kotalab.com/macbook-air-24hours" target="_blank">去年の9月17日</a>のことです。<br />
 それから11ヶ月。メガネ拭きでごまかしていたものの、なかなかキレイな状態には戻りません。<br />

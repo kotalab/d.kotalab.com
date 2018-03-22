@@ -29,7 +29,8 @@ comments: []
 じーにーさん（@Genie09）がiPadを使って書き初めをしているのを見て知りました！<br />
 <a href="http://genie09.com/archives/9807?utm_source=dlvr.it&utm_medium=facebook" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://genie09.com/archives/9807?utm_source=dlvr.it&utm_medium=facebook" alt="iPadが大活躍！「Zen Brush」で書き初めをしよう！ | Happino" width="150" height="130" /></a><a href="http://genie09.com/archives/9807?utm_source=dlvr.it&utm_medium=facebook" target="_blank">iPadが大活躍！「Zen Brush」で書き初めをしよう！ | Happino</a><a href="https://b.hatena.ne.jp/entry/http://genie09.com/archives/9807?utm_source=dlvr.it&utm_medium=facebook" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://genie09.com/archives/9807?utm_source=dlvr.it&utm_medium=facebook" alt="" /></a><br style="clear:both;" />iPadはないけどiPadminiならある！<br />
 ということでiPadminiを使って書き初めをしてみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPadminiでの書き初め</h2>
 <p>使ったアプリはじーにーさん（@Genie09）と同じくZenBrushです！<br />
 去年の最後の記事で書いた、今年の抱負を書いてみました。<br />

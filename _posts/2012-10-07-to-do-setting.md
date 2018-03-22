@@ -29,7 +29,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/iphone5_120924_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5_120924_04.jpg" alt="" title="iphone5_120924_04" width="448" height="598" class="alignnone size-full wp-image-2956" /></a><br />
 iPhone5に変えて2週間経ちました。@kotala_bです。<br />
 買ってから2週間使ってみてこれはやっておきたいということを3つにまとめました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1.データの移行</h2>
 <p>僕はまず今まで使っていたiPhone4SからiPhone5へデータを移行させました。<br />
 <a href="https://kotalab.com/from-iphone-to-iphone" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iphone_120911.jpg" alt="iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/from-iphone-to-iphone" target="_blank">iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note</a><br style="clear:both;" /><br />

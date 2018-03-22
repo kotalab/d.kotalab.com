@@ -31,7 +31,8 @@ LIHITLABのペンケースを使ってみたらいい感じだったのでご紹
 USBケーブルやエネループ、モバイルバッテリーのようなデジタルガジェット、筆記用具まで「これさえあれば丸一日大丈夫」なポーチでした。</p>
 <p>パンパンに詰まってた100均のポーチではさらにモノを詰め込むのにはそろそろ限界。<br />
 1月から転職したこともあって持ち歩きたいモノが増えたので、新しく筆箱を買うことにしました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>LIHITLABのペンケース「ブックタイプ」</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_01-546x361.jpg" alt="pencase-lihitlab_140227_01" width="546" height="361" class="alignnone size-large wp-image-10999" /><br />
 LIHITLABのペンケース「ブックタイプ」は全4色、その中から僕は黒を選びました！<br />

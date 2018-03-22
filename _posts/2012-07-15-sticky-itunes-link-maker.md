@@ -22,7 +22,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_03.png" alt="" title="stickyLinkMaker_120715_03" width="185" height="50" class="alignnone size-full wp-image-1502" /></a><br />
 iPhoneを使い始めて3日経ちました。@kotala_bです。<br />
 AppStoreのリンクを貼る時、<a href="http://sticky.linclip.com/linkmaker/" title="Sticky iTunes Link Maker" target="_blank"><strong>StickyiTunesLinkMaker</strong></a>を使ったら新しくブックマークレットが出来ていたのでご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>StickyiTunesLinkMakerとは</h2>
 <p>まずは簡単に<a href="http://sticky.linclip.com/linkmaker/" title="Sticky iTunes Link Maker" target="_blank"><strong>StickyiTunesLinkMaker</strong></a>の紹介から。<br />
 iTunesへのリンクを簡単に作ることが出来るサービスです。<br />

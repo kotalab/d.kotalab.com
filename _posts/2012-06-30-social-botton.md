@@ -23,7 +23,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/social_120630_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/social_120630_03.jpg" alt="" title="social_120630_03" width="448" height="373" class="alignnone size-full wp-image-1138" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/info_grrl/5084920323/" target="_blank">Social Media Small Plates</a> - Just Try 1 or 2! (or 3 or 4!) / The Daring Librarian</span><br />
 ソーシャルボタンを記事の前後に設置しました。@kotala_bです。<br />
 WordPressプラグイン「WP Social Bookmarking Light」を使って記事の最後に置いてましたが、プラグインをやめコードを直接書いて設置しました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>変更前</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/social_120630_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/social_120630_01.jpg" alt="" title="social_120630_01" width="480" height="40" class="alignnone size-full wp-image-1127" /></a><br />
 これが変更前のソーシャルボタンです。<br />

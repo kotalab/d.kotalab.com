@@ -29,7 +29,8 @@ comments: []
 これからの10年間を後悔のない最高の10年間にするために一冊の本を読んだ。<br />
 今回紹介する、本田健さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00EXODB6E/same-22/" rel="nofollow" target="_blank">30代にしておきたい17のこと</a>」だ。<br />
 「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00EXODB6E/same-22/" rel="nofollow" target="_blank">30代にしておきたい17のこと</a>」を読んでみつけた、これからの人生を豊かに過ごすためにやりたいことを4つご紹介したい。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>お金と真剣に向き合う</h2>
 <p>将来のお金のこととなると「なんとなく」不安になる人がいる。<br />
 その不安はお金と真剣に向き合っていないからだ。<br />

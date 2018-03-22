@@ -28,7 +28,8 @@ iPad Airを買う予定です。こたら（@kotala_b）です。<br />
 iPad AirとiPad miniRetinaディスプレイモデルの同時発表があり、どっちがいいか迷っている人も多いはず。<br />
 スペックは大体一緒なのでスペックだけでは選べないというのが正直なところ。<br />
 もし買ったらどうやって使うか。利用シーンを想定して選ぶのがよさそうです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPad AirとiPad mini Retinaディスプレイモデルの違い</h2>
 <p>iPad AirとiPad miniのスペックはほぼ一緒。<br />
 <a href="https://www.apple.com/jp/ipad/compare/" target="_blank">スペック表</a>ではどちらもA7チップを搭載し、カメラ性能も同じ。バッテリー駆動時間も同じです。<br />

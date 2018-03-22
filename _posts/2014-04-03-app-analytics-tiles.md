@@ -27,7 +27,8 @@ GoogleAnalyticsがiPhoneから見れるアプリ「AnalyticsTiles」</p>
 いつの間にかAppStoreからも消えてたみたい。</p>
 <p>多くのブロガーが愛用してたアプリだったと思います。スゴい便利なアプリだっただけに残念でならない！<br />
 そのうちアップデートで元に戻るかなって思ってたんですけど、今朝遂にアップデートがきてました！！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>AnalyticsTilesのアップデート内容</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/app-analytics-tiles_140403_02-546x435.jpg" alt="app-analytics-tiles_140403_02" width="546" height="435" class="alignnone size-large wp-image-11337" /><br />
 アップデート内容は「iOS7に対応、それに合わせてインターフェースも変えましたよ。バグも治したよ。」<br />

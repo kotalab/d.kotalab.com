@@ -24,7 +24,8 @@ comments: []
 <p>睡眠時間を7時間取ると体調がいいです。@kotala_bです。<br />
 @jmatsuzakiさんのブログでTaskchuteに明日の起床時間を表示させているという記事を読みました。<br />
 <a href="https://jmatsuzaki.com/archives/4517" target="_blank"><img title="明日の起床時間を表示する２種類の「起き時計」 | jMatsuzaki" src="https://capture.heartrails.com/150x130?https://jmatsuzaki.com/archives/4517" alt="https://jmatsuzaki.com/archives/4517" width="150" height="130" align="left" /></a><a href="https://jmatsuzaki.com/archives/4517" title="明日の起床時間を表示する２種類の「起き時計」 | jMatsuzaki" target="_blank">明日の起床時間を表示する２種類の「起き時計」 | jMatsuzaki</a><br style="clear:both;" />こういう使い方はとても参考になります！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>真似させて頂きます！</h2>
 <blockquote class="twitter-tweet" data-in-reply-to="215436500916109312" lang="ja"><p>Taskchuteに起床時間！！これは真似したい！真似させて頂きます！ RT @<a href="https://twitter.com/jmatsuzaki">jmatsuzaki</a> 我、ブログを更新す！ >> 明日の起床時間を表示する２種類の「起き時計」 - <a href="http://t.co/XLKeFTD0" title="http://tinyurl.com/6sxxvev">tinyurl.com/6sxxvev</a></p>
 <p>&mdash; kotalaさん (@kotala_b) <a href="https://twitter.com/kotala_b/status/215629997224894464" data-datetime="2012-06-21T02:19:32+00:00">6月 21, 2012</a></p></blockquote>

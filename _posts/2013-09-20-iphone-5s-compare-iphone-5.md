@@ -29,7 +29,8 @@ comments: []
 銀座のアップルストアではスゴい行列が報道されていますが、僕は家から徒歩10分くらいのところにあるauショップでこそこそ？と買ってきました！<br />
 <img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_02-546x546.jpg" alt="iphone5scompareiphone5_130920_02" width="546" height="546" class="alignnone size-large wp-image-9556" /><br />
 午前4時に到着した時にはまだ1人も並んでなくて1番をゲット！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhone 5sスペースグレイ</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_06-546x409.jpg" alt="iphone5scompareiphone5_130920_06" width="546" height="409" class="alignnone size-large wp-image-9558" /><br />
 僕が買ったのはスペースグレイの64GB！<br />

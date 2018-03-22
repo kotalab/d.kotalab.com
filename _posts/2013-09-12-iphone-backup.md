@@ -27,7 +27,8 @@ comments: []
 iPhone 5sを買う予定です！こたら（@kotala_b）です。<br />
 僕は今iPhone5を利用中なので、そのままiPhone 5sを使うにはデータをバックアップして移行する必要があります。<br />
 バックアップから移行までの手順をご紹介します！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhoneのデータをバックアップする方法</h2>
 <p>iPhoneのデータのバックアップにはiPhoneをPCに接続し、iTunesを使います。<br />
 PCはWindows、Macどちらを使っていてもiTunesからバックアップを取ります。</p>

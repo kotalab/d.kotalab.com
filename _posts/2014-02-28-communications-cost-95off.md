@@ -36,7 +36,8 @@ comments: []
 LINEはもともと無料の通話・メッセージアプリですが、通話ができるのはLINEアプリを使っている人同士だけでした。<br />
 2月26日の発表によると、新サービスの「<a href="http://line.me/ja/call" target="_blank">LINE電話</a>」を利用することで、今まで不可能だったケータイや固定回線への通話が可能となります。<br />
 消費税増税前にとんでもないサービスがスタートします！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>現在のスマホの通話料をおさらい</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/telephone_130703.jpg" alt="telephone_130703" width="548" height="411" class="alignnone size-full wp-image-7727" /><br />
 「<a href="http://line.me/ja/call" target="_blank">LINE電話</a>」を知る前に、まずは現在のスマホの通話料を知っておきましょう。<br />

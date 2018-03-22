@@ -24,7 +24,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/ipadair_131023_01-546x299.png" alt="ipadair_131023_01" width="546" height="299" class="alignnone size-large wp-image-10020" /><br />
 新型は「iPad Air」！こたら（@kotala_b）です。<br />
 深夜から早朝にかけて、Appleの新製品発表会があり新型のiPad AirとiPad mini Retina displayが発表されました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>軽々とパワフルになったiPad Air</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/ipadair_131023_02-546x331.png" alt="ipadair_131023_02" width="546" height="331" class="alignnone size-large wp-image-10018" /><br />
 iPadの新型、iPad Airはディスプレイサイズはこれまでの9.7インチのまま、小さく軽くなりました。<br />

@@ -26,7 +26,8 @@ comments: []
 行ったのは相模原にある焼肉叙々苑です。<br />
 ここは叙々苑の直営店ではなくのれん分けされたお店の1つです。<br />
 会席料理の雪会席（7000円）を食べてきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>雪会席</h2>
 <p>▼会席メニュー<br />
 <img src="https://kotalab.com/wp-content/uploads/jojoen_130313-448x336.jpg" alt="jojoen_130313" width="448" height="336" class="alignnone size-large wp-image-6490" /><br />

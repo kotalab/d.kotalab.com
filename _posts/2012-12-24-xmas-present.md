@@ -29,7 +29,8 @@ comments: []
 @Rivawanさんのアプリはドックに2つ入ってます。@kotala_bです。<br />
 @Rivawanさんの大人気アプリが12/24、12/25の2日間限定でクリスマスセールを開催中です！<br />
 <a href="http://rivawan.com/archives/2254" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://rivawan.com/archives/2254" alt="12/24-25限定クリスマスセール！Seeqなど170円以上アプリは85円、スマートアルバムなど85円アプリは無料です！ : Rivawan" width="150" height="130" /></a><a href="http://rivawan.com/archives/2254" target="_blank">12/24-25限定クリスマスセール！Seeqなど170円以上アプリは85円、スマートアルバムなど85円アプリは無料です！ : Rivawan</a><a href="https://b.hatena.ne.jp/entry/http://rivawan.com/archives/2254" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://rivawan.com/archives/2254" alt="" /></a><br style="clear:both;" />無料となるアプリが3つ、85円に値引きされたアプリが3つ、計6つがセール中です！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>2日間限定で無料になるアプリは3つ！</h2>
 <h3>スマートアルバム</h3>
 <p>自動で写真を振り分けてくれる便利なアプリ！<br />

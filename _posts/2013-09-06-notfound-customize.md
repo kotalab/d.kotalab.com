@@ -50,7 +50,8 @@ SEO効果抜群のWordPress無料テーマ「Stinger2」を使ってます。こ
 このことは<strong>「Stinger2」も例外ではありません。</strong><br />
 <img src="https://kotalab.com/wp-content/uploads/notfound-customize_130906_02-546x131.jpg" alt="notfound-customize_130906_02" width="546" height="131" class="alignnone size-large wp-image-8454" /><br />
 404ページにたどり着いてしまった時でも<strong>次のページを読んで貰える工夫</strong>をすることで、ブラウザの戻るボタンを押されることを避けられるならあなたはどうしますか？<strong>僕は間違いなく次のページを読んで貰える工夫をします。</strong><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>色々な404ページ</h2>
 <p>Googleウェブマスターツールでは404ページについてこんな風に書かれています。</p>
 <blockquote><p>サーバーへのアクセス権がある場合は、独自の 404 ページを作成することをおすすめします。404 ページをわかりやすくカスタマイズすることにより、探している情報の場所をユーザーに知らせたり、役に立つ他のコンテンツを提供したり、サイト内をさらに探すよう促したりできます。<br />

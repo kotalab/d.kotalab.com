@@ -32,7 +32,8 @@ comments: []
 <p>script src="//platform.twitter.com/widgets.js" charset="utf-8"><br />
 来年への足がかりとして、11月の1ヶ月間を振り返ってみたいと思います。<br />
 この振り返りが来年に繋がりますように！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>11月のanalystics結果</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/review_121201_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/review_121201_01-448x224.jpg" alt="" title="review_121201_01" width="448" height="224" class="alignnone size-large wp-image-4493" /></a><br />
 PV数は過去最高の41837でした。<br />

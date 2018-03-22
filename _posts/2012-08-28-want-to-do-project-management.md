@@ -29,7 +29,8 @@ comments: []
 前回はやりたいことをやるために、Evernoteにやりたいことを集約しそこからTaskchuteにタスクとして登録・実行することをお話しました。<br />
 <a href="https://kotalab.com/task-management" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2348" alt="https://kotalab.com/archives/2348" width="150" height="130" align="left" /></a><a href="https://kotalab.com/task-management" target="_blank">やりたいことをするためにやってること | kotala's note</a><br style="clear:both;" /><br />
 今回は「Taskchuteに入れるだけでは簡単に出来ないやりたいこと」をやるためにすることをお話します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>前回のつづき</h2>
 <p>例えば「引越しをしたい」と思ったとします。<br />
 引越しをするにはTaskchuteに入れるだけではどうにもなりません。<br />

@@ -24,7 +24,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/weekly_120703.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/weekly_120703.jpg" alt="" title="weekly_120703" width="448" height="336" class="alignnone size-full wp-image-1221" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/wespeck/4574733303/" target="_blank">Life</a> / gfpeck</span><br />
 こたらの1週間第6号です。<br />
 先週1週間を振り返ります。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>先週の出来事</h2>
 <h3>六本木ヒルズへいく</h3>
 <p>水曜日に六本木ヒルズへ行ってきました。<br />

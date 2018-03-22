@@ -50,7 +50,8 @@ comments:
 僕自身、ドコモのAndroidを使っていてドコモからiPhoneが出ないからSoftBankへ変えたという経緯があります。<br />
 もしあの時ドコモからiPhoneが出ていれば、ドコモのiPhoneに機種変していたでしょう。<br />
 AndroidからiPhoneへ変えた時に一番大変だったのがデータ移行です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>AndroidからiPhoneへデータを移行・バックアップする時の注意点</h2>
 <p>AndroidのデータをiPhoneへ移すときに注意したいのが<strong>移行するタイミング</strong>です！<br />
 機種変更後のAndroidではWi-Fiでしかネット接続ができません。<br />

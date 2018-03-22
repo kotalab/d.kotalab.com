@@ -28,7 +28,8 @@ comments: []
 ここでは揚げたての手作りカレーパンをその場で食べれます！<br />
 以前ここで食べた友達からおいしいと聞いていて、一度は行ってみたいと思っていました。<br />
 <a href="http://iphone-caseten.com/" title="iPhoneケース展" target="_blank">iPhoneケース展</a>で赤レンガ倉庫へ行ったので、「CafeBELLBE」さんにも勿論行きました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>▼お店の前の様子<br />
 <a href="https://kotalab.com/wp-content/uploads/currypan_121020_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/currypan_121020_01.jpg" alt="" title="currypan_121020_01" width="448" height="336" class="alignnone size-full wp-image-3560" /></a><br />
 カレーパン以外にもケーキが気になります<br />

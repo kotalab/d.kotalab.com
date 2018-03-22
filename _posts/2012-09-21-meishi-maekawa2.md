@@ -25,7 +25,8 @@ comments: []
 iPhone5発売日に小包が届きました。@kotala_bです。<br />
 送り先は<a href="https://kotalab.com/meishi-maekawa" title="前川企画印刷さんでブロガー名刺を作ってみる！" target="_blank">あの</a>前川企画印刷さんです！<br />
 ついに名刺が完成し手元に届きました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>早速開封！</h2>
 <p>中には封筒が同封されていてメッセージもついていました！<br />
 <a href="https://kotalab.com/wp-content/uploads/blogermeishi_120921_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/blogermeishi_120921_02.jpg" alt="" title="blogermeishi_120921_02" width="448" height="336 class="alignnone size-full wp-image-2917" /></a><br />

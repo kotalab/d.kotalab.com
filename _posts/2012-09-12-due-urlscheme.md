@@ -29,7 +29,8 @@ comments: []
 例えば「今日からこの薬を朝晩2回食後に飲んでください。」なんて言われてもダメ。<br />
 誰かに言われて始めるようなことだと特に忘れてしまいます。<br />
 しかしiPhoneアプリのDueを使えば忘れやすいことでも習慣として身につきます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/due-rimainda-taima-aramu/id390017969?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a520.phobos.apple.com/us/r1000/050/Purple6/v4/53/5c/6a/535c6a67-960c-7c02-b3d1-683dc1f9d2a8/Icon.png" width="80" /></a></div>
 <div class="applinktext">

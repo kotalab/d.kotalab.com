@@ -29,7 +29,8 @@ comments: []
 iPhone5が待ち遠しいです。@kotala_bです。<br />
 iPhone5ではauが<strong>デザリング</strong>に対応するということで話題になっています。<br />
 そこで<strong>デザリング</strong>について調べてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>デザリングとは</h2>
 <p>デザリングというのはスマホをPCに繋げることでPCでネットをする際に通信端末として利用できる機能のことを言います。<br />
 参考：<a href="http://www.infraexpert.com/study/wireless43.html" target="_blank">テザリングとは - NTTドコモ、KDDI、Softbank、イーモバイル</a></p>

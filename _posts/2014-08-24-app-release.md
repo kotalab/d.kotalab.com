@@ -47,7 +47,8 @@ comments:
 <p>早ければ今月中にもApp Storeに並ぶ予定になっています！<br />
 無事リリースできたらまたブログでお知らせしますね！</p>
 <p>8月24日に開催された「<a href="http://www.lastday.jp/2014/07/21/2014-bloggers-fes-bosyu" target="_blank">ブロガーズフェスティバル 2014</a>」というイベントで色々なお話を聞いて、僕がiPhoneアプリを作れたのはこういうことだよなーとすごく頷くことが何回もありました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>なんでiPhoneアプリが作れたのか</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/app-release_140824_01-546x409.jpg" alt="app-release_140824_01" width="546" height="409" class="alignnone size-large wp-image-13381" /><br />
 僕はiPhoneアプリをいつか作ってみたいと思っていました。<br />

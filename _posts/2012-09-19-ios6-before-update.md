@@ -28,7 +28,8 @@ comments: []
 9月19日にアップデート予定のiOS6公開があと僅かとなりました。<br />
 <a href="http://news.mynavi.jp/news/2012/09/19/065/" target="_blank"><img src="https://capture.heartrails.com/150x130?http://news.mynavi.jp/news/2012/09/19/065/" alt="http://news.mynavi.jp/news/2012/09/19/065/" width="150" height="130" align="left" /></a><a href="http://news.mynavi.jp/news/2012/09/19/065/" target="_blank">「9月19日提供開始」のiOS 6、過去の例からは日本時間20日午前2時が有力 | パソコン | マイナビニュース</a><br style="clear:both;" />アップデートは過去の例から午前2時が有力とされています。<br />
 あと数時間後には公開されますが、その前に必ずしておきたいことを調べました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhone内のデータを整理する</h2>
 <p>音楽や写真、動画などは外部に保存しiPhone内から削除する。<br />
 そしてiPhone自体もiTunesを使ってバックアップをとりましょう。<br />

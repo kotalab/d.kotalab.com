@@ -26,7 +26,8 @@ comments: []
 体温と体重は毎朝計ってます。@kotala_bです。<br />
 それに加え心拍数も計ってみることにしました。<br />
 とは言っても大げさな装置を使う訳でもなくいつでも使えるiPhoneで計ります。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>心拍数を知れば変化が分かる</h2>
 <p>▼安静時の心拍数を知っておくことで日常のストレスの目安になりそうです。<br />
 <a href="http://www.tyojyu.or.jp/hp/page000000500/hpg000000432.htm" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://www.tyojyu.or.jp/hp/page000000500/hpg000000432.htm" alt="健康長寿ネット－心拍数・脈拍数" width="150" height="130" /></a><a href="http://www.tyojyu.or.jp/hp/page000000500/hpg000000432.htm" target="_blank">健康長寿ネット－心拍数・脈拍数</a><a href="https://b.hatena.ne.jp/entry/http://www.tyojyu.or.jp/hp/page000000500/hpg000000432.htm" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.tyojyu.or.jp/hp/page000000500/hpg000000432.htm" alt="" /></a><br style="clear:both;" /></p>

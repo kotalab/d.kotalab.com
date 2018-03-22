@@ -26,7 +26,8 @@ comments: []
 ---
 <p><img src="https://kotalab.com/wp-content/uploads/cloud-storage_20150106_01-780x438.jpg" alt="cloud-storage_20150106_01" width="780" height="438" class="aligncenter size-large wp-image-13757" /><br />
 Evernoteなどのクラウドストレージを普段どういう風に使っているのか、ブログを書いたりアプリ開発をしたりFP（ファイナンシャルプランナー）をしている僕なりの使い方をご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>僕のEvernoteの使い道</h2>
 <h3>1.自動ログ</h3>
 <p>TwitterやFacebookなどのSNS、<a href="https://kotalab.com/app-moves">Moves</a>やSwarmなどの行動記録、<a href="https://kotalab.com/app-grid-diary">GridDiary</a>の日記や<a href="https://kotalab.com/app-gunosy-release">Gunosy</a>なんかを日々ログとして保存しています。</p>

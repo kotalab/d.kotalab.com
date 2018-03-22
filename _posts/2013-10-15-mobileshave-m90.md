@@ -26,7 +26,8 @@ comments: []
 以前はT字カミソリを使ってましたが、この電気シェーバーを手に入れてからはこれしか使わなくなりました。<br />
 その電気シェーバーがブラウンの「モバイルシェーブ M-90」というモノ。<br />
 広島へ行った時も持っていって使ってました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>モバイルシェーブ M-90</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/mobileshavem90_131015_02-546x361.jpg" alt="mobileshavem90_131015_02" width="546" height="361" class="alignnone size-large wp-image-9932" /><br />
 モバイルシェーブ M-90のいいところはコンパクトなところ。<br />

@@ -25,7 +25,8 @@ comments: []
 Evernoteはほんとに便利です。@kotala_bです。<br />
 昨日はEvernote for Macのアップデートがあり、アカウント切り替え機能が公式にサポートされました。<br />
 参考：<a href="http://blog.evernote.com/jp/2012/08/03/9626" target="_blank">Evernote for Macにアカウント切り替え機能搭載（プレミアム機能） &laquo; Evernote日本語版ブログ</a><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>切り替え機能を使うには</h2>
 <p>アカウント切り替え機能を使えるのはプレミアムアカウントだけのようです。<br />
 複数の無料アカウントを作ってそれを切り替えて使うというのは出来ません。</p>

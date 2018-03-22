@@ -29,7 +29,8 @@ comments: []
 via:<a href="http://akio0911.net/archives/27693" target="_blank">ブロガーズナイト、4月22日開催。今回の食べ物はクロナッツだよ！ - 拡張現実ライフ</a><a href="https://b.hatena.ne.jp/entry/http://akio0911.net/archives/27693" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://akio0911.net/archives/27693" alt="" /></a></p></blockquote>
 <p>です。</p>
 <p>初開催から1年、今回で8回目という人気のイベントです！<br />
-今回はアキオさんが<!--more--></p>
+今回はアキオさんが</p>
+<!--more-->
 <h2>クロナッツって何？</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140422215556.jpg" width="548" height="366" class="slooProImg" /><br />
 そもそもクロナッツが何だかすらわからない状態で申し込んだんですが、そのまま行くのはあれなので行く前にちょっと調べてみました！</p>

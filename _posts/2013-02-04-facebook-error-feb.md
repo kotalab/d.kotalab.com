@@ -25,7 +25,8 @@ comments: []
 さっきFacebookを開くと見慣れないメッセージがありました。@kotala_bです。<br />
 ▼赤い文字で「緊急修正」と書いてあり何やら重要な雰囲気のメッセージです。<br />
 <img src="https://kotalab.com/wp-content/uploads/facebook_130204_01-448x237.jpg" alt="facebook_130204_01" width="448" height="237" class="alignnone size-large wp-image-6028" /><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>「February 2013 Breaking Changes」とは</h2>
 <p>「February 2013 Breaking Changes」がなんなのか調べてみると、FacebookDevelopersに詳細が書いてありました。<br />
 ▼詳細はこちら<br />

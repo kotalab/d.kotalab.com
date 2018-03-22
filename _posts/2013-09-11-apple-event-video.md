@@ -26,7 +26,8 @@ comments: []
 寝不足です。こたら（@kotala_b）です。<br />
 夜中の2時から始まったAppleのイベントをリアルタイムで見ようと夜中の4時過ぎまで起きてました。<br />
 寝不足になってまでみたAppleのイベントですが、現在はApple公式サイトで動画が配信されています！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Apple Special Events September 10,2013</h2>
 <p><a href="https://www.apple.com/apple-events/september-2013/" target="_blank">Apple - Apple Events - Special Event September 2013</a><br />
 見逃してしまった方も動画でイベントの様子を楽しみましょう！<br />

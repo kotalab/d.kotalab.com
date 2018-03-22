@@ -29,7 +29,8 @@ comments: []
 <p>トントン拍子で家が見つかりいよいよ引越しが決まったんですが、そうなるとやることが一気に増えてきます。</p>
 <p>そのほとんどが<span class="b">必ずやらなきゃいけないことだったりするので、漏らさず全部覚えておくというのは大変</span>です。<br />
 そこで僕はいつも使ってるOmniFocusというiPhone・Macアプリでやることを全部管理することにしました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>引越しはやらなきゃいけないことが沢山ある</h2>
 <p>引越しをするのにやらなきゃいけないことを数分で書き出してみました。<br />
 <img src="https://kotalab.com/wp-content/uploads/move-house-task_140520_02.jpg" alt="Move house task 140520 02" title="move-house-task_140520_02.jpg" border="0" width="350" height="600" /><br />

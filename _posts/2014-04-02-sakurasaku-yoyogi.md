@@ -27,7 +27,8 @@ comments: []
 モブログ先生としても活躍中のあかめ先生(<a href="https://twitter.com/mk_mizuho" target="_blank">@mk_mizuho</a>)が主催するモブログ花見大会に行ってきました！<br />
 5分咲き？7分咲き？満開とは言えなかったけど、それでも沢山桜が咲く代々木公園。<br />
 天気も良くて絶好のお花見日和でした！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1時にかんぱーい！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_05-546x362.jpg" alt="sakurasaku-yoyogi_140402_05" width="546" height="362" class="alignnone size-large wp-image-11330" /><br />
 昼の1時に集合ということでそのちょっと前に着いたんですが、誰もいない！<br />

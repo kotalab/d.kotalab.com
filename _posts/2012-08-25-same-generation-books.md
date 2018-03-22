@@ -25,7 +25,8 @@ comments: []
 【<a href="http://ozpa-h4.com/" target="_blank">OZPAの表4</a>】を書いてる@OZPAさん著書の「<a href="https://www.amazon.co.jp/exec/obidos/asin/4798030724/same-22/" rel="nofollow" name="booklink" target="_blank">あっという間に月25万PVをかせぐ人気ブログのつくり方</a>」と、<br />
 【<a href="http://netafull.net/" target="_blank">[N]ネタフル</a>】を書いてる@kogureさん、【<a href="https://wayohoo.com/" target="_blank">和洋風KAI</a>】を書いてる@isloopさんの2人が書いた「<a href="https://www.amazon.co.jp/exec/obidos/asin/4844331779/same-22/" rel="nofollow" name="booklink" target="_blank">必ず結果が出るブログ運営テクニック100</a>」です。<br />
 この2つの本からブログを続ける為の大切なことを教わりました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4798030724/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/411tutU%2B3dL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">

@@ -24,7 +24,8 @@ comments: []
 <p><img alt="ipadmini10app" src="https://kotalab.com/wp-content/uploads/slooProImg_20121104102440.jpg" width="448" height="292" /><br />
 iPadminiはブログ更新が主な使用目的です。@kotala_bです。<br />
 そんな僕がiPadminiを買って真っ先に入れた10のアプリを紹介します！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPadminiを買って真っ先にいれた10のアプリ！</h2>
 <h3>するぷろ</h3>
 <p>ブログエディターの決定版！<br />

@@ -25,7 +25,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/pasta_120629_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/pasta_120629_03.jpg" alt="" title="pasta_120629_03" width="448" height="336" class="alignnone size-full wp-image-1096" /></a><br />
 パスタが大好きです。@kotala_bです。<br />
 今日はさっぱりした和風パスタを作りました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>材料</h2>
 <p>2人分の材料はパスタ、大根5～6センチ、なめたけ1/3瓶、めんつゆおおさじ1、みそおおさじ1です。</p>
 <h2>作り方</h2>

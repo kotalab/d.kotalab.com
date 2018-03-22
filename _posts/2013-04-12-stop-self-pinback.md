@@ -34,7 +34,8 @@ comments:
 このピンバック通知をオンにしていると、リンク先の記事宛に「リンクを貼付けましたよ」という通知をしてくれます。<br />
 セルフピンバックというのはこのピンバックが自分宛に届いてしまうことです。<br />
 過去記事へのリンクを貼るとコメント欄に毎回認証するかどうか表示されるので、鬱陶しく思っていました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>WP Total Hacks</h2>
 <p>鬱陶しいセルフピンバックを簡単に止めてくれるのが「WP Total Hacks」というプラグインです。<br />
 <a href="http://firegoby.jp/wp/wp-total-hacks" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://firegoby.jp/wp/wp-total-hacks" alt="WP Total Hacks &ndash; 20項目以上のカスタマイズができるWordPressプラグイン | firegoby" width="150" height="130" /></a><a href="http://firegoby.jp/wp/wp-total-hacks" target="_blank">WP Total Hacks &ndash; 20項目以上のカスタマイズができるWordPressプラグイン | firegoby</a><a href="https://b.hatena.ne.jp/entry/http://firegoby.jp/wp/wp-total-hacks" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://firegoby.jp/wp/wp-total-hacks" alt="" /></a><br style="clear:both;" />▼作者は日本の方なのでプラグインも日本語で表記されていてわかりやすくなっています。<br />

@@ -28,7 +28,8 @@ googleの発表に驚きました。@kotala_bです。<br />
 googleの公式ブログで7月1日にgoogleリーダーの終了が発表されました。<br />
 ▼googleの公式ブログ（英語）<br />
 <a href="http://googlereader.blogspot.jp/2013/03/powering-down-google-reader.html" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://googlereader.blogspot.jp/2013/03/powering-down-google-reader.html" alt="Official Google Reader Blog: Powering Down Google Reader" width="150" height="130" /></a><a href="http://googlereader.blogspot.jp/2013/03/powering-down-google-reader.html" target="_blank">Official Google Reader Blog: Powering Down Google Reader</a><a href="https://b.hatena.ne.jp/entry/http://googlereader.blogspot.jp/2013/03/powering-down-google-reader.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://googlereader.blogspot.jp/2013/03/powering-down-google-reader.html" alt="" /></a><br style="clear:both;" />これまでずっとRSS購読にはgoogleリーダーを使っていただけに、この発表にはかなり驚きました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>googleリーダーが終了するとどうなる？</h2>
 <p>今のままgoogleリーダーが終了してしまうと、おそらくreederやSylfeedといったアプリでRSS購読が出来なくなります。<br />
 これらはgoogleリーダーと同期をするアプリなので、使うにはgoogleアカウントが必要になります。<br />

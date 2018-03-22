@@ -30,7 +30,8 @@ SoftBankのホワイトプランが新しくなっていることを知りませ
 iPhone5に機種変更した時の申込内容確認書を見て初めて知りました。<br />
 申込内容確認書にはホワイトプランの変更に伴い、「契約解除料9975円の支払いが必要になります。」と書いてあり「えっ？何これ？」っていうのがありました。<br />
 このことをSoftBankカスタマーサポートにメールして回答を頂きました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>なんだこれ？</h2>
 <p>▼こちらがその申込内容確認書です。（クリックして拡大）<br />
 <a href="https://kotalab.com/wp-content/uploads/whiteplan_120928.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/whiteplan_120928.jpg" alt="" title="whiteplan_120928" width="448" height="336" class="alignnone size-full wp-image-3005" /></a><br />

@@ -31,7 +31,8 @@ comments: []
 現在の5％から8％への引き上げは約2.8%の値上がりとなり、食品、衣料品、洗剤などの日用品はもちろんのこと、<a href="https://kotalab.com/train-fare-rise-in-price" title="消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。">電車運賃</a>や<span class="removed_link" title="headlines.yahoo.co.jp/hl?a=20140129-00000009-asahi-bus_all">タクシーの初乗り料金</span>まで値上がります。<br />
 食品は今買っても腐ってしまいますが、洗剤等の日用品は大丈夫。どうせ買うなら消費税増税前に買っておきたいですよね。<br />
 そこで今日は消費税増税前に買うならオススメしたいコストコの人気アイテムをご紹介します！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>食器用洗剤</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/costco-item-before-tax-up_20140203_02-546x409.jpg" alt="costco-item-before-tax-up_20140203_02" width="546" height="409" class="alignnone size-large wp-image-10746" /><br />
 食器用洗剤は毎日使う生活必需品！<br />

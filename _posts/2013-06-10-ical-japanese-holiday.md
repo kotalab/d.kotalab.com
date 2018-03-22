@@ -29,7 +29,8 @@ GoogleカレンダーからMacの標準アプリ「iCal」に移行しました�
 iCalでは残念なことに祝日の表示がありません。<br />
 どうやって祝日を表示させるのか探してみたら簡単に見つかりました。<br />
 Appleが用意しているカレンダーを入れるだけ！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>たった数秒で日本の祝日が表示されるようになった！</h2>
 <p>まずはここを開きます。<br />
 <a href="https://www.apple.com/downloads/macosx/calendars/japaneseholidaycalendar.html" target="_blank">Apple - Downloads - iCal Calendars - Japanese Holiday Calendar</a><br />

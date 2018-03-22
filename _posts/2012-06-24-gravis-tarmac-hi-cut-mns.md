@@ -27,7 +27,8 @@ amazonで思わず衝動買いをしました。@kotala_bです。<br />
 実はこの靴、12,3年前の当時高校生だったころにクラスメイトの間で一時話題になったものでした。<br />
 当時は1万円以上もする靴はなかなか買えるものじゃなく、履いてる人を見て<strong>憧れてた</strong>のを覚えています。<br />
 そんな靴が50%オフで売られていたので思わず買ってしまったというわけです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B005D5QBD2/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/519RRBIGoxL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">

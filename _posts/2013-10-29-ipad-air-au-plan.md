@@ -34,7 +34,8 @@ comments:
 iPad Airを買う予定です。こたら（@kotala_b）です。<br />
 iPad Air発売まであと3日に迫る今日、auからiPad AirとiPad mini Retinaモデルの料金プランが発表されました！<br />
 iPad AirのWi-Fi版とau版を比べた利用料金の違いを表にまとめてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>au版iPad Airの料金プラン</h2>
 <p>iPad AirにはauやSoftBankから発売されるセルラー版の他に通信契約をしないで持てるWi-Fi版があります。<br />
 セルラー版とWi-Fi版の違いは<a href="https://kotalab.com/ipad-air-wifi-or-cellular" title="iPad AirはWi-Fi版？それともセルラー版？それぞれのメリットデメリットを比べてみた" target="_blank">別エントリー</a>で書いてますので、そちらを参考にしてください。<br />

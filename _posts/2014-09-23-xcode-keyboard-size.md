@@ -28,7 +28,8 @@ comments: []
 iPhone 6Plusで真っ先に気になったのが自分のアプリのことだったりするんですが、大きい画面になったのに表示がそのまま拡大されてるだけで活かしきれてないなーと。</p>
 <p>アプリによってはただ大きくなっただけじゃなくて、iPhone 6Plusにしっかり最適化されてたりするんですよね。<br />
 どうやってやるんだろーって思って色々探したり試してたら「iPhone 6Plusのアプリ！」って感じになったのでその方法を書いてみたいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhone 6Plusで気になったところ</h2>
 <p>僕が作ってるアプリ（Appleで審査中）WebNoteのスクリーンショットがこちら<br />
 <img src="https://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_01-300x533.png" alt="xcode-keyboard-size20140923_01" width="300" height="533" class="aligncenter size-medium wp-image-13515" /><br />

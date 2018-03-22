@@ -33,7 +33,8 @@ comments:
 <p>麺類が大好きです。@kotala_bです。<br />
 <a href="https://www.ttcbn.net/no_second_life/archives/23392" target="_blank"><img title="自宅で簡単！カルボナーラ・パスタを美味しく作る4つのコツ！！ | No Second Life" src="https://capture.heartrails.com/150x130?https://www.ttcbn.net/no_second_life/archives/23392" alt="https://www.ttcbn.net/no_second_life/archives/23392" width="150" height="130" align="left"/></a><a href="https://www.ttcbn.net/no_second_life/archives/23392" title="自宅で簡単！カルボナーラ・パスタを美味しく作る4つのコツ！！ | No Second Life" target="_blank">自宅で簡単！カルボナーラ・パスタを美味しく作る4つのコツ！！ | No Second Life</a><br style="clear:both;" /><br />
 見ただけでヨダレが出てきそうなおいしそうな写真が載ってるこちらの記事を参考にカルボナーラを作ってみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>材料</h2>
 <p>材料は、豆乳・卵黄・ゴーダチーズ・パルメザンチーズ・バター・スモークサーモン。<br />
 豆乳は<a href="https://kotalab.com/go-to-costco" title="COSTCOに行ってきた！" target="_blank">以前紹介したCOSTCO</a>で買ってきたものを使用。<br />

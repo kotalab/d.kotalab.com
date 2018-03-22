@@ -27,7 +27,8 @@ comments: []
 何回かこのブログでも紹介してきました。<br />
 <a href="https://kotalab.com/costco-clamchowder" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/clamChowder.jpg" alt="コストコで買ったキャンベルのクラムチャウダーが濃厚な味でおいしかった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/costco-clamchowder" target="_blank">コストコで買ったキャンベルのクラムチャウダーが濃厚な味でおいしかった！ | kotala's note</a><br style="clear:both;" /><br />
 <a href="https://kotalab.com/shark-steam-portable" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121221161734.png" alt="シャーク スチームポータブルが超お買い得！コストコでなんと9800円！ | kotala's note" width="150" /></a><a href="https://kotalab.com/shark-steam-portable" target="_blank">シャーク スチームポータブルが超お買い得！コストコでなんと9800円！ | kotala's note</a><br style="clear:both;" />今日はコストコで使える、便利ワザをご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1.メールマガジンに登録する</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/costco_130705_05-448x336.jpg" alt="costco_130705_05" width="448" height="336" class="alignnone size-large wp-image-7760" /><br />
 コストコは会員向けに無料のメールマガジンを配信しています。<br />

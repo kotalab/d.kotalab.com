@@ -32,7 +32,8 @@ iPhone 5sは予約販売なしが決定されましたね。<br />
 最寄りのキャリアショップやケータイショップですぐ買えればいいんですが。<br />
 iPhone 5cの予約開始とほぼ同時に各キャリアの端末代金が発表されました！<br />
 iPhone 5sの端末代金を比較してみたいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>一括購入時のiPhone 5s端末代金</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /></p>
 <table border="1" width="100%" align="center">

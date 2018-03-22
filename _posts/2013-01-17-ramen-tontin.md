@@ -27,7 +27,8 @@ comments: []
 <a href="https://kotalab.com/dr-kouza" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/dr_130116-448x336.jpg" alt="大雪の日に夢見るリアリスト講座に参加して得たことは「モチベーションは自分の中に持つ」ということ！ #DR講座 | kotala's note" width="150" /></a><a href="https://kotalab.com/dr-kouza" target="_blank">大雪の日に夢見るリアリスト講座に参加して得たことは「モチベーションは自分の中に持つ」ということ！ #DR講座 | kotala's note</a><br style="clear:both" />そしてもう1つの理由はラーメンが食べたかったからです。<br />
 池袋には僕がラーメンを好きになったきっかけのお店があります。<br />
 そのうちの一つが今回紹介する「池袋屯ちん」です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>▼お店の入り口<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130117025705.jpg" width="448" height="448" /><br />
 寒くてぶれてました。<br />

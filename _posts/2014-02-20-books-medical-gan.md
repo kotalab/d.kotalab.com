@@ -30,7 +30,8 @@ comments: []
 現在は「<a href="http://www.kondo-makoto.com/" target="_blank">近藤誠がん研究所・セカンドオピニオン外来</a><a href="https://b.hatena.ne.jp/entry/http://www.kondo-makoto.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.kondo-makoto.com/" alt="" /></a>」を開いているという。<br />
 僕自身、読んでて知らなかったことが沢山あった。がんに対する先入観も沢山あったこともわかった。<br />
 全部を紹介しきれるわけじゃないが、特に強い印象が残っているものをご紹介したい。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>「がんの治療で命が延びる」という証拠はない</h2>
 <p>「え？がんて治療すれば多少は命が延びるんじゃないの？」と僕は疑問に思った。<br />
 だが本にははっきりとこう書かれている。</p>

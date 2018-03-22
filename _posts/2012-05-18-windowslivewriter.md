@@ -21,7 +21,8 @@ comments: []
 <p>WindowsLiveWriter入れてみました。@kotala_bです。<br />
 <a href="https://jmatsuzaki.wordpress.com/2012/05/04/wlw/" target="_blank"><img title="Windowsユーザ向けブログエディタの決定版！Windows Live Writerがあまりに便利！！ | 旧jMatsuzaki" src="https://capture.heartrails.com/150x130?https://jmatsuzaki.wordpress.com/2012/05/04/wlw/" alt="https://jmatsuzaki.wordpress.com/2012/05/04/wlw/" width="150" height="130" align="left" /></a><a href="https://jmatsuzaki.wordpress.com/2012/05/04/wlw/" title="Windowsユーザ向けブログエディタの決定版！Windows Live Writerがあまりに便利！！ | 旧jMatsuzaki" target="_blank">Windowsユーザ向けブログエディタの決定版！Windows Live Writerがあまりに便利！！ | 旧jMatsuzaki</a><br style="clear:both;" /><br />
 少しでも効率よく書ければとWindowsLiveWriterを入れてみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>便利と噂のWindowsLiveWriterを入れてみた</h2>
 <p><span class="removed_link" title="windowslive.jp.msn.com/">WindowsLiveEssential</span>をダウンロードしてその中にあるwindowsLiveWriterをインストール！<br />
 そしてすんなり立ち上がった！</p>

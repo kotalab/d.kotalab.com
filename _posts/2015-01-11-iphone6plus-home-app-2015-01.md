@@ -33,7 +33,8 @@ comments: []
 <p>使ったアプリを1画面目に移動、使わないアプリはどんどん後ろの画面に勝手に移動していくという方法で、並び替え。<br />
 そして1月1日から10日までの使わなかったアプリは削除！</p>
 <p>そんなことをして残ったアプリをご紹介します！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>これだけで1日の90%は事足りる1画面目</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_05-300x533.jpg" alt="iphone6plus-home-app-2015-01_20150111_05" width="300" height="533" class="aligncenter size-medium wp-image-13809" /></p>
 <h3>1、2列目</h3>

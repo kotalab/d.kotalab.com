@@ -25,7 +25,8 @@ comments: []
 これまで使っていた「Diary/Notebook」というテーマから「Stinger2」というテーマに変更しました。<br />
 <a href="http://demo.s5themes.com/diary/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://demo.s5themes.com/diary/" alt="Diary/Notebook | Free Premium Wordpress Theme by Site5" width="150" height="130" /></a><a href="http://demo.s5themes.com/diary/" target="_blank">Diary/Notebook | Free Premium Wordpress Theme by Site5</a><a href="https://b.hatena.ne.jp/entry/http://demo.s5themes.com/diary/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://demo.s5themes.com/diary/" alt="" /></a><br style="clear:both;" />ノートっぽい背景が気に入っていましたが、カスタマイズしようと思ったときにその画像があるせいでカスタマイズしにくくいつか変えたいと思っていました。<br />
 「Stinger2」は@ENJILOGさんという日本の方が作ったSEOやアフィリエイトに強いWordpressテーマです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>SEO対策とアフィリエイトに強いWordPressテーマ「Stinger2」</h2>
 <p><a href="http://wp-stinger.com/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://wp-stinger.com/" alt="SEO対策とアフィリエイトに強いWordPressテーマ「Stinger」" width="150" height="130" /></a><a href="http://wp-stinger.com/" target="_blank">SEO対策とアフィリエイトに強いWordPressテーマ「Stinger」</a><a href="https://b.hatena.ne.jp/entry/http://wp-stinger.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://wp-stinger.com/" alt="" /></a><br style="clear:both;" />「Stinger2」はウイジェットにコードを1カ所に張るだけで自動的にアドセンスを3ヶ所に表示できたり、関連記事や新着記事も自動表示されるのでデフォルトの状態でもかなり使いやすいテーマだと思います。<br />
 テーマに関する不具合の報告や質問もTwitterで気軽にできるそうなので、困った時にはとても助かります。<br />

@@ -26,7 +26,8 @@ MacBookAirにwindowsを入れる方法を探してました。@kotala_bです。
 そのことについて前回書いた記事はこちら<br />
 <a href="https://kotalab.com/macbook-air-win" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/zakki_20121117-448x297.jpg" alt="MacBookAirにWindowsをインストールするならどの方法？考えれば考えるほど先送りな現状 | kotala's note" width="150" /></a><a href="https://kotalab.com/macbook-air-win" target="_blank">MacBookAirにWindowsをインストールするならどの方法？考えれば考えるほど先送りな現状 | kotala's note</a><br style="clear:both;" />どの方法で入れるか悩んでいるという内容でした。<br />
 悩んでいるさなか、<a href="https://kotalab.com/nsl-11th" title="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11" target="_blank">NSLセミナーに参加</a>し再びTaskchuteを始めてみようという思いが強くなりました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Fusion5を購入！</h2>
 <p>Taskchuteを使うなら毎回再起動をする必要があるBootcampを使うという選択肢はなくなりました。<br />
 またwindows8へのアップデートがwindowsXPから結構安い価格で出来ることも知り、まずは手持ちのWindowsXPを入れることに決めました。<br />

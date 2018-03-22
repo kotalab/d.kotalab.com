@@ -27,7 +27,8 @@ comments: []
 ホットゴールドマサラを食べました。@kotala_bです。<br />
 <a href="https://kotalab.com/world-mac-ind" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2017" alt="https://kotalab.com/archives/2017" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-ind" target="_blank">世界の★★★マック第2弾！ゴールドマサラがいよいよ明日スタート！ | kotala's note</a><br style="clear:both;" /><br />
 今日から始まった「<strong>世界の★★★マック</strong>」第2弾のインド・ホットゴールドマサラを食べました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ゴールドマサラを食べてみた！</h2>
 <p>▼<strong>GOLDMASALAHOT</strong>と書かれた包み紙！<br />
 <a href="https://kotalab.com/wp-content/uploads/goldmasala_120810_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/goldmasala_120810_01.jpg" alt="" title="goldmasala_120810_01" width="448" height="336" class="alignnone size-full wp-image-2027" /></a><br />

@@ -34,7 +34,8 @@ comments:
 <p><a href="https://kotalab.com/wp-content/uploads/iphone5_120924_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5_120924_03.jpg" alt="" title="iphone5_120924_03" width="448" height="336" class="alignnone size-full wp-image-2955" /></a><br />
 発売日3日目にiPhone5を手に入れました。@kotala_bです。<br />
 本当は2日目の昼に連絡が来ていたんですが、取りにいけず1日遅れとなりました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>早速開封！</h2>
 <p>▼正面からみた箱<br />
 <a href="https://kotalab.com/wp-content/uploads/iphone5_120924_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5_120924_04.jpg" alt="" title="iphone5_120924_04" width="448" height="597" class="alignnone size-full wp-image-2956" /></a><br />

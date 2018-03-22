@@ -25,7 +25,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/amazonsale_131022_01-546x435.jpg" alt="amazonsale_131022_01" width="546" height="435" class="alignnone size-large wp-image-10014" /><br />
 よくAmazonで買い物します。こたら（@kotala_b）です。<br />
 今日もAmazonをのぞいたら秋のタイムセールがやってました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Amazon秋のタイムセール実施中</h2>
 <p>今Amazonでは日替わりセールやタイムセールを11月3日まで実施中です！<br />
 50%以上オフになってる人気の商品は続々と限定数の販売が終了しています。お早めに！<br />

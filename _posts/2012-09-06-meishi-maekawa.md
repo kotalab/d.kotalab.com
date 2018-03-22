@@ -26,7 +26,8 @@ comments: []
 オフ会やセミナーにはまだ行ったことありません。@kotala_bです。<br />
 そんな僕ですが、名刺を作ることに決めました！<br />
 <a href="http://www.kobe-maekawa.co.jp/products/" target="_blank"><img src="https://capture.heartrails.com/150x130?http://www.kobe-maekawa.co.jp/products/" alt="http://www.kobe-maekawa.co.jp/products/" width="150" height="130" align="left" /></a><a href="http://www.kobe-maekawa.co.jp/products/" target="_blank">&ldquo;ちょっと&rdquo;面白くなる 印刷屋のギフト／有限会社 前川企画印刷（神戸市兵庫区）</a><br style="clear:both;" />名刺の作成を依頼するのはブロガー名刺で有名な前川企画印刷さんです！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>前川企画印刷さんではトラックバックをすることでオリジナルの名刺を100枚1000円から作って頂けるというので早速！<br />
 <a href="http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993" target="_blank"><img src="https://capture.heartrails.com/150x130?http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993" alt="http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993" width="150" height="130" align="left" /></a><a href="http://blog.goo.ne.jp/batacchi/e/f81808a384944befed668cab7a8c3993" target="_blank">ブロガー名刺、送料込みで１０００円じゃすと！ - 川柳をこよなく愛する明石のタコ</a><br style="clear:both;" />あとは申し込むだけ！<br />
 初ブロガー名刺ということでどんな内容にするかまだ何も決めてませんが、他の方の名刺を参考に色々決めていきたいと思います！</p>

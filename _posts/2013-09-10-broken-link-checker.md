@@ -24,7 +24,8 @@ comments: []
 iTunesStoreのアフィリエイト提携先がLinkShareからPHGへ10月1日から変わります。<br />
 LinkShareへのリンクは9月いっぱいまで。10月1日からはリンク切れをおこしてしまうため、PHGへリンクの張り替えが必要です。<br />
 リンク張り替えに少し役立つWordPressプラグインをご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>リンク切れを自動で修正してくれるプラグイン「Broken Link Checker」</h2>
 <p>紹介するのは「Broken Link Checker」というプラグインです。<br />
 「Broken Link Checker」は本来、リンク切れを見つけ修正をするためのプラグインです。<br />

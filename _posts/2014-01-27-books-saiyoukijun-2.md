@@ -32,7 +32,8 @@ comments: []
 リーダーシップというのは元々備わっている資質ではなく、誰にでも鍛えることができるスキルなのだという。<br />
 そして自分のリーダーは自分自身なのだともいう。<br />
 「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478023417/same-22/" rel="nofollow" target="_blank">採用基準</a>」でいわれるリーダーとはどんな人なのかをご紹介したい。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>リーダーとは</h2>
 <blockquote><p>リーダーとは「成果目標を達成するために組織を率いる人」です。<br />
 via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4478023417/same-22/" rel="nofollow" target="_blank">採用基準</a> - P104

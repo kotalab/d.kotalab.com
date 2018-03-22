@@ -20,7 +20,8 @@ comments: []
 ---
 <p>wordpressのAndroid版を入れてみました。<a href="https://twitter.com/kotala_b">@kotala_b</a>です。<br />
 以下はスマホからの初投稿テストでございます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>画像テスト</p>
 <p><img title="1337563106494.jpg" class="alignleft" alt="image" src="https://kotala.files.wordpress.com/2012/05/wpid-1337563106494.jpg" /></p>
 <p>left設定</p>

@@ -26,7 +26,8 @@ comments: []
 Gunosyについては以前紹介しました。<br />
 こちらを参考にしてください。<br />
 <a href="https://kotalab.com/gunosy-new" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/gunosy_121031.jpg" alt="新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note" width="150" /></a><a href="https://kotalab.com/gunosy-new" target="_blank">新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note</a><br style="clear:both;" />このGunosyに待望のiPhoneアプリが登場するそうです！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>GunosyのiPhoneアプリが出る！</h2>
 <p>iPhoneアプリが11月下旬からと発表がありました。<br />
 <span class="removed_link" title="gunosy.com/iphone/"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://gunosy.com/iphone/" alt="Gunosy for iPhone" width="150" height="130" /></span><span class="removed_link" title="gunosy.com/iphone/">Gunosy for iPhone</span><a href="https://b.hatena.ne.jp/entry/http://gunosy.com/iphone/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://gunosy.com/iphone/" alt="" /></a><br style="clear:both;" />今はwebもしくはメールからしか見れませんが、この度専用アプリがリリースされるようです！<br />

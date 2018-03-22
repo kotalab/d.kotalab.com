@@ -26,7 +26,8 @@ Evernote使用開始以来ずっとプレミアム会員です。こたら（@ko
 Evernoteには無料版のスタンダードの他に、有料版のプレミアムアカウントが用意されています。<br />
 有料のプレミアムアカウントを契約するには、公式サイトから直接申込む場合だと月額420円または年4000円の費用がかかります。<br />
 公式サイトから直接申込む以外にもプレミアムアカウントを申込む方法があるのはご存知ですか？<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Evernote プレミアムパック 3年版</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="smareverdue_130122" width="448" height="327" class="alignnone size-large wp-image-5838" /><br />
 Evernoteは全てのPC、スマホやタブレットからアクセスできるクラウドサービスです。<br />

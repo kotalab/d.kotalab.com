@@ -33,7 +33,8 @@ comments:
 Dpubに参加してきました。@kotala_bです。<br />
 初参加でちょっと緊張しながら会場へ向かいました。<br />
 会場について早々、大量にウコンの力を持った奥野さんに会ったら緊張もなくなり、マイペースで1日過ごせました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1次会</h2>
 <p>1次会の場所ば豚組しゃぶ庵！</p>
 <div><strong><a href="http://tabelog.com/tokyo/A1307/A130701/13045423/" target="_blank">豚組 しゃぶ庵</a></strong><br><script src="http://tabelog.com/badge/google_badge?rcd=13045423" type="text/javascript" charset="utf-8"></script></div>

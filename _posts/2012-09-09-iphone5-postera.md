@@ -22,7 +22,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120909142633.jpg" width="448" height="598" /><br />
 新しいiPhoneが気になってます。@kotala_bです。<br />
 通勤途中にある携帯ショップに早くも予約受付のポスターが貼ってありました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>早くもポスターが！</h2>
 <p>▼こちらが今日見かけたポスター<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120909142640.jpg" width="448" height="598" /><br />

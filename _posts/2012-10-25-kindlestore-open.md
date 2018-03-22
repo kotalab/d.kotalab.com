@@ -25,7 +25,8 @@ comments: []
 Kindleストアで早速本を買ってみようと思います。@kotala_bです。<br />
 僕はAmazonの欲しい物リストに読みたい本を入れて管理しています。<br />
 Kindleストアがオープンしたので欲しいものリストから本を選んでみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>まずはお試し</h2>
 <p>iPhoneから直接Kindleストアの本をダウンロードする方法が見つからなかったので、ブラウザからやってみました。<br />
 選んだ本は本田直之さんの<a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>です。<br />

@@ -27,7 +27,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/ipadminiseeq_130321-448x270.jpg" alt="ipadminiseeq_130321" width="448" height="270" class="alignnone size-large wp-image-6564" /><br />
 家の中でもiPadminiを使うことが多くなってきました。@kotala_bです。<br />
 iPadminiの居場所はテレビの横です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPadminiの家の中での使い道</h2>
 <p>家の中では気軽にインターネットをする端末として使っています。<br />
 家の中で誰でもがすぐ使えるように、リビングに置いています。<br />

@@ -28,7 +28,8 @@ comments: []
 今日は宮島へ行ってきました。<br />
 日本三景のひとつに数えられる宮島。<br />
 地元の人から宮島に行ったら牡蠣がおいしいからと教えられ、景色もそこそこに牡蠣を楽しみに行ってきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>地元の人がオススメの店「焼きがきのはやし」</h2>
 <p>地元の人においしい牡蠣のお店を聞いたら、「はやし」というお店をすすめられ行ってきました！<br />
 <img src="https://kotalab.com/wp-content/uploads/miyajimakakihayashi_131005_01-546x361.jpg" alt="miyajimakakihayashi_131005_01" width="546" height="361" class="alignnone size-large wp-image-9804" /><br />

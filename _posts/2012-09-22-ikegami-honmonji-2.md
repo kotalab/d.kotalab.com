@@ -23,7 +23,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/slooProImg_20120919153641.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153641.jpg" alt="" title="slooProImg_20120919153641.jpg" width="448" height="336" class="alignnone size-full wp-image-2871" /></a><br />
 池上本門寺の墓所を散策しました。@kotala_bです。<br />
 墓所を歩いていると散歩中の地元のおじさんがいて、とても親切で中を案内してくれました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>▼大田区文化財、前田利家側室の層塔<br />
 <a href="https://kotalab.com/wp-content/uploads/slooProImg_20120919153626.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153626.jpg" alt="" title="slooProImg_20120919153626.jpg" width="448" height="336" class="alignnone size-full wp-image-2864" /></a><br />
 正面から撮るのを忘れました。<br />

@@ -26,7 +26,8 @@ comments: []
 PHGに登録完了しました。こたら（@kotala_b）です。<br />
 現在Linkshareで取扱われているiTunesアフィリエイトが終了し、新たにPerformance Horizon Group（PHG）でiTunesアフィリエイトの取扱いが始まるようです。<br />
 LinkShareからPHGヘiTunesアフィリエイトの提携先の切り替えをやってみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>LinkShareのiTunesアフィリエイトが終了</h2>
 <blockquote><p>先日、Appleから「Important iTunes Affiliate Alert」（iTunesアフィリエイトに関する重要なお知らせ）というメールが届きまして、「We are no longer using the Linkshare or DGM networks, so you need to reapply to the new program.」つまり、<br />
 もうリンクシェアならびにDGMは使わないよ。新しいアフィリエイト・プログラムに再登録しないといけないよ。<br />

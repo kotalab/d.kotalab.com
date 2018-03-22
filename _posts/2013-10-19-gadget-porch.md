@@ -31,7 +31,8 @@ iPhone 5sやiPad mini、PocketWi-Fiなど1日ハードに使ってると充電�
 他にも充電用のケーブルなど「これさえあれば丸1日大丈夫！」というモノを詰め込んだガジェット専用のポーチを持ち歩いてます。<br />
 この前の<a href="https://kotalab.com/miyajima" title="[Photo][世界遺産][広島]宮島へ行ってきた！海の上にある神社「厳島神社」" target="_blank">広島旅行の時</a>ももちろん持っていきました。<br />
 僕が普段から旅行の時までいつも持ち歩いてるガジェットポーチの中身をご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>100均のポーチに全て詰め込む</h2>
 <p>入れてるポーチは100均で売られてるA5サイズくらいのポーチ。<br />
 <img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_03-546x409.jpg" alt="gadgetporch_131019_03" width="546" height="409" class="alignnone size-large wp-image-9975" /><br />

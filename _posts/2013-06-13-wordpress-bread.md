@@ -26,7 +26,8 @@ comments: []
 <img src="https://kotalab.com/wp-content/uploads/breadcrumb_130613_01.jpg" alt="breadcrumb_130613_01" width="448" height="62" class="alignnone size-full wp-image-7463" /><br />
 今見ているページがブログ全体のどこなのかを示すナビゲーションのようなモノです。<br />
 色々なwebページで見るパンくずリストですが、そういえばこのブログにはつけてないなと思ったので、パンくずリストをつけることにしました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>パンくずリストの作り方</h2>
 <p>▼パンくずリストのコードはこちらで紹介されているものをそのまま使いました。<br />
 <a href="http://ozpa-h4.com/2013/04/05/breadcrumb/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://ozpa-h4.com/2013/04/05/breadcrumb/" alt="[Wordpress]ブログにパンくずリストつけてみた | OZPAの表4" width="150" height="130" /></a><a href="http://ozpa-h4.com/2013/04/05/breadcrumb/" target="_blank">[Wordpress]ブログにパンくずリストつけてみた | OZPAの表4</a><a href="https://b.hatena.ne.jp/entry/http://ozpa-h4.com/2013/04/05/breadcrumb/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://ozpa-h4.com/2013/04/05/breadcrumb/" alt="" /></a><br style="clear:both;" /><br />

@@ -20,7 +20,6 @@ comments:
 - id: 2
   author: 廣瀬高志
   author_email: hirose@cloudstudy.com
-  author_url: http://studynote.jp/users/takashi413
   date: '2012-06-03 19:00:19 +0900'
   date_gmt: '2012-06-03 10:00:19 +0900'
   content: Studynote運営会社代表の廣瀬です。遅くなってしまいましたが、ブログでのご紹介、ありがとうございます！フル機能版のiPhone・Androidアプリのリリースなど、よりよいサービスにバージョンアップしていきますので、今後ともよろしくお願いします！
@@ -28,10 +27,11 @@ comments:
 <p>ライフログを取ることで習慣が続くようになった@kotala_bです。<br />
 なかなか続けられなかった勉強も今では毎日続けられています。<br />
 そんな僕が続けられてる理由が勉強を記録出来るwebサービス「Sutdynote」の存在です。<br />
-<a href="http://studynote.jp/" target="_blank"><img title="勉強が楽しく続くSNS - Studynote（スタディノート）" src="https://capture.heartrails.com/150x130/shadow?http://studynote.jp/" alt="http://studynote.jp/" width="150" height="130" align="left" /></a><a href="http://studynote.jp/" target="_blank">勉強が楽しく続くSNS - Studynote（スタディノート）</a><br />
+勉強が楽しく続くSNS - Studynote（スタディノート）<br />
 勉強で成果を出すには､｢勉強の継続｣が不可欠です｡スタディノートは､誰でも楽しく勉強が継続できる 新しいソーシャルラーニングサービスです<br />
 <br style="clear:both;" /><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Studynoteで出来ること</h2>
 <p>studynoteでは勉強の予定や実績を記録するこができます。<br />
 予定は1日単位から今日から1ヶ月間毎週土曜日に勉強するという細かい設定もできます。<br />
@@ -46,7 +46,6 @@ comments:
 勉強の記録としてだけではなく、「何」を「どれくらいの時間」で「どれくらいの量」読んだかといった読書の記録としても活用出来ます。<br />
 メモも同時に残せるので読んだ内容の感想を書きとめておくこともできます。<br />
 気になった方は是非お試しください。<br />
-web版は<a title="勉強が楽しく続くSNS &ndash; Studynote（スタディノート）" href="http://studynote.jp" target="_blank">こちら</a><br />
 Android版は<span class="removed_link" title="https://play.google.com/store/apps/details?id=com.cloudstudy.studynote.android">こちら</span><br />
 ▼iPhone版はこちら</p>
 <div class="applink">

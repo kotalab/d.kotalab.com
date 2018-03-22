@@ -27,7 +27,8 @@ comments: []
 スタバでアイスコーヒーを頼むと「大変珍しいレシートが出ましたので説明させて頂きます」と言われ頭の中は「？」でいっぱい。<br />
 説明を聞くとどうやらアンケート付きのレシートが当たったらしいです。<br />
 アンケートに答えると無料でドリンクが1杯飲めるというのでラッキー！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>スタバのアンケート付きレシート</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/starbucksenquete_130827_03-448x448.jpg" alt="starbucksenquete_130827_03" width="448" height="448" class="alignnone size-large wp-image-8283" /><br />
 アンケート付きのレシートは通常のレシートの2倍！<br />

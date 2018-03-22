@@ -25,7 +25,8 @@ comments: []
 六本木のTSUTAYAに行きました。@kotala_bです。<br />
 そこは@jmatsuzakiさんのブログを読んでいつか行きたいと思っていた場所です。<br />
 <a href="https://jmatsuzaki.com/archives/8350" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://jmatsuzaki.com/archives/8350" alt="本は無料で読み放題！コーヒーと共に優雅なひと時を味わえる六本木のブックカフェ「TSUTAYA TOKYO ROPPONGI」に行って来ました | jMatsuzaki" width="150" height="130" /></a><a href="https://jmatsuzaki.com/archives/8350" target="_blank">本は無料で読み放題！コーヒーと共に優雅なひと時を味わえる六本木のブックカフェ「TSUTAYA TOKYO ROPPONGI」に行って来ました | jMatsuzaki</a><a href="https://b.hatena.ne.jp/entry/https://jmatsuzaki.com/archives/8350" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://jmatsuzaki.com/archives/8350" alt="" /></a><br style="clear:both;" />行ってみたらスゴく良かったのでご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>本が読み放題！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/starbucks_130427_01-448x447.jpg" alt="starbucks_130427_01" width="448" height="447" class="alignnone size-large wp-image-6930" /><br />
 2階建ての店内は1階が本の販売とスタバ、2回がCD・DVDのレンタルフロアとなっています。<br />

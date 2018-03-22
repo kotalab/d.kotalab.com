@@ -24,7 +24,8 @@ comments: []
 <p>Taskchuteが徐々に自分に合った形に変わってきてます。@kotala_bです。<br />
 <a href="https://kotalab.com/taskchute-wakeup-clock" title="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！" target="_blank">昨日の記事</a>では起きる時間を自動で計算する方法を書きました。<br />
 今日はそこからさらに発展させて、今日のタスク終了時間と睡眠時間そして<strong>理想の起床時間</strong>から逆算して<strong>今日の空き時間</strong>を表示させる方法をご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>おさらい</h2>
 <p><a href="https://kotalab.com/taskchute-wakeup-clock" title="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！" target="_blank">昨日の記事</a>では睡眠時間と起き時間をTaskchuteにいれました。<br />
 <strong>今日の空き時間を計算する方法</strong>は昨日の設定も必要になりますので、詳しいやり方は<a href="https://kotalab.com/taskchute-wakeup-clock" title="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！" target="_blank">昨日の記事</a>をご覧ください。<br />

@@ -26,7 +26,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/ipadmini130108.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini130108-448x300.jpg" alt="ipadmini130108" width="448" height="300" class="alignnone size-large wp-image-5573" /></a><br />
 iPadminiを購入して2ヶ月が経ちました。@kotala_bです。<br />
 そんな僕がつい最近知ったばかりの、ちょっと便利な設定をご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>マルチタスク用ジェスチャ</h2>
 <p>皆さんはマルチタスク用ジェスチャというモノをご存知でしょうか？<br />
 つい最近、iPadminiの設定を弄っていた時に知りました。<br />

@@ -28,7 +28,8 @@ comments: []
 広島に5日間行ってました。こたら（@kotala_b）です。<br />
 広島には原爆ドームや宮島などの観光スポットを巡るのに便利な路面電車が走ってます。<br />
 広島滞在中は毎日、路面電車に乗って出かけてました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>広島のおすすめ観光スポットを結ぶ路面電車</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/hiroshimaonedaypass_131011_02-546x386.png" alt="hiroshimaonedaypass_131011_02" width="546" height="386" class="alignnone size-large wp-image-9889" /><br />
 <a href="http://www.hiroden.co.jp/train/rosenzu/map/lines.pdf" title="広電路線図" target="_blank">路線図</a><br />

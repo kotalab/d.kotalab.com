@@ -28,7 +28,8 @@ Pocket関連記事4回目はPocketからSNSへシェアする方法です。@kot
 <a href="https://kotalab.com/pocket-mac-safari-shortcut" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/pocketsafari_130508_01-448x302.jpg" alt="【Pocket】MacのSafariからPocketに保存する方法！ショートカットを使った保存が捗る！ | kotala's note" width="150" /></a><a href="https://kotalab.com/pocket-mac-safari-shortcut" target="_blank">【Pocket】MacのSafariからPocketに保存する方法！ショートカットを使った保存が捗る！ | kotala's note</a><br style="clear:both;" />保存した記事を読んだら、そのことをより多くの人に知ってもらいたい。<br />
 そんなことありませんか？<br />
 今回はPocketへ保存した記事を<strong>1つの動作で同時に複数のSNSへ</strong>シェアする方法をご紹介します。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Pocketから直接シェアするのは面倒</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/pocketsns_130510_01.jpg" alt="pocketsns_130510_01" width="252" height="195" class="alignnone size-full wp-image-7088" /><br />
 Pocketから直接シェアすることも出来ますが、これだとメール、Twitter、FacebookにBufferだけ。<br />

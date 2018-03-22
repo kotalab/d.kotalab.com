@@ -24,7 +24,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/yokohama_121021_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yokohama_121021_06.jpg" alt="" title="yokohama_121021_06" width="448" height="336" class="alignnone size-full wp-image-3594" /></a><br />
 先日桜木町から関内までを散歩してきました。@kotala_bです。<br />
 桜木町駅から<a href="https://kotalab.com/iphone-caseten" title="色んなケースがあって面白い！横浜赤レンガ倉庫で開催中のiPhoneケース展に行ってきた！" target="_blank">赤レンガ倉庫で開催しているiPhoneケース展へ行き</a>、帰りは関内までを散歩してきました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>桜木町</h2>
 <p>コンチネンタルホテルとコスモワールドの観覧車。<br />
 これを見ただけで横浜というのがわかる象徴的な写真。<br />

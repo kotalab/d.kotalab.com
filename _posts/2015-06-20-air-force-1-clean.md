@@ -26,7 +26,8 @@ comments: []
 <a href="http://px.a8.net/svt/ejp?a8mat=25P43I+6P4N3E+2ASK+626XT" target="_blank">NIKEiD</a>という、自分でカスタマイズしてナイキのスニーカーを作れるサービスを利用して、エアフォースワンというスニーカーをカスタマイズして注文しました。</p>
 <p>2年もたてば白かったスニーカーは汚れだらけ。<br />
 元通りとはいかなくてもキレイにしたかったので洗うことにしました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>洗う前の汚れを確認</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/06/air-force-1-clean_20150620_01-780x585.jpg" alt="air-force-1-clean_20150620_01" width="780" height="585" class="aligncenter size-large wp-image-14623" /><br />
 つま先がまっくろ。<br />

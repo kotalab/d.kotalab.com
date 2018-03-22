@@ -24,7 +24,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140505104507.jpg" width="500" height="500" class="slooProImg" /><br />
 「NATURAL STYLE 清」は昼はヘルシーなランチ、夜は食材にこだわったおいしいコースが食べられるお店！</p>
 <p>そんな「NATURAL STYLE 清」にランチを食べに行ってきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>神田川沿いにあるお店「NATURAL STYLE 清」</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140505104513.jpg" width="548" height="366" class="slooProImg" /><br />
 赤い和傘が目印の「NATURAL STYLE 清」は、有機野菜や新鮮な魚などが食べられる、オシャレな和食のお店です。</p>

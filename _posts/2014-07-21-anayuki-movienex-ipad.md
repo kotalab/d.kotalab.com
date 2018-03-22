@@ -28,7 +28,8 @@ comments: []
 アナと雪の女王はMovieNEXという、DVD・ブルーレイ・デジタルコピーが全部入ったパッケージが販売されています。</p>
 <p>MovieNEXのデジタルコピーをiPad Airから観られるようにダウンロードしてみました。<br />
 ダウンロードしてから見るまでの流れをご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>MovieNEX CLUBへアクセス</h2>
 <p>まずはパッケージに書かれてる<a href="http://disney-studio.jp/movienexclub/world.jsp?id=ANAYUKI" target="_blank">MovieNEX CLUB</a>へアクセスします。<br />
 <img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_01.png" alt="Anayuki movienex ipad 140721 01" title="anayuki-movienex-ipad_140721_01.png" border="0" width="548" height="265" /><br />

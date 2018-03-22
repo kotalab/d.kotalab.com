@@ -27,7 +27,8 @@ comments: []
 本が大好き。こたら（@kotala_b）です。<br />
 Kindleで読める電子書籍が2014年1月5日までの期間限定で冬のセールを開催中！<br />
 <a target="_blank" href="https://www.amazon.co.jp/b/?_encoding=UTF8&camp=247&creative=7399&linkCode=ur2&node=2846241051&pf_rd_i=2275256051&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=154213929&pf_rd_r=1B3CAHGT421HFWSY2ASE&pf_rd_s=center-banner&pf_rd_t=101&tag=same-22">Kindleストア</a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=same-22&l=ur2&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />がスゴいです！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Kindle冬のセールがスゴイ！</h2>
 <p>不朽の名作、サンテグジュペリの「<a href="https://www.amazon.co.jp/gp/product/B00BLC2EH8/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00BLC2EH8&linkCode=as2&tag=same-22">星の王子さま</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=same-22&l=as2&o=9&a=B00BLC2EH8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />」はたったの47円！<br />
 <a href="https://www.ttcbn.net/no_second_life/archives/37805" target="_blank">NSLセミナー</a>で紹介されてから気になってた西任暁子さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/B008R54KRO/same-22/" rel="nofollow" target="_blank">「ひらがな」で話す技術</a>」は381円だし、欲しい物リストに入ってた佐々木正悟さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00ARBMSQG/same-22/" rel="nofollow" target="_blank">先送りせずにすぐやる人に変わる方法</a>」は250円！<br />

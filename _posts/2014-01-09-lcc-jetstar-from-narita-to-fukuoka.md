@@ -32,7 +32,8 @@ comments: []
 LCCというのはLowCostCarrierの略でいわゆる格安航空会社のこと。<br />
 ANAやJALのようなサービスは期待できないけど、その分料金は格安。<br />
 成田から福岡まで片道5000円台でいけるということでLCCのジェットスターを使ってみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ジェットスターで予約してから飛行機に乗るまで</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_02-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_02" width="546" height="409" class="alignnone size-large wp-image-10465" /><br />
 ジェットスターでチケットの予約を済ませたら次にするのは「チェックイン」<br />

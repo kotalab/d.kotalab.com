@@ -26,7 +26,8 @@ comments: []
 昨日は久しぶりにピザを食べました。@kotala_bです。<br />
 家から徒歩3分くらいの場所にピザハットがあるので電話注文せずにお店まで買いにいってみました。<br />
 ピザハットにはお持ち帰り限定の割引サービスがあるのはご存知でしょうか？<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ピザハットのお持ち帰り限定サービス「ハットの日」</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/hatday_130308-448x336.jpg" alt="hatday_130308" width="448" height="336" class="alignnone size-large wp-image-6435" /><br />
 ピザハットには「ハットの日」という期間限定のサービスがあります。<br />

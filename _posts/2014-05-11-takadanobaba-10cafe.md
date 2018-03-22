@@ -25,7 +25,8 @@ comments: []
 今回紹介する「10&deg;CAFE」は、JR山手線高田馬場駅から徒歩3分ほどのところにあります。</p>
 <p>ランチが食べられて充電もできる、高田馬場では貴重なお店です！</p>
 <p>何回か行ってランチメニューを色々食べてみたので、「10&deg;CAFE」で食べられるランチメニューをご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>「10&deg;CAFE」のランチメニュー</h2>
 <p>カレードリア<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140507055537.jpg" width="500" height="500" class="slooProImg" /><br />

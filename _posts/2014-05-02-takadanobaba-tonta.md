@@ -25,7 +25,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502070709.jpg" width="500" height="500" class="slooProImg" /><br />
 JR山手線の高田馬場駅から徒歩5分くらいの場所に、ランチタイムにはお店の前に行列がよくできてる「とん太」というお店があります。</p>
 <p>たまたますぐ入れそうな日があったので、行列に並んで入ってみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>「とん太」のランチ定食</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502070712.jpg" width="500" height="500" class="slooProImg" /><br />
 とん太の定食はランチタイムが1020円から、他の時間帯は1550円からとなっています。</p>

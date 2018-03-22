@@ -26,7 +26,8 @@ comments: []
 ヨメレバ・カエレバには大変お世話になっています。@kotala_bです。<br />
 ヨメレバ・カエレバに続く<a href="https://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>というサービスが登場したのでご紹介します。<br />
 <a href="https://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>はiTunesの商品を紹介出来るサービスです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>使い方</h2>
 <p>まずは<a href="https://pochireba.com/" title="ポチレバ" target="_blank">ポチレバ</a>にアクセスし、ページの中段にあるユーザーデータを入力します。<br />
 ▼サイト名とアフィリエイトIDを入れて保存。<br />

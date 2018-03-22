@@ -25,7 +25,8 @@ comments: []
 <a href="https://kotalab.com/wordpress-bread" title="WordPressブログにプラグインなしでパンくずリストを表示させる方法" target="_blank">つい先日のエントリー</a>でソースコードをブログに貼る機会がありました。<br />
 この時困ったのが、ソースコードをそのままブログに貼ろうとすると表示したいように表示出来ないことでした。<br />
 ソースコードをブログに載せるために探してみつかったのが「SyntaxHighlighter Evolved」というプラグインです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>SyntaxHighlighter Evolvedをインストール</h2>
 <p>プラグインのインストールはWordPressの管理画面から。<br />
 プラグインの新規追加で「SyntaxHighlighter Evolved」と検索すると出てきます。<br />

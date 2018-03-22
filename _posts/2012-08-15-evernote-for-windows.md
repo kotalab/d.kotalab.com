@@ -24,7 +24,8 @@ comments: []
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
 ぼくはwindowsでEvernoteを使っています。@kotala_bです。<br />
 <a href="https://kotalab.com/evernote-for-mac" title="可能性が膨らむ！Evernote for Macにアカウント切り替え機能が公式対応！" target="_blank">先日Evernote for Macにユーザー切り替え機能が追加</a>されましたが、本日Evernote for Windowsにもユーザ切り替え機能が追加されました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>切り替え機能を使うには</h2>
 <p>Mac版と同様に、機能を使えるのはプレミアムアカウントのみのようです。<br />
 windows版のユーザー切り替えショートカットは「CRTL+ALT+A」です。</p>

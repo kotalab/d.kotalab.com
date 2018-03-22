@@ -27,7 +27,8 @@ comments: []
 日曜の朝に心躍る出来事がありました。こたら（@kotala_b）です。<br />
 先日、原宿NIKEで注文した自分だけのオリジナルシューズが届いたのです！<br />
 <a href="https://kotalab.com/nike-id-my-shoes" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nike_130511-448x336.jpg" alt="NIKEiDで自分だけのオリジナルシューズを作った話 | kotala's note" width="150" /></a><a href="https://kotalab.com/nike-id-my-shoes" target="_blank">NIKEiDで自分だけのオリジナルシューズを作った話 | kotala's note</a><br style="clear:both;" />約4週間〜6週間と言われていたので、2週間ちょっとで届いたことにビックリしました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>NIKEiDで作ったオリジナルシューズを早速開封！</h2>
 <p>▼届いた段ボールの中に入っていたNIKEiDの靴箱<br />
 <img src="https://kotalab.com/wp-content/uploads/nikeid_130527_01-448x297.jpg" alt="nikeid_130527_01" width="448" height="297" class="alignnone size-large wp-image-7259" /><br />

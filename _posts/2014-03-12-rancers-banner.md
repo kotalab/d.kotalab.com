@@ -25,7 +25,8 @@ comments: []
 昨日の夜に募集開始して締め切りは03月18日 21:54です。<br />
 ▼募集ページはこちら。<br />
 <a href="http://www.lancers.jp/affiliate/track?id=273946&link=%2Fwork%2Fdetail%2F292572" target="_blank">iPhone系個人ブログのヘッダーに置くバナー作成の依頼</a><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ブログの見た目を変えたいという思い</h2>
 <p>このブログのデザインをリニューアルしようとしていた時期がありました。<br />
 今から7年くらい前、CS2が出たての頃にPhotoshopやIllustratorをかじった経験があります。<br />

@@ -32,7 +32,8 @@ via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel=
 個人で開発していれば他人のことを考える必要はないと思うかもしれない。<br />
 だが、ここでいう他人というのは半年後の自分も含まれている。</p>
 <p>「<a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a>」に書かれていた優れたコードを書くためのコツを紹介したい。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1.名前に意味を持たせる</h2>
 <pre class="lang:default decode:true " >func a (number:Int) ->Int {
     return number * 1000

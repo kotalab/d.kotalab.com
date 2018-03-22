@@ -24,7 +24,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120821150501.jpg" width="448" height="336" /><br />
 恵比寿にある「づゅる麺豚あじ恵比寿神社前」で〆ラーなるものを食べてきました。@kotala_bです。<br />
 「〆ラー」というのはつけ麺のあとに食べるしめのラーメンのことで、<a href="http://ozpa-h4.com/2012/03/04/tokyo_ebisu_ramen_dyurumen_shimerah"  target="_blank">@OZPAさんが紹介してた</a>のを見て食べてみたくなって行ってきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>google_ad_slot = "9375121480 (tel:9375121480)";</p>
 <p>▼駒沢通り沿いを恵比寿に向かって歩いていくと見える看板<br />
 <img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120821150455.jpg" width="448" height="596" /><br />

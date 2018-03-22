@@ -28,7 +28,8 @@ RSSはReederで読んでます。こたら（@kotala_b）です。<br />
 Googleリーダーに登録してあるRSSをReederで読んでいました。<br />
 7月1日にGoogleリーダーのサービスが終了ということで、各RSSアプリが様々な対応をしていきました。<br />
 その中でも僕はReederが好きなので、Reederの動向に注目していました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Googleリーダー終了のお知らせ後のRSS</h2>
 <p>サービス終了の知らせを聞いてからはRSSをReederのローカルRSSに移して読んでいました。<br />
 <a href="https://kotalab.com/app-reeder-local-rss" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="https://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" />このローカルRSSにはデメリットがあって、iPhoneアプリのReederでしか読めないのです。<br />

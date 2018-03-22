@@ -30,7 +30,8 @@ comments: []
 <p>僕自身「やよいの青色申告」を使ってますが、仕分けやら入力やらが結構めんどくさく感じています。<br />
 もっとラクにできたらいいなと思い、クラウド型の会計ソフトについて少し調べてみました。<br />
 調べたことを備忘録も兼ねて書いてみます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>freeeとマネーフォワード</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/compare-freee-with-moneyforward_140213_01-546x286.png" alt="compare-freee-with-moneyforward_140213_01" width="546" height="286" class="alignnone size-large wp-image-10823" /><br />
 僕が調べたのは「freee」と「マネーフォワード」というソフトです。<br />

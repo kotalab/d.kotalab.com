@@ -32,7 +32,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_04.jpg" alt="iphone5scompareiphone5_130920_04" width="1092" height="819" class="aligncenter size-full wp-image-9561" /><br />
 今使ってるiPhoneからiPhone6やiPhone6Plusへ機種変する場合の注意点をまとめてみました。</p>
 <p>iPhoneとiTunesを連携させることでバックアップを取れるのですが、アプリ内のデータを移せない場合もあるので気をつけてくださいね。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>データ移行の前にバックアップ</h2>
 <p>新しく買うiPhoneにも入れておきたいデータ（電話帳など）と新しいiPhoneには入れないで他の場所に保管しておくデータ（写真など）を分けておくと、データ移行にかかる時間も少なくて済むようになります。</p>
 <p>iPhoneのカメラロールに写真や動画が沢山入ってる場合は特に、バックアップという意味もあるのでiPhone以外の場所（HDDやクラウド）に保存しておきましょう。</p>

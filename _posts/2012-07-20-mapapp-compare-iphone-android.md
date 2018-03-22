@@ -26,7 +26,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/iphoneandroid_120720.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphoneandroid_120720.jpg" alt="" title="iphoneandroid_120720" width="448" height="336" class="alignnone size-full wp-image-1569" /></a><br />
 使用歴はAndroid11ヶ月iPhone1週間です。@kotala_bです。<br />
 1週間使ってみてわかった<strong>iPhoneとAndroidのマップアプリの違い</strong>について書きます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>見た目の違い</h2>
 <p><strong>iPhone</strong>も<strong>Android</strong>もgoogleマップを使用しているので標準の見た目は同じです。<br />
 標準の表示方法以外にも航空写真や渋滞情報の表示なども<strong>iPhone</strong>と<strong>Android</strong>のどちらでも表示することが出来ます。<br />

@@ -22,7 +22,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/darkShadow_120601.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/darkShadow_120601.jpg" alt="" title="darkShadow_120601" width="400" height="300" class="alignnone size-full wp-image-1235" /></a><br />
 3ヶ月ぶりに映画を観てきました。@kotala_bです。<br />
 休みの日に横浜のワールドポーターズでジョニーデップの映画<strong>ダークシャドウ</strong>を観ました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>原作</h2>
 <p>1966年から1971年まで人気のテレビドラマとして放送されていた「Dark Shadows」が原作。 監督は「ティム・バートン」、主演は「ジョニー・デップ」。 この2人のタッグは「アリス・イン・ワンダーランド」以来だそうです。</p>
 <h2>普通じゃないヴァンパイア</h2>

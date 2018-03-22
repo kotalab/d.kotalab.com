@@ -28,7 +28,8 @@ comments: []
 <a href="https://itunes.apple.com/jp/app/smartever/id493990103?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">SmartEver</a>で編集した時に「<strong>編集可能な形式に変換</strong>」と表示されるノートと表示されないノートがあるのをご存知でしょうか？<br />
 編集可能な形式に変換すると、編集前と編集後のノートが1つずつEvernote上に保存されます。<br />
 どういったノートを編集するときに変換されるのか気になったので調べてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>編集可能な形式に変換されるノート</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/smartever_120822_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120822_01.png" alt="" title="smartever_120822_01" width="300" height="432" class="alignnone size-full wp-image-2253" /></a><br />
 「<strong>編集可能な形式に変換</strong>」が必要だったのは、ノート内に「URLリンク」「リスト」「仕切り線」「テーブル」のどれかが含まれたノートでした。<br />

@@ -26,7 +26,8 @@ comments: []
 長いケーブルだとカバンの中にいれたときにケーブルが絡まるし、かさ張るから邪魔。<br />
 巻き取り式だとその心配もないので安心です。<br />
 巻き取り式のUSBケーブルは100均で売ってますが、残念なことにLightningケーブルは売ってません。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>激安LightningケーブルはAmazonで見つけた！</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/lightningcablereel130923_02-546x409.jpg" alt="lightningcablereel130923_02" width="546" height="409" class="alignnone size-large wp-image-9593" /><br />
 純正のLightningケーブルは持ち運びにはちょっと不便。<br />

@@ -32,7 +32,8 @@ comments:
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 関連記事に続き同じカテゴリー記事も画像つきで表示されるようにしました。@kotala_bです。<br />
 今回も参考になるサイトを探し、そのコードを自分が表示させたいように少しだけ変更を加えました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>参考サイト</h2>
 <p>参考にしたのはこちら<br />
 <a href="http://kachibito.net/wp-code/show-related-posts-by-category" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://kachibito.net/wp-code/show-related-posts-by-category" alt="[WordPress] カテゴリベースで関連記事を抽出する - かちびと.net" width="150" height="130" /></a><a href="http://kachibito.net/wp-code/show-related-posts-by-category" target="_blank">[WordPress] カテゴリベースで関連記事を抽出する - かちびと.net</a><a href="https://b.hatena.ne.jp/entry/http://kachibito.net/wp-code/show-related-posts-by-category" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://kachibito.net/wp-code/show-related-posts-by-category" alt="" /></a><br style="clear:both;" />ここで紹介されているコードをベースに少しだけ変更を加えました。</p>

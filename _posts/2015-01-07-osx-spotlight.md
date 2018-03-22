@@ -26,7 +26,8 @@ comments: []
 Macには以前からある検索機能のSpotlight。最近ではiPhoneにも搭載されていますね。<br />
 そんなSpotlightですが、OS X Yosemiteからは今まで以上に検索機能がパワーアップしより便利に使えるようになりました。</p>
 <p>今回はMacOS Xで使えるSpotlightについてご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>Spotlightでできること</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/osx-spotlight_20150107_02.png" alt="osx-spotlight_20150107_02" width="780" height="709" class="aligncenter size-full wp-image-13769" /><br />
 まず気になるのはSpotlightって何ができるの？っていうことだと思うんですが、とにかくいろんなものを検索することができます。</p>

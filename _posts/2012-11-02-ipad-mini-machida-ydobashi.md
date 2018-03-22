@@ -26,7 +26,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/slooProImg_20121102132946.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20121102132946.jpg" alt="" title="slooProImg_20121102132946.jpg" width="448" height="598" class="alignnone size-full wp-image-3899" /></a><br />
 今日iPadminiを買う予定はありませんでした。@kotala_bです。<br />
 買おうとは思ってましたが実際に見てからと決めていたので、予約はしていませんでした。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>当日分の在庫があった</h2>
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121102132955.jpg" width="448" height="598" /><br />
 仕事がある日なのでアップルストアで並ぶという選択肢はありませんでした。<br />

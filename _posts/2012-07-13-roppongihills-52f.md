@@ -24,7 +24,8 @@ comments: []
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/31029865@N06/6806490153/" target="_blank">Tokyo City View</a> / Dick Thomas Johnson</span><br />
 初めて六本木ヒルズの展望台に行ってきました。@kotala_bです。<br />
 近くを通ったりすることはあっても中まで入って行ったのは初めてでした。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>写真を撮ってみた</h2>
 <p>見上げるといつもより近くに感じる雲<br />
 <a href="https://kotalab.com/wp-content/uploads/hills_120712_02.jpg"><img src="https://kotalab.com/wp-content/uploads/hills_120712_02.jpg" alt="" title="hills_120712_02" width="448" height="336" class="alignnone size-full wp-image-1393" /></a><br />

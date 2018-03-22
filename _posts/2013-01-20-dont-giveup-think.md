@@ -28,7 +28,8 @@ comments: []
 ブログを書くことを習慣として身につけることが出来ました。<br />
 ブログは毎日続けられるのに、今年から始めた瞑想やスクワットは習慣として毎日続けることが出来ません。<br />
 何故続けられないのか考えてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>忘れてしまうから</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/syukan_130120_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/syukan_130120_02-300x431.png" alt="syukan_130120_02" width="300" height="431" class="alignnone size-medium wp-image-5804" /></a><br />
 1月2日から瞑想をスタートしました。<br />

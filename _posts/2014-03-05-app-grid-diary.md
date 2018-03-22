@@ -30,7 +30,8 @@ comments: []
 iPhoneアプリのGrid Diaryのおかげで、そんな僕でも1ヶ月以上毎日日記をかけるようになりました。</p>
 <p>最初に質問を設定して、その質問に答えていくだけ！<br />
 日記に書く内容をあれこれ探す必要はありません。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>ただ質問に答えるだけで日記がかけるGrid Diary</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/app-grid-diary_20140305_02-300x513.jpg" alt="app-grid-diary_20140305_02" width="300" height="513" class="alignnone size-medium wp-image-11070" /><br />
 「今日買ったものは？」とか「今日は何を食べた？」といった簡単な質問から、「もし時間が取り戻せるなら今日何をすべきだった？」というような深い質問まで、プリセットで入ってる質問は盛り沢山！<br />

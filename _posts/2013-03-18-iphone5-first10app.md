@@ -28,7 +28,8 @@ iPhone使用歴8ヶ月です。@kotala_bです。<br />
 <a href="https://kotalab.com/iphone4s32gb-0yen" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/mnp_20120712_06.jpg" alt="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone4s32gb-0yen" target="_blank">念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note</a><br style="clear:both;" />決算期ということで今はiPhone5がお買い得に買えるお店も出てきてます。<br />
 この週末にiPhone5を手に入れた方も多いんじゃないでしょうか。<br />
 そんな方の為にiPhone5を買ったら真っ先に入れたいアプリを10個ご紹介します！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>GoogleMap</h2>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/google-maps/id585027354?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1502.phobos.apple.com/us/r30/Purple4/v4/a3/18/ea/a318ea73-f59a-9477-70de-a902cc57574c/AppIcon.png" width="80" /></a></div>

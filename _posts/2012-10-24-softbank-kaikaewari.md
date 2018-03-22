@@ -28,7 +28,8 @@ SoftbankでiPhoneを買い替えると「<strong>iPhoneかいかえ割</strong>�
 参考：<a href="https://mb.softbank.jp/mb/iphone/price_plan/cp_replacement/" target="_blank">iPhone 5の機種変更特典：iPhone かいかえ割│料金・割引│ソフトバンクモバイル</a><br />
 この特典の申込はSoftBankからメールが届いて、そこから申込となるようです。<br />
 購入から1ヶ月経ってもなかなかメールが送られてこないので調べてみました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iPhoneかいかえ割の流れ</h2>
 <p>iPhoneを機種変すると受けられるiPhoneかいかえ割の特典ですが、特典受け取りまでの流れをおさらい。<br />
 まずiPhone5に機種変更する。<br />

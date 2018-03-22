@@ -30,7 +30,8 @@ comments: []
 <p>ところであなたが生命保険をかけるのはどんな理由ですか？<br />
 「ただなんとなく不安だから」、「保険のお姉さんが入っとけば安心と言うから」<br />
 もし生命保険に入ってるのがそういう理由だったら、考え直す必要があります。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>生命保険をかける意味</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/insurancecannotfeelrelieved_131126_02-546x361.jpg" alt="insurancecannotfeelrelieved_131126_02" width="546" height="361" class="alignnone size-large wp-image-10245" /><br />
 生命保険をかける意味とはなんでしょう。<br />

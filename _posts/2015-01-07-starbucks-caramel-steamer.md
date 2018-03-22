@@ -25,7 +25,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20150107130037.jpg" width="720" height="405" class="slooProImg" /><br />
 つい最近、スタバのキャラメルスチーマーを初めて飲んでみました。</p>
 <p>飲んでみたら寒い今の時期にぴったりだなーと思ったのでご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>寒い季節に合うドリンク</h2>
 <p>寒い季節にホッと一息。</p>
 <p>キャラメルスチーマーはそんなフレーズがぴったりなドリンクです。</p>

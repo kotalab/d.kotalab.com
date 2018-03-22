@@ -25,7 +25,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/Twitter_130319.jpg" alt="Twitter_130319" width="448" height="280" class="alignnone size-full wp-image-6548" /><br />
 ブログのTwitter公式アカウントを作りました。@kotala_bです。<br />
 更新情報専用のTwitterアカウントは@kotalab_comです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>今までとの違い</h2>
 <p>これからは公式アカウントである@kotalab_comでブログの更新情報を自動配信していく方針です。<br />
 今までのアカウントでは、更新情報と一緒に日常のつぶやきもありました。<br />

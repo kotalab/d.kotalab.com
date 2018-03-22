@@ -28,7 +28,8 @@ comments: []
 その映画というのは「<strong>アベンジャーズ</strong>」です。<br />
 <a href="http://www.marvel-japan.com/movies/avengers/home.html" target="_blank"><img src="https://capture.heartrails.com/150x130?http://www.marvel-japan.com/movies/avengers/home.html" alt="http://www.marvel-japan.com/movies/avengers/home.html" width="150" height="130" align="left" /></a><a href="http://www.marvel-japan.com/movies/avengers/home.html" target="_blank">アベンジャーズ｜Avengers｜映画</a><br style="clear:both;" /><br />
 観に行ったのは桜木町にある映画館ブルク13です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>アベンジャーズを観る前に</h2>
 <p>アベンジャーズ関連作品を観てから本編を観ようとしたら公開から一ヶ月近く経ってしまいました。<br />
 ハルク・アイアンマン2・マイティーソー・キャプテンアメリカと関連作品が多いアベンジャーズ。<br />

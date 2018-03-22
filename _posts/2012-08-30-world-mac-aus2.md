@@ -25,7 +25,8 @@ comments: []
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/6914750483.html" target="_blank">Enseigne McDonald&rsquo;s</a> / zigazou76</span><br />
 ゴールドマサラは3回食べました。@kotala_bです。<br />
 明日からいよいよ「<strong>世界の★★★マック</strong>」第3弾のオージーデリがスタートします！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>第3弾はオーストラリア！</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/aussiedeli_120830.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/aussiedeli_120830.jpg" alt="" title="aussiedeli_120830" width="448" height="493" class="alignnone size-full wp-image-2396" /></a><br />
 フランス・インド・オーストラリアと続く「<strong>世界の★★★マック</strong>」の第3弾、オーストラリアの<strong>オージーデリ</strong>と<strong>チーズオージーデリ</strong>がいよいよ明日、8月31日からスタート！<br />

@@ -25,7 +25,8 @@ comments: []
 ラーメンもつけ麺も大好きです。@kotala_bです。<br />
 浜松町で開かれているつけ麺の日本一を決めるイベント「<strong>大つけ麺博日本一決定戦！</strong>」に行ってきました！<br />
 <a href="http://dai-tsukemen-haku.com/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://dai-tsukemen-haku.com/" alt="大つけ麺博 2012 OFFICIAL WEBSITE！" width="150" height="130" /></a><a href="http://dai-tsukemen-haku.com/" target="_blank">大つけ麺博 2012 OFFICIAL WEBSITE！</a><a href="https://b.hatena.ne.jp/entry/http://dai-tsukemen-haku.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://dai-tsukemen-haku.com/" alt="" /></a><br style="clear:both;" />第二陣の最終日の10月10日に行ってきました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>会場の様子</h2>
 <p>▼会場内は平日にも関わらず大盛況といった感じ<br />
 <a href="https://kotalab.com/wp-content/uploads/tukemenhaku_121010_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tukemenhaku_121010_05.jpg" alt="" title="tukemenhaku_121010_05" width="448" height="336" class="alignnone size-full wp-image-3322" /></a><br />

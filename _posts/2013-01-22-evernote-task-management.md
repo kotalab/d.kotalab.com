@@ -32,7 +32,8 @@ Evernoteが大好き。@kotala_bです。<br />
 普段よく見るノートはこの方法を使えば検索いらずで快適に見ることが出来ます！<br />
 <strong>今回は指定した時間にノートを開く方法をご紹介します！<br />
 しかもたったの1タップです！</strong><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>使うアプリは2つ</h2>
 <p>使うアプリはEvernoteのクライアントアプリ「SmartEver」とリマインダーアプリの「Due」です。<br />
 <a href="https://kotalab.com/due-urlscheme" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note" width="150" /></a><a href="https://kotalab.com/due-urlscheme" target="_blank">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note</a><br style="clear:both;" />ノートを開きたい時間を指定するのにDueを使います。</p>

@@ -24,7 +24,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/moleskine_120903.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/moleskine_120903.jpg" alt="" title="moleskine_120903" width="448" height="336" class="alignnone size-full wp-image-2473" /></a><br />
 amazonで売ってる洋書版のモレスキンが安いことに気づきました。@kotala_bです。<br />
 <a href="https://kotalab.com/digital-analog-note" title="最近見えてきた！アナログノートとデジタルノートの使い分け" target="_blank">ひとつ前の記事</a>を書いてる最中にモレスキンのamazonリンクを作る時に見つけました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/888370102X/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41qu4frgjkL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">

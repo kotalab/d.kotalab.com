@@ -41,7 +41,8 @@ iPhoneの他にもiPad Airやそれらをネット接続するためのWi-Fiル�
 今回ご紹介するのはANKERの7800mAhのモバイルバッテリー、<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DQ6UU50/same-22/ref=nosim/" rel="nofollow" target="_blank">ANKER Astro M2</a>です。<br />
 iPhone 5sと並べて大きさを比較してみました。<br />
 大きさが気になる方は是非参考にしてみてください！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>モバイルバッテリー「ANKER Astro M2」</h2>
 <p>外箱はこんな感じ。<br />
 <img src="https://kotalab.com/wp-content/uploads/anker-mobile-battery-7800mwh_140122_01-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_01" width="546" height="361" class="alignnone size-large wp-image-10630" /><br />

@@ -24,7 +24,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/ramen_120627_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ramen_120627_01.jpg" alt="" title="ramen_120627_01" width="448" height="336" class="alignnone size-full wp-image-1068" /></a><br />
 新百合ヶ丘でラーメン食べました。@kotala_bです。<br />
 北海道に本店があり、海外にも複数の支店を持つという有名店「山頭火」さんの新百合ヶ丘エルミロード店に行ってきました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p>お店は小田急線新百合ヶ丘駅南口を出て徒歩1分にある、エルミロード新百合ヶ丘店の5階にあります。<br />
 駅前ショッピング施設のレストランフロアに入ってるお店です。<br />
 <a href="https://kotalab.com/wp-content/uploads/ramen_120627_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ramen_120627_03.jpg" alt="" title="ramen_120627_03" width="448" height="249" class="alignnone size-full wp-image-1070" /></a><br />

@@ -27,7 +27,8 @@ comments: []
 <a href="https://kotalab.com/sharehtml-popularposts" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/sharehtml_121005.jpg" alt="Sharehtmlを見直してたらPopularPostsに似てることに気づいた！同じように自動で画像表示出来ないか調べてみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/sharehtml-popularposts" target="_blank">Sharehtmlを見直してたらPopularPostsに似てることに気づいた！同じように自動で画像表示出来ないか調べてみた！ | kotala's note</a><br style="clear:both;" />結局やり方が分からなく昨日は途中で断念しました。<br />
 再び@delaymaniaさんがSharehtmlのカスタマイズ記事を書かれているのを発見！<br />
 <a href="http://delaymania.com/201210/blog/sharehtml_3_wa/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://delaymania.com/201210/blog/sharehtml_3_wa/" alt="「ShareHTMLでリンクタグを作成する際に加えている一工夫、から一手間なくす」を実践してみた | delaymania.com" width="150" height="130" /></a><a href="http://delaymania.com/201210/blog/sharehtml_3_wa/" target="_blank">「ShareHTMLでリンクタグを作成する際に加えている一工夫、から一手間なくす」を実践してみた | delaymania.com</a><a href="https://b.hatena.ne.jp/entry/http://delaymania.com/201210/blog/sharehtml_3_wa/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://delaymania.com/201210/blog/sharehtml_3_wa/" alt="" /></a><br style="clear:both;" />これはやるしかない！と早速Sharehtmlを編集しました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>カスタマイズ方法</h2>
 <p>やり方はSharehtmlに入れられるコメントを「img」タグ内に置いて、挿入するコメントに画像のurlを貼付けるというもの。<br />
 出来たコードがこちら</p>

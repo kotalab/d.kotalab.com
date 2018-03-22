@@ -26,7 +26,8 @@ comments: []
 四角大輔さん著書の「<a href="https://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" name="booklink" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>」を読みました。@kotala_bです。<br />
 著者の四角大輔さんは15年間の会社勤めで経験したその全てを捨て、ニュージーランドの湖畔と東京を往来するノマドライフを送っている方です。<br />
 「自由に自分らしく楽しい生活」を送る為に捨てるべき「余計なモノ」について書かれています。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41ZG9kjLQGL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">

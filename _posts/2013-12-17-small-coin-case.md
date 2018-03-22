@@ -34,7 +34,8 @@ comments: []
 </div>
 <p>買うなら実際に触ってから買いたい！<br />
 そう思って、渋谷にある1週間に10時間しか開かないSUPERCLASSICの直営店に行ってきました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1週間に10時間しか開かないSUPERCLASSIC直営店</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_02-546x409.jpg" alt="smallcoincase_131217_02" width="546" height="409" class="alignnone size-large wp-image-10300" /><br />
 SUPERCLASSICの全製品を手にとって見られるお店「SUPERCLASSIC ギャラリー&ストア」<br />

@@ -34,7 +34,8 @@ comments:
 毎日ブログを書いています。@kotala_bです。<br />
 去年の5月9日にスタートしてから毎日更新し続け、今日でちょうど300日目になりました。<br />
 300日間続けて来たブログ更新で得たモノを考えてみたら、ブログを書くことを色んな人にオススメしたいと思い、今回の記事にしました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>自分の好きなことがより明確になった</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/slooProImg_20130117025701.jpg" alt="slooProImg_20130117025701.jpg" width="448" height="448" class="alignnone size-full wp-image-5740" /><br />
 ブログを書く上で必要なのがネタです。<br />

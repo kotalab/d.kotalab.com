@@ -24,7 +24,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/aojiru_120826_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/aojiru_120826_01.jpg" alt="" title="aojiru_120826_01" width="448" height="336" class="alignnone size-full wp-image-2331" /></a><br />
 初めて青汁を飲みました。@kotala_bです。<br />
 大麦若葉100%の青汁を飲みました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B000FQTEN8/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41TTSFZB8QL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">

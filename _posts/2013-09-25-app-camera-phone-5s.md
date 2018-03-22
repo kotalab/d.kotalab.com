@@ -32,7 +32,8 @@ comments:
 <p>iPhoneで撮る写真はデフォルトアプリか<a href="https://itunes.apple.com/jp/app/onecam-mana-lian-xie-furikkude/id422845617?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">OneCam</a>です。こたら（@kotala_b）です。<br />
 iOS7になってデフォルトのカメラアプリがパワーアップしました！<br />
 新しくなったカメラアプリをご紹介！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>iOS7で追加されたカメラの機能</h2>
 <p>写真・パノラマ・ビデオ、iOS7から新たに加わったスクエア、iPhone 5sに追加された新機能スローモーションビデオ、これら全部がスワイプ操作ですぐ切替えられるようになりました！<br />
 <img src="https://kotalab.com/wp-content/uploads/appcameraphone5s_130925_01-546x307.jpg" alt="appcameraphone5s_130925_01" width="546" height="307" class="alignnone size-large wp-image-9684" /><br />

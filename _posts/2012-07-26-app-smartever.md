@@ -31,7 +31,8 @@ SmartEver、MergeEverやBookEverなど数えるとキリがないほど多くの
 そんな中からiPhone4Sを買ってから約2週間の間に、公式アプリを含め7つのアプリを入れました。<br />
 <a href="https://kotalab.com/wp-content/uploads/smartever_120726_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726_02.png" alt="" title="smartever_120726_02" width="300" height="431" class="alignnone size-full wp-image-1664" /></a><br />
 その中から今日ご紹介するのは「<a href="https://itunes.apple.com/jp/app/smartever/id493990103?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">SmartEver</a>」というアプリです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>SmartEverの特徴</h2>
 <p>このアプリの特徴はなんといっても早さです。<br />
 ノート数の増加により、同期には時間がかかってしまうものです。<br />

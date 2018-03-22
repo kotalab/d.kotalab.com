@@ -28,7 +28,8 @@ Amazonで紙の本の場合には、「カートに入れる」ボタンから�
 <p>「カートに入れる」以外に「1-Clickで買う」というのがあって、こっちを選ぶとAmazonのアカウントに登録してあるクレジットカードで決済されます。</p>
 <p>Kindle本を買うときには「1-Clickで買う」ボタンしかないので、クレジットカードでしか購入できないとずっと思っていたのですが、Amazonギフト券でも購入することができました。</p>
 <p>Kindle本をAmazonギフト券で購入する方法をご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1.Amazonアカウントにギフト券を登録しておく</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/2015/04/kindle-amazon-giftcard_20150419_02-780x180.png" alt="kindle-amazon-giftcard_20150419_02" width="780" height="180" class="aligncenter size-large wp-image-14135" /><br />
 「1-Clickで買う」ボタンを押す前にAmazonアカウントにギフト券を登録しておくことで、「1-Clickで買う」時に自動的にギフト券から支払われるようになります。</p>

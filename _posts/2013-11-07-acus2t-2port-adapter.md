@@ -31,7 +31,8 @@ comments: []
 本体の付属品としてついてくるACアダプタは1つのコンセントに対して充電できるのは1台限り。<br />
 しかも1台につき1つついてくるから結構邪魔な存在。<br />
 そんな悩みを解消してくれるのが1つのコンセントで2台充電できるACアダプタです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>今まで使ってたACアダプタは2口合計2A</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_03-546x361.jpg" alt="acus2t2portadapter_131107_03" width="546" height="361" class="alignnone size-large wp-image-10125" /><br />
 <a href="https://kotalab.com/usb-2port-adapter" title="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！" target="_blank">2台同時充電できるACアダプタ</a>を持ってたんですが、1つだけ気になることがありました。<br />

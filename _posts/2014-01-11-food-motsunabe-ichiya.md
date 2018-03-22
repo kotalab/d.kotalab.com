@@ -25,7 +25,8 @@ comments: []
 ラーメン、もつ鍋、水炊きは絶対に食べたいと思って福岡に行きました。こたら（@kotala_b）です。<br />
 <a href="https://kotalab.com/food-hakata-ikkosha" title="[Food][博多]博多駅からすぐ近くにあるおいしいラーメンのお店「博多一幸舎 博多本店」" target="_blank">福岡到着1日目の昼ごはんにラーメンを食べ</a>、その日の夕ごはんに食べたのはもつ鍋！<br />
 食べたお店は箱崎という博多から2つ目の駅を降りて、徒歩3分くらいの場所にあるお店「いちや」です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>焼肉ともつ鍋が食べられる店「いちや」</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/food-motsunabe-ichiya_04-546x409.jpg" alt="food-motsunabe-ichiya_04" width="546" height="409" class="alignnone size-large wp-image-10512" /><br />
 ビールで乾杯！といきたいとこですが、折角なので福岡のお酒をチョイス。<br />

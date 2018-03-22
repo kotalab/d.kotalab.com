@@ -29,7 +29,8 @@ comments: []
 高校の時の教科書は全て捨てたのですが、唯一この本だけが家の本棚に残っています。<br />
 なんでこれだけ残したのか、なぜ好きなのか説明出来ませんが、何故か好きなのです。<br />
 そんな僕が今回紹介するのは元素図鑑TheElementsというアプリです。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>元素図鑑</h2>
 <p>▼僕はたまに書店でこの本を立ち読みします。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">

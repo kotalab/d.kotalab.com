@@ -29,7 +29,8 @@ PHGへの登録を済ませました。こたら（@kotala_b）です。<br />
 <a href="https://kotalab.com/lnkshare-phg" title="LinkShareからPHGへ！PHGでiTunesStoreのアフィリエイトリンクを貼る方法" target="_blank">先日ご紹介したように</a>iTunesStoreのアフィリエイト提携先がLinkShareからPerformance Horizon Group（PHG）へ変更になります。<br />
 アプリの紹介には今まで「<a href="https://pochireba.com" title="ポチレバ" target="_blank">ポチレバ</a>」というかん吉さん（@kankichi）のツールを使ってアフィリエイトリンクを作成していました。<br />
 今現在、「<a href="https://pochireba.com" title="ポチレバ" target="_blank">ポチレバ</a>」はPHGへの対応がされていないのでPHGに対応済みの「AppStoreHelper」を使ってみることにしました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>PHG対応済みAppStoreHelperの使い方</h2>
 <p>AppStoreHelperはこちらからダウンロードできます。<br />
 <a href="http://hitoriblog.com/?p=3051" target="_blank">ひとりぶろぐ &raquo; 【30倍速い】iPhone/Macブロガー専用htmlジェネレータAppStoreHelperテスト版</a><br />

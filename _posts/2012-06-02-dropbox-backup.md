@@ -26,7 +26,8 @@ Gmail,Evernote,Dropbox・・・名前をあげたらきりがないくらい多�
 Dropboxのようなストレージ型のサービスを利用している場合、もし一時的にでも使えなくなったらどうしますか？<br />
 利便性の良さから仕事のファイルを保存してどこでも見れるようにしている方も多くいるはずです。<br />
 <strong>もしもファイルにアクセス出来なかったら</strong>を解決する方法のご紹介です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>丸ごとバックアップ</h2>
 <p>もしもに備えるには<strong>バックアップを取ること</strong>です。<br />
 <a href="http://delaymania.com/201202/webservice/dropbox_sugarsync_backup_ver2/"><img title="SugarSyncでDropboxを丸ごとバックアップする方法【改良版】 | delaymania" src="https://capture.heartrails.com/150x130/shadow?http://delaymania.com/201202/webservice/dropbox_sugarsync_backup_ver2/" alt="http://delaymania.com/201202/webservice/dropbox_sugarsync_backup_ver2/" width="150" height="130" align="left" /></a><em><strong><a href="http://delaymania.com/201202/webservice/dropbox_sugarsync_backup_ver2/" target="_blank">SugarSyncでDropboxを丸ごとバックアップする方法【改良版】 | delaymania</a></strong></em><br style="clear:both;" /><br />

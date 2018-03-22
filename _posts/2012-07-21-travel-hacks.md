@@ -26,7 +26,8 @@ comments: []
 高城剛さんといえばエリカ様との離婚問題でも話題になった方です。<br />
 ブックオフの100円コーナーで本を探している時に目に入った本がこの「<a href="https://www.amazon.co.jp/exec/obidos/asin/4334035183/same-22/" rel="nofollow" name="booklink" target="_blank">サバイバル時代の海外旅行術</a>」でした。<br />
 この本に書かれていて僕が海外旅行をする前に是非やりたい事前準備を3つのリストにしました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4334035183/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31OGPhH4XmL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">

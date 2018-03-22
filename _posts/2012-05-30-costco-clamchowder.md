@@ -23,7 +23,8 @@ comments: []
 <p><a href="https://kotalab.com/wp-content/uploads/clamChowder.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/clamChowder.jpg" alt="" title="clamChowder" width="400" height="300" class="alignnone size-full wp-image-1225" /></a><br />
 クラムチャウダーをコストコのフードコートで食べたら家でも同じ物が食べたくなった@kotala_bです。<br />
 <a title="COSTCOに行ってきた！" href="https://kotala.wordpress.com/2012/05/19/costco%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%EF%BC%81/" target="_blank">コストコ</a>で買ってきたキャンベルの<strong>クラムチャウダー</strong>を作りました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>開封</h2>
 <p><a href="https://kotalab.com/wp-content/uploads/clamChowder_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/clamChowder_01.jpg" alt="" title="clamChowder_01" width="300" height="400" class="alignnone size-full wp-image-1226" /></a><br />
 缶切りで上蓋を切りとります。 開けただけで磯の香りというか<strong>貝の香りがプンプン</strong>匂います。<br />

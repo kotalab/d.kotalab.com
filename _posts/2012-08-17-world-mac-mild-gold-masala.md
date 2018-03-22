@@ -26,7 +26,8 @@ comments: []
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/6914750483.html" target="_blank">Enseigne McDonald&rsquo;s</a> / zigazou76</span><br />
 マック熱が自分の中で再燃してます。@kotala_bです。<br />
 <a href="https://kotalab.com/world-mac-ind2" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2026" alt="https://kotalab.com/archives/2026" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-ind2" target="_blank">[食]レギュラーメニューに追加して欲しい！世界の★★★マック第2弾、ホットゴールドマサラを食べた！ | kotala's note</a><br style="clear:both;" />先日のホットゴールドマサラに引き続いて、マイルドゴールドマサラを食べました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>マイルドゴールドマサラを食べてみた！</h2>
 <p>▼GOLD MASALA MILD！<br />
 <a href="https://kotalab.com/wp-content/uploads/mildgoldmasala_120817_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/mildgoldmasala_120817_01.jpg" alt="" title="mildgoldmasala_120817_01" width="448" height="336" class="alignnone size-full wp-image-2164" /></a><br />

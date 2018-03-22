@@ -27,7 +27,8 @@ comments: []
 <p>「<a href="https://kotalab.com/app-creator" target="_blank">iPhoneアプリを作ってみたい！</a>」という気持ちから受講を決めました。<br><br />
 すごくやる気はあるし、多少のプログラミングの経験はあります。</p>
 <p>でもそんな気持ちや経験だけじゃどうしても乗り越えられない壁が、講座翌日の朝に待っていました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>毎朝の習慣</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/start-something-new_140422_02.jpg" alt="Start something new 140422 02" title="start-something-new_140422_02.jpg" border="0" width="548" height="365" />僕は毎朝7時ぐらいには会社の最寄り駅に着いています。<br />
 始業時間は9時からなので、そんな早く行く必要はありません。</p>

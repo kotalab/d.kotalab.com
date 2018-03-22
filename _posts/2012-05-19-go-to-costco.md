@@ -26,7 +26,8 @@ comments: []
 COSTCOというのは食品からテレビ等の家電、さらに宝石まで売ってる会員制の大型スーパーマーケットで、世界に600店舗以上日本では13店舗そのうち関東には8店舗ほどあります。<br />
 <a href="https://www.costco.co.jp/p/" target="_blank"><img title="コストコ Japan Home" src="https://capture.heartrails.com/150x130/shadow?https://www.costco.co.jp/p/" alt="https://www.costco.co.jp/p/" width="150" height="130" align="left" /></a><a title="コストコ Japan Home" href="https://www.costco.co.jp/p/" target="_blank">コストコ Japan Home</a><br />
 コストコホールセールは、高品質な優良ブランド商品をできる限りの低価格にて提供する会員制倉庫型店です。世界中にある数百ヵ所のコストコ倉庫店では幅広い品揃えに加え、専門店としての便利なサービスも備えており、お買い物をより一層楽しんで頂けます。<br style="clear:both;" /><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>会員制スーパー</h2>
 <p>入口では会員証の提示を求められます。裏に白黒の顔写真がついており本人しか使えないカードになっています。<br />
 1枚のカードでは本人以外に付き添いが2人まで一緒に入れます。<br />

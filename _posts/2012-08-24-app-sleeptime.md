@@ -27,7 +27,8 @@ comments: []
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/nenzen/4123832749/" target="_blank">Waking up</a> / Carl Lov&eacute;n</span><br />
 2つの睡眠ログアプリを比べてみました。@kotala_bです。<br />
 比べたアプリは「<a href="https://itunes.apple.com/jp/app/sleep-time+-alarm-clock-sleep/id498360026?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">Sleep Time</a>」と「<a href="https://itunes.apple.com/jp/app/kuai-mianrizumu-shui-mian/id542317934?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">快眠リズム</a>」です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>SleepTimeで表示されるもの</h2>
 <p>▼毎日の平均値と1日ごとの起床時間・睡眠時間<br />
 <a href="https://kotalab.com/wp-content/uploads/sleeplog_120824_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120824_01.png" alt="" title="sleeplog_120824_01" width="300" height="450" class="alignnone size-full wp-image-2283" /></a><br />

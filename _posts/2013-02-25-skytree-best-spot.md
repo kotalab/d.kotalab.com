@@ -34,7 +34,8 @@ comments:
 初めて東京スカイツリーに行きました。@kotala_bです。<br />
 平日の午後に行き、半日たっぷり過ごすことが出来ました。<br />
 東京スカイツリーに行ったら絶対に立ち寄りたいスポットを3つ紹介したいと思います！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>東京スカイツリーに行ったら絶対に立ち寄りたい3つのスポット</h2>
 <h3>プラネタリウム天空</h3>
 <p><img src="https://kotalab.com/wp-content/uploads/skytree_130225_01-448x336.jpg" alt="skytree_130225_01" width="448" height="336" class="alignnone size-large wp-image-6331" /><br />

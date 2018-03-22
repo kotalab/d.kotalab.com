@@ -25,7 +25,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/inful_130205-448x336.jpg" alt="inful_130205" width="448" height="336" class="alignnone size-large wp-image-6040" /><br />
 先週の月曜日に病院へ行きました。@kotala_bです。<br />
 朝起きた時から熱が38度近くあったので、もしかしたらインフルエンザかもと思い朝一で病院へ行きました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>まずは問診</h2>
 <p>病院へ着くと問診票を渡され記入しました。<br />
 朝から熱が高いことなどを書き渡すと数分のうちに奥の別室へ通されました。<br />

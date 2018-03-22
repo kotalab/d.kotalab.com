@@ -27,7 +27,8 @@ comments: []
 無料スタートでいきなり12GBも貰えるクラウドサービスが開始されたようです。<br />
 ▼はまさん（@SURF_FISH）や大谷さん（@delaymania）が紹介していました。<br />
 <a href="http://hama73.com/archives/3526" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://hama73.com/archives/3526" alt="無料12GBスタート！招待5GB！Dropboxっぽいクラウドサービス「Copy」" width="150" height="130" /></a><a href="http://hama73.com/archives/3526" target="_blank">無料12GBスタート！招待5GB！Dropboxっぽいクラウドサービス「Copy」</a><a href="https://b.hatena.ne.jp/entry/http://hama73.com/archives/3526" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://hama73.com/archives/3526" alt="" /></a><br style="clear:both;" /><a href="http://delaymania.com/201304/webservice/copy_review/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://delaymania.com/201304/webservice/copy_review/" alt="Dropboxみたいなクラウドサービス「Copy」が招待で5GBもらえる奮発サービス中 | delaymania" width="150" height="130" /></a><a href="http://delaymania.com/201304/webservice/copy_review/" target="_blank">Dropboxみたいなクラウドサービス「Copy」が招待で5GBもらえる奮発サービス中 | delaymania</a><a href="https://b.hatena.ne.jp/entry/http://delaymania.com/201304/webservice/copy_review/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://delaymania.com/201304/webservice/copy_review/" alt="" /></a><br style="clear:both;" />手軽に12GB獲得出来ると言うことなので早速登録してみました！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>「Copy」招待でお互い5GB増量！</h2>
 <p><a href="https://copy.com?r=8xSUVD" title="5GB増量登録" target="_blank">5GB増量の登録はこちらから！</a><br />
 上記リンクから登録頂くと、copyの容量が5GB増量します！<br />

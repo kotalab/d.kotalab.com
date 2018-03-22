@@ -29,7 +29,8 @@ comments: []
 気づけばもう1年。<br />
 始めたときは想像も出来なかったですが、毎日更新を続けて365日連続更新することが出来ました。<br />
 今日はブログエントリーと共にこの1年間を振り返りたいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1年間の振り返り</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/365days_130509_01.jpg" alt="365days_130509_01" width="317" height="245" class="alignnone size-full wp-image-7076" /><br />
 総エントリー数428。<br />

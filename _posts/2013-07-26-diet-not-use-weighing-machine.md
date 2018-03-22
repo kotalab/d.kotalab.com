@@ -31,7 +31,8 @@ comments: []
 去年は58Kgを目標に「食べること」を意識して、外食の予定がある日は他の食事で野菜中心にしたり、体重が増えた日には朝ご飯を軽めにしたりという工夫をしていました。<br />
 <a href="https://kotalab.com/diet-8kg" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/diet_121122_03-448x336.png" alt="習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note" width="150" /></a><a href="https://kotalab.com/diet-8kg" target="_blank">習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note</a><br style="clear:both;" />そんなことをしていたら11月の時点で目標だった58Kgに到達。<br />
 それからは57〜58キロ台の維持を目標にしていました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>久しぶりに体重を計ったらビックリ！</h2>
 <p>最後に体重計に乗ったのが今年の2月24日。<br />
 その時の体重は58.1Kg体脂肪率は18.8%でした。<br />

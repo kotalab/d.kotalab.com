@@ -24,7 +24,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_04.png" alt="yosemite-textexpander_20141106_04" width="780" height="654" class="aligncenter size-full wp-image-13575" /><br />
 OS X YosemiteにTextExpanderを入れてTextExpanderを起動したところ「補助装置が使用不可となっています」という警告が出てTextExpanderが使えませんでした。</p>
 <p>これを解消して使える方法を紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>OS X YosemiteでTextExpanderを使う方法</h2>
 <p>TextExpanderを起動すると「補助装置が使用不可となっています」という警告が出ました。<br />
 <img src="https://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_01.png" alt="yosemite-textexpander_20141106_01" width="641" height="282" class="aligncenter size-full wp-image-13572" /><br />

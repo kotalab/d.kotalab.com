@@ -28,7 +28,8 @@ comments: []
 <p>あの時もっと相手の話を聞いていたら・・・。<br />
 今になってみるとそう思います。</p>
 <p>最近読んだ「キラークエスチョン」という本にはこう書かれていました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>何を聞くか</h2>
 <blockquote><p>「何を話すか」ではなく「何を聞くか」<br />
 via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4334035213/same-22/" rel="nofollow" target="_blank">キラークエスチョン</a>  - P.5</p></blockquote>

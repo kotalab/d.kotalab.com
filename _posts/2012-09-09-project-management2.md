@@ -28,7 +28,8 @@ comments: []
 年末までの今年1年の目標をプロジェクトとして管理しています。@kotala_bです。<br />
 僕はやりたいことをする為にプロジェクト管理を行っています。<br />
 <a href="https://kotalab.com/want-to-do-project-management" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/project-management2" alt="https://kotalab.com/archives/2362" width="150" height="130" align="left" /></a><a href="https://kotalab.com/want-to-do-project-management" target="_blank">やりたいことをするためにやってることープロジェクト管理ー | kotala's note</a><br style="clear:both;" />また、1年間の目標についてもプロジェクトとして扱ってます。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>似てるようで違う目標とやりたいこと</h2>
 <p>1年間の目標というのは1年を通して達成したいことで、期限はその年の最後の日12月31日です。<br />
 やりたいことは<strong>やりたいと思った時</strong>に発生する内容で、タスク管理で扱える内容とプロジェクトまで発展する内容とに分かれます。</p>

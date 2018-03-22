@@ -28,7 +28,8 @@ via:<a href="http://googlewebmastercentral-ja.blogspot.jp/2015/02/finding-more-m
 </p></blockquote>
 <p>この変化によって、4月21日以降モバイルに対応していない、モバイルフレンドリーじゃないWebサイトやブログは検索結果の表示順位が大きく下がってしまうことが予想されます。</p>
 <p>自分のWebサイトやブログがモバイルフレンドリーかどうかわからないという方は、これから紹介する2つをやってみてください。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>1.モバイルフレンドリーテストでチェック</h2>
 <p>モバイルフレンドリーかどうかを一番簡単にチェックできるのはGoogleが提供している<a href="https://www.google.com/webmasters/tools/mobile-friendly/" target="_blank">モバイルフレンドリーテスト</a>を行うことです。<br />
 <a href="https://www.google.com/webmasters/tools/mobile-friendly/" target="_blank">モバイルフレンドリーテスト</a>にアクセスし、実際にテストをやってみました。</p>

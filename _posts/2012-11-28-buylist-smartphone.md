@@ -24,7 +24,8 @@ comments: []
 <p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121128142244.jpg" width="448" height="251" /><br />
 買い物へ行ったのに何を買うか忘れることがよくあった。@kotala_bです。<br />
 そんな僕ですがすごく簡単な方法で買い忘れをなくすことが出来るようになりました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>メモを持つ</h2>
 <p>忘れ物をなくすにはメモをして書き残しておく。<br />
 これは忘れ物をなくすための最も簡単な方法の一つです。<br />

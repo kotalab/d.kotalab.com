@@ -26,7 +26,8 @@ comments: []
 お正月にテレビを見ていて、思わず何のCMだろうと見入っちゃうCMがありました。<br />
 思わず見入ってしまうようなCMってなかなかないと思うんですよね。</p>
 <p>ネットで探してみたら動画があったのでご紹介したいと思います。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>CMの主人公はネコ</h2>
 <div class="video-container"><iframe width="560" height="315" src="//www.youtube.com/embed/N6O_alvDYkg" frameborder="0" allowfullscreen></iframe></div>
 <p>YKK APという企業のCMなんですけど、CMの最後に企業ロゴが出てくるまでどこのCMかもわからないような、とにかくネコが際立ってるCMです！</p>

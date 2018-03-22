@@ -27,7 +27,8 @@ comments: []
 <a href="https://kotalab.com/hakatashinpu" title="大つけ麺博2012で博多新風の濃厚なつけ麺を食べた！" target="_blank">1杯目は博多新風さん</a>。2杯目は三重県のMenkouともやさんです！<br />
 あさりが入ったあっさりスープのつけ麺です！<br />
 あさり入りは初体験！<br />
-<!--more--></p>
+</p>
+<!--more-->
 <p><a href="https://kotalab.com/wp-content/uploads/tomoya_121012_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_01.jpg" alt="" title="tomoya_121012_01" width="448" height="1066" class="alignnone size-full wp-image-3369" /></a><br />
 ▼こちらが店構え<br />
 <a href="https://kotalab.com/wp-content/uploads/tomoya_121012_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_02.jpg" alt="" title="tomoya_121012_02" width="448" height="336" class="alignnone size-full wp-image-3368" /></a><br />

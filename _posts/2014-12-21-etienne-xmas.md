@@ -25,7 +25,8 @@ comments: []
 <p><img src="https://kotalab.com/wp-content/uploads/etienne_20141222_02-780x585.jpg" alt="etienne_20141222_02" width="780" height="585" class="aligncenter size-large wp-image-13653" /><br />
 僕の実家の近くにある、大好きなケーキのお店「パティスリーエチエンヌ」をご紹介！<br />
 最近はよくテレビでも紹介されている、大人気のお店です。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>日本を代表するパティシエが作るお店「エチエンヌ」</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/etienne_20141222_01-780x585.jpg" alt="etienne_20141222_01" width="780" height="585" class="aligncenter size-large wp-image-13648" /><br />
 エチエンヌのオーナーシェフ藤本智美さんは洋菓子世界大会の最高峰「クープ・デュ・モンド・ドゥ・ラ・パティスリー」の2007年に行われた第10回大会で総合優勝した、日本を代表するパティシエの1人。<br />

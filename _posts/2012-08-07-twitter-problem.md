@@ -24,7 +24,8 @@ comments: []
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/pleuntje/7557559670/" target="_blank">search</a> / Pleuntje</span><br />
 Twitterで自分のツイートを検索したら表示されませんでした。@kotala_bです。<br />
 エゴサーチをしようとTwitterで「kotala_b」を検索してみたところ、表示されるツイートと<strong>表示されないツイート</strong>がありました。<br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>検索に表示されない</h2>
 <p>▼「kotala_b」での検索結果<br />
 <a href="https://kotalab.com/wp-content/uploads/twitter_120803_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/twitter_120803_02.jpg" alt="" title="twitter_120803_02" width="448" height="336" class="alignnone size-full wp-image-1953" /></a><br />

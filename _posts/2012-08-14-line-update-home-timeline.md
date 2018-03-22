@@ -26,7 +26,8 @@ comments: []
 Lineというのはパケ代のみでメールや通話が出来る無料アプリのことです。<br />
 <a href="https://www.amazon.co.jp/exec/obidos/asin/4844332155/same-22/" rel="nofollow" name="booklink" target="_blank">公式本</a>などで広がりを拡大している<strong>LINE</strong>ですが昨日iOS版のアップデートがありました。<br />
 参考：<a href="http://line.naver.jp/ja/" target="_blank">LINE</a><br />
-<!--more--></p>
+</p>
+<!--more-->
 <h2>LINEのアップデート情報</h2>
 <p>▼8月13日にLINE3.0.0のアップデートがありました。<br />
 <a href="https://kotalab.com/wp-content/uploads/line_120814_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/line_120814_01.png" alt="" title="line_120814_01" width="300" height="431" class="alignnone size-full wp-image-2097" /></a><br />
