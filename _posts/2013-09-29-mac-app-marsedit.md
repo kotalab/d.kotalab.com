@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 9722
-wordpress_url: http://kotalab.com/?p=9722
+wordpress_url: https://kotalab.com/?p=9722
 date: '2013-09-29 12:27:27 +0900'
 date_gmt: '2013-09-29 03:27:27 +0900'
 category:
@@ -28,7 +28,7 @@ comments:
   date_gmt: '2013-09-29 22:49:27 +0900'
   content: "[&#8230;] ◆ ブログエディタのMarsEditを使い始めてみた！ （ via kotala&#8217;s note ） [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/macappmarsedit_130929_01-546x313.png" alt="macappmarsedit_130929_01" width="546" height="313" class="alignnone size-large wp-image-9724" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/macappmarsedit_130929_01-546x313.png" alt="macappmarsedit_130929_01" width="546" height="313" class="alignnone size-large wp-image-9724" /><br />
 MarsEdit始めました。こたら（@kotala_b）です。<br />
 オフラインでも使えるブログエディタが使いたくて、MarsEditを使い始めてみました。<br />
 <!--more--></p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10144
-wordpress_url: http://kotalab.com/?p=10144
+wordpress_url: https://kotalab.com/?p=10144
 date: '2013-11-12 09:22:54 +0900'
 date_gmt: '2013-11-12 00:22:54 +0900'
 category:
@@ -22,13 +22,13 @@ tags:
 - ヒートテック
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/heattech_131112_01.jpg" alt="heattech_131112_01" width="480" height="452" class="alignnone size-full wp-image-10147" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/heattech_131112_01.jpg" alt="heattech_131112_01" width="480" height="452" class="alignnone size-full wp-image-10147" /><br />
 防寒対策はばっちり。こたら（@kotala_b）です。<br />
 東京は昨日から一気に寒くなりましたね。皆さんは防寒対策してますか？<br />
 僕はユニクロのヒートテックにお世話になってます！<br />
 <!--more--></p>
 <h2>ヒートテックタイツがスゴく暖かい</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/heattech_131112-546x361.jpg" alt="heattech_131112" width="546" height="361" class="alignnone size-large wp-image-10146" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/heattech_131112-546x361.jpg" alt="heattech_131112" width="546" height="361" class="alignnone size-large wp-image-10146" /><br />
 僕は夏も冬も1年中、室温10度くらいの部屋で仕事をしてたりします。<br />
 夏でもフリースやダウンを着てるような人がいる一風変わった場所。<br />
 そんなことがあって防寒対策が1年中必要なんですが、僕が一番おすすめの寒さ対策は<strong>ヒートテックタイツ</strong>を履くこと！<br />

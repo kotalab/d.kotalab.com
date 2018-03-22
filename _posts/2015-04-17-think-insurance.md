@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14122
-wordpress_url: http://kotalab.com/?p=14122
+wordpress_url: https://kotalab.com/?p=14122
 date: '2015-04-17 08:08:55 +0900'
 date_gmt: '2015-04-16 23:08:55 +0900'
 category:
@@ -36,7 +36,7 @@ via:<a href="http://toyokeizai.net/articles/-/66257" target="_blank">｢保険�
 どちらがいいのか考えてみましょう。<br />
 <!--more--></p>
 <h2>保険て本当に必要？</h2>
-<p>僕はこのブログで<a href="http://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！</a>と書いたこともあります。<br />
+<p>僕はこのブログで<a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！</a>と書いたこともあります。<br />
 ただこういった「保険に入らない理由」だったり「保険に入るべき理由」というのはネットで探せばいくらでも見つかります。</p>
 <p>入ったほうがいいという人も入らない方がいいという人も、どちらの意見の人も沢山いるってことです。</p>
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/2DTyHAHaNMw" frameborder="0" allowfullscreen></iframe></div>

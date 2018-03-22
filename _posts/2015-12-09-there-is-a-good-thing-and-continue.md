@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14938
-wordpress_url: http://kotalab.com/?p=14938
+wordpress_url: https://kotalab.com/?p=14938
 date: '2015-12-09 08:38:03 +0900'
 date_gmt: '2015-12-08 23:38:03 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - アプリ開発
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/12/there-is-a-good-thing-and-continue_20151209-780x585.jpg" alt="there-is-a-good-thing-and-continue_20151209" width="780" height="585" class="aligncenter size-large wp-image-14940" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/12/there-is-a-good-thing-and-continue_20151209-780x585.jpg" alt="there-is-a-good-thing-and-continue_20151209" width="780" height="585" class="aligncenter size-large wp-image-14940" /><br />
 6月の後半くらいから個人でiPhoneアプリを作っていました。<br><br />
 つい先日、Appleの審査へ提出したので、何も問題なければ年内にリリースできそうです。<br />
 100円のコーヒーを飲みながら、仕事が始まる前の1時間くらい毎朝もくもくと作業をしてアプリを作っていました。</p>
@@ -29,7 +29,7 @@ comments: []
 <p><!--more--></p>
 <h2>やったらやったことが残る</h2>
 <p>このブログを始めてから3年半くらい以上経ちましたが、ブログを400日以上毎日書いていた時期がありました。<br><br />
-<a href="http://kotalab.com/second-anivarsary">2年前にこんなことを書いたのですが</a>、ブログを続けて書いているうちに「<strong>なんか知らないけど毎日続けているといいことがある</strong>」みたいに思うようになりました。<br><br />
+<a href="https://kotalab.com/second-anivarsary">2年前にこんなことを書いたのですが</a>、ブログを続けて書いているうちに「<strong>なんか知らないけど毎日続けているといいことがある</strong>」みたいに思うようになりました。<br><br />
 このことはブログを書くことだけじゃなくて、アプリを作ることでも同じなんじゃないかなって思ってとにかく淡々ともくもくと毎日続けていました。  </p>
 <p>自分の好きなこととかやりたいこととかならなんでも同じなんじゃないかなって感じています。<br><br />
 例えそれが後から別にやりたいことじゃなかったって思っても、間違ってたって気づけただけプラスになるはず。</p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2966
-wordpress_url: http://kotalab.com/?p=2966
+wordpress_url: https://kotalab.com/?p=2966
 date: '2012-09-25 17:43:42 +0900'
 date_gmt: '2012-09-25 08:43:42 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - SOICHA
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/soicha_120925.png"><img src="http://kotalab.com/wp-content/uploads/soicha_120925.png" alt="" title="soicha_120925" width="448" height="448" class="alignnone size-full wp-image-2975" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/soicha_120925.png"><img src="https://kotalab.com/wp-content/uploads/soicha_120925.png" alt="" title="soicha_120925" width="448" height="448" class="alignnone size-full wp-image-2975" /></a><br />
 iPhoneではSOICHAを使ってます。@kotala_bです。<br />
 SOICHAは無料のTwitterクライアントです。<br />
 無料なのに高機能というスゴイアプリです！<br />
@@ -31,20 +31,20 @@ SOICHAは無料のTwitterクライアントです。<br />
 <h2>ハッシュタグを検索して保存する</h2>
 <p>SOICHAで検索したいハッシュタグを入力します。<br />
 先日初めて行った「NoSecondLifeセミナー」のハッシュタグ「#nsl8」を入力。<br />
-<a href="http://kotalab.com/wp-content/uploads/soicha_120925_01.png"><img src="http://kotalab.com/wp-content/uploads/soicha_120925_01.png" alt="" title="soicha_120925_01" width="300" height="475" class="alignnone size-full wp-image-2970" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/soicha_120925_01.png"><img src="https://kotalab.com/wp-content/uploads/soicha_120925_01.png" alt="" title="soicha_120925_01" width="300" height="475" class="alignnone size-full wp-image-2970" /></a><br />
 ▼するとこんな感じで表示されます。<br />
-<a href="http://kotalab.com/wp-content/uploads/soicha_120925_02.png"><img src="http://kotalab.com/wp-content/uploads/soicha_120925_02.png" alt="" title="soicha_120925_02" width="300" height="437" class="alignnone size-full wp-image-2971" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/soicha_120925_02.png"><img src="https://kotalab.com/wp-content/uploads/soicha_120925_02.png" alt="" title="soicha_120925_02" width="300" height="437" class="alignnone size-full wp-image-2971" /></a><br />
 右下のボタンを押すと読み込んだTweetの一番古いものへ一気に飛ぶことが出来ます。<br />
 左下の更新ボタンを押すと更に古いものがある場合は更新されて表示されます。<br />
 そしてまた右下のボタンを押す。<br />
 ▼これを繰り返すと表示出来る一番古いTweetまで表示されます。<br />
-<a href="http://kotalab.com/wp-content/uploads/soicha_120925_03.png"><img src="http://kotalab.com/wp-content/uploads/soicha_120925_03.png" alt="" title="soicha_120925_03" width="300" height="437" class="alignnone size-full wp-image-2972" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/soicha_120925_03.png"><img src="https://kotalab.com/wp-content/uploads/soicha_120925_03.png" alt="" title="soicha_120925_03" width="300" height="437" class="alignnone size-full wp-image-2972" /></a><br />
 @kentaro_jpさんが前から2番目を確保したTweetまで遡ることが出来ました。<br />
 ここで画面下のゾウをクリック。<br />
 すると送信先のノートブックとタグを指定出来ます。<br />
-<a href="http://kotalab.com/wp-content/uploads/soicha_120925_04.png"><img src="http://kotalab.com/wp-content/uploads/soicha_120925_04.png" alt="" title="soicha_120925_04" width="300" height="431" class="alignnone size-full wp-image-2973" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/soicha_120925_04.png"><img src="https://kotalab.com/wp-content/uploads/soicha_120925_04.png" alt="" title="soicha_120925_04" width="300" height="431" class="alignnone size-full wp-image-2973" /></a><br />
 ここでOKを押すとクリップ中と表示されEvernoteに保存が出来ます。<br />
-<a href="http://kotalab.com/wp-content/uploads/soicha_120925_05.png"><img src="http://kotalab.com/wp-content/uploads/soicha_120925_05.png" alt="" title="soicha_120925_05" width="300" height="426" class="alignnone size-full wp-image-2974" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/soicha_120925_05.png"><img src="https://kotalab.com/wp-content/uploads/soicha_120925_05.png" alt="" title="soicha_120925_05" width="300" height="426" class="alignnone size-full wp-image-2974" /></a><br />
 ▼保存した内容がこちら<br />
 <a href="https://www.evernote.com/shard/s110/sh/eb4b578c-7d3d-43cc-8f7e-691757e5d149/91b87a0ffbecb84ba838090ee9a051eb" target="_blank">Evernoteの共有ノート</a><br />
 第8回NoSecondLifeセミナーの開始から懇親会終了までの間のTweetをまとめました。</p>

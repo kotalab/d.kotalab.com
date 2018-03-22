@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3084
-wordpress_url: http://kotalab.com/?p=3084
+wordpress_url: https://kotalab.com/?p=3084
 date: '2012-10-03 21:35:00 +0900'
 date_gmt: '2012-10-03 12:35:00 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 睡眠の法則
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/suimin_121003.jpg"><img src="http://kotalab.com/wp-content/uploads/suimin_121003.jpg" alt="" title="suimin_121003" width="448" height="336" class="alignnone size-full wp-image-3097" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/suimin_121003.jpg"><img src="https://kotalab.com/wp-content/uploads/suimin_121003.jpg" alt="" title="suimin_121003" width="448" height="336" class="alignnone size-full wp-image-3097" /></a><br />
 <a href="http://www.amazon.co.jp/exec/obidos/asin/4426115272/same-22/" rel="nofollow" name="booklink" target="_blank">あなたの人生を変える睡眠の法則</a>を読みました。@kotala_bです。<br />
 この本は菅原洋平さんという作業療法士の方が書かれた本です。<br />
 本には科学的なメカニズムを知り、質の良い睡眠を取る為の具体的な方法が書かれていました。</p>

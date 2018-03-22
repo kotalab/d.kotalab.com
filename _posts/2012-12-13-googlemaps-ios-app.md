@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4699
-wordpress_url: http://kotalab.com/?p=4699
+wordpress_url: https://kotalab.com/?p=4699
 date: '2012-12-13 19:48:21 +0900'
 date_gmt: '2012-12-13 10:48:21 +0900'
 category:
@@ -26,7 +26,7 @@ tags:
 - URLスキーム
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/googlemaps_121213.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/googlemaps_121213-448x448.png" alt="" title="googlemaps_121213" width="448" height="448" class="alignnone size-large wp-image-4702" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/googlemaps_121213.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemaps_121213-448x448.png" alt="" title="googlemaps_121213" width="448" height="448" class="alignnone size-large wp-image-4702" /></a><br />
 この時を心待ちにしていました。@kotala_bです。<br />
 僕以外にも待っていた方は沢山いるでしょう。<br />
 iPhone5と同時にMacの純正アプリが導入され、その完成度はAppStoreさえも他社アプリをオススメするほどの低さでした。<br />
@@ -45,27 +45,27 @@ iPhone5と同時にMacの純正アプリが導入され、その完成度はAppS
 <p><!--more--></p>
 <h2>GoogleMaps</h2>
 <p>▼早速ダウンロード！<br />
-<a href="http://kotalab.com/wp-content/uploads/googlemap_121213_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/googlemap_121213_01.jpg" alt="" title="googlemap_121213_01" width="300" height="514" class="alignnone size-full wp-image-4703" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/googlemap_121213_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemap_121213_01.jpg" alt="" title="googlemap_121213_01" width="300" height="514" class="alignnone size-full wp-image-4703" /></a><br />
 ▼アプリを起動すると「ようこそ」の画面に<br />
-<a href="http://kotalab.com/wp-content/uploads/googlemap_121213_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/googlemap_121213_02.jpg" alt="" title="googlemap_121213_02" width="300" height="514" class="alignnone size-full wp-image-4704" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/googlemap_121213_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemap_121213_02.jpg" alt="" title="googlemap_121213_02" width="300" height="514" class="alignnone size-full wp-image-4704" /></a><br />
 同意して続行<br />
 ▼次はログイン画面<br />
-<a href="http://kotalab.com/wp-content/uploads/googlemap_121213_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/googlemap_121213_03.jpg" alt="" title="googlemap_121213_03" width="300" height="514" class="alignnone size-full wp-image-4705" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/googlemap_121213_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemap_121213_03.jpg" alt="" title="googlemap_121213_03" width="300" height="514" class="alignnone size-full wp-image-4705" /></a><br />
 GoogleアカウントのIDとパスワードを入れたらもう使えます！<br />
 ▼新宿で検索してみました。<br />
-<a href="http://kotalab.com/wp-content/uploads/googlemap_121213_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/googlemap_121213_04.jpg" alt="" title="googlemap_121213_04" width="300" height="514" class="alignnone size-full wp-image-4706" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/googlemap_121213_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemap_121213_04.jpg" alt="" title="googlemap_121213_04" width="300" height="514" class="alignnone size-full wp-image-4706" /></a><br />
 ぱっと見でも<strong>わかりやすい情報量</strong>の地図です。<br />
 <strong>さすがGoogleマップ！</strong><br />
 ▼地図の切り替えをするには右下を引っ張ります。<br />
-<a href="http://kotalab.com/wp-content/uploads/googlemap_121213_05.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/googlemap_121213_05.png" alt="" title="googlemap_121213_05" width="300" height="514" class="alignnone size-full wp-image-4707" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/googlemap_121213_05.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemap_121213_05.png" alt="" title="googlemap_121213_05" width="300" height="514" class="alignnone size-full wp-image-4707" /></a><br />
 ▼交通状況や路線図、航空写真の切り替えが可能です！<br />
-<a href="http://kotalab.com/wp-content/uploads/googlemap_121213_06.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/googlemap_121213_06.jpg" alt="" title="googlemap_121213_06" width="300" height="514" class="alignnone size-full wp-image-4708" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/googlemap_121213_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemap_121213_06.jpg" alt="" title="googlemap_121213_06" width="300" height="514" class="alignnone size-full wp-image-4708" /></a><br />
 試しに路線図を見てみました。<br />
 ▼まずは普通の地図<br />
-<a href="http://kotalab.com/wp-content/uploads/googlemap_121213_07.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/googlemap_121213_07.jpg" alt="" title="googlemap_121213_07" width="300" height="514" class="alignnone size-full wp-image-4709" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/googlemap_121213_07.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemap_121213_07.jpg" alt="" title="googlemap_121213_07" width="300" height="514" class="alignnone size-full wp-image-4709" /></a><br />
 なんとなくわかるけど、地下鉄の路線は点線になっているのでちょっと見づらい。<br />
 ▼同じ位置で路線図にしてみました<br />
-<a href="http://kotalab.com/wp-content/uploads/googlemap_121213_08.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/googlemap_121213_08.jpg" alt="" title="googlemap_121213_08" width="300" height="514" class="alignnone size-full wp-image-4710" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/googlemap_121213_08.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/googlemap_121213_08.jpg" alt="" title="googlemap_121213_08" width="300" height="514" class="alignnone size-full wp-image-4710" /></a><br />
 今度はどうでしょう。<br />
 丸の内線は赤、有楽町線は黄色というように<strong>路線ごとに色分けされた線がはっきりと表示</strong>されました。<br />
 これは<strong>見やすい！</strong></p>

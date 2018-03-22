@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13908
-wordpress_url: http://kotalab.com/?p=13908
+wordpress_url: https://kotalab.com/?p=13908
 date: '2015-01-30 07:00:47 +0900'
 date_gmt: '2015-01-29 22:00:47 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 行動
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="728" class="aligncenter size-full wp-image-10753" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="728" class="aligncenter size-full wp-image-10753" /><br />
 僕の周りにはサラリーマンもいるし、フリーで働いている人も数多くいます。</p>
 <p>周りの彼らを見比べると、ひとつの決定的な違いがありました。<br />
 それは仕事に対する考え方です。<br />

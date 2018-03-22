@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13622
-wordpress_url: http://kotalab.com/?p=13622
+wordpress_url: https://kotalab.com/?p=13622
 date: '2014-11-26 07:30:38 +0900'
 date_gmt: '2014-11-25 22:30:38 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - カメラアプリ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-camera-grip_01-780x585.jpg" alt="iphone6-camera-grip_01" width="780" height="585" class="aligncenter size-large wp-image-13624" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-camera-grip_01-780x585.jpg" alt="iphone6-camera-grip_01" width="780" height="585" class="aligncenter size-large wp-image-13624" /><br />
 iPhone6（Plus）に変えてから、iPhoneで写真を撮るのが少しやりづらくなったと思っていませんか？<br />
 特に自撮りしたり、ご飯のおいしそうな写真をSNSにアップしたりしてた人にとっては、片手で撮るのが今までよりかなり撮りづらくなっていますよね。</p>
 <p>iPhoneが薄くなって画面が広がった分だけ、重心とシャッターボタンの距離が離れたせいで片手でシャッターボタンを押すのがかなり不安定。<br />
@@ -31,27 +31,27 @@ iPhone6（Plus）に変えてから、iPhoneで写真を撮るのが少しやり
 片手でiPhoneを持って写真は撮りたいけど落としたくはない、しかもできるだけ手ぶれしない写真が撮りたいという人におすすめのiPhoneの持ち方・写真の撮り方を紹介したいと思います。<br />
 <!--more--></p>
 <h2>iPhone6Plusを片手で持って写真を撮るときの持ち方</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-camera-grip_01-780x585.jpg" alt="iphone6-camera-grip_01" width="780" height="585" class="aligncenter size-large wp-image-13624" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-camera-grip_01-780x585.jpg" alt="iphone6-camera-grip_01" width="780" height="585" class="aligncenter size-large wp-image-13624" /><br />
 iPhoneはこうやって真ん中をがっちりホールド。<br />
 こう持てば落とすことはありません。</p>
 <p>シャッターボタンからは指が離れてしまっていますが気にしないで大丈夫です。<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone6-camera-grip_02-300x400.jpg" alt="iphone6-camera-grip_02" width="300" height="400" class="aligncenter size-medium wp-image-13626" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone6-camera-grip_02-300x400.jpg" alt="iphone6-camera-grip_02" width="300" height="400" class="aligncenter size-medium wp-image-13626" /><br />
 真ん中を持ったまま撮った写真がこれ。</p>
 <p>左手でiPhone6Plusでノートを写真に撮りながら、左手は持ち方を一切変えずに右手でその様子をiPhone5Sで撮ってみました。</p>
 <h2>ボリュームボタンでシャッターが切れる</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-camera-grip_06-780x585.jpg" alt="iphone6-camera-grip_06" width="780" height="585" class="aligncenter size-large wp-image-13625" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-camera-grip_06-780x585.jpg" alt="iphone6-camera-grip_06" width="780" height="585" class="aligncenter size-large wp-image-13625" /><br />
 画面上のシャッターボタンからは手が離れていましたが、別のシャッターボタンを使って写真を撮りました。<br />
 それがiPhoneの本体横についているボリュームボタンです。</p>
 <p>普段は音量を上げ下げするボタンなんですが、カメラアプリを起動している時にはシャッターボタンに切り替わります。<br />
 ちなみに、iPhoneに入っている別のカメラアプリ何種類かで試してみましたが、純正アプリ以外は音量調節しかできませんでした。<br />
 この機能は純正アプリだけの機能なのかも知れません。</p>
 <h2>横向きも自撮りも同じ撮り方</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-camera-grip_03-780x585.jpg" alt="iphone6-camera-grip_03" width="780" height="585" class="aligncenter size-large wp-image-13627" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-camera-grip_03-780x585.jpg" alt="iphone6-camera-grip_03" width="780" height="585" class="aligncenter size-large wp-image-13627" /><br />
 少し画面が見づらいですが、iPhoneを横向きにして撮るときはこんな感じ。<br />
 普通に持つとシャッターは押しにくいし落としやすい。それに比べたら少し画面が見づらくなるくらいはいいかなと思っちゃいます。</p>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-camera-grip_04-780x585.jpg" alt="iphone6-camera-grip_04" width="780" height="585" class="aligncenter size-large wp-image-13628" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-camera-grip_04-780x585.jpg" alt="iphone6-camera-grip_04" width="780" height="585" class="aligncenter size-large wp-image-13628" /><br />
 写真だけみると片手で撮ったのか両手で撮ったのかわかりませんよね。</p>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-camera-grip_05-780x585.jpg" alt="iphone6-camera-grip_05" width="780" height="585" class="aligncenter size-large wp-image-13629" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-camera-grip_05-780x585.jpg" alt="iphone6-camera-grip_05" width="780" height="585" class="aligncenter size-large wp-image-13629" /><br />
 自撮りをするときも片手でがっちりホールドしたまま撮れちゃいます。</p>
 <h3>片手で写真を撮るのが気にならなくなった</h3>
 <p>片手の時だけじゃなくて両手で持った時もボリュームボタンでシャッターが切れることを知っていれば、より安定した持ち方でシャッターを切ることができます。<br />

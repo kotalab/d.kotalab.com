@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13296
-wordpress_url: http://kotalab.com/?p=13296
+wordpress_url: https://kotalab.com/?p=13296
 date: '2014-07-01 08:30:40 +0900'
 date_gmt: '2014-06-30 23:30:40 +0900'
 category:
@@ -23,13 +23,13 @@ tags:
 - 新料金プラン
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20140701083033.jpg" width="300" height="303" class="slooProImg" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140701083033.jpg" width="300" height="303" class="slooProImg" /><br />
 携帯キャリア3社が通話かけ放題の料金プランを発表して、これまでの「パケット定額+通話料はかけた分だけ」というプランでの契約が難しくなっています。<br />
 <!--more--></p>
 <h2>かけない人よりかける人が得する</h2>
 <p>あまり電話をかけない人にとっては利用料金が上がってしまうことになりますが、今まで毎月2000円以上の通話料がかかっていた人や通話料を気にしてLINEなどの無料通話アプリを使っていた人にとっては嬉しい料金プランでしょう。</p>
-<p>あまり電話をかけない我が家では料金プランの変更を迷うような状況ですが、<a href="http://kotalab.com/docomo-new-plan" target="_blank">毎月かなりの通話料がかかっていた僕の実家</a>では開始日からdocomoのかけ放題に変更した6月は今までより1万円も料金が下がっていました。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20140701083036.jpg" width="548" height="492" class="slooProImg" /><br />
+<p>あまり電話をかけない我が家では料金プランの変更を迷うような状況ですが、<a href="https://kotalab.com/docomo-new-plan" target="_blank">毎月かなりの通話料がかかっていた僕の実家</a>では開始日からdocomoのかけ放題に変更した6月は今までより1万円も料金が下がっていました。<br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140701083036.jpg" width="548" height="492" class="slooProImg" /><br />
 ここ3ヶ月で一番安い時の更に3分の1の利用料金！<br />
 一番高い時と比べると2万円も下がりました。</p>
 <h2>通話かけ放題のメリット</h2>

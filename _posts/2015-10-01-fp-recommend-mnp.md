@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14912
-wordpress_url: http://kotalab.com/?p=14912
+wordpress_url: https://kotalab.com/?p=14912
 date: '2015-10-01 08:00:49 +0900'
 date_gmt: '2015-09-30 23:00:49 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - iPhone6s
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_04.jpg" alt="Fp recommend mnp 20151001 04" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_04.jpg" alt="Fp recommend mnp 20151001 04" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>おすすめなのは断然SIMフリーのiPhoneです。<br />
 なぜかというと、お金のめんでSIMフリーiPhoneの方がお得に売り買いができる可能性を秘めているからです。</p>
 <p>iPhone6s/6sPlusが発売されて今日で7日。</p>
@@ -63,7 +63,7 @@ SIMフリーiPhoneを買う前に、<span class="b">キャリアにMNPして特�
 <h2>大手キャリアにMNPしたときの毎月の維持費は？</h2>
 <p>大手キャリアで契約したときは大体7,000円くらいかかるそうです。<br />
 auではこのような料金となっていました</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_01.png" alt="Fp recommend mnp 20151001 01" width="740" height ="683" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_01.png" alt="Fp recommend mnp 20151001 01" width="740" height ="683" class="aligncenter size-large" /></p>
 <p>MNPを利用することでこの毎月の支払いを減らすことができます。</p>
 <p>MNPをすると色々な割引やキャッシュバックを受けられるので、調べてみると自分がもらえるお得な特典がみつかるかもしれません。<br />
 ・<a href="https://www.nttdocomo.co.jp/start/" target="_blank">ドコモへのお乗りかえをご検討中のお客様へ | NTTドコモ</a><br />
@@ -75,7 +75,7 @@ iPhone5sの下取りが約20,000円、<br />
 毎月割という機種代金の割引が2年間で約37,000円。</p>
 <p>これらを合わせて2年間で69,000円の割引があるので、<strong>1ヶ月あたりの支払いに換算すると約4,000円</strong>で収まるようになります。</p>
 <h2>MVNOじゃなくても意外と安くできるかも？</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_02.png" alt="Fp recommend mnp 20151001 02" width="512" height ="384" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_02.png" alt="Fp recommend mnp 20151001 02" width="512" height ="384" class="aligncenter size-large" /></p>
 <p>毎月約7,000円の維持費が必要なところでしたが、</p>
 <p>・MNPでキャリアの割引をうける<br />
 ・MNPするときにお店からキャッシュバックをもらう<br />
@@ -91,7 +91,7 @@ iPhone5sの下取りが約20,000円、<br />
 <p>これらのことがめんどうだと思えば、MVNOへMNPしてSIMフリーのiPhoneを使うのが手っ取り早いし簡単です。<br />
 SIMフリーのiPhoneを片手にAmazonでSIMカードを注文しましょう。</p>
 <p>ちなみに僕はau回線を利用していますが毎月3,000円前後しか支払っていません。</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_03.png" alt="Fp recommend mnp 20151001 03" width="621" height ="425" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/fp-recommend-mnp_20151001_03.png" alt="Fp recommend mnp 20151001 03" width="621" height ="425" class="aligncenter size-large" /></p>
 <p>&darr;Amazonでみたら評判のいいIIJmioのSIMカードが8割引で売られていました</p>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B014GZEPZA/same-22/ref=nosim/" target="_blank" ><img src="http://ecx.images-amazon.com/images/I/51FuLhODyXL._SL160_.jpg" style="border: none;" /></a></div>

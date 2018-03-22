@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3436
-wordpress_url: http://kotalab.com/?p=3436
+wordpress_url: https://kotalab.com/?p=3436
 date: '2012-10-15 12:56:17 +0900'
 date_gmt: '2012-10-15 03:56:17 +0900'
 category:
@@ -20,9 +20,9 @@ tags:
 - 読んだ
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/20daikara_121015.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/20daikara_121015.jpg" alt="" title="20daikara_121015" width="448" height="337" class="alignnone size-full wp-image-3439" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/20daikara_121015.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/20daikara_121015.jpg" alt="" title="20daikara_121015" width="448" height="337" class="alignnone size-full wp-image-3439" /></a><br />
 川北義則さんの著書「<a href="http://www.amazon.co.jp/exec/obidos/asin/4864710554/same-22/" rel="nofollow" name="booklink" target="_blank">20代から伸びる人の習慣力</a>」を読みました。@kotala_bです。<br />
-<a href="http://kotalab.com/20gene-to-do" title="上司に認められるようになる為にすること" target="_blank">以前紹介した20代でやっておきたいこと</a>に続いて、僕が読んだ川北さんの本はこれで2冊目になります。<br />
+<a href="https://kotalab.com/20gene-to-do" title="上司に認められるようになる為にすること" target="_blank">以前紹介した20代でやっておきたいこと</a>に続いて、僕が読んだ川北さんの本はこれで2冊目になります。<br />
 「伸びるな」と感じる人は20代から「何か」が違うようで、本書では「伸びる」にはどういう習慣を身につけるべきか川北さんの体験やエピソードを交えた内容が書かれています。<br />
 全5章からなる内容を各章から少しずつ紹介していきます。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">

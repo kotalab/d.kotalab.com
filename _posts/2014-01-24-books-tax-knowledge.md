@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10639
-wordpress_url: http://kotalab.com/?p=10639
+wordpress_url: https://kotalab.com/?p=10639
 date: '2014-01-24 05:56:14 +0900'
 date_gmt: '2014-01-23 20:56:14 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - 大村大次郎
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books-tax-knowledge_140124-546x409.jpg" alt="books-tax- knowledge_140124" width="546" height="409" class="alignnone size-large wp-image-10642" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-tax-knowledge_140124-546x409.jpg" alt="books-tax- knowledge_140124" width="546" height="409" class="alignnone size-large wp-image-10642" /><br />
 皆さんは国税調査官という職業をご存知だろうか？<br />
 国税調査官は確定申告を元に税金がキチンと納められたかをチェックする、いわば納税の専門家だ。<br />
 納税の専門家というと税理士という職業がある。<br />
@@ -90,6 +90,6 @@ via:P.147</p></blockquote>
 </div>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/books-sakiokurisezuni" target="_blank"><img src="http://kotalab.com/wp-content/uploads/books-sakiokurisezuni_140116-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/books-sakiokurisezuni" target="_blank">こうすれば貯金も家計簿もうまくいく6つの方法！ &ndash; 先送りせずにすぐやる人に変わる方法 佐々木正悟著</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/books-sakiokurisezuni"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/books-sakiokurisezuni" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/books-sakiokurisezuni" target="_blank"><img src="https://kotalab.com/wp-content/uploads/books-sakiokurisezuni_140116-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/books-sakiokurisezuni" target="_blank">こうすれば貯金も家計簿もうまくいく6つの方法！ &ndash; 先送りせずにすぐやる人に変わる方法 佐々木正悟著</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/books-sakiokurisezuni"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/books-sakiokurisezuni" alt="" /></span></div>
 </div>

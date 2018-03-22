@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5147
-wordpress_url: http://kotalab.com/?p=5147
+wordpress_url: https://kotalab.com/?p=5147
 date: '2012-12-30 10:13:44 +0900'
 date_gmt: '2012-12-30 01:13:44 +0900'
 category:
@@ -27,7 +27,7 @@ tags:
 - ハッシュタグ保存
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/seeq_20121110.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="seeq_20121110" width="300" height="300" class="alignnone size-medium wp-image-4103" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/seeq_20121110.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="seeq_20121110" width="300" height="300" class="alignnone size-medium wp-image-4103" /></a><br />
 朝から興奮してます。@kotala_bです。<br />
 その理由はSeeqのアップデートです！<br />
 Seeqは今回バージョン1.4になりスゴイ機能が追加されました！</p>
@@ -61,13 +61,13 @@ Seeqは今回バージョン1.4になりスゴイ機能が追加されました�
 やり方はとっても簡単です！<br />
 普段アイテムを登録するのと同じように名前とURLとアイコンを設定します。<br />
 ▼アプリのアイコン取得はこの方法がとっても簡単で便利です！<br />
-<a href="http://kotalab.com/how-to-seeq" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note" width="150" /></a><a href="http://kotalab.com/how-to-seeq" target="_blank">Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note</a><br style="clear:both;" />今回はクリスマスセールでダウンロードしたRowlineを登録してみます。<br />
+<a href="https://kotalab.com/how-to-seeq" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note" width="150" /></a><a href="https://kotalab.com/how-to-seeq" target="_blank">Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note</a><br style="clear:both;" />今回はクリスマスセールでダウンロードしたRowlineを登録してみます。<br />
 ▼アイコン、名前、URLを入力したら名前の横にあるTwitterアイコンをタップ<br />
-<a href="http://kotalab.com/wp-content/uploads/seeq121230_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/seeq121230_01-300x513.png" alt="seeq121230_01" width="300" height="513" class="alignnone size-medium wp-image-5151" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/seeq121230_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq121230_01-300x513.png" alt="seeq121230_01" width="300" height="513" class="alignnone size-medium wp-image-5151" /></a><br />
 ▼するとTwitterの投稿画面が登場します<br />
-<a href="http://kotalab.com/wp-content/uploads/seeq121230_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/seeq121230_02-300x513.jpg" alt="seeq121230_02" width="300" height="513" class="alignnone size-medium wp-image-5149" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/seeq121230_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq121230_02-300x513.jpg" alt="seeq121230_02" width="300" height="513" class="alignnone size-medium wp-image-5149" /></a><br />
 ▼右上の送信ボタンをタップ<br />
-<a href="http://kotalab.com/wp-content/uploads/seeq121230_03.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/seeq121230_03-300x513.png" alt="seeq121230_03" width="300" height="513" class="alignnone size-medium wp-image-5150" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/seeq121230_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq121230_03-300x513.png" alt="seeq121230_03" width="300" height="513" class="alignnone size-medium wp-image-5150" /></a><br />
 これで完了！<br />
 ▼Tweetされたか確認してみました。</p>
 <blockquote class="twitter-tweet" lang="ja"><p><a href="https://twitter.com/search/%23Seeqに追加">#Seeqに追加</a>Rowline<a href="http://t.co/6NX5cToi" title="http://tinyurl.com/cp24gnh">tinyurl.com/cp24gnh</a>添付のアイコン画像をコピーしてから上記URLを開いてください。 <a href="http://t.co/2zqnuAWC" title="http://twitter.com/kotala_b/status/285166280540053504/photo/1">twitter.com/kotala_b/statu&hellip;</a></p>
@@ -90,13 +90,13 @@ Seeqは今回バージョン1.4になりスゴイ機能が追加されました�
 ということでハッシュタグつきのTweetを保存する方法もご紹介します。</p>
 <h3>SOICHA/jを使ってEvernoteに保存</h3>
 <p>▼TwitterクライアントのSOICHA/jを使ってEvernoteに保存方法<br />
-<a href="http://kotalab.com/evernote-soicha" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/soicha_120925.png" alt="ハッシュタグの検索結果を保存！SOICHAとEvernoteの合わせワザが便利！ | kotala's note" width="150" /></a><a href="http://kotalab.com/evernote-soicha" target="_blank">ハッシュタグの検索結果を保存！SOICHAとEvernoteの合わせワザが便利！ | kotala's note</a><br style="clear:both;" /><strong>この方法はとても便利なのですが、SOICHA/j自体がiOS6に対応しきれていないという問題もあります。<br />
+<a href="https://kotalab.com/evernote-soicha" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/soicha_120925.png" alt="ハッシュタグの検索結果を保存！SOICHAとEvernoteの合わせワザが便利！ | kotala's note" width="150" /></a><a href="https://kotalab.com/evernote-soicha" target="_blank">ハッシュタグの検索結果を保存！SOICHAとEvernoteの合わせワザが便利！ | kotala's note</a><br style="clear:both;" /><strong>この方法はとても便利なのですが、SOICHA/j自体がiOS6に対応しきれていないという問題もあります。<br />
 ハッシュタグを保存する方法自体はまだ使えました！</strong><br />
 ▼試しに「#seeqに追加」を保存したノートを共有中です<br />
 <a href="https://www.evernote.com/shard/s110/sh/660dfac5-c757-47fd-8402-c228209a36b7/6ca0be3658d2d99d9f10628ed0e955be" title="seeqに追加の共有ノート" target="_blank">「#seeqに追加」の共有ノート</a><br />
 <strong>この方法は定期的にSOICHAを起動して自分で保存する必要があります。</strong><br />
 ▼僕は忘れないようにDueに登録しました。<br />
-<a href="http://kotalab.com/wp-content/uploads/seeq121230_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/seeq121230_04-300x513.jpg" alt="seeq121230_04" width="300" height="513" class="alignnone size-medium wp-image-5153" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/seeq121230_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq121230_04-300x513.jpg" alt="seeq121230_04" width="300" height="513" class="alignnone size-medium wp-image-5153" /></a></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsoicha-j-for-twitter%252Fid424561074%253Fmt%253D8%2526uo%253D4"><img src="http://a1356.phobos.apple.com/us/r1000/109/Purple/v4/4f/1c/8c/4f1c8c4d-0b3d-f343-2d3b-9943bfe6ab2a/mzl.liyifvoa.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsoicha-j-for-twitter%252Fid424561074%253Fmt%253D8%2526uo%253D4">SOICHA/j for Twitter</span></div>

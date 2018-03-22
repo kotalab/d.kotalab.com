@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3507
-wordpress_url: http://kotalab.com/?p=3507
+wordpress_url: https://kotalab.com/?p=3507
 date: '2012-10-19 21:19:43 +0900'
 date_gmt: '2012-10-19 12:19:43 +0900'
 category:
@@ -22,25 +22,25 @@ tags:
 - 横浜
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/iphonecase_121019.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019.jpg" alt="" title="iphonecase_121019" width="448" height="336" class="alignnone size-full wp-image-3532" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/iphonecase_121019.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019.jpg" alt="" title="iphonecase_121019" width="448" height="336" class="alignnone size-full wp-image-3532" /></a><br />
 iPhoneケース展に行ってきました。@kotala_bです。<br />
 今日から3日間、横浜の赤レンガ倉庫で開催中のiPhoneケース展に行ってきました！<br />
 <a href="http://iphone-caseten.com/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://iphone-caseten.com/" alt="第6回iPhoneケース展 - iPhone Creative Festa 2012 - 100人のアーティストが作る世界に1つのアート・ケースギャラリー！" width="150" height="130" /></a><a href="http://iphone-caseten.com/" target="_blank">第6回iPhoneケース展 - iPhone Creative Festa 2012 - 100人のアーティストが作る世界に1つのアート・ケースギャラリー！</a><a href="http://b.hatena.ne.jp/entry/http://iphone-caseten.com/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://iphone-caseten.com/" alt="" /></a><br style="clear:both;" />色々なケースがあって面白かったです！<br />
 <!--more--></p>
 <h2>桜木町から赤レンガ倉庫へ</h2>
 <p>僕は桜木町駅から歩いて赤レンガ倉庫へ向かいました。<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_01.jpg" alt="" title="iphonecase_121019_01" width="448" height="336" class="alignnone size-full wp-image-3513" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_01.jpg" alt="" title="iphonecase_121019_01" width="448" height="336" class="alignnone size-full wp-image-3513" /></a><br />
 天気がよく散歩日和！<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_02.jpg" alt="" title="iphonecase_121019_02" width="448" height="336" class="alignnone size-full wp-image-3514" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_02.jpg" alt="" title="iphonecase_121019_02" width="448" height="336" class="alignnone size-full wp-image-3514" /></a><br />
 赤レンガ倉庫へ行く途中にあるワールドポーターズで昼ごはんを食べました。<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_03.jpg" alt="" title="iphonecase_121019_03" width="448" height="448" class="alignnone size-full wp-image-3515" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_03.jpg" alt="" title="iphonecase_121019_03" width="448" height="448" class="alignnone size-full wp-image-3515" /></a><br />
 腹ごしらえをしていざ赤レンガ倉庫へ！<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_04.jpg" alt="" title="iphonecase_121019_04" width="448" height="336" class="alignnone size-full wp-image-3516" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_04.jpg" alt="" title="iphonecase_121019_04" width="448" height="336" class="alignnone size-full wp-image-3516" /></a><br />
 赤レンガ倉庫をiPhone5でパノラマ撮影！<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_05.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_05.jpg" alt="" title="iphonecase_121019_05" width="448" height="252" class="alignnone size-full wp-image-3517" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_05.jpg" alt="" title="iphonecase_121019_05" width="448" height="252" class="alignnone size-full wp-image-3517" /></a><br />
 こういう時にパノラマ撮影が役立ちます！<br />
 赤レンガ倉庫へ近づいて行くとiPhoneケース展の看板が！<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_06.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_06.jpg" alt="" title="iphonecase_121019_06" width="448" height="336" class="alignnone size-full wp-image-3518" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_06.jpg" alt="" title="iphonecase_121019_06" width="448" height="336" class="alignnone size-full wp-image-3518" /></a></p>
 <h2>1階はマーケットゾーン</h2>
 <p>1階ではアプリを紹介するブースや、市販されているiPhoneケースが特別価格で安く販売されていました。<br />
 中には発売前のiPadminiケースまで置いてありました！<br />
@@ -51,24 +51,24 @@ iPhoneケース展に行ってきました。@kotala_bです。<br />
 基本的にお触りはNGでしたが、中には触って確かめてくださいと注意書きがあるモノも展示されていました。<br />
 気になったケースをいくつかご紹介。<br />
 ▼背景とケースが一体化！<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_07.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_07.jpg" alt="" title="iphonecase_121019_07" width="448" height="336" class="alignnone size-full wp-image-3519" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_07.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_07.jpg" alt="" title="iphonecase_121019_07" width="448" height="336" class="alignnone size-full wp-image-3519" /></a><br />
 近くでよーく見ないと分からないくらい背景と同化していました。<br />
 スゴイ！<br />
 ▼ミニ四駆世代にはたまらない一品！レッツ&amp;ゴーのマグナムセイバーとソニックセイバー！<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_08.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_08.jpg" alt="" title="iphonecase_121019_08" width="448" height="336" class="alignnone size-full wp-image-3520" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_08.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_08.jpg" alt="" title="iphonecase_121019_08" width="448" height="336" class="alignnone size-full wp-image-3520" /></a><br />
 参考：<a href="http://ja.wikipedia.org/wiki/%E7%88%86%E8%B5%B0%E5%85%84%E5%BC%9F%E3%83%AC%E3%83%83%E3%83%84%26%E3%82%B4%E3%83%BC!!" target="_blank">爆走兄弟レッツ&amp;ゴー!! - Wikipedia</a><br />
 ▼こちらは体内の様子をケースの模様にしたものです。<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_09.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_09.jpg" alt="" title="iphonecase_121019_09" width="448" height="336" class="alignnone size-full wp-image-3521" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_09.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_09.jpg" alt="" title="iphonecase_121019_09" width="448" height="336" class="alignnone size-full wp-image-3521" /></a><br />
 一見なんともないんですが、横からのぞいてみると額から反射してケースの内側が見えます。<br />
 個人的にはこういう普段は見えないところにもこだわっている作品が大好きです。<br />
 ▼KingOfPop！マイケルジャクソンのデコケース！<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_12.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_12.jpg" alt="" title="iphonecase_121019_12" width="448" height="336" class="alignnone size-full wp-image-3533" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_12.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_12.jpg" alt="" title="iphonecase_121019_12" width="448" height="336" class="alignnone size-full wp-image-3533" /></a><br />
 ▼隣にもう1つありました。カッコイイ！<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_13.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_13.jpg" alt="" title="iphonecase_121019_13" width="448" height="336" class="alignnone size-full wp-image-3525" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_13.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_13.jpg" alt="" title="iphonecase_121019_13" width="448" height="336" class="alignnone size-full wp-image-3525" /></a><br />
 ▼写真展の様子。<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_11.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_11.jpg" alt="" title="iphonecase_121019_11" width="448" height="336" class="alignnone size-full wp-image-3523" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_11.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_11.jpg" alt="" title="iphonecase_121019_11" width="448" height="336" class="alignnone size-full wp-image-3523" /></a><br />
 ▼写真展の方には@taxaboxoさんの展示もありました！<br />
-<a href="http://kotalab.com/wp-content/uploads/iphonecase_121019_10.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphonecase_121019_10.jpg" alt="" title="iphonecase_121019_10" width="448" height="336" class="alignnone size-full wp-image-3522" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphonecase_121019_10.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphonecase_121019_10.jpg" alt="" title="iphonecase_121019_10" width="448" height="336" class="alignnone size-full wp-image-3522" /></a><br />
 写真展に出展していた@taxaboxoさんのブログ「たぁぼぉ録」は<a href="http://taxaboxo.com/" title="たぁぼぉ録" target="_blank">こちら</a><br />
 <a href="http://taxaboxo.com/2012/10/15/iphonecreativefesta2012-display-news/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://taxaboxo.com/2012/10/15/iphonecreativefesta2012-display-news/" alt="「第6回iPhoneケース展 -iPhone Creative Festa2012-」の&rdquo;iPhone写真展&rdquo;枠で出展します！ | たぁぼぉ録" width="150" height="130" /></a><a href="http://taxaboxo.com/2012/10/15/iphonecreativefesta2012-display-news/" target="_blank">「第6回iPhoneケース展 -iPhone Creative Festa2012-」の&rdquo;iPhone写真展&rdquo;枠で出展します！ | たぁぼぉ録</a><a href="http://b.hatena.ne.jp/entry/http://taxaboxo.com/2012/10/15/iphonecreativefesta2012-display-news/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://taxaboxo.com/2012/10/15/iphonecreativefesta2012-display-news/" alt="" /></a><br style="clear:both;" />出展した経緯についても書かれています。</p>
 <h2>まとめ</h2>

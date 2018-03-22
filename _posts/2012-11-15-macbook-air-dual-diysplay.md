@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4230
-wordpress_url: http://kotalab.com/?p=4230
+wordpress_url: https://kotalab.com/?p=4230
 date: '2012-11-15 12:07:49 +0900'
 date_gmt: '2012-11-15 03:07:49 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/dualdisplay_20121115.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/dualdisplay_20121115.jpg" alt="" title="dualdisplay_20121115" width="448" height="448" class="alignnone size-full wp-image-4236" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/dualdisplay_20121115.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dualdisplay_20121115.jpg" alt="" title="dualdisplay_20121115" width="448" height="448" class="alignnone size-full wp-image-4236" /></a><br />
 多い時は4つのディスプレイを使ってました。@kotala_bです。<br />
 ディスプレイが壊れたり邪魔になったりして3つ、2つと減っていきMacBookAirをメインで使うようになってからはMacBookAirの画面だけで作業をしていました。<br />
 週1で動かすwindowsPCではディスプレイを2つ使い、MacBookAirはそのままの状態。<br />
@@ -57,9 +57,9 @@ MacBookAirの13インチとデュアルディスプレイとの違いに始め�
 <p>まず環境設定からディスプレイを選択。<br />
 そして調整タブを表示させる。<br />
 ▼メイン画面の方にある白いメニューバーを選択してメイン画面にしたい方へドラッグ<br />
-<a href="http://kotalab.com/wp-content/uploads/dualdisplay_20121115_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/dualdisplay_20121115_01.jpg" alt="" title="dualdisplay_20121115_01" width="448" height="314" class="alignnone size-full wp-image-4231" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/dualdisplay_20121115_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dualdisplay_20121115_01.jpg" alt="" title="dualdisplay_20121115_01" width="448" height="314" class="alignnone size-full wp-image-4231" /></a><br />
 ▼するとメニューバーが移動してメイン・サブが切り替わる<br />
-<a href="http://kotalab.com/wp-content/uploads/dualdisplay_20121115_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/dualdisplay_20121115_02.jpg" alt="" title="dualdisplay_20121115_02" width="448" height="314" class="alignnone size-full wp-image-4232" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/dualdisplay_20121115_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dualdisplay_20121115_02.jpg" alt="" title="dualdisplay_20121115_02" width="448" height="314" class="alignnone size-full wp-image-4232" /></a><br />
 これでメインディスプレイが切り替わり、4本指スワイプでアプリを切り替えた際も大きい方のディスプレイで表示されるようになりました。</p>
 <h2>最後に</h2>
 <p>MacBookAirのディスプレイにはToodledoを表示させいつでもタスクを確認出来るようにしました。<br />

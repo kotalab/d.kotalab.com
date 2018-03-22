@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2750
-wordpress_url: http://kotalab.com/?p=2750
+wordpress_url: https://kotalab.com/?p=2750
 date: '2012-09-14 09:33:11 +0900'
 date_gmt: '2012-09-14 00:33:11 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - デザリング
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/iphone5Tethering_120914.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphone5Tethering_120914.jpg" alt="" title="iphone5Tethering_120914" width="448" height="597" class="alignnone size-full wp-image-2752" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/iphone5Tethering_120914.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5Tethering_120914.jpg" alt="" title="iphone5Tethering_120914" width="448" height="597" class="alignnone size-full wp-image-2752" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/paul_irish/3656734759/" target="_blank">iPhone -> eee pc tether.</a> / paul_irish</span><br />
 iPhone5が待ち遠しいです。@kotala_bです。<br />
 iPhone5ではauが<strong>デザリング</strong>に対応するということで話題になっています。<br />

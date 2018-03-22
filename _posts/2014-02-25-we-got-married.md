@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10977
-wordpress_url: http://kotalab.com/?p=10977
+wordpress_url: https://kotalab.com/?p=10977
 date: '2014-02-25 07:56:59 +0900'
 date_gmt: '2014-02-24 22:56:59 +0900'
 category:
@@ -19,14 +19,14 @@ category:
 tags: []
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/image1-546x409.jpg" alt="" width="546" height="409" class="alignnone size-large wp-image-10980" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/image1-546x409.jpg" alt="" width="546" height="409" class="alignnone size-large wp-image-10980" /><br />
 実感もまだ湧いてこないし、今日もいつも通りの朝でした。<br />
 婚姻届を提出しただけなので、すぐに何か変わるわけじゃありません。<br />
 ちょっとずつ何かが変わっていくのでしょう。<br />
 1日1日の小さな変化にはあまり気づかないけど、振り返ってみた時に大きな変化になっているんだと思います。<br />
 <!--more--></p>
 <h2>育ててくれてありがとう！</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/image-546x409.jpg" alt="" width="546" height="409" class="alignnone size-large wp-image-10979" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/image-546x409.jpg" alt="" width="546" height="409" class="alignnone size-large wp-image-10979" /><br />
 両親に報告した時はすごい喜んでもらえました。<br />
 その顔を見たら、ようやく少しだけ親孝行できたかなと思います。<br />
 ここまで育ててくれてありがとう！</p>

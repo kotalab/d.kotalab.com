@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6109
-wordpress_url: http://kotalab.com/?p=6109
+wordpress_url: https://kotalab.com/?p=6109
 date: '2013-02-11 16:30:36 +0900'
 date_gmt: '2013-02-11 07:30:36 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - G-SHOCCK
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/apple_130211-448x300.jpg" alt="apple_130211" width="448" height="300" class="alignnone size-large wp-image-6113" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/apple_130211-448x300.jpg" alt="apple_130211" width="448" height="300" class="alignnone size-large wp-image-6113" /><br />
 Appleの新製品が気になります。@kotala_bです。<br />
 ウォールストリートジャーナルで気になる記事を目にしました。<br />
 <a href="http://jp.wsj.com/article/SB10001424127887324650504578296682346212980.html" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://jp.wsj.com/article/SB10001424127887324650504578296682346212980.html" alt="アップル、腕時計のような機器を試験的に開発中＝関係筋 - WSJ.com" width="150" height="130" /></a><a href="http://jp.wsj.com/article/SB10001424127887324650504578296682346212980.html" target="_blank">アップル、腕時計のような機器を試験的に開発中＝関係筋 - WSJ.com</a><a href="http://b.hatena.ne.jp/entry/http://jp.wsj.com/article/SB10001424127887324650504578296682346212980.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://jp.wsj.com/article/SB10001424127887324650504578296682346212980.html" alt="" /></a><br style="clear:both;" />果たしてどんなモノが出来上がるのでしょうか。<br />

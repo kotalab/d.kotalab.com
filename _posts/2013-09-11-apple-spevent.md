@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 8592
-wordpress_url: http://kotalab.com/?p=8592
+wordpress_url: https://kotalab.com/?p=8592
 date: '2013-09-11 03:31:00 +0900'
 date_gmt: '2013-09-10 18:31:00 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - iPhone 5c
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/applespevent_130911_01-546x425.jpg" alt="applespevent_130911_01" width="546" height="425" class="alignnone size-large wp-image-8593" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_01-546x425.jpg" alt="applespevent_130911_01" width="546" height="425" class="alignnone size-large wp-image-8593" /><br />
 iPhone5Sが早く欲しい！こたら（@kotala_b）です。<br />
 日本時間の9月11日午前2時からAppleのスペシャルイベントが行われました！<br />
 イベント開始数時間前からワクワクしっぱなし！<br />
@@ -35,14 +35,14 @@ iPhone5Sが早く欲しい！こたら（@kotala_b）です。<br />
 <p>iPhone5Sから日本ではNTT docomoから発売されることが決定しました！<br />
 これで日本の<strong>3キャリア全てからiPhoneが販売されることになります。</strong></p>
 <h2>iOS 7</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/applespevent_130911_02-546x352.png" alt="applespevent_130911_02" width="546" height="352" class="alignnone size-large wp-image-8661" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_02-546x352.png" alt="applespevent_130911_02" width="546" height="352" class="alignnone size-large wp-image-8661" /><br />
 以前発表されたiOS 7が9月18日からダウンロード可能に！<br />
 iPhone 4以降、iPad 2以降、iPad mini、第5世代iPod touch以降の端末で利用可能。</p>
 <h3>iWorkが無料に！</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/applespevent_130911_03-546x363.jpg" alt="applespevent_130911_03" width="546" height="363" class="alignnone size-large wp-image-8658" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_03-546x363.jpg" alt="applespevent_130911_03" width="546" height="363" class="alignnone size-large wp-image-8658" /><br />
 Keynote、Pages、Numbers、iPhotoなどが<strong>iOS7では無料になります！</strong></p>
 <h2>iPhone 5S</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /><br />
 約1年ぶりの新型iPhoneの登場！<br />
 新色ゴールドを加えた3色展開で、発売日は9月20日！<br />
 強化されたのはカメラとセキュリティ機能の向上！</p>
@@ -55,7 +55,7 @@ Keynote、Pages、Numbers、iPhotoなどが<strong>iOS7では無料になりま�
 ホームボタンの中に指紋認証機能が搭載され、<br />
 画面ロックだけじゃなく<strong>iTunesStoreの購入などにも指紋認証機能が使える</strong>ようになります！</p>
 <h2>iPhone 5C</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/applespevent_130911_04-546x285.png" alt="applespevent_130911_04" width="546" height="285" class="alignnone size-large wp-image-8660" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_04-546x285.png" alt="applespevent_130911_04" width="546" height="285" class="alignnone size-large wp-image-8660" /><br />
 廉価版iPhone 5Cが新たに登場しました！<br />
 ブルー、レッド、イエロー、グリーン、ホワイトの5色展開。<br />
 気になるお値段は16GBが99$、32GBが199$。<br />
@@ -65,11 +65,11 @@ Keynote、Pages、Numbers、iPhotoなどが<strong>iOS7では無料になりま�
 僕はiPhone 5S買います！<br />
 さあ何色にしようかな！<br />
 iPhone 5s、iPhone 5c関連エントリー：<br />
-<a href="http://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
-<a href="http://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
-<a href="http://kotalab.com/how-to-buy-iphone-5s-iphone-5c" target="_blank">iPhone 5s、iPhone 5Cはどうやって買えばいい？iPhone購入方法は？</a><br />
-<a href="http://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
-<a href="http://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
+<a href="https://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
+<a href="https://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
+<a href="https://kotalab.com/how-to-buy-iphone-5s-iphone-5c" target="_blank">iPhone 5s、iPhone 5Cはどうやって買えばいい？iPhone購入方法は？</a><br />
+<a href="https://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
+<a href="https://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31KsxIFmn0L._SL160_.jpg" style="border: none;" /></a></div>

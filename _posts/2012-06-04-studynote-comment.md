@@ -19,7 +19,7 @@ tags:
 - Android
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/comment_1206041.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/comment_1206041.jpg" alt="" title="comment_120604" width="400" height="300" class="alignnone size-full wp-image-1242" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/comment_1206041.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/comment_1206041.jpg" alt="" title="comment_120604" width="400" height="300" class="alignnone size-full wp-image-1242" /></a><br />
 初めてのコメントが届きました！@kotala_bです。<br />
 なんと初コメントを<a href="http://studynote.jp" target="_blank">Studynote</a>運営会社代表の廣瀬さん(@cshiroseさん)から頂きました！<br />
 <!--more--></p>

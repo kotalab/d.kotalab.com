@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6895
-wordpress_url: http://kotalab.com/?p=6895
+wordpress_url: https://kotalab.com/?p=6895
 date: '2013-04-22 22:32:49 +0900'
 date_gmt: '2013-04-22 13:32:49 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - アボカド
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/poteto_130422-448x336.jpg" alt="poteto_130422" width="448" height="336" class="alignnone size-large wp-image-6896" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/poteto_130422-448x336.jpg" alt="poteto_130422" width="448" height="336" class="alignnone size-large wp-image-6896" /><br />
 じゃがいもを大量に買ったら食べきる前に芽が出てきて困ったことがありました。@kotala_bです。<br />
 じゃがいもの保存方法を調べていたら長持ちさせる方法がわかりました！<br />
 長持ちさせるポイントはエチレンガスです！<br />
@@ -58,5 +58,5 @@ comments: []
 <p>バナナは1本1本でエチレンガスを出すので、房の状態で置いておくと早く熟れてしまいます。<br />
 バナナを長持ちさせたい時は1本ずつバラバラにして置いておきましょう！</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/amazon-teiki-otokubin" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/amazonteikibin_130410-448x336.jpg" alt="ラックスやダヴが安い！Amazonの定期おトク便を使うと初回30%オフキャンペーン実施中！ | kotala's note" width="150" /></a><a href="http://kotalab.com/amazon-teiki-otokubin" target="_blank">ラックスやダヴが安い！Amazonの定期おトク便を使うと初回30%オフキャンペーン実施中！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/key-how-to-use" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/key_130227-448x336.jpg" alt="あなたの鍵は大丈夫ですか？正しい合鍵の使い方！ | kotala's note" width="150" /></a><a href="http://kotalab.com/key-how-to-use" target="_blank">あなたの鍵は大丈夫ですか？正しい合鍵の使い方！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/amazon-teiki-otokubin" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/amazonteikibin_130410-448x336.jpg" alt="ラックスやダヴが安い！Amazonの定期おトク便を使うと初回30%オフキャンペーン実施中！ | kotala's note" width="150" /></a><a href="https://kotalab.com/amazon-teiki-otokubin" target="_blank">ラックスやダヴが安い！Amazonの定期おトク便を使うと初回30%オフキャンペーン実施中！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/key-how-to-use" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/key_130227-448x336.jpg" alt="あなたの鍵は大丈夫ですか？正しい合鍵の使い方！ | kotala's note" width="150" /></a><a href="https://kotalab.com/key-how-to-use" target="_blank">あなたの鍵は大丈夫ですか？正しい合鍵の使い方！ | kotala's note</a><br style="clear:both;" /></p>

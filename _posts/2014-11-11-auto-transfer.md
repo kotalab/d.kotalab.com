@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13328
-wordpress_url: http://kotalab.com/?p=13328
+wordpress_url: https://kotalab.com/?p=13328
 date: '2014-11-11 07:00:18 +0900'
 date_gmt: '2014-11-10 22:00:18 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 自動振込
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/auto-transfer_20141111-780x585.jpg" alt="auto-transfer_20141111" width="780" height="585" class="aligncenter size-large wp-image-13590" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/auto-transfer_20141111-780x585.jpg" alt="auto-transfer_20141111" width="780" height="585" class="aligncenter size-large wp-image-13590" /><br />
 振込手数料を気にしたことがある人、毎月決まった振込があってそのためにATMに並ぶのが嫌な人、この記事を最後まで読んだらもしかするとその悩みを解決できるかもしれません。</p>
 <p>ファイナンシャルプランナーの僕がやっている家賃の振込を<strong>銀行（ATM）へ行かずに、手数料0円でしかも自動で振込</strong>する方法を紹介したいと思います。<br />
 この方法を実践するとお金と時間が節約できますよ！<br />

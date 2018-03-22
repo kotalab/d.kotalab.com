@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10175
-wordpress_url: http://kotalab.com/?p=10175
+wordpress_url: https://kotalab.com/?p=10175
 date: '2013-11-15 14:43:55 +0900'
 date_gmt: '2013-11-15 05:43:55 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - 2級
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/passtheexam_131115_01-546x361.png" alt="passtheexam_131115_01" width="546" height="361" class="alignnone size-large wp-image-10185" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/passtheexam_131115_01-546x361.png" alt="passtheexam_131115_01" width="546" height="361" class="alignnone size-large wp-image-10185" /><br />
 2級ファイナンシャル･プランニング技能士になりました。こたら（@kotala_b）です。<br />
 将来の人生設計（ライフプラン）を作ること、そのライフプランを達成する手助けをすること。これらを仕事にするファイナンシャルプランナー（以下FP）という存在を知り、僕はFPになる決意をしました。<br />
 FPについて調べてみるとファイナンシャル･プランニング技能士という資格があり、FPのことを手っ取り早く勉強するにはファイナンシャル･プランニング技能士になることだと思い、資格を取ることにしました。<br />
@@ -37,7 +37,7 @@ FPについて調べてみるとファイナンシャル･プランニング技
 満点じゃなくても合格点をクリアできれば試験合格です。<br />
 試験日は9月8日だったので、期限を決めて<strong>「9月8日までに合格点を取れるようになる」</strong>ことをゴールとしました。</p>
 <h2>ゴールに沿った予定を組む</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/passtheexam_131115_07-546x261.png" alt="passtheexam_131115_07" width="546" height="261" class="alignnone size-large wp-image-10193" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/passtheexam_131115_07-546x261.png" alt="passtheexam_131115_07" width="546" height="261" class="alignnone size-large wp-image-10193" /><br />
 ゴールが決まったら次はどうやってそれを達成するかです。<br />
 身近にFPになってる人がいれば勉強法を聞いたりできましたが、僕の周りにはFPになってる人は誰もいません。<br />
 そこで試験対策としてどこかスクールに通うか通信教育を利用することに決めました。<br />
@@ -46,7 +46,7 @@ FPについて調べてみるとファイナンシャル･プランニング技
 FPになりたいと思ってからだいたい1ヶ月後の3月7日にユーキャンの支払いを済ませ、3月19日からユーキャンのテキストで勉強をスタートしました。<br />
 <strong>ユーキャンのテキストを始める前に過去問を解いて</strong>勉強開始前に得意・不得意分野や合格点、問題形式の把握し、ゴールから逆算してどうやったら合格できるかを考えました。</p>
 <h3>テキストは2ヶ月で終わらせる</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/passtheexam_131115_09-546x409.jpg" alt="passtheexam_131115_09" width="546" height="409" class="alignnone size-large wp-image-10195" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/passtheexam_131115_09-546x409.jpg" alt="passtheexam_131115_09" width="546" height="409" class="alignnone size-large wp-image-10195" /><br />
 ユーキャンの通信教育は出題範囲に対応したテキストが6冊あり、1冊終わるごとに添削問題を提出する仕組みになっています。<br />
 そこでテキストの読み込みと添削問題にかける時間を約2ヶ月間、5月までに終わらせることにしました。<br />
 74日間で6冊分ですから、1冊当たり約12日というペースです。<br />
@@ -67,14 +67,14 @@ FPになりたいと思ってからだいたい1ヶ月後の3月7日にユーキ
 ギュウギュウに予定を詰めても破綻することがわかってたので、無理な予定を組まず1日30分程度の時間で済むようにしました。<br />
 仕事だって5日働いたら2日休みます。僕は試験勉強にも積極的に休みを取り入れました。<br />
 6月からの勉強はこんな感じ。<br />
-<img src="http://kotalab.com/wp-content/uploads/passtheexam_131115_03-300x532.png" alt="passtheexam_131115_03" width="300" height="532" class="alignnone size-medium wp-image-10187" /><br />
-<img src="http://kotalab.com/wp-content/uploads/passtheexam_131115_04-300x532.png" alt="passtheexam_131115_04" width="300" height="532" class="alignnone size-medium wp-image-10188" /><br />
-<img src="http://kotalab.com/wp-content/uploads/passtheexam_131115_05-300x532.png" alt="passtheexam_131115_05" width="300" height="532" class="alignnone size-medium wp-image-10189" /><br />
-<img src="http://kotalab.com/wp-content/uploads/passtheexam_131115_06-300x532.png" alt="passtheexam_131115_06" width="300" height="532" class="alignnone size-medium wp-image-10190" /><br />
+<img src="https://kotalab.com/wp-content/uploads/passtheexam_131115_03-300x532.png" alt="passtheexam_131115_03" width="300" height="532" class="alignnone size-medium wp-image-10187" /><br />
+<img src="https://kotalab.com/wp-content/uploads/passtheexam_131115_04-300x532.png" alt="passtheexam_131115_04" width="300" height="532" class="alignnone size-medium wp-image-10188" /><br />
+<img src="https://kotalab.com/wp-content/uploads/passtheexam_131115_05-300x532.png" alt="passtheexam_131115_05" width="300" height="532" class="alignnone size-medium wp-image-10189" /><br />
+<img src="https://kotalab.com/wp-content/uploads/passtheexam_131115_06-300x532.png" alt="passtheexam_131115_06" width="300" height="532" class="alignnone size-medium wp-image-10190" /><br />
 1日短い時で20分から長くても1時間の勉強をして、仕事が休みの日だから長時間勉強するということはありませんでした。<br />
 コツコツとマイペースで勉強しました。</p>
 <h2>勉強することよりも仕組みが大切</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/passtheexam_131115_08-546x409.jpg" alt="passtheexam_131115_08" width="546" height="409" class="alignnone size-large wp-image-10194" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/passtheexam_131115_08-546x409.jpg" alt="passtheexam_131115_08" width="546" height="409" class="alignnone size-large wp-image-10194" /><br />
 僕が一番重要だと思ったのは勉強することよりも勉強をする仕組みを作ることでした。<br />
 期限がある中で合格するために必要な手段を選択し利用すること。<br />
 覚えたことを定着させるためにアウトプットすること。<br />
@@ -88,19 +88,19 @@ FPになりたいと思ってからだいたい1ヶ月後の3月7日にユーキ
 ずっとテキストを読んで覚えたつもりになっていても、過去問を解いてみると意外に抜けてる部分が多かったです。<br />
 覚えたことを定着させるためには問題を沢山解いてアウトプットすることが必要でした。</p>
 <h3>優先順位をつける</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/passtheexam_131115_02-300x532.png" alt="passtheexam_131115_02" width="300" height="532" class="alignnone size-medium wp-image-10186" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/passtheexam_131115_02-300x532.png" alt="passtheexam_131115_02" width="300" height="532" class="alignnone size-medium wp-image-10186" /><br />
 試験勉強を始めようと思ったら、勉強時間を確保するために今までやってた「何か」をやめなきゃいけません。<br />
 「勉強する」ということの優先順位を上げ、他のことの優先順位を下げていきました。<br />
 僕が真っ先に試験勉強の代わりに減らしたのは読書時間です。<br />
 毎月4冊という読書の目標がありましたが、3月から5月までは読書時間を減らしテキストを読む時間を増やしました。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/readingpace" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/readingpace" target="_blank">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/readingpace" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/readingpace" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/readingpace" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/readingpace" target="_blank">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/readingpace" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/readingpace" alt="" /></a></div>
 </div>
 <p>そして7月からは試験勉強の優先順位を一番にしました。それまで最優先だったブログ更新の優先順位を一時的に下げ、417日間連続更新していたブログの連続更新をやめて書ける時に書くようにしました。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/the-order-of-priority" target="_blank"><img src="http://kotalab.com/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/the-order-of-priority" target="_blank">時間は作るもの！物事に優先順位をつけて行動しよう！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/the-order-of-priority"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/the-order-of-priority" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/the-order-of-priority" target="_blank"><img src="https://kotalab.com/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/the-order-of-priority" target="_blank">時間は作るもの！物事に優先順位をつけて行動しよう！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/the-order-of-priority"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/the-order-of-priority" alt="" /></span></div>
 </div>
 <p>ブログ更新に関しては、朝ごはんを食べたらすぐにブログを書くというくらい優先順位を上げていたので、それを勉強に置き換えたら自ずと勉強することが毎日の習慣になっていました。</p>
 <h3>人間は習慣の塊</h3>

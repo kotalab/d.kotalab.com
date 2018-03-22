@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 12592
-wordpress_url: http://kotalab.com/?p=12592
+wordpress_url: https://kotalab.com/?p=12592
 date: '2014-04-19 11:06:38 +0900'
 date_gmt: '2014-04-19 02:06:38 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - URL変更
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/googleplus-costomurl_140419.jpg" alt="Googleplus costomurl 140419" title="googleplus-costomurl_140419.jpg" border="0" width="548" height="365" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/googleplus-costomurl_140419.jpg" alt="Googleplus costomurl 140419" title="googleplus-costomurl_140419.jpg" border="0" width="548" height="365" /><br />
 Google+の自分のページのURL見たことありますか？</p>
 <p>初期状態だと「<a href="https://plus.google.com/+tetsuyakotara/" target="_blank">https://plus.google.com/118339922859389908783/</a>」みたいに、数字が羅列されただけのアドレスになっています。<br><br />
 これじゃ誰かに教える時にすごくわかりづらい！</p>
@@ -50,15 +50,15 @@ URLの変更方法をご紹介していきます！<br />
 <h2>Google+のURLを変更する方法</h2>
 <p>Google+のURLを変更するには、まず自分のページにアクセスします。<br />
 プロフィールなどを入力する、基本情報タブを開きます<br />
-<img src="http://kotalab.com/wp-content/uploads/googleplus-costomurl_140419_01.png" alt="Googleplus costomurl 140419 01" title="googleplus-costomurl_140419_01.png" border="0" width="548" height="282" /></p>
+<img src="https://kotalab.com/wp-content/uploads/googleplus-costomurl_140419_01.png" alt="Googleplus costomurl 140419 01" title="googleplus-costomurl_140419_01.png" border="0" width="548" height="282" /></p>
 <p>基本情報ページの下の方にある「リンク」からGoogle+のURLを編集しましょう！</p>
-<p><img src="http://kotalab.com/wp-content/uploads/googleplus-costomurl_140419_021.png" alt="Googleplus costomurl 140419 02" title="googleplus-costomurl_140419_02.png" border="0" width="548" height="298" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/googleplus-costomurl_140419_021.png" alt="Googleplus costomurl 140419 02" title="googleplus-costomurl_140419_02.png" border="0" width="548" height="298" /></p>
 <h3>Google+のURLを1度変更した後は変更できない！</h3>
 <p>Google+のURLを変更した後はこんな感じで表示されるようになります。<br />
-<img src="http://kotalab.com/wp-content/uploads/googleplus-costomurl_140419_03.png" alt="Googleplus costomurl 140419 03" title="googleplus-costomurl_140419_03.png" border="0" width="548" height="331" /><br />
+<img src="https://kotalab.com/wp-content/uploads/googleplus-costomurl_140419_03.png" alt="Googleplus costomurl 140419 03" title="googleplus-costomurl_140419_03.png" border="0" width="548" height="331" /><br />
 ここではURLを変更できることはできるんですが、大文字と小文字を変える程度しかできません。</p>
 <p>文字列を変えようとすると<br />
-<img src="http://kotalab.com/wp-content/uploads/googleplus-costomurl_140419_04.png" alt="Googleplus costomurl 140419 04" title="googleplus-costomurl_140419_04.png" border="0" width="548" height="330" /><br />
+<img src="https://kotalab.com/wp-content/uploads/googleplus-costomurl_140419_04.png" alt="Googleplus costomurl 140419 04" title="googleplus-costomurl_140419_04.png" border="0" width="548" height="330" /><br />
 赤文字で注意されちゃいます！</p>
 <p>1度つけたURLは変更できないのでご注意ください！</p>
 <div class="applink">

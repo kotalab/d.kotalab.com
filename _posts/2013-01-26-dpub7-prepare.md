@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5901
-wordpress_url: http://kotalab.com/?p=5901
+wordpress_url: https://kotalab.com/?p=5901
 date: '2013-01-26 05:10:58 +0900'
 date_gmt: '2013-01-25 20:10:58 +0900'
 category:
@@ -30,7 +30,7 @@ comments:
   date_gmt: '2013-01-27 04:03:38 +0900'
   content: "[...] Dpub7まであと1週間！前川企画印刷さんから名刺が届きました！ | kotala&#8217;s note [...]"
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/meishi_130126_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/meishi_130126_01-448x336.jpg" alt="meishi_130126_01" width="448" height="336" class="alignnone size-large wp-image-5903" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/meishi_130126_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/meishi_130126_01-448x336.jpg" alt="meishi_130126_01" width="448" height="336" class="alignnone size-large wp-image-5903" /></a><br />
 名刺が届きました。@kotala_bです。<br />
 注文したのは1月22日。<br />
 届いたのが1月25日。<br />
@@ -38,10 +38,10 @@ comments:
 <!--more--></p>
 <h2>ブロガー名刺が届きました</h2>
 <p>▼頼んだ時のことはこちら<br />
-<a href="http://kotalab.com/blogger-meishi-maekawa-insatsu" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/blogermeishi_130123-448x336.jpg" alt="Dpub7に向けてブロガー名刺を再注文！今回も前川企画印刷さんにお願いしました！ | kotala's note" width="150" /></a><a href="http://kotalab.com/blogger-meishi-maekawa-insatsu" target="_blank">Dpub7に向けてブロガー名刺を再注文！今回も前川企画印刷さんにお願いしました！ | kotala's note</a><br style="clear:both;" />注文した翌日には発送完了とのメールを頂きました。<br />
+<a href="https://kotalab.com/blogger-meishi-maekawa-insatsu" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/blogermeishi_130123-448x336.jpg" alt="Dpub7に向けてブロガー名刺を再注文！今回も前川企画印刷さんにお願いしました！ | kotala's note" width="150" /></a><a href="https://kotalab.com/blogger-meishi-maekawa-insatsu" target="_blank">Dpub7に向けてブロガー名刺を再注文！今回も前川企画印刷さんにお願いしました！ | kotala's note</a><br style="clear:both;" />注文した翌日には発送完了とのメールを頂きました。<br />
 前回頼んだ名刺と同じデザインにしましたが、Dpub需要で注文が殺到しているということでもうちょっと時間がかかるかと思っていました。<br />
 もちろん今回も一言メッセージつき<br />
-<a href="http://kotalab.com/wp-content/uploads/meishi_130126_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/meishi_130126_02-448x336.jpg" alt="meishi_130126_02" width="448" height="336" class="alignnone size-large wp-image-5904" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/meishi_130126_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/meishi_130126_02-448x336.jpg" alt="meishi_130126_02" width="448" height="336" class="alignnone size-large wp-image-5904" /></a></p>
 <h2>最後に</h2>
 <p>Dpub7に向けて準備が徐々に整ってきました。<br />
 他の方達のブログを参考にあと1週間のうちにしっかり準備したいと思います！<br />

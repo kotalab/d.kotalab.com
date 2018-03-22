@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11077
-wordpress_url: http://kotalab.com/?p=11077
+wordpress_url: https://kotalab.com/?p=11077
 date: '2014-03-06 06:32:54 +0900'
 date_gmt: '2014-03-05 21:32:54 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 書評
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books-never-killed-by-doctor_140306-546x546.jpg" alt="books-never-killed-by-doctor_140306" width="546" height="546" class="alignnone size-large wp-image-11078" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-never-killed-by-doctor_140306-546x546.jpg" alt="books-never-killed-by-doctor_140306" width="546" height="546" class="alignnone size-large wp-image-11078" /><br />
 僕たちは病院で貰う薬のことをどれだけ知っているでしょうか。<br />
 「ガスター、ロキソニンは何か？」と聞かれれば、それが薬であることくらいはわかります。<br />
 でも「スタチン、ピボキシル、フルイトランは何か？」と聞かれても、それが薬の名前であることすらわかりません。<br />

@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14359
-wordpress_url: http://kotalab.com/?p=14359
+wordpress_url: https://kotalab.com/?p=14359
 date: '2015-05-14 07:53:55 +0900'
 date_gmt: '2015-05-13 22:53:55 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - Feedly
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/as-if_20150424-780x520.jpg" alt="as-if_20150424" width="780" height="520" class="aligncenter size-large wp-image-14177" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/as-if_20150424-780x520.jpg" alt="as-if_20150424" width="780" height="520" class="aligncenter size-large wp-image-14177" /></p>
 <p>RSSの全文配信をやめて部分配信に変更しました。</p>
 <p>これまで全文配信していたのは、RSSリーダーで見たときにいちいちサイトにアクセスしなくても読めることに価値を感じていたからです。</p>
 <p>しかし最近になって、その価値に疑問を持つようになりました。</p>
@@ -36,7 +36,7 @@ comments: []
 ということは、10日前にRSSで配信された記事を今読んでいることもあり得ます。</p>
 <p>RSS配信しているブログを書く側ができることは、書いたことを全文で出すか部分的に出すかという2つの選択肢しかありません。</p>
 <h2>RSSで読んでくれる人を大切にしたい</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/third-anivarsary_20150509_01-780x516.jpg" alt="third-anivarsary_20150509_01.JPG" width="780" height="516" class="aligncenter size-large wp-image-14305" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/third-anivarsary_20150509_01-780x516.jpg" alt="third-anivarsary_20150509_01.JPG" width="780" height="516" class="aligncenter size-large wp-image-14305" /></p>
 <p>RSSリーダーに登録してこのブログを読んでくださっている方は、このブログの読者さんの中でも特にコアな方かなと思っています。<br />
 お店で例えると、常連の固定客というイメージです。</p>
 <p>お店としては大切にしたいお客さんです。</p>
@@ -51,4 +51,4 @@ comments: []
 <p>RSS登録して読んでくださっている方たちは、少し面倒に感じるかもしれません。</p>
 <p>部分配信に変えた理由はなんとしても伝えたかったので今回の記事にしました。</p>
 <p>RSSの登録はFeedlyがオススメです。</p>
-<p><a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fkotalab.com%2Ffeed' target='blank' onclick="_gaq.push(['_trackEvent', 'entry', 'click', 'followFeedly14359']);"><img id='feedlyFollow' src='http://kotalab.com/wp-content/themes/stinger20130730/images/feedly_icon.png' alt='follow us in feedly' width="60px"></a></p>
+<p><a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fkotalab.com%2Ffeed' target='blank' onclick="_gaq.push(['_trackEvent', 'entry', 'click', 'followFeedly14359']);"><img id='feedlyFollow' src='https://kotalab.com/wp-content/themes/stinger20130730/images/feedly_icon.png' alt='follow us in feedly' width="60px"></a></p>

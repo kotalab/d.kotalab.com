@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13678
-wordpress_url: http://kotalab.com/?p=13678
+wordpress_url: https://kotalab.com/?p=13678
 date: '2014-12-28 11:01:16 +0900'
 date_gmt: '2014-12-28 02:01:16 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 転職
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/minimum-lifecost_20141228-780x585.jpg" alt="minimum-lifecost_20141228" width="780" height="585" class="aligncenter size-large wp-image-13680" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/minimum-lifecost_20141228-780x585.jpg" alt="minimum-lifecost_20141228" width="780" height="585" class="aligncenter size-large wp-image-13680" /><br />
 僕は去年、アプリ開発を始めるために当時働いていた会社を辞めることを決めました。<br />
 今年の1月から、プログラミング未経験の状態から新しい職場で働くようになりました。</p>
 <p>ざっくりいうと</p>

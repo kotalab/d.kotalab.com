@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 9973
-wordpress_url: http://kotalab.com/?p=9973
+wordpress_url: https://kotalab.com/?p=9973
 date: '2013-10-19 12:09:01 +0900'
 date_gmt: '2013-10-19 03:09:01 +0900'
 category:
@@ -25,53 +25,53 @@ tags:
 - おすすめ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_02-546x409.jpg" alt="gadgetporch_131019_02" width="546" height="409" class="alignnone size-large wp-image-9979" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_02-546x409.jpg" alt="gadgetporch_131019_02" width="546" height="409" class="alignnone size-large wp-image-9979" /><br />
 持ち歩くガジェット達専用のポーチを持ってます。こたら（@kotala_b）です。<br />
 iPhone 5sやiPad mini、PocketWi-Fiなど1日ハードに使ってると充電もなくなってくるしモバイルバッテリーは必需品。<br />
 他にも充電用のケーブルなど「これさえあれば丸1日大丈夫！」というモノを詰め込んだガジェット専用のポーチを持ち歩いてます。<br />
-この前の<a href="http://kotalab.com/miyajima" title="[Photo][世界遺産][広島]宮島へ行ってきた！海の上にある神社「厳島神社」" target="_blank">広島旅行の時</a>ももちろん持っていきました。<br />
+この前の<a href="https://kotalab.com/miyajima" title="[Photo][世界遺産][広島]宮島へ行ってきた！海の上にある神社「厳島神社」" target="_blank">広島旅行の時</a>ももちろん持っていきました。<br />
 僕が普段から旅行の時までいつも持ち歩いてるガジェットポーチの中身をご紹介したいと思います。<br />
 <!--more--></p>
 <h2>100均のポーチに全て詰め込む</h2>
 <p>入れてるポーチは100均で売られてるA5サイズくらいのポーチ。<br />
-<img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_03-546x409.jpg" alt="gadgetporch_131019_03" width="546" height="409" class="alignnone size-large wp-image-9975" /><br />
+<img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_03-546x409.jpg" alt="gadgetporch_131019_03" width="546" height="409" class="alignnone size-large wp-image-9975" /><br />
 この中にぎっしり詰め込んでます。<br />
-<img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_01-546x409.jpg" alt="gadgetporch_131019_01" width="546" height="409" class="alignnone size-large wp-image-9982" /><br />
+<img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_01-546x409.jpg" alt="gadgetporch_131019_01" width="546" height="409" class="alignnone size-large wp-image-9982" /><br />
 なるべくこれ以上は持ちたくないという意味でもこの大きさのポーチにしました。</p>
 <h3>持ち歩いてるモバイルバッテリーは2種類</h3>
 <p>いつも持ち歩いてるモバイルバッテリーは5200mAhのスティック型モバイルバッテリーと<br />
-<img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_04-546x409.jpg" alt="gadgetporch_131019_04" width="546" height="409" class="alignnone size-large wp-image-9980" /><br />
+<img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_04-546x409.jpg" alt="gadgetporch_131019_04" width="546" height="409" class="alignnone size-large wp-image-9980" /><br />
 充電池を入れるタイプのエネループのモバイルバッテリーです。<br />
-<img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_05-546x409.jpg" alt="gadgetporch_131019_05" width="546" height="409" class="alignnone size-large wp-image-9983" /><br />
-以前は<a href="http://kotalab.com/cheero-power-plus" title="大容量なのに安い！あのcheeroPowerPlusを購入！" target="_blank">cheeroの大容量モバイルバッテリー</a>を持ち歩いてたんですが、僕の生活範囲だと明らかにオーバースペックでした。<br />
+<img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_05-546x409.jpg" alt="gadgetporch_131019_05" width="546" height="409" class="alignnone size-large wp-image-9983" /><br />
+以前は<a href="https://kotalab.com/cheero-power-plus" title="大容量なのに安い！あのcheeroPowerPlusを購入！" target="_blank">cheeroの大容量モバイルバッテリー</a>を持ち歩いてたんですが、僕の生活範囲だと明らかにオーバースペックでした。<br />
 僕の場合、約半分の容量の5200mAhのモバイルバッテリーがあれば丸一日余裕で充電がもちます。<br />
 iPhoneより先に、外出中は常時電源オンにしてるPocketWi-Fiの方が充電がなくなるのですが、それでも仕事の日は充電しなくても丸1日持つことがほとんど。<br />
 仕事終わりにそのままどっか行く時には充電が必要になってくるので、毎日持ち歩くようにしてます。<br />
 電池式の方は誰かに貸しても良いし、万が一5200mAhのモバイルバッテリーの方がフル充電されてなくてダメだったという時のための予備として持ち歩いてます。<br />
-旅行に行く時は<a href="http://kotalab.com/mobileshave-m90" title="替え刃よりも安い！旅行におすすめのコンパクトで使いやすい電気シェーバー。" target="_blank">電池式のシェーバー</a>を持っていくのでエネループは必須！<br />
+旅行に行く時は<a href="https://kotalab.com/mobileshave-m90" title="替え刃よりも安い！旅行におすすめのコンパクトで使いやすい電気シェーバー。" target="_blank">電池式のシェーバー</a>を持っていくのでエネループは必須！<br />
 モバイルバッテリーに欠かせないのは充電するためのコード。<br />
 充電コードは巻き取り式一択です！<br />
-<img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_06-546x409.jpg" alt="gadgetporch_131019_06" width="546" height="409" class="alignnone size-large wp-image-9976" /><br />
+<img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_06-546x409.jpg" alt="gadgetporch_131019_06" width="546" height="409" class="alignnone size-large wp-image-9976" /><br />
 いちいちクルクル結わかなくてもそのまま入れられるのが一番の魅力。<br />
-<a href="http://kotalab.com/lightning-cable-reel" title="iPhone 5sでも使える！激安巻き取り式LightningケーブルをAmazonで買ったぞ！" target="_blank">Amazonで買ったLightningケーブル</a>1本と100均で買ったmicroUSBケーブル2本にLANケーブルを1本持ち歩いてます。<br />
+<a href="https://kotalab.com/lightning-cable-reel" title="iPhone 5sでも使える！激安巻き取り式LightningケーブルをAmazonで買ったぞ！" target="_blank">Amazonで買ったLightningケーブル</a>1本と100均で買ったmicroUSBケーブル2本にLANケーブルを1本持ち歩いてます。<br />
 コンセントから充電できる場所ではモバイルバッテリーは使わずにコンセントから充電します。<br />
-その時は<a href="http://kotalab.com/usb-2port-adapter" title="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！" target="_blank">2Aの急速充電もできる2ポートUSBアダプタ</a>を使って充電します。<br />
-<img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_07-546x409.jpg" alt="gadgetporch_131019_07" width="546" height="409" class="alignnone size-large wp-image-9977" /><br />
+その時は<a href="https://kotalab.com/usb-2port-adapter" title="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！" target="_blank">2Aの急速充電もできる2ポートUSBアダプタ</a>を使って充電します。<br />
+<img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_07-546x409.jpg" alt="gadgetporch_131019_07" width="546" height="409" class="alignnone size-large wp-image-9977" /><br />
 2ポートタイプはコンセント1つで2つの機器の充電ができることが最大の魅力です。</p>
 <h3>小型で便利なガジェット</h3>
 <p>小型のUSBメモリは持ってるとデータの受け渡しなど、何かと便利なので常に持ち歩いてます。<br />
-<img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_09-546x409.jpg" alt="gadgetporch_131019_09" width="546" height="409" class="alignnone size-large wp-image-9981" /><br />
+<img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_09-546x409.jpg" alt="gadgetporch_131019_09" width="546" height="409" class="alignnone size-large wp-image-9981" /><br />
 この前も、デジカメで撮った写真を何枚かUSBメモリに入れて、USBメモリからコンビニのデジカメプリントであっという間にプリントアウトすることができました。<br />
 昔は、写真屋さんに現像を頼んで出来上がったのを取りに行ってましたが改めてすごい進化だと思います。<br />
 小型で便利といえばこのちびファイ2がスゴいです！<br />
-<img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_08-546x409.jpg" alt="gadgetporch_131019_08" width="546" height="409" class="alignnone size-large wp-image-9984" /><br />
-<a href="http://kotalab.com/tibifi2" title="ホテルでも快適なWi-Fi生活を！有線LANをWi-Fiに変えるちっちゃいのにスゴいやつ！" target="_blank">広島に行った時に大活躍</a>の、有線LANをWi-Fiに変えてくれるという優れもの。<br />
+<img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_08-546x409.jpg" alt="gadgetporch_131019_08" width="546" height="409" class="alignnone size-large wp-image-9984" /><br />
+<a href="https://kotalab.com/tibifi2" title="ホテルでも快適なWi-Fi生活を！有線LANをWi-Fiに変えるちっちゃいのにスゴいやつ！" target="_blank">広島に行った時に大活躍</a>の、有線LANをWi-Fiに変えてくれるという優れもの。<br />
 普段はなかなか使うことはないんですが、小さくていつでも持ち歩けるサイズなので、広島から帰ってきた後もずっと入れっぱなし。</p>
 <h3>筆記用具</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/gadgetporch_131019_10-546x409.jpg" alt="gadgetporch_131019_10" width="546" height="409" class="alignnone size-large wp-image-9978" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_10-546x409.jpg" alt="gadgetporch_131019_10" width="546" height="409" class="alignnone size-large wp-image-9978" /><br />
 僕が持ち歩いてる筆記用具はこれだけ。<br />
 左から順にスタライスペン、シャーペン、3色ボールペン。<br />
-スタライスペンはJotProという<a href="http://kotalab.com/ipad-mini-jotpro" title="初めてのスタライスペンはこれで決まり！iPadmini用にJotProを購入！" target="_blank">iPad mini用に買ったスタライスペン</a>です。<br />
+スタライスペンはJotProという<a href="https://kotalab.com/ipad-mini-jotpro" title="初めてのスタライスペンはこれで決まり！iPadmini用にJotProを購入！" target="_blank">iPad mini用に買ったスタライスペン</a>です。<br />
 シャーペンと3色ボールペンはそこら辺の文房具屋さんで売ってるもの。<br />
 最近気になってるのは<a href="http://ozpa-h4.com/2013/10/18/jetstream-prime/" target="_blank">OZPAの表4</a>で紹介されてた<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00FPHEQLW/same-22/ref=nosim/" rel="nofollow" target="_blank">ジェットストリームプライム</a>というボールペン。<br />
 ボールペンに5000円！？とか思ったけど気になるので文房具屋さんに行ったら探してみようと思います。</p>

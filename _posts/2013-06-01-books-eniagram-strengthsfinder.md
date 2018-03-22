@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7334
-wordpress_url: http://kotalab.com/?p=7334
+wordpress_url: https://kotalab.com/?p=7334
 date: '2013-06-01 19:00:29 +0900'
 date_gmt: '2013-06-01 10:00:29 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - NSL13
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/jikosindan_130531-448x297.jpg" alt="jikosindan_130531" width="448" height="297" class="alignnone size-large wp-image-7335" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/jikosindan_130531-448x297.jpg" alt="jikosindan_130531" width="448" height="297" class="alignnone size-large wp-image-7335" /><br />
 平和をもたらす人。こたら（@kotala_b）です。<br />
 3月31日にあった立花岳志さん（@ttachi）が主催するNoSecondLifeセミナーで紹介のあった2冊の本、「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4047913944%2Fref%3Dnosim" rel="nofollow" name="booklink" target="_blank">エニアグラム</a>」と「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4532149479%2Fref%3Dnosim" rel="nofollow" name="booklink" target="_blank">さあ、才能(じぶん)に目覚めよう</a>」を読みました。<br />
 この2冊の本は、自分を知る方法としてセミナー中に紹介された本です。<br />
@@ -43,7 +43,7 @@ comments: []
 人をまとめ、葛藤を癒すことができる。
 </p></blockquote>
 <h2>さあ、才能（じぶん）に目覚めよう</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/weekly_130526_03.jpg" alt="weekly_130526_03" width="436" height="534" class="alignnone size-full wp-image-7251" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/weekly_130526_03.jpg" alt="weekly_130526_03" width="436" height="534" class="alignnone size-full wp-image-7251" /><br />
 <a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4532149479%2Fref%3Dnosim" rel="nofollow" name="booklink" target="_blank">さあ、才能(じぶん)に目覚めよう</a>はストレングスファインダーを解説する本と言ってもいいでしょう。<br />
 ストレングスファインダーというのは自分の強みを知るためのテストで、180問を1問20秒で回答するテストです。<br />
 このテストは1つのアクセスIDにつき1回だけチャレンジが出来ます。<br />
@@ -87,4 +87,4 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/af-s-dx-nikkor-35mm" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130401222745.jpg" alt="第13回NSLセミナーに参加して即実行したこと！なりたい自分を見つける方法！ #nsl13 | kotala's note" width="150" /></a><a href="http://kotalab.com/af-s-dx-nikkor-35mm" target="_blank">第13回NSLセミナーに参加して即実行したこと！なりたい自分を見つける方法！ #nsl13 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/af-s-dx-nikkor-35mm" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130401222745.jpg" alt="第13回NSLセミナーに参加して即実行したこと！なりたい自分を見つける方法！ #nsl13 | kotala's note" width="150" /></a><a href="https://kotalab.com/af-s-dx-nikkor-35mm" target="_blank">第13回NSLセミナーに参加して即実行したこと！なりたい自分を見つける方法！ #nsl13 | kotala's note</a><br style="clear:both;" /></p>

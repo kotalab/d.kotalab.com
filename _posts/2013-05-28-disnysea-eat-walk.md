@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7278
-wordpress_url: http://kotalab.com/?p=7278
+wordpress_url: https://kotalab.com/?p=7278
 date: '2013-05-28 19:00:50 +0900'
 date_gmt: '2013-05-28 10:00:50 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - ディズニーシー
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/disnysea_130528-448x297.jpg" alt="disnysea_130528" width="448" height="297" class="alignnone size-large wp-image-7284" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/disnysea_130528-448x297.jpg" alt="disnysea_130528" width="448" height="297" class="alignnone size-large wp-image-7284" /><br />
 ディズニーシーへ行ってきました。こたら（@kotala_b）です。<br />
 ディズニーシーへ行ったのは約10年ぶり、2回目。<br />
 8時の開園に合わせて行き、帰りは9時過ぎ。<br />
@@ -32,41 +32,41 @@ comments: []
 <h2>ワゴンを食べ歩き</h2>
 <p>入園してすぐにタワーオブテラーのファストパスを取りに行き、その足でインディージョーンズへと向かいました。<br />
 その途中で食べたのが、うきわの形をした「うきわまん」。<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_01-448x447.jpg" alt="disnysea_130528_01" width="448" height="447" class="alignnone size-large wp-image-7287" /><br />
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_01-448x447.jpg" alt="disnysea_130528_01" width="448" height="447" class="alignnone size-large wp-image-7287" /><br />
 白い輪っかに赤いラインの入った可愛らしい肉まん。<br />
 左の大きいうきわにはエビ、右の小さい方にはトマトチーズが入っていました。<br />
 インディージョーンズに乗った後、すぐ近くのお店で食べたのが、「ユカタンソーセージドッグ」<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_02-448x447.jpg" alt="disnysea_130528_02" width="448" height="447" class="alignnone size-large wp-image-7286" /><br />
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_02-448x447.jpg" alt="disnysea_130528_02" width="448" height="447" class="alignnone size-large wp-image-7286" /><br />
 パンからはみ出たソーセージが特徴的なホットドック。<br />
 ソーセージがジューシーでとっても美味しかったです。<br />
 今度行ったらまた食べたい！<br />
 その次に食べたのは「スパイシースモークチキンレッグ」<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_03-448x447.jpg" alt="disnysea_130528_03" width="448" height="447" class="alignnone size-large wp-image-7288" /><br />
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_03-448x447.jpg" alt="disnysea_130528_03" width="448" height="447" class="alignnone size-large wp-image-7288" /><br />
 食べてる人を見て見て食べたくなって探しました。<br />
 行列が出来ていたので場所が一目で分かりました。<br />
 皮にしっかりと味付けされていて、中の肉はジューシー。<br />
 最後に食べたのは「アプリコットメイプルシロップパイ」と「ミートパイ」<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_04-448x447.jpg" alt="disnysea_130528_04" width="448" height="447" class="alignnone size-large wp-image-7285" /><br />
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_04-448x447.jpg" alt="disnysea_130528_04" width="448" height="447" class="alignnone size-large wp-image-7285" /><br />
 サクサクのパイにアプリコットの甘みが効いたアプリコットメイプルシロップパイ。<br />
 中にひき肉の入ったミートパイ。<br />
 アプリコットメイプルシロップパイの方が自分好み。<br />
 口の中が結構ぱさつくので飲み物と一緒に食べました。</p>
 <h2>リストランテ・ディ・カナレット</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/disnysea_130528_05-448x297.jpg" alt="disnysea_130528_05" width="448" height="297" class="alignnone size-large wp-image-7289" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/disnysea_130528_05-448x297.jpg" alt="disnysea_130528_05" width="448" height="297" class="alignnone size-large wp-image-7289" /><br />
 お昼はゴンドラ乗り場のすぐ近くにある「リストランテ・ディ・カナレット」でイタリアンのコースを頼みました。<br />
 ソフトドリンクが飲み放題でコースのお値段は2500円。<br />
 オシャレな店内<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_06-448x297.jpg" alt="disnysea_130528_06" width="448" height="297" class="alignnone size-large wp-image-7290" /><br />
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_06-448x297.jpg" alt="disnysea_130528_06" width="448" height="297" class="alignnone size-large wp-image-7290" /><br />
 暑い日は炭酸がおいしい！<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_07-448x297.jpg" alt="disnysea_130528_07" width="448" height="297" class="alignnone size-large wp-image-7282" /><br />
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_07-448x297.jpg" alt="disnysea_130528_07" width="448" height="297" class="alignnone size-large wp-image-7282" /><br />
 前菜<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_08-448x297.jpg" alt="disnysea_130528_08" width="448" height="297" class="alignnone size-large wp-image-7283" /><br />
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_08-448x297.jpg" alt="disnysea_130528_08" width="448" height="297" class="alignnone size-large wp-image-7283" /><br />
 メインのパスタ<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_09-448x297.jpg" alt="disnysea_130528_09" width="448" height="297" class="alignnone size-large wp-image-7281" /><br />
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_09-448x297.jpg" alt="disnysea_130528_09" width="448" height="297" class="alignnone size-large wp-image-7281" /><br />
 デザート<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_10-448x297.jpg" alt="disnysea_130528_10" width="448" height="297" class="alignnone size-large wp-image-7279" /><br />
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_10-448x297.jpg" alt="disnysea_130528_10" width="448" height="297" class="alignnone size-large wp-image-7279" /><br />
 食後のコーヒー<br />
-<img src="http://kotalab.com/wp-content/uploads/disnysea_130528_11-448x297.jpg" alt="disnysea_130528_11" width="448" height="297" class="alignnone size-large wp-image-7280" /></p>
+<img src="https://kotalab.com/wp-content/uploads/disnysea_130528_11-448x297.jpg" alt="disnysea_130528_11" width="448" height="297" class="alignnone size-large wp-image-7280" /></p>
 <h2>最後に</h2>
 <p>写真を撮り忘れていましたが、この他にカレー味のポップコーンも食べていました。<br />
 乗り物に並んでるか食べ歩いているか。<br />

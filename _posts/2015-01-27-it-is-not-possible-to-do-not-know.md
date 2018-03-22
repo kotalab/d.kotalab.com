@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13859
-wordpress_url: http://kotalab.com/?p=13859
+wordpress_url: https://kotalab.com/?p=13859
 date: '2015-01-27 07:00:07 +0900'
 date_gmt: '2015-01-26 22:00:07 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - Pinterest
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/it-is-not-possible-to-do-not-know_20150127-780x438.jpg" alt="it-is-not-possible-to-do-not-know_20150127" width="780" height="438" class="aligncenter size-large wp-image-13897" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/it-is-not-possible-to-do-not-know_20150127-780x438.jpg" alt="it-is-not-possible-to-do-not-know_20150127" width="780" height="438" class="aligncenter size-large wp-image-13897" /><br />
 このブログの一番上に表示されているヘッダーの背景色はただの青色ですか？<br />
 それとも紺色？藍色？ぐんじょう色？瑠璃色？</p>
 <p>青といっても<a href="http://www.kyou-kimono.com/image/ColorBlue.html" target="_blank">青に似た色</a>は沢山あります。<br />
@@ -47,7 +47,7 @@ comments: []
 こうやってインプットしてアウトプットするというのを繰り返していくと次第に身についていってアプリが作れるようになる。</p>
 <p><span class="b">出来るというのは身についたということです。</span></p>
 <h2>知ることから始める</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/it-is-not-possible-to-do-not-know_20150125_01-780x513.png" alt="it-is-not-possible-to-do-not-know_20150125_01" width="780" height="513" class="aligncenter size-large wp-image-13869" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/it-is-not-possible-to-do-not-know_20150125_01-780x513.png" alt="it-is-not-possible-to-do-not-know_20150125_01" width="780" height="513" class="aligncenter size-large wp-image-13869" /><br />
 知っている＝出来るとは限りません。</p>
 <p>でも出来るようにするには知らなきゃいけない。<br />
 <span class="b">だから知ることから、始まります。</span></p>

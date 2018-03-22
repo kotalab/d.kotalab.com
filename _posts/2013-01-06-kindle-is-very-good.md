@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5531
-wordpress_url: http://kotalab.com/?p=5531
+wordpress_url: https://kotalab.com/?p=5531
 date: '2013-01-06 10:34:45 +0900'
 date_gmt: '2013-01-06 01:34:45 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - Eye-Fi
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/eyefi130106.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/eyefi130106-448x336.jpg" alt="eyefi130106" width="448" height="336" class="alignnone size-large wp-image-5532" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/eyefi130106.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/eyefi130106-448x336.jpg" alt="eyefi130106" width="448" height="336" class="alignnone size-large wp-image-5532" /></a><br />
 面倒くさいことは大嫌いです。@kotala_bです。<br />
 「なんでも楽したい」というと聞こえは悪いですが、数年前には考えられなかったようなことが出来る時代です。<br />
 そんな時だからこそ、便利なモノを駆使して楽をしたいと考えています。<br />
@@ -32,7 +32,7 @@ comments: []
 デジカメを始めるにあたり、真っ先に欲しかったのがEye-Fiです。<br />
 <!--more--></p>
 <h2>Eye-Fi</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/eyefi130106_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/eyefi130106_01-448x336.jpg" alt="eyefi130106_01" width="448" height="336" class="alignnone size-large wp-image-5533" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/eyefi130106_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/eyefi130106_01-448x336.jpg" alt="eyefi130106_01" width="448" height="336" class="alignnone size-large wp-image-5533" /></a><br />
 今年初めてAmazonで買ったものはこのEye-Fiです！<br />
 買ってみたはいいものの、パッケージの中に入っている説明書だけではよくわかりませんでした。<br />
 「カメラにEye-Fiカードを入れたらすぐ使える」と勝手に思い込んでいたのでした。</p>
@@ -51,7 +51,7 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2>Eye-Fiの本を購入</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/eyefi130106_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/eyefi130106_02-448x300.jpg" alt="eyefi130106_02" width="448" height="300" class="alignnone size-large wp-image-5539" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/eyefi130106_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/eyefi130106_02-448x300.jpg" alt="eyefi130106_02" width="448" height="300" class="alignnone size-large wp-image-5539" /></a><br />
 そこで本を購入しました。<br />
 「<a href="http://www.amazon.co.jp/exec/obidos/asin/B009OWX5PC/same-22/" rel="nofollow" name="booklink" target="_blank">できるポケット Eye-Fi公式ガイド</a>」という本です。<br />
 この本自体は以前から知っていて、使い方に困ったら買おうと思っていた本でした。<br />

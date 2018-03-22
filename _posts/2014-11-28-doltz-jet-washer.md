@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13613
-wordpress_url: http://kotalab.com/?p=13613
+wordpress_url: https://kotalab.com/?p=13613
 date: '2014-11-28 07:30:23 +0900'
 date_gmt: '2014-11-27 22:30:23 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - ドルツジェットウォッシャー
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/doltz-jet-washer_20141125_01-780x585.jpg" alt="doltz-jet-washer_20141125_01" width="780" height="585" class="aligncenter size-large wp-image-13620" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/doltz-jet-washer_20141125_01-780x585.jpg" alt="doltz-jet-washer_20141125_01" width="780" height="585" class="aligncenter size-large wp-image-13620" /><br />
 2週間くらい前にドルツジェットウォッシャーというのを買ってみたんですが、使ってみたら想像以上！<br />
 毎晩寝る前の歯磨きの後に使っているんですが、朝起きた時の口の中の状態が明らかに変わってきました。</p>
 <p>今までは朝起きた時になんか口の中が気持ち悪かったり、どうもスッキリしない感じ。<br />
@@ -50,7 +50,7 @@ via:<a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E
 マッサージすると血行がよくなって、歯茎の健康もよくなるんだとか。</p>
 <p>それを思い出してからはドルツジェットウォッシャーを使って、歯と歯の間はもちろん歯茎のマッサージも欠かさずやるようにしています。</p>
 <h2>ハンディタイプでも効果はバッチリ</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/doltz-jet-washer_20141125_02-780x585.jpg" alt="doltz-jet-washer_20141125_02" width="780" height="585" class="aligncenter size-large wp-image-13619" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/doltz-jet-washer_20141125_02-780x585.jpg" alt="doltz-jet-washer_20141125_02" width="780" height="585" class="aligncenter size-large wp-image-13619" /><br />
 僕が買ったのは「<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00A2MGTVK/same-22/ref=nosim/" rel="nofollow" target="_blank">EW-DJ10-W</a>」というやつで、5000円以下で買えるハンディタイプのもの。<br />
 あまり洗面所が広くないというのもあって大きいやつは嫌だったので、電池式のハンディタイプのものにしたんですがこれでも十分効果があります！</p>
 <h3>年を取っても自分の歯で食べたい</h3>

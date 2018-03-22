@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7526
-wordpress_url: http://kotalab.com/?p=7526
+wordpress_url: https://kotalab.com/?p=7526
 date: '2013-06-19 19:00:48 +0900'
 date_gmt: '2013-06-19 10:00:48 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - iCal
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/ical_130619-448x275.jpg" alt="ical_130619" width="448" height="275" class="alignnone size-large wp-image-7531" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ical_130619-448x275.jpg" alt="ical_130619" width="448" height="275" class="alignnone size-large wp-image-7531" /><br />
 iCalを最近使い始めました。こたら（@kotala_b）です。<br />
 Googleカレンダーにはなかった便利な機能がMacのデフォルトカレンダーアプリ「iCal」にはありました。<br />
 それが予定のコピペです。<br />
@@ -30,17 +30,17 @@ iCalではカレンダー上でコピーしたい予定のコピペが行える�
 <!--more--></p>
 <h2>iCalで予定をコピペする方法</h2>
 <p>まずはコピーしたい予定を選択して「Command+C」で予定のコピー。<br />
-<img src="http://kotalab.com/wp-content/uploads/ical_130619_01-448x275.jpg" alt="ical_130619_01" width="448" height="275" class="alignnone size-large wp-image-7530" /><br />
+<img src="https://kotalab.com/wp-content/uploads/ical_130619_01-448x275.jpg" alt="ical_130619_01" width="448" height="275" class="alignnone size-large wp-image-7530" /><br />
 貼付けたい日を選択した状態で<br />
-<img src="http://kotalab.com/wp-content/uploads/ical_130619_02-448x275.jpg" alt="ical_130619_02" width="448" height="275" class="alignnone size-large wp-image-7529" /><br />
+<img src="https://kotalab.com/wp-content/uploads/ical_130619_02-448x275.jpg" alt="ical_130619_02" width="448" height="275" class="alignnone size-large wp-image-7529" /><br />
 「Command+V」を押します。<br />
-<img src="http://kotalab.com/wp-content/uploads/ical_130619_03-448x275.jpg" alt="ical_130619_03" width="448" height="275" class="alignnone size-large wp-image-7527" /><br />
+<img src="https://kotalab.com/wp-content/uploads/ical_130619_03-448x275.jpg" alt="ical_130619_03" width="448" height="275" class="alignnone size-large wp-image-7527" /><br />
 予定のコピペがカレンダー上で簡単に行えました。<br />
 これを利用することで1週間の予定をあっという間に組むことだって出来ます。<br />
-<img src="http://kotalab.com/wp-content/uploads/ical_130619_04-448x275.jpg" alt="ical_130619_04" width="448" height="275" class="alignnone size-large wp-image-7528" /></p>
+<img src="https://kotalab.com/wp-content/uploads/ical_130619_04-448x275.jpg" alt="ical_130619_04" width="448" height="275" class="alignnone size-large wp-image-7528" /></p>
 <h2>最後に</h2>
 <p>これで同じ予定をカレンダーに入れるのがかなり捗るようになりました。<br />
 iCalに移行してよかった！</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/ical-googlecalender" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ical_130607-448x275.jpg" alt="[Mac]GoogleカレンダーからMac標準カレンダーアプリ「iCal」に移行する方法。 | kotala's note" width="150" /></a><a href="http://kotalab.com/ical-googlecalender" target="_blank">[Mac]GoogleカレンダーからMac標準カレンダーアプリ「iCal」に移行する方法。 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/ical-japanese-holiday" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/icalholiday_130610-448x275.jpg" alt="[Mac]Macの標準カレンダーアプリ「iCal」に日本の祝日を表示させる方法 | kotala's note" width="150" /></a><a href="http://kotalab.com/ical-japanese-holiday" target="_blank">[Mac]Macの標準カレンダーアプリ「iCal」に日本の祝日を表示させる方法 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/ical-googlecalender" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ical_130607-448x275.jpg" alt="[Mac]GoogleカレンダーからMac標準カレンダーアプリ「iCal」に移行する方法。 | kotala's note" width="150" /></a><a href="https://kotalab.com/ical-googlecalender" target="_blank">[Mac]GoogleカレンダーからMac標準カレンダーアプリ「iCal」に移行する方法。 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ical-japanese-holiday" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/icalholiday_130610-448x275.jpg" alt="[Mac]Macの標準カレンダーアプリ「iCal」に日本の祝日を表示させる方法 | kotala's note" width="150" /></a><a href="https://kotalab.com/ical-japanese-holiday" target="_blank">[Mac]Macの標準カレンダーアプリ「iCal」に日本の祝日を表示させる方法 | kotala's note</a><br style="clear:both;" /></p>

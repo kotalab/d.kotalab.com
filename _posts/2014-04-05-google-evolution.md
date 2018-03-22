@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 12394
-wordpress_url: http://kotalab.com/?p=12394
+wordpress_url: https://kotalab.com/?p=12394
 date: '2014-04-05 16:15:55 +0900'
 date_gmt: '2014-04-05 07:15:55 +0900'
 category:
@@ -35,16 +35,16 @@ comments:
   author_url: http://9-bb.com/%e6%98%a8%e6%97%a5%e3%81%ae%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9-%e3%80%8e%e3%82%a6%e3%82%a7%e3%83%96%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%81%ae%e3%82%82%e3%82%84%e3%82%82%e3%82%84%e8
   date: '2014-04-07 06:33:02 +0900'
   date_gmt: '2014-04-06 21:33:02 +0900'
-  content: "[&#8230;] http://kotalab.com/google-evolution [&#8230;]"
+  content: "[&#8230;] https://kotalab.com/google-evolution [&#8230;]"
 - id: 3496
   author: 昨日のニュース 『ウェブデザインのもやもや解決 他3件』 | 9ineBB
   author_email: ''
   author_url: http://9-bb.com/%e6%98%a8%e6%97%a5%e3%81%ae%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9-%e3%80%8e%e3%82%a6%e3%82%a7%e3%83%96%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e3%81%ae%e3%82%82%e3%82%84%e3%82%82%e3%82%84%e8
   date: '2014-07-10 06:15:20 +0900'
   date_gmt: '2014-07-09 21:15:20 +0900'
-  content: "[&#8230;] http://kotalab.com/google-evolution [&#8230;]"
+  content: "[&#8230;] https://kotalab.com/google-evolution [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/Google-evolution_140405-546x292.png" alt="Google-evolution_140405" width="546" height="292" class="alignnone size-large wp-image-12398" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/Google-evolution_140405-546x292.png" alt="Google-evolution_140405" width="546" height="292" class="alignnone size-large wp-image-12398" /><br />
 ブログを書くときのタイトルの文字数って何文字がいいとかっていう話を見たり聞いたりするので多少は気にしてました。</p>
 <p>Web制作会社LIGのブログにはこんなことが書いてあります。</p>
 <blockquote><p>
@@ -61,10 +61,10 @@ via:<a href="http://liginc.co.jp/web/seo/30932" target="_blank">アクセス増�
 そしたら同じページなのに表示されるタイトルが違くてビックリ！</p>
 <h2>同じ記事の2つの異なる表示結果</h2>
 <p>「コストコ　消費税」って検索したときは「消費税前に買い込むならこれだ！コストコでオススメの・・・」<br />
-<img src="http://kotalab.com/wp-content/uploads/Google-evolution_140405_02-546x195.png" alt="Google-evolution_140405_02" width="546" height="195" class="alignnone size-large wp-image-12397" /><br />
+<img src="https://kotalab.com/wp-content/uploads/Google-evolution_140405_02-546x195.png" alt="Google-evolution_140405_02" width="546" height="195" class="alignnone size-large wp-image-12397" /><br />
 <span class="b">後半部分が省略されて表示</span>されます。</p>
 <p>「コストコ　おすすめ　洗剤」って検索すると今度は「コストコでオススメの5つのアイテム！」<br />
-<img src="http://kotalab.com/wp-content/uploads/Google-evolution_140405_01-546x287.png" alt="Google-evolution_140405_01" width="546" height="287" class="alignnone size-large wp-image-12396" /><br />
+<img src="https://kotalab.com/wp-content/uploads/Google-evolution_140405_01-546x287.png" alt="Google-evolution_140405_01" width="546" height="287" class="alignnone size-large wp-image-12396" /><br />
 こんどは前半部分がなくなって<span class="b">後半部分だけが表示</span>されました。</p>
 <p>この2つの検索結果で表示されるページは同じURLの全くの同一記事です。<br />
 [article include="10739"]<br />

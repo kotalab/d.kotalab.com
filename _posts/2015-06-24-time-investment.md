@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14667
-wordpress_url: http://kotalab.com/?p=14667
+wordpress_url: https://kotalab.com/?p=14667
 date: '2015-06-24 07:58:30 +0900'
 date_gmt: '2015-06-23 22:58:30 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 見直し
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/06/time-investment_20150624.jpg" alt="Time investment 20150624" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/06/time-investment_20150624.jpg" alt="Time investment 20150624" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>あれもやりたいこれもやりたい。<br />
 やりたいことが増えていくと強く思うことがあります。</p>
 <p>「もっと時間があればいいのに」「なんでこんなに時間がないのか」と。</p>
@@ -64,5 +64,5 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4344980395/same-22/" targe
 </div>
 <p>[dailynew]<br />
 ・夕飯を抜いて早く寝る</p>
-<p><a href="http://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

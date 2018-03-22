@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 9249
-wordpress_url: http://kotalab.com/?p=9249
+wordpress_url: https://kotalab.com/?p=9249
 date: '2013-09-16 10:29:06 +0900'
 date_gmt: '2013-09-16 01:29:06 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - Gmail
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/gmailmainmail_130916-546x361.jpg" alt="gmailmainmail_130916" width="546" height="361" class="alignnone size-large wp-image-9251" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/gmailmainmail_130916-546x361.jpg" alt="gmailmainmail_130916" width="546" height="361" class="alignnone size-large wp-image-9251" /><br />
 Gmailをメインで使ってます。こたら（@kotala_b）です。<br />
 僕は10年以上ドコモのメアドを使っていました。<br />
 僕は去年までメアドという縛りからMNPに対しては腰が重かったです。<br />
@@ -41,7 +41,7 @@ Gmailをメインのメアドとして使うことにすれば、MNPしてもず
 スムーズに移行する為に重要なのは<strong>変更のお知らせはキャリアメールから送ること。</strong><br />
 Gmailからだと誰から届いたのかパッと見でわかりませんし、メール受信を拒否している人もいる可能性があるからです。</p>
 <h2>iPhoneでGmailを使う方法</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />
 iPhoneでGmailを使うのは簡単です。<br />
 GmailアカウントがあればGmailアプリをiPhoneにいれるだけ！<br />
 Gmailの公式アプリは使いやすいのでオススメです！</p>

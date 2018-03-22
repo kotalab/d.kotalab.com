@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10705
-wordpress_url: http://kotalab.com/?p=10705
+wordpress_url: https://kotalab.com/?p=10705
 date: '2014-01-30 12:14:10 +0900'
 date_gmt: '2014-01-30 03:14:10 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 医療保険
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/miyajima_131009_04-546x361.jpg" alt="miyajima_131009_04" width="546" height="361" class="alignnone size-large wp-image-9865" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/miyajima_131009_04-546x361.jpg" alt="miyajima_131009_04" width="546" height="361" class="alignnone size-large wp-image-9865" /><br />
 貯金があれば医療保険はいらないのかどうか。<br />
 最初に答えを言ってしまうと、「いる人はいるしいらない人はいらない」です。<br />
 なぜかというと、貯金額や生活費といった面からみても変わってくるし、入院した本人の意思などによっても変わってくるからです。<br />
@@ -36,7 +36,7 @@ comments: []
 年間だと18,744円。<br />
 総額にすると35年間で656,040円。<br />
 これが確実に出て行くお金です。<br />
-via:<a href="http://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/no-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/no-insurance" alt="" /></span></p></blockquote>
+via:<a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/no-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/no-insurance" alt="" /></span></p></blockquote>
 <p>まずはこの70万円を安いと思うか高いと思うか。<br />
 ちなみにこの70万円という額はほぼ最低限度の保障内容なので、保障をもっと厚くしたい（ガン特約や女性疾病特約など）場合はもっと増えます。<br />
 死ぬまでずっと医療保険に入るとなると日本人の平均寿命は約83歳（男性80歳、女性86歳）なので、保険料の総額はさらに増えます。</p>
@@ -46,7 +46,7 @@ via:<a href="http://kotalab.com/no-insurance" target="_blank">医療保険なん
 <p>あとは<span class="b">保険をかけられてる人の意思も大切</span>になってきます。<br />
 もし入院したら個室で最新の医療技術を使って治療を受けたいとなると、特約をつけて保障を厚くした医療保険に入っておいたほうがいいです。<br />
 なぜかというと「個室」とか「先進医療」というのは保険適用外（医療保険じゃなくて健康保険）だからです。<br />
-健康保険適用の治療内容なら3割負担ですし、どんなに高くなっても<a href="http://kotalab.com/money-kougakuryoyohi" title="知らないと損するお金のこと「高額療養費」">高額療養費</a>という制度で支払い上限が決まっています。</p>
+健康保険適用の治療内容なら3割負担ですし、どんなに高くなっても<a href="https://kotalab.com/money-kougakuryoyohi" title="知らないと損するお金のこと「高額療養費」">高額療養費</a>という制度で支払い上限が決まっています。</p>
 <h2>医療保険に入らなくてもいい人</h2>
 <p>払えないからとかじゃなく、実際に医療保険に入っていない人もいます。<br />
 自分でお金のことを勉強して、保険はいらないなという決断ができた人たちです。</p>
@@ -63,10 +63,10 @@ via:<a href="http://kotalab.com/no-insurance" target="_blank">医療保険なん
 「自己責任」という言葉になってしまいますが、<strong>医療保険に入るも入らないも最後はあなた次第なのです</strong>。</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/no-insurance" target="_blank"><img src="http://kotalab.com/wp-content/uploads/no-insurance_130118_01-546x233.png" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/no-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/no-insurance" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/no-insurance" target="_blank"><img src="https://kotalab.com/wp-content/uploads/no-insurance_130118_01-546x233.png" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/no-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/no-insurance" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/money-kougakuryoyohi" target="_blank"><img src="http://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/money-kougakuryoyohi"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/money-kougakuryoyohi" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank"><img src="https://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/money-kougakuryoyohi"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/money-kougakuryoyohi" alt="" /></span></div>
 </div>

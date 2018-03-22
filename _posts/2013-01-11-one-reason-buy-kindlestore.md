@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5604
-wordpress_url: http://kotalab.com/?p=5604
+wordpress_url: https://kotalab.com/?p=5604
 date: '2013-01-11 10:34:11 +0900'
 date_gmt: '2013-01-11 01:34:11 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - Kindleストア
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/kindle_130111.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/kindle_130111-448x327.jpg" alt="kindle_130111" width="448" height="327" class="alignnone size-large wp-image-5607" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/kindle_130111.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kindle_130111-448x327.jpg" alt="kindle_130111" width="448" height="327" class="alignnone size-large wp-image-5607" /></a><br />
 電子書籍はKindleストアで買っています。@kotala_bです。<br />
 自分の中で電子書籍と言えば、読むのはiPadminiで買うのはKindleストアです。<br />
 ▼Gunosyでこんなページを見つけました。<br />

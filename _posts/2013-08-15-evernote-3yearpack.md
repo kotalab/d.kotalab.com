@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 8038
-wordpress_url: http://kotalab.com/?p=8038
+wordpress_url: https://kotalab.com/?p=8038
 date: '2013-08-15 20:27:23 +0900'
 date_gmt: '2013-08-15 11:27:23 +0900'
 category:
@@ -21,14 +21,14 @@ tags:
 - クラウド
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/evernotepack_130815_01-448x336.jpg" alt="evernotepack_130815_01" width="448" height="336" class="alignnone size-large wp-image-8044" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/evernotepack_130815_01-448x336.jpg" alt="evernotepack_130815_01" width="448" height="336" class="alignnone size-large wp-image-8044" /><br />
 Evernote使用開始以来ずっとプレミアム会員です。こたら（@kotala_b）です。<br />
 Evernoteには無料版のスタンダードの他に、有料版のプレミアムアカウントが用意されています。<br />
 有料のプレミアムアカウントを契約するには、公式サイトから直接申込む場合だと月額420円または年4000円の費用がかかります。<br />
 公式サイトから直接申込む以外にもプレミアムアカウントを申込む方法があるのはご存知ですか？<br />
 <!--more--></p>
 <h2>Evernote プレミアムパック 3年版</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="smareverdue_130122" width="448" height="327" class="alignnone size-large wp-image-5838" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="smareverdue_130122" width="448" height="327" class="alignnone size-large wp-image-5838" /><br />
 Evernoteは全てのPC、スマホやタブレットからアクセスできるクラウドサービスです。<br />
 クラウドサービスというと申込みから利用するまでwebページ上で操作するのが一般的。<br />
 Evernoteにはパッケージ製品の「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2FB007X8LMRC%2Fref%3Dnosim" rel="nofollow" target="_blank">EVERNOTE プレミアムパック 3年版</a>」というのがあります。<br />
@@ -36,16 +36,16 @@ Evernoteにはパッケージ製品の「<a href="http://c.af.moshimo.com/af/c/c
 パッケージを利用して3年分まとめて支払うことで、公式サイトから申込むよりも25％以上安く更新できるんです！<br />
 <strong>1年換算だと3000円以下！1ヶ月だと250円以下！1日あたり10円以下！やっすい！</strong></p>
 <h3>Evernote プレミアムパック 3年版を買ってみた</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/evernotepack_130815_04-448x202.jpg" alt="evernotepack_130815_04" width="448" height="202" class="alignnone size-large wp-image-8047" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/evernotepack_130815_04-448x202.jpg" alt="evernotepack_130815_04" width="448" height="202" class="alignnone size-large wp-image-8047" /><br />
 今月ちょうどプレミアムアカウントの更新月だったので、「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2FB007X8LMRC%2Fref%3Dnosim" rel="nofollow" target="_blank">EVERNOTE プレミアムパック 3年版</a>」を買ってみました！<br />
 届いたのがこちら！緑色のゾウが目印のEvernoteです！<br />
-<img src="http://kotalab.com/wp-content/uploads/evernotepack_130815_01-448x336.jpg" alt="evernotepack_130815_01" width="448" height="336" class="alignnone size-large wp-image-8044" /><br />
+<img src="https://kotalab.com/wp-content/uploads/evernotepack_130815_01-448x336.jpg" alt="evernotepack_130815_01" width="448" height="336" class="alignnone size-large wp-image-8044" /><br />
 中身はCD-ROMとEvernoteシール、それとシリアルナンバーが書かれた用紙が入っていました。<br />
-<img src="http://kotalab.com/wp-content/uploads/evernotepack_130815_02-448x336.jpg" alt="evernotepack_130815_02" width="448" height="336" class="alignnone size-large wp-image-8045" /><br />
+<img src="https://kotalab.com/wp-content/uploads/evernotepack_130815_02-448x336.jpg" alt="evernotepack_130815_02" width="448" height="336" class="alignnone size-large wp-image-8045" /><br />
 このEvernoteシールは今まで持っていなかったので何気に嬉しい一品！<br />
 MacBook Airに貼ろうか充電器に貼ろうかどこに貼ろう。とっても迷う！</p>
 <h2>僕にとってなくてはならない存在なのがEvernote プレミアム</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/evernotepack_130815_03-448x336.jpg" alt="evernotepack_130815_03" width="448" height="336" class="alignnone size-large wp-image-8046" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/evernotepack_130815_03-448x336.jpg" alt="evernotepack_130815_03" width="448" height="336" class="alignnone size-large wp-image-8046" /><br />
 Evernoteシールがおまけでついてくるうえに、1日10円以下で維持できるなんてお買い得すぎます！<br />
 僕にとってなくてはならないアプリのうちのひとつがEvernoteです。<br />
 ブログを書いたり仕事をしたり、生活の中でEvernote プレミアムアカウントの存在は欠かせません！</p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11322
-wordpress_url: http://kotalab.com/?p=11322
+wordpress_url: https://kotalab.com/?p=11322
 date: '2014-04-02 07:02:07 +0900'
 date_gmt: '2014-04-01 22:02:07 +0900'
 category:
@@ -23,23 +23,23 @@ tags:
 - 桜
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_01-546x361.jpg" alt="sakurasaku-yoyogi_140402_01" width="546" height="361" class="alignnone size-large wp-image-11323" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_01-546x361.jpg" alt="sakurasaku-yoyogi_140402_01" width="546" height="361" class="alignnone size-large wp-image-11323" /><br />
 モブログ先生としても活躍中のあかめ先生(<a href="https://twitter.com/mk_mizuho" target="_blank">@mk_mizuho</a>)が主催するモブログ花見大会に行ってきました！<br />
 5分咲き？7分咲き？満開とは言えなかったけど、それでも沢山桜が咲く代々木公園。<br />
 天気も良くて絶好のお花見日和でした！<br />
 <!--more--></p>
 <h2>1時にかんぱーい！</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_05-546x362.jpg" alt="sakurasaku-yoyogi_140402_05" width="546" height="362" class="alignnone size-large wp-image-11330" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_05-546x362.jpg" alt="sakurasaku-yoyogi_140402_05" width="546" height="362" class="alignnone size-large wp-image-11330" /><br />
 昼の1時に集合ということでそのちょっと前に着いたんですが、誰もいない！<br />
 っていうか人多すぎて、どこに集まってるのかわからない！</p>
 <p>なんてキョロキョロしてたら主催者のあかめ先生としのはらえりさん(<a href="https://twitter.com/erishinohara" target="_blank">@erishinohara</a>)を発見！一番乗りでした！</p>
 <p>その後奥野さん(<a href="https://twitter.com/odaiji" target="_blank">@odaiji</a>)がきたところで13時になったので、集まった4人で先にかんぱーい！<br />
-<img src="http://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_03-546x361.jpg" alt="sakurasaku-yoyogi_140402_03" width="546" height="361" class="alignnone size-large wp-image-11326" /><br />
+<img src="https://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_03-546x361.jpg" alt="sakurasaku-yoyogi_140402_03" width="546" height="361" class="alignnone size-large wp-image-11326" /><br />
 徐々に集まって20人弱くらいでのお花見になりました。<br />
 お花見自体は5時半くらいまで続き一旦修了。</p>
 <p>その後は2次会3次会という流れで、結局夜の11時くらいまでひたすら飲んで食って喋っての集まりでした。</p>
 <h2>ブログ書いててよかったこと</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_02-546x361.jpg" alt="sakurasaku-yoyogi_140402_02" width="546" height="361" class="alignnone size-large wp-image-11324" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_02-546x361.jpg" alt="sakurasaku-yoyogi_140402_02" width="546" height="361" class="alignnone size-large wp-image-11324" /><br />
 「ブログ書いててよかったことはなんですか？」<br />
 ブログを始めてまだ間もないという方からこんな質問を受けました。</p>
 <p>僕はブログを始めてもうすぐ2年になります。<br />
@@ -49,7 +49,7 @@ comments: []
 <p>これは間違いなくブログやっててよかったこと！<br />
 他にも沢山あるけど、1番はこれです。</p>
 <h3>お花見大会に参加して思うこと</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_04-546x361.png" alt="sakurasaku-yoyogi_140402_04" width="546" height="361" class="alignnone size-large wp-image-11325" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_04-546x361.png" alt="sakurasaku-yoyogi_140402_04" width="546" height="361" class="alignnone size-large wp-image-11325" /><br />
 家に帰って自分で撮った写真を見返したんですけど、桜もキレイだったけど参加者みんなの表情もすごくよかった！<br />
 お互いが好きなことを語るっていうのは、スゴく生き生きした表情になりますね！</p>
 <p>ブログが好きな人同士でこうやって集まるのはやっぱりいい！<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4364
-wordpress_url: http://kotalab.com/?p=4364
+wordpress_url: https://kotalab.com/?p=4364
 date: '2012-11-23 11:01:27 +0900'
 date_gmt: '2012-11-23 02:01:27 +0900'
 category:
@@ -23,11 +23,11 @@ tags:
 - ペンホルダー
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/quiver_121123.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/quiver_121123-448x336.jpg" alt="" title="quiver_121123" width="448" height="336" class="alignnone size-large wp-image-4365" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/quiver_121123.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/quiver_121123-448x336.jpg" alt="" title="quiver_121123" width="448" height="336" class="alignnone size-large wp-image-4365" /></a><br />
 Evernoteも好きですがアナログのノートも好きです。@kotala_bです。<br />
 僕が主に使っているノートはポケットサイズのモレスキンです。<br />
 最近ではダイスキンも多用しています。<br />
-<a href="http://kotalab.com/digital-analog-note" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/note_120903_02.jpg" alt="最近見えてきた！アナログノートとデジタルノートの使い分け | kotala's note" width="150" /></a><a href="http://kotalab.com/digital-analog-note" target="_blank">最近見えてきた！アナログノートとデジタルノートの使い分け | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/digital-analog-note" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/note_120903_02.jpg" alt="最近見えてきた！アナログノートとデジタルノートの使い分け | kotala's note" width="150" /></a><a href="https://kotalab.com/digital-analog-note" target="_blank">最近見えてきた！アナログノートとデジタルノートの使い分け | kotala's note</a><br style="clear:both;" /><br />
 ダイスキンについてはこちら<br />
 <a href="http://www18.atwiki.jp/daiskine/" target="_blank">【ダイスキン】ダイスキンwiki（ダイスキナリー/Daiskinerie）【Daiskine】 - トップページ</a><a href="http://b.hatena.ne.jp/entry/http://www18.atwiki.jp/daiskine/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www18.atwiki.jp/daiskine/" alt="" /></a><br style="clear:both;" />このアナログのノート達に書かせないのがペンです。<br />
 モレスキンやダイスキンにはペンホルダーがついていないので今回Quiverのペンホルダーを購入することにしました。</p>
@@ -76,21 +76,21 @@ Evernoteも好きですがアナログのノートも好きです。@kotala_bで
 <p>買ったのを忘れかけていた頃にようやく届きました。<br />
 宅配業者がお届けにくるわけじゃなく、ポストの中に入っていました。<br />
 ▼それがこちら<br />
-<a href="http://kotalab.com/wp-content/uploads/quiver_121123_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/quiver_121123_01-448x336.jpg" alt="" title="quiver_121123_01" width="448" height="336" class="alignnone size-large wp-image-4366" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/quiver_121123_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/quiver_121123_01-448x336.jpg" alt="" title="quiver_121123_01" width="448" height="336" class="alignnone size-large wp-image-4366" /></a><br />
 早速開封します！<br />
 ▼中から出てきたのは説明書と<br />
-<a href="http://kotalab.com/wp-content/uploads/quiver_121123_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/quiver_121123_02-448x336.jpg" alt="" title="quiver_121123_02" width="448" height="336" class="alignnone size-large wp-image-4367" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/quiver_121123_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/quiver_121123_02-448x336.jpg" alt="" title="quiver_121123_02" width="448" height="336" class="alignnone size-large wp-image-4367" /></a><br />
 ▼ペンホルダー本体<br />
-<a href="http://kotalab.com/wp-content/uploads/quiver_121123_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/quiver_121123_03-448x336.jpg" alt="" title="quiver_121123_03" width="448" height="336" class="alignnone size-large wp-image-4368" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/quiver_121123_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/quiver_121123_03-448x336.jpg" alt="" title="quiver_121123_03" width="448" height="336" class="alignnone size-large wp-image-4368" /></a><br />
 赤いステッチがいい感じ！<br />
 ▼モレスキンに装着<br />
-<a href="http://kotalab.com/wp-content/uploads/quiver_121123_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/quiver_121123_04-448x336.jpg" alt="" title="quiver_121123_04" width="448" height="336" class="alignnone size-large wp-image-4369" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/quiver_121123_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/quiver_121123_04-448x336.jpg" alt="" title="quiver_121123_04" width="448" height="336" class="alignnone size-large wp-image-4369" /></a><br />
 ▼アップ<br />
-<a href="http://kotalab.com/wp-content/uploads/quiver_121123_05.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/quiver_121123_05-448x336.jpg" alt="" title="quiver_121123_05" width="448" height="336" class="alignnone size-large wp-image-4370" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/quiver_121123_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/quiver_121123_05-448x336.jpg" alt="" title="quiver_121123_05" width="448" height="336" class="alignnone size-large wp-image-4370" /></a><br />
 ▼太めの4色ボールペンが2本しっかり収まります<br />
-<a href="http://kotalab.com/wp-content/uploads/quiver_121123_06.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/quiver_121123_06-448x336.jpg" alt="" title="quiver_121123_06" width="448" height="336" class="alignnone size-large wp-image-4371" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/quiver_121123_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/quiver_121123_06-448x336.jpg" alt="" title="quiver_121123_06" width="448" height="336" class="alignnone size-large wp-image-4371" /></a><br />
 ▼ダイスキンにも装着してみました<br />
-<a href="http://kotalab.com/wp-content/uploads/quiver_121123_07.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/quiver_121123_07-448x336.jpg" alt="" title="quiver_121123_07" width="448" height="336" class="alignnone size-large wp-image-4372" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/quiver_121123_07.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/quiver_121123_07-448x336.jpg" alt="" title="quiver_121123_07" width="448" height="336" class="alignnone size-large wp-image-4372" /></a><br />
 ペンホルダーをつけるとモレスキンとダイスキンの違いが余計分かりにくい！</p>
 <h2>最後に</h2>
 <p>ペンホルダーをつけただけでより一層愛着が湧いてきました！<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14533
-wordpress_url: http://kotalab.com/?p=14533
+wordpress_url: https://kotalab.com/?p=14533
 date: '2015-06-05 07:36:24 +0900'
 date_gmt: '2015-06-04 22:36:24 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 行動
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/06/time-is-precious_20150605_01-780x439.jpg" alt="time-is-precious_20150605_01" width="780" height="439" class="aligncenter size-large wp-image-14536" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/06/time-is-precious_20150605_01-780x439.jpg" alt="time-is-precious_20150605_01" width="780" height="439" class="aligncenter size-large wp-image-14536" /><br />
 「暇つぶし」という言葉を英語ではなんというのか調べてみました。<br />
 「kill time」とか「lose time」というのですね。</p>
 <p>「kill」には「ころす」という意味があります。<br />
@@ -43,7 +43,7 @@ comments: []
 本当はいつ終わるかわからないのに。</p>
 <p>そう考えると、暇つぶしというのは何よりもおろかな行為のように感じてしまいます。</p>
 <h2>さいごに</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/06/time-is-precious_20150605_02-780x520.jpg" alt="time-is-precious_20150605_02" width="780" height="520" class="aligncenter size-large wp-image-14535" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/06/time-is-precious_20150605_02-780x520.jpg" alt="time-is-precious_20150605_02" width="780" height="520" class="aligncenter size-large wp-image-14535" /><br />
 僕は「暇つぶし」という言葉も行為そのものもきらいです。</p>
 <p>まだやれていないやりたいことがたくさんあるし、やりたいことはいつまでたってもなくならないと思っています。<br />
 いつでも大好きなことができるよう、今日もカバンにMacBook Pro15インチをしのばせて会社にいってきます。</p>

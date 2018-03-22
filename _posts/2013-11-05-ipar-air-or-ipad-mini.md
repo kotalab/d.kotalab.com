@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10108
-wordpress_url: http://kotalab.com/?p=10108
+wordpress_url: https://kotalab.com/?p=10108
 date: '2013-11-05 11:47:35 +0900'
 date_gmt: '2013-11-05 02:47:35 +0900'
 category:
@@ -26,15 +26,15 @@ tags:
 - iPad Air
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/ipadairoripadmini_1311051-546x361.jpg" alt="ipadairoripadmini_131105" width="546" height="361" class="alignnone size-large wp-image-10112" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ipadairoripadmini_1311051-546x361.jpg" alt="ipadairoripadmini_131105" width="546" height="361" class="alignnone size-large wp-image-10112" /><br />
 iPad Airを発売日当日に買いました。こたら（@kotala_b）です。<br />
 11月中にRetinaディスプレイになったiPad miniが発売されますが、僕はiPad Airを買いました。<br />
 なぜ僕は今回iPad Airを選んだのか。<br />
 iPad miniを持ってる僕がなぜiPad Airを買ったのか書いてみようと思います。<br />
 <!--more--></p>
 <h2>iPad miniのいいところ</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/ipadmini10days_20121114_01.jpg" alt="ipadmini10days_20121114_01" width="592" height="409" class="alignnone size-full wp-image-4213" /><br />
-ちょうど1年前、<a href="http://kotalab.com/ipad-mini-machida-ydobashi" title="iPadmini購入！ヨドバシ町田に行ったら当日分があった！" target="_blank">iPad miniも発売日に買いました</a>。<br />
+<p><img src="https://kotalab.com/wp-content/uploads/ipadmini10days_20121114_01.jpg" alt="ipadmini10days_20121114_01" width="592" height="409" class="alignnone size-full wp-image-4213" /><br />
+ちょうど1年前、<a href="https://kotalab.com/ipad-mini-machida-ydobashi" title="iPadmini購入！ヨドバシ町田に行ったら当日分があった！" target="_blank">iPad miniも発売日に買いました</a>。<br />
 iPad miniの発売日から使ってますから、約1年間使ってたことになります。<br />
 1年間使ってみてiPad miniのいいところというのもそれなりにわかっているつもり。<br />
 iPad miniはサイズ自体が素晴らしいく、片手で持てて持ち運びに便利。<br />
@@ -43,19 +43,19 @@ TwitterやFacebookなどのSNSを中心に、YouTubeで動画は見れるし、�
 「見る」ということに関してはほんとに素晴らしいと思います。<br />
 でも僕が求めていたのはそれだけじゃなかった。</p>
 <h2>僕が去年iPad miniを選んだ理由</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="ipadmini_121027" width="592" height="409" class="alignnone size-full wp-image-3744" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="ipadmini_121027" width="592" height="409" class="alignnone size-full wp-image-3744" /><br />
 去年、iPad miniを買う前にこんなことを書いてました。</p>
 <blockquote><p>僕は通勤電車内の読書、RSS購読、外出時のブログ更新をiPadでやろうと思っています。<br />
-<a href="http://kotalab.com/ipad-mini-thinking" target="_blank">無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！</a></p></blockquote>
+<a href="https://kotalab.com/ipad-mini-thinking" target="_blank">無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！</a></p></blockquote>
 <p>結局今は、読書もRSS購読もiPhone 5sでやってて、ブログ更新にはMacBook Airを持ち歩いてます。<br />
 他にもこんなことを書いてました。</p>
 <blockquote><p>僕はiPadminiを使ってブログを書きたいので、フォトストリームでiPhoneで撮った写真を共有出来ることや、するぷろでブログを更新出来ることが購入したいと思っている理由です。<br />
-<a href="http://kotalab.com/ipad-mini-best-tablet" target="_blank">タブレット端末でやりたいことを考えるとやっぱりiPadminiがいい！</a></p></blockquote>
+<a href="https://kotalab.com/ipad-mini-best-tablet" target="_blank">タブレット端末でやりたいことを考えるとやっぱりiPadminiがいい！</a></p></blockquote>
 <p>外でブログ更新をするためにMacBook Airよりも軽くて持ち運びやすいタブレットが欲しかったんです。<br />
 で、実際何ヶ月かはiPad miniを持ち歩いてました。<br />
 そこでわかったのは、iPad miniだとその小ささ故にキーボードでの文字入力がイマイチだったこと。</p>
 <h2>僕が今年iPad Airを選んだ理由</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/buyipadair_131101_04-546x546.jpg" alt="buyipadair_131101_04" width="546" height="546" class="alignnone size-large wp-image-10100" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/buyipadair_131101_04-546x546.jpg" alt="buyipadair_131101_04" width="546" height="546" class="alignnone size-large wp-image-10100" /><br />
 外部キーボードに頼るとなるとその分荷物が増えるし、そこまでするとiPad miniの特徴である機動力という点が <span class="b">マイナス</span>になる。<br />
 それなら画面の大きいiPadでよかったと思いました。<br />
 <strong>僕の場合はブログを書きたいのに文字入力がしづらいからという理由でiPad Airを選びました。</strong><br />
@@ -65,7 +65,7 @@ TwitterやFacebookなどのSNSを中心に、YouTubeで動画は見れるし、�
 <p>と言ってたそうです。<br />
 その言葉通りiPad miniはキーボードが小さくて、文字入力という点がイマイチ。</p>
 <h3>iPad AirとiPad miniどっちを買おうか迷ってる方へ</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/buyipadair_131101_01-546x409.jpg" alt="buyipadair_131101_01" width="546" height="409" class="alignnone size-large wp-image-10098" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/buyipadair_131101_01-546x409.jpg" alt="buyipadair_131101_01" width="546" height="409" class="alignnone size-large wp-image-10098" /><br />
 iPad miniは「見る」ということに関してはほんとに素晴らしいサイズです。<br />
 ただし文字入力という点では劣る。<br />
 外部キーボードを使うくらいなら画面の大きいiPad Airがいいと思ってます。<br />

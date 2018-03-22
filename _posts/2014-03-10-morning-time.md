@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11102
-wordpress_url: http://kotalab.com/?p=11102
+wordpress_url: https://kotalab.com/?p=11102
 date: '2014-03-10 08:59:37 +0900'
 date_gmt: '2014-03-09 23:59:37 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - バックアップ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/morning-time_140310_01-546x409.jpg" alt="morning-time_140310_01" width="546" height="409" class="alignnone size-large wp-image-11107" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/morning-time_140310_01-546x409.jpg" alt="morning-time_140310_01" width="546" height="409" class="alignnone size-large wp-image-11107" /><br />
 できるだけ時間のゆとりを持って毎朝を過ごしたいと僕は思っています。<br />
 そのためには<span class="b">ほぼ自動的に動き出せる仕組み作り</span>が大切なんじゃないかと考えています。<br />
 そのために僕がしている工夫を紹介したいと思います。<br />
@@ -38,7 +38,7 @@ comments: []
 <p>最初の動きだしを決めてるというよりは、勝手にこうなっていたという方が正しいかも知れません。<br />
 こういうことが決まってると朝起きて何をすればいいかで悩むこともないし、動きだしがスムーズだとその後も順調に行くことが多いです。</p>
 <h2>朝やることをリストアップする</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/morning-time_140310_02-546x409.jpg" alt="morning-time_140310_02" width="546" height="409" class="alignnone size-large wp-image-11106" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/morning-time_140310_02-546x409.jpg" alt="morning-time_140310_02" width="546" height="409" class="alignnone size-large wp-image-11106" /><br />
 動きだしがスムーズでも、まだ頭は眠っています。<br />
 やることを全部頭の中に入れておくのは無理なので、朝やることのリストを作っています。</p>
 <h2>寝ぼけててもできることをやる</h2>

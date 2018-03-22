@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 9922
-wordpress_url: http://kotalab.com/?p=9922
+wordpress_url: https://kotalab.com/?p=9922
 date: '2013-10-14 10:32:45 +0900'
 date_gmt: '2013-10-14 01:32:45 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - おすすめ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/miyajima_131009_06-546x361.jpg" alt="miyajima_131009_06" width="546" height="361" class="alignnone size-large wp-image-9850" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/miyajima_131009_06-546x361.jpg" alt="miyajima_131009_06" width="546" height="361" class="alignnone size-large wp-image-9850" /><br />
 広島滞在中の5日間は毎日、1時間おきに動画を撮ってました。こたら（@kotala_b）です。<br />
 折角の旅行なのでその時の思い出を動画でも残しておきたいと思い、ライフログとして動画も撮ることを決めました。<br />
 以前何回かQueuingCamを使ってやってみたんですが、どうにも撮り忘れが多くてイマイチ。<br />
@@ -47,12 +47,12 @@ comments: []
 Dueの機能ではリピート間隔がどんなに短くても1日おきなので少し工夫が必要でした。</p>
 <h3>Dueで1時間おきにリマインダーを鳴らす方法</h3>
 <p>まずはこんな風に普通にセットします。<br />
-<img src="http://kotalab.com/wp-content/uploads/appqueuingcamdue_131014_01-300x513.jpg" alt="appqueuingcamdue_131014_01" width="300" height="513" class="alignnone size-medium wp-image-9924" /><br />
+<img src="https://kotalab.com/wp-content/uploads/appqueuingcamdue_131014_01-300x513.jpg" alt="appqueuingcamdue_131014_01" width="300" height="513" class="alignnone size-medium wp-image-9924" /><br />
 指定した時間に「チーン」となったら普段は右端をチェックしますが、1時間おきに鳴らしたい時はそれじゃダメ！<br />
-<img src="http://kotalab.com/wp-content/uploads/appqueuingcamdue_131014_02-300x513.jpg" alt="appqueuingcamdue_131014_02" width="300" height="513" class="alignnone size-medium wp-image-9925" /><br />
+<img src="https://kotalab.com/wp-content/uploads/appqueuingcamdue_131014_02-300x513.jpg" alt="appqueuingcamdue_131014_02" width="300" height="513" class="alignnone size-medium wp-image-9925" /><br />
 押すのは砂時計のアイコン。<br />
 砂時計のアイコンを押すと1時間後にまた鳴らしてくれます。<br />
-<img src="http://kotalab.com/wp-content/uploads/appqueuingcamdue_131014_03-300x513.jpg" alt="appqueuingcamdue_131014_03" width="300" height="513" class="alignnone size-medium wp-image-9926" /><br />
+<img src="https://kotalab.com/wp-content/uploads/appqueuingcamdue_131014_03-300x513.jpg" alt="appqueuingcamdue_131014_03" width="300" height="513" class="alignnone size-medium wp-image-9926" /><br />
 このようにリマインダー自体は止めないで、1時間後に繰り下げてまた鳴るようにします。</p>
 <h3>QueuingCamとDueの組み合わせでライフログ</h3>
 <p>動画を撮ろうと思っていても普段やらないことだからついつい忘れてしまう。<br />

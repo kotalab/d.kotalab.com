@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14973
-wordpress_url: http://kotalab.com/?p=14973
+wordpress_url: https://kotalab.com/?p=14973
 date: '2016-01-06 08:00:00 +0900'
 date_gmt: '2016-01-05 23:00:00 +0900'
 category:
@@ -19,7 +19,7 @@ tags:
 - やってみる
 - バーバラ・シェア
 comments: []
-thumbnail: http://kotalab.com/wp-content/uploads/2016/01/lets-write_20160106-780x520.jpg
+thumbnail: https://kotalab.com/wp-content/uploads/2016/01/lets-write_20160106-780x520.jpg
 ---
 <p>一年の計は元旦にあり。<br><br />
 こんなことわざもあるくらいですから、年の初めに今年やりたいことを計画してみた人も沢山いると思います。  </p>

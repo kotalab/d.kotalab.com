@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6234
-wordpress_url: http://kotalab.com/?p=6234
+wordpress_url: https://kotalab.com/?p=6234
 date: '2013-02-17 06:16:57 +0900'
 date_gmt: '2013-02-16 21:16:57 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 高城剛
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130217061655.jpg" width="448" height="336" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130217061655.jpg" width="448" height="336" /><br />
 本を読んでこんなにモノが欲しくなったことは初めてです。@kotala_bです。<br />
 読んだ本は高城剛さんのライフパッキングです。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
@@ -120,9 +120,9 @@ comments: []
 </div>
 <h2 class="rele">関連記事</h2>
 <p>本に載ってるモノを実際に買ってみました！<br />
-<a href="http://kotalab.com/multi-tool" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/6waytools_130220-448x336.jpg" alt="爪が長い女性にもオススメの一品！超小型栓抜き型ツールキーホルダー！ | kotala's note" width="150" /></a><a href="http://kotalab.com/multi-tool" target="_blank">爪が長い女性にもオススメの一品！超小型栓抜き型ツールキーホルダー！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/solarbattery" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/solarbattery_130220-448x336.jpg" alt="電源がなくても充電出来る！ソーラータイプのモバイルバッテリーを購入！ | kotala's note" width="150" /></a><a href="http://kotalab.com/solarbattery" target="_blank">電源がなくても充電出来る！ソーラータイプのモバイルバッテリーを購入！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/abitax-taglight" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/abitax_130222-448x336.jpg" alt="小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note" width="150" /></a><a href="http://kotalab.com/abitax-taglight" target="_blank">小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note</a><br style="clear:both;" /></p>
+<a href="https://kotalab.com/multi-tool" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/6waytools_130220-448x336.jpg" alt="爪が長い女性にもオススメの一品！超小型栓抜き型ツールキーホルダー！ | kotala's note" width="150" /></a><a href="https://kotalab.com/multi-tool" target="_blank">爪が長い女性にもオススメの一品！超小型栓抜き型ツールキーホルダー！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/solarbattery" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/solarbattery_130220-448x336.jpg" alt="電源がなくても充電出来る！ソーラータイプのモバイルバッテリーを購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/solarbattery" target="_blank">電源がなくても充電出来る！ソーラータイプのモバイルバッテリーを購入！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/abitax-taglight" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/abitax_130222-448x336.jpg" alt="小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/abitax-taglight" target="_blank">小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note</a><br style="clear:both;" /></p>
 <hr>
 <p>このアプリを使って更新しました！</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1.mzstatic.com/us/r1000/065/Purple/v4/4c/c6/a8/4cc6a855-cc5c-34ed-0436-36e219eafb81/mzl.xejvrijs.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>

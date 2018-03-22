@@ -40,7 +40,7 @@ comments:
   content: "[&#8230;] こたらさんについて [&#8230;]"
 ---
 <h2 class="landing">こたら</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/profile_icon.png" alt="" title="profile" width="350" height="350"/><br />
+<p><img src="https://kotalab.com/wp-content/uploads/profile_icon.png" alt="" title="profile" width="350" height="350"/><br />
 ・ブロガー<br />
 ・iPhoneアプリ開発者<br />
 ・2級ファイナンシャル・プランニング技能士</p>
@@ -55,7 +55,7 @@ Facebook：<a href="https://www.facebook.com/tetsuyakjma" title="こたらFacebo
 <h3>ブログを始めたきっかけは</h3>
 <blockquote><p>ブログを始めたきっかけはストレスフリーという生き方とそれを実践している人たちに共感し、自分も実践しようと決意。<br />
 その実践の中でアウトプットの大切さを知り、ライフログを兼ねてブログを始めることにしました。<br />
-via：<a href="http://kotalab.com/hello-world">初投稿</a></p></blockquote>
+via：<a href="https://kotalab.com/hello-world">初投稿</a></p></blockquote>
 <p>この時「とにかくやってみよう！」をテーマに書こうと決めていたわけじゃありません。<br />
 ただ思い返してみるとブログを始めたときから「とにかくやってみよう！」でした。</p>
 <p>とにかくやってみることで自分の「好き」「嫌い」を今までよりずっと強く感じとることができるようになりました。<br />
@@ -72,7 +72,7 @@ FP資格をとったことがきっかけで、家族や周囲の人からお金
 そこで僕が取った行動は仕事を変えることでした。</p>
 <p><strong>週40時間ある仕事の時間を全てプログラミングの勉強時間に変えるための転職でした。</strong></p>
 <p>プログラマー1年目にしてiPhoneアプリ「<a href="https://itunes.apple.com/jp/app/webnote/id911802747?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">WebNote</a>」をリリース。<br />
-更にあのスティーブジョブズも立った「アップルストア銀座」で<a href="http://kotalab.com/appdojo-ginza-event" title="AppleStore銀座でアプリ道場のイベントにアプリ開発者として参加してきたよ！ #アプリ道場演武会">アプリの発表イベント</a>に登壇することにもなりました。</p>
+更にあのスティーブジョブズも立った「アップルストア銀座」で<a href="https://kotalab.com/appdojo-ginza-event" title="AppleStore銀座でアプリ道場のイベントにアプリ開発者として参加してきたよ！ #アプリ道場演武会">アプリの発表イベント</a>に登壇することにもなりました。</p>
 <h2>とにかくやってみよう！</h2>
 <p>ブログを始めたことで「とにかくやってみよう」と積極的に行動する自分に出会うことができました。<br />
 あの日「とにかくやってみよう！」と思わなかったら、「とにかくやってみよう！」と行動しなかったら、今の僕はありえません。</p>
@@ -81,11 +81,11 @@ FP資格をとったことがきっかけで、家族や周囲の人からお金
 <blockquote><p>自分が知ったことを様々な人へ、自分のオススメな情報を様々な人へ伝えたい。<br />
 自分が伝えたいことをこのブログを通して広げていきたい。<br />
 その想いがあることでこのブログを書き続けられるのです。<br />
-via:<a href="http://kotalab.com/keep-writing-200">連続更新200日達成！僕が毎日ブログを書き続けることが出来た理由</a></p></blockquote>
+via:<a href="https://kotalab.com/keep-writing-200">連続更新200日達成！僕が毎日ブログを書き続けることが出来た理由</a></p></blockquote>
 <p>ブログを始めて3年経った今でもこの想いは変わりません。</p>
 <h2>さいごに</h2>
 <p>ここまでお読みいただきありがとうございます。</p>
 <p>僕はブログを書く人であり、FPでもあり、iPhoneアプリ開発者でもあり、週40時間働くサラリーマンでもあります。<br />
 これらの経験を生かし、お金に関する相談やブログに関する相談をお聞きするお仕事も行っています。<br />
 何か困ったことがあればお気軽にご相談ください。<br />
-<a href="http://kotalab.com/contact" title="お問い合わせページ" onclick="_gaq.push(['_trackEvent', 'profilepage', 'click', 'goContactFromProfile']);">お問い合わせはこちらから。</a></p>
+<a href="https://kotalab.com/contact" title="お問い合わせページ" onclick="_gaq.push(['_trackEvent', 'profilepage', 'click', 'goContactFromProfile']);">お問い合わせはこちらから。</a></p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10692
-wordpress_url: http://kotalab.com/?p=10692
+wordpress_url: https://kotalab.com/?p=10692
 date: '2014-01-29 10:38:29 +0900'
 date_gmt: '2014-01-29 01:38:29 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - 本田健
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books-20dai-to-do-17-things_140129-546x361.jpg" alt="books-20dai-to-do-17-things_140129" width="546" height="361" class="alignnone size-large wp-image-10698" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-20dai-to-do-17-things_140129-546x361.jpg" alt="books-20dai-to-do-17-things_140129" width="546" height="361" class="alignnone size-large wp-image-10698" /><br />
 「<a href="http://www.amazon.co.jp/exec/obidos/asin/B00EXODB64/same-22/" rel="nofollow" target="_blank">20代にしておきたい17のこと</a>」の著者、本田健さんは20代は人生の基盤であるという。<br />
 この先何十年もある人生の中ではまだまだ序盤なのだ。<br />
 長い人生を考えると20代にしっかりとした基盤、自分の軸を作ることが大切だという。<br />

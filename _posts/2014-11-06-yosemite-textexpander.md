@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13568
-wordpress_url: http://kotalab.com/?p=13568
+wordpress_url: https://kotalab.com/?p=13568
 date: '2014-11-06 07:44:54 +0900'
 date_gmt: '2014-11-05 22:44:54 +0900'
 category:
@@ -21,21 +21,21 @@ tags:
 - Textexpander
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_04.png" alt="yosemite-textexpander_20141106_04" width="780" height="654" class="aligncenter size-full wp-image-13575" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_04.png" alt="yosemite-textexpander_20141106_04" width="780" height="654" class="aligncenter size-full wp-image-13575" /><br />
 OS X YosemiteにTextExpanderを入れてTextExpanderを起動したところ「補助装置が使用不可となっています」という警告が出てTextExpanderが使えませんでした。</p>
 <p>これを解消して使える方法を紹介したいと思います。<br />
 <!--more--></p>
 <h2>OS X YosemiteでTextExpanderを使う方法</h2>
 <p>TextExpanderを起動すると「補助装置が使用不可となっています」という警告が出ました。<br />
-<img src="http://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_01.png" alt="yosemite-textexpander_20141106_01" width="641" height="282" class="aligncenter size-full wp-image-13572" /><br />
+<img src="https://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_01.png" alt="yosemite-textexpander_20141106_01" width="641" height="282" class="aligncenter size-full wp-image-13572" /><br />
 『システム環境設定の「ユニバーサルアクセス」パネルを開く...』というボタンを押すとアクセシビリティが開きます。<br />
-<img src="http://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_02.png" alt="yosemite-textexpander_20141106_02" width="780" height="544" class="aligncenter size-full wp-image-13573" /><br />
+<img src="https://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_02.png" alt="yosemite-textexpander_20141106_02" width="780" height="544" class="aligncenter size-full wp-image-13573" /><br />
 が、どこで設定すればいいかわからない・・。</p>
 <p>実はアクセシビリティには「ユニバーサルアクセス」パネルはなくて他のところで設定しなければなりません。<br />
 「セキュリティとプライバシー」パネルで設定します。<br />
-<img src="http://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_03.png" alt="yosemite-textexpander_20141106_03" width="780" height="710" class="aligncenter size-full wp-image-13574" /><br />
+<img src="https://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_03.png" alt="yosemite-textexpander_20141106_03" width="780" height="710" class="aligncenter size-full wp-image-13574" /><br />
 「セキュリティとプライバシー」パネルにあるプライバシータブの中に「アクセシビリティ」という項目があり、そこでTextExpanderの項目にチェックを入れるとTextExpanderが使えるようになります！<br />
-<img src="http://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_04.png" alt="yosemite-textexpander_20141106_04" width="780" height="654" class="aligncenter size-full wp-image-13575" /></p>
+<img src="https://kotalab.com/wp-content/uploads/yosemite-textexpander_20141106_04.png" alt="yosemite-textexpander_20141106_04" width="780" height="654" class="aligncenter size-full wp-image-13575" /></p>
 <h3>TextExpanderがないと困る！</h3>
 <p>僕はブログを書くときはもちろんのこと普段からTextExpanderにお世話になっています。これなしには文章を書きたくないと思えるくらいとっても便利なアプリです。<br />
 TextExpanderは現在AppStoreから購入できなくなっているので、ダウンロードする場合は<a href="http://smilesoftware.com/TextExpander/index.html" target="_blank">公式サイトからどうぞ</a></p>

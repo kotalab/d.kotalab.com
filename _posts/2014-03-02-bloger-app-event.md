@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11027
-wordpress_url: http://kotalab.com/?p=11027
+wordpress_url: https://kotalab.com/?p=11027
 date: '2014-03-02 15:46:28 +0900'
 date_gmt: '2014-03-02 06:46:28 +0900'
 category:
@@ -47,7 +47,7 @@ comments:
   date_gmt: '2015-07-02 16:00:03 +0900'
   content: "[&#8230;]  [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/bloger-app-event_140301_01-546x409.jpg" alt="bloger-app-event_140301_01" width="546" height="409" class="alignnone size-large wp-image-11028" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/bloger-app-event_140301_01-546x409.jpg" alt="bloger-app-event_140301_01" width="546" height="409" class="alignnone size-large wp-image-11028" /><br />
 <a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a>のあきおさん(<a href="https://twitter.com/akio0911" target="_blank">@akio0911</a>)が主催のブロガー向けiPhoneアプリ開発体験会に行ってきました！<br />
 場所は渋谷のワーキングスペース「<a href="http://lightningspot.com/" target="_blank">Lightningspot</a>」で行われました。<br />
 参加者は<span class="removed_link" title="http://xtrailor.com/">果報は寝て待て</span>の慶次郎さん（<a href="https://twitter.com/Keijirou_" target="_blank">@Keijirou_</a>）、<a href="http://hatch2.com/blog/" target="_blank">hatch2 blog</a>のくまもんさん（<a href="https://twitter.com/hatch2" target="_blank">@hatch2</a>）、<a href="http://ilmio-notizie.com/" target="_blank">いるみお</a>のとろあさん（<a href="https://twitter.com/tohroa" target="_blank">@tohroa</a>）、<a href="http://hamako9999.net/" target="_blank">hamako9999.net</a>のハマコーさん（<a href="https://twitter.com/hamako9999" target="_blank">@hamako9999</a>）、そして僕の5人でした。<br />
@@ -56,14 +56,14 @@ comments:
 <p>今回作ったのは「自分のブログからRSSで記事一覧を読み取って、その中から選んだものをTwitterでつぶやく」というアプリです。<br />
 作業自体はあきおさんが用意してくれてるコードをコピペしていくだけなので、プログラミングが初めてでも大丈夫！<br />
 プロジェクタを使ったあきおさんのレクチャーで会は進み、<br />
-<img src="http://kotalab.com/wp-content/uploads/bloger-app-event_140301_02-546x409.jpg" alt="bloger-app-event_140301_02" width="546" height="409" class="alignnone size-large wp-image-11032" /><br />
+<img src="https://kotalab.com/wp-content/uploads/bloger-app-event_140301_02-546x409.jpg" alt="bloger-app-event_140301_02" width="546" height="409" class="alignnone size-large wp-image-11032" /><br />
 もし何かエラーが出たりわからないことがあっても、その場ですぐあきおさんがフォローしてくれます。<br />
-<img src="http://kotalab.com/wp-content/uploads/bloger-app-event_140301_03-546x409.jpg" alt="bloger-app-event_140301_03" width="546" height="409" class="alignnone size-large wp-image-11033" /></p>
+<img src="https://kotalab.com/wp-content/uploads/bloger-app-event_140301_03-546x409.jpg" alt="bloger-app-event_140301_03" width="546" height="409" class="alignnone size-large wp-image-11033" /></p>
 <h3>初めてのアプリが完成</h3>
 <p>出来上がったのがこんな感じ。アプリを開くと記事一覧が出てきて、<br />
-<img src="http://kotalab.com/wp-content/uploads/bloger-app-event_140301_08-300x463.png" alt="bloger-app-event_140301_08" width="300" height="463" class="alignnone size-medium wp-image-11035" /><br />
+<img src="https://kotalab.com/wp-content/uploads/bloger-app-event_140301_08-300x463.png" alt="bloger-app-event_140301_08" width="300" height="463" class="alignnone size-medium wp-image-11035" /><br />
 タイトルをタップするとツイートする画面が出てくる。<br />
-<img src="http://kotalab.com/wp-content/uploads/bloger-app-event_140301_09-300x463.png" alt="bloger-app-event_140301_09" width="300" height="463" class="alignnone size-medium wp-image-11036" /><br />
+<img src="https://kotalab.com/wp-content/uploads/bloger-app-event_140301_09-300x463.png" alt="bloger-app-event_140301_09" width="300" height="463" class="alignnone size-medium wp-image-11036" /><br />
 ツイートするとTwitter上ではこんな風に表示されます。</p>
 <blockquote class="twitter-tweet" lang="ja"><p>消費税増税前に定期券を買うベストタイミング！？定期券をいつ買えばいいかを調べてみた. <a href="https://twitter.com/search?q=%23%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E4%BD%93%E9%A8%93%E4%BC%9A&amp;src=hash">#アプリ開発体験会</a> <a href="http://t.co/fTTxCqhZaY">http://t.co/fTTxCqhZaY</a></p>
 <p>&mdash; こたら (@kotala_b) <a href="https://twitter.com/kotala_b/statuses/439658390545911809">2014, 3月 1</a></p></blockquote>
@@ -74,7 +74,7 @@ iOSシミュレータ上でツイートしてもしっかりツイートされ�
 あっという間にできちゃいました。あきおさんが事前に用意してくれてたおかげではあるんですけど、思ってたよりあっさりできすぎて正直びっくり。<br />
 ただiPhoneで実際に動かすには、Appleに年会費を払わなきゃいけないので今回はお預けです。</p>
 <h3>iPhoneアプリ開発体験会の後はベルギービールで乾杯</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/bloger-app-event_140301_05-546x409.jpg" alt="bloger-app-event_140301_05" width="546" height="409" class="alignnone size-large wp-image-11029" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/bloger-app-event_140301_05-546x409.jpg" alt="bloger-app-event_140301_05" width="546" height="409" class="alignnone size-large wp-image-11029" /><br />
 iPhoneアプリ開発体験会の後はLightningspotの近くにあるおいしいベルギービールのお店BELGOで乾杯！<br />
 僕の場合はとろあさん意外は初対面でしたが、ブログという共通の話題があるのでみんなで盛り上がれました。<br />
 ブログ書きながら気づいたけど、Lightningspotにいた時間よりもBELGOで飲んでた時間の方が長かった！</p>

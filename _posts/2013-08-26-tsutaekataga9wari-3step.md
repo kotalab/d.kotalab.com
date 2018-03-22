@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 8273
-wordpress_url: http://kotalab.com/?p=8273
+wordpress_url: https://kotalab.com/?p=8273
 date: '2013-08-26 19:00:21 +0900'
 date_gmt: '2013-08-26 10:00:21 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 伝え方が9割
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/tsutaekata_130826-448x336.jpg" alt="tsutaekata_130826" width="448" height="336" class="alignnone size-large wp-image-8276" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/tsutaekata_130826-448x336.jpg" alt="tsutaekata_130826" width="448" height="336" class="alignnone size-large wp-image-8276" /><br />
 「伝え方が9割」を読みました。こたら（@kotala_b）です。<br />
 この本は「<strong>簡単に伝え方を鍛えたい！</strong>」そんなあなたにオススメの1冊！<br />
 「伝え方が9割」の中からお願いごとにいい返事を貰うための3ステップをご紹介したい。<br />
@@ -68,7 +68,7 @@ comments: []
 相手のメリットは「驚くほどウマいパスタが食べられる」こと。自分のメリットは勿論「デートにいける」こと。<br />
 お互いのメリットが一致するお願いごとは、今までNoと言われていたお願いごとでもYesに変わる可能性が高くなる。</p>
 <h3>万能な3ステップ</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/tsutaekata_130826-448x336.jpg" alt="tsutaekata_130826" width="448" height="336" class="alignnone size-large wp-image-8276" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/tsutaekata_130826-448x336.jpg" alt="tsutaekata_130826" width="448" height="336" class="alignnone size-large wp-image-8276" /><br />
 今回はデートを例に挙げたが、どんなお願いごとにも万能な3ステップである。<br />
 人は1日で平均22回もお願いごとをしているという。<br />
 もし22回のお願いごとに対して、Yesと言ってもらえる可能性があがるなら是非この技術を鍛えていきたい！<br />

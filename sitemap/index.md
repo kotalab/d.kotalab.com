@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7442
-wordpress_url: http://kotalab.com/?page_id=7442
+wordpress_url: https://kotalab.com/?page_id=7442
 date: '2013-06-13 13:01:22 +0900'
 date_gmt: '2013-06-13 04:01:22 +0900'
 category: []

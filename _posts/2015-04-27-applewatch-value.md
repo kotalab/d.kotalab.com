@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14193
-wordpress_url: http://kotalab.com/?p=14193
+wordpress_url: https://kotalab.com/?p=14193
 date: '2015-04-27 08:12:08 +0900'
 date_gmt: '2015-04-26 23:12:08 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - AppleWatch
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/applewatch-value.png" alt="Applewatch value" width="568" height ="300" class="aligncenter size-large" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/applewatch-value.png" alt="Applewatch value" width="568" height ="300" class="aligncenter size-large" /><br />
 遂にAppleWatchの販売が開始されました！<br />
 Appleのオンラインストアで予約しても発売日当日に届かないのに、家電量販店では当日販売の在庫が結構あったみたいですね。</p>
 <p>ヨドバシカメラやビックカメラではネット販売は行わず、今のところは店頭での販売のみとなっています。<br />

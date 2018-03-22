@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7881
-wordpress_url: http://kotalab.com/?p=7881
+wordpress_url: https://kotalab.com/?p=7881
 date: '2013-07-19 20:56:05 +0900'
 date_gmt: '2013-07-19 11:56:05 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 健康保険
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="money_130719" width="448" height="336" class="alignnone size-large wp-image-7885" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="money_130719" width="448" height="336" class="alignnone size-large wp-image-7885" /><br />
 新米ファイナンシャルプランナー。こたら（@kotala_b）です。<br />
 ファイナンシャルプランナーとして勉強してた「これは知らないと損だな」と思ったことをこのブログを通してシェアしていきたいと思います。<br />
 今回は「高額療養費」について書いていきます。<br />

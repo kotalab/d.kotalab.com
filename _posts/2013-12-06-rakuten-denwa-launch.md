@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10269
-wordpress_url: http://kotalab.com/?p=10269
+wordpress_url: https://kotalab.com/?p=10269
 date: '2013-12-06 12:46:53 +0900'
 date_gmt: '2013-12-06 03:46:53 +0900'
 category:
@@ -35,7 +35,7 @@ comments:
   content: "[&#8230;] ◆ 通話料が半額！？楽天でんわがスタートしたので登録して使ってみたよ！ （ via kotala&#8217;s note
     ） ◆ 連絡先+を使えば楽天でんわアプリは不要 （ via K&#8217;s Blog ） [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206-546x270.png" alt="rakutendenwalaunch_131206" width="546" height="270" class="alignnone size-large wp-image-10276" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206-546x270.png" alt="rakutendenwalaunch_131206" width="546" height="270" class="alignnone size-large wp-image-10276" /><br />
 楽天でんわに早速登録申請をしました。こたら（@kotala_b）です。<br />
 楽天でんわというのは、楽天が12月5日からスタートさせたスマホ向けの格安通話サービスです。<br />
 12月5日の発表後すぐにサービスがスタートしたので僕も早速登録して使ってみました！<br />
@@ -53,25 +53,25 @@ comments:
 楽天IDを持ってる方はそのIDで、持っていない場合は新規登録というカタチになります。<br />
 楽天IDを持っていれば通話料100円につき楽天スーパーポイントが1ポイント付与されるようになります。<br />
 登録申込みをするとすぐに仮登録完了のお知らせが登録したメアドに届きます。<br />
-<img src="http://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_01-546x298.png" alt="rakutendenwalaunch_131206_01" width="546" height="298" class="alignnone size-large wp-image-10270" /><br />
+<img src="https://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_01-546x298.png" alt="rakutendenwalaunch_131206_01" width="546" height="298" class="alignnone size-large wp-image-10270" /><br />
 さらに数分後何も問題がなければ本登録完了のメールが届き、楽天でんわの利用開始になります。<br />
-<img src="http://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_02-546x358.png" alt="rakutendenwalaunch_131206_02" width="546" height="358" class="alignnone size-large wp-image-10271" /><br />
+<img src="https://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_02-546x358.png" alt="rakutendenwalaunch_131206_02" width="546" height="358" class="alignnone size-large wp-image-10271" /><br />
 何分経っても仮登録完了のメールが届かない場合は迷惑メールフォルダを確認してみてください。<br />
 迷惑メールフォルダに入っててメールに気づくのが半日以上かかっちゃいました。</p>
 <h2>楽天でんわを使ってみた！</h2>
 <p>楽天でんわのアプリをダウンロードして使ってみました。<br />
 楽天でんわアプリは公式の通話アプリと見た目がソックリ。<br />
 連絡先からかけたい相手を選んで電話をかけれます。<br />
-<img src="http://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_03-300x513.jpg" alt="rakutendenwalaunch_131206_03" width="300" height="513" class="alignnone size-medium wp-image-10272" /><br />
+<img src="https://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_03-300x513.jpg" alt="rakutendenwalaunch_131206_03" width="300" height="513" class="alignnone size-medium wp-image-10272" /><br />
 電話をかけてみると電話番号の先頭に「003768」をつけた電話番号に、公式アプリから通話が開始されました。<br />
-<img src="http://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_04-300x513.jpg" alt="rakutendenwalaunch_131206_04" width="300" height="513" class="alignnone size-medium wp-image-10273" /><br />
+<img src="https://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_04-300x513.jpg" alt="rakutendenwalaunch_131206_04" width="300" height="513" class="alignnone size-medium wp-image-10273" /><br />
 着信側には「090」から始まる僕が普段使ってる電話番号から着信があったように通知されています。<br />
-<img src="http://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_06-546x409.jpg" alt="rakutendenwalaunch_131206_06" width="546" height="409" class="alignnone size-large wp-image-10275" /></p>
+<img src="https://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_06-546x409.jpg" alt="rakutendenwalaunch_131206_06" width="546" height="409" class="alignnone size-large wp-image-10275" /></p>
 <h2>楽天でんわの注意点</h2>
 <p>通話料半額で基本料・初期費用無料とくれば今まで通り電話をかける意味はありませんね。<br />
 ひとつだけ注意点があるとすれば、<strong>同じキャリア同士や家族割で無料通話になる分が楽天でんわ経由だと有料になる</strong>点です。<br />
 その場合は楽天でんわアプリ内の無料通話リストに登録することで回避可能です。<br />
-<img src="http://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_05-300x513.jpg" alt="rakutendenwalaunch_131206_05" width="300" height="513" class="alignnone size-medium wp-image-10274" /></p>
+<img src="https://kotalab.com/wp-content/uploads/rakutendenwalaunch_131206_05-300x513.jpg" alt="rakutendenwalaunch_131206_05" width="300" height="513" class="alignnone size-medium wp-image-10274" /></p>
 <h3>楽天でんわ開始で思うこと</h3>
 <p>料金面を見ると従来の半額、「050」サービスと比べると若干高めという通話料設定の楽天でんわ。<br />
 「050」サービスを上回る点は従来の電話番号のままで通話品質が変わらないということ。<br />

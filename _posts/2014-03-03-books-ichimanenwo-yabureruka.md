@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11055
-wordpress_url: http://kotalab.com/?p=11055
+wordpress_url: https://kotalab.com/?p=11055
 date: '2014-03-03 06:56:51 +0900'
 date_gmt: '2014-03-02 21:56:51 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 苫米地英人
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20140303065646.jpg" width="548" height="411" class="slooProImg" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140303065646.jpg" width="548" height="411" class="slooProImg" /><br />
 「君は1万円札を破れるか？」というタイトルはとても強烈だ。<br />
 本の内容は、僕たちが「お金」というモノにいかに洗脳されているのか、はっきりさせられるものとなっている。</p>
 <p>目の前の1万円札はただの紙切れだ。ただの紙切れには物質的な価値はほとんどない。<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10037
-wordpress_url: http://kotalab.com/?p=10037
+wordpress_url: https://kotalab.com/?p=10037
 date: '2013-10-26 21:30:12 +0900'
 date_gmt: '2013-10-26 12:30:12 +0900'
 category:
@@ -29,7 +29,7 @@ comments:
   content: "[&#8230;] ◆ iPad Air発売日の11月1日はビックカメラやヨドバシカメラはいつもより早くオープンする （ via kotala&#8217;s
     note ） [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/ipadair_131023_02-546x331.png" alt="ipadair_131023_02" width="546" height="331" class="alignnone size-large wp-image-10018" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ipadair_131023_02-546x331.png" alt="ipadair_131023_02" width="546" height="331" class="alignnone size-large wp-image-10018" /><br />
 iPad Airを買うつもりです。こたら（@kotala_b）です。<br />
 先日発表になったiPad Airの販売は11月1日から。<br />
 アップルストアや家電量販店の中には発売日当日、普段よりも早くオープンする予定があることを告知してます。<br />
@@ -50,7 +50,7 @@ Appleから正式な発表は見つかりませんでしたが、iPad Air発売�
 それに比べるとヨドバシカメラとビックカメラは何倍もの店舗数を誇ります。<br />
 近くにアップルストアがなくても近くのヨドバシカメラなら発売日の8時に買える可能性があります！</p>
 <h3>当日買いたいなら在庫を要チェック！</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/slooProImg_20121102132955.jpg" alt="slooProImg_20121102132955.jpg" width="448" height="598" class="alignnone size-full wp-image-3907" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/slooProImg_20121102132955.jpg" alt="slooProImg_20121102132955.jpg" width="448" height="598" class="alignnone size-full wp-image-3907" /><br />
 発売日当日に欲しくても朝の8時に買いに行ける人もなかなかいないでしょう。<br />
 僕も仕事があるので買えるのは夕方の予定です。<br />
 そこで僕が注目してるのはヨドバシカメラのオンラインショップ、ヨドバシドットコム！<br />

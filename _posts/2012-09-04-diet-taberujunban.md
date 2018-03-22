@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2477
-wordpress_url: http://kotalab.com/?p=2477
+wordpress_url: https://kotalab.com/?p=2477
 date: '2012-09-04 12:09:14 +0900'
 date_gmt: '2012-09-04 03:09:14 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - ダイエット
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/health.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/health.jpg" alt="" title="health" width="448" height="298" class="alignnone size-full wp-image-1111" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/health.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/health.jpg" alt="" title="health" width="448" height="298" class="alignnone size-full wp-image-1111" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/quinnanya/5645559731/" target="_blank">Disposable blood pressure cuff</a> / quinn.anya</span><br />
 ご飯と一緒に肉を食べるのが大好きです。@kotala_bです。<br />
 フジテレビ系の朝の番組「とくダネ！」で<strong>食べる順番療法</strong>というものが紹介されていました。<br />

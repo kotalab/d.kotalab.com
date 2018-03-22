@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10222
-wordpress_url: http://kotalab.com/?p=10222
+wordpress_url: https://kotalab.com/?p=10222
 date: '2013-11-22 21:15:35 +0900'
 date_gmt: '2013-11-22 12:15:35 +0900'
 category:
@@ -30,7 +30,7 @@ comments:
   content: "[&#8230;] ◆ SIMフリーiPhone 5sの最大のメリットは2年縛りがないこと！ （ via kotala&#8217;s note
     ） [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/simfreeiphone5s5c_131122_01-546x331.png" alt="simfreeiphone5s5c_131122_01" width="546" height="331" class="alignnone size-large wp-image-10228" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/simfreeiphone5s5c_131122_01-546x331.png" alt="simfreeiphone5s5c_131122_01" width="546" height="331" class="alignnone size-large wp-image-10228" /><br />
 SIMフリーiPhoneが公式発売開始！こたら（@kotala_b）です。<br />
 今までは海外に行って買うか通販などで取り寄せるか購入方法が限定的だったSIMフリーiPhone。<br />
 11月22日から突然、アップルオンラインストアで公式に買えるようになりました。<br />
@@ -61,15 +61,15 @@ SIMフリーiPhoneが公式発売開始！こたら（@kotala_b）です。<br /
 </table>
 <p>SIMフリーiPhoneとしては安い！<br />
 ちなみにEXPANSYSではSIMフリーiPhone 5sの16GBが85,285円で売られていました。<br />
-<img src="http://kotalab.com/wp-content/uploads/simfreeiphone5s5c_131122_02-546x393.png" alt="simfreeiphone5s5c_131122_02" width="546" height="393" class="alignnone size-large wp-image-10229" /></p>
+<img src="https://kotalab.com/wp-content/uploads/simfreeiphone5s5c_131122_02-546x393.png" alt="simfreeiphone5s5c_131122_02" width="546" height="393" class="alignnone size-large wp-image-10229" /></p>
 <h3>SIMフリーのメリットは通信会社に縛られないこと</h3>
 <p>SIMフリー機の最大のメリットは通信キャリアと契約をしないで済むことです。<br />
 多少の知識は必要でしょうが、格安SIMと呼ばれる月額1000円程度のSIMカードを国内で利用できる点は魅力的。<br />
 <span class="b">格安SIMでは通信量の制限はきつくなるものの、2年間の利用で95000円ほどに。</span><br />
 通信キャリアと契約した場合、2年間の縛り期間中の利用料金は端末の割引や通信料込みで<span class="b">合計13万円以上！</span></p>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/iphone-5s-use-2years" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphone5suse2years_130914-546x408.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/iphone-5s-use-2years" target="_blank">iPhone 5sを2年間使い続けたら13万円以上！料金表を作ってみた！</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/iphone-5s-use-2years" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/iphone-5s-use-2years" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/iphone-5s-use-2years" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5suse2years_130914-546x408.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/iphone-5s-use-2years" target="_blank">iPhone 5sを2年間使い続けたら13万円以上！料金表を作ってみた！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/iphone-5s-use-2years" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/iphone-5s-use-2years" alt="" /></a></div>
 </div>
 <p>SIMフリー機には海外でもSIMを入れ替えればそのままiPhoneを使えるという便利さもある。<br />
 これまでは日本国内だとau、Softbank、ドコモのどこかと契約しなければなりませんでしたが、SIMフリーiPhoneの登場で変わってきそうですね！<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 8155
-wordpress_url: http://kotalab.com/?p=8155
+wordpress_url: https://kotalab.com/?p=8155
 date: '2013-08-22 19:30:43 +0900'
 date_gmt: '2013-08-22 10:30:43 +0900'
 category:
@@ -29,17 +29,17 @@ comments: []
 僕は今まで知りませんでした。<br />
 <!--more--></p>
 <h2>MacBook Airの掃除方法を調べてみた</h2>
-<p>僕がMacBook Airを買ったのは<a href="http://kotalab.com/macbook-air-24hours" target="_blank">去年の9月17日</a>のことです。<br />
+<p>僕がMacBook Airを買ったのは<a href="https://kotalab.com/macbook-air-24hours" target="_blank">去年の9月17日</a>のことです。<br />
 それから11ヶ月。メガネ拭きでごまかしていたものの、なかなかキレイな状態には戻りません。<br />
 そこでMacBook Airのお手入れについて調べてみたら、Appleのサポートページにマニュアルがあるのを見つけました！<br />
 <a href="http://support.apple.com/ja_JP/manuals/#macnotebooks" target="_blank">アップル - サポート - マニュアル</a></p>
 <h3>MacBook Air（Pro）の掃除方法はマニュアルの中にあった</h3>
 <p>マニュアル一覧の中の「<strong>この製品についての重要なお知らせ</strong>」というPDFの中に答えは見つかりました！<br />
-<img src="http://kotalab.com/wp-content/uploads/cleanmacbook_130822_07-448x288.jpg" alt="cleanmacbook_130822_07" width="448" height="288" class="alignnone size-large wp-image-8163" /><br />
+<img src="https://kotalab.com/wp-content/uploads/cleanmacbook_130822_07-448x288.jpg" alt="cleanmacbook_130822_07" width="448" height="288" class="alignnone size-large wp-image-8163" /><br />
 正しいMacBook Airのお手入れの仕方は「<strong>清潔な柔らかい布を水で軽く湿らせてから清掃する</strong>」です！<br />
 この方法で液晶も外面もキレイに掃除出来ます！<br />
 ちなみにMacBook Proのお手入れの仕方は「<strong>付属のクリーニングクロスを水で軽く湿らせてから清掃する</strong>」です！<br />
-<img src="http://kotalab.com/wp-content/uploads/cleanmacbook_130822_08-448x336.jpg" alt="cleanmacbook_130822_08" width="448" height="336" class="alignnone size-large wp-image-8164" /></p>
+<img src="https://kotalab.com/wp-content/uploads/cleanmacbook_130822_08-448x336.jpg" alt="cleanmacbook_130822_08" width="448" height="336" class="alignnone size-large wp-image-8164" /></p>
 <h2>マニュアル通りに掃除してみました！</h2>
 <p><strong>使うのは清潔な柔らかい布</strong>ということで、家の中にあったコストコのマイクロファイバータオルを使って掃除してみました！<br />
 今まではメガネ拭きを使って乾拭きしていただけ。これだとなかなか汚れは落ちませんでした。<br />
@@ -48,20 +48,20 @@ comments: []
 そして掃除開始！</p>
 <h3>MacBook Airを掃除する前</h3>
 <p>これが実際に使ったマイクロファイバータオル<br />
-<img src="http://kotalab.com/wp-content/uploads/cleanmacbook_130822_03-448x336.jpg" alt="cleanmacbook_130822_03" width="448" height="336" class="alignnone size-large wp-image-8157" /><br />
+<img src="https://kotalab.com/wp-content/uploads/cleanmacbook_130822_03-448x336.jpg" alt="cleanmacbook_130822_03" width="448" height="336" class="alignnone size-large wp-image-8157" /><br />
 液晶の汚れを目立たせる為にCamera+のエフェクトを使って強調させています。<br />
-<img src="http://kotalab.com/wp-content/uploads/cleanmacbook_130822_01-448x336.jpg" alt="cleanmacbook_130822_01" width="448" height="336" class="alignnone size-large wp-image-8159" /><br />
+<img src="https://kotalab.com/wp-content/uploads/cleanmacbook_130822_01-448x336.jpg" alt="cleanmacbook_130822_01" width="448" height="336" class="alignnone size-large wp-image-8159" /><br />
 外面で一番汚かったMacBook Airの底<br />
-<img src="http://kotalab.com/wp-content/uploads/cleanmacbook_130822_02-448x336.jpg" alt="cleanmacbook_130822_02" width="448" height="336" class="alignnone size-large wp-image-8160" /></p>
+<img src="https://kotalab.com/wp-content/uploads/cleanmacbook_130822_02-448x336.jpg" alt="cleanmacbook_130822_02" width="448" height="336" class="alignnone size-large wp-image-8160" /></p>
 <h3>MacBook Airを掃除した後</h3>
 <p>マイクロファイバータオルの汚れをご覧ください。<br />
-<img src="http://kotalab.com/wp-content/uploads/cleanmacbook_130822_06-448x336.jpg" alt="cleanmacbook_130822_06" width="448" height="336" class="alignnone size-large wp-image-8156" /><br />
+<img src="https://kotalab.com/wp-content/uploads/cleanmacbook_130822_06-448x336.jpg" alt="cleanmacbook_130822_06" width="448" height="336" class="alignnone size-large wp-image-8156" /><br />
 「こんなに汚れてたのか！」というくらい汚くなってました。<br />
 液晶はさっきと同様のエフェクトをかけて汚れが目立つようにしてます。<br />
-<img src="http://kotalab.com/wp-content/uploads/cleanmacbook_130822_04-448x336.jpg" alt="cleanmacbook_130822_04" width="448" height="336" class="alignnone size-large wp-image-8158" /><br />
+<img src="https://kotalab.com/wp-content/uploads/cleanmacbook_130822_04-448x336.jpg" alt="cleanmacbook_130822_04" width="448" height="336" class="alignnone size-large wp-image-8158" /><br />
 わかりにくいですが、指紋もホコリもキレイになくなってます！<br />
 一番汚かった底の汚れ<br />
-<img src="http://kotalab.com/wp-content/uploads/cleanmacbook_130822_05-448x336.jpg" alt="cleanmacbook_130822_05" width="448" height="336" class="alignnone size-large wp-image-8161" /><br />
+<img src="https://kotalab.com/wp-content/uploads/cleanmacbook_130822_05-448x336.jpg" alt="cleanmacbook_130822_05" width="448" height="336" class="alignnone size-large wp-image-8161" /><br />
 黒い跡がキレイに取れました！</p>
 <h3>これからは定期的にMacBook Airを掃除しよう</h3>
 <p>今までの乾拭きはなんだったのかというくらいキレイになりました。<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10752
-wordpress_url: http://kotalab.com/?p=10752
+wordpress_url: https://kotalab.com/?p=10752
 date: '2014-02-04 06:19:18 +0900'
 date_gmt: '2014-02-03 21:19:18 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 読書
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/change-habit_140204_01-546x307.jpg" alt="change-habit_140204_01" width="546" height="307" class="alignnone size-large wp-image-10753" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_01-546x307.jpg" alt="change-habit_140204_01" width="546" height="307" class="alignnone size-large wp-image-10753" /><br />
 僕はこの1月から転職して職場が変わりました。<br />
 片道40分くらいの職場から片道60分くらいの職場になりました。<br />
 通勤時間が増えて電車に乗ってる時間が多くなったわけなんですが、そのおかげで読書ペースが大幅に上がりました。<br />
@@ -31,18 +31,18 @@ comments: []
 じゃあなんでそんなことができたのかと考えた時に、「習慣」という言葉が出てきました。<br />
 <!--more--></p>
 <h2>習慣の第1の変化</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/change-habit_140204_02-546x546.jpg" alt="change-habit_140204_02" width="546" height="546" class="alignnone size-large wp-image-10754" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_02-546x546.jpg" alt="change-habit_140204_02" width="546" height="546" class="alignnone size-large wp-image-10754" /><br />
 去年までは片道40分の通勤時間中、電車に乗ってるは約10分。<br />
 今は35分ちょっと乗って、乗り換えてまた5分くらい乗ってと計40分は電車に乗ってます。<br />
 今までは下りの電車で行って帰りは上り電車だったので、いつも電車はガラガラ。<br />
 それが今は通勤ラッシュ時間に上り電車だからもう大変です。</p>
 <h2>習慣の第2の変化</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/books-30dai-to-do-17-things_140201-546x361.jpg" alt="books-30dai-to-do-17-things_140201" width="546" height="361" class="alignnone size-large wp-image-10727" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-30dai-to-do-17-things_140201-546x361.jpg" alt="books-30dai-to-do-17-things_140201" width="546" height="361" class="alignnone size-large wp-image-10727" /><br />
 通勤ラッシュ時間だからといって35分もボーッとしてるのは辛いし、かといって超満員なので本を開いて読むのはちょっとしんどい。<br />
 iPhone弄るくらいならできるのでiPhoneで電子書籍を読むようにしました。<br />
 本を読んでると電車に乗ってる時間もあっという間に感じてすごく良好。そのおかげで平日は毎朝30分以上の読書時間が確保できました。</p>
 <h2>習慣の第3の変化</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/books-tax-knowledge_140124-546x409.jpg" alt="books-tax- knowledge_140124" width="546" height="409" class="alignnone size-large wp-image-10642" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-tax-knowledge_140124-546x409.jpg" alt="books-tax- knowledge_140124" width="546" height="409" class="alignnone size-large wp-image-10642" /><br />
 今までにもこのブログで読んだ本のことを紹介してたんですが、読んだ本を全部紹介したかというとそうじゃありませんでした。<br />
 読んだら読みっぱなしで、インプットしてもアウトプットをしない状態です。<br />
 なんでそうなってたかというと、たぶん<strong>アウトプットをしようと思ってインプットしてなかったから</strong>だと思います。</p>
@@ -55,8 +55,8 @@ iPhone弄るくらいならできるのでiPhoneで電子書籍を読むよう�
 通勤時間が延びることってあんまいい思いはしないけど、書いてる本人は意外と前向きに捉えてます。</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/readingpace" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/readingpace" target="_blank">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/readingpace" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/readingpace" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/readingpace" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/readingpace" target="_blank">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/readingpace" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/readingpace" alt="" /></a></div>
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">

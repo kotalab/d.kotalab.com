@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2109
-wordpress_url: http://kotalab.com/?p=2109
+wordpress_url: https://kotalab.com/?p=2109
 date: '2012-08-15 11:05:04 +0900'
 date_gmt: '2012-08-15 02:05:04 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 四角大輔
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/jiyuude_120815.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/jiyuude_120815.jpg" alt="" title="jiyuude_120815" width="448" height="336" class="alignnone size-full wp-image-2116" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/jiyuude_120815.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/jiyuude_120815.jpg" alt="" title="jiyuude_120815" width="448" height="336" class="alignnone size-full wp-image-2116" /></a><br />
 四角大輔さん著書の「<a href="http://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" name="booklink" target="_blank">自由であり続けるために 20代で捨てるべき50のこと</a>」を読みました。@kotala_bです。<br />
 著者の四角大輔さんは15年間の会社勤めで経験したその全てを捨て、ニュージーランドの湖畔と東京を往来するノマドライフを送っている方です。<br />
 「自由に自分らしく楽しい生活」を送る為に捨てるべき「余計なモノ」について書かれています。<br />
@@ -142,6 +142,6 @@ Evernoteに入れる、デスクトップの壁紙に入れる、本棚に関連
 <section id="rele">
 <h2>関連記事</h2>
 <p>こちらの記事もいかがですか？<br />
-<a href="http://kotalab.com/books-toyota-6words" target="_blank"><img src="http://capture.heartrails.com/150x130?http://kotalab.com/archives/1696" alt="http://kotalab.com/archives/1696" width="150" height="130" align="left" /></a><a href="http://kotalab.com/books-toyota-6words" target="_blank">トヨタの上司が伝える「自分を成長させる、すぐに実践したい」6つの言葉 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/travel-hacks" target="_blank"><img src="http://capture.heartrails.com/150x130?http://kotalab.com/archives/1601" alt="http://kotalab.com/archives/1601" width="150" height="130" align="left" /></a><a href="http://kotalab.com/travel-hacks" target="_blank">行ってよかったと思える海外旅行にする為に、やっておきたい3つの事前準備！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/books-toyota-6words" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/1696" alt="https://kotalab.com/archives/1696" width="150" height="130" align="left" /></a><a href="https://kotalab.com/books-toyota-6words" target="_blank">トヨタの上司が伝える「自分を成長させる、すぐに実践したい」6つの言葉 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/travel-hacks" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/1601" alt="https://kotalab.com/archives/1601" width="150" height="130" align="left" /></a><a href="https://kotalab.com/travel-hacks" target="_blank">行ってよかったと思える海外旅行にする為に、やっておきたい3つの事前準備！ | kotala's note</a><br style="clear:both;" /><br />
 </section>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3962
-wordpress_url: http://kotalab.com/?p=3962
+wordpress_url: https://kotalab.com/?p=3962
 date: '2012-11-04 14:53:26 +0900'
 date_gmt: '2012-11-04 05:53:26 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - iPadアプリ
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/textexpander_121105.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/textexpander_121105.png" alt="" title="textexpander_121105" width="448" height="448" class="alignnone size-full wp-image-3966" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/textexpander_121105.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/textexpander_121105.png" alt="" title="textexpander_121105" width="448" height="448" class="alignnone size-full wp-image-3966" /></a><br />
 Textexpanderが動かなくて焦りました。@kotala_bです。<br />
 まさかiPadminiでは動かないのかと思いましたが、そんなことはありませんでした！</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ftextexpander%252Fid326180690%253Fmt%253D8%2526uo%253D4"><img src="http://a1820.phobos.apple.com/us/r1000/120/Purple/v4/d0/b3/c3/d0b3c34f-fe31-7646-19bc-e4c2d8e10c7d/mzm.akbkdpbu.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>

@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14527
-wordpress_url: http://kotalab.com/?p=14527
+wordpress_url: https://kotalab.com/?p=14527
 date: '2015-06-03 07:41:02 +0900'
 date_gmt: '2015-06-02 22:41:02 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 三日坊主
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/insurancecannotfeelrelieved_131126_03.jpg" alt="insurancecannotfeelrelieved_131126_03" width="780"　class="aligncenter size-full wp-image-10246" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/insurancecannotfeelrelieved_131126_03.jpg" alt="insurancecannotfeelrelieved_131126_03" width="780"　class="aligncenter size-full wp-image-10246" /><br />
 それは周りを巻き込むこと。</p>
 <p>今年の3月くらいまでは毎日7時頃起きていたのですが、4月からは平日は毎日5時台に起きるようになりました。</p>
 <p>とにかく早起きしようと毎朝頑張ってるわけじゃありません。<br />
@@ -51,7 +51,7 @@ comments: []
 巻き込んだ人がやりたがらないと、それも多くの人がやりたくないとなれば、その気持ちに流されてしまいやすいからです。</p>
 <p><span class="b">同じ気持ちを持った、同じ方向を向いて進もうとしている人を巻き込む</span>方が効果的に感じます。</p>
 <h2>さいごに</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/dpub_130203_07.jpg" alt="dpub_130203_07" width="780" class="aligncenter size-full wp-image-6009" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/dpub_130203_07.jpg" alt="dpub_130203_07" width="780" class="aligncenter size-full wp-image-6009" /><br />
 自分から巻き込むだけじゃなくて、周りに巻き込まれたっていいです。<br />
 どうやって巻き込まれるかというと、自分がやろうと思っていることを既にやっている人たちがいる場に、自分も身を置くことです。</p>
 <p>例えば、ブロガーになりたければ、ブロガーがよく集まるイベントに参加する。<br />

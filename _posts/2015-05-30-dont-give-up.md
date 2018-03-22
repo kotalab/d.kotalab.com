@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14481
-wordpress_url: http://kotalab.com/?p=14481
+wordpress_url: https://kotalab.com/?p=14481
 date: '2015-05-30 16:30:33 +0900'
 date_gmt: '2015-05-30 07:30:33 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - WebNote
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/dontneedinsurance_131128.jpg" alt="dontneedinsurance_131128" width="780" class="aligncenter size-large wp-image-10253" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/dontneedinsurance_131128.jpg" alt="dontneedinsurance_131128" width="780" class="aligncenter size-large wp-image-10253" /></p>
 <p>やりたいことが沢山あると、時間が足りない。<br />
 あれもやりたいこれもやりたいというとき、どれから手をつけていいかわからなくなる時がある。</p>
 <p>僕の場合、<br />
@@ -55,7 +55,7 @@ comments: []
 <p>やりたくないわけじゃないけど、もっとやりたいことがあるから今は少しだけ抑えようと考える。</p>
 <p>やりたいことを完全に諦めるんじゃなくて、今は少しだけ他のことに力を入れようと思うだけで、時間が足りなくてできないという不満はかなりなくなった。</p>
 <blockquote><p>7月からは試験勉強の優先順位を一番にしました。それまで最優先だったブログ更新の優先順位を一時的に下げ、417日連続更新していたぶろぐの連続更新をやめて書ける時に書くようにしました。<br />
-via:<a href="http://kotalab.com/pass-the-exam">6ヶ月間で一発合格したFP2級勉強法</a></p>
+via:<a href="https://kotalab.com/pass-the-exam">6ヶ月間で一発合格したFP2級勉強法</a></p>
 </blockquote>
 <p>417日間も毎日続けていたことをバッサリやめて、試験前の2ヶ月間だけはFP試験を最優先にしたことがある。<br />
 ただ単にブログを書く代わりに勉強することにしてしまうと、後でブログが続かなくなってしまうような気がしていた。<br />

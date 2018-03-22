@@ -17,7 +17,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/hello.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/hello.jpg" alt="" title="hello" width="448" height="336" class="alignnone size-full wp-image-1049" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/hello.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/hello.jpg" alt="" title="hello" width="448" height="336" class="alignnone size-full wp-image-1049" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/fenris117/4536603725/" title="hello">HELLO</a> / Odd.note</span><br />
 はじめまして、今日からこのブログを始めることにしました@kotala_bです。<br />
 <!--more--></p>

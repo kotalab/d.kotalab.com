@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4115
-wordpress_url: http://kotalab.com/?p=4115
+wordpress_url: https://kotalab.com/?p=4115
 date: '2012-11-10 12:26:12 +0900'
 date_gmt: '2012-11-10 03:26:12 +0900'
 category:
@@ -21,13 +21,13 @@ tags:
 - seeq
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/seeq_20121110.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/seeq_20121110.png" alt="" title="seeq_20121110" width="300" height="300" class="alignnone size-full wp-image-4103" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/seeq_20121110.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq_20121110.png" alt="" title="seeq_20121110" width="300" height="300" class="alignnone size-full wp-image-4103" /></a><br />
 Seeqはまだ手探り状態です。@kotala_bです。<br />
 Seeqにはランチャーとしてアプリを自分で登録出来る機能があります。<br />
 登録するとデフォルトではSeeqと同じアイコンがセットされます。<br />
 いくつか同じアイコンが並ぶと非常にわかりづらい！<br />
 なのでアイコンを登録したアプリと同じアイコンへ変える方法を探しました。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121110120036.png" width="300" height="514" /></p>
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121110120036.png" width="300" height="514" /></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1391.phobos.apple.com/us/r1000/119/Purple/v4/38/8b/5c/388b5c3f-fe7d-0c05-bd7a-d9f22518122c/mzl.bgvgozcg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
@@ -42,7 +42,7 @@ Seeqにはランチャーとしてアプリを自分で登録出来る機能が�
 <h2>アイコンを探す</h2>
 <p>このブログでアプリを紹介する時に使っているアプリのアイコンはiPhoneで実際に使われているものとは若干違いがあります。<br />
 ▼4隅が角になっています。<br />
-<a href="http://kotalab.com/wp-content/uploads/seeq_20121110.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/seeq_20121110.png" alt="" title="seeq_20121110" width="300" height="300" class="alignnone size-full wp-image-4103" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/seeq_20121110.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq_20121110.png" alt="" title="seeq_20121110" width="300" height="300" class="alignnone size-full wp-image-4103" /></a><br />
 実際に使われている物は角丸なのでちょっと雰囲気が変わります。<br />
 今回僕が使いたいのは角丸の方のアイコンなので、それがどこにあるのかGoogleで聞いてみました。<br />
 教えてくれた答えがこちら<br />
@@ -50,27 +50,27 @@ Seeqにはランチャーとしてアプリを自分で登録出来る機能が�
 <h2>iTunesから画像を保存する</h2>
 <p>まずはPC側で使いたい画像を用意します。<br />
 iTunesを開きアプリを選択すると左下に表示されるのがそうです。<br />
-<a href="http://kotalab.com/wp-content/uploads/seeqicon_20121110_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/seeqicon_20121110_01.png" alt="" title="seeqicon_20121110_01" width="448" height="347" class="alignnone size-full wp-image-4128" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/seeqicon_20121110_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeqicon_20121110_01.png" alt="" title="seeqicon_20121110_01" width="448" height="347" class="alignnone size-full wp-image-4128" /></a><br />
 ▼アイコンが出ないという方は画面下のバーにあるこのボタンを押してください。<br />
-<a href="http://kotalab.com/wp-content/uploads/seeqicon_20121110_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/seeqicon_20121110_02.png" alt="" title="seeqicon_20121110_02" width="448" height="347" class="alignnone size-full wp-image-4129" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/seeqicon_20121110_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeqicon_20121110_02.png" alt="" title="seeqicon_20121110_02" width="448" height="347" class="alignnone size-full wp-image-4129" /></a><br />
 すると表示されるようになります！<br />
 表示出来たらこの画像をドラッグしてデスクトップに保存しました。</p>
 <h2>画像をiPhoneへ移す</h2>
 <p>保存出来たら画像をiPhoneへ移します。<br />
 僕は今回Evernoteを使いましたがDropboxでも何でもiPhoneへ移せれば大丈夫です。<br />
 ▼Evernoteへアイコンを保存しiPhoneからそのノートを開きます。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121110120046.png" width="300" height="514" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121110120046.png" width="300" height="514" /><br />
 ▼画像を選択し左下の送るボタンをタップ<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121110120044.png" width="300" height="514" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121110120044.png" width="300" height="514" /><br />
 ▼コピーを選択<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121110120042.jpg" width="300" height="514" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121110120042.jpg" width="300" height="514" /><br />
 画像をコピー出来たらSeeqへ戻ります。<br />
 ▼アイコンをタップして「コピーした画像」を選択<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121110120039.jpg" width="300" height="514" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121110120039.jpg" width="300" height="514" /><br />
 ▼これで登録完了！<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121110120041.jpg" width="300" height="514" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121110120041.jpg" width="300" height="514" /><br />
 ▼無事Smarteverのアイコンが表示されました！<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121110120038.jpg" width="300" height="514" /></p>
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121110120038.jpg" width="300" height="514" /></p>
 <h2>最後に</h2>
 <p>この方法だとアイコンを1回1回保存してEvernoteへ移して登録してという作業がちょっとめんどくさいのが欠点です。<br />
 今回紹介した方法よりもこっちの方が楽だよというやり方があったら教えてください！</p>
@@ -78,7 +78,7 @@ iTunesを開きアプリを選択すると左下に表示されるのがそう�
 <p><strong>追記</strong><br />
 もっと簡単な方法が見つかりました！<br />
 是非お試しください！<br />
-<a href="http://kotalab.com/how-to-seeq" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note" width="150" /></a><a href="http://kotalab.com/how-to-seeq" target="_blank">Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/how-to-seeq" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note" width="150" /></a><a href="https://kotalab.com/how-to-seeq" target="_blank">Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note</a><br style="clear:both;" /><br />
 <strong>追記終わり</strong></p>
 <hr>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a1391.phobos.apple.com/us/r1000/119/Purple/v4/38/8b/5c/388b5c3f-fe7d-0c05-bd7a-d9f22518122c/mzl.bgvgozcg.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>

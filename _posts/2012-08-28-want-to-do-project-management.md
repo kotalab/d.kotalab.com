@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2362
-wordpress_url: http://kotalab.com/?p=2362
+wordpress_url: https://kotalab.com/?p=2362
 date: '2012-08-28 12:02:52 +0900'
 date_gmt: '2012-08-28 03:02:52 +0900'
 category:
@@ -23,11 +23,11 @@ tags:
 - Toodledo
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/yaritai_120828.jpg"><img src="http://kotalab.com/wp-content/uploads/yaritai_120828.jpg" alt="" title="yaritai_120828" width="448" height="336" class="alignnone size-full wp-image-2374" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/yaritai_120828.jpg"><img src="https://kotalab.com/wp-content/uploads/yaritai_120828.jpg" alt="" title="yaritai_120828" width="448" height="336" class="alignnone size-full wp-image-2374" /></a><br />
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/3035341007.html" target="_blank">Maisenbacher House Moving</a> / aka Kath</span><br />
 少しずつでもやりたいことを進めています。@kotala_bです。<br />
 前回はやりたいことをやるために、Evernoteにやりたいことを集約しそこからTaskchuteにタスクとして登録・実行することをお話しました。<br />
-<a href="http://kotalab.com/task-management" target="_blank"><img src="http://capture.heartrails.com/150x130?http://kotalab.com/archives/2348" alt="http://kotalab.com/archives/2348" width="150" height="130" align="left" /></a><a href="http://kotalab.com/task-management" target="_blank">やりたいことをするためにやってること | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/task-management" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/2348" alt="https://kotalab.com/archives/2348" width="150" height="130" align="left" /></a><a href="https://kotalab.com/task-management" target="_blank">やりたいことをするためにやってること | kotala's note</a><br style="clear:both;" /><br />
 今回は「Taskchuteに入れるだけでは簡単に出来ないやりたいこと」をやるためにすることをお話します。<br />
 <!--more--></p>
 <h2>前回のつづき</h2>
@@ -42,7 +42,7 @@ comments: []
 <p>プロジェクトと言うと何か壮大な計画のように感じますがそんなことはありません。<br />
 1つのタスクとして扱っただけでは完了しないこと、そのタスクをまとめたものをプロジェクトとして扱います。<br />
 プロジェクト管理については始めた時のことを以前書きました。<br />
-<a href="http://kotalab.com/start-project1" target="_blank"><img src="http://capture.heartrails.com/150x130?http://kotalab.com/archives/816" alt="http://kotalab.com/archives/816" width="150" height="130" align="left" /></a><a href="http://kotalab.com/start-project1" target="_blank">プロジェクト管理を始める！前編 | kotala's note</a><br style="clear:both;" /></p>
+<a href="https://kotalab.com/start-project1" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/816" alt="https://kotalab.com/archives/816" width="150" height="130" align="left" /></a><a href="https://kotalab.com/start-project1" target="_blank">プロジェクト管理を始める！前編 | kotala's note</a><br style="clear:both;" /></p>
 <h2>プロジェクトに名前をつける</h2>
 <p>プロジェクトが出来た時にまず１番にすることは、そのプロジェクトをToodledoのフォルダ名として作ります。<br />
 「引越しする」ことだった場合はフォルダ名を「引越し」としてわかりやすくします。<br />

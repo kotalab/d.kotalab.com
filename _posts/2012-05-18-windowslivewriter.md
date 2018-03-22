@@ -48,7 +48,7 @@ WindowsLiveWriterで下書きを投稿&rArr;wordpress.comのweb版でプレビ�
 というわけでテーマ取得出来るまでは現状維持です。<br />
 プラグインが便利そう(まだ使ってません)なので早く使いたい！ここで諦めるわけにはいかない！諦めたらそこでウンタラカンタラ。</p>
 <h2>そして今日もう1度試してみました！</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/wlw.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/wlw.jpg" alt="" title="wlw" width="300" height="320" class="alignnone size-full wp-image-1122" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/wlw.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/wlw.jpg" alt="" title="wlw" width="300" height="320" class="alignnone size-full wp-image-1122" /></a><br />
 これ<span class="removed_link" title="http://windowslive.jp.msn.com/">Windows Live on MSN</span>に貼ってあったダウンロードのバナーなんですが、これを見て気付きました。<br />
 昨日ダウンロードしたのは確か「WindowsEssentials2011」、そして今使ってるパソコン「windowsXP」。<br />
 ということはもしかして・・・！バージョンが違うせいで正常に動いてなかっただけ！？<br />

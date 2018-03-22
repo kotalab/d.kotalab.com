@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3107
-wordpress_url: http://kotalab.com/?p=3107
+wordpress_url: https://kotalab.com/?p=3107
 date: '2012-10-04 10:34:40 +0900'
 date_gmt: '2012-10-04 01:34:40 +0900'
 category:
@@ -24,9 +24,9 @@ tags:
 - omniforcus
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/toodledo_121004.jpg"><img src="http://kotalab.com/wp-content/uploads/toodledo_121004.jpg" alt="" title="toodledo_121004" width="448" height="336" class="alignnone size-full wp-image-3114" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/toodledo_121004.jpg"><img src="https://kotalab.com/wp-content/uploads/toodledo_121004.jpg" alt="" title="toodledo_121004" width="448" height="336" class="alignnone size-full wp-image-3114" /></a><br />
 Taskchuteを使わなくなりました。@kotala_bです。<br />
-<a href="http://kotalab.com/macbook-air-24hours" title="圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！" target="_blank">2週間程前にMacBook Airを購入</a>し、windowsをほぼ使わなくなりました。<br />
+<a href="https://kotalab.com/macbook-air-24hours" title="圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！" target="_blank">2週間程前にMacBook Airを購入</a>し、windowsをほぼ使わなくなりました。<br />
 今まで使っていたTaskchuteを使う為だけにwindowsを起動させるのも面倒なので、これを機にタスク管理をTaskchuteからToodledoへ、プロジェクト管理をToodledoからOmniForcusへ移行することにしました。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/omnifocus-for-iphone/id284885288?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1783.phobos.apple.com/us/r1000/001/Purple/v4/ed/b2/70/edb2707c-b435-8a86-4aa4-eba8bb3f91c5/OmniFocus-57.png" width="80" /></a></div>

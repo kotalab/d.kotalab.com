@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 967
-wordpress_url: http://kotalab.com/?p=967
+wordpress_url: https://kotalab.com/?p=967
 date: '2012-06-24 13:06:02 +0900'
 date_gmt: '2012-06-24 04:06:02 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 買い物
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/shoes_120624_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/shoes_120624_03.jpg" alt="" title="shoes_120624_03" width="448" height="336" class="alignnone size-full wp-image-971" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/shoes_120624_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/shoes_120624_03.jpg" alt="" title="shoes_120624_03" width="448" height="336" class="alignnone size-full wp-image-971" /></a><br />
 amazonで思わず衝動買いをしました。@kotala_bです。<br />
 一昨日amazonで注文した靴「<a href="http://www.amazon.co.jp/gp/search?keywords=GRAVIS%20TARMAC%20HI-CUT%20MNS&__mk_ja_JP=%83J%83%5E%83J%83i&tag=same-22" title="[グラビス]GRAVIS TARMAC HI-CUT MNS" target="_blank">[グラビス] GRAVIS TARMAC HI-CUT MNS</a>」が届きました！<br />
 実はこの靴、12,3年前の当時高校生だったころにクラスメイトの間で一時話題になったものでした。<br />
@@ -44,20 +44,20 @@ amazonで思わず衝動買いをしました。@kotala_bです。<br />
 </div>
 </div>
 <h2>早速開封</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/shoes_120624_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/shoes_120624_01.jpg" alt="" title="shoes_120624_01" width="448" height="336" class="alignnone size-full wp-image-969" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/shoes_120624_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/shoes_120624_01.jpg" alt="" title="shoes_120624_01" width="448" height="336" class="alignnone size-full wp-image-969" /></a><br />
 おなじみのamazonの箱です。<br />
 箱を開けると1枚の黄色い紙が入っていました。</p>
 <h2>ためし履きガイド</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/shoes_120624_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/shoes_120624_02.jpg" alt="" title="shoes_120624_02" width="448" height="336" class="alignnone size-full wp-image-970" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/shoes_120624_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/shoes_120624_02.jpg" alt="" title="shoes_120624_02" width="448" height="336" class="alignnone size-full wp-image-970" /></a><br />
 amazonではもしサイズが合わなかったり、実際に見て気に入らなければ交換や返品が可能なのです。<br />
 そのため、ためし履きをする際の注意書きが書かれた<strong>ためし履きガイド</strong>というものが入っています。</p>
 <h2>靴箱を開封</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/shoes_120624_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/shoes_120624_04.jpg" alt="" title="shoes_120624_04" width="448" height="336" class="alignnone size-full wp-image-972" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/shoes_120624_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/shoes_120624_04.jpg" alt="" title="shoes_120624_04" width="448" height="336" class="alignnone size-full wp-image-972" /></a><br />
 amazonの箱の中にもう1つの箱が入っていました。<br />
 靴箱です。<br />
 靴箱の中もしっかり梱包されています。</p>
 <h2>ご対面</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/shoes_120624_05.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/shoes_120624_05.jpg" alt="" title="shoes_120624_05" width="448" height="336" class="alignnone size-full wp-image-968" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/shoes_120624_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/shoes_120624_05.jpg" alt="" title="shoes_120624_05" width="448" height="336" class="alignnone size-full wp-image-968" /></a><br />
 靴箱の中から取り出したのは高校生当時憧れていたあの靴でした！<br />
 靴には2色の紐がくっついていました。</p>
 <h2>出かけるのが楽しみ</h2>

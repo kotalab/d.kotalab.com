@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2185
-wordpress_url: http://kotalab.com/?p=2185
+wordpress_url: https://kotalab.com/?p=2185
 date: '2012-08-19 10:50:08 +0900'
 date_gmt: '2012-08-19 01:50:08 +0900'
 category:
@@ -20,9 +20,9 @@ tags:
 - amazon
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/jcbgiftcaard_120819.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/jcbgiftcaard_120819.jpg" alt="" title="jcbgiftcaard_120819" width="448" height="336" class="alignnone size-full wp-image-2191" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/jcbgiftcaard_120819.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/jcbgiftcaard_120819.jpg" alt="" title="jcbgiftcaard_120819" width="448" height="336" class="alignnone size-full wp-image-2191" /></a><br />
 amazonギフト券を初めて買いました。@kotala_bです。<br />
-<a href="http://kotalab.com/softbank-welcome-norikae" title="【SoftBank】のりかえ割とかえとくキャンペーン合わせて2年間基本料無料！" target="_blank">つい先日申し込んだかえとくキャンペーン</a>の特典、JCBギフトカード1万円分が届きました。<br />
+<a href="https://kotalab.com/softbank-welcome-norikae" title="【SoftBank】のりかえ割とかえとくキャンペーン合わせて2年間基本料無料！" target="_blank">つい先日申し込んだかえとくキャンペーン</a>の特典、JCBギフトカード1万円分が届きました。<br />
 このJCBギフトカードを使ってサンクスでamazonギフト券を買ってみました。<br />
 参考：<a href="http://www.lifehacker.jp/2012/07/120709amazongiftcard.html" target="_blank">商品券をAmazonギフト券に交換する方法 : ライフハッカー［日本版］</a><br />
 <!--more--></p>
@@ -35,11 +35,11 @@ amazonギフト券を初めて買いました。@kotala_bです。<br />
 操作は簡単で、メニュー画面にある「Amazonギフト券を発行」するボタンをタッチして、画面の指示通りに進めていきます。<br />
 端末から出るレシートを取り、レジに持っていきます。<br />
 ▼少しドキドキしましたが問題なくJCBギフトカードで買うことが出来ました。<br />
-<a href="http://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_01.jpg" alt="" title="jcbgiftcaard_120819_01" width="448" height="336" class="alignnone size-full wp-image-2192" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_01.jpg" alt="" title="jcbgiftcaard_120819_01" width="448" height="336" class="alignnone size-full wp-image-2192" /></a><br />
 ▼実際に発券したAmazonギフト券<br />
-<a href="http://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_02.jpg" alt="" title="jcbgiftcaard_120819_02" width="448" height="336" class="alignnone size-full wp-image-2193" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_02.jpg" alt="" title="jcbgiftcaard_120819_02" width="448" height="336" class="alignnone size-full wp-image-2193" /></a><br />
 ▼ご案内と書かれたレシートも貰いました。<br />
-<a href="http://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_03.jpg" alt="" title="jcbgiftcaard_120819_03" width="448" height="336" class="alignnone size-full wp-image-2190" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/jcbgiftcaard_120819_03.jpg" alt="" title="jcbgiftcaard_120819_03" width="448" height="336" class="alignnone size-full wp-image-2190" /></a><br />
 ここにはギフト券の登録方法や注意事項が書かれています。<br />
 参考：<a href="http://karuwaza.jp/m-cksu/static/pc/kst/index.html" target="_blank">カルワザステーション</a></p>
 <h2>まとめ</h2>

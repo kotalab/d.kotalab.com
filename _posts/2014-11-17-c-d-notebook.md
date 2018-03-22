@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13595
-wordpress_url: http://kotalab.com/?p=13595
+wordpress_url: https://kotalab.com/?p=13595
 date: '2014-11-17 07:00:11 +0900'
 date_gmt: '2014-11-16 22:00:11 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - MOLESKINE
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/c-d-notebook_20141117_01-780x585.jpg" alt="c-d-notebook_20141117_01" width="780" height="585" class="aligncenter size-large wp-image-13600" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/c-d-notebook_20141117_01-780x585.jpg" alt="c-d-notebook_20141117_01" width="780" height="585" class="aligncenter size-large wp-image-13600" /><br />
 文房具屋さんで手にとって一目惚れ！<br />
 その紙の質感で使ってみたくなったノートを紹介したいと思います。</p>
 <div class="kaerebalink-box">
@@ -57,7 +57,7 @@ comments: []
 </div>
 <p><!--more--></p>
 <h2>MOLESKINEより安いお手頃価格</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/c-d-notebook_20141117_02-780x585.jpg" alt="c-d-notebook_20141117_02" width="780" height="585" class="aligncenter size-large wp-image-13598" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/c-d-notebook_20141117_02-780x585.jpg" alt="c-d-notebook_20141117_02" width="780" height="585" class="aligncenter size-large wp-image-13598" /><br />
 無地で書きやすいノートがないかなぁと文房具屋さんに立ち寄ったときのこと。<br />
 無地のノートってなかなかなくて、ほとんどのノートが罫線入りなんですよね。<br />
 「やっぱり家に帰ってMOLESKINEをAmazonで注文するかー」と決めかけていた時に、「シルクのような書き心地、紳士のノート」と書かれたC.D.NOTEBOOKというノートを見つけました。</p>
@@ -65,12 +65,12 @@ comments: []
 値段は約3分の1でお手頃価格、ページ数は96枚・192ページでMOLESKINEラージの240ページより若干少なめとなっています。</p>
 <p>ただこのC.D.NOTEBOOK、紙の質感がすごく気になります。</p>
 <h2>シルクのような書き心地！？</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/c-d-notebook_20141117_03-780x585.jpg" alt="c-d-notebook_20141117_03" width="780" height="585" class="aligncenter size-large wp-image-13599" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/c-d-notebook_20141117_03-780x585.jpg" alt="c-d-notebook_20141117_03" width="780" height="585" class="aligncenter size-large wp-image-13599" /><br />
 僕が立ち寄った文房具屋さんには店頭にサンプルが置いてあったので、ノートに使われている紙を実際に触ってみることができました。</p>
 <p>触ってみたら「シルクのような書き心地、紳士のノート」の言葉通り、紙はつるつるしていて書きやすそうな質感。<br />
 今までに触ったことのないノートの質感に「うわ！これ使ってみたい！」と今回はMOLESKINEを買わずにC.D.NOTEBOOKを買うことにしました。</p>
 <h3>アイディアがスラスラ書ける</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/c-d-notebook_20141117_04-780x585.jpg" alt="c-d-notebook_20141117_04" width="780" height="585" class="aligncenter size-large wp-image-13597" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/c-d-notebook_20141117_04-780x585.jpg" alt="c-d-notebook_20141117_04" width="780" height="585" class="aligncenter size-large wp-image-13597" /><br />
 100均とかで売ってる安いノートだと書き心地が良くなかったりするけど、C.D.NOTEBOOKなら大丈夫。<br />
 MOLESKINEと比べると値段も手頃なので買いやすい、いいノートを発見できました！</p>
 <p>帰って実際に使ってみると、僕にとってはこのC.D.NOTEBOOKの紙の質感が書きやすくてスラスラ書けるので、思いついたアイディアとかを書き留めておくのにちょうどいい感じです！</p>

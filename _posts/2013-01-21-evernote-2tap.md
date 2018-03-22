@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5816
-wordpress_url: http://kotalab.com/?p=5816
+wordpress_url: https://kotalab.com/?p=5816
 date: '2013-01-21 08:56:21 +0900'
 date_gmt: '2013-01-20 23:56:21 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - URLスキーム
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/evernote_130121.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="evernote_130121" width="448" height="326" class="alignnone size-large wp-image-5821" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/evernote_130121.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="evernote_130121" width="448" height="326" class="alignnone size-large wp-image-5821" /></a><br />
 Evernoteには色々なメモが入ってます。@kotala_bです。<br />
 色々なメモを入れるのはいいんですが、入れすぎるとどこに見たいノートがあるのかわからなくなります。<br />
 そんなときは検索機能を使って探しています。<br />
@@ -74,22 +74,22 @@ SmartEver内の検索機能を使っても良いですしTagEverを使ったり�
 <h2>SmartEverのURLスキームを使う</h2>
 <p>SmartEverには登録したノートを開く便利なURLスキームがあります。<br />
 ▼ノートを表示させ「i」ボタンをタップ<br />
-<a href="http://kotalab.com/wp-content/uploads/evernote_130121_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/evernote_130121_01-300x513.png" alt="evernote_130121_01" width="300" height="513" class="alignnone size-medium wp-image-5817" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/evernote_130121_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/evernote_130121_01-300x513.png" alt="evernote_130121_01" width="300" height="513" class="alignnone size-medium wp-image-5817" /></a><br />
 ▼するとそのノートを開くためのURLスキームが書いてあります。<br />
-<a href="http://kotalab.com/wp-content/uploads/evernote_130121_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/evernote_130121_02-300x513.png" alt="evernote_130121_02" width="300" height="513" class="alignnone size-medium wp-image-5818" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/evernote_130121_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/evernote_130121_02-300x513.png" alt="evernote_130121_02" width="300" height="513" class="alignnone size-medium wp-image-5818" /></a><br />
 これをコピー<br />
 ▼コピーしたURLスキームをSeeqへ登録します。<br />
-<a href="http://kotalab.com/wp-content/uploads/evernote_130121_03.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/evernote_130121_03-300x513.png" alt="evernote_130121_03" width="300" height="513" class="alignnone size-medium wp-image-5819" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/evernote_130121_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/evernote_130121_03-300x513.png" alt="evernote_130121_03" width="300" height="513" class="alignnone size-medium wp-image-5819" /></a><br />
 タイトルにはノートの名前、URLのところには先ほどコピーしたURLスキームを貼付けます。<br />
 画像はお好みでわかりやすいものをお使いください。<br />
 ▼これで登録完了！<br />
-<a href="http://kotalab.com/wp-content/uploads/evernote_130121_04.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/evernote_130121_04-300x513.png" alt="evernote_130121_04" width="300" height="513" class="alignnone size-medium wp-image-5820" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/evernote_130121_04.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/evernote_130121_04-300x513.png" alt="evernote_130121_04" width="300" height="513" class="alignnone size-medium wp-image-5820" /></a><br />
 Seeqを起動する1タップとSeeqからアイコンを押す1タップ、計2タップで特定のノートを開けるようになりました！</p>
 <h2>最後に</h2>
 <p>これで毎日見るような特定のノートをいちいち探す煩わしいから解放されます！<br />
 今までのやり方に面倒くささを感じていたら是非試してください！<br />
 ▼SmarteverのURLスキームを利用することでこんなことも出来るようになります！<br />
-<a href="http://kotalab.com/evernote-task-management" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="時間指定でEvernoteの特定のノートを開く方法！しかもたったの1タップ！ | kotala's note" width="150" /></a><a href="http://kotalab.com/evernote-task-management" target="_blank">時間指定でEvernoteの特定のノートを開く方法！しかもたったの1タップ！ | kotala's note</a><br style="clear:both;" /></p>
+<a href="https://kotalab.com/evernote-task-management" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="時間指定でEvernoteの特定のノートを開く方法！しかもたったの1タップ！ | kotala's note" width="150" /></a><a href="https://kotalab.com/evernote-task-management" target="_blank">時間指定でEvernoteの特定のノートを開く方法！しかもたったの1タップ！ | kotala's note</a><br style="clear:both;" /></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4"><img src="http://a1946.phobos.apple.com/us/r1000/062/Purple/v4/03/e5/86/03e5863b-78e4-fab1-d7c6-9adb6d9ca301/mza_5251020485347599819.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4">SmartEver - サクサク使える軽量Evernoteクライアント</span></div>

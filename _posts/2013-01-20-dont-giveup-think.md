@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5802
-wordpress_url: http://kotalab.com/?p=5802
+wordpress_url: https://kotalab.com/?p=5802
 date: '2013-01-20 15:01:40 +0900'
 date_gmt: '2013-01-20 06:01:40 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 習慣
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/syukan_130120.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/syukan_130120-300x431.png" alt="syukan_130120" width="300" height="431" class="alignnone size-medium wp-image-5805" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/syukan_130120.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/syukan_130120-300x431.png" alt="syukan_130120" width="300" height="431" class="alignnone size-medium wp-image-5805" /></a><br />
 ブログを毎日更新してます。@kotala_bです。<br />
 今日で257日連続更新です！<br />
 ブログを書くことを習慣として身につけることが出来ました。<br />
@@ -30,7 +30,7 @@ comments: []
 何故続けられないのか考えてみました。<br />
 <!--more--></p>
 <h2>忘れてしまうから</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/syukan_130120_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/syukan_130120_02-300x431.png" alt="syukan_130120_02" width="300" height="431" class="alignnone size-medium wp-image-5804" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/syukan_130120_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/syukan_130120_02-300x431.png" alt="syukan_130120_02" width="300" height="431" class="alignnone size-medium wp-image-5804" /></a><br />
 1月2日から瞑想をスタートしました。<br />
 毎日続けようと思いiPhoneアプリのStreaksでその記録を取ることにしました。<br />
 スタートして4日目の1月5日に瞑想することを忘れてしまい、早くも続かなくなってしまいました。<br />
@@ -60,7 +60,7 @@ Taskchuteじゃなくてもリマインダーアプリでもいいので、<stro
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>後回しにしてしまうから</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/syukan_130120_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/syukan_130120_01-300x431.png" alt="syukan_130120_01" width="300" height="431" class="alignnone size-medium wp-image-5803" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/syukan_130120_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/syukan_130120_01-300x431.png" alt="syukan_130120_01" width="300" height="431" class="alignnone size-medium wp-image-5803" /></a><br />
 タスク管理アプリやリマインダーアプリに登録しておけば、忘れること自体はなくなります。<br />
 瞑想にかかる時間は15分、スクワットはわずか3分。<br />
 たったこれだけの時間なので、忙しくて出来ないということはありません。<br />

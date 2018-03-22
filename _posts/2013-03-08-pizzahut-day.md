@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6433
-wordpress_url: http://kotalab.com/?p=6433
+wordpress_url: https://kotalab.com/?p=6433
 date: '2013-03-08 05:53:20 +0900'
 date_gmt: '2013-03-07 20:53:20 +0900'
 category:
@@ -22,13 +22,13 @@ tags:
 - お持ち帰りサービス
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/hatday_130308_01-448x447.jpg" alt="hatday_130308_01" width="448" height="447" class="alignnone size-large wp-image-6434" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/hatday_130308_01-448x447.jpg" alt="hatday_130308_01" width="448" height="447" class="alignnone size-large wp-image-6434" /><br />
 昨日は久しぶりにピザを食べました。@kotala_bです。<br />
 家から徒歩3分くらいの場所にピザハットがあるので電話注文せずにお店まで買いにいってみました。<br />
 ピザハットにはお持ち帰り限定の割引サービスがあるのはご存知でしょうか？<br />
 <!--more--></p>
 <h2>ピザハットのお持ち帰り限定サービス「ハットの日」</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/hatday_130308-448x336.jpg" alt="hatday_130308" width="448" height="336" class="alignnone size-large wp-image-6435" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/hatday_130308-448x336.jpg" alt="hatday_130308" width="448" height="336" class="alignnone size-large wp-image-6435" /><br />
 ピザハットには「ハットの日」という期間限定のサービスがあります。<br />
 毎月第2火曜日から木曜日までの3日間限定！<br />
 お持ち帰り限定で数種類のピザが半額になるサービスです。</p>
@@ -81,7 +81,7 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/tabetai-130224" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/miil_130303-448x447.png" alt="今週から新生活をスタートさせました！今週の「食べたい！」写真 2/24〜3/2 | kotala's note" width="150" /></a><a href="http://kotalab.com/tabetai-130224" target="_blank">今週から新生活をスタートさせました！今週の「食べたい！」写真 2/24〜3/2 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/pasta-nametake-oroshi" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/pasta_120629_03.jpg" alt="なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！ | kotala's note" width="150" /></a><a href="http://kotalab.com/pasta-nametake-oroshi" target="_blank">なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/how-to-miil" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/miil_20121116-448x350.png" alt="面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note" width="150" /></a><a href="http://kotalab.com/how-to-miil" target="_blank">面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/miil-ver4" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/miil_130222-448x448.jpg" alt="miilが4.0にアップデートして新たに「部活」が登場！ | kotala's note" width="150" /></a><a href="http://kotalab.com/miil-ver4" target="_blank">miilが4.0にアップデートして新たに「部活」が登場！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/tabetai-130224" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/miil_130303-448x447.png" alt="今週から新生活をスタートさせました！今週の「食べたい！」写真 2/24〜3/2 | kotala's note" width="150" /></a><a href="https://kotalab.com/tabetai-130224" target="_blank">今週から新生活をスタートさせました！今週の「食べたい！」写真 2/24〜3/2 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/pasta-nametake-oroshi" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/pasta_120629_03.jpg" alt="なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！ | kotala's note" width="150" /></a><a href="https://kotalab.com/pasta-nametake-oroshi" target="_blank">なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/how-to-miil" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/miil_20121116-448x350.png" alt="面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note" width="150" /></a><a href="https://kotalab.com/how-to-miil" target="_blank">面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/miil-ver4" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/miil_130222-448x448.jpg" alt="miilが4.0にアップデートして新たに「部活」が登場！ | kotala's note" width="150" /></a><a href="https://kotalab.com/miil-ver4" target="_blank">miilが4.0にアップデートして新たに「部活」が登場！ | kotala's note</a><br style="clear:both;" /></p>

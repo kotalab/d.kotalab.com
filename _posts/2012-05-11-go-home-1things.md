@@ -17,7 +17,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/beer.jpg"><img src="http://kotalab.com/wp-content/uploads/beer.jpg" alt="" title="beer" width="240" height="320" class="alignnone size-full wp-image-1055" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/beer.jpg"><img src="https://kotalab.com/wp-content/uploads/beer.jpg" alt="" title="beer" width="240" height="320" class="alignnone size-full wp-image-1055" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/sekimura/4959046672/" title="beer">ビール</a> / sekimura</span><br />
 半身浴が日課な@kotala_bです。<br />
 仕事から帰宅したらまずは風呂に入りたい。風呂の中でゆっくりと1日の疲れとりたい。<br />

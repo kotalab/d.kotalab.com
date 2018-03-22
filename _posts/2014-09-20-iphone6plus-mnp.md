@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13491
-wordpress_url: http://kotalab.com/?p=13491
+wordpress_url: https://kotalab.com/?p=13491
 date: '2014-09-20 23:40:48 +0900'
 date_gmt: '2014-09-20 14:40:48 +0900'
 category:
@@ -25,11 +25,11 @@ tags:
 - iPhone 6Plus
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6plus-mnp_20140920_01.png" alt="iphone6plus-mnp_20140920_01" width="1086" height="540" class="aligncenter size-full wp-image-13502" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6plus-mnp_20140920_01.png" alt="iphone6plus-mnp_20140920_01" width="1086" height="540" class="aligncenter size-full wp-image-13502" /><br />
 iPhone6とiPhone6Plusが発売開始されましたね！<br />
 僕はAppleStoreでしか売っていないSIMフリー版が欲しいんですが、在庫がまだあまりないようで買うのはもう少し先になりそうです。</p>
 <p>iPhone6Plusの大画面に対応したiPhoneアプリも早く作りたいっていう気持ちもあってSIMフリー版以外でもいいかもなーなんて少しだけ思ってきました。</p>
-<p>少し前に<a href="http://kotalab.com/iphone6-plan" title="知らないと10万円以上損してるかも知れない！iPhone6・iPhone6Plusを新規（MNP）・機種変で買う前によーく考えよう！">よーく考えたんですけど</a>、キャリアで契約して買うのとSIMフリー版をAppleStoreで買うのとでは差額が結構あるのが一番のネックなんですよね。</p>
+<p>少し前に<a href="https://kotalab.com/iphone6-plan" title="知らないと10万円以上損してるかも知れない！iPhone6・iPhone6Plusを新規（MNP）・機種変で買う前によーく考えよう！">よーく考えたんですけど</a>、キャリアで契約して買うのとSIMフリー版をAppleStoreで買うのとでは差額が結構あるのが一番のネックなんですよね。</p>
 <p>キャリアで契約するとしたらキャンペーンを適用させて安く買うためにはMNPかなと。<br />
 そこで僕が今使っているSoftBankからauに乗り換えた場合にかかる費用について計算してみました。<br />
 ドコモへのMNPに関しては、かけ放題の新料金プランが必須なので考えないことにします。<br />
@@ -40,7 +40,7 @@ iPhone6とiPhone6Plusが発売開始されましたね！<br />
 それに加えて、2年契約の途中なので解約金が9500円かかります。</p>
 <p>合計：14500円+税</p>
 <h2>適用できるauのキャンペーン</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-plan_20140913_03.png" alt="iphone6-plan_20140913_03" width="1023" height="657" class="aligncenter size-full wp-image-13447" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-plan_20140913_03.png" alt="iphone6-plan_20140913_03" width="1023" height="657" class="aligncenter size-full wp-image-13447" /><br />
 2014年9月20日現在で、SoftBankからauへMNPした時に適用できるキャンペーンは2つ。</p>
 <h3>auにかえる割 Plus</h3>
 <p>LTEプランの基本料金が24ヶ月分無料！<br />
@@ -50,7 +50,7 @@ iPhone6とiPhone6Plusが発売開始されましたね！<br />
 <p>僕の使っているiPhone 5S 32GBだと41040円分の還元になっていました。<br />
 <a href="http://www.au.kddi.com/mobile/charge/pr/trade-in/?bid=we-dcom-kaeruwarilp-0003" title="auにかえる割 Plsu 下取りキャンペーン" target="_blank">その他の機種の還元額はこちらから</a></p>
 <h2>iPhone 6Plus32GBをMNPで買った場合</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iPhone6plus-applewatch_20140910.png" alt="iPhone6plus-applewatch_20140910" width="1174" height="700" class="aligncenter size-full wp-image-13426" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iPhone6plus-applewatch_20140910.png" alt="iPhone6plus-applewatch_20140910" width="1174" height="700" class="aligncenter size-full wp-image-13426" /><br />
 毎月の維持費は<br />
 基本料金：無料<br />
 ネット使用料：300円<br />
@@ -63,13 +63,13 @@ MNPにかかる費用が1万4500円</p>
 <h2>SIMフリー版iPhone 6Plus32GBを買った場合</h2>
 <p>SIMフリー版を使う場合は現在の維持費と本体代金の合計として計算しています。</p>
 <p>僕の今の月々の支払いは約3000円<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone6plus-mnp.png" alt="iphone6plus-mnp" width="836" height="212" class="aligncenter size-full wp-image-13498" /></p>
+<img src="https://kotalab.com/wp-content/uploads/iphone6plus-mnp.png" alt="iphone6plus-mnp" width="836" height="212" class="aligncenter size-full wp-image-13498" /></p>
 <p>これを24ヶ月分払うと72000円<br />
 機種代：89800円</p>
 <p><span class="b">合計で161800円</span></p>
 <h2>iPhone 6以外の端末にMNPしてから機種変する場合</h2>
 <p><br />
-<img src="http://kotalab.com/wp-content/uploads/applespevent_130911_04.png" alt="applespevent_130911_04" width="1092" height="571" class="aligncenter size-full wp-image-8660" /><br />
+<img src="https://kotalab.com/wp-content/uploads/applespevent_130911_04.png" alt="applespevent_130911_04" width="1092" height="571" class="aligncenter size-full wp-image-8660" /><br />
 具体的には一括0円で買えてキャッシュバック付きの端末にMNPして、そこから更にiPhone 6Plusへ機種変する場合です。</p>
 <p><span class="b">この場合の注意点としては、機種変した時点でauに変える割の特典がなくなること。</span></p>
 <p>機種変の場合の毎月の維持費は<br />
@@ -83,11 +83,11 @@ MNPにかかる費用が1万4500円</p>
 <p>キャッシュバックと端末売却代でこの額を上回ればいいですけど、手続きとかが面倒くさそうなのであまりいい方法じゃないかも知れません。</p>
 <h2>キャンペーン内容によってはMNPもあり！</h2>
 <p>上記の計算では今使っている機種の下取り費用は含めていないので、買い取ってもらったらもう少し安くなります。</p>
-<p><a href="http://kotalab.com/iphone6-plan" title="知らないと10万円以上損してるかも知れない！iPhone6・iPhone6Plusを新規（MNP）・機種変で買う前によーく考えよう！" target="_blank">前回計算したときは</a>キャンペーンも発表されていませんでしたし、新プランに変える必要があったので、キャリアで買うのとSIMフリー版ではSIMフリー版の方が10万円近く安く買えるという結果になりました。</p>
+<p><a href="https://kotalab.com/iphone6-plan" title="知らないと10万円以上損してるかも知れない！iPhone6・iPhone6Plusを新規（MNP）・機種変で買う前によーく考えよう！" target="_blank">前回計算したときは</a>キャンペーンも発表されていませんでしたし、新プランに変える必要があったので、キャリアで買うのとSIMフリー版ではSIMフリー版の方が10万円近く安く買えるという結果になりました。</p>
 <p>ただ<span class="b">ここ最近で発表されたauのキャンペーンを適用させることで差額は2万円ぐらいまでに収まりそう</span>だということがわかりました。</p>
 <p>今使ってるiPhone5Sを売るとしたら自分で売りにいかなきゃいけないし、中古なのでもしかしたらauの方が高く買い取ってくれそうな感じもあります。</p>
 <h3>それでもやっぱりSIMフリーが気になる</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/mobile-packet-cost-up_140704.jpg" alt="mobile-packet-cost-up_140704" width="1092" height="723" class="aligncenter size-full wp-image-13311" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/mobile-packet-cost-up_140704.jpg" alt="mobile-packet-cost-up_140704" width="1092" height="723" class="aligncenter size-full wp-image-13311" /><br />
 前回書いた記事では10万円近く差があったんですけどね。<br />
 旧プランでもキャンペーン適用できるようになったのは大きいですね！</p>
 <p>でもやっぱり買うならSIMフリーがいいなーと思うのでした。</p>

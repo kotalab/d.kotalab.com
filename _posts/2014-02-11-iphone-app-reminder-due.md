@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10807
-wordpress_url: http://kotalab.com/?p=10807
+wordpress_url: https://kotalab.com/?p=10807
 date: '2014-02-11 11:15:18 +0900'
 date_gmt: '2014-02-11 02:15:18 +0900'
 category:
@@ -26,7 +26,7 @@ tags:
 - Macアプリ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/due_120912.jpg" alt="due_120912" width="512" height="512" class="alignnone size-full wp-image-2689" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="due_120912" width="512" height="512" class="alignnone size-full wp-image-2689" /><br />
 僕がリマインダーを使う最大の理由は<span class="b">必要なときがくるまで忘れていられるから</span>です。<br />
 リマインダーは自分では完全に忘れていたことでもしっかり覚えていてくれる、そして必要なときにしっかり教えてくれる心強い存在です。<br />
 iPhoneにはデフォルトでリマインダーアプリが備わっています。<br />
@@ -40,15 +40,15 @@ iPhoneにはデフォルトでリマインダーアプリが備わっていま�
 <h3>仕事のある平日だけにリマインダーを鳴らしたい</h3>
 <p>例えば、月曜と火曜に鳴らしたいとなるとリマインダーを2つ作ることになります。<br />
 2つならまだ許せますが、これが平日だけリマインダーを使いとなると結構な苦痛です。<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone-app-reminder-due_140211_01-300x513.jpg" alt="iphone-app-reminder-due_140211_01" width="300" height="513" class="alignnone size-medium wp-image-10812" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone-app-reminder-due_140211_01-300x513.jpg" alt="iphone-app-reminder-due_140211_01" width="300" height="513" class="alignnone size-medium wp-image-10812" /><br />
 サラリーマンなら仕事のある平日だけリマインダーを鳴らしたいことだってあるだろうし、逆に休日だけ鳴らしたいこともありますよね。<br />
 かゆいところに手が届かないのが標準のリマインダーアプリです。ほんとあともう一歩。</p>
 <h2>細かい繰り返し設定ができるリマインダーアプリDue</h2>
 <p>標準のリマインダーアプリから一歩進んだ繰り返し設定ができるのがDueというリマインダーアプリです。<br />
 毎週月曜から金曜までだけ鳴らしたいときはもちろん、<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone-app-reminder-due_140211_02-300x513.jpg" alt="iphone-app-reminder-due_140211_02" width="300" height="513" class="alignnone size-medium wp-image-10813" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone-app-reminder-due_140211_02-300x513.jpg" alt="iphone-app-reminder-due_140211_02" width="300" height="513" class="alignnone size-medium wp-image-10813" /><br />
 「毎月第1日曜日」とか「3ヶ月ごとの月末」といった設定もできます。<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone-app-reminder-due_140211_03-300x513.jpg" alt="iphone-app-reminder-due_140211_03" width="300" height="513" class="alignnone size-medium wp-image-10814" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone-app-reminder-due_140211_03-300x513.jpg" alt="iphone-app-reminder-due_140211_03" width="300" height="513" class="alignnone size-medium wp-image-10814" /><br />
 これでもかというくらい細かな繰り返し設定ができるのがDueです。</p>
 <h3>かなり信頼度の高いDue</h3>
 <p>2012年8月1日にアプリを購入してからずっと、1年半以上ずっと使い続けてるのがDueです。<br />
@@ -80,10 +80,10 @@ iPhoneとiPadどちらでも使えるユニバーサルアプリ、Mac版は別�
 </div>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/app-queuingcam-due"><img src="http://kotalab.com/wp-content/uploads/miyajima_131009_06-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/app-queuingcam-due">動画でライフログを残す。QueuingCamとDueの組み合わせがおすすめ！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/app-queuingcam-due"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/app-queuingcam-due" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/app-queuingcam-due"><img src="https://kotalab.com/wp-content/uploads/miyajima_131009_06-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/app-queuingcam-due">動画でライフログを残す。QueuingCamとDueの組み合わせがおすすめ！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/app-queuingcam-due"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/app-queuingcam-due" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/due-urlscheme"><img src="http://kotalab.com/wp-content/uploads/due_120912.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/due-urlscheme">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/due-urlscheme"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/due-urlscheme" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/due-urlscheme"><img src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/due-urlscheme">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/due-urlscheme"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/due-urlscheme" alt="" /></span></div>
 </div>

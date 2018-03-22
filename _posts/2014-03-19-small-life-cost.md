@@ -12,7 +12,7 @@ author:
 author_email: info@kotalab.com
 excerpt: "消費税も上がることだし、節約できるところは節約していきたいですよね。\r\n生活費を節約するコツは予算を決めること。食費も日用品などを買うお金もガソリン代も全部予算を決める。\r\nたったそれだけです。\r\n\r\n何を今更と思うかもしれませんが、これができていないから節約できていないのです。\r\n予算は決めてるけどうまくいってない場合は、予算を決めた後のお金の使い方に問題があるかもしれません。\r\n生活費を節約するためのお金の使い方をご紹介します。"
 wordpress_id: 11190
-wordpress_url: http://kotalab.com/?p=11190
+wordpress_url: https://kotalab.com/?p=11190
 date: '2014-03-19 08:44:06 +0900'
 date_gmt: '2014-03-18 23:44:06 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 消費税
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/threeusesofmoney_131228-546x409.jpg" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/threeusesofmoney_131228-546x409.jpg" /><br />
 消費税も上がることだし、節約できるところは節約していきたいですよね。<br />
 生活費を節約するコツは予算を決めること。食費も日用品などを買うお金もガソリン代も全部予算を決める。<br />
 たったそれだけです。</p>

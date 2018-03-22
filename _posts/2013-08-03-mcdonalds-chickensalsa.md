@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7963
-wordpress_url: http://kotalab.com/?p=7963
+wordpress_url: https://kotalab.com/?p=7963
 date: '2013-08-03 20:00:17 +0900'
 date_gmt: '2013-08-03 11:00:17 +0900'
 category:
@@ -21,22 +21,22 @@ tags:
 - MEXICANFWSTIVAL
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/macmexican_130803-448x448.jpg" alt="macmexican_130803" width="448" height="448" class="alignnone size-large wp-image-7967" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/macmexican_130803-448x448.jpg" alt="macmexican_130803" width="448" height="448" class="alignnone size-large wp-image-7967" /><br />
 チキンサルサバーガーを食べました。こたら（@kotala_b）です。<br />
 今マクドナルドではメキシカンテイストのサルサバーガー3種類が発売中です。<br />
 3種類の中からチキンサルサを食べてみました。<br />
 <!--more--></p>
 <h2>チキンサルサ</h2>
 <p>チキンとサルサソースがプリントされた包装紙<br />
-<img src="http://kotalab.com/wp-content/uploads/macmexican_130803-448x448.jpg" alt="macmexican_130803" width="448" height="448" class="alignnone size-large wp-image-7967" /><br />
+<img src="https://kotalab.com/wp-content/uploads/macmexican_130803-448x448.jpg" alt="macmexican_130803" width="448" height="448" class="alignnone size-large wp-image-7967" /><br />
 開けるとサルサソースの香ばしいにおい！<br />
 バンズを開けるとこんな感じ<br />
-<img src="http://kotalab.com/wp-content/uploads/macmexican_130803_03-448x448.jpg" alt="macmexican_130803_03" width="448" height="448" class="alignnone size-large wp-image-7965" /><br />
+<img src="https://kotalab.com/wp-content/uploads/macmexican_130803_03-448x448.jpg" alt="macmexican_130803_03" width="448" height="448" class="alignnone size-large wp-image-7965" /><br />
 サルサソース・レタス・サルサソース・チキンの順番で並びます。<br />
 チキンの下にはハラペーニョチーズソースが隠れていました<br />
-<img src="http://kotalab.com/wp-content/uploads/macmexican_130803_02-448x448.jpg" alt="macmexican_130803_02" width="448" height="448" class="alignnone size-large wp-image-7964" /><br />
+<img src="https://kotalab.com/wp-content/uploads/macmexican_130803_02-448x448.jpg" alt="macmexican_130803_02" width="448" height="448" class="alignnone size-large wp-image-7964" /><br />
 いただきます！<br />
-<img src="http://kotalab.com/wp-content/uploads/macmexican_130803_01-448x448.jpg" alt="macmexican_130803_01" width="448" height="448" class="alignnone size-large wp-image-7966" /><br />
+<img src="https://kotalab.com/wp-content/uploads/macmexican_130803_01-448x448.jpg" alt="macmexican_130803_01" width="448" height="448" class="alignnone size-large wp-image-7966" /><br />
 スパイシーでジューシー！<br />
 辛いのが苦手な人でも全然イケるほんのりした辛さ。<br />
 サルサ独特の香りが食欲をそそります。</p>

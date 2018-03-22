@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2260
-wordpress_url: http://kotalab.com/?p=2260
+wordpress_url: https://kotalab.com/?p=2260
 date: '2012-08-23 07:13:53 +0900'
 date_gmt: '2012-08-22 22:13:53 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - camera+
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/camore_120823.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/camore_120823.png" alt="" title="camore_120823" width="448" height="448" class="alignnone size-full wp-image-2263" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/camore_120823.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/camore_120823.png" alt="" title="camore_120823" width="448" height="448" class="alignnone size-full wp-image-2263" /></a><br />
 Camore+の新しいアイコンが好きです。@kotala_bです。<br />
 Camera+と他のアプリとの連携が強化されるアプリCamore+がアップデートされました！<br />
 <!--more--></p>
@@ -42,22 +42,22 @@ Camera+と他のアプリとの連携が強化されるアプリCamore+がアッ
 <a href="http://rivawan.com/archives/2072" target="_blank"><img src="http://capture.heartrails.com/150x130?http://rivawan.com/archives/2072" alt="http://rivawan.com/archives/2072" width="150" height="130" align="left" /></a><a href="http://rivawan.com/archives/2072" target="_blank">Camore+がバージョン2.0にアップデート！アイコン変更や通知センターからの起動などを搭載。 : Rivawan</a><br style="clear:both;" /><br />
 <a href="http://rivawan.com/archives/2084" target="_blank"><img src="http://capture.heartrails.com/150x130?http://rivawan.com/archives/2084" alt="http://rivawan.com/archives/2084" width="150" height="130" align="left" /></a><a href="http://rivawan.com/archives/2084" target="_blank">通知センターなどから画像の受け渡しの流れを自動化できるCamore+のショートカット作成機能について : Rivawan</a><br style="clear:both;" />アップデートの内容で1番気に入ったのはアイコンの変更、2番目はOneCamの起動に対応したことでした。</p>
 <h2>アイコンがいい！</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/camore_120823.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/camore_120823.png" alt="" title="camore_120823" width="150" height="150" class="alignnone size-full wp-image-2263" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/camore_120823.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/camore_120823.png" alt="" title="camore_120823" width="150" height="150" class="alignnone size-full wp-image-2263" /></a><br />
 なんといってもこのアイコンです！<br />
 もっとよく見たい方はクリックすると拡大されるのでじっくり見てください！</p>
 <h2>OneCam対応がいい！</h2>
 <p>▼アプリを起動した直後の画面。<br />
-<a href="http://kotalab.com/wp-content/uploads/camore_120823_05.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/camore_120823_05.png" alt="" title="camore_120823_05" width="300" height="433" class="alignnone size-full wp-image-2271" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/camore_120823_05.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/camore_120823_05.png" alt="" title="camore_120823_05" width="300" height="433" class="alignnone size-full wp-image-2271" /></a><br />
 以前はCamera+だけでしたがアップデートでOneCamも選択可能になりました！<br />
 ▼OneCamで撮った写真。<br />
-<a href="http://kotalab.com/wp-content/uploads/camore_120823_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/camore_120823_01.png" alt="" title="camore_120823_01" width="300" height="450" class="alignnone size-full wp-image-2268" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/camore_120823_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/camore_120823_01.png" alt="" title="camore_120823_01" width="300" height="450" class="alignnone size-full wp-image-2268" /></a><br />
 左下の送信ボタンで他のアプリと連携出来ます。<br />
 ▼Camore+と連携する場合は、「PhotoAppLink」を選択。<br />
-<a href="http://kotalab.com/wp-content/uploads/camore_120823_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/camore_120823_02.png" alt="" title="camore_120823_02" width="300" height="450" class="alignnone size-full wp-image-2269" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/camore_120823_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/camore_120823_02.png" alt="" title="camore_120823_02" width="300" height="450" class="alignnone size-full wp-image-2269" /></a><br />
 ▼ここでCamore+を選択すればCamora+で編集が行えます。<br />
-<a href="http://kotalab.com/wp-content/uploads/camore_120823_03.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/camore_120823_03.png" alt="" title="camore_120823_03" width="300" height="450" class="alignnone size-full wp-image-2270" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/camore_120823_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/camore_120823_03.png" alt="" title="camore_120823_03" width="300" height="450" class="alignnone size-full wp-image-2270" /></a><br />
 ▼編集画面。<br />
-<a href="http://kotalab.com/wp-content/uploads/camore_120823_04.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/camore_120823_04.png" alt="" title="camore_120823_04" width="300" height="450" class="alignnone size-full wp-image-2267" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/camore_120823_04.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/camore_120823_04.png" alt="" title="camore_120823_04" width="300" height="450" class="alignnone size-full wp-image-2267" /></a><br />
 右上の「Done」で編集を終えるとCamore+で他のアプリとの連携画面になります。</p>
 <h2>まとめ</h2>
 <p>僕は普段CneCamで食事の写真を撮ることが多いので、起動時のカメラ選択がとても気に入りました！<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10546
-wordpress_url: http://kotalab.com/?p=10546
+wordpress_url: https://kotalab.com/?p=10546
 date: '2014-01-14 20:32:24 +0900'
 date_gmt: '2014-01-14 11:32:24 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - 福岡
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/to-do-by-dpub_140114-546x409.jpg" alt="to-do-by-dpub_140114" width="546" height="409" class="alignnone size-large wp-image-10549" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/to-do-by-dpub_140114-546x409.jpg" alt="to-do-by-dpub_140114" width="546" height="409" class="alignnone size-large wp-image-10549" /><br />
 2日間で35時間は寝てました。こたら（@kotala_b）です。<br />
 悔しいというか悲しいというかなんというか。本当に残念でした。<br />
 Dpubに当日になって行けなくなることは本当に悲しかった。<br />
@@ -56,7 +56,7 @@ Dpubって何？って方はこちらをどうぞ</p>
 <p>ただそんな中でも良かったことというか再発見がありました。<br />
 「とにかくブログが書きたい」っていう気持ちがどんどん湧いてきたこと。<br />
 ただ起き上がって書けるような状態じゃなかったから横になりながら「あぁブログ書くことが好きなんだなぁ」とボーッとしてました。<br />
-<a href="http://kotalab.com/happy-new-year-2014" title="新年明けましておめでとうございます！今年の目標とテーマを決めました！">年初に立てた365日連続更新</a>はあっさりダメになったけど、今日からまた1日1日を大切にしていきます！</p>
+<a href="https://kotalab.com/happy-new-year-2014" title="新年明けましておめでとうございます！今年の目標とテーマを決めました！">年初に立てた365日連続更新</a>はあっさりダメになったけど、今日からまた1日1日を大切にしていきます！</p>
 <h2>この先、Dpubに参加したくなったら前日までに必ずやっておくこと</h2>
 <p>それは<span class="ll">体調管理！</span><br />
 見出しよりも大きい字で書いちゃいますけどほんとに大切！<br />

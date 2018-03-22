@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7996
-wordpress_url: http://kotalab.com/?p=7996
+wordpress_url: https://kotalab.com/?p=7996
 date: '2013-08-07 20:00:12 +0900'
 date_gmt: '2013-08-07 11:00:12 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/everydaycheck_130807-448x336.jpg" alt="everydaycheck_130807" width="448" height="336" class="alignnone size-large wp-image-8000" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/everydaycheck_130807-448x336.jpg" alt="everydaycheck_130807" width="448" height="336" class="alignnone size-large wp-image-8000" /><br />
 iPadminiをチェックリスト代わりに使ってます。こたら（@kotala_b）です。<br />
 iPhoneでは<a href="https://itunes.apple.com/jp/app/domo-todo+-sync-google-calendar/id317736733?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">domo Todo+</a>にチェックリストを入れています。<br />
 iPadminiをMacBook Airの横に置いてサブディスプレイのようにして使うようになったので、iPadminiでもチェックリストアプリを使いたいと思っていました。<br />
@@ -33,15 +33,15 @@ iPadminiをMacBook Airの横に置いてサブディスプレイのようにし�
 項目を実行する時はひとつずつチェックをしていきますが、繰り返し使う時にはワンボタンでチェックを外せないと使いづらいからです。<br />
 この機能があって尚かつごちゃごちゃしていないシンプルなデザインのアプリを探しました。</p>
 <h2>毎日繰り返し使えるチェックリストアプリ</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/everydaycheck_130807_02-448x585.jpg" alt="everydaycheck_130807_02" width="448" height="585" class="alignnone size-large wp-image-8002" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/everydaycheck_130807_02-448x585.jpg" alt="everydaycheck_130807_02" width="448" height="585" class="alignnone size-large wp-image-8002" /><br />
 僕が選んだのは<a href="https://itunes.apple.com/jp/app/mei-richekku-mei-rinochekkurisuto/id619589439?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">毎日チェック</a>です。<br />
 <a href="https://itunes.apple.com/jp/app/mei-richekku-mei-rinochekkurisuto/id619589439?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">毎日チェック</a>は名前の通り、毎日繰り返し使えるチェックリストアプリで、チェックのつけ外しが一括でできる機能もあります。<br />
 チェックリストの項目には名前の他に重要度やメモ、画像をつけることができて、<br />
-<img src="http://kotalab.com/wp-content/uploads/everydaycheck_130807_01-448x585.jpg" alt="everydaycheck_130807_01" width="448" height="585" class="alignnone size-large wp-image-7999" /><br />
+<img src="https://kotalab.com/wp-content/uploads/everydaycheck_130807_01-448x585.jpg" alt="everydaycheck_130807_01" width="448" height="585" class="alignnone size-large wp-image-7999" /><br />
 チェックリスト自体にはアイコン、アイコンの色、指定時間に強調して表示する設定があります。<br />
-<img src="http://kotalab.com/wp-content/uploads/everydaycheck_130807_03-448x585.jpg" alt="everydaycheck_130807_03" width="448" height="585" class="alignnone size-large wp-image-8003" /><br />
+<img src="https://kotalab.com/wp-content/uploads/everydaycheck_130807_03-448x585.jpg" alt="everydaycheck_130807_03" width="448" height="585" class="alignnone size-large wp-image-8003" /><br />
 指定時間を設定した場合はアイコンの横に「now」と表示され、今やるべきことが一目でわかる便利設定！<br />
-<img src="http://kotalab.com/wp-content/uploads/everydaycheck_130807_04.jpg" alt="everydaycheck_130807_04" width="439" height="226" class="alignnone size-full wp-image-8001" /></p>
+<img src="https://kotalab.com/wp-content/uploads/everydaycheck_130807_04.jpg" alt="everydaycheck_130807_04" width="439" height="226" class="alignnone size-full wp-image-8001" /></p>
 <h2>毎日チェックの残念なところ</h2>
 <p>この<a href="https://itunes.apple.com/jp/app/mei-richekku-mei-rinochekkurisuto/id619589439?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">毎日チェック</a>の残念なところをひとつあげるとすれば、縦画面にしか対応していないところ。<br />
 iPadを横向きにしてもチェックリストは縦向きのまま変わりません。<br />
@@ -49,7 +49,7 @@ Lightningケーブルの接続部分が画面下にあるので、充電しな�
 <h2>最後に</h2>
 <p>チェックリストには起きた直後のボーッとした頭でも、忘れずに行動できる素晴らしい効果があります。<br />
 毎日、毎週のように繰り返し行っていて何かしらやり忘れがある、もしくはやり忘れを防ぎたいと思ったことがあるなら、チェックリストを作ることをおすすめします。<br />
-<a href="http://kotalab.com/checklist-making" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/checklist_130311-448x316.jpg" alt="繰り返しやることにはチェックリストを作る！物事を効率的にこなす為のチェックリストの作り方！ | kotala's note" width="150" /></a><a href="http://kotalab.com/checklist-making" target="_blank">繰り返しやることにはチェックリストを作る！物事を効率的にこなす為のチェックリストの作り方！ | kotala's note</a><br style="clear:both;" /></p>
+<a href="https://kotalab.com/checklist-making" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/checklist_130311-448x316.jpg" alt="繰り返しやることにはチェックリストを作る！物事を効率的にこなす為のチェックリストの作り方！ | kotala's note" width="150" /></a><a href="https://kotalab.com/checklist-making" target="_blank">繰り返しやることにはチェックリストを作る！物事を効率的にこなす為のチェックリストの作り方！ | kotala's note</a><br style="clear:both;" /></p>
 <h2>エントリーの中で紹介したアプリ</h2>
 <h3>毎日チェック</h3>
 <div class="applink">

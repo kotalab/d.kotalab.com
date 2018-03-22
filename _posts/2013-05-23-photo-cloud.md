@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7226
-wordpress_url: http://kotalab.com/?p=7226
+wordpress_url: https://kotalab.com/?p=7226
 date: '2013-05-23 19:00:21 +0900'
 date_gmt: '2013-05-23 10:00:21 +0900'
 category:
@@ -33,7 +33,7 @@ comments:
   content: "[...] flickrが大きく変わりました （ via K&#8217;s Blog ） ◆ 無料のフォトクラウドサービスを使うならどこ？Flickrの無料プランが変...（
     via kotala&#8217;s note ） ◆ 有力写真ストレージ Flickr と Google+写真 [...]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/cloud_130523-448x297.jpg" alt="cloud_130523" width="448" height="297" class="alignnone size-large wp-image-7230" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/cloud_130523-448x297.jpg" alt="cloud_130523" width="448" height="297" class="alignnone size-large wp-image-7230" /><br />
 写真のバックアップはPicasaを使っています。こたら（@kotala_b）です。<br />
 Flickrの無料プランが大きく変わり、月100MBまでだったアップロード容量が無制限に変更になりました。<br />
 これまではPicasaを使っていましたが、Flickrの変更でFlickrへ変えようか迷っています。<br />
@@ -156,5 +156,5 @@ NIKON製品を持っていれば無料で20GB使用可能。<br />
 <p>今回調べてみたところ、ここには載せていないクラウドサービスも多数存在していました。<br />
 しかしサービス終了のお知らせが出ていたり、サーバーメンテナンス中であったり、大切な写真を保存しておくのに心許ないモノは今回紹介しませんでした。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/weekly-130519" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/weekly_130519-448x336.jpg" alt="欲しいモノやりたいことはブログに書いておくといいらしい【kotala&rsquo;s weekly】 | kotala's note" width="150" /></a><a href="http://kotalab.com/weekly-130519" target="_blank">欲しいモノやりたいことはブログに書いておくといいらしい【kotala&rsquo;s weekly】 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/buy-nikon-d7000" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/d7000_130520-448x336.jpg" alt="Nikonのデジタル一眼レフカメラD7000を購入しました。 | kotala's note" width="150" /></a><a href="http://kotalab.com/buy-nikon-d7000" target="_blank">Nikonのデジタル一眼レフカメラD7000を購入しました。 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/weekly-130519" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/weekly_130519-448x336.jpg" alt="欲しいモノやりたいことはブログに書いておくといいらしい【kotala&rsquo;s weekly】 | kotala's note" width="150" /></a><a href="https://kotalab.com/weekly-130519" target="_blank">欲しいモノやりたいことはブログに書いておくといいらしい【kotala&rsquo;s weekly】 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/buy-nikon-d7000" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/d7000_130520-448x336.jpg" alt="Nikonのデジタル一眼レフカメラD7000を購入しました。 | kotala's note" width="150" /></a><a href="https://kotalab.com/buy-nikon-d7000" target="_blank">Nikonのデジタル一眼レフカメラD7000を購入しました。 | kotala's note</a><br style="clear:both;" /></p>

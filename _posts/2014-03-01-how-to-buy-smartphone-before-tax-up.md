@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11018
-wordpress_url: http://kotalab.com/?p=11018
+wordpress_url: https://kotalab.com/?p=11018
 date: '2014-03-01 10:43:29 +0900'
 date_gmt: '2014-03-01 01:43:29 +0900'
 category:
@@ -27,12 +27,12 @@ tags:
 - 増税
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_08-546x361.jpg" alt="iphone5scompareiphone5_130920_08" width="546" height="361" class="alignnone size-large wp-image-9552" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_08-546x361.jpg" alt="iphone5scompareiphone5_130920_08" width="546" height="361" class="alignnone size-large wp-image-9552" /><br />
 消費税増税前にスマホを買い替えますか？<br />
 消費税増税前に買い替えたいけど、他にも色々買う予定があると出費がかさむのも嫌ですよね。<br />
 そうならないように消費税増税前に上手にスマホを買い換える方法をご紹介したいと思います。</p>
 <h2>機種変より新規、新規よりMNP</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphoneandroid_120720.jpg" alt="iphoneandroid_120720" width="546" height="411" class="alignnone size-full wp-image-1569" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphoneandroid_120720.jpg" alt="iphoneandroid_120720" width="546" height="411" class="alignnone size-full wp-image-1569" /><br />
 スマホを買う場合の買い方は3通り。<br />
 新規で買うか、機種変で買うか、MNPで他社に乗り換えるかです。</p>
 <p>この中で1番条件がいいのはMNPです。<br />
@@ -43,7 +43,7 @@ comments: []
 一括0円でさらに何万円ものキャッシュバックがつくことだってあります。<br />
 それが現状です。</p>
 <h3>MNPは基本料金が無料になる</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_01-546x361.jpg" alt="iphone5s-iphone5c-zeroyen_140120_01" width="546" height="361" class="alignnone size-large wp-image-10611" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_01-546x361.jpg" alt="iphone5s-iphone5c-zeroyen_140120_01" width="546" height="361" class="alignnone size-large wp-image-10611" /><br />
 各キャリアではMNPで乗り換えてきた人に基本料金を無料にするキャンペーンを行っています。<br />
 キャンペーン期間中に契約した場合の限定ですが、1000円弱の基本料金が無料になるのは大きいですよね。</p>
 <h3>MNPする時の注意点</h3>
@@ -58,11 +58,11 @@ MNPにはこのメアドが大きな足枷となります。<br />
 <p>ケータイキャリアを変えても、ずっと同じメアドが使い続けられる。<br />
 MNPしてもいちいちメアド変更のお知らせをしなくて済むようになります。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/abandoning-carrier-mail"><img src="http://kotalab.com/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/abandoning-carrier-mail">脱キャリアメールのすすめ。MNPがおトクすぎる今だからこそ</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/abandoning-carrier-mail" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/abandoning-carrier-mail" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/abandoning-carrier-mail"><img src="https://kotalab.com/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/abandoning-carrier-mail">脱キャリアメールのすすめ。MNPがおトクすぎる今だからこそ</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/abandoning-carrier-mail" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/abandoning-carrier-mail" alt="" /></a></div>
 </div>
 <h2>買い換える曜日に気をつける</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_03-546x546.jpg" alt="iphone5scompareiphone5_130920_03" width="546" height="546" class="alignnone size-large wp-image-9562" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_03-546x546.jpg" alt="iphone5scompareiphone5_130920_03" width="546" height="546" class="alignnone size-large wp-image-9562" /><br />
 1週間のうちで買い換えて得するのは土日です。<br />
 <span class="b">平日よりも土日の方が買い換え条件がいいからです。</span><br />
 お得に買えますが、その分混雑もします。<br />
@@ -83,18 +83,18 @@ MNPしてもいちいちメアド変更のお知らせをしなくて済むよ�
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/communications-cost-95off"><img src="http://kotalab.com/wp-content/uploads/communications-cost-95off_140228_01-546x285.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/communications-cost-95off">スマホの通話料が95%OFF！？消費税増税前に使い始めたい格安通話サービス</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/communications-cost-95off" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/communications-cost-95off" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/communications-cost-95off"><img src="https://kotalab.com/wp-content/uploads/communications-cost-95off_140228_01-546x285.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/communications-cost-95off">スマホの通話料が95%OFF！？消費税増税前に使い始めたい格安通話サービス</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/communications-cost-95off" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/communications-cost-95off" alt="" /></a></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/best-timing-when-buy-commuter-pass"><img src="http://kotalab.com/wp-content/uploads/best-timing-when-buy-commuter-pass_140226-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/best-timing-when-buy-commuter-pass">消費税増税前に定期券を買うベストタイミング！？定期券をいつ買えばいいかを調べてみた！</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/best-timing-when-buy-commuter-pass" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/best-timing-when-buy-commuter-pass" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/best-timing-when-buy-commuter-pass"><img src="https://kotalab.com/wp-content/uploads/best-timing-when-buy-commuter-pass_140226-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/best-timing-when-buy-commuter-pass">消費税増税前に定期券を買うベストタイミング！？定期券をいつ買えばいいかを調べてみた！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/best-timing-when-buy-commuter-pass" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/best-timing-when-buy-commuter-pass" alt="" /></a></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/train-fare-rise-in-price"><img src="http://kotalab.com/wp-content/uploads/trainfareriseinprice_131221_01-546x364.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/train-fare-rise-in-price">消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/train-fare-rise-in-price"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/train-fare-rise-in-price" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/train-fare-rise-in-price"><img src="https://kotalab.com/wp-content/uploads/trainfareriseinprice_131221_01-546x364.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/train-fare-rise-in-price">消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/train-fare-rise-in-price"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/train-fare-rise-in-price" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/costco-item-before-tax-up"><img src="http://kotalab.com/wp-content/uploads/costco-item-before-tax-up_20140203_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/costco-item-before-tax-up">消費税増税前に買い込むならこれだ！コストコでオススメの5つのアイテム！</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/costco-item-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/costco-item-before-tax-up" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/costco-item-before-tax-up"><img src="https://kotalab.com/wp-content/uploads/costco-item-before-tax-up_20140203_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/costco-item-before-tax-up">消費税増税前に買い込むならこれだ！コストコでオススメの5つのアイテム！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/costco-item-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/costco-item-before-tax-up" alt="" /></a></div>
 </div>

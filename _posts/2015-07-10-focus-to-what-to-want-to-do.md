@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14741
-wordpress_url: http://kotalab.com/?p=14741
+wordpress_url: https://kotalab.com/?p=14741
 date: '2015-07-10 08:04:06 +0900'
 date_gmt: '2015-07-09 23:04:06 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 集中力
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/06/lets-change-the-consciousness_20150625_02-780x520.jpg" alt="lets-change-the-consciousness_20150625_02.jpg" width="780" height="520" class="aligncenter size-large wp-image-14672" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/06/lets-change-the-consciousness_20150625_02-780x520.jpg" alt="lets-change-the-consciousness_20150625_02.jpg" width="780" height="520" class="aligncenter size-large wp-image-14672" /></p>
 <p>やりたいことを忘れないようにするために、あるいはやりたいことをできるよう段取りするために、ぼくはタスク管理をしています。</p>
 <p>タスク管理は毎日持ち歩いているiPhone6Plusと5月に新調したMacBook Proでやっています。</p>
 <p>ぼくがこのようなデジタルツールでタスク管理する理由はタスク管理が機械的な作業だからです。<br />
@@ -50,5 +50,5 @@ comments: []
 <p>もっとたくさんのやりたいことをやるために、これからも続けていきたいです！</p>
 <p>[dailynew]<br />
 ・Xcode7beta3</p>
-<p><a href="http://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

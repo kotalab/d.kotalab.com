@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10215
-wordpress_url: http://kotalab.com/?p=10215
+wordpress_url: https://kotalab.com/?p=10215
 date: '2013-11-22 10:10:29 +0900'
 date_gmt: '2013-11-22 01:10:29 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - EveryPost
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/20131122-155111.jpg" alt="20131122-155111.jpg" class="alignnone size-full" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/20131122-155111.jpg" alt="20131122-155111.jpg" class="alignnone size-full" /><br />
 SNSへの同時投稿はEveryPostを使ってます。こたら(@kotala_b)です。<br />
 SNSへ同時投稿できるアプリは色々試してきました。でもなかなかしっくりくるものがこれまでありませんでしたり。<br />
 そんな中、EveryPostにこれは間違いない！というアップデートがありました。<br />
@@ -32,11 +32,11 @@ SNSに同時投稿できるiPhoneアプリは他にもありますが、Facebook
 <h2>Facebookページへの投稿の設定</h2>
 <p>Facebookページへの投稿は最初に設定を済ませれば、次からは今まで通りEveryPostを使う感覚でいけます。<br />
 ▼設定は投稿画面の左上にある歯車から<br />
-<img src="http://kotalab.com/wp-content/uploads/20131122-155138.jpg" alt="20131122-155138.jpg" class="alignnone size-full" /><br />
+<img src="https://kotalab.com/wp-content/uploads/20131122-155138.jpg" alt="20131122-155138.jpg" class="alignnone size-full" /><br />
 ▼Facebookの設定から、1番下にある「ページ」を開きます。<br />
-<img src="http://kotalab.com/wp-content/uploads/20131122-155123.jpg" alt="20131122-155123.jpg" class="alignnone size-full" /><br />
+<img src="https://kotalab.com/wp-content/uploads/20131122-155123.jpg" alt="20131122-155123.jpg" class="alignnone size-full" /><br />
 ▼自分が管理しているFacebookページが表示されていれば、チェックを入れて完了！<br />
-<img src="http://kotalab.com/wp-content/uploads/20131122-155131.jpg" alt="20131122-155131.jpg" class="alignnone size-full" /><br />
+<img src="https://kotalab.com/wp-content/uploads/20131122-155131.jpg" alt="20131122-155131.jpg" class="alignnone size-full" /><br />
 最初の1回は認証が必要になります。</p>
 <h3>EveryPostがメインアプリになった！</h3>
 <p>SNSに同時投稿できるアプリは今までいくつか試してきましたが、最近はずっとEveryPostを使っていました。<br />

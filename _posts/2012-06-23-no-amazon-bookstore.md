@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 947
-wordpress_url: http://kotalab.com/?p=947
+wordpress_url: https://kotalab.com/?p=947
 date: '2012-06-23 07:55:13 +0900'
 date_gmt: '2012-06-22 22:55:13 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - amazon
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/bookStore_120623.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/bookStore_120623.jpg" alt="Kinokuniya Book Store -Seattle International District" title="bookStore_120623" width="400" height="300" class="alignnone size-full wp-image-963" /></a><br /><span style="font-size:10px;"><a href="http://www.flickr.com/photos/brewbooks/871593870/" target="_blank">Kinokuniya Book Store -Seattle International District</a> / brewbooks</span><br />
+<p><a href="https://kotalab.com/wp-content/uploads/bookStore_120623.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bookStore_120623.jpg" alt="Kinokuniya Book Store -Seattle International District" title="bookStore_120623" width="400" height="300" class="alignnone size-full wp-image-963" /></a><br /><span style="font-size:10px;"><a href="http://www.flickr.com/photos/brewbooks/871593870/" target="_blank">Kinokuniya Book Store -Seattle International District</a> / brewbooks</span><br />
 本を買うときはamazonよりも書店まで行って買うことの方が多い@kotala_bです。<br />
 色々な人の書評を見てから本を買うのですが、書評を見た段階ではamazonの欲しい物リストに登録するだけにしています。<br />
 最寄駅の駅前にはブックオフを含めて書店が3店舗あり、買いに行く時はそれぞれ周ります。<br />

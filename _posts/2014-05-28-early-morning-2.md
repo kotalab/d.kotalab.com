@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13227
-wordpress_url: http://kotalab.com/?p=13227
+wordpress_url: https://kotalab.com/?p=13227
 date: '2014-05-28 07:48:06 +0900'
 date_gmt: '2014-05-27 22:48:06 +0900'
 category:
@@ -29,14 +29,14 @@ comments: []
 <p>ではどんないい影響があるのかご紹介したいと思います。<br />
 <!--more--></p>
 <h2>朝は通勤電車がすいてる</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/early-morning_140528_01.jpg" alt="Early morning 140528 01" title="early-morning_140528_01.JPG" border="0" width="548" height="365" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/early-morning_140528_01.jpg" alt="Early morning 140528 01" title="early-morning_140528_01.JPG" border="0" width="548" height="365" /><br />
 あなたが知ってる朝の山手線とは違うかも知れませんが、この写真は僕が見ている朝の山手線の車内です。</p>
 <p>朝7時頃の新宿駅付近の車内なのですが、通勤ラッシュより前なのでこんなにすいています。</p>
 <p>座席があいているので<span class="b">座りながら通勤できますし、例え座れなくても本や新聞を読む余裕があります</span>。</p>
 <p>僕は新宿に出るまでに京王線という私鉄に乗っているんですが、山手線よりも多少は混んでいますがそれでも本を読むには十分なスペースがあります。<br />
 もしこれが1時間遅いと通勤ラッシュに重なり、iPhoneすら手にできないくらいの混雑で車内でもみくちゃにされてしまいます。</p>
 <h2>仕事の前にやりたいことができる</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/early-morning_140528_02.jpg" alt="Early morning 140528 02" title="early-morning_140528_02.JPG" border="0" width="548" height="365" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/early-morning_140528_02.jpg" alt="Early morning 140528 02" title="early-morning_140528_02.JPG" border="0" width="548" height="365" /><br />
 家を出る時間が早いので仕事をする前に自分の時間を確保できます。<br />
 僕は会社にいく前の時間を使ってこのブログを書いたり、アプリ開発したりしています。</p>
 <p>仕事がある平日はやりたいことができる時間は限られていて、仕事が始まる前か終わった後かのどちらかしかありません。</p>

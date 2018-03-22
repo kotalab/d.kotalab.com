@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7166
-wordpress_url: http://kotalab.com/?p=7166
+wordpress_url: https://kotalab.com/?p=7166
 date: '2013-05-17 19:23:40 +0900'
 date_gmt: '2013-05-17 10:23:40 +0900'
 category:
@@ -29,7 +29,7 @@ comments:
   date_gmt: '2013-06-30 07:24:41 +0900'
   content: "[...]  [...]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/sixcore_130517-448x336.jpg" alt="sixcore_130517" width="448" height="336" class="alignnone size-large wp-image-7168" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/sixcore_130517-448x336.jpg" alt="sixcore_130517" width="448" height="336" class="alignnone size-large wp-image-7168" /><br />
 サーバー移行が完了しました。こたら（@kotala_b）です。<br />
 仕事が休みの日月でサーバー移行を終わらせようと意気込んでいたものの結局金曜までかかりました。<br />
 色んな人のサーバー移行記事を読みましたがすんなりとはいかないものですね。<br />
@@ -52,9 +52,9 @@ sixcoreへ<br />
 このエラーの原因を調べたところ、エクスポート元とインポート先でMysqlのバージョンが違うことが原因かも知れないということがわかりました。<br />
 そこでエクスポートファイルと作成時とインポート時の設定を変更しました。<br />
 ▼エクスポートする時は他のデータベースシステムまたは古い MySQL サーバとの互換性を「MYSQL40」に変更<br />
-<img src="http://kotalab.com/wp-content/uploads/sixcore_130517_01-448x253.jpg" alt="sixcore_130517_01" width="448" height="253" class="alignnone size-large wp-image-7169" /><br />
+<img src="https://kotalab.com/wp-content/uploads/sixcore_130517_01-448x253.jpg" alt="sixcore_130517_01" width="448" height="253" class="alignnone size-large wp-image-7169" /><br />
 ▼インポートする時はSQL互換モードを「MYSQL40」に変更<br />
-<img src="http://kotalab.com/wp-content/uploads/sixcore_130517_02-448x140.jpg" alt="sixcore_130517_02" width="448" height="140" class="alignnone size-large wp-image-7170" /><br />
+<img src="https://kotalab.com/wp-content/uploads/sixcore_130517_02-448x140.jpg" alt="sixcore_130517_02" width="448" height="140" class="alignnone size-large wp-image-7170" /><br />
 これで#1064が出ずにインポートが出来るようになりました。</p>
 <h3>2.確認用URLで確認出来ない</h3>
 <p>これは単純なミスでした。<br />
@@ -81,4 +81,4 @@ Pocketに保存してあったサーバー移行記事を見返しました。<b
 <a href="http://px.a8.net/svt/ejp?a8mat=25PB6D+3SXS8A+CO4+O0MJL" target="_blank"><br />
 <img border="0" width="234" height="60" alt="" src="http://www25.a8.net/svt/bgt?aid=130511317230&wid=004&eno=01&mid=s00000001642004034000&mc=1"></a></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/pocket-five-reason" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/pocket_130513.jpg" alt="【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由 | kotala's note" width="150" /></a><a href="http://kotalab.com/pocket-five-reason" target="_blank">【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/pocket-five-reason" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/pocket_130513.jpg" alt="【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由 | kotala's note" width="150" /></a><a href="https://kotalab.com/pocket-five-reason" target="_blank">【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由 | kotala's note</a><br style="clear:both;" /></p>

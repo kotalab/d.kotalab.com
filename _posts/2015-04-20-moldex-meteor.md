@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14138
-wordpress_url: http://kotalab.com/?p=14138
+wordpress_url: https://kotalab.com/?p=14138
 date: '2015-04-20 08:01:38 +0900'
 date_gmt: '2015-04-19 23:01:38 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 耳栓
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/stb-mac-diff_20150418_02-780x520.jpg" alt="stb-mac-diff_20150418_02" width="780" height="520" class="aligncenter size-large wp-image-14131" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/stb-mac-diff_20150418_02-780x520.jpg" alt="stb-mac-diff_20150418_02" width="780" height="520" class="aligncenter size-large wp-image-14131" /><br />
 集中したい時は静かな場所で作業がしたい！<br />
 周囲の音がうるさいとなかなか集中できなくてイライラ。<br />
 静かな場所がすぐ見つかればいいけど、そういうわけにいかないことのほうが多い。</p>

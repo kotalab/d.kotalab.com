@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13480
-wordpress_url: http://kotalab.com/?p=13480
+wordpress_url: https://kotalab.com/?p=13480
 date: '2014-09-14 13:17:51 +0900'
 date_gmt: '2014-09-14 04:17:51 +0900'
 category:
@@ -29,7 +29,7 @@ tags:
 - iPhone 6Plus
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_04.jpg" alt="iphone5scompareiphone5_130920_04" width="1092" height="819" class="aligncenter size-full wp-image-9561" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_04.jpg" alt="iphone5scompareiphone5_130920_04" width="1092" height="819" class="aligncenter size-full wp-image-9561" /><br />
 今使ってるiPhoneからiPhone6やiPhone6Plusへ機種変する場合の注意点をまとめてみました。</p>
 <p>iPhoneとiTunesを連携させることでバックアップを取れるのですが、アプリ内のデータを移せない場合もあるので気をつけてくださいね。<br />
 <!--more--></p>
@@ -73,18 +73,18 @@ iPhone5Sにデータ移行するときの記事ですが、iPhone6でも同じ�
 <p>それはLINEやパズドラ、モンストなどのアプリ内には保存されていないデータです。<br />
 機種変前にアプリの中で引き継ぎの手続きを行ってから、新しい端末側でデータを復元させていきます。</p>
 <h3>LINEのデータ移行</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/to-do-change-iphone6_01.jpg" alt="To do change iphone6 01" title="to-do-change-iphone6_01.JPG" border="0" width="300" height="513" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/to-do-change-iphone6_01.jpg" alt="To do change iphone6 01" title="to-do-change-iphone6_01.JPG" border="0" width="300" height="513" /><br />
 LINEの場合は機種変前にメールアドレス登録をしてデータの引き継ぎをします。</p>
 <p>&darr;詳しくはこちら<br />
 <a href="http://official-blog.line.me/ja/archives/17894627.html" target="_blank">機種変更時にLINEのアカウントを引き継ぐ方法 : LINE公式ブログ</a><a href="http://b.hatena.ne.jp/entry/http://official-blog.line.me/ja/archives/17894627.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://official-blog.line.me/ja/archives/17894627.html" alt="" /></a></p>
 <h3>パズドラのデータ移行</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/to-do-change-iphone6_02.jpg" alt="To do change iphone6 02" title="to-do-change-iphone6_02.JPG" border="0" width="300" height="513" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/to-do-change-iphone6_02.jpg" alt="To do change iphone6 02" title="to-do-change-iphone6_02.JPG" border="0" width="300" height="513" /><br />
 パズドラの場合はiCloudにサインインしておくと上記のiTunesを使ったデータ移行ができます。<br />
 それ以外にも、アプリ内で機種変コードを発行することでデータ移行できるようになります。</p>
 <p>&darr;詳しくはこちら<br />
 <a href="http://mobile.gungho.jp/news/pad/131003_henko.html" target="_blank">【重要】異なるOS間におけるゲームデータの移行機能実装のお知らせ｜ パズル＆ドラゴンズ</a><a href="http://b.hatena.ne.jp/entry/http://mobile.gungho.jp/news/pad/131003_henko.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://mobile.gungho.jp/news/pad/131003_henko.html" alt="" /></a></p>
 <h3>モンストのデータ移行</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/to-do-change-iphone6_03.jpg" alt="To do change iphone6 03" title="to-do-change-iphone6_03.JPG" border="0" width="300" height="513" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/to-do-change-iphone6_03.jpg" alt="To do change iphone6 03" title="to-do-change-iphone6_03.JPG" border="0" width="300" height="513" /><br />
 モンストの場合は、GoogleのSNSであるGoogle+のアカウントが必要になります。</p>
 <p>&darr;詳しくはこちら<br />
 <a href="http://www.monster-strike.com/help/answer08/" target="_blank">機種変更やデータについて | モンスターストライク(モンスト)公式サイト</a><a href="http://b.hatena.ne.jp/entry/http://www.monster-strike.com/help/answer08/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.monster-strike.com/help/answer08/" alt="" /></a></p>

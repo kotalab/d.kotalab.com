@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13822
-wordpress_url: http://kotalab.com/?p=13822
+wordpress_url: https://kotalab.com/?p=13822
 date: '2015-01-12 14:58:40 +0900'
 date_gmt: '2015-01-12 05:58:40 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 行動記録
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/app-taskma-habit_20150112.jpg" alt="app-taskma-habit_20150112" width="1024" height="724" class="aligncenter size-full wp-image-13825" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/app-taskma-habit_20150112.jpg" alt="app-taskma-habit_20150112" width="1024" height="724" class="aligncenter size-full wp-image-13825" /><br />
 僕が毎日使っているiPhoneアプリにたすくまというタスク管理アプリがあります。<br />
 たすくまはTaskchuteというExcelベースのものだったんですが、待望のiPhone版がリリースされそれ以来ずっと毎日使い続けています。</p>
 <p>たすくまを活用すれば、今まで習慣化しようと思ってできなかったこともできるようになります。<br />
@@ -57,7 +57,7 @@ comments: []
 今までやっていた時間を使って何か別の新しいことをする。<br />
 これが習慣化なのです。</span></p>
 <h2>たすくまならできる</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/app-taskma-habit_20150112.jpg" alt="app-taskma-habit_20150112" width="1024" height="724" class="aligncenter size-full wp-image-13825" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/app-taskma-habit_20150112.jpg" alt="app-taskma-habit_20150112" width="1024" height="724" class="aligncenter size-full wp-image-13825" /><br />
 たすくまを使えば記録をつけることも簡単です。<br />
 他にも、記録を分析して平均で何分かかっているか、<br />
 今まで累計で何分かけたのかというようなこともわかります。</p>

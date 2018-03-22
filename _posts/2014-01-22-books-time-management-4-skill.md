@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10621
-wordpress_url: http://kotalab.com/?p=10621
+wordpress_url: https://kotalab.com/?p=10621
 date: '2014-01-22 05:48:35 +0900'
 date_gmt: '2014-01-21 20:48:35 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - 中谷彰宏
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books-time-management-4-skill_140122-546x409.jpg" alt="books-time-management-4-skill_140122" width="546" height="409" class="alignnone size-large wp-image-10623" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-time-management-4-skill_140122-546x409.jpg" alt="books-time-management-4-skill_140122" width="546" height="409" class="alignnone size-large wp-image-10623" /><br />
 1日は24時間であるということは世界中の人たちに<br />
 忙しいはずなのに色々なことをやっている人、色々なことをやりたいのに忙しくてできない人。<br />
 同じ24時間という時間を過ごしているのに大きな差ができてしまう。<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2446
-wordpress_url: http://kotalab.com/?p=2446
+wordpress_url: https://kotalab.com/?p=2446
 date: '2012-09-03 10:03:15 +0900'
 date_gmt: '2012-09-03 01:03:15 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - モレスキン
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/note_120903_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/note_120903_02.jpg" alt="" title="note_120903_02" width="448" height="597" class="alignnone size-full wp-image-2456" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/note_120903_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/note_120903_02.jpg" alt="" title="note_120903_02" width="448" height="597" class="alignnone size-full wp-image-2456" /></a><br />
 よく使うノートはEvernoteとモレスキンです。@kotala_bです。<br />
 デジタルとアナログのノートを使っております。<br />
 なかなか定まらなかった2種類のノートの使い分けですが、それぞれの特徴を生かして使うようになり使い方が定まってきました。<br />
@@ -56,7 +56,7 @@ Evernoteには優れた検索機能があるので、例えば「2012年の夏�
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/evernote/id281796108?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h2>アナログノート</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/note_120903_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/note_120903_01.jpg" alt="" title="note_120903_01" width="448" height="336" class="alignnone size-full wp-image-2457" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/note_120903_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/note_120903_01.jpg" alt="" title="note_120903_01" width="448" height="336" class="alignnone size-full wp-image-2457" /></a><br />
 僕は方眼ポケットサイズのハードカバーのモレスキンを使用しています。<br />
 このモレスキンには考えたいことを書きこんでます。<br />
 僕の場合、手を動かしてるとアイデアやイメージが湧いてきやすいので何か物事を考えたい時に使ってます。<br />

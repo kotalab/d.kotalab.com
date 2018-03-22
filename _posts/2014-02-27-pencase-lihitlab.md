@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10993
-wordpress_url: http://kotalab.com/?p=10993
+wordpress_url: https://kotalab.com/?p=10993
 date: '2014-02-27 07:37:39 +0900'
 date_gmt: '2014-02-26 22:37:39 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - LIHITLAB
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_01-546x361.jpg" alt="pencase-lihitlab_140227_01" width="546" height="361" class="alignnone size-large wp-image-10999" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_01-546x361.jpg" alt="pencase-lihitlab_140227_01" width="546" height="361" class="alignnone size-large wp-image-10999" /><br />
 LIHITLABのペンケースを使ってみたらいい感じだったのでご紹介したいと思います！<br />
 僕はこれまで100均のポーチにガジェット達を詰め込んで、出かける時にはそのポーチをカバンへ入れていました。<br />
 USBケーブルやエネループ、モバイルバッテリーのようなデジタルガジェット、筆記用具まで「これさえあれば丸一日大丈夫」なポーチでした。</p>
@@ -33,23 +33,23 @@ USBケーブルやエネループ、モバイルバッテリーのようなデ�
 1月から転職したこともあって持ち歩きたいモノが増えたので、新しく筆箱を買うことにしました。<br />
 <!--more--></p>
 <h2>LIHITLABのペンケース「ブックタイプ」</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_01-546x361.jpg" alt="pencase-lihitlab_140227_01" width="546" height="361" class="alignnone size-large wp-image-10999" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_01-546x361.jpg" alt="pencase-lihitlab_140227_01" width="546" height="361" class="alignnone size-large wp-image-10999" /><br />
 LIHITLABのペンケース「ブックタイプ」は全4色、その中から僕は黒を選びました！<br />
 真っ黒というよりはどちらかというとダークグレーに近い色合いです。</p>
 <p>「ブックタイプ」というだけあって、大きく開くのが特徴です。<br />
 内側はブラウン。派手すぎないのでビジネスで使うのにもバッチリ！<br />
 中には仕切りがひとつあり、左側はペンホルダー<br />
-<img src="http://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_02-546x361.jpg" alt="pencase-lihitlab_140227_02" width="546" height="361" class="alignnone size-large wp-image-10997" /><br />
+<img src="https://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_02-546x361.jpg" alt="pencase-lihitlab_140227_02" width="546" height="361" class="alignnone size-large wp-image-10997" /><br />
 右側は小物の収納スペースになっています。<br />
-<img src="http://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_03-546x361.jpg" alt="pencase-lihitlab_140227_03" width="546" height="361" class="alignnone size-large wp-image-10995" /><br />
+<img src="https://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_03-546x361.jpg" alt="pencase-lihitlab_140227_03" width="546" height="361" class="alignnone size-large wp-image-10995" /><br />
 左側にはペンが10本以上は入る容量になっています。<br />
 ボールペンやシャーペンのような普通のペンはもちろん、太めのマジックやカッターまで入っちゃいます。<br />
-<img src="http://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_04-546x409.jpg" alt="pencase-lihitlab_140227_04" width="546" height="409" class="alignnone size-large wp-image-10996" /><br />
+<img src="https://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_04-546x409.jpg" alt="pencase-lihitlab_140227_04" width="546" height="409" class="alignnone size-large wp-image-10996" /><br />
 右側に入ってるのは、ボールペンとシャーペンの替え芯、消しゴム、定規、メモ帳です。<br />
-<img src="http://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_05-546x409.jpg" alt="pencase-lihitlab_140227_05" width="546" height="409" class="alignnone size-large wp-image-10994" /><br />
+<img src="https://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_05-546x409.jpg" alt="pencase-lihitlab_140227_05" width="546" height="409" class="alignnone size-large wp-image-10994" /><br />
 筆記用具以外にもこんな風にコードをつけたままのモバイルバッテリーを入れられたりします！<br />
-<img src="http://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_06-546x409.jpg" alt="pencase-lihitlab_140227_06" width="546" height="409" class="alignnone size-large wp-image-10998" /><br />
-写ってるのは<a href="http://kotalab.com/anker-mobile-battery-7800mah" title="iPhoneを3回以上充電できる！世界中で売れてるモバイルバッテリー">以前ご紹介したAnkerのモバイルバッテリー</a>です。</p>
+<img src="https://kotalab.com/wp-content/uploads/pencase-lihitlab_140227_06-546x409.jpg" alt="pencase-lihitlab_140227_06" width="546" height="409" class="alignnone size-large wp-image-10998" /><br />
+写ってるのは<a href="https://kotalab.com/anker-mobile-battery-7800mah" title="iPhoneを3回以上充電できる！世界中で売れてるモバイルバッテリー">以前ご紹介したAnkerのモバイルバッテリー</a>です。</p>
 <h3>ここを探せば見つかるという安心感</h3>
 <p>僕が必要な筆記用具は全てここに入ってます。<br />
 あちこち探さなくても見つかる安心感は何ごとにも代えがたいもの。<br />

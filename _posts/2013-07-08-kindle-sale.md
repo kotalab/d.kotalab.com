@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7776
-wordpress_url: http://kotalab.com/?p=7776
+wordpress_url: https://kotalab.com/?p=7776
 date: '2013-07-08 19:00:09 +0900'
 date_gmt: '2013-07-08 10:00:09 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - セール
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/Kindle_130708.jpg" alt="Kindle_130708" width="369" height="207" class="alignnone size-full wp-image-7779" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/Kindle_130708.jpg" alt="Kindle_130708" width="369" height="207" class="alignnone size-full wp-image-7779" /><br />
 お買い得にはめっぽう弱い。こたら（@kotala_b）です。<br />
 皆さんはKindle本の日替わりセールをご存知でしょうか？<br />
 これまでは週替わりセールで複数の本が1週間安く買えていました。<br />
@@ -67,7 +67,7 @@ comments: []
 <h2>Amazonのメールマガジンに登録する</h2>
 <p>Amazonのメールマガジン「Amazonデリバーズ」への登録はAmazonアカウントサービスから行います。<br />
 アカウント設定にある、「デリバーズの登録を設定する」を開きます。<br />
-<img src="http://kotalab.com/wp-content/uploads/Kindle_130708_01-448x127.jpg" alt="Kindle_130708_01" width="448" height="127" class="alignnone size-large wp-image-7778" /><br />
+<img src="https://kotalab.com/wp-content/uploads/Kindle_130708_01-448x127.jpg" alt="Kindle_130708_01" width="448" height="127" class="alignnone size-large wp-image-7778" /><br />
 すると現在の登録状況が確認出来ますので、ここでKindle本がなければ、Kindle本のメールマガジン購読を登録しましょう。</p>
 <h2>最後に</h2>
 <p>Amazonデリバーズに登録しておくとお買い得情報がメールマガジンとしてAmazonから送られてくるようになります。<br />

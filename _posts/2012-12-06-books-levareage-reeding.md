@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4568
-wordpress_url: http://kotalab.com/?p=4568
+wordpress_url: https://kotalab.com/?p=4568
 date: '2012-12-06 20:19:46 +0900'
 date_gmt: '2012-12-06 11:19:46 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - 書評
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/leveragereading_121206.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/leveragereading_121206-448x298.jpg" alt="" title="leveragereading_121206" width="448" height="298" class="alignnone size-large wp-image-4571" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/leveragereading_121206.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/leveragereading_121206-448x298.jpg" alt="" title="leveragereading_121206" width="448" height="298" class="alignnone size-large wp-image-4571" /></a><br />
 本田直之さんのレバレッジリーディングを読みました。@kotala_bです。<br />
 この本に書いてある読書法は<strong>普通の</strong>読書とは違い、本を読むことを投資として扱っています。<br />
 <strong>将来の自分への投資</strong>です。<br />

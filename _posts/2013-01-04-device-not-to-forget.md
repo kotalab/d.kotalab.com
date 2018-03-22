@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5355
-wordpress_url: http://kotalab.com/?p=5355
+wordpress_url: https://kotalab.com/?p=5355
 date: '2013-01-04 12:28:50 +0900'
 date_gmt: '2013-01-04 03:28:50 +0900'
 category:
@@ -23,15 +23,15 @@ tags:
 - 書き初め
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/wasurenai130104.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/wasurenai130104-448x336.jpg" alt="wasurenai130104" width="448" height="336" class="alignnone size-large wp-image-5358" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/wasurenai130104.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/wasurenai130104-448x336.jpg" alt="wasurenai130104" width="448" height="336" class="alignnone size-large wp-image-5358" /></a><br />
 今年の抱負を書き初めで書きました。@kotala_bです。<br />
 ▼書き初めといっても筆や墨汁は使わずにiPadminiを使ってです。<br />
-<a href="http://kotalab.com/ipad-mini-kakizome" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/kakizome130102-448x336.jpg" alt="墨汁や半紙がなくてもiPad miniがあれば手軽に書き初めが出来る！今年の抱負を書き初めしてみた！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-kakizome" target="_blank">墨汁や半紙がなくてもiPad miniがあれば手軽に書き初めが出来る！今年の抱負を書き初めしてみた！ | kotala's note</a><br style="clear:both;" />今年の抱負を書いただけで終わらせるのは勿体ない！<br />
+<a href="https://kotalab.com/ipad-mini-kakizome" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kakizome130102-448x336.jpg" alt="墨汁や半紙がなくてもiPad miniがあれば手軽に書き初めが出来る！今年の抱負を書き初めしてみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-kakizome" target="_blank">墨汁や半紙がなくてもiPad miniがあれば手軽に書き初めが出来る！今年の抱負を書き初めしてみた！ | kotala's note</a><br style="clear:both;" />今年の抱負を書いただけで終わらせるのは勿体ない！<br />
 1年の最初に抱いたこの思いを忘れないための工夫をしました！<br />
 <!--more--></p>
 <h2>今年の抱負を忘れない工夫</h2>
 <p>▼今年の抱負を忘れない工夫はこれです<br />
-<a href="http://kotalab.com/wp-content/uploads/wasurenai130104_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/wasurenai130104_01-300x513.jpg" alt="wasurenai130104_01" width="300" height="513" class="alignnone size-medium wp-image-5357" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/wasurenai130104_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/wasurenai130104_01-300x513.jpg" alt="wasurenai130104_01" width="300" height="513" class="alignnone size-medium wp-image-5357" /></a><br />
 iPhoneのロック画面に画像を貼付けました。<br />
 壁に貼るよりも、手帳に貼るよりも1番目につく場所に貼付けることにしました。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fzen-brush%252Fid382200873%253Fmt%253D8%2526uo%253D4"><img src="http://a156.phobos.apple.com/us/r1000/105/Purple/v4/f5/af/68/f5af6879-f9a6-3fc3-8481-c4c1f4e53983/temp..xbgwtqcb.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>

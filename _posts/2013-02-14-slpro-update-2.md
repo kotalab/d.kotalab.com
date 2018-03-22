@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6184
-wordpress_url: http://kotalab.com/?p=6184
+wordpress_url: https://kotalab.com/?p=6184
 date: '2013-02-14 21:36:10 +0900'
 date_gmt: '2013-02-14 12:36:10 +0900'
 category:
@@ -28,7 +28,7 @@ tags:
 - URLスキーム
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/slpro_130214-448x448.jpg" alt="slpro_130214" width="448" height="448" class="alignnone size-large wp-image-6189" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/slpro_130214-448x448.jpg" alt="slpro_130214" width="448" height="448" class="alignnone size-large wp-image-6189" /><br />
 この時を待っていました。@kotala_bです。<br />
 iPadアプリとしてするぷろが使えるようになることを、iPadminiを買ってからずっと願っていました！<br />
 @isloopさんのアプリ「するぷろ」と「するぷろーら」が共に2.0にアップデートし、iPad対応のユニバーサルアプリになりました！</p>
@@ -64,7 +64,7 @@ iPadアプリとしてするぷろが使えるようになることを、iPadmin
 ・WordPressで記事投稿・編集時に500エラーが出る場合がある問題を解決</p></blockquote>
 <p>一番の注目はiPad対応！<br />
 ▼早速iPadminiでするぷろを使ってみました<br />
-<img src="http://kotalab.com/wp-content/uploads/slpro_130214_01-448x336.png" alt="slpro_130214_01" width="448" height="336" class="alignnone size-large wp-image-6188" /><br />
+<img src="https://kotalab.com/wp-content/uploads/slpro_130214_01-448x336.png" alt="slpro_130214_01" width="448" height="336" class="alignnone size-large wp-image-6188" /><br />
 横向きにするとリアルタイムプレビュー機能により、書きながらのプレビューが出来ます！<br />
 スゴい便利！<br />
 <strong>iPadでの文字入力をどうするかが今後の課題になりそうです。</strong><br />
@@ -109,8 +109,8 @@ iPadアプリとしてするぷろが使えるようになることを、iPadmin
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/ipadmini-first10app" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20121104102440.jpg" alt="iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipadmini-first10app" target="_blank">iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/2012-app" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20121222235820.png" alt="今年定番になったiPhoneアプリ#2012app | kotala's note" width="150" /></a><a href="http://kotalab.com/2012-app" target="_blank">今年定番になったiPhoneアプリ#2012app | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/how-to-seeq" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note" width="150" /></a><a href="http://kotalab.com/how-to-seeq" target="_blank">Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/slpror" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slprola_121208-300x300.jpg" alt="するぷろーらには隠し要素もあった！？するぷろーらの説明まとめ | kotala's note" width="150" /></a><a href="http://kotalab.com/slpror" target="_blank">するぷろーらには隠し要素もあった！？するぷろーらの説明まとめ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ipadmini-first10app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121104102440.jpg" alt="iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipadmini-first10app" target="_blank">iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/2012-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121222235820.png" alt="今年定番になったiPhoneアプリ#2012app | kotala's note" width="150" /></a><a href="https://kotalab.com/2012-app" target="_blank">今年定番になったiPhoneアプリ#2012app | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/how-to-seeq" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note" width="150" /></a><a href="https://kotalab.com/how-to-seeq" target="_blank">Seeqを使いやすくするためのブックマークレット！Seeqへ登録するアイコンはSeeq内で取得出来る！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/slpror" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slprola_121208-300x300.jpg" alt="するぷろーらには隠し要素もあった！？するぷろーらの説明まとめ | kotala's note" width="150" /></a><a href="https://kotalab.com/slpror" target="_blank">するぷろーらには隠し要素もあった！？するぷろーらの説明まとめ | kotala's note</a><br style="clear:both;" /></p>

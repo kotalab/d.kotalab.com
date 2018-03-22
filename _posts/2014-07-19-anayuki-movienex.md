@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13334
-wordpress_url: http://kotalab.com/?p=13334
+wordpress_url: https://kotalab.com/?p=13334
 date: '2014-07-19 11:07:07 +0900'
 date_gmt: '2014-07-19 02:07:07 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - アナと雪の女王
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/anayuki-movienex_140719.png" alt="Anayuki movienex 140719" title="anayuki-movienex_140719.png" border="0" width="548" height="321" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/anayuki-movienex_140719.png" alt="Anayuki movienex 140719" title="anayuki-movienex_140719.png" border="0" width="548" height="321" /><br />
 話題の映画「アナと雪の女王」のパッケージ版が早くも発売開始されましたね！<br />
 みなさんはもう観ましたか？<br />
 僕はこれからです！</p>

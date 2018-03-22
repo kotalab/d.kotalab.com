@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6036
-wordpress_url: http://kotalab.com/?p=6036
+wordpress_url: https://kotalab.com/?p=6036
 date: '2013-02-05 04:51:09 +0900'
 date_gmt: '2013-02-04 19:51:09 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - インフルエンザ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/inful_130205-448x336.jpg" alt="inful_130205" width="448" height="336" class="alignnone size-large wp-image-6040" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/inful_130205-448x336.jpg" alt="inful_130205" width="448" height="336" class="alignnone size-large wp-image-6040" /><br />
 先週の月曜日に病院へ行きました。@kotala_bです。<br />
 朝起きた時から熱が38度近くあったので、もしかしたらインフルエンザかもと思い朝一で病院へ行きました。<br />
 <!--more--></p>
@@ -59,6 +59,6 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/heartrate" target="_blank">心拍数を把握することで効果的な運動や慢性的なストレスが把握出来る！iPhoneで心拍数を計り始めました！ | kotala's note</a><br />
-<a href="http://kotalab.com/bye-cold" target="_blank">風邪を引いたときの対処法 #odaimoku_bye_cold | kotala's note</a><br />
-<a href="http://kotalab.com/cold-hole" target="_blank">風邪にいいと言われる緑茶の意外な落とし穴 | kotala's note</a></p>
+<p><a href="https://kotalab.com/heartrate" target="_blank">心拍数を把握することで効果的な運動や慢性的なストレスが把握出来る！iPhoneで心拍数を計り始めました！ | kotala's note</a><br />
+<a href="https://kotalab.com/bye-cold" target="_blank">風邪を引いたときの対処法 #odaimoku_bye_cold | kotala's note</a><br />
+<a href="https://kotalab.com/cold-hole" target="_blank">風邪にいいと言われる緑茶の意外な落とし穴 | kotala's note</a></p>

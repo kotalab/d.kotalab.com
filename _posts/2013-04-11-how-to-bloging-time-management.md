@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6779
-wordpress_url: http://kotalab.com/?p=6779
+wordpress_url: https://kotalab.com/?p=6779
 date: '2013-04-11 21:22:55 +0900'
 date_gmt: '2013-04-11 12:22:55 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - レバレッジ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/jikanjutsu_130411-448x336.jpg" alt="jikanjutsu_130411" width="448" height="336" class="alignnone size-large wp-image-6784" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/jikanjutsu_130411-448x336.jpg" alt="jikanjutsu_130411" width="448" height="336" class="alignnone size-large wp-image-6784" /><br />
 ブログを書いていて困ったことがありました。@kotala_bです。<br />
 それは<strong>ブログの1記事に対する時間がかかりすぎること</strong>です。<br />
 ブログを開設した当初は、ブログを毎日更新することだけに一点集中し、どんなに時間を使っても1日で書き上げるという気持ちで書いていました。<br />
@@ -78,5 +78,5 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/books-kobinai-jinsei" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/kobinai_130408-448x336.jpg" alt="「媚びない人生」を生きるための5つの言葉 | kotala's note" width="150" /></a><a href="http://kotalab.com/books-kobinai-jinsei" target="_blank">「媚びない人生」を生きるための5つの言葉 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/keep-bloging-300days-over" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130402195317.jpg" alt="300日以上毎日書き続けてわかった毎日ブログを書くためのコツ | kotala's note" width="150" /></a><a href="http://kotalab.com/keep-bloging-300days-over" target="_blank">300日以上毎日書き続けてわかった毎日ブログを書くためのコツ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/books-kobinai-jinsei" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kobinai_130408-448x336.jpg" alt="「媚びない人生」を生きるための5つの言葉 | kotala's note" width="150" /></a><a href="https://kotalab.com/books-kobinai-jinsei" target="_blank">「媚びない人生」を生きるための5つの言葉 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/keep-bloging-300days-over" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130402195317.jpg" alt="300日以上毎日書き続けてわかった毎日ブログを書くためのコツ | kotala's note" width="150" /></a><a href="https://kotalab.com/keep-bloging-300days-over" target="_blank">300日以上毎日書き続けてわかった毎日ブログを書くためのコツ | kotala's note</a><br style="clear:both;" /></p>

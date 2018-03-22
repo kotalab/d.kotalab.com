@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1467
-wordpress_url: http://kotalab.com/?p=1467
+wordpress_url: https://kotalab.com/?p=1467
 date: '2012-07-15 08:57:20 +0900'
 date_gmt: '2012-07-14 23:57:20 +0900'
 category:
@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_03.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_03.png" alt="" title="stickyLinkMaker_120715_03" width="185" height="50" class="alignnone size-full wp-image-1502" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_03.png" alt="" title="stickyLinkMaker_120715_03" width="185" height="50" class="alignnone size-full wp-image-1502" /></a><br />
 iPhoneを使い始めて3日経ちました。@kotala_bです。<br />
 AppStoreのリンクを貼る時、<a href="http://sticky.linclip.com/linkmaker/" title="Sticky iTunes Link Maker" target="_blank"><strong>StickyiTunesLinkMaker</strong></a>を使ったら新しくブックマークレットが出来ていたのでご紹介します。<br />
 <!--more--></p>
@@ -42,7 +42,7 @@ iTunes以外にもiPhoneやiPodのアプリも作れます。<br />
 <h2>便利な使い方</h2>
 <p>このブックマークレットには使い方がもう1つあります。<br />
 まず、<strong>StickyiTunesLinkMaker</strong>で検索したいキーワードを選択。<br />
-<a href="http://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_01.jpg" alt="" title="stickyLinkMaker_120715_01" width="448" height="60" class="alignnone size-full wp-image-1496" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_01.jpg" alt="" title="stickyLinkMaker_120715_01" width="448" height="60" class="alignnone size-full wp-image-1496" /></a><br />
 そのままブックマークレットを使うと、選択したキーワードの検索結果が表示されます。<br />
-<a href="http://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_02.jpg" alt="" title="stickyLinkMaker_120715_02" width="448" height="420" class="alignnone size-full wp-image-1495" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/stickyLinkMaker_120715_02.jpg" alt="" title="stickyLinkMaker_120715_02" width="448" height="420" class="alignnone size-full wp-image-1495" /></a><br />
 これであっという間にiTunesやAppStoreへのリンクが貼れるようになりました！</p>

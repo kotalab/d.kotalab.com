@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7389
-wordpress_url: http://kotalab.com/?p=7389
+wordpress_url: https://kotalab.com/?p=7389
 date: '2013-06-07 19:00:54 +0900'
 date_gmt: '2013-06-07 10:00:54 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 同期
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/ical_130607-448x275.jpg" alt="ical_130607" width="448" height="275" class="alignnone size-large wp-image-7395" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ical_130607-448x275.jpg" alt="ical_130607" width="448" height="275" class="alignnone size-large wp-image-7395" /><br />
 今まではGoogleカレンダーを使っていました。こたら（@kotala_b）です。<br />
 MacではGoogleカレンダーを使い、iPhoneではGoogleカレンダーを同期させた標準のカレンダーアプリや「Sunrise Calendar」を使っていました。<br />
 iPhoneで標準カレンダーを開いても、Googleカレンダーがまだ同期されていないことがありたまにストレスを感じることがあります。<br />
@@ -50,12 +50,12 @@ iPhoneの標準アプリからもMacの標準アプリからも双方向でカ�
 <h2>GoogleカレンダーからiCalへの移行方法</h2>
 <p>まずはGoogleカレンダーを開きデータのエクスポートを行います。<br />
 ▼Googleカレンダーカレンダーを開き、「マイカレンダー」の「設定」を開きます。<br />
-<img src="http://kotalab.com/wp-content/uploads/ical_130607_01.jpg" alt="ical_130607_01" width="447" height="460" class="alignnone size-full wp-image-7391" /><br />
+<img src="https://kotalab.com/wp-content/uploads/ical_130607_01.jpg" alt="ical_130607_01" width="447" height="460" class="alignnone size-full wp-image-7391" /><br />
 ▼データのエクスポートを選択。<br />
-<img src="http://kotalab.com/wp-content/uploads/ical_130607_02-448x345.jpg" alt="ical_130607_02" width="448" height="345" class="alignnone size-large wp-image-7392" /><br />
+<img src="https://kotalab.com/wp-content/uploads/ical_130607_02-448x345.jpg" alt="ical_130607_02" width="448" height="345" class="alignnone size-large wp-image-7392" /><br />
 次にエクスポートしたデータをMacのiCalへインポートします。<br />
 ▼Macでカレンダーアプリを開き、上のメニューバーから「読み込み」を開きます。<br />
-<img src="http://kotalab.com/wp-content/uploads/ical_130607_03-448x289.jpg" alt="ical_130607_03" width="448" height="289" class="alignnone size-large wp-image-7394" /><br />
+<img src="https://kotalab.com/wp-content/uploads/ical_130607_03-448x289.jpg" alt="ical_130607_03" width="448" height="289" class="alignnone size-large wp-image-7394" /><br />
 開くとデータを選択する画面が出るので、移行させたいカレンダーを全て読み込んだら完了。<br />
 これで移行が完了しました。</p>
 <h2>最後に</h2>
@@ -64,4 +64,4 @@ iPhoneの標準アプリからもMacの標準アプリからも双方向でカ�
 無意識を排除して、意識的にiCalを使ってみることにしました。<br />
 まだ使い始めて2日ですがいい感じです！</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/ical-japanese-holiday" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/icalholiday_130610-448x275.jpg" alt="[Mac]Macの標準カレンダーアプリ「iCal」に日本の祝日を表示させる方法 | kotala's note" width="150" /></a><a href="http://kotalab.com/ical-japanese-holiday" target="_blank">[Mac]Macの標準カレンダーアプリ「iCal」に日本の祝日を表示させる方法 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/ical-japanese-holiday" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/icalholiday_130610-448x275.jpg" alt="[Mac]Macの標準カレンダーアプリ「iCal」に日本の祝日を表示させる方法 | kotala's note" width="150" /></a><a href="https://kotalab.com/ical-japanese-holiday" target="_blank">[Mac]Macの標準カレンダーアプリ「iCal」に日本の祝日を表示させる方法 | kotala's note</a><br style="clear:both;" /></p>

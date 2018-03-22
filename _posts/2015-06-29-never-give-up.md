@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14699
-wordpress_url: http://kotalab.com/?p=14699
+wordpress_url: https://kotalab.com/?p=14699
 date: '2015-06-29 07:46:54 +0900'
 date_gmt: '2015-06-28 22:46:54 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - やってみる
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/06/never-give-up_20150629_02-780x585.jpg" alt="never-give-up_20150629_02" width="780" height="585" class="aligncenter size-large wp-image-14702" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/06/never-give-up_20150629_02-780x585.jpg" alt="never-give-up_20150629_02" width="780" height="585" class="aligncenter size-large wp-image-14702" /></p>
 <p>ぼくは諦めることが嫌いです。</p>
 <p>どこか負けず嫌いな性格があるからかもしれません。</p>
 <p>小学校の頃読んだマンガの「諦めたらそこで試合終了ですよ」というセリフを30歳を過ぎた今でも思い出します。</p>
@@ -31,7 +31,7 @@ comments: []
 <p>「もう無理！」と思ったことでも、諦めずに挑戦してうまくいった時には、それが自分の成長になるからです。</p>
 <p>それが自分の喜びになるからです。</p>
 <h2>無理なく簡単にできることは飽きる</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/06/never-give-up_20150629_01-780x585.jpg" alt="never-give-up_20150629_01" width="780" height="585" class="aligncenter size-large wp-image-14701" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/06/never-give-up_20150629_01-780x585.jpg" alt="never-give-up_20150629_01" width="780" height="585" class="aligncenter size-large wp-image-14701" /></p>
 <p>ぼくは飽きっぽい性格なので、簡単なことの繰り返しをしているとすぐに飽きてしまいます。</p>
 <p>だから簡単にできることよりもほんの少しだけ難しいことに挑戦して、なるべく飽きのこないようにしています。</p>
 <p>普通にやっていてはできなそうだけど、<span class="b">工夫したらなんとかなりそうなことをやってみるのが好きです。</span></p>
@@ -57,5 +57,5 @@ comments: []
 日曜<br />
 ・ブログの広告位置変更<br />
 ・Xcode7beta2</p>
-<p><a href="http://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

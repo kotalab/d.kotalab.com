@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6505
-wordpress_url: http://kotalab.com/?p=6505
+wordpress_url: https://kotalab.com/?p=6505
 date: '2013-03-14 12:20:24 +0900'
 date_gmt: '2013-03-14 03:20:24 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - googleリーダー
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/googlereader_130314-448x336.jpg" alt="googlereader_130314" width="448" height="336" class="alignnone size-large wp-image-6507" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/googlereader_130314-448x336.jpg" alt="googlereader_130314" width="448" height="336" class="alignnone size-large wp-image-6507" /><br />
 <span style="font-size:10px;"><span class="removed_link" title="http://www.flickr.com/photos/tetrad/4661564129/">Google Reader Badge</span> / tetradtx</span><br />
 googleの発表に驚きました。@kotala_bです。<br />
 googleの公式ブログで7月1日にgoogleリーダーの終了が発表されました。<br />

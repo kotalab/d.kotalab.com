@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13201
-wordpress_url: http://kotalab.com/?p=13201
+wordpress_url: https://kotalab.com/?p=13201
 date: '2014-05-22 08:11:57 +0900'
 date_gmt: '2014-05-21 23:11:57 +0900'
 category:
@@ -23,9 +23,9 @@ tags:
 - 料金
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/move-house-half-price_140522.jpg" alt="Move house half price 140522" title="move-house-half-price_140522.jpg" border="0" width="548" height="365" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/move-house-half-price_140522.jpg" alt="Move house half price 140522" title="move-house-half-price_140522.jpg" border="0" width="548" height="365" /><br />
 6月に引越しすることが決まったので、準備に取りかかっています。<br />
-<a href="http://kotalab.com/move-house-task">前回の記事でお伝えした</a>ように、最初の準備としてどんなことをやらなきゃいけないのかをOmniForcusというiPhoneアプリを使って書き出しました。</p>
+<a href="https://kotalab.com/move-house-task">前回の記事でお伝えした</a>ように、最初の準備としてどんなことをやらなきゃいけないのかをOmniForcusというiPhoneアプリを使って書き出しました。</p>
 <p>次にやったのが引越し業者を決めることです。<br />
 引越し業者は沢山あるのでその中から1社を決めることになります。</p>
 <p>引越し業者を探してて「これってどうなの？」と思ったことがありました。</p>

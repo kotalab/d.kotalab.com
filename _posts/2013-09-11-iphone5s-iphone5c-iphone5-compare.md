@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 8595
-wordpress_url: http://kotalab.com/?p=8595
+wordpress_url: https://kotalab.com/?p=8595
 date: '2013-09-11 04:02:44 +0900'
 date_gmt: '2013-09-10 19:02:44 +0900'
 category:
@@ -30,7 +30,7 @@ comments:
   content: "[&#8230;] ◆ iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！ （ via kotala&#8217;s
     note ） ◆ 「iPhone 5s」と「iPhone 5c」スペック比較で購入検討 （ via HAYA技 ） [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /><br />
 iPhoneが好きです。こたら（@kotala_b）です。<br />
 ついに今日発表された新型iPhoneですが、iPhone5とどこが変わったのか比較表を作ってみました！<br />
 <!--more--></p>
@@ -142,13 +142,13 @@ iPhoneが好きです。こたら（@kotala_b）です。<br />
 </tbody>
 </table>
 <h3>指紋認証が搭載された新型！iPhone 5S</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /><br />
 A7、M7チップを新たに搭載し性能アップしたiPhone 5S。<br />
 噂されていた指紋認証が搭載されセキュリティ面も向上。<br />
 3色展開で新たにゴールドが追加されました！<br />
 お値段据え置きでカタチもiPhone5と一緒、それなのに性能が大幅にアップしたiPhone 5S！</p>
 <h3>カラフルなラインナップの廉価版！iPhone 5C</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/applespevent_130911_04-546x285.png" alt="applespevent_130911_04" width="546" height="285" class="alignnone size-large wp-image-8660" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_04-546x285.png" alt="applespevent_130911_04" width="546" height="285" class="alignnone size-large wp-image-8660" /><br />
 カラフルな5色展開のiPhone 5C！<br />
 お値段は16GBモデルが99$、32GBモデルが199$となってます！<br />
 iPod touchは16GBで229$なので、それよりもだいぶ安い！<br />
@@ -159,11 +159,11 @@ iPhone5の機能そのままに、リーズナブルでカラフルになったi
 僕はiPhone 5Sに決めました！<br />
 皆さんはどっちを買いますか！？<br />
 iPhone 5s、iPhone 5c関連エントリー：<br />
-<a href="http://kotalab.com/apple-spevent" target="_blank">iPhone 5S、iPhone 5Cが9月20日発売決定！9月11日のAppleイベントの内容！</a><br />
-<a href="http://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
-<a href="http://kotalab.com/how-to-buy-iphone-5s-iphone-5c" target="_blank">iPhone 5s、iPhone 5Cはどうやって買えばいい？iPhone購入方法は？</a><br />
-<a href="http://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
-<a href="http://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
+<a href="https://kotalab.com/apple-spevent" target="_blank">iPhone 5S、iPhone 5Cが9月20日発売決定！9月11日のAppleイベントの内容！</a><br />
+<a href="https://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
+<a href="https://kotalab.com/how-to-buy-iphone-5s-iphone-5c" target="_blank">iPhone 5s、iPhone 5Cはどうやって買えばいい？iPhone購入方法は？</a><br />
+<a href="https://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
+<a href="https://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31KsxIFmn0L._SL160_.jpg" style="border: none;" /></a></div>

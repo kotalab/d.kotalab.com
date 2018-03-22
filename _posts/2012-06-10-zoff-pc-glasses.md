@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 671
-wordpress_url: http://kotalab.com/?p=671
+wordpress_url: https://kotalab.com/?p=671
 date: '2012-06-10 15:35:45 +0900'
 date_gmt: '2012-06-10 06:35:45 +0900'
 category:
@@ -33,7 +33,7 @@ ZoffPCは購入後出来上がるまでに10日間かかるそうなのですが
 <h3>クリアレンズ</h3>
 <p>JINSではカラータイプのみに対して、Zoffではカラータイプの他にクリアタイプのレンズがあります。<br />
 クリアタイプは青色光カット率がカラータイプに比べ劣ってしまいますが、色つきのレンズに抵抗があったのでクリアタイプのあるZoffに決めました。<br />
-<a href="http://kotalab.com/wp-content/uploads/zoff_120610_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/zoff_120610_03-300x225.jpg" alt="" title="zoff_120610_03" width="300" height="225" class="alignnone size-medium wp-image-672" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/zoff_120610_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/zoff_120610_03-300x225.jpg" alt="" title="zoff_120610_03" width="300" height="225" class="alignnone size-medium wp-image-672" /></a><br />
 クリアと言っても多少は色味がかっていますが、カラータイプと比べるとやはりクリアがいい。</p>
 <h3>種類が豊富</h3>
 <p>またJINSでは対応フレームが限られるのに対して、Zoffでは店内全てのフレームでZoffPCに対応していたのもよかったです。</p>
@@ -41,11 +41,11 @@ ZoffPCは購入後出来上がるまでに10日間かかるそうなのですが
 <p>店舗で注文すると控えを渡され、10日後に受取りに来てくださいと言われます。<br />
 そして10日間かかりようやく昨日出来上がりました！<br />
 そして仕事帰りに早速受取りに行きました！<br />
-<a href="http://kotalab.com/wp-content/uploads/zoff_120610_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/zoff_120610_01-300x225.jpg" alt="" title="zoff_120610_01" width="300" height="225" class="alignnone size-medium wp-image-676" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/zoff_120610_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/zoff_120610_01-300x225.jpg" alt="" title="zoff_120610_01" width="300" height="225" class="alignnone size-medium wp-image-676" /></a></p>
 <h2>引き渡し</h2>
 <p>受取りに行くとメガネケースを選んでくださいと言われ、ソフトケースとハードケースの2タイプ各4色の計8種類の中からメガネケースを選びます。<br />
 ハードケースの白を選びました。<br />
-<a href="http://kotalab.com/wp-content/uploads/zoff_120610_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/zoff_120610_02-300x225.jpg" alt="" title="zoff_120610_02" width="300" height="225" class="alignnone size-medium wp-image-675" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/zoff_120610_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/zoff_120610_02-300x225.jpg" alt="" title="zoff_120610_02" width="300" height="225" class="alignnone size-medium wp-image-675" /></a><br />
 メガネケースを選び商品の確認を済ませると、メガネの引き渡しになります。</p>
 <h2>使ってみた感想</h2>
 <p>使ってみたと言ってもこの記事を書くのに初めて使用しているので、まだ1時間前後しか使っていません。<br />

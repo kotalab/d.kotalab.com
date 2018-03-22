@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1909
-wordpress_url: http://kotalab.com/?p=1909
+wordpress_url: https://kotalab.com/?p=1909
 date: '2012-08-04 11:23:39 +0900'
 date_gmt: '2012-08-04 02:23:39 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - Evernote
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
 Evernoteはほんとに便利です。@kotala_bです。<br />
 昨日はEvernote for Macのアップデートがあり、アカウント切り替え機能が公式にサポートされました。<br />
@@ -39,7 +39,7 @@ Evernoteはほんとに便利です。@kotala_bです。<br />
 プレミアムアカウントを2つ以上同期する場合は考える必要はありませんが、無料アカウントと同期する場合に気になるのが1ヶ月当たりのアップロード制限です。<br />
 無料アカウントを同期する場合は、自然とメインとサブアカウントという分け方になります。<br />
 ▼無料アカウントとプレミアムアカウントの比較<br />
-<a href="http://kotalab.com/wp-content/uploads/evernote_120804_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/evernote_120804_01.jpg" alt="" title="evernote_120804_01" width="448" height="336" class="alignnone size-full wp-image-1910" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/evernote_120804_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/evernote_120804_01.jpg" alt="" title="evernote_120804_01" width="448" height="336" class="alignnone size-full wp-image-1910" /></a><br />
 参考：<a href="http://evernote.com/intl/jp/premium/" title="あなたの世界をより素晴らしく | Evernote" target="_blank">あなたの世界をより素晴らしく | Evernote</a><br />
 1ヶ月60MBというと1日当たり2MBになります。<br />
 そうなってくると無料アカウントには写真が多いライフログを入れるという使い方はアップロード制限にひっかかる恐れが出てきます。<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11312
-wordpress_url: http://kotalab.com/?p=11312
+wordpress_url: https://kotalab.com/?p=11312
 date: '2014-04-01 06:32:22 +0900'
 date_gmt: '2014-03-31 21:32:22 +0900'
 category:
@@ -26,7 +26,7 @@ tags:
 - 福岡
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/tax-up-price-up-or-down_140401-546x409.jpg" alt="tax-up-price-up-or-down_140401" width="546" height="409" class="alignnone size-large wp-image-11316" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/tax-up-price-up-or-down_140401-546x409.jpg" alt="tax-up-price-up-or-down_140401" width="546" height="409" class="alignnone size-large wp-image-11316" /><br />
 とうとう消費税が8％になっちゃいましたね。</p>
 <p>上がるのは消費税だけじゃありません。4月1日からは他にも色々な料金が値上げされてしまいました。<br />
 消費税以外に値段があがるものを調べてみました！</p>
@@ -36,7 +36,7 @@ comments: []
 <p>消費税は5％から8％になりました。<br />
 消費税増税があらゆるものの値上げに繋がってきます。</p>
 <h3>電車、バス、タクシー</h3>
-<p><a href="http://kotalab.com/train-fare-rise-in-price" title="消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。">電車は切符とICカードで料金が変わってややこしくなります。</a>定期代も値上がり。</p>
+<p><a href="https://kotalab.com/train-fare-rise-in-price" title="消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。">電車は切符とICカードで料金が変わってややこしくなります。</a>定期代も値上がり。</p>
 <p>バスも値上がるしタクシーも値上がります。<br />
 タクシーも値上がり！</p>
 <table border="1" width="100%" align="center">

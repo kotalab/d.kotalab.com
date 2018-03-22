@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6352
-wordpress_url: http://kotalab.com/?p=6352
+wordpress_url: https://kotalab.com/?p=6352
 date: '2013-02-27 11:50:02 +0900'
 date_gmt: '2013-02-27 02:50:02 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 引越し
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/key_130227-448x336.jpg" alt="key_130227" width="448" height="336" class="alignnone size-large wp-image-6353" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/key_130227-448x336.jpg" alt="key_130227" width="448" height="336" class="alignnone size-large wp-image-6353" /><br />
 部屋の合鍵を作りました。@kotala_bです。<br />
 これから引越しシーズンに入り、合鍵を作りに行く方も増えることでしょう。<br />
 そこで今日は、鍵屋のおじさんから聞いたちょっと為になる話をご紹介します！<br />

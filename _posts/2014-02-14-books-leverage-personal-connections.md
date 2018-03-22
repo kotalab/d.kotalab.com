@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10831
-wordpress_url: http://kotalab.com/?p=10831
+wordpress_url: https://kotalab.com/?p=10831
 date: '2014-02-14 08:35:48 +0900'
 date_gmt: '2014-02-13 23:35:48 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - レバレッジ
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20140214083545.jpg" width="546" height="409" class="slooProImg" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140214083545.jpg" width="546" height="409" class="slooProImg" /><br />
 「人脈に関する本は2冊の本に集約されている」<br />
 これは僕が尊敬してるプロブロガー立花岳志さん(<a href="https://mobile.twitter.com/ttachi" target="_blank">@ttachi</a>)の一言だ。<br />
 今回紹介するのはそのうちの1冊、本田直之さんの「<a href="http://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a>」だ。<br />

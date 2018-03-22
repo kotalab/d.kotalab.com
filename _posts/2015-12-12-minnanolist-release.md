@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14961
-wordpress_url: http://kotalab.com/?p=14961
+wordpress_url: https://kotalab.com/?p=14961
 date: '2015-12-12 11:13:43 +0900'
 date_gmt: '2015-12-12 02:13:43 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - みんなのリスト
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212-780x660.jpg" alt="minnanolist-release_20151212" width="780" height="660" class="aligncenter size-large wp-image-14963" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212-780x660.jpg" alt="minnanolist-release_20151212" width="780" height="660" class="aligncenter size-large wp-image-14963" /></p>
 <p>「みんなのリスト」というiPhoneアプリをリリースしました！<br><br />
 「みんなのリスト」はみんなで使えるリストアプリです。</p>
 <p>自分専用のマイリストを「みんなのリスト」を使ってるみんなに公開したり、友達同士でひとつのリストを同時に使うことができます。</p>
@@ -39,13 +39,13 @@ comments: []
 </div>
 <p><!--more--></p>
 <h2>みんなのリストの特徴</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212_01-780x416.png" alt="minnanolist-release_20151212_01" width="780" height="416" class="aligncenter size-large wp-image-14965" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212_01-780x416.png" alt="minnanolist-release_20151212_01" width="780" height="416" class="aligncenter size-large wp-image-14965" /></p>
 <h3>1.シンプルに使える「マイリスト」</h3>
 <p>マイリストは自分専用のリストです。<br><br />
 普段使いのチェックリストとして使うことができます。</p>
 <p><strong>マイリストはそのままでは公開されることはありません。</strong><br />
 公開したり共有したりするには、リストの共有設定をオンにした時だけ公開・共有がされるようになります。</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212_02-300x533.png" alt="minnanolist-release_20151212_02" width="300" height="533" class="aligncenter size-medium wp-image-14966" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212_02-300x533.png" alt="minnanolist-release_20151212_02" width="300" height="533" class="aligncenter size-medium wp-image-14966" /></p>
 <h3>2.公開されたリストが並ぶ「みんなのリスト」</h3>
 <p>みんなのリストにはみんなが公開しているリストが並びます。<br><br />
 これらのリストはマイリストへ保存して、自分専用にカスタマイズして使うことができます。</p>

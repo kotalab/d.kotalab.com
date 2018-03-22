@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2831
-wordpress_url: http://kotalab.com/?p=2831
+wordpress_url: https://kotalab.com/?p=2831
 date: '2012-09-19 11:00:01 +0900'
 date_gmt: '2012-09-19 02:00:01 +0900'
 category:
@@ -22,27 +22,27 @@ tags:
 - 無印良品
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" alt="" title="baginbag_120919_02" width="448" height="336" class="alignnone size-full wp-image-2826" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" alt="" title="baginbag_120919_02" width="448" height="336" class="alignnone size-full wp-image-2826" /></a><br />
 カバンの中がすっきりしました。@kotala_bです。<br />
 無印良品でタテヨコどちら向きでも使えるバッグインバッグを買いました。<br />
 <a href="http://www.muji.net/store/cmdty/detail/4548718598458" target="_blank"><img src="http://capture.heartrails.com/150x130?http://www.muji.net/store/cmdty/detail/4548718598458" alt="http://www.muji.net/store/cmdty/detail/4548718598458" width="150" height="130" align="left" /></a><a href="http://www.muji.net/store/cmdty/detail/4548718598458" target="_blank">タテでもヨコでも使える　取外しポケット付整理パネル　Ａ４・黒 | 無印良品ネットストア</a><br style="clear:both;" />便利なバッグインバッグの紹介です。<br />
 <!--more--></p>
 <h2>バッグインバッグ</h2>
 <p>▼表面のポケットは全部で４つ<br />
-<a href="http://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" alt="" title="baginbag_120919_02" width="448" height="336" class="alignnone size-full wp-image-2826" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" alt="" title="baginbag_120919_02" width="448" height="336" class="alignnone size-full wp-image-2826" /></a><br />
 ▼裏面はひとつの大きなポケットになっています<br />
-<a href="http://kotalab.com/wp-content/uploads/baginbag_120919_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/baginbag_120919_01.jpg" alt="" title="baginbag_120919_01" width="448" height="336" class="alignnone size-full wp-image-2825" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/baginbag_120919_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/baginbag_120919_01.jpg" alt="" title="baginbag_120919_01" width="448" height="336" class="alignnone size-full wp-image-2825" /></a><br />
 ▼表面のポケットはマジックテープでくっついていて<br />
-<a href="http://kotalab.com/wp-content/uploads/baginbag_120919_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/baginbag_120919_04.jpg" alt="" title="baginbag_120919_04" width="448" height="598" class="alignnone size-full wp-image-2828" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/baginbag_120919_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/baginbag_120919_04.jpg" alt="" title="baginbag_120919_04" width="448" height="598" class="alignnone size-full wp-image-2828" /></a><br />
 ▼ばらして使うことも出来ます<br />
-<a href="http://kotalab.com/wp-content/uploads/baginbag_120919_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/baginbag_120919_03.jpg" alt="" title="baginbag_120919_03" width="448" height="336" class="alignnone size-full wp-image-2827" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/baginbag_120919_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/baginbag_120919_03.jpg" alt="" title="baginbag_120919_03" width="448" height="336" class="alignnone size-full wp-image-2827" /></a><br />
 ▼着脱式なのでタテ型に配置も出来ます。<br />
-<a href="http://kotalab.com/wp-content/uploads/baginbag_120919_05.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/baginbag_120919_05.jpg" alt="" title="baginbag_120919_05" width="448" height="598" class="alignnone size-full wp-image-2829" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/baginbag_120919_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/baginbag_120919_05.jpg" alt="" title="baginbag_120919_05" width="448" height="598" class="alignnone size-full wp-image-2829" /></a><br />
 これでリュックにもそのまま入れることが出来ます。<br />
 ▼表の各ポケットにはケーブル類を収納<br />
-<a href="http://kotalab.com/wp-content/uploads/baginbag_120919_06.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/baginbag_120919_06.jpg" alt="" title="baginbag_120919_06" width="448" height="336" class="alignnone size-full wp-image-2830" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/baginbag_120919_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/baginbag_120919_06.jpg" alt="" title="baginbag_120919_06" width="448" height="336" class="alignnone size-full wp-image-2830" /></a><br />
 ▼裏には本や手帳を一緒に収納出来ます<br />
-<a href="http://kotalab.com/wp-content/uploads/baginbag_120919_07.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/baginbag_120919_07.jpg" alt="" title="baginbag_120919_07" width="448" height="336" class="alignnone size-full wp-image-2824" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/baginbag_120919_07.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/baginbag_120919_07.jpg" alt="" title="baginbag_120919_07" width="448" height="336" class="alignnone size-full wp-image-2824" /></a></p>
 <h2>まとめ</h2>
 <p>これさえあればバッグを変えても中身はそのまま移動出来ます！<br />
 タテにもヨコにもなる無印良品のバッグインバッグのご紹介でした。</p>

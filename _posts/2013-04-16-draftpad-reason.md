@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6835
-wordpress_url: http://kotalab.com/?p=6835
+wordpress_url: https://kotalab.com/?p=6835
 date: '2013-04-16 22:10:04 +0900'
 date_gmt: '2013-04-16 13:10:04 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - DraftPad
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/draftpad_130416-448x448.png" alt="draftpad_130416" width="448" height="448" class="alignnone size-large wp-image-6844" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/draftpad_130416-448x448.png" alt="draftpad_130416" width="448" height="448" class="alignnone size-large wp-image-6844" /><br />
 DraftPadを愛用してます。@kotala_bです。<br />
 会話の中で聞いた情報をメモしたり、思い浮かんだアイディアをメモしたり。<br />
 DraftPadは僕のメモの受け皿として大活躍しています。<br />
@@ -42,9 +42,9 @@ DraftPadは僕のメモの受け皿として大活躍しています。<br />
 どんなアプリでも起動時にロゴ画面が入りスクリーンショットを取る余裕が十分にあります。<br />
 ですがDraftPadにはそもそもロゴ画面が出てくることはありませんし、スクリーンショットを取る余裕すらありません。<br />
 ▼試しにアプリを起動させた直後に撮ってみました。<br />
-<img src="http://kotalab.com/wp-content/uploads/draftpad_130416_01-300x513.jpg" alt="draftpad_130416_01" width="300" height="513" class="alignnone size-medium wp-image-6842" /><br />
+<img src="https://kotalab.com/wp-content/uploads/draftpad_130416_01-300x513.jpg" alt="draftpad_130416_01" width="300" height="513" class="alignnone size-medium wp-image-6842" /><br />
 ▼この直後にはすぐメモが取れるようになります。<br />
-<img src="http://kotalab.com/wp-content/uploads/draftpad_130416_02-300x513.jpg" alt="draftpad_130416_02" width="300" height="513" class="alignnone size-medium wp-image-6843" /><br />
+<img src="https://kotalab.com/wp-content/uploads/draftpad_130416_02-300x513.jpg" alt="draftpad_130416_02" width="300" height="513" class="alignnone size-medium wp-image-6843" /><br />
 起動が早いので会話をしながらでも<strong>相手に気をつかわせることなくメモが取れます。</strong></p>
 <h2>Evernoteに送れる</h2>
 <p>DraftPadがいくら便利といっても検索や蓄積といったことに関してはEvernoteに及びません。<br />
@@ -53,7 +53,7 @@ DraftPadからEvernoteに送るにはAssistsを使います。<br />
 他にも沢山の機能を備えた便利なAssistsがありますが、<strong>僕が一番使うのはEvernoteへメモを送るAssistsです。</strong><br />
 1日の中で取ったメモを見返す時に、必要なモノはEvernoteへ不要なモノは削除する、という使い方をしています。</p>
 <h2>履歴</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/draftpad_120907_02.jpg" alt="draftpad_120907_02" width="448" height="336" class="alignnone size-full wp-image-2537" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/draftpad_120907_02.jpg" alt="draftpad_120907_02" width="448" height="336" class="alignnone size-full wp-image-2537" /><br />
 アプリ内に履歴が残るので間違えて削除しまっても履歴さえ消さなければ元に戻せます。<br />
 書きかけのメモも履歴に残るので、今書いているのとは別のメモに書き足したくなった場合も履歴から書き足せます。</p>
 <h2>最後に</h2>
@@ -72,4 +72,4 @@ DraftPadからEvernoteに送るにはAssistsを使います。<br />
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/draftpad-free" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/draftpad_120907.jpg" alt="DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note" width="150" /></a><a href="http://kotalab.com/draftpad-free" target="_blank">DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/draftpad-free" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/draftpad_120907.jpg" alt="DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note" width="150" /></a><a href="https://kotalab.com/draftpad-free" target="_blank">DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note</a><br style="clear:both;" /></p>

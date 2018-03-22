@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10093
-wordpress_url: http://kotalab.com/?p=10093
+wordpress_url: https://kotalab.com/?p=10093
 date: '2013-11-01 20:53:54 +0900'
 date_gmt: '2013-11-01 11:53:54 +0900'
 category:
@@ -30,14 +30,14 @@ comments:
   content: "[&#8230;] ◆ iPad Airを発売日の夕方購入！意外な穴場！？で並ばずにたったの5分でWi-Fi版が買えた！ （ via kotala&#8217;s
     note ） [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/buyipadair_131101_01-546x409.jpg" alt="buyipadair_131101_01" width="546" height="409" class="alignnone size-large wp-image-10098" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/buyipadair_131101_01-546x409.jpg" alt="buyipadair_131101_01" width="546" height="409" class="alignnone size-large wp-image-10098" /><br />
 iPad Airを買いました。こたら（@kotala_b）です。<br />
 ついに発売されましたね！<br />
 皆さんは手に入れましたか？<br />
 僕は仕事帰りに寄り道して買いました！<br />
 <!--more--></p>
 <h2>iPad Airはどこで買う？</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/buyipadair_131101_02-546x546.jpg" alt="buyipadair_131101_02" width="546" height="546" class="alignnone size-large wp-image-10097" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/buyipadair_131101_02-546x546.jpg" alt="buyipadair_131101_02" width="546" height="546" class="alignnone size-large wp-image-10097" /><br />
 発売日当日は仕事だったのでどこかのオンラインストアで買おうかなとも思ってました。<br />
 Appleオンラインストアではもっと早い時間から販売されていましたが、いつ届くかわからなかったので選択肢から除外。<br />
 ヨドバシドットコムでは店舗同様に午前8時から数量限定で販売を開始してたので、ここに注目してました。<br />
@@ -55,14 +55,14 @@ Appleオンラインストアではもっと早い時間から販売されてい
 もし買えなかったらヨドバシドットコムで買うつもりで、仕事帰りにどこかで買えるなら買っちゃおう。<br />
 という作戦をたてました。</p>
 <h2>ヨドバシカメラのiPad Airの在庫はWebでわかる</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/buyipadair_131101_03-546x325.png" alt="buyipadair_131101_03" width="546" height="325" class="alignnone size-large wp-image-10099" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/buyipadair_131101_03-546x325.png" alt="buyipadair_131101_03" width="546" height="325" class="alignnone size-large wp-image-10099" /><br />
 午後になるとヨドバシドットコムで<a href="<a href="http://www.yodobashi.com/ec/news/1000069210/index.html?kind=0002&store=0011" target="_blank">ヨドバシ.com -ヨドバシカメラ店舗ニュース一覧-新宿西口本店のニュース一覧-【iPad Air】Wi-Fi モデル　各店舗在庫状況</a>" target="_blank">ヨドバシカメラ各店舗のiPad Airの在庫</a>がわかるようになってました。<br />
 ここで近くのヨドバシの在庫を確認し、仕事終わりに寄り道することに決定。<br />
 スペースグレイの64GBが近くの町田店にまだ在庫があったので向かったんですが、向かってる途中に在庫切れに。<br />
 町田にはヨドバシカメラの他にソフマップもあって、もしかしたらそっちで売ってないかなと行ってみました。<br />
 ソフマップに行って店員さんに聞いてみたら128GB以外ならどっちの色もあるということで、64GBのスペースグレイが無事買えました！</p>
 <h3>iPad Airをこれから買うなら</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/buyipadair_131101_04-546x546.jpg" alt="buyipadair_131101_04" width="546" height="546" class="alignnone size-large wp-image-10100" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/buyipadair_131101_04-546x546.jpg" alt="buyipadair_131101_04" width="546" height="546" class="alignnone size-large wp-image-10100" /><br />
 ヨドバシカメラはiPad Airをそこそこ確保してる感じでしたが、大型店舗でも夕方になるとほとんどの店舗でほとんどのモデルが予約になってました。<br />
 入荷状況が気になる方はヨドバシカメラの在庫をチェックしてみてください。<br />
 <span class="removed_link" title="http://www.yodobashi.com/ec/news/1000069210/index.html?kind=0002&amp;store=0011">ヨドバシ.com -ヨドバシカメラ店舗ニュース一覧-新宿西口本店のニュース一覧-【iPad Air】Wi-Fi モデル　各店舗在庫状況</span><br />

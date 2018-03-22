@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6124
-wordpress_url: http://kotalab.com/?p=6124
+wordpress_url: https://kotalab.com/?p=6124
 date: '2013-02-12 14:24:22 +0900'
 date_gmt: '2013-02-12 05:24:22 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - セキュリティ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/passcode_130212-448x468.jpg" alt="passcode_130212" width="448" height="468" class="alignnone size-large wp-image-6128" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/passcode_130212-448x468.jpg" alt="passcode_130212" width="448" height="468" class="alignnone size-large wp-image-6128" /><br />
 iPhoneにはパスコードをかけてます。@kotala_bです。<br />
 パスコードを設定しておくことで、落とした時など他の人に見られたくないiPhone内のデータを保護することが出来ます。<br />
 大切なパスコードですが、数字4桁のパスコードをかけていませんか？<br />
@@ -37,13 +37,13 @@ iPhoneにはパスコードをかけてます。@kotala_bです。<br />
 <p>セキュリティをより強くするには4桁以外のパスコードにしましょう。<br />
 設定方法は簡単です。<br />
 ▼設定から一般>パスコードと進み、「簡単なパスコード」をオフにします<br />
-<img src="http://kotalab.com/wp-content/uploads/passcode_130212_01-300x513.png" alt="passcode_130212_01" width="300" height="513" class="alignnone size-medium wp-image-6127" /><br />
+<img src="https://kotalab.com/wp-content/uploads/passcode_130212_01-300x513.png" alt="passcode_130212_01" width="300" height="513" class="alignnone size-medium wp-image-6127" /><br />
 これで4桁のパスコードからより複雑なパスコードに変更できます。<br />
 ▼「簡単なパスコード」をオフにするとパスコードは一文字から設定可能になります<br />
-<img src="http://kotalab.com/wp-content/uploads/passcode_130212_02-300x513.png" alt="passcode_130212_02" width="300" height="513" class="alignnone size-medium wp-image-6126" /></p>
+<img src="https://kotalab.com/wp-content/uploads/passcode_130212_02-300x513.png" alt="passcode_130212_02" width="300" height="513" class="alignnone size-medium wp-image-6126" /></p>
 <h2>アクセント付きの文字を使う</h2>
 <p>▼iPhoneでは特定のアルファベットを長押しするとアクセント付きのアルファベットが表示されます<br />
-<img src="http://kotalab.com/wp-content/uploads/passcode_130212_03-300x513.png" alt="passcode_130212_03" width="300" height="513" class="alignnone size-medium wp-image-6125" /><br />
+<img src="https://kotalab.com/wp-content/uploads/passcode_130212_03-300x513.png" alt="passcode_130212_03" width="300" height="513" class="alignnone size-medium wp-image-6125" /><br />
 もちろんこれはパスコードの入力にも使えます。<br />
 例えば「iPhone」というパスコードを設定したいとします。<br />
 この時使えるアクセント付きアルファベットは「i」「o」「n」「e」の4種類です。<br />
@@ -56,7 +56,7 @@ iPhoneにはパスコードをかけてます。@kotala_bです。<br />
 <h2>最後に</h2>
 <p>パスコードとして使う単語が単純なものだとしても、アクセント付きアルファベットを使って少しでも他人からわかりづらいものに変更しましょう！</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/ipadmini-first10app" target="_blank">iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note</a><br />
-<a href="http://kotalab.com/facebook-error-feb" target="_blank">Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note</a><br />
-<a href="http://kotalab.com/pass-secu" target="_blank">今すぐに見直したい！アカウントが乗っ取られない為にすること！ | kotala's note</a><br />
-<a href="http://kotalab.com/pass-management" target="_blank">パスワードの管理 | kotala's note</a></p>
+<p><a href="https://kotalab.com/ipadmini-first10app" target="_blank">iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note</a><br />
+<a href="https://kotalab.com/facebook-error-feb" target="_blank">Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note</a><br />
+<a href="https://kotalab.com/pass-secu" target="_blank">今すぐに見直したい！アカウントが乗っ取られない為にすること！ | kotala's note</a><br />
+<a href="https://kotalab.com/pass-management" target="_blank">パスワードの管理 | kotala's note</a></p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6721
-wordpress_url: http://kotalab.com/?p=6721
+wordpress_url: https://kotalab.com/?p=6721
 date: '2013-04-04 16:11:45 +0900'
 date_gmt: '2013-04-04 07:11:45 +0900'
 category:
@@ -23,10 +23,10 @@ tags:
 - googleリーダー
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/reeder_121108.png" alt="reeder_121108" width="448" height="448" class="alignnone size-full wp-image-4041" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/reeder_121108.png" alt="reeder_121108" width="448" height="448" class="alignnone size-full wp-image-4041" /><br />
 RSSを読むのはReederです。@kotala_bです。<br />
 iPhoneにもiPadにもMacにもReederが入っています。<br />
-<a href="http://kotalab.com/ipad-mini-reeder" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/reeder_121108.png" alt="iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-reeder" target="_blank">iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note</a><br style="clear:both;" />そんなReederから嬉しいお知らせがありました！<br />
+<a href="https://kotalab.com/ipad-mini-reeder" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/reeder_121108.png" alt="iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-reeder" target="_blank">iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note</a><br style="clear:both;" />そんなReederから嬉しいお知らせがありました！<br />
 <!--more--></p>
 <h2>Reederからのお知らせ</h2>
 <p>お知らせはReederの公式Twitterアカウントからです。</p>
@@ -76,4 +76,4 @@ iPad版とMac版を持っていない方は今のうちにダウンロードし�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/reeder-feedly" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note" width="150" /></a><a href="http://kotalab.com/reeder-feedly" target="_blank">Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/reeder-feedly" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note" width="150" /></a><a href="https://kotalab.com/reeder-feedly" target="_blank">Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note</a><br style="clear:both;" /></p>

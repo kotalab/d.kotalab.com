@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10371
-wordpress_url: http://kotalab.com/?p=10371
+wordpress_url: https://kotalab.com/?p=10371
 date: '2014-01-03 11:45:59 +0900'
 date_gmt: '2014-01-03 02:45:59 +0900'
 category:
@@ -26,7 +26,7 @@ tags:
 - FP
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/taskstart_20121005.jpg" alt="" title="taskstart_20121005" width="546" height="348" class="alignnone size-full wp-image-3123" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/taskstart_20121005.jpg" alt="" title="taskstart_20121005" width="546" height="348" class="alignnone size-full wp-image-3123" /><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/montseprats/4925956456/" target="_blank">sunset</a> / flequi</span><br />
 1年の初めに年間計画を作成しています。こたら（@kotala_b）です。<br />
 今年は僕が30歳になる節目の年。<br />
@@ -35,7 +35,7 @@ comments: []
 「あんなことやりたい、こんな風になっていたい」と想像しながら作るのはとっても楽しい時間です。<br />
 <!--more--></p>
 <h2>5ヶ年計画を作り始めたきっかけ</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_01-546x409.jpg" alt="iphone5scompareiphone5_130920_01" width="546" height="409" class="alignnone size-large wp-image-9560" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_01-546x409.jpg" alt="iphone5scompareiphone5_130920_01" width="546" height="409" class="alignnone size-large wp-image-9560" /><br />
 僕が5ヶ年計画を作り、更には年間計画を作るようになったのは立花岳志さん（@ttachi）のブログ記事を見てからのことです。</p>
 <div class="shht">
 <div class="shhtimg"><a href="http://www.ttcbn.net/no_second_life/archives/19748" target="_blank"><img src="http://capture.heartrails.com/150x130/shadow?http://www.ttcbn.net/no_second_life/archives/19748" alt="" width="150" height="130" /></a></div>
@@ -49,7 +49,7 @@ comments: []
 <p>立花さんのブログを読むようになってからタスク管理というものを知りました。<br />
 タスク管理のなかでタスク（やりたいこと）を実行するために大切なことが「小分けにする」ことでした。</p>
 <h3>海外旅行を「小分けにする」</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/grillbar_131003_06-546x348.jpg" alt="grillbar_131003_06" width="546" height="348" class="alignnone size-large wp-image-9755" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/grillbar_131003_06-546x348.jpg" alt="grillbar_131003_06" width="546" height="348" class="alignnone size-large wp-image-9755" /><br />
 例えば、海外旅行というやりたいことがあったとします。<br />
 これを小分けにすると</p>
 <ul>
@@ -63,7 +63,7 @@ comments: []
 <p>これを更に小分けにしていくと、「行きたい国を決める」なら「ヨーロッパから3ヶ国に絞る」とか「アジアから3ヶ国に絞る」に分けられるし、誰かと行くなら「相談して候補を絞る」という小分けもできます。<br />
 そして小さくしたタスクをひとつずつコツコツと完了させていくことで、いつしか「海外旅行」という大きなタスクが達成されるのです。</p>
 <h2>小さくすれば今すぐできることが見つかる</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/dontneedinsurance_131128-546x409.jpg" alt="dontneedinsurance_131128" width="546" height="409" class="alignnone size-large wp-image-10253" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/dontneedinsurance_131128-546x409.jpg" alt="dontneedinsurance_131128" width="546" height="409" class="alignnone size-large wp-image-10253" /><br />
 海外旅行という準備から完了まで何日もかかることでも「小分けにする」ことで一歩ずつ着実に進めることができます。<br />
 これは他のどんなやりたいことでも使える方法で、5年後10年後のやりたいことを達成することにも使えます。<br />
 5年後には20キロ痩せていたいなら、今年は4キロ痩せるという風に「小分けにする」<br />
@@ -71,10 +71,10 @@ comments: []
 3ヶ月で1キロ痩せるためには「今週はウォーキングをする」とか「外食を控えて自炊を増やす」とか。<br />
 小さく分けていくことで次第に今すぐできることが見つかってきます。</p>
 <h3>目標はそのままじゃもったいない！</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="plan-next-action_140103" width="546" height="409" class="alignnone size-large wp-image-10381" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="plan-next-action_140103" width="546" height="409" class="alignnone size-large wp-image-10381" /><br />
 将来のなりたい自分（目的地）を想像したら、そこから今何をすればいいのかを知ること。<br />
 やるべきことを1つずつコツコツやっていくといつしか目的地に到達しています。<br />
-僕はこの方法で<a href="http://kotalab.com/pass-the-exam" title="6ヶ月間で一発合格したFP2級勉強法">半年間で2級FPの資格を取り</a>、<a href="http://kotalab.com/diet-8kg" title="習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと">8ヶ月で8キロのダイエット</a>に成功しました。<br />
+僕はこの方法で<a href="https://kotalab.com/pass-the-exam" title="6ヶ月間で一発合格したFP2級勉強法">半年間で2級FPの資格を取り</a>、<a href="https://kotalab.com/diet-8kg" title="習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと">8ヶ月で8キロのダイエット</a>に成功しました。<br />
 漠然とした大きな夢も小分けにしていけば今すぐできる行動があるはずです。<br />
 目の前の小さなことをひとつずつクリアして大きな夢を達成してみませんか？<br />
 お正月に立てた目標はそのままじゃもったいないですよ！</p>
@@ -125,10 +125,10 @@ comments: []
 </div>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/dont-forget-plan-with-iphone" target="_blank"><img src="http://kotalab.com/wp-content/uploads/dont-forget-plan-with-iphone_140104_01.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/dont-forget-plan-with-iphone" target="_blank">iPhoneを使った目標を忘れない仕組みづくり</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/dont-forget-plan-with-iphone" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/dont-forget-plan-with-iphone" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/dont-forget-plan-with-iphone" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dont-forget-plan-with-iphone_140104_01.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/dont-forget-plan-with-iphone" target="_blank">iPhoneを使った目標を忘れない仕組みづくり</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/dont-forget-plan-with-iphone" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/dont-forget-plan-with-iphone" alt="" /></a></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/happy-new-year-2014" target="_blank"><img src="http://kotalab.com/wp-content/uploads/slooProImg_20140101105533.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/happy-new-year-2014" target="_blank">新年明けましておめでとうございます！今年の目標とテーマを決めました！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/happy-new-year-2014"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/happy-new-year-2014" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/happy-new-year-2014" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20140101105533.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/happy-new-year-2014" target="_blank">新年明けましておめでとうございます！今年の目標とテーマを決めました！</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/happy-new-year-2014"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/happy-new-year-2014" alt="" /></span></div>
 </div>

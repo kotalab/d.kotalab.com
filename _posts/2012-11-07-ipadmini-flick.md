@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3992
-wordpress_url: http://kotalab.com/?p=3992
+wordpress_url: https://kotalab.com/?p=3992
 date: '2012-11-07 05:18:55 +0900'
 date_gmt: '2012-11-06 20:18:55 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - 使い方
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/slooProImg_20121102132952.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/slooProImg_20121102132952.jpg" alt="" title="slooProImg_20121102132952.jpg" width="448" height="598" class="alignnone size-full wp-image-3904" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/slooProImg_20121102132952.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20121102132952.jpg" alt="" title="slooProImg_20121102132952.jpg" width="448" height="598" class="alignnone size-full wp-image-3904" /></a><br />
 iPhone5ではフリック入力です。@kotala_bです。<br />
 iPhoneで文章を書くならフリック入力が一番早く文字をうてるので、iPadminiでも出来たらいいなと思っていました。<br />
 調べて見たところiPadminiでもフリック入力ができることが分かりました！<br />
@@ -32,16 +32,16 @@ iPhoneで文章を書くならフリック入力が一番早く文字をうて�
 <!--more--></p>
 <h2>キーボードの分割</h2>
 <p>▼iPadminiのキーボードは通常こうなっています。<br />
-<img src="http://kotalab.com/wp-content/uploads/slooProImg_20121106200101.jpg" alt="" width="448" height="180" /><br />
+<img src="https://kotalab.com/wp-content/uploads/slooProImg_20121106200101.jpg" alt="" width="448" height="180" /><br />
 ▼これを左右の指で画面の端へ引っ張る<br />
-<img src="http://kotalab.com/wp-content/uploads/slooProImg_20121106200100.jpg" alt="" width="448" height="180" /><br />
+<img src="https://kotalab.com/wp-content/uploads/slooProImg_20121106200100.jpg" alt="" width="448" height="180" /><br />
 ▼するとこのように分割されます！<br />
-<img src="http://kotalab.com/wp-content/uploads/slooProImg_20121106200059.jpg" alt="" width="448" height="188" /></p>
+<img src="https://kotalab.com/wp-content/uploads/slooProImg_20121106200059.jpg" alt="" width="448" height="188" /></p>
 <h2>フリック入力する方法</h2>
 <p>▼分割した状態で左下の記号をタップ。<br />
-<img src="http://kotalab.com/wp-content/uploads/slooProImg_20121106200058.jpg" alt="" width="448" height="184" /><br />
+<img src="https://kotalab.com/wp-content/uploads/slooProImg_20121106200058.jpg" alt="" width="448" height="184" /><br />
 ▼そうするとフリック入力が可能になります！<br />
-<img src="http://kotalab.com/wp-content/uploads/slooProImg_20121106200057.jpg" alt="" width="448" height="140" /></p>
+<img src="https://kotalab.com/wp-content/uploads/slooProImg_20121106200057.jpg" alt="" width="448" height="140" /></p>
 <h2>最後に</h2>
 <p>iPadminiでフリック入力をする方法をご紹介しました。<br />
 iPhone5とiPadminiで比べるとやはりiPhone5の方がフリック入力はしやすかったです。<br />

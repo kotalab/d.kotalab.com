@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14016
-wordpress_url: http://kotalab.com/?p=14016
+wordpress_url: https://kotalab.com/?p=14016
 date: '2015-03-14 14:35:12 +0900'
 date_gmt: '2015-03-14 05:35:12 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - DMMmobile
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/02/slooProImg_20150227103015.jpg" alt="slooProImg_20150227103015.jpg" width="720" height="405" class="aligncenter size-full wp-image-14000" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/02/slooProImg_20150227103015.jpg" alt="slooProImg_20150227103015.jpg" width="720" height="405" class="aligncenter size-full wp-image-14000" /><br />
 僕は外でMacBook Airを使うときにiPhoneのテザリング機能を利用しています。<br />
 iPhoneの回線はauで月7GBまでは普通に使えて、それ以上だと速度制限がかかってしまいます。</p>
 <p>au回線だけだと心許ないのでテザリングの代わりに、今まで使っていたPocketWi-Fiに格安SIMを入れて使えたらいいなーと思ってまずはDMMMobileのSIMを使ってみることにしました。</p>
@@ -33,27 +33,27 @@ iPhoneの回線はauで月7GBまでは普通に使えて、それ以上だと速
 <p>そして実際に使ってみてどれくらい速度が出たのかをご紹介します。<br />
 <!--more--></p>
 <h3>新宿駅周辺</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_01-780x520.jpg" alt="dmmmobile-sim-speed_150309_01" width="780" height="520" class="aligncenter size-large wp-image-14017" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_01-780x520.jpg" alt="dmmmobile-sim-speed_150309_01" width="780" height="520" class="aligncenter size-large wp-image-14017" /><br />
 平日昼、新宿駅付近で測った時の速度</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_03-780x692.jpg" alt="dmmmobile-sim-speed_150309_03" width="600" height="533" class="aligncenter wp-image-14020" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_03-780x692.jpg" alt="dmmmobile-sim-speed_150309_03" width="600" height="533" class="aligncenter wp-image-14020" /><br />
 左がDMMMobile回線、右がau回線</p>
 <p>当たり前だけどauのほうが圧倒的。</p>
 <p>というか思ってたよりもDMMMobileがかなり遅かった。</p>
 <h3>電車の中</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_02-780x520.jpg" alt="dmmmobile-sim-speed_150309_02" width="780" height="520" class="aligncenter wp-image-14019" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_02-780x520.jpg" alt="dmmmobile-sim-speed_150309_02" width="780" height="520" class="aligncenter wp-image-14019" /><br />
 平日昼、小田急線の電車内（急行）で測った時の速度</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_04-780x692.jpg" alt="dmmmobile-sim-speed_150309_04" width="600" height="533" class="aligncenter wp-image-14021" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_04-780x692.jpg" alt="dmmmobile-sim-speed_150309_04" width="600" height="533" class="aligncenter wp-image-14021" /><br />
 左がDMMMobile回線、右がau回線。</p>
 <p>この結果だけをみるとDMMMobileを電車の中で使うのは無理っぽい。</p>
 <h3>町田駅周辺</h3>
 <p>土曜日午後、町田駅周辺のスタバ店内で測った時の速度</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_06-300x533.png" alt="dmmmobile-sim-speed_150309_06" width="300" height="533" class="aligncenter size-medium wp-image-14023" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_06-300x533.png" alt="dmmmobile-sim-speed_150309_06" width="300" height="533" class="aligncenter size-medium wp-image-14023" /><br />
 auの速度は測り忘れちゃったのでDMMMobileだけ。</p>
 <p>ようやく下り1Mbps越え。<br />
 それでもMacBook Airに繋げて何かやるとなると回線速度にストレスを感じました。</p>
 <h3>町田の自宅</h3>
 <p>平日夜、自宅で測った時の速度</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_05-780x692.jpg" alt="dmmmobile-sim-speed_150309_05" width="600" height="533" class="aligncenter wp-image-14022" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/03/dmmmobile-sim-speed_150309_05-780x692.jpg" alt="dmmmobile-sim-speed_150309_05" width="600" height="533" class="aligncenter wp-image-14022" /><br />
 左がDMMMobile回線、右がau回線。</p>
 <p>SIMが届いた直後に自宅で測ってみたら5Mbps出ました。</p>
 <h2>DMMMobileを使った個人的な感想</h2>

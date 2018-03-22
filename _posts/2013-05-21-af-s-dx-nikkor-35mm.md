@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7208
-wordpress_url: http://kotalab.com/?p=7208
+wordpress_url: https://kotalab.com/?p=7208
 date: '2013-05-21 19:00:36 +0900'
 date_gmt: '2013-05-21 10:00:36 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - D7000
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/d7000_130521-448x336.jpg" alt="d7000_130521" width="448" height="336" class="alignnone size-large wp-image-7213" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/d7000_130521-448x336.jpg" alt="d7000_130521" width="448" height="336" class="alignnone size-large wp-image-7213" /><br />
 先日Nikonのデジタル一眼レフカメラ「D7000」を買いました。こたら（@kotala_b）です。<br />
 ボディだけ先にヨドバシで買って、レンズは後日Amazonで注文しました。<br />
 注文したのは「AF-S DX NIKKOR 35mm f/1.8G」という単焦点レンズ。<br />
@@ -45,21 +45,21 @@ iPhoneではなかなか出来なかったボケた写真を撮りたくてこ�
 </div>
 <p><!--more--></p>
 <h2>D7000+DX NIKKOR 35mm f/1.8G</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/d7000_130521_05-448x336.jpg" alt="d7000_130521_05" width="448" height="336" class="alignnone size-large wp-image-7215" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/d7000_130521_05-448x336.jpg" alt="d7000_130521_05" width="448" height="336" class="alignnone size-large wp-image-7215" /><br />
 撮影モードは絞り優先オート。<br />
 F値を1.8にして早速家の中で写真を撮ってみました。</p>
 <h2>D7000+DX NIKKOR 35mm f/1.8Gで撮った写真</h2>
 <p>まずはiPhone5<br />
-<a href="http://kotalab.com/wp-content/uploads/d7000_130521_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/d7000_130521_01-448x296.jpg" alt="d7000_130521_01" width="448" height="296" class="alignnone size-large wp-image-7212" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/d7000_130521_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/d7000_130521_01-448x296.jpg" alt="d7000_130521_01" width="448" height="296" class="alignnone size-large wp-image-7212" /></a><br />
 料理中<br />
-<a href="http://kotalab.com/wp-content/uploads/d7000_130521_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/d7000_130521_02-448x296.jpg" alt="d7000_130521_02" width="448" height="296" class="alignnone size-large wp-image-7211" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/d7000_130521_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/d7000_130521_02-448x296.jpg" alt="d7000_130521_02" width="448" height="296" class="alignnone size-large wp-image-7211" /></a><br />
 出来上がり<br />
-<a href="http://kotalab.com/wp-content/uploads/d7000_130521_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/d7000_130521_03-448x296.jpg" alt="d7000_130521_03" width="448" height="296" class="alignnone size-large wp-image-7209" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/d7000_130521_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/d7000_130521_03-448x296.jpg" alt="d7000_130521_03" width="448" height="296" class="alignnone size-large wp-image-7209" /></a><br />
 サラダ<br />
-<a href="http://kotalab.com/wp-content/uploads/d7000_130521_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/d7000_130521_04-448x296.jpg" alt="d7000_130521_04" width="448" height="296" class="alignnone size-large wp-image-7210" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/d7000_130521_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/d7000_130521_04-448x296.jpg" alt="d7000_130521_04" width="448" height="296" class="alignnone size-large wp-image-7210" /></a></p>
 <h2>最後に</h2>
 <p>載せた写真を見返していて気づいたことが1つ。<br />
 iPhoneとデジイチでは写真の縦横比が違う！<br />
 今更そんなことを知ったのでした。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/buy-nikon-d7000" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/d7000_130520-448x336.jpg" alt="Nikonのデジタル一眼レフカメラD7000を購入しました。 | kotala's note" width="150" /></a><a href="http://kotalab.com/buy-nikon-d7000" target="_blank">Nikonのデジタル一眼レフカメラD7000を購入しました。 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/buy-nikon-d7000" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/d7000_130520-448x336.jpg" alt="Nikonのデジタル一眼レフカメラD7000を購入しました。 | kotala's note" width="150" /></a><a href="https://kotalab.com/buy-nikon-d7000" target="_blank">Nikonのデジタル一眼レフカメラD7000を購入しました。 | kotala's note</a><br style="clear:both;" /></p>

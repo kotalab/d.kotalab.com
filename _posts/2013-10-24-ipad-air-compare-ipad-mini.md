@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10022
-wordpress_url: http://kotalab.com/?p=10022
+wordpress_url: https://kotalab.com/?p=10022
 date: '2013-10-24 11:36:53 +0900'
 date_gmt: '2013-10-24 02:36:53 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - iPad Air
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/ipadaircompareipadmini_131024-546x365.png" alt="ipadaircompareipadmini_131024" width="546" height="365" class="alignnone size-large wp-image-10027" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ipadaircompareipadmini_131024-546x365.png" alt="ipadaircompareipadmini_131024" width="546" height="365" class="alignnone size-large wp-image-10027" /><br />
 iPad Airを買う予定です。こたら（@kotala_b）です。<br />
 iPad AirとiPad miniRetinaディスプレイモデルの同時発表があり、どっちがいいか迷っている人も多いはず。<br />
 スペックは大体一緒なのでスペックだけでは選べないというのが正直なところ。<br />
@@ -40,11 +40,11 @@ iPad AirとiPad miniRetinaディスプレイモデルの同時発表があり、
 持ち歩いて移動中もよく使うならiPad miniの小ささがメリットとしていきてきます。<br />
 逆に机の上で何か作業をするとなるとiPad miniよりも大きい方がいいなというのがiPad miniを1年間使ってみての感想です。</p>
 <h3>iPad miniは移動中に使うことでメリットがいかされる</h3>
-<p>iPad miniなら<a href="http://kotalab.com/ipadmini-train" title="iPadminiを通勤途中に使ってみた！実際に使ってみないとわからなかったこと！" target="_blank">通勤電車内でも本を読むくらいのスペースがあるなら十分使えますし、洋服についてる大きめのポケットにも入ります。</a><br />
+<p>iPad miniなら<a href="https://kotalab.com/ipadmini-train" title="iPadminiを通勤途中に使ってみた！実際に使ってみないとわからなかったこと！" target="_blank">通勤電車内でも本を読むくらいのスペースがあるなら十分使えますし、洋服についてる大きめのポケットにも入ります。</a><br />
 電車の中で使う、電車の乗換など比較的短い距離の移動中は片手で常に持ち歩くという使い方ができるのがiPad mini。<br />
 電子書籍やSNS、インターネットを移動中にスマホよりも大きな画面で楽しめるのがiPad miniです。</p>
 <h3>iPad Airにはノートパソコン的な役割を期待</h3>
-<p>iPad miniでは文字入力に難があり、<a href="http://kotalab.com/ipad-mini-keybord-bt" title="iPadmini用のBluetoothキーボードを購入！" target="_blank">外部キーボードを一緒に持ち歩いた</a>こともありますがノートパソコンの代わりとまではいきませんでした。<br />
+<p>iPad miniでは文字入力に難があり、<a href="https://kotalab.com/ipad-mini-keybord-bt" title="iPadmini用のBluetoothキーボードを購入！" target="_blank">外部キーボードを一緒に持ち歩いた</a>こともありますがノートパソコンの代わりとまではいきませんでした。<br />
 「ノートパソコンを持ち歩く代わりにタブレットを持ち歩く」という使い方ならiPad Airの方がいいかなというのが僕の思うところ。<br />
 9.7インチのタブレットを使ったことはないのであくまで想像ですが、ノートパソコンのように机の上で椅子に座って作業するならiPad miniよりも向いてそうだなと思います。<br />
 僕が持ってるのは13インチのMacBook Airなので、iPad AirをMacBook Airの代わりに持ち歩くとなったら1キロの重量ダウン。<br />

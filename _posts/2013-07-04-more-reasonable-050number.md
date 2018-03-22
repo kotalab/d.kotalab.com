@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7725
-wordpress_url: http://kotalab.com/?p=7725
+wordpress_url: https://kotalab.com/?p=7725
 date: '2013-07-04 00:16:48 +0900'
 date_gmt: '2013-07-03 15:16:48 +0900'
 category:
@@ -26,7 +26,7 @@ tags:
 - 通話料
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/telephone_130703-448x336.jpg" alt="telephone_130703" width="448" height="336" class="alignnone size-large wp-image-7727" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/telephone_130703-448x336.jpg" alt="telephone_130703" width="448" height="336" class="alignnone size-large wp-image-7727" /><br />
 auのiPhone5を使っています。こたら（@kotala_b）です。<br />
 SMARTalkや050plus、ウィルコムといった通話料の安いサービスのことを聞くことが増えてきました。<br />
 そこで実際にはどういったモノが安いのか、スマホの通話料はどれくらい高いのかということを調べてみました。<br />
@@ -106,4 +106,4 @@ SMARTalkや050plus、ウィルコムといった通話料の安いサービス�
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/smartalk-sumahono-tong-hua/id646647577?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/keep-using-sbi-net-banking" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/bank_130425-448x336.jpg" alt="振込手数料無料、ATM手数料無料。僕が住信SBIネット銀行を使い続ける理由 | kotala's note" width="150" /></a><a href="http://kotalab.com/keep-using-sbi-net-banking" target="_blank">振込手数料無料、ATM手数料無料。僕が住信SBIネット銀行を使い続ける理由 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/keep-using-sbi-net-banking" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/bank_130425-448x336.jpg" alt="振込手数料無料、ATM手数料無料。僕が住信SBIネット銀行を使い続ける理由 | kotala's note" width="150" /></a><a href="https://kotalab.com/keep-using-sbi-net-banking" target="_blank">振込手数料無料、ATM手数料無料。僕が住信SBIネット銀行を使い続ける理由 | kotala's note</a><br style="clear:both;" /></p>

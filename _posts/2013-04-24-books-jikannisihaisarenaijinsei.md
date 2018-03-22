@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6909
-wordpress_url: http://kotalab.com/?p=6909
+wordpress_url: https://kotalab.com/?p=6909
 date: '2013-04-24 13:21:34 +0900'
 date_gmt: '2013-04-24 04:21:34 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - ジョン・キム
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/jikansihai_130424-448x336.jpg" alt="jikansihai_130424" width="448" height="336" class="alignnone size-large wp-image-6910" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/jikansihai_130424-448x336.jpg" alt="jikansihai_130424" width="448" height="336" class="alignnone size-large wp-image-6910" /><br />
 「時間に支配されない人生」を読みました。@kotala_bです。<br />
 「媚びない人生」の著者、ジョンキムさんの「真夜中の幸福論」に続く3作目となる本です。<br />
 次から次へと出てくる力強くて熱い言葉の数々に圧倒されると同時に、自分の生き方や「時間」というモノについて深く考えたくなる1冊でした。</p>
@@ -90,7 +90,7 @@ comments: []
 <p>幸福というのは決められたものではなく、自分で決めるもの。<br />
 自分の基準が定まっていないと、ただ闇雲に生きているだけになってしまいます。</p>
 <h2>最後に</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/jikansihai_130424_01-448x336.jpg" alt="jikansihai_130424_01" width="448" height="336" class="alignnone size-large wp-image-6911" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/jikansihai_130424_01-448x336.jpg" alt="jikansihai_130424_01" width="448" height="336" class="alignnone size-large wp-image-6911" /></p>
 <blockquote><p>当たり前だと思っている日常は、実は当たり前ではない。<br />
 そのことは、自ら気づこうとしない限り喪失するまでわからない。</p></blockquote>
 <p>本当に大切な物は失ってからその大切さに気づくといいます。<br />
@@ -113,5 +113,5 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/books-kobinai-jinsei" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/kobinai_130408-448x336.jpg" alt="「媚びない人生」を生きるための5つの言葉 | kotala's note" width="150" /></a><a href="http://kotalab.com/books-kobinai-jinsei" target="_blank">「媚びない人生」を生きるための5つの言葉 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/talklive-id-2" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="http://kotalab.com/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/books-kobinai-jinsei" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kobinai_130408-448x336.jpg" alt="「媚びない人生」を生きるための5つの言葉 | kotala's note" width="150" /></a><a href="https://kotalab.com/books-kobinai-jinsei" target="_blank">「媚びない人生」を生きるための5つの言葉 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/talklive-id-2" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="https://kotalab.com/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" /></p>

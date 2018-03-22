@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6969
-wordpress_url: http://kotalab.com/?p=6969
+wordpress_url: https://kotalab.com/?p=6969
 date: '2013-05-01 15:36:56 +0900'
 date_gmt: '2013-05-01 06:36:56 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - 誕生日
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/birthday_130501-448x447.jpg" alt="birthday_130501" width="448" height="447" class="alignnone size-large wp-image-6971" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/birthday_130501-448x447.jpg" alt="birthday_130501" width="448" height="447" class="alignnone size-large wp-image-6971" /><br />
 29歳になりました。@kotala_bです。<br />
 今年の誕生日はブログを始めてから初めての誕生日。<br />
 去年までの誕生日にはブログもやってなければFacebookもTwitterもやっていませんでした。<br />

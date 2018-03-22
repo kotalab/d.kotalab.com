@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 816
-wordpress_url: http://kotalab.com/?p=816
+wordpress_url: https://kotalab.com/?p=816
 date: '2012-06-19 17:26:26 +0900'
 date_gmt: '2012-06-19 08:26:26 +0900'
 category:
@@ -52,10 +52,10 @@ comments: []
 ここで大切なのは切り分けられたタスク自体が複雑なものだと行動しづらいことです。<br />
 行動しづらいとなかなか実行出来ないので、簡単に行動できるカタチになるまで切り分けます。</p>
 <h2>まずは簡単なところから</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/project_120619.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/project_120619.jpg" alt="" title="project_120619" width="400" height="165" class="alignnone size-full wp-image-831" /></a><br style="clear:both;" />プロジェクト管理を始めるのにまず最初に作ったプロジェクトは遊びに行くためのものです。<br />
+<p><a href="https://kotalab.com/wp-content/uploads/project_120619.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/project_120619.jpg" alt="" title="project_120619" width="400" height="165" class="alignnone size-full wp-image-831" /></a><br style="clear:both;" />プロジェクト管理を始めるのにまず最初に作ったプロジェクトは遊びに行くためのものです。<br />
 いきなり大がかりなプロジェクトを作って早々に挫折してしまっては意味がないので、まず簡単なことから始めて成功体験をすることで徐々にステップアップすることにしました。<br />
 これはTaskchuteを始めた時に、<strong>簡単にできるところから始めて徐々に慣れて行くこと</strong>が習慣を作る一番大切なことだと知ったからです。</p>
 <h2>次回予告</h2>
 <p>前編はプロジェクト管理を始めるにあたって気をつけたいことを書きました。<br />
 次回後編では実際にどうやって始めたのかを書きます。<br />
-追記：<a href="http://kotalab.com/start-project2" target="_blank">プロジェクト管理を始める！後編 | kotala's note</a></p>
+追記：<a href="https://kotalab.com/start-project2" target="_blank">プロジェクト管理を始める！後編 | kotala's note</a></p>

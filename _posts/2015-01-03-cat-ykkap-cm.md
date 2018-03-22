@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13728
-wordpress_url: http://kotalab.com/?p=13728
+wordpress_url: https://kotalab.com/?p=13728
 date: '2015-01-03 22:30:08 +0900'
 date_gmt: '2015-01-03 13:30:08 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - TVCM
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/cat-ykkap-cm_20150103-780x451.jpg" alt="cat-ykkap-cm_20150103" width="780" height="451" class="aligncenter size-large wp-image-13731" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/cat-ykkap-cm_20150103-780x451.jpg" alt="cat-ykkap-cm_20150103" width="780" height="451" class="aligncenter size-large wp-image-13731" /><br />
 お正月にテレビを見ていて、思わず何のCMだろうと見入っちゃうCMがありました。<br />
 思わず見入ってしまうようなCMってなかなかないと思うんですよね。</p>
 <p>ネットで探してみたら動画があったのでご紹介したいと思います。<br />

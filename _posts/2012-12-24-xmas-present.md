@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5074
-wordpress_url: http://kotalab.com/?p=5074
+wordpress_url: https://kotalab.com/?p=5074
 date: '2012-12-24 10:53:36 +0900'
 date_gmt: '2012-12-24 01:53:36 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - 顔文字登録 MySmiley
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/appsale_121224.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/appsale_121224-448x320.png" alt="appsale_121224" width="448" height="320" class="alignnone size-large wp-image-5079" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/appsale_121224.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/appsale_121224-448x320.png" alt="appsale_121224" width="448" height="320" class="alignnone size-large wp-image-5079" /></a><br />
 @Rivawanさんのアプリはドックに2つ入ってます。@kotala_bです。<br />
 @Rivawanさんの大人気アプリが12/24、12/25の2日間限定でクリスマスセールを開催中です！<br />
 <a href="http://rivawan.com/archives/2254" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://rivawan.com/archives/2254" alt="12/24-25限定クリスマスセール！Seeqなど170円以上アプリは85円、スマートアルバムなど85円アプリは無料です！ : Rivawan" width="150" height="130" /></a><a href="http://rivawan.com/archives/2254" target="_blank">12/24-25限定クリスマスセール！Seeqなど170円以上アプリは85円、スマートアルバムなど85円アプリは無料です！ : Rivawan</a><a href="http://b.hatena.ne.jp/entry/http://rivawan.com/archives/2254" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://rivawan.com/archives/2254" alt="" /></a><br style="clear:both;" />無料となるアプリが3つ、85円に値引きされたアプリが3つ、計6つがセール中です！<br />
@@ -93,9 +93,9 @@ HTMLタグの挿入も簡単で、TextExpanderにも対応しています。<br 
 <h2>85円に値引きされたアプリも3つ！</h2>
 <h3>Seeq</h3>
 <p>このブログでも度々紹介しました！<br />
-<a href="http://kotalab.com/my-kami-app" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/kamiapp_121203-448x319.jpg" alt="なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note" width="150" /></a><a href="http://kotalab.com/my-kami-app" target="_blank">なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/2012-app" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20121222235820.png" alt="今年定番になったiPhoneアプリ#2012app | kotala's note" width="150" /></a><a href="http://kotalab.com/2012-app" target="_blank">今年定番になったiPhoneアプリ#2012app | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/seeq-sale" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/seeq_20121110.png" alt="Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！ | kotala's note" width="150" /></a><a href="http://kotalab.com/seeq-sale" target="_blank">Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！ | kotala's note</a><br style="clear:both;" /><strong>最初は使い方がよくわからなくても、使ってるうちに今年の定番になった、なくてはならない、神アプリです！</strong></p>
+<a href="https://kotalab.com/my-kami-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kamiapp_121203-448x319.jpg" alt="なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note" width="150" /></a><a href="https://kotalab.com/my-kami-app" target="_blank">なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/2012-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121222235820.png" alt="今年定番になったiPhoneアプリ#2012app | kotala's note" width="150" /></a><a href="https://kotalab.com/2012-app" target="_blank">今年定番になったiPhoneアプリ#2012app | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/seeq-sale" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/seeq_20121110.png" alt="Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！ | kotala's note" width="150" /></a><a href="https://kotalab.com/seeq-sale" target="_blank">Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！ | kotala's note</a><br style="clear:both;" /><strong>最初は使い方がよくわからなくても、使ってるうちに今年の定番になった、なくてはならない、神アプリです！</strong></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4"><img src="http://a779.phobos.apple.com/us/r1000/109/Purple/v4/c9/36/24/c93624e9-7691-11c2-73cf-904defc3c718/mzl.tqwckvue.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fseeq%252Fid555289253%253Fmt%253D8%2526uo%253D4">Seeq</span></div>
@@ -108,7 +108,7 @@ HTMLタグの挿入も簡単で、TextExpanderにも対応しています。<br 
 </div>
 <h3>Camore+ for Camera+</h3>
 <p>Camera+やOneCamといったカメラアプリとの連携が素晴らしいアプリ！<br />
-<a href="http://kotalab.com/how-to-miil" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/miil_20121116-448x350.png" alt="面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note" width="150" /></a><a href="http://kotalab.com/how-to-miil" target="_blank">面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note</a><br style="clear:both;" />僕はOneCamで撮った写真をmiilに投稿する際に毎回使っています！</p>
+<a href="https://kotalab.com/how-to-miil" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/miil_20121116-448x350.png" alt="面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note" width="150" /></a><a href="https://kotalab.com/how-to-miil" target="_blank">面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note</a><br style="clear:both;" />僕はOneCamで撮った写真をmiilに投稿する際に毎回使っています！</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4"><img src="http://a748.phobos.apple.com/us/r1000/088/Purple/v4/80/cd/19/80cd19f7-ce93-ceee-dc24-7325e00dc168/mzl.wlzhutxq.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcamore%252B-for-camera%252B%252Fid537032801%253Fmt%253D8%2526uo%253D4">Camore+ for Camera+</span></div>

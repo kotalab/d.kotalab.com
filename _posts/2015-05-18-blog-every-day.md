@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14387
-wordpress_url: http://kotalab.com/?p=14387
+wordpress_url: https://kotalab.com/?p=14387
 date: '2015-05-18 07:55:21 +0900'
 date_gmt: '2015-05-17 22:55:21 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - やってみる
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/mistake-in-habit_20150516-780x520.jpg" alt="mistake-in-habit_20150516.JPG" width="780" height="520" class="aligncenter size-large wp-image-14369" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/mistake-in-habit_20150516-780x520.jpg" alt="mistake-in-habit_20150516.JPG" width="780" height="520" class="aligncenter size-large wp-image-14369" /><br />
 それは毎日書こうとすることです。</p>
 <p>とにかくやってみるしかありません。<br />
 途中まで書いて時間切れで終わっても、何も書かないより全然いいです。</p>

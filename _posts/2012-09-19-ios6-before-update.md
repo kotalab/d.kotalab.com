@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2881
-wordpress_url: http://kotalab.com/?p=2881
+wordpress_url: https://kotalab.com/?p=2881
 date: '2012-09-19 20:50:31 +0900'
 date_gmt: '2012-09-19 11:50:31 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - アップデート
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/ios6_120919.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ios6_120919.jpg" alt="" title="ios6_120919" width="448" height="280" class="alignnone size-full wp-image-2883" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/ios6_120919.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ios6_120919.jpg" alt="" title="ios6_120919" width="448" height="280" class="alignnone size-full wp-image-2883" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/sachin_sandhu/3370137558/" target="_blank">I think...........................</a> / .sandhu</span><br />
 初めてのiOSアップデートになります。@kotala_bです。<br />
 9月19日にアップデート予定のiOS6公開があと僅かとなりました。<br />

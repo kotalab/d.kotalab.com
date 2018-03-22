@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13435
-wordpress_url: http://kotalab.com/?p=13435
+wordpress_url: https://kotalab.com/?p=13435
 date: '2014-09-13 12:06:05 +0900'
 date_gmt: '2014-09-13 03:06:05 +0900'
 category:
@@ -29,7 +29,7 @@ tags:
 - iPhone6Plus
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/iPhone6plus-applewatch_20140910-780x465.png" alt="iPhone6plus-applewatch_20140910" width="780" height="465" class="aligncenter size-large wp-image-13426" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iPhone6plus-applewatch_20140910-780x465.png" alt="iPhone6plus-applewatch_20140910" width="780" height="465" class="aligncenter size-large wp-image-13426" /><br />
 via:<a href="http://www.apple.com/" target="_blank">Apple</a><br />
 iPhone6・iPhone6Plusの販売開始まで1週間をきりました！<br />
 みなさんは予約しましたか？<br />
@@ -46,7 +46,7 @@ iPhone6からは発売開始と同時にSIMフリー機も手に入るように�
 <p>もう1つ目は最近新しく出てきた「<span class="b">通話かけ放題＋パケ放題</span>」という料金プラン。<br />
 こっちは<span class="b">新プラン</span>とします。</p>
 <h2>docomoの場合</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-plan_20140913_01-780x361.png" alt="iphone6-plan_20140913_01" width="780" height="361" class="aligncenter size-large wp-image-13445" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-plan_20140913_01-780x361.png" alt="iphone6-plan_20140913_01" width="780" height="361" class="aligncenter size-large wp-image-13445" /><br />
 via:<a href="https://www.nttdocomo.co.jp/iphone/charge/index.html" target="_blank">NTTドコモ</a></p>
 <p>docomoで新規契約（MNP含む）をする場合、新料金プランとなります。</p>
 <p>機種変の場合のみ旧料金プランで契約可能です。<br />
@@ -71,7 +71,7 @@ SPモード：300円<br />
 <p>ということで新プランしか選択肢にならないような感じになっています。<br />
 それにしても<span class="b">ケータイ1回線で毎月1万円は高い。</span></p>
 <h2>SoftBankの場合</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-plan_20140913_02-780x320.png" alt="iphone6-plan_20140913_02" width="780" height="320" class="aligncenter size-large wp-image-13446" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-plan_20140913_02-780x320.png" alt="iphone6-plan_20140913_02" width="780" height="320" class="aligncenter size-large wp-image-13446" /><br />
 via:<a href="http://www.softbank.jp/mobile/iphone/price_plan/" target="_blank">SoftBank</a><br />
 SoftBankはドコモと違って機種変でも機種代の割引サービスが受けられますし、新規（MNP）の場合でも旧プランで契約可能となっています。</p>
 <p>割引後の機種代は月々0円〜2060円までと容量やiPhone6かiPhone6Plusといった違いで割引料金の違いがあります。<br />
@@ -94,13 +94,13 @@ S!ベーシック：300円<br />
 <p>SoftBankの場合は新プランでも旧プランでも機種代金は一緒。<br />
 かけ放題をつけるかどうか、パケ放題で何GB使うかで料金プランを選ぶと良さそうです。</p>
 <h2>auの場合</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone6-plan_20140913_03-780x500.png" alt="iphone6-plan_20140913_03" width="780" height="500" class="aligncenter size-large wp-image-13447" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone6-plan_20140913_03-780x500.png" alt="iphone6-plan_20140913_03" width="780" height="500" class="aligncenter size-large wp-image-13447" /><br />
 via:<a href="http://www.au.kddi.com/iphone/ryokin/?bid=we-ipo-2014-3005" target="_blank">au</a><br />
 auはSoftBankとほぼ一緒。<br />
 新プラン（カケホとデジラ）も旧プランも機種代も若干の違いはあるものの、SoftBankと大差ありません。<br />
 普通に契約する分には特に注意点もないということでauに関しては割愛。</p>
 <h2>SIMフリーの場合</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/mobile-packet-cost-up_140704.jpg" alt="mobile-packet-cost-up_140704" class="aligncenter size-full wp-image-13311" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/mobile-packet-cost-up_140704.jpg" alt="mobile-packet-cost-up_140704" class="aligncenter size-full wp-image-13311" /><br />
 <span class="b">さて、本題はここから。</span></p>
 <p>今回から発売開始と同時に展開されるSIMフリーiPhoneについても考えてみます。<br />
 今使ってる料金プランを維持したまま、新しくiPhone6やiPhone6Plusを買いたい場合にはSIMフリーiPhoneをオススメします。</p>
@@ -120,7 +120,7 @@ S!ベーシック：300円<br />
 <p>機種変とかMNPでも割引サービスがありますけど、さすがに17万円も割り引かれないでしょう。</p>
 <p><span class="b">追記：※SIMフリーiPhone1台買っても7〜10万くらい浮く計算。</span></p>
 <h3>よーく考えてみよう</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/saving-money-next-step_140527.jpg" alt="saving-money-next-step_140527" class="aligncenter size-full wp-image-13222" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/saving-money-next-step_140527.jpg" alt="saving-money-next-step_140527" class="aligncenter size-full wp-image-13222" /><br />
 こういう計算は小学生で習った足し算引き算でできるので、予約しちゃった人ももう1度よーく考えてみてください。</p>
 <p>もしかしたらいつもよりちょっといいお店でご飯が食べれるくらいはお得になるかも知れませんよ！</p>
 <blockquote class="twitter-tweet" data-conversation="none" lang="ja"><p><a href="https://twitter.com/ResNovae_jp">@resnovae_jp</a> 今の毎月の維持費がいくらかにもよるんですが、僕の場合機種変すると相当な額の差額が出ることに。&#10;予約段階なら取り返しつくので計算してみるといいかもしれません！</p>

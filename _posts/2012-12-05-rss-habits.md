@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4539
-wordpress_url: http://kotalab.com/?p=4539
+wordpress_url: https://kotalab.com/?p=4539
 date: '2012-12-05 18:01:29 +0900'
 date_gmt: '2012-12-05 09:01:29 +0900'
 category:
@@ -30,7 +30,7 @@ comments:
   content: "[...] RSSを1週間読まないでわかったこと！少し立ち止まって今続けている習慣を... RSSだけじゃなく、日々の生活の中でも「あれなんでこんなことをしてるんだったっけ？」と少し立ち止まって考えてみると新たな発見が出来るかも知れません。
     それが将来のための良い習慣なのか、いつまでも続けている意味のないただの惰性なのかを今一度考えてみましょう。 [...]"
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/rss_121205.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/rss_121205-448x335.png" alt="" title="rss_121205" width="448" height="335" class="alignnone size-large wp-image-4540" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/rss_121205.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/rss_121205-448x335.png" alt="" title="rss_121205" width="448" height="335" class="alignnone size-large wp-image-4540" /></a><br />
 RSSを一切見なくなって1週間になりました。@kotala_bです。<br />
 今までは、読みたいブログ、会ったことがある人のブログ、ライフハッカー系のサイトなどなど様々なものを登録しRSSで読んでいました。<br />
 日に日に読みたいブログや会ったことがある人のブログが増えていき、それらを読むだけでかなりの時間を費やすようになっていました。</p>

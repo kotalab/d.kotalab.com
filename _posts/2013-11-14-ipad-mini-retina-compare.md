@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10159
-wordpress_url: http://kotalab.com/?p=10159
+wordpress_url: https://kotalab.com/?p=10159
 date: '2013-11-14 12:03:19 +0900'
 date_gmt: '2013-11-14 03:03:19 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - 7gb制限
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/ipadminiretinacompare_131114-546x376.png" alt="ipadminiretinacompare_131114" width="546" height="376" class="alignnone size-large wp-image-10173" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ipadminiretinacompare_131114-546x376.png" alt="ipadminiretinacompare_131114" width="546" height="376" class="alignnone size-large wp-image-10173" /><br />
 iPad mini Retinaディスプレイモデルの発売に驚いてます。こたら（@kotala_b）です。<br />
 11月中という発表はあったものの、このタイミングで！？という突然の発売開始でした。<br />
 iPad mini RetinaディスプレイモデルのWi-Fi版とセルラー版の料金比較を表にしてまとめてみました。<br />
@@ -194,7 +194,7 @@ auやSoftBankでスマホを契約してる場合は同一名義でセット割�
 <p>通常のセット割に比べると、利用できる通信量が減った分だけ2年間の費用も安くなります。<br />
 どっちの契約をするかは毎月の通信量にもよるので自分がどれだけ使ってるかを把握しておきましょう。<br />
 自分がどれくらいデータ通信してるか確認するにはこちらを参考にしてみてください。<br />
-<a href="http://kotalab.com/limit-7gb" target="_blank">7GB制限対策！データ通信量を確認する方法</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/limit-7gb" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/limit-7gb" alt="" /></a></p>
+<a href="https://kotalab.com/limit-7gb" target="_blank">7GB制限対策！データ通信量を確認する方法</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/limit-7gb" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/limit-7gb" alt="" /></a></p>
 <h2>iPad mini Retinaディスプレイモデルを2年間使った場合の費用</h2>
 <p>2年間での合計費用をWi-Fi版も含めて比較した表が次の表です。</p>
 <table border="1" width="100%" align="center">
@@ -239,10 +239,10 @@ auやSoftBankでスマホを契約してる場合は同一名義でセット割�
 <p>Wi-Fi版が飛び抜けて安いというよりも、セルラー版が高いという感じを受けます。<br />
 単体で通信できるのでこれくらいの費用は仕方ないのかな。</p>
 <h3>契約する前に確認！</h3>
-<p><a href="http://kotalab.com/ipad-air-softbank-plan" title="SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！">iPad Airの料金プランを比較したとき</a>もそうでしたが、表にしてみるとWi-Fi版とセルラー版のトータル費用の違いにビックリしますね。<br />
+<p><a href="https://kotalab.com/ipad-air-softbank-plan" title="SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！">iPad Airの料金プランを比較したとき</a>もそうでしたが、表にしてみるとWi-Fi版とセルラー版のトータル費用の違いにビックリしますね。<br />
 トータル費用を確認しておくと無駄な出費も抑えられるので、契約する前に一度確認しておきましょう。<br />
 iPad Airの料金はこちら<br />
-<a href="http://kotalab.com/ipad-air-softbank-plan" target="_blank">SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/ipad-air-softbank-plan" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/ipad-air-softbank-plan" alt="" /></a></p>
+<a href="https://kotalab.com/ipad-air-softbank-plan" target="_blank">SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/ipad-air-softbank-plan" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/ipad-air-softbank-plan" alt="" /></a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CDG0O78/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41BY6Vca-aL._SL160_.jpg" style="border: none;" /></a></div>

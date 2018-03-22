@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2072
-wordpress_url: http://kotalab.com/?p=2072
+wordpress_url: https://kotalab.com/?p=2072
 date: '2012-08-13 10:01:39 +0900'
 date_gmt: '2012-08-13 01:01:39 +0900'
 category:
@@ -21,28 +21,28 @@ tags:
 - 快眠リズム
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/sleeplog_120813.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/sleeplog_120813.png" alt="" title="sleeplog_120813" width="448" height="329" class="alignnone size-full wp-image-2087" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/sleeplog_120813.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120813.png" alt="" title="sleeplog_120813" width="448" height="329" class="alignnone size-full wp-image-2087" /></a><br />
 今月に入ってから睡眠のログを取り始めました。@kotala_bです。<br />
 使ってるアプリは<strong>快眠リズム</strong>というアプリです。<br />
 今回は小石川ホームクリニックの門川誠さんという医師監修の<strong>快眠リズム</strong>という睡眠アプリをご紹介します。<br />
 <!--more--></p>
 <h2>快眠リズムの使い方</h2>
 <p>▼<strong>快眠リズム</strong>を起動するとセンサーの感度設定をします。<br />
-<a href="http://kotalab.com/wp-content/uploads/sleeplog_120813_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/sleeplog_120813_01.png" alt="" title="sleeplog_120813_01" width="300" height="450" class="alignnone size-full wp-image-2074" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/sleeplog_120813_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120813_01.png" alt="" title="sleeplog_120813_01" width="300" height="450" class="alignnone size-full wp-image-2074" /></a><br />
 ▼下にあるタブの記録するをタップしアラームを設定します。<br />
-<a href="http://kotalab.com/wp-content/uploads/sleeplog_120813_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/sleeplog_120813_02.png" alt="" title="sleeplog_120813_02" width="300" height="450" class="alignnone size-full wp-image-2075" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/sleeplog_120813_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120813_02.png" alt="" title="sleeplog_120813_02" width="300" height="450" class="alignnone size-full wp-image-2075" /></a><br />
 ▼アラーム設定をし寝るボタンをタップすると注意事項が表示されます。OKを押すと開始されます。<br />
-<a href="http://kotalab.com/wp-content/uploads/sleeplog_120813_03.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/sleeplog_120813_03.png" alt="" title="sleeplog_120813_03" width="300" height="450" class="alignnone size-full wp-image-2076" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/sleeplog_120813_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120813_03.png" alt="" title="sleeplog_120813_03" width="300" height="450" class="alignnone size-full wp-image-2076" /></a><br />
 ▼睡眠評価画面<br />
-<a href="http://kotalab.com/wp-content/uploads/sleeplog_120813_04.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/sleeplog_120813_04.png" alt="" title="sleeplog_120813_04" width="300" height="450" class="alignnone size-full wp-image-2073" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/sleeplog_120813_04.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120813_04.png" alt="" title="sleeplog_120813_04" width="300" height="450" class="alignnone size-full wp-image-2073" /></a><br />
 睡眠時間などの睡眠に関する評価が表示されます。<br />
 各項目をタップすることでメッセージが表示されます。<br />
 午後10時～午前2時の間に寝ていなかったので、「睡眠と肌」の評価が悪いになりました。<br />
 このような睡眠ログを取る機能以外にも睡眠に関するセルフチェックやコラムも掲載されています。<br />
 ▼睡眠セルフチェック<br />
-<a href="http://kotalab.com/wp-content/uploads/sleeplog_120813_06.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/sleeplog_120813_06.png" alt="" title="sleeplog_120813_06" width="300" height="450" class="alignnone size-full wp-image-2080" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/sleeplog_120813_06.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120813_06.png" alt="" title="sleeplog_120813_06" width="300" height="450" class="alignnone size-full wp-image-2080" /></a><br />
 ▼睡眠コラム<br />
-<a href="http://kotalab.com/wp-content/uploads/sleeplog_120813_07.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/sleeplog_120813_07.png" alt="" title="sleeplog_120813_07" width="300" height="450" class="alignnone size-full wp-image-2078" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/sleeplog_120813_07.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeplog_120813_07.png" alt="" title="sleeplog_120813_07" width="300" height="450" class="alignnone size-full wp-image-2078" /></a><br />
 Youtubeにはアプリの解説動画もアップされています。<br />
 参考：<a href="http://www.youtube.com/watch?v=gXKOwDj2cz4&feature=youtu.be" target="_blank">iPhoneアプリ「快眠リズム」紹介 - YouTube</a></p>
 <h2>まとめ</h2>
@@ -61,5 +61,5 @@ Youtubeにはアプリの解説動画もアップされています。<br />
 </div>
 <h2>関連記事</h2>
 <p>こちらの記事もいかがですか？<br />
-<a href="http://kotalab.com/sleeptime-free-download" target="_blank"><img src="http://capture.heartrails.com/150x130?http://kotalab.com/archives/2224" alt="http://kotalab.com/archives/2224" width="150" height="130" align="left" /></a><a href="http://kotalab.com/sleeptime-free-download" target="_blank">なんと睡眠ログアプリ「SleepTime」が期間限定で無料！ダウンロードするなら今しかない！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/app-sleeptime" target="_blank"><img src="http://capture.heartrails.com/150x130?http://kotalab.com/archives/2280" alt="http://kotalab.com/archives/2280" width="150" height="130" align="left" /></a><a href="http://kotalab.com/app-sleeptime" target="_blank">睡眠ログアプリ「SleepTime」と「快眠リズム」を比較！2つのアプリを比べて感じたこと | kotala's note</a><br style="clear:both;" /></p>
+<a href="https://kotalab.com/sleeptime-free-download" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/2224" alt="https://kotalab.com/archives/2224" width="150" height="130" align="left" /></a><a href="https://kotalab.com/sleeptime-free-download" target="_blank">なんと睡眠ログアプリ「SleepTime」が期間限定で無料！ダウンロードするなら今しかない！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/app-sleeptime" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/archives/2280" alt="https://kotalab.com/archives/2280" width="150" height="130" align="left" /></a><a href="https://kotalab.com/app-sleeptime" target="_blank">睡眠ログアプリ「SleepTime」と「快眠リズム」を比較！2つのアプリを比べて感じたこと | kotala's note</a><br style="clear:both;" /></p>

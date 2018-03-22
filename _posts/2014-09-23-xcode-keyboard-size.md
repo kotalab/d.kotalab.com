@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13514
-wordpress_url: http://kotalab.com/?p=13514
+wordpress_url: https://kotalab.com/?p=13514
 date: '2014-09-23 16:36:13 +0900'
 date_gmt: '2014-09-23 07:36:13 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 解像度最適化
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_04.png" alt="xcode-keyboard-size20140923_04" width="600" height="533" class="aligncenter size-full wp-image-13518" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_04.png" alt="xcode-keyboard-size20140923_04" width="600" height="533" class="aligncenter size-full wp-image-13518" /><br />
 ようやくiPhone 6Plusを買ってきました！<br />
 iPhone 6Plusで真っ先に気になったのが自分のアプリのことだったりするんですが、大きい画面になったのに表示がそのまま拡大されてるだけで活かしきれてないなーと。</p>
 <p>アプリによってはただ大きくなっただけじゃなくて、iPhone 6Plusにしっかり最適化されてたりするんですよね。<br />
@@ -31,14 +31,14 @@ iPhone 6Plusで真っ先に気になったのが自分のアプリのことだ�
 <!--more--></p>
 <h2>iPhone 6Plusで気になったところ</h2>
 <p>僕が作ってるアプリ（Appleで審査中）WebNoteのスクリーンショットがこちら<br />
-<img src="http://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_01-300x533.png" alt="xcode-keyboard-size20140923_01" width="300" height="533" class="aligncenter size-medium wp-image-13515" /><br />
+<img src="https://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_01-300x533.png" alt="xcode-keyboard-size20140923_01" width="300" height="533" class="aligncenter size-medium wp-image-13515" /><br />
 Xcode5のときから作り始めてXcode6ではビルドしただけの状態です。<br />
 iPhone 5SでもiPhone 6Plusでも上と同じ見た目の状態です。</p>
 <p>他のアプリ（公式アプリ）はどんな感じかというとこんな感じ。<br />
-<img src="http://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_02-300x533.png" alt="xcode-keyboard-size20140923_02" width="300" height="533" class="aligncenter size-medium wp-image-13517" /></p>
+<img src="https://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_02-300x533.png" alt="xcode-keyboard-size20140923_02" width="300" height="533" class="aligncenter size-medium wp-image-13517" /></p>
 <p>キーボードをよーく見てみると分かると思うんですが、表示されてる大きさが若干違います。</p>
 <p>横に並べてみるとこんな感じ。<br />
-<img src="http://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_03.png" alt="xcode-keyboard-size20140923_03" width="600" height="533" class="aligncenter size-full wp-image-13519" /><br />
+<img src="https://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_03.png" alt="xcode-keyboard-size20140923_03" width="600" height="533" class="aligncenter size-full wp-image-13519" /><br />
 上のスクリーンショットは表示されてるアプリが違うだけで、左と右は同じiPhone 6Plusで撮影したものです。</p>
 <p>一番分かりやすいのがキーボードの高さ。<br />
 あとは一番上に時間とかが表示されているステータスバーとかも高さが違っていました。</p>
@@ -46,15 +46,15 @@ iPhone 5SでもiPhone 6Plusでも上と同じ見た目の状態です。</p>
 <p>うーん対応は難しいのかなーと思ったりもしたんですが、実にすごく簡単な方法で直すことができました！</p>
 <h2>iPhone 6Plusの解像度に最適化させる方法</h2>
 <p>結論から書くとこんな風にiPhone 6Plusに対応した表示サイズに変更できました！<br />
-<img src="http://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_04.png" alt="xcode-keyboard-size20140923_04" width="600" height="533" class="aligncenter size-full wp-image-13518" /><br />
+<img src="https://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_04.png" alt="xcode-keyboard-size20140923_04" width="600" height="533" class="aligncenter size-full wp-image-13518" /><br />
 ちなみに直すのにかかった時間は2時間以下。<br />
 Xcodeの中の設定を弄って色々試すのに1時間以上、それでもわからなくてqiitaで探すこと10分、実際にXcodeで直した時間は数分でした。</p>
 <p>どうやって直すのかというと、<span class="b">LaunchScreenを追加するだけ！</span><br />
 すごく簡単です。</p>
 <p>XcodeのメニューでFile&rarr;Newと進んでUse InterfaceのLaunchScreenを追加します。<br />
-<img src="http://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_05.png" alt="xcode-keyboard-size20140923_05" width="729" height="427" class="aligncenter size-full wp-image-13526" /></p>
+<img src="https://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_05.png" alt="xcode-keyboard-size20140923_05" width="729" height="427" class="aligncenter size-full wp-image-13526" /></p>
 <p>追加したらinfo.plistにLaunchScreenを設定してあげておしまい。<br />
-<img src="http://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_06.png" alt="xcode-keyboard-size20140923_06" width="806" height="26" class="aligncenter size-full wp-image-13527" /></p>
+<img src="https://kotalab.com/wp-content/uploads/xcode-keyboard-size20140923_06.png" alt="xcode-keyboard-size20140923_06" width="806" height="26" class="aligncenter size-full wp-image-13527" /></p>
 <p>これだけでiPhone 6Plusでちゃんと表示されるようになりました。</p>
 <p>参考：<a href="http://qiita.com/koogawa/items/ad1f998ebb68827009a6" target="_blank">iOS - 既存アプリをiPhone 6 Plusの解像度に最適化する - Qiita</a><a href="http://b.hatena.ne.jp/entry/http://qiita.com/koogawa/items/ad1f998ebb68827009a6" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://qiita.com/koogawa/items/ad1f998ebb68827009a6" alt="" /></a></p>
 <h3>さすがXcode</h3>

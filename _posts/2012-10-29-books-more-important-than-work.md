@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3782
-wordpress_url: http://kotalab.com/?p=3782
+wordpress_url: https://kotalab.com/?p=3782
 date: '2012-10-29 18:28:13 +0900'
 date_gmt: '2012-10-29 09:28:13 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 書評
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/shigotoyoritaisetu_121029.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/shigotoyoritaisetu_121029.jpg" alt="" title="shigotoyoritaisetu_121029" width="448" height="336" class="alignnone size-full wp-image-3792" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/shigotoyoritaisetu_121029.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/shigotoyoritaisetu_121029.jpg" alt="" title="shigotoyoritaisetu_121029" width="448" height="336" class="alignnone size-full wp-image-3792" /></a><br />
 読書の秋です。@kotala_bです。<br />
 吉越浩一郎さんの著書「<a href="http://www.amazon.co.jp/exec/obidos/asin/4833420155/same-22/" rel="nofollow" name="booklink" target="_blank">ほんとうは仕事よりも大切なこと</a>」を読みました。<br />
 とても読みやすくあっという間に読み終えてしまいました。<br />
@@ -52,7 +52,7 @@ comments: []
 「仕事が生きがい」という言葉を聞きますが、人生の半分しかその期間は無いわけです。<br />
 「仕事が生きがい」なんていわずに、<strong>家族のために家族と一緒にいる時間を増やして生きたい</strong>です。</p>
 <h2>2.結婚とは、ふたりで同じ方向を見つめて歩んでいくこと</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/shigotoyoritaisetu_121029_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/shigotoyoritaisetu_121029_01.jpg" alt="" title="shigotoyoritaisetu_121029_01" width="448" height="298" class="alignnone size-full wp-image-3793" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/shigotoyoritaisetu_121029_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/shigotoyoritaisetu_121029_01.jpg" alt="" title="shigotoyoritaisetu_121029_01" width="448" height="298" class="alignnone size-full wp-image-3793" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/prosto/2682189669/" target="_blank">Looking in one direction</a> / prosto photos</span><br />
 星の王子様で有名なサンテグジュペリの言葉に「<strong>愛するということは、互いを見つめ合うことではなく、共に同じ方向を見つめるということだ</strong>」というものがあります。<br />
 互いに見つめ合うことが恋愛で、同じ方向を見つめ歩んでいくことが結婚ということです。<br />

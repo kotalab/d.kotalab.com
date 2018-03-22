@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6877
-wordpress_url: http://kotalab.com/?p=6877
+wordpress_url: https://kotalab.com/?p=6877
 date: '2013-04-20 11:55:49 +0900'
 date_gmt: '2013-04-20 02:55:49 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - MergeEver
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/evernotesale_130420-448x266.jpg" alt="evernotesale_130420" width="448" height="266" class="alignnone size-large wp-image-6878" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/evernotesale_130420-448x266.jpg" alt="evernotesale_130420" width="448" height="266" class="alignnone size-large wp-image-6878" /><br />
 Evernote大好きです。@kotala_bです。<br />
 Evernoteをより便利にするアプリ、FasteverシリーズとMoveEverシリーズが今だけのセール価格85円になっています！<br />
 ▼Fasteverシリーズ開発者の@frnkさん<br />
@@ -146,6 +146,6 @@ iPhoneの公式アプリが重くて使いづらいときは、動作の軽いSm
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/evernote-2tap" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note" width="150" /></a><a href="http://kotalab.com/evernote-2tap" target="_blank">Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/evernote-task-management" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="Evernoteでタスク管理をする人必見！指定した時間にEvernoteの特定のノートを開く方法！ | kotala's note" width="150" /></a><a href="http://kotalab.com/evernote-task-management" target="_blank">Evernoteでタスク管理をする人必見！指定した時間にEvernoteの特定のノートを開く方法！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/my-kami-app" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/kamiapp_121203-448x319.jpg" alt="なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note" width="150" /></a><a href="http://kotalab.com/my-kami-app" target="_blank">なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/evernote-2tap" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/evernote-2tap" target="_blank">Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/evernote-task-management" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="Evernoteでタスク管理をする人必見！指定した時間にEvernoteの特定のノートを開く方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/evernote-task-management" target="_blank">Evernoteでタスク管理をする人必見！指定した時間にEvernoteの特定のノートを開く方法！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/my-kami-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kamiapp_121203-448x319.jpg" alt="なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note" width="150" /></a><a href="https://kotalab.com/my-kami-app" target="_blank">なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note</a><br style="clear:both;" /></p>

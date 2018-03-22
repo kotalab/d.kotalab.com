@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13903
-wordpress_url: http://kotalab.com/?p=13903
+wordpress_url: https://kotalab.com/?p=13903
 date: '2015-01-28 07:00:17 +0900'
 date_gmt: '2015-01-27 22:00:17 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - コミュニケーション
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/books-killerquestion_20150128-780x438.jpg" alt="books-killerquestion_20150128" width="780" height="438" class="aligncenter size-large wp-image-13906" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/books-killerquestion_20150128-780x438.jpg" alt="books-killerquestion_20150128" width="780" height="438" class="aligncenter size-large wp-image-13906" /><br />
 初恋の人と初めて話した時のことを覚えていますか？<br />
 僕は何を話したかまでは定かではありませんが、とにかくドキドキしたことを憶えています。</p>
 <p>「何を話せばいいんだろう」「会話に間ができたらどうしよう」という不安感があったのだと思います。</p>

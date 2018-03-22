@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10804
-wordpress_url: http://kotalab.com/?p=10804
+wordpress_url: https://kotalab.com/?p=10804
 date: '2014-02-10 06:26:21 +0900'
 date_gmt: '2014-02-09 21:26:21 +0900'
 category:
@@ -35,8 +35,8 @@ comments: []
 国民年金は老後だけじゃなく、死亡保障や障害者保障がセットになった保障制度なのです。<br />
 もし「民間の生命保険にはお金を払ってるけど年金は払ってない」という人がいたら、「損をしてますよ」と教えて上げてください。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/money-nenkin" target="_blank"><img src="http://kotalab.com/wp-content/uploads/money-nenkin_140208-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/money-nenkin" target="_blank">知らないと損するお金のこと「国民年金」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/money-nenkin"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/money-nenkin" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/money-nenkin" target="_blank"><img src="https://kotalab.com/wp-content/uploads/money-nenkin_140208-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/money-nenkin" target="_blank">知らないと損するお金のこと「国民年金」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/money-nenkin"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/money-nenkin" alt="" /></span></div>
 </div>
 <div class="clear"></div>
 <h2>健康保険</h2>
@@ -48,8 +48,8 @@ comments: []
 <blockquote><p>我が国では、たとえ1ヶ月1千万円の医療を受けた場合でも、窓口負担は4万円強。<br />
 via:<a href="http://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/info02d-23.html" target="_blank">&ldquo;高齢者医療制度&rdquo;についてご説明します。（我が国の国民皆保険制度）｜厚生労働省</a><a href="http://b.hatena.ne.jp/entry/http://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/info02d-23.html" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.mhlw.go.jp/bunya/shakaihosho/iryouseido01/info02d-23.html" alt="" /></a></p></blockquote>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/money-kougakuryoyohi" target="_blank"><img src="http://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/money-kougakuryoyohi"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/money-kougakuryoyohi" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank"><img src="https://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/money-kougakuryoyohi"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/money-kougakuryoyohi" alt="" /></span></div>
 </div>
 <div class="clear"></div>
 <h2>民間の保険は社会保障を理解した上で入る</h2>

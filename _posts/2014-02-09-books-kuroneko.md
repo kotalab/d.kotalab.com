@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10796
-wordpress_url: http://kotalab.com/?p=10796
+wordpress_url: https://kotalab.com/?p=10796
 date: '2014-02-09 15:30:56 +0900'
 date_gmt: '2014-02-09 06:30:56 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 金光サリィ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="books_kuroneko_140209" width="546" height="361" class="alignnone size-large wp-image-10797" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="books_kuroneko_140209" width="546" height="361" class="alignnone size-large wp-image-10797" /><br />
 僕たちは毎日、何人もの人と接している。<br />
 そうすると無意識で人の目を気にしてしまい、自分でも気づかないうちにそれがストレスとなっている。<br />
 今回読んだ、金光サリィさんの本「<a href="http://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank">人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと</a>」はそんな僕たちのストレスを減らしてくれる、「黒猫思考」という考え方を教えてくれる素晴らしい本だ。<br />
@@ -67,12 +67,12 @@ comments: []
 人生をもっとラクに生きたい、ストレスフリーに生きたい人にオススメの1冊です！</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/books-cloud-task" target="_blank"><img src="http://kotalab.com/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/books-cloud-task" target="_blank">頭の中でタスク管理しないストレスフリーなタスク管理術 &ndash; クラウド時代のタスク管理の技術　佐々木正悟著</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/books-cloud-task" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/books-cloud-task" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/books-cloud-task" target="_blank"><img src="https://kotalab.com/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/books-cloud-task" target="_blank">頭の中でタスク管理しないストレスフリーなタスク管理術 &ndash; クラウド時代のタスク管理の技術　佐々木正悟著</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/books-cloud-task" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/books-cloud-task" alt="" /></a></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/books-thinking" target="_blank"><img src="http://kotalab.com/wp-content/uploads/yuruku_121129-448x336.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/books-thinking"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/books-thinking" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/books-thinking" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yuruku_121129-448x336.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/books-thinking"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/books-thinking" alt="" /></span></div>
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">

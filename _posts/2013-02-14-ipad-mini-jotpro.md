@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6150
-wordpress_url: http://kotalab.com/?p=6150
+wordpress_url: https://kotalab.com/?p=6150
 date: '2013-02-14 04:18:00 +0900'
 date_gmt: '2013-02-13 19:18:00 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - メモ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/jotpro_130214-448x336.jpg" alt="jotpro_130214" width="448" height="336" class="alignnone size-large wp-image-6152" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/jotpro_130214-448x336.jpg" alt="jotpro_130214" width="448" height="336" class="alignnone size-large wp-image-6152" /><br />
 スタライスペンを初めて購入しました。@kotala_bです。<br />
 選んだのはJotProというモデル！</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
@@ -41,11 +41,11 @@ comments: []
 <p><!--more--></p>
 <h2>JotProは書き心地がいい！</h2>
 <p>スタライスペンを購入するにあたりいくつか実際に触ってみました。<br />
-<img src="http://kotalab.com/wp-content/uploads/jotpro_130214_01-448x336.jpg" alt="jotpro_130214_01" width="448" height="336" class="alignnone size-large wp-image-6151" /><br />
+<img src="https://kotalab.com/wp-content/uploads/jotpro_130214_01-448x336.jpg" alt="jotpro_130214_01" width="448" height="336" class="alignnone size-large wp-image-6151" /><br />
 他のスタライスペンとの違いは先端部分です。<br />
-<img src="http://kotalab.com/wp-content/uploads/jotpro_130214_02-448x336.jpg" alt="jotpro_130214_02" width="448" height="336" class="alignnone size-large wp-image-6154" /><br />
+<img src="https://kotalab.com/wp-content/uploads/jotpro_130214_02-448x336.jpg" alt="jotpro_130214_02" width="448" height="336" class="alignnone size-large wp-image-6154" /><br />
 JtoProは先端に透明のディスクがついていて、何を書いているかがわかりやすく、先端がゴムではないのでスラスラ書けました！<br />
-<img src="http://kotalab.com/wp-content/uploads/jotpro_130214_03-448x336.jpg" alt="jotpro_130214_03" width="448" height="336" class="alignnone size-large wp-image-6155" /></p>
+<img src="https://kotalab.com/wp-content/uploads/jotpro_130214_03-448x336.jpg" alt="jotpro_130214_03" width="448" height="336" class="alignnone size-large wp-image-6155" /></p>
 <h2>最後に</h2>
 <p>ZenBrushやPenultimateといった手書きアプリを使ってみるとスタライスペンが欲しくなり今回購入することにしました。<br />
 これからは手書きのちょっとしたメモはiPadminiで買いていこうと思います！</p>
@@ -83,7 +83,7 @@ JtoProは先端に透明のディスクがついていて、何を書いてい�
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/penultimate" target="_blank">Evernoteと連携するiPad用の無料の手書きメモアプリ | kotala's note</a><br />
-<a href="http://kotalab.com/ipad-mini-kakizome" target="_blank">墨汁や半紙がなくてもiPad miniがあれば手軽に書き初めが出来る！今年の抱負を書き初めしてみた！ | kotala's note</a><br />
-<a href="http://kotalab.com/ipad-mini-stand" target="_blank">iPadmini用にスタンドを購入！Amazonで75％オフと超お買い得！ | kotala's note</a><br />
-<a href="http://kotalab.com/ipad-mini-keybord-bt" target="_blank">iPadmini用のBluetoothキーボードを購入！ | kotala's note</a></p>
+<p><a href="https://kotalab.com/penultimate" target="_blank">Evernoteと連携するiPad用の無料の手書きメモアプリ | kotala's note</a><br />
+<a href="https://kotalab.com/ipad-mini-kakizome" target="_blank">墨汁や半紙がなくてもiPad miniがあれば手軽に書き初めが出来る！今年の抱負を書き初めしてみた！ | kotala's note</a><br />
+<a href="https://kotalab.com/ipad-mini-stand" target="_blank">iPadmini用にスタンドを購入！Amazonで75％オフと超お買い得！ | kotala's note</a><br />
+<a href="https://kotalab.com/ipad-mini-keybord-bt" target="_blank">iPadmini用のBluetoothキーボードを購入！ | kotala's note</a></p>

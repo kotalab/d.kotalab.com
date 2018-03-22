@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3412
-wordpress_url: http://kotalab.com/?p=3412
+wordpress_url: https://kotalab.com/?p=3412
 date: '2012-10-14 11:56:43 +0900'
 date_gmt: '2012-10-14 02:56:43 +0900'
 category:
@@ -21,10 +21,10 @@ tags:
 - cheero
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" alt="" title="cheero_121014_01" width="448" height="336" class="alignnone size-full wp-image-3421" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" alt="" title="cheero_121014_01" width="448" height="336" class="alignnone size-full wp-image-3421" /></a><br />
 モバイルバッテリーを買いました。@kotala_bです。<br />
 今までは<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00421BB92/same-22/ref=nosim/" rel="nofollow" target="_blank">電池を入れるタイプのeneloop</a>を使用していました。<br />
-iPhone1台持ってる分にはこれひとつで1日くらいは大丈夫だったんですが、<a href="http://kotalab.com/gl04p-battery" title="EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！" target="_blank">Pocketwifiを買ってから</a>はeneloopひとつでは2台を丸1日持たせるには心もとないので新しくモバイルバッテリーを購入することにしました。<br />
+iPhone1台持ってる分にはこれひとつで1日くらいは大丈夫だったんですが、<a href="https://kotalab.com/gl04p-battery" title="EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！" target="_blank">Pocketwifiを買ってから</a>はeneloopひとつでは2台を丸1日持たせるには心もとないので新しくモバイルバッテリーを購入することにしました。<br />
 買ったのは大容量なのに安い！Amazonのベストセラー商品にもなっている<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0081LRCJW/same-22/ref=nosim/" rel="nofollow" target="_blank">cheeroPowerPlus10000mAh</a>です！<br />
 これなら2台同時充電も出来るということでiPhone5とPocketWifiが同時に充電出来て安心！<br />
 ちなみにこの10000mAhという容量はiPhone5のフル充電が5回出来るくらいの容量です！<br />
@@ -60,20 +60,20 @@ amazonで頼んで翌日に届きました！<br />
 <p><!--more--></p>
 <h2>開封！</h2>
 <p>おなじみのAmazonの段ボールで届きました！<br />
-<a href="http://kotalab.com/wp-content/uploads/cheero_121014_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_02.jpg" alt="" title="cheero_121014_02" width="448" height="336" class="alignnone size-full wp-image-3420" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/cheero_121014_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_02.jpg" alt="" title="cheero_121014_02" width="448" height="336" class="alignnone size-full wp-image-3420" /></a><br />
 大容量の証！100000mAhの文字が！<br />
-<a href="http://kotalab.com/wp-content/uploads/cheero_121014_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_03.jpg" alt="" title="cheero_121014_03" width="448" height="336" class="alignnone size-full wp-image-3419" /></a><br />
-<a href="http://kotalab.com/wp-content/uploads/cheero_121014_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_04.jpg" alt="" title="cheero_121014_04" width="448" height="336" class="alignnone size-full wp-image-3418" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/cheero_121014_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_03.jpg" alt="" title="cheero_121014_03" width="448" height="336" class="alignnone size-full wp-image-3419" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/cheero_121014_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_04.jpg" alt="" title="cheero_121014_04" width="448" height="336" class="alignnone size-full wp-image-3418" /></a><br />
 箱を開けるとケーブル類と<br />
-<a href="http://kotalab.com/wp-content/uploads/cheero_121014_05.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_05.jpg" alt="" title="cheero_121014_05" width="448" height="336" class="alignnone size-full wp-image-3417" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/cheero_121014_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_05.jpg" alt="" title="cheero_121014_05" width="448" height="336" class="alignnone size-full wp-image-3417" /></a><br />
 専用のポーチが入っています<br />
-<a href="http://kotalab.com/wp-content/uploads/cheero_121014_06.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_06.jpg" alt="" title="cheero_121014_06" width="448" height="336" class="alignnone size-full wp-image-3416" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/cheero_121014_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_06.jpg" alt="" title="cheero_121014_06" width="448" height="336" class="alignnone size-full wp-image-3416" /></a><br />
 ケーブルは様々な機種に対応出来るようコネクタが6種類も入っています！多い！<br />
-<a href="http://kotalab.com/wp-content/uploads/cheero_121014_07.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_07.jpg" alt="" title="cheero_121014_07" width="448" height="336" class="alignnone size-full wp-image-3415" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/cheero_121014_07.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_07.jpg" alt="" title="cheero_121014_07" width="448" height="336" class="alignnone size-full wp-image-3415" /></a><br />
 iPhone5専用のLightningケーブルは付属していないので自分で用意します！<br />
-僕は<a href="http://kotalab.com/sanpo-yurakucho-shinbashi" title="有楽町から新橋までを散歩！銀座では買い物をしました！" target="_blank">先日銀座に行った時</a>にアップルストアで購入しました！<br />
+僕は<a href="https://kotalab.com/sanpo-yurakucho-shinbashi" title="有楽町から新橋までを散歩！銀座では買い物をしました！" target="_blank">先日銀座に行った時</a>にアップルストアで購入しました！<br />
 正面についたランプの横のボタンを押すと現在のバッテリー容量が表示されます！<br />
-<a href="http://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" alt="" title="cheero_121014_01" width="448" height="336" class="alignnone size-full wp-image-3421" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" alt="" title="cheero_121014_01" width="448" height="336" class="alignnone size-full wp-image-3421" /></a><br />
 届いたときにはランプ3つ分の充電がされていました！</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B009A3MDWQ/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31mHt-fd7cL._SL160_.jpg" style="border: none;" /></a></div>
@@ -91,10 +91,10 @@ iPhone5専用のLightningケーブルは付属していないので自分で用�
 <h2>比べてみた</h2>
 <p><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0081LRCJW/same-22/ref=nosim/" rel="nofollow" target="_blank">cheeroPowerPlus</a>が実際にどれくらいの大きさなのかPocketWifiと比較してみました！<br />
 正面から<br />
-<a href="http://kotalab.com/wp-content/uploads/cheero_121014_09.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_09.jpg" alt="" title="cheero_121014_09" width="448" height="336" class="alignnone size-full wp-image-3413" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/cheero_121014_09.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_09.jpg" alt="" title="cheero_121014_09" width="448" height="336" class="alignnone size-full wp-image-3413" /></a><br />
 正面からみると<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0081LRCJW/same-22/ref=nosim/" rel="nofollow" target="_blank">cheeroPowerPlus</a>の方が一回り大きいです。<br />
 厚さも比べました<br />
-<a href="http://kotalab.com/wp-content/uploads/cheero_121014_08.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/cheero_121014_08.jpg" alt="" title="cheero_121014_08" width="448" height="336" class="alignnone size-full wp-image-3414" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/cheero_121014_08.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cheero_121014_08.jpg" alt="" title="cheero_121014_08" width="448" height="336" class="alignnone size-full wp-image-3414" /></a><br />
 厚さも<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0081LRCJW/same-22/ref=nosim/" rel="nofollow" target="_blank">cheeroPowerPlus</a>の方が少し厚めです。<br />
 重さも<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0081LRCJW/same-22/ref=nosim/" rel="nofollow" target="_blank">cheeroPowerPlus</a>の方が少し重いです<br />
 カタログスペックはPocketWifiが102&times;66&times;14.5mm、140gというのに対して116&times;74&times;22mm、250gとなっています。<br />

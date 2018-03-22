@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3667
-wordpress_url: http://kotalab.com/?p=3667
+wordpress_url: https://kotalab.com/?p=3667
 date: '2012-10-25 11:23:06 +0900'
 date_gmt: '2012-10-25 02:23:06 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - kindle
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/kindle_121025.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/kindle_121025.jpg" alt="" title="kindle_121025" width="448" height="252" class="alignnone size-full wp-image-3677" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/kindle_121025.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kindle_121025.jpg" alt="" title="kindle_121025" width="448" height="252" class="alignnone size-full wp-image-3677" /></a><br />
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/5145350355.html" target="_blank">Kindle 3</a> / kodomut</span><br />
 電子書籍はiPadminiで読もうと思ってます。@kotala_bです。<br />
 昨日AmazonからKindleの日本発売が発表されました。<br />
@@ -71,21 +71,21 @@ KindleではKindleストアという専用のストアで購入した電子書�
 iPhoneやiPad、Android端末からも利用出来るそうなのでiPadminiがあればKindleは必要ないかなと思っています。<br />
 iPhoneからKindleストアのアプリをダウンロード出来たので早速紹介したいと思います！</p>
 <h2>Kindleストアアプリ</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/kindle_121025_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/kindle_121025_01.jpg" alt="" title="kindle_121025_01" width="300" height="512" class="alignnone size-full wp-image-3669" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/kindle_121025_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kindle_121025_01.jpg" alt="" title="kindle_121025_01" width="300" height="512" class="alignnone size-full wp-image-3669" /></a><br />
 ▼アプリを開くとアカウントとパスワードの入力画面になります。<br />
-<a href="http://kotalab.com/wp-content/uploads/kindle_121025_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/kindle_121025_02.jpg" alt="" title="kindle_121025_02" width="300" height="512" class="alignnone size-full wp-image-3670" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/kindle_121025_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kindle_121025_02.jpg" alt="" title="kindle_121025_02" width="300" height="512" class="alignnone size-full wp-image-3670" /></a><br />
 ここでは普段使っているAmazonのアカウントとパスワードを入力します。<br />
 するとアプリが開きます。<br />
 ▼この段階ではKindleへようこそというファイルしかありません。<br />
-<a href="http://kotalab.com/wp-content/uploads/kindle_121025_05.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/kindle_121025_05.png" alt="" title="kindle_121025_05" width="300" height="532" class="alignnone size-full wp-image-3673" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/kindle_121025_05.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kindle_121025_05.png" alt="" title="kindle_121025_05" width="300" height="532" class="alignnone size-full wp-image-3673" /></a><br />
 KindleではAmazonのクラウドサーバー上にファイルを保存出来て、他の端末に入っている電子書籍の同期が出来るようです。<br />
 KindleFireで読んでいた電子書籍を途中からiPadで読むなんてことも可能です。<br />
 Kindleアプリをダウンロードすると専用のメールアドレスが割り当てられます。<br />
 このメールアドレス宛にPDFファイルを送ることで、KindleアプリからそのPDFが閲覧出来るそうです。<br />
 ▼早速PDFファイルを同期させてみました！<br />
-<a href="http://kotalab.com/wp-content/uploads/kindle_121025_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/kindle_121025_03.jpg" alt="" title="kindle_121025_03" width="300" height="512" class="alignnone size-full wp-image-3671" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/kindle_121025_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kindle_121025_03.jpg" alt="" title="kindle_121025_03" width="300" height="512" class="alignnone size-full wp-image-3671" /></a><br />
 ▼ばっちり見れました！<br />
-<a href="http://kotalab.com/wp-content/uploads/kindle_121025_04.png"><img src="http://kotalab.com/wp-content/uploads/kindle_121025_04.png" alt="" title="kindle_121025_04" width="300" height="532" class="alignnone size-full wp-image-3672" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/kindle_121025_04.png"><img src="https://kotalab.com/wp-content/uploads/kindle_121025_04.png" alt="" title="kindle_121025_04" width="300" height="532" class="alignnone size-full wp-image-3672" /></a><br />
 専用のメールアドレスに送ったファイルはAmazonのクラウドサーバー（容量は5GB）で同期されるので1つのファイルを複数の端末から読むことも出来ます！<br />
 専用のメールアドレスに送る為のメールアドレスは予め自分で認証しているメールアドレスからじゃないと送れないので注意してください。<br />
 この設定はAmazonのホームページからMyKindleというところへ行き設定出来ます。<br />

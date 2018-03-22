@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 12610
-wordpress_url: http://kotalab.com/?p=12610
+wordpress_url: https://kotalab.com/?p=12610
 date: '2014-04-22 07:24:39 +0900'
 date_gmt: '2014-04-21 22:24:39 +0900'
 category:
@@ -22,14 +22,14 @@ tags:
 - 自由大学
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/start-something-new_140422_01.jpg" alt="Start something new 140422 01" title="start-something-new_140422_01.jpg" border="0" width="548" height="365" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/start-something-new_140422_01.jpg" alt="Start something new 140422 01" title="start-something-new_140422_01.jpg" border="0" width="548" height="365" /><br />
 4月20日から<a href="http://freedom-univ.com/" target="_blank">FREEDOM UNIVERSITY 自由大学</a>の「アプリクリエイター道場 開発塾」という講義を受け始めました。</p>
-<p>「<a href="http://kotalab.com/app-creator" target="_blank">iPhoneアプリを作ってみたい！</a>」という気持ちから受講を決めました。<br><br />
+<p>「<a href="https://kotalab.com/app-creator" target="_blank">iPhoneアプリを作ってみたい！</a>」という気持ちから受講を決めました。<br><br />
 すごくやる気はあるし、多少のプログラミングの経験はあります。</p>
 <p>でもそんな気持ちや経験だけじゃどうしても乗り越えられない壁が、講座翌日の朝に待っていました。<br />
 <!--more--></p>
 <h2>毎朝の習慣</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/start-something-new_140422_02.jpg" alt="Start something new 140422 02" title="start-something-new_140422_02.jpg" border="0" width="548" height="365" />僕は毎朝7時ぐらいには会社の最寄り駅に着いています。<br />
+<p><img src="https://kotalab.com/wp-content/uploads/start-something-new_140422_02.jpg" alt="Start something new 140422 02" title="start-something-new_140422_02.jpg" border="0" width="548" height="365" />僕は毎朝7時ぐらいには会社の最寄り駅に着いています。<br />
 始業時間は9時からなので、そんな早く行く必要はありません。</p>
 <p>毎朝、自分のやりたいことをやる為の時間を確保するために早起きして、通勤ラッシュを避けて2時間も前に会社の近くのカフェに行っています。</p>
 <p>今朝もいつもと同じように7時には会社のある最寄り駅にいました。</p>

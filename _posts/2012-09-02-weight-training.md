@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2436
-wordpress_url: http://kotalab.com/?p=2436
+wordpress_url: https://kotalab.com/?p=2436
 date: '2012-09-02 10:59:22 +0900'
 date_gmt: '2012-09-02 01:59:22 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - ダイエット
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/muscle_120902.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/muscle_120902.jpg" alt="" title="muscle_120902" width="448" height="332" class="alignnone size-full wp-image-2441" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/muscle_120902.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/muscle_120902.jpg" alt="" title="muscle_120902" width="448" height="332" class="alignnone size-full wp-image-2441" /></a><br />
 <span style="font-size:10px;">Bathtime Muscles...</a> / mollypop</span><br />
 筋肉痛が2日間続いてました。@kotala_bです。<br />
 3日間に分けて腹筋・背筋、腕立て・スクワット、腕と交互に筋トレをやってます。<br />

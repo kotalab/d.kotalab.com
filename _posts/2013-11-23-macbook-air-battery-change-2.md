@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10212
-wordpress_url: http://kotalab.com/?p=10212
+wordpress_url: https://kotalab.com/?p=10212
 date: '2013-11-23 06:16:39 +0900'
 date_gmt: '2013-11-22 21:16:39 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="ipadmini_121027" width="548" height="411" class="alignnone size-full wp-image-3744" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="ipadmini_121027" width="548" height="411" class="alignnone size-full wp-image-3744" /><br />
 初めてジーニアスバーで見てもらいました。こたら（@kotala_b）です。<br />
 朝一でMacBook Airのバッテリーの調子が悪いことに気づき、その日のうちにジーニアスバーの予約を取って見てもらってきました。<br />
 僕が行ったのは渋谷のアップルストア。銀座は当日の予約が取れませんでしたが渋谷ではまだ当日分の空きがありました。<br />
@@ -37,7 +37,7 @@ comments: []
 それから呼ばれるまでに20分以上かかりました。<br />
 混雑状況によって予約してても時間通りに呼ばれるとは限らないみたい。ジーニアスバーの直後に予定を入れたりしないで、時間に余裕を持っておきましょう！</p>
 <h2>MacBook Airのバッテリーを見てもらった</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/macbookairbatterychange_131119_02.jpg" alt="macbookairbatterychange_131119_02" width="306" height="188" class="alignnone size-full wp-image-10206" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/macbookairbatterychange_131119_02.jpg" alt="macbookairbatterychange_131119_02" width="306" height="188" class="alignnone size-full wp-image-10206" /><br />
 呼ばれてからはスムーズで、10分くらいで終わりました。<br />
 バッテリーの交換修理という表示について説明を聞いてみました。アップルストアのお兄さんの話では、</p>
 <blockquote><p>何か故障しているというわけじゃない<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1039
-wordpress_url: http://kotalab.com/?p=1039
+wordpress_url: https://kotalab.com/?p=1039
 date: '2012-06-27 04:05:23 +0900'
 date_gmt: '2012-06-26 19:05:23 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - docomo
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/docomo_120627.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/docomo_120627.jpg" alt="DSC_2073" title="docomo_120627" width="448" height="298" class="alignnone size-full wp-image-1041" /></a><span style="font-size:10px;"><br /><a href="http://www.flickr.com/photos/shibuya246/3709164523/" target="_blank">DSC_2073</a> / shibuya246</span><br />
+<p><a href="https://kotalab.com/wp-content/uploads/docomo_120627.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/docomo_120627.jpg" alt="DSC_2073" title="docomo_120627" width="448" height="298" class="alignnone size-full wp-image-1041" /></a><span style="font-size:10px;"><br /><a href="http://www.flickr.com/photos/shibuya246/3709164523/" target="_blank">DSC_2073</a> / shibuya246</span><br />
 ドコモを使って10年3ヶ月になります。@kotala_bです。<br />
 ドコモでiPhoneが出てくれればと願っていますがなかなか難しいようです。<br />
 <!--more--></p>

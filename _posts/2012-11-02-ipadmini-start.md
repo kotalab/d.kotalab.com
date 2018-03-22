@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3896
-wordpress_url: http://kotalab.com/?p=3896
+wordpress_url: https://kotalab.com/?p=3896
 date: '2012-11-02 10:44:57 +0900'
 date_gmt: '2012-11-02 01:44:57 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - iPadmini
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="" title="ipadmini_121027" width="448" height="336" class="alignnone size-full wp-image-3744" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="" title="ipadmini_121027" width="448" height="336" class="alignnone size-full wp-image-3744" /></a><br />
 iPadminiが気になって仕方がありません。@kotala_bです。<br />
 ついに今日iPadminiが発売になりました！<br />
 <!--more--></p>

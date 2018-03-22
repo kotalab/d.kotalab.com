@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 9551
-wordpress_url: http://kotalab.com/?p=9551
+wordpress_url: https://kotalab.com/?p=9551
 date: '2013-09-20 10:31:58 +0900'
 date_gmt: '2013-09-20 01:31:58 +0900'
 category:
@@ -24,40 +24,40 @@ tags:
 - iPhone 5s
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_01-546x409.jpg" alt="iphone5scompareiphone5_130920_01" width="546" height="409" class="alignnone size-large wp-image-9560" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_01-546x409.jpg" alt="iphone5scompareiphone5_130920_01" width="546" height="409" class="alignnone size-large wp-image-9560" /><br />
 発売初日にiPhone 5s購入できました！こたら（@kotala_b）です。<br />
 銀座のアップルストアではスゴい行列が報道されていますが、僕は家から徒歩10分くらいのところにあるauショップでこそこそ？と買ってきました！<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_02-546x546.jpg" alt="iphone5scompareiphone5_130920_02" width="546" height="546" class="alignnone size-large wp-image-9556" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_02-546x546.jpg" alt="iphone5scompareiphone5_130920_02" width="546" height="546" class="alignnone size-large wp-image-9556" /><br />
 午前4時に到着した時にはまだ1人も並んでなくて1番をゲット！<br />
 <!--more--></p>
 <h2>iPhone 5sスペースグレイ</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_06-546x409.jpg" alt="iphone5scompareiphone5_130920_06" width="546" height="409" class="alignnone size-large wp-image-9558" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_06-546x409.jpg" alt="iphone5scompareiphone5_130920_06" width="546" height="409" class="alignnone size-large wp-image-9558" /><br />
 僕が買ったのはスペースグレイの64GB！<br />
 スペースグレイ以外は品薄のようで、僕が行ったauショップでもスペースグレイのみ販売で他の色は今日から予約というカタチになっていました。<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_03-546x546.jpg" alt="iphone5scompareiphone5_130920_03" width="546" height="546" class="alignnone size-large wp-image-9562" /><br />
-<img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_05-546x409.jpg" alt="iphone5scompareiphone5_130920_05" width="546" height="409" class="alignnone size-large wp-image-9557" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_03-546x546.jpg" alt="iphone5scompareiphone5_130920_03" width="546" height="546" class="alignnone size-large wp-image-9562" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_05-546x409.jpg" alt="iphone5scompareiphone5_130920_05" width="546" height="409" class="alignnone size-large wp-image-9557" /><br />
 1番乗りだったので待たされることなくすぐに契約できました！<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_04-546x409.jpg" alt="iphone5scompareiphone5_130920_04" width="546" height="409" class="alignnone size-large wp-image-9561" /></p>
+<img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_04-546x409.jpg" alt="iphone5scompareiphone5_130920_04" width="546" height="409" class="alignnone size-large wp-image-9561" /></p>
 <h2>iPhone 5sとiPhone5比較！</h2>
 <p>家に帰ってきて早速データ移行！<br />
 移行中にiPhone 5と並べて比較してみました！<br />
 iPhone 5sはデータ移行中につきLightningケーブルが繋がったままとなっております。<br />
 ▼正面<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_07-546x361.jpg" alt="iphone5scompareiphone5_130920_07" width="546" height="361" class="alignnone size-large wp-image-9559" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_07-546x361.jpg" alt="iphone5scompareiphone5_130920_07" width="546" height="361" class="alignnone size-large wp-image-9559" /><br />
 ホームボタンの違いが一目瞭然。<br />
 iPhone 5sから指紋認証が追加され、今まで中央がへこんでいたホームボタンも平らになってます。<br />
 ▼背面<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_08-546x361.jpg" alt="iphone5scompareiphone5_130920_08" width="546" height="361" class="alignnone size-large wp-image-9552" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_08-546x361.jpg" alt="iphone5scompareiphone5_130920_08" width="546" height="361" class="alignnone size-large wp-image-9552" /><br />
 iPhone 5sのスペースグレイとiPhone 5のブラックでは思ってたよりも結構違う。<br />
 ブラックも気に入ってましたがこのスペースグレイもなかなかいい感じ！<br />
 ▼カメラ部分<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_09-546x361.jpg" alt="iphone5scompareiphone5_130920_09" width="546" height="361" class="alignnone size-large wp-image-9553" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_09-546x361.jpg" alt="iphone5scompareiphone5_130920_09" width="546" height="361" class="alignnone size-large wp-image-9553" /><br />
 フラッシュが2つになり、見た目でもわかる変化があります。<br />
 ▼側面<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_10-546x361.jpg" alt="iphone5scompareiphone5_130920_10" width="546" height="361" class="alignnone size-large wp-image-9555" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_10-546x361.jpg" alt="iphone5scompareiphone5_130920_10" width="546" height="361" class="alignnone size-large wp-image-9555" /><br />
 側面もスペースグレイ！<br />
 ▼底面<br />
-<img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_11-546x361.jpg" alt="iphone5scompareiphone5_130920_11" width="546" height="361" class="alignnone size-large wp-image-9554" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_11-546x361.jpg" alt="iphone5scompareiphone5_130920_11" width="546" height="361" class="alignnone size-large wp-image-9554" /><br />
 イヤホンジャックやスピーカーに変わりはなし。</p>
 <h3>キャリアショップであっさり買えた！</h3>
 <p>アップルストアや大手家電量販店では100人を超える列ができていたいいます。<br />

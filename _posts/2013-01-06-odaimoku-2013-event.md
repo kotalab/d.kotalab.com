@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5543
-wordpress_url: http://kotalab.com/?p=5543
+wordpress_url: https://kotalab.com/?p=5543
 date: '2013-01-06 12:45:33 +0900'
 date_gmt: '2013-01-06 03:45:33 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - WBC
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130106124750.png" width="448" height="336" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130106124750.png" width="448" height="336" /><br />
 お題目は2013年で注目してるイベントです。@kotala_bです。<br />
 奥野さん(@odaiji)さんが新しくブログを作りました。<br />
 その名もodaimoku.com<br />

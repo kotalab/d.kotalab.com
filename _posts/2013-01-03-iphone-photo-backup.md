@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5197
-wordpress_url: http://kotalab.com/?p=5197
+wordpress_url: https://kotalab.com/?p=5197
 date: '2013-01-03 16:07:35 +0900'
 date_gmt: '2013-01-03 07:07:35 +0900'
 category:
@@ -26,7 +26,7 @@ tags:
 - カメラロール
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/photomanage130103.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/photomanage130103-448x322.png" alt="photomanage130103" width="448" height="322" class="alignnone size-large wp-image-5342" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/photomanage130103.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/photomanage130103-448x322.png" alt="photomanage130103" width="448" height="322" class="alignnone size-large wp-image-5342" /></a><br />
 iPhoneのカメラロールは定期的に整理しています。@kotala_bです。<br />
 毎日10枚から20枚多いときでは50枚くらいの写真やスクリーンショットを撮っています。<br />
 1ヶ月では600枚近くの写真がカメラロールに保存されます。<br />
@@ -69,7 +69,7 @@ iPhoneのカメラロールは定期的に整理しています。@kotala_bで�
 毎朝、前日の日付けフォルダを作りそこへ前日の写真を保存します。<br />
 この作業だけなら毎朝たったの1分で出来るので、どんなに忙しい朝でも続けることが出来ます。<br />
 ▼僕は3ヶ所に3分かけて毎朝バックアップをとっています。<br />
-<a href="http://kotalab.com/iphone-photo-save-3min" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/cameraroll130103-448x305.jpg" alt="忙しい朝でも出来る！たったの3分でiPhoneのカメラロールを複数の場所へ保存する方法！ | kotala's note" width="150" /></a><a href="http://kotalab.com/iphone-photo-save-3min" target="_blank">忙しい朝でも出来る！たったの3分でiPhoneのカメラロールを複数の場所へ保存する方法！ | kotala's note</a><br style="clear:both;" />慣れてくると寝ぼけてても3分で完了します！<br />
+<a href="https://kotalab.com/iphone-photo-save-3min" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/cameraroll130103-448x305.jpg" alt="忙しい朝でも出来る！たったの3分でiPhoneのカメラロールを複数の場所へ保存する方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone-photo-save-3min" target="_blank">忙しい朝でも出来る！たったの3分でiPhoneのカメラロールを複数の場所へ保存する方法！ | kotala's note</a><br style="clear:both;" />慣れてくると寝ぼけてても3分で完了します！<br />
 <strong>フォルダ分けをする為にも、保存は毎日行います。<br />
 複数の場所に保存したとしてもたった数分で出来るので苦になりません。<br />
 このたった数分の時間を毎日かけることが大切なのです！</strong></p>
@@ -81,17 +81,17 @@ iPhoneのカメラロールは定期的に整理しています。@kotala_bで�
 カメラロールの写真は定期的に削除することをオススメします。</p>
 <h2>iPhoneのカメラロールの写真を一気に削除する方法</h2>
 <p>▼iPhone単体でカメラロールの写真を削除するとなると、1つ1つ選択しなくてはならないのでこの方法は避けます。<br />
-<a href="http://kotalab.com/wp-content/uploads/photomanage130103_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/photomanage130103_01-300x513.png" alt="photomanage130103_01" width="300" height="513" class="alignnone size-medium wp-image-5336" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/photomanage130103_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/photomanage130103_01-300x513.png" alt="photomanage130103_01" width="300" height="513" class="alignnone size-medium wp-image-5336" /></a><br />
 MacとWindowsでは若干やり方が異なりますがほぼ一緒です。<br />
 まずはPCとiPhoneをUSB接続します。</p>
 <h3>Macの場合</h3>
 <p>▼Macの場合は、デフォルトで入っているイメージキャプチャというアプリを起動します<br />
-<a href="http://kotalab.com/wp-content/uploads/photomanage130103_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/photomanage130103_02-448x336.jpg" alt="photomanage130103_02" width="448" height="336" class="alignnone size-large wp-image-5339" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/photomanage130103_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/photomanage130103_02-448x336.jpg" alt="photomanage130103_02" width="448" height="336" class="alignnone size-large wp-image-5339" /></a><br />
 PCを使えば簡単に一気に削除出来るのでPCを使ってカメラロールの写真を削除していきます。<br />
 ▼起動するとカメラロールの写真が表示されるので、削除したい写真を選択<br />
-<a href="http://kotalab.com/wp-content/uploads/photomanage130103_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/photomanage130103_03-448x261.jpg" alt="photomanage130103_03" width="448" height="261" class="alignnone size-large wp-image-5349" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/photomanage130103_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/photomanage130103_03-448x261.jpg" alt="photomanage130103_03" width="448" height="261" class="alignnone size-large wp-image-5349" /></a><br />
 ▼下にあるボタンを押すと選択した写真の削除が出来ます。<br />
-<a href="http://kotalab.com/wp-content/uploads/photomanage130103_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/photomanage130103_04-448x261.jpg" alt="photomanage130103_04" width="448" height="261" class="alignnone size-large wp-image-5350" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/photomanage130103_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/photomanage130103_04-448x261.jpg" alt="photomanage130103_04" width="448" height="261" class="alignnone size-large wp-image-5350" /></a></p>
 <h3>Windowsの場合</h3>
 <p>Windowsの場合は、iPhoneを接続したらマイコンピュータを開きます。<br />
 するとiPhoneが表示されているのでダブルクリックで開きます。<br />
@@ -103,9 +103,9 @@ PCを使えば簡単に一気に削除出来るのでPCを使ってカメラロ�
 過去の写真を見るときはPicasaの写真をiPhoneで見ることが出来ます。<br />
 SuperAlbumというアプリで僕はPicasaの写真を見ています。<br />
 ▼フォルダ名を日付けにしてるのでいつとった写真かすぐわかります！<br />
-<a href="http://kotalab.com/wp-content/uploads/photomanage130103_05.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/photomanage130103_05-300x513.png" alt="photomanage130103_05" width="300" height="513" class="alignnone size-medium wp-image-5337" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/photomanage130103_05.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/photomanage130103_05-300x513.png" alt="photomanage130103_05" width="300" height="513" class="alignnone size-medium wp-image-5337" /></a><br />
 ▼このアプリを使えばPicasaだけでなく、様々なサービスの写真を閲覧することが可能です！<br />
-<a href="http://kotalab.com/wp-content/uploads/photomanage130103_06.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/photomanage130103_06-300x513.png" alt="photomanage130103_06" width="300" height="513" class="alignnone size-medium wp-image-5338" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/photomanage130103_06.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/photomanage130103_06-300x513.png" alt="photomanage130103_06" width="300" height="513" class="alignnone size-medium wp-image-5338" /></a></p>
 <blockquote><p>■表示対応サービス<br />
 ・iPhone純正アルバム<br />
 ・Evernote<br />

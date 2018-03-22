@@ -18,7 +18,7 @@ tags:
 - Evernote
 comments: []
 ---
-<p><span style="font-size:10px;"><a href="http://kotalab.com/wp-content/uploads/health.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/health.jpg" alt="" title="health" width="448" height="298" class="alignnone size-full wp-image-1111" /></a><br />
+<p><span style="font-size:10px;"><a href="https://kotalab.com/wp-content/uploads/health.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/health.jpg" alt="" title="health" width="448" height="298" class="alignnone size-full wp-image-1111" /></a><br />
 <a href="http://www.flickr.com/photos/quinnanya/5645559731/" target="_blank">Disposable blood pressure cuff</a> / quinn.anya</span><br />
 中肉中背の@kotala_bです。<br />
 昨日はライフログをPosteverでEvernoteに入れていることを紹介しました。<br />
@@ -37,7 +37,7 @@ comments: []
 <em>ヘルスろぐは、簡単に毎日の健康データ、運動データを記録し、その変化を観察し、健康管理ができる大変便利なアプリケーションです！</em><br />
 <em>健康維持を目的とした体重管理、運動管理、健康管理、すべてをひとつのアプリケーションで管理できます。</em><br />
 <em>グラフ表示は１２種類！１２種類の項目の記録をグラフで確認できます。</em><br />
-<a href="http://kotalab.com/wp-content/uploads/helthlog.jpg"><img src="http://kotalab.com/wp-content/uploads/helthlog.jpg" alt="" title="helthlog" width="448" height="299" class="alignnone size-full wp-image-1112" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/helthlog.jpg"><img src="https://kotalab.com/wp-content/uploads/helthlog.jpg" alt="" title="helthlog" width="448" height="299" class="alignnone size-full wp-image-1112" /></a><br />
 Posteverで入力しEvernoteに保存。Evernoteからヘルスろぐに入力し、ヘルスろぐからグラフを出力してEvernoteに保存。<br />
 これでカラダに関するログを保存しています。<br />
 Androidではアプリ間の共有機能が優れていて共有メニューからヘルスろぐのグラフを簡単に出力することが出来ます。<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10955
-wordpress_url: http://kotalab.com/?p=10955
+wordpress_url: https://kotalab.com/?p=10955
 date: '2014-02-23 09:46:07 +0900'
 date_gmt: '2014-02-23 00:46:07 +0900'
 category:
@@ -21,14 +21,14 @@ tags:
 - 効率化
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/housework-time-manegement_140223_01-546x409.jpg" alt="housework-time-manegement_140223_01" width="546" height="409" class="alignnone size-large wp-image-10957" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/housework-time-manegement_140223_01-546x409.jpg" alt="housework-time-manegement_140223_01" width="546" height="409" class="alignnone size-large wp-image-10957" /><br />
 やりたいこともあるけど家事もやらなきゃいけない。<br />
 そんな時にオススメなのがポモドーロテクニックという時間管理術です。<br />
 時間管理術と言うと難しそうに聞こえますけどやってみるのは簡単です。<br />
 僕が実践してるポモドーロテクニックをご紹介します。<br />
 <!--more--></p>
 <h2>ポモドーロテクニックとは</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/housework-time-manegement_140223_02-300x513.jpg" alt="housework-time-manegement_140223_02" width="300" height="513" class="alignnone size-medium wp-image-10958" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/housework-time-manegement_140223_02-300x513.jpg" alt="housework-time-manegement_140223_02" width="300" height="513" class="alignnone size-medium wp-image-10958" /><br />
 25分間作業に集中しその後5分休憩を取る、これの1セットを1ポモドーロとして4ポモドーロ行う。<br />
 4ポモドーロごとに30分くらいの長い休憩を取る。</p>
 <p>これがポモドーロテクニックと言われる時間管理術です。<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10441
-wordpress_url: http://kotalab.com/?p=10441
+wordpress_url: https://kotalab.com/?p=10441
 date: '2014-01-09 07:12:43 +0900'
 date_gmt: '2014-01-08 22:12:43 +0900'
 category:
@@ -27,43 +27,43 @@ tags:
 - 観光
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka" width="546" height="409" class="alignnone size-large wp-image-10474" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka" width="546" height="409" class="alignnone size-large wp-image-10474" /><br />
 初めてのLCCに乗りました。こたら（@kotala_b）です。<br />
 LCCというのはLowCostCarrierの略でいわゆる格安航空会社のこと。<br />
 ANAやJALのようなサービスは期待できないけど、その分料金は格安。<br />
 成田から福岡まで片道5000円台でいけるということでLCCのジェットスターを使ってみました。<br />
 <!--more--></p>
 <h2>ジェットスターで予約してから飛行機に乗るまで</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_02-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_02" width="546" height="409" class="alignnone size-large wp-image-10465" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_02-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_02" width="546" height="409" class="alignnone size-large wp-image-10465" /><br />
 ジェットスターでチケットの予約を済ませたら次にするのは「チェックイン」<br />
 出発予定時刻の48時間前から1時間前（国際線は2時間前）までにウェブでのチェックインが可能となります。<br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_11-546x268.png" alt="lcc-jetstar-from-narita-to-fukuoka_11" width="546" height="268" class="alignnone size-large wp-image-10477" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_11-546x268.png" alt="lcc-jetstar-from-narita-to-fukuoka_11" width="546" height="268" class="alignnone size-large wp-image-10477" /><br />
 ウェブ以外からだと空港のチェックイン機もしくはカウンターでのチェックインになります。<br />
 列に並んだりする可能性もあるので、ウェブからのチェックインがオススメ。<br />
 ウェブチェックインを済ませるとチェックイン完了のメールが送られてきます。<br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_12-546x429.png" alt="lcc-jetstar-from-narita-to-fukuoka_12" width="546" height="429" class="alignnone size-large wp-image-10476" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_12-546x429.png" alt="lcc-jetstar-from-narita-to-fukuoka_12" width="546" height="429" class="alignnone size-large wp-image-10476" /><br />
 このメールには搭乗券となるPDFファイルが添付されてくるのでプリントアウトして空港へ。<br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_01-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_01" width="546" height="409" class="alignnone size-large wp-image-10464" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_01-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_01" width="546" height="409" class="alignnone size-large wp-image-10464" /><br />
 もし当日になって搭乗券を忘れたりプリントアウトできなくても大丈夫。<br />
 チェックインカウンターでスマホからPDFファイルを見せると紙の搭乗券を発行してくれました。<br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_03-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_03" width="546" height="409" class="alignnone size-large wp-image-10466" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_03-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_03" width="546" height="409" class="alignnone size-large wp-image-10466" /><br />
 スマホの画面を見せるだけでそのまま乗れればもっといいんですが、成田空港ではそうもいきませんでした。<br />
 保安検査場を過ぎてゲートまで向かうとそこにはバスが。<br />
 飛行機は搭乗ゲートから離れた位置にあって、そこまではバス移動。LCCならではという感じ。<br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_04-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_04" width="546" height="409" class="alignnone size-large wp-image-10467" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_04-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_04" width="546" height="409" class="alignnone size-large wp-image-10467" /><br />
 空港内をバス移動。<br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_05-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_05" width="546" height="409" class="alignnone size-large wp-image-10468" /><br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_06-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_06" width="546" height="409" class="alignnone size-large wp-image-10469" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_05-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_05" width="546" height="409" class="alignnone size-large wp-image-10468" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_06-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_06" width="546" height="409" class="alignnone size-large wp-image-10469" /><br />
 こんな間近から飛行機を見たのは初めてかも。<br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_07-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_07" width="546" height="409" class="alignnone size-large wp-image-10470" /></p>
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_07-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_07" width="546" height="409" class="alignnone size-large wp-image-10470" /></p>
 <h2>ジェットスターの機内</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_08-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_08" width="546" height="409" class="alignnone size-large wp-image-10471" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_08-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_08" width="546" height="409" class="alignnone size-large wp-image-10471" /><br />
 機内食は全て有料。<br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_09-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_09" width="546" height="409" class="alignnone size-large wp-image-10472" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_09-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_09" width="546" height="409" class="alignnone size-large wp-image-10472" /><br />
 ペットボトルのジュースも売られてますが機内料金は割高でした。<br />
 保安検査場では飲み物はチェックがあるので、飲み物を買うなら保安検査場をすぎて飛行機に乗る前で買うのをおすすめします。<br />
 狭い狭いと言われてる座席ですが、小柄な女性なら割とスペースがあって余裕がある感じ。<br />
-<img src="http://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_10-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_10" width="546" height="409" class="alignnone size-large wp-image-10473" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka_10-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka_10" width="546" height="409" class="alignnone size-large wp-image-10473" /><br />
 身長170センチで中肉中背の僕からするとゆとりはなくてピッタリな感じ。<br />
 僕よりも大柄な人は窮屈そうにしていました。</p>
 <h3>ジェットスターを使ってみて</h3>

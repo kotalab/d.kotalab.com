@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3652
-wordpress_url: http://kotalab.com/?p=3652
+wordpress_url: https://kotalab.com/?p=3652
 date: '2012-10-24 09:56:06 +0900'
 date_gmt: '2012-10-24 00:56:06 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - かいかえ割
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/kaikaewari_121024.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/kaikaewari_121024.png" alt="" title="kaikaewari_121024" width="448" height="305" class="alignnone size-full wp-image-3657" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/kaikaewari_121024.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kaikaewari_121024.png" alt="" title="kaikaewari_121024" width="448" height="305" class="alignnone size-full wp-image-3657" /></a><br />
 iPhone5を買って約1ヶ月が経ちました。@kotala_bです。<br />
 SoftbankでiPhoneを買い替えると「<strong>iPhoneかいかえ割</strong>」という機種変更特典が受けられます。<br />
 参考：<a href="http://mb.softbank.jp/mb/iphone/price_plan/cp_replacement/" target="_blank">iPhone 5の機種変更特典：iPhone かいかえ割│料金・割引│ソフトバンクモバイル</a><br />
@@ -53,7 +53,7 @@ SoftbankでiPhoneを買い替えると「<strong>iPhoneかいかえ割</strong>�
 <h2>適用されるのは「パケットし放題フラット」だけ！</h2>
 <p>僕はPocketWifiがあるからデータ通信にはEMOBILEの回線を利用しています。<br />
 そこでフラットから従量制の「<strong>パケットし放題 for 4G LTE</strong>」に変更していたのでした。<br />
-<a href="http://kotalab.com/wp-content/uploads/kaikaewari_121024_01.png"><img src="http://kotalab.com/wp-content/uploads/kaikaewari_121024_01.png" alt="" title="kaikaewari_121024_01" width="300" height="512" class="alignnone size-full wp-image-3658" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/kaikaewari_121024_01.png"><img src="https://kotalab.com/wp-content/uploads/kaikaewari_121024_01.png" alt="" title="kaikaewari_121024_01" width="300" height="512" class="alignnone size-full wp-image-3658" /></a><br />
 これだとかいかえ割の特典適用外ということが発覚！<br />
 使い道を楽しみにしていた5000円分の商品券が来ないことが分かった瞬間でした。</p>
 <h2>まとめ</h2>

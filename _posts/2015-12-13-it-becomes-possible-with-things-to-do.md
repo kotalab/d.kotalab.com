@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14968
-wordpress_url: http://kotalab.com/?p=14968
+wordpress_url: https://kotalab.com/?p=14968
 date: '2015-12-13 10:56:34 +0900'
 date_gmt: '2015-12-13 01:56:34 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - アプリ道場
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/12/it-becomes-possible-with-things-to-do_20151213_01-780x585.jpg" alt="it-becomes-possible-with-things-to-do_20151213_01" width="780" height="585" class="aligncenter size-large wp-image-14969" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/12/it-becomes-possible-with-things-to-do_20151213_01-780x585.jpg" alt="it-becomes-possible-with-things-to-do_20151213_01" width="780" height="585" class="aligncenter size-large wp-image-14969" /><br />
 できるからやるのか、やったからできるようになったのか。<br><br />
 卵が先か鶏が先かじゃありませんが、どっちが先なのか？と少し考えたことがあります。</p>
 <p>僕の中では、「やり始めた結果できるようになった」という答えになりました。</p>

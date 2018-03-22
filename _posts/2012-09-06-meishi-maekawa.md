@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2521
-wordpress_url: http://kotalab.com/?p=2521
+wordpress_url: https://kotalab.com/?p=2521
 date: '2012-09-06 10:23:56 +0900'
 date_gmt: '2012-09-06 01:23:56 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 前川企画印刷
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/meisi_120906.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/meisi_120906.jpg" alt="" title="meisi_120906" width="448" height="298" class="alignnone size-full wp-image-2526" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/meisi_120906.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/meisi_120906.jpg" alt="" title="meisi_120906" width="448" height="298" class="alignnone size-full wp-image-2526" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/47514124@N02/6950951840/" target="_blank">ErinBerzelPhotography-4432 / Walnut Studiolo</span><br />
 オフ会やセミナーにはまだ行ったことありません。@kotala_bです。<br />
 そんな僕ですが、名刺を作ることに決めました！<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 12660
-wordpress_url: http://kotalab.com/?p=12660
+wordpress_url: https://kotalab.com/?p=12660
 date: '2014-04-29 07:27:09 +0900'
 date_gmt: '2014-04-28 22:27:09 +0900'
 category:
@@ -22,8 +22,8 @@ tags:
 - Xcode
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/app-creator-2day_140429_01-546x364.jpg" alt="app-creator-2day_140429_01" width="546" height="364" class="alignnone size-large wp-image-12675" /><br />
-<a href="http://kotalab.com/app-creator-1day" target="_blank">先週に引き続き</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/app-creator-1day" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/app-creator-1day" alt="" /></a>、日曜日はアプリ道場19期に行ってきました！<br />
+<p><img src="https://kotalab.com/wp-content/uploads/app-creator-2day_140429_01-546x364.jpg" alt="app-creator-2day_140429_01" width="546" height="364" class="alignnone size-large wp-image-12675" /><br />
+<a href="https://kotalab.com/app-creator-1day" target="_blank">先週に引き続き</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/app-creator-1day" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/app-creator-1day" alt="" /></a>、日曜日はアプリ道場19期に行ってきました！<br />
 2日目も1日目同様、午前と午後に1講義ずつ。<br />
 1日目とはまた違った内容の濃い時間を過ごせました。</p>
 <p><!--more--></p>
@@ -32,7 +32,7 @@ comments: []
 午後からは「実機での動かし方」、「ペアプログラミング」という流れでした。</p>
 <p>2日目にはようやく実機（自分がもってるiOS端末）で動かせるようになり、講義の内容も1日目から更に一歩踏み込んだ内容になります。</p>
 <h2>Xcodeの使い方tips</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/app-creator-2day_140429_04-546x364.jpg" alt="app-creator-2day_140429_04" width="546" height="364" class="alignnone size-large wp-image-12674" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/app-creator-2day_140429_04-546x364.jpg" alt="app-creator-2day_140429_04" width="546" height="364" class="alignnone size-large wp-image-12674" /><br />
 tipsで紹介されたのは、いらなくなった部品の削除の仕方とスナップショットの使い方です。</p>
 <h3>いらなくなった部品の削除の仕方</h3>
 <p>コードに記述してあるoutletやactionはコード上で消すだけでは完全に削除されたことにはなりません。</p>
@@ -64,19 +64,19 @@ tipsで紹介されたのは、いらなくなった部品の削除の仕方と�
 <p>この時間は宿題発表というよりも、あきおさんの個人レクチャーといった感じで<strong>一人一人の悩みに答えてくれるとても貴重な時間</strong>でした。</p>
 <p>午前中の講義はここで終了。</p>
 <h2>実機での動かし方</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/app-creator-2day_140429_05-300x300.jpg" alt="app-creator-2day_140429_05" width="300" height="300" class="alignnone size-medium wp-image-12681" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/app-creator-2day_140429_05-300x300.jpg" alt="app-creator-2day_140429_05" width="300" height="300" class="alignnone size-medium wp-image-12681" /><br />
 お昼ご飯にみんなでトマトハンバーグ弁当を食べ、午後は実機の動かし方からスタート！</p>
 <p>2日目までに<a href="https://developer.apple.com/programs/ios/" target="_blank">iOS Developer Program</a>に登録を済ませておいて、当日はそこからXcodeにアプリを入れるまでの流れを説明してもらいました。</p>
 <p>Xcodeで動かせるようになった時も感動しましたけど、自分のiPhoneに自分で作ったアプリが入って動かせることにすごく感動しました！</p>
 <h2>ペアプログラミング</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/app-creator-2day_140429_03-546x364.jpg" alt="app-creator-2day_140429_03" width="546" height="364" class="alignnone size-large wp-image-12676" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/app-creator-2day_140429_03-546x364.jpg" alt="app-creator-2day_140429_03" width="546" height="364" class="alignnone size-large wp-image-12676" /><br />
 ペアプログラミングは18期から取り入れた新しい試みだそうで、レベルが近い人同士でペアを組んで1つのアプリを一緒に作っていきます。</p>
 <p>僕は隣の席のやすもさん(<a href="https://twitter.com/yasumoha" target="_blank">yasumoha</a>)とペアを組みました。<br><br />
 ペアプログラミングで作るアプリは講義中に習ったものでも習わなかったものでもいいということで、僕たちは講義中には習わなかった地図を使ったアプリを作ることにしました。</p>
 <p>地図を表示させるまではすぐできたんですが、地図にピンを立てることがなかなかできなくて悪戦苦闘。</p>
 <p>あきおさんの助けがあってなんとかピンを立てるということまではできるようになりましたが、そこまででタイムオーバーでした。</p>
 <h3>アプリ道場2日目が終わってみて</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/app-creator-2day_140429_02-546x364.jpg" alt="app-creator-2day_140429_02" width="546" height="364" class="alignnone size-large wp-image-12673" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/app-creator-2day_140429_02-546x364.jpg" alt="app-creator-2day_140429_02" width="546" height="364" class="alignnone size-large wp-image-12673" /><br />
 午後の講義が終わると5回中4回が終わることになります。<br />
 受講前は「5回もある」という感覚でしたが、あっという間に4回目までが終わってしまい「あと1回しかない」という感覚に変わってきました。</p>
 <p>それから自分の中の意識が変わってきたのがわかりました。<br><br />

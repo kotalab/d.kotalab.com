@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10085
-wordpress_url: http://kotalab.com/?p=10085
+wordpress_url: https://kotalab.com/?p=10085
 date: '2013-10-31 18:46:22 +0900'
 date_gmt: '2013-10-31 09:46:22 +0900'
 category:
@@ -32,7 +32,7 @@ comments:
   content: "[&#8230;] ◆ SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！ （ via kotala&#8217;s
     note ） ◆ 【au】iPad Airの毎月の料金はいくらになる？割引もチェック！ （ via iPho [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/ipadairsoftbankplan_131031-546x311.png" alt="ipadairsoftbankplan_131031" width="546" height="311" class="alignnone size-large wp-image-10090" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ipadairsoftbankplan_131031-546x311.png" alt="ipadairsoftbankplan_131031" width="546" height="311" class="alignnone size-large wp-image-10090" /><br />
 iPad Airが待ち遠しい。こたら（@kotala_b）です。<br />
 iPad Airがとうとう明日発売されます！発売日が明日に迫りようやくSoftBankからiPad Airの料金プランが発表されました。<br />
 SoftBankは11月1日スタートのタブレットセット割を新たに発表。<br />
@@ -46,7 +46,7 @@ auでいうところの先取り！データシェアキャンペーンと内容
 ただし、auのLTEフラット for Tabスタート割にあたる割引がSoftBankにはありません。<br />
 その分だけSoftBankの方が割高ではあります。<br />
 ドコモのスマホを持ってる場合も、今はまだドコモからはiPad Airについて発表がないので料金という点から見ると、au版かセルラー版という選択肢でしょう。<br />
-au版とセルラー版の違いは<a href="http://kotalab.com/ipad-air-wifi-or-cellular" title="iPad AirはWi-Fi版？それともセルラー版？それぞれのメリットデメリットを比べてみた" target="_blank">別エントリーに書いた</a>のでそちらを参考にしてください。<br />
+au版とセルラー版の違いは<a href="https://kotalab.com/ipad-air-wifi-or-cellular" title="iPad AirはWi-Fi版？それともセルラー版？それぞれのメリットデメリットを比べてみた" target="_blank">別エントリーに書いた</a>のでそちらを参考にしてください。<br />
 通信料の分だけセルラー版の方が高いのと割り切って考えるといいです。</p>
 <h3>SoftBankとauとWi-Fi版のiPad Airの2年間の料金比較</h3>
 <p>スマホセット割（au）とスマホまとめて割（SoftBank）を適用した場合の2年間の料金は次の表になります。</p>
@@ -120,7 +120,7 @@ SoftBankのスマホを持ってればSoftBankのiPad Airの方がお得。<br /
 ドコモのスマホを持ってればauのiPad Airの方がお得。</strong><br />
 セルラー版を買うなら自分の持ってるスマホと照らし合わせて考えてみてください。<br />
 関連記事：<br />
-<a href="http://kotalab.com/ipad-air-au-plan" target="_blank">au版iPad Airの料金プランが発表されました！Wi-Fi版iPad Airと比べたら驚きの結果に！※追記あり</a></p>
+<a href="https://kotalab.com/ipad-air-au-plan" target="_blank">au版iPad Airの料金プランが発表されました！Wi-Fi版iPad Airと比べたら驚きの結果に！※追記あり</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00BWBPTQG/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31ybRj0xCnL._SL160_.jpg" style="border: none;" /></a></div>

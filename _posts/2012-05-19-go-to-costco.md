@@ -19,7 +19,7 @@ tags:
 - costco
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/costco.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/costco.jpg" alt="" title="costco" width="448" height="336" class="alignnone size-full wp-image-1142" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/costco.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/costco.jpg" alt="" title="costco" width="448" height="336" class="alignnone size-full wp-image-1142" /></a><br />
 <span style="font-size:10px;">Costco Sign / greenwenvy08</span><br />
 平日が休みの@kotala_bです。<br />
 雷がゴロゴロしてるかと思ったら急に日が差したりと天気が不安定。「こんな日は屋内に限る」ということで昨日はCOSTCOに行ってきました。<br />
@@ -33,30 +33,30 @@ COSTCOというのは食品からテレビ等の家電、さらに宝石まで�
 もし会員証を持ってなくても当日5分程度で写真撮影からカード発行までしてもらえます。<br />
 <strong>年会費は4200円</strong>で、1枚発行すると家族用にもう1枚無料で発行することが出来ます。</p>
 <h2>店内の雰囲気</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/costco_view.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/costco_view.jpg" alt="" title="costco_view" width="448" height="336" class="alignnone size-full wp-image-1143" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/costco_view.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/costco_view.jpg" alt="" title="costco_view" width="448" height="336" class="alignnone size-full wp-image-1143" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/abrasnet/5451300810/" title="costco" target="_blank">costco</a> / Portal Abras</span><br />
 店内は倉庫のような雰囲気になっていて、商品の陳列もフォークリフトでそのまま運んできたような感じで木のパレットの上に置いてあります。<br />
 <strong>アメリカンな雰囲気</strong>が漂う店内になってます。<br />
 この写真はネットで見つけてきたものですが、ぼくが昨日行ったところも全く同じ風景。<br />
 どこの店舗も似たような作りになってるみたいです。</p>
 <h2>PB製品が豊富</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/costco_water.jpg"><img src="http://kotalab.com/wp-content/uploads/costco_water.jpg" alt="" title="costco_water" width="448" height="388" class="alignnone size-full wp-image-1145" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/costco_water.jpg"><img src="https://kotalab.com/wp-content/uploads/costco_water.jpg" alt="" title="costco_water" width="448" height="388" class="alignnone size-full wp-image-1145" /></a><br />
 これは1本あたり14円くらいのミネラルウォーターでKIRKLANDというコストコのPB（プライベートブランド）商品です。<br />
 500ｍｌペットボトルが35本入ってるので車で来ないと持って帰るには大変。<br />
 このPB製品は食料品や衣料品、生活雑貨からサングラスのようなものまでありました。<br />
 うちではこのPBのトイレットペーパーやキッチンペーパーをよく買っていて、1回買うと2,3ヶ月はもつのでなくなりそうになると買いに行ってます。</p>
 <h2>ボリューム満点</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/costco_pan.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/costco_pan.jpg" alt="" title="costco_pan" width="448" height="388" class="alignnone size-full wp-image-1144" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/costco_pan.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/costco_pan.jpg" alt="" title="costco_pan" width="448" height="388" class="alignnone size-full wp-image-1144" /></a><br />
 いっぱい入ったロールパン。こんなに入って498円。すぐには食べきれないので冷凍庫に保存してます。<br />
 食料品はホームパーティーとかにはちょうどいいサイズだけど、2,3人じゃすぐには食べきれないような量が入ってます。<br />
 こういうのを見て楽しむのもまた<strong>コストコの醍醐味</strong>といえます。</p>
 <h2>値段も決して高くない</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/costco_ocha.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/costco_ocha.jpg" alt="" title="costco_ocha" width="448" height="388" class="alignnone size-full wp-image-1146" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/costco_ocha.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/costco_ocha.jpg" alt="" title="costco_ocha" width="448" height="388" class="alignnone size-full wp-image-1146" /></a><br />
 海外の小売店なので輸入物が多いと思い込みがちですが、日本のスーパーで一般的に売られてる物も普通に売ってます。<br />
 量が多い分そこそこの値段はするんですが、<strong>単価でみると結構安い</strong>。<br />
 これなんか1本あたり121円！</p>
 <h2>帰りはフードコートで</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/costco_foodcourt.jpg"><img src="http://kotalab.com/wp-content/uploads/costco_foodcourt.jpg" alt="" title="costco_foodcourt" width="448" height="388" class="alignnone size-full wp-image-1147" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/costco_foodcourt.jpg"><img src="https://kotalab.com/wp-content/uploads/costco_foodcourt.jpg" alt="" title="costco_foodcourt" width="448" height="388" class="alignnone size-full wp-image-1147" /></a><br />
 レジを抜けたところにフードコートが設置されています。<br />
 こちらはフードコートで売ってるストロベリーチョコサンデー。その隣はドリンクバー用のコップ<strong>飲み放題でなんと60円</strong>！！！<br />
 他にもボリューム満点のホットドッグにドリンクバーのセットで180円、1ホールのピザが1200円だったりと驚きの安さです。</p>
@@ -64,4 +64,4 @@ COSTCOというのは食品からテレビ等の家電、さらに宝石まで�
 <p>天気の不安定な日は屋根のあるところでショッピングなんていかがでしょう。<br />
 COSTCOは日本のスーパーとは一味違った雰囲気を楽しめます。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/costco-benriwaza" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/costco_130705_07-448x336.jpg" alt="TVや雑誌で話題のコストコで使える、知って得する便利ワザ | kotala's note" width="150" /></a><a href="http://kotalab.com/costco-benriwaza" target="_blank">TVや雑誌で話題のコストコで使える、知って得する便利ワザ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/costco-benriwaza" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/costco_130705_07-448x336.jpg" alt="TVや雑誌で話題のコストコで使える、知って得する便利ワザ | kotala's note" width="150" /></a><a href="https://kotalab.com/costco-benriwaza" target="_blank">TVや雑誌で話題のコストコで使える、知って得する便利ワザ | kotala's note</a><br style="clear:both;" /></p>

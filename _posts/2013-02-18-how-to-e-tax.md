@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6228
-wordpress_url: http://kotalab.com/?p=6228
+wordpress_url: https://kotalab.com/?p=6228
 date: '2013-02-18 10:09:34 +0900'
 date_gmt: '2013-02-18 01:09:34 +0900'
 category:
@@ -30,7 +30,7 @@ comments:
   date_gmt: '2013-02-21 02:21:49 +0900'
   content: "[...]  [...]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/etax_130218-448x336.jpg" alt="E-tax&Igrave;&auml;&eacute;L@&Oacute;&eacute;&sup3;&AElig;aJtFXeBo" width="448" height="336" class="alignnone size-large wp-image-6238" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/etax_130218-448x336.jpg" alt="E-tax&Igrave;&auml;&eacute;L@&Oacute;&eacute;&sup3;&AElig;aJtFXeBo" width="448" height="336" class="alignnone size-large wp-image-6238" /><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/t-ohashi/5153084671/" target="_blank">R0010005</a> / t.ohashi</span><br />
 今年からe-Taxで申告します。@kotala_bです。<br />
 初めのてe-Taxに向けて必要なモノや申告の流れなどを調べたので紹介していきます！<br />

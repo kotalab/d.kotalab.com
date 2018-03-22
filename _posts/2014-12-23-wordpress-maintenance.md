@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13663
-wordpress_url: http://kotalab.com/?p=13663
+wordpress_url: https://kotalab.com/?p=13663
 date: '2014-12-23 10:04:17 +0900'
 date_gmt: '2014-12-23 01:04:17 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - メンテナンスモード
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/wordpress-maintenance_20141224_01-780x351.png" alt="wordpress-maintenance_20141224_01" width="780" height="351" class="aligncenter size-large wp-image-13664" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/wordpress-maintenance_20141224_01-780x351.png" alt="wordpress-maintenance_20141224_01" width="780" height="351" class="aligncenter size-large wp-image-13664" /><br />
 「メンテナンス中のため、しばらくの間ご利用いただけません。」という表示が出たみなさん。</p>
 <p>「うわー！どうしようどうしよう」なんて焦らなくて大丈夫です。<br />
 管理画面にも入れなくなるしブログも表示されなくなるけど、一時的なものなので安心してください。<br />
@@ -35,14 +35,14 @@ comments: []
 なので、この表示がされること自体は何も問題がないんですね。</p>
 <p>問題なのは、メンテナンス中にしたつもりがないのにこの表示がされていることなのです。<br />
 意図せず「メンテナンス中のため〜」と表示される一番多いパターンは、プラグインなどの更新中にネットが切断したり別の画面を開いたりしてしまうことだと思います。</p>
-<p><img src="http://kotalab.com/wp-content/uploads/wordpress-maintenance_20141224_03.png" alt="wordpress-maintenance_20141224_03" width="718" height="287" class="aligncenter size-full wp-image-13666" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/wordpress-maintenance_20141224_03.png" alt="wordpress-maintenance_20141224_03" width="718" height="287" class="aligncenter size-full wp-image-13666" /><br />
 プラグインの更新画面をよく見てみると「メンテナンスモードを有効にします」と表示されています。<br />
 プラグインの更新が終わると自動的にメンテナンスモードを終了してくれるんですが、自動終了する前にネットが切断したり別の画面を開いたりして問題が発生すると、自動終了せずにずっとメンテナンスモードになってしまうわけです。</p>
 <h2>メンテナンス中と表示された時の対処法</h2>
 <p>メンテナンスモードを手動で終了させれば「メンテナンス中のため〜」という表示は消えて、いつも見ている画面に戻ります。</p>
 <p>メンテナンスモードを終了させるにはWordPressが置いてあるサーバーにアクセスし、「.maintenance」というファイルを削除することです。<br />
 FTPソフトでアクセスしたり、契約しているサーバーによってはサーバー管理ツールとかでもアクセス可能です。</p>
-<p><img src="http://kotalab.com/wp-content/uploads/wordpress-maintenance_20141224_02.png" alt="wordpress-maintenance_20141224_02" width="596" height="263" class="aligncenter size-full wp-image-13665" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/wordpress-maintenance_20141224_02.png" alt="wordpress-maintenance_20141224_02" width="596" height="263" class="aligncenter size-full wp-image-13665" /><br />
 「.maintenance」があるのは「wp-admin.php」とか「wp-login.php」が置いてある一番上の階層です。</p>
 <h3></h3>
 <p>かく言う僕もプラグインの更新中に別画面を開いてメンテナンスモードになったのでこんな記事を書いているのですが、知らないと焦っちゃうけど、一度知ってしまえば何ということもない問題でした。</p>

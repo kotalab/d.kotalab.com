@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13849
-wordpress_url: http://kotalab.com/?p=13849
+wordpress_url: https://kotalab.com/?p=13849
 date: '2015-01-19 17:30:56 +0900'
 date_gmt: '2015-01-19 08:30:56 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 思考法
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/thinking-of-how-to-catch-the-essence_20150119-780x438.jpg" alt="thinking-of-how-to-catch-the-essence_20150119" width="780" height="438" class="aligncenter size-large wp-image-13850" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/thinking-of-how-to-catch-the-essence_20150119-780x438.jpg" alt="thinking-of-how-to-catch-the-essence_20150119" width="780" height="438" class="aligncenter size-large wp-image-13850" /><br />
 年収を2倍にするにはどうすればいいか？<br />
 日本国憲法は改正すべきかどうか？<br />
 世界から戦争をなくすにはどうすればいいか？<br />
@@ -39,7 +39,7 @@ comments: []
 問題が違えば解決策も異なる。<br />
 つまり問題を間違って定義してしまうと解決策も間違ったものになってしまう。<br />
 そして結局何も解決されないという結果になってしまうからだ。<br />
-via:<a href="http://kotalab.com/textbook-of-problem-solving" target="_blank">問題解決5つの基本プロセス &ndash; マッキンゼー流入社1年目問題解決の教科書　大嶋祥誉著</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/textbook-of-problem-solving" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/textbook-of-problem-solving" alt="" /></a></p></blockquote>
+via:<a href="https://kotalab.com/textbook-of-problem-solving" target="_blank">問題解決5つの基本プロセス &ndash; マッキンゼー流入社1年目問題解決の教科書　大嶋祥誉著</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/textbook-of-problem-solving" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/textbook-of-problem-solving" alt="" /></a></p></blockquote>
 <p>核となる部分をつかむには、視点を変える必要がある。<br />
 問題の核となる部分をつかむには、自分の視点だけでなくもっと多面的な視点が必要なのだ。</p>
 <p>人間関係の問題には相手の視点が必要になるし、環境問題には人間だけじゃなく自然や動物たちの視点も必要になる。</p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6410
-wordpress_url: http://kotalab.com/?p=6410
+wordpress_url: https://kotalab.com/?p=6410
 date: '2013-03-05 11:22:48 +0900'
 date_gmt: '2013-03-05 02:22:48 +0900'
 category:
@@ -24,12 +24,12 @@ tags:
 - やりたいこと
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130305112246.jpg" width="448" height="336" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130305112246.jpg" width="448" height="336" /><br />
 毎日Evernoteに4行日記を書いてます。@kotala_bです。<br />
 日記は朝と夜の2回に分け、朝はやりたいこととやりたくないことを、夜は1日の振り返りを書いています。<br />
 元々は朝に書いていたものを朝の時間をもっと有効に使いたいと思い、朝と夜に分けて最も大切にしたい「今やりたいこと、やりたくないこと」だけを朝の時間に書くようになりました。<br />
 この毎朝やりたいことを書き出すという習慣は立花さん(@ttachi)の第11回NSLセミナーの中で立花さん自身が毎日やっていると紹介されていたことです。<br />
-<a href="http://kotalab.com/nsl-11th" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/nsl11_20121118_01-448x336.jpg" alt="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note" width="150" /></a><a href="http://kotalab.com/nsl-11th" target="_blank">第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note</a><br style="clear:both;" />毎朝書いている「やりたいこと、やりたくないこと」に少しアレンジを加え、自分のやりたいことやめたいこと以外にも書くようにしていることがあります。</p>
+<a href="https://kotalab.com/nsl-11th" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nsl11_20121118_01-448x336.jpg" alt="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note" width="150" /></a><a href="https://kotalab.com/nsl-11th" target="_blank">第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note</a><br style="clear:both;" />毎朝書いている「やりたいこと、やりたくないこと」に少しアレンジを加え、自分のやりたいことやめたいこと以外にも書くようにしていることがあります。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4757304757/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/51jeRAeZpQL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">

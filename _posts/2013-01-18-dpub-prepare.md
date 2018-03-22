@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5767
-wordpress_url: http://kotalab.com/?p=5767
+wordpress_url: https://kotalab.com/?p=5767
 date: '2013-01-18 10:21:24 +0900'
 date_gmt: '2013-01-18 01:21:24 +0900'
 category:
@@ -22,16 +22,16 @@ tags:
 - 準備
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/dpub_130117.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/dpub_130117-448x114.jpg" alt="dpub_130117" width="448" height="114" class="alignnone size-large wp-image-5754" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/dpub_130117.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dpub_130117-448x114.jpg" alt="dpub_130117" width="448" height="114" class="alignnone size-large wp-image-5754" /></a><br />
 Dpub7の参加が決まりました。@kotala_bです。<br />
 昨日お伝えした通り<br />
-<a href="http://kotalab.com/dpub7-one-chance" target="_blank"><img class="alignleft" src="http://kotalab.com/wp-content/uploads/dpub_130117-448x114.jpg" alt="Dpub7の申込みが遂にスタート！募集は3回、でも個人的にはチャンスは1回しかなかった！ | kotala's note" width="150" /></a><a href="http://kotalab.com/dpub7-one-chance" target="_blank">Dpub7の申込みが遂にスタート！募集は3回、でも個人的にはチャンスは1回しかなかった！ | kotala's note</a><br style="clear:both" />応募のチャンスは1回きりだったんですが、なんとか締め切り前に応募が完了しました！<br />
+<a href="https://kotalab.com/dpub7-one-chance" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/dpub_130117-448x114.jpg" alt="Dpub7の申込みが遂にスタート！募集は3回、でも個人的にはチャンスは1回しかなかった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/dpub7-one-chance" target="_blank">Dpub7の申込みが遂にスタート！募集は3回、でも個人的にはチャンスは1回しかなかった！ | kotala's note</a><br style="clear:both" />応募のチャンスは1回きりだったんですが、なんとか締め切り前に応募が完了しました！<br />
 <!--more--></p>
 <h2>ちょっと焦った一般応募</h2>
 <p>15分前にDueのタイマーをセットし、ZusaarにはTwitterアカウントでログイン、PayPalのアカウントとIDをすぐ入力出来る準備もしてその時を待ちました。<br />
 21時ちょうどにTwitterで応募URLが発表され、Zusaarの応募ページへ！<br />
 ▼急いで開いたはずが既に募集終了の文字が！<br />
-<a href="http://kotalab.com/wp-content/uploads/dpub_130118_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/dpub_130118_01-448x292.jpg" alt="dpub_130118_01" width="448" height="292" class="alignnone size-large wp-image-5769" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/dpub_130118_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dpub_130118_01-448x292.jpg" alt="dpub_130118_01" width="448" height="292" class="alignnone size-large wp-image-5769" /></a><br />
 <strong>「こんな数秒で埋まるはずない」と思いながら、Twitterのタイムラインを眺めていると他の人もどうやら同じ様子。<br />
 どうやら手違いがあったらしく、その後無事応募が出来るようになりました。<br />
 手違いでよかった！ホッとした！</strong><br />
@@ -40,7 +40,7 @@ Dpub7の参加が決まりました。@kotala_bです。<br />
 <p>&mdash; こたらさん (@kotala_b) <a href="https://twitter.com/kotala_b/status/291878905290309634">1月 17, 2013</a></p></blockquote>
 <p><</p>
 <p>p>たった数分で一般募集枠60人分が埋まりました。<br />
-<a href="http://kotalab.com/wp-content/uploads/dpub_130118_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/dpub_130118_02-448x370.jpg" alt="dpub_130118_02" width="448" height="370" class="alignnone size-large wp-image-5770" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/dpub_130118_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dpub_130118_02-448x370.jpg" alt="dpub_130118_02" width="448" height="370" class="alignnone size-large wp-image-5770" /></a></p>
 <h2>予め出来ることはしておく！</h2>
 <p><strong>15分前にDueのタイマーをセットし、ZusaarにはTwitterアカウントでログイン、PayPalのアカウントとIDをすぐ入力出来る準備もしました。<br />
 前日に先行募集があったので、その時のことを書いてる方の記事も読みました。</strong><br />

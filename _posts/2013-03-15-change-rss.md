@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6511
-wordpress_url: http://kotalab.com/?p=6511
+wordpress_url: https://kotalab.com/?p=6511
 date: '2013-03-15 05:49:33 +0900'
 date_gmt: '2013-03-14 20:49:33 +0900'
 category:
@@ -33,11 +33,11 @@ comments:
   content: "[...] （ via [N]ネタフル ） ◆ RSSに変わる更新情報の配信方法 （ via kotala&#8217;s note ） ◆
     [...]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/rss_130315-448x409.jpg" alt="rss_130315" width="448" height="409" class="alignnone size-large wp-image-6514" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/rss_130315-448x409.jpg" alt="rss_130315" width="448" height="409" class="alignnone size-large wp-image-6514" /><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/teiamg/4136268819/" target="_blank">rss</a> / TEIA MG</span><br />
 RSS以外の更新情報の配信について考えてます。@kotala_bです。<br />
 昨日は情報を収集する側として代替サービスについて書きました。<br />
-<a href="http://kotalab.com/googlereader-end" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/googlereader_130314-448x336.jpg" alt="2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note" width="150" /></a><a href="http://kotalab.com/googlereader-end" target="_blank">2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note</a><br style="clear:both;" />情報を発信する側としてはRSSの他にどんな方法があるのか見ていきます。<br />
+<a href="https://kotalab.com/googlereader-end" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/googlereader_130314-448x336.jpg" alt="2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note" width="150" /></a><a href="https://kotalab.com/googlereader-end" target="_blank">2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note</a><br style="clear:both;" />情報を発信する側としてはRSSの他にどんな方法があるのか見ていきます。<br />
 <!--more--></p>
 <h2>Facebookページ</h2>
 <p>個人的なページではなくブログ専用のFacebookページです。<br />
@@ -88,6 +88,6 @@ ReederはMac版iPhone版iPad版のアプリが存在しているgoogleリーダ�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/googlereader-end" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/googlereader_130314-448x336.jpg" alt="2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note" width="150" /></a><a href="http://kotalab.com/googlereader-end" target="_blank">2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/ipad-mini-reeder" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/reeder_121108.png" alt="iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-reeder" target="_blank">iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/googlereader-end" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/googlereader_130314-448x336.jpg" alt="2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note" width="150" /></a><a href="https://kotalab.com/googlereader-end" target="_blank">2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ipad-mini-reeder" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/reeder_121108.png" alt="iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-reeder" target="_blank">iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /></p>

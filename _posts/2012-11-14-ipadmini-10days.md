@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4207
-wordpress_url: http://kotalab.com/?p=4207
+wordpress_url: https://kotalab.com/?p=4207
 date: '2012-11-14 20:45:44 +0900'
 date_gmt: '2012-11-14 11:45:44 +0900'
 category:
@@ -23,26 +23,26 @@ tags:
 - iPadアプリ
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/ipadmini10days_20121114.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadmini10days_20121114.jpg" alt="" title="ipadmini10days_20121114" width="448" height="336" class="alignnone size-full wp-image-4212" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/ipadmini10days_20121114.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini10days_20121114.jpg" alt="" title="ipadmini10days_20121114" width="448" height="336" class="alignnone size-full wp-image-4212" /></a><br />
 iPadminiは発売日当日に買いました。@kotala_bです。<br />
 もともと予約をしていなかったので発売日当日に買えるとは思ってもいませんでした。<br />
-<a href="http://kotalab.com/ipad-mini-machida-ydobashi" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20121102132946.jpg" alt="iPadmini購入！ヨドバシ町田に行ったら当日分があった！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-machida-ydobashi" target="_blank">iPadmini購入！ヨドバシ町田に行ったら当日分があった！ | kotala's note</a><br style="clear:both;" />iPadminiを買ってから約10日間経ち、色々使ってたことでわかったよかった点悪かった点について書いてみたいと思います。<br />
+<a href="https://kotalab.com/ipad-mini-machida-ydobashi" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121102132946.jpg" alt="iPadmini購入！ヨドバシ町田に行ったら当日分があった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-machida-ydobashi" target="_blank">iPadmini購入！ヨドバシ町田に行ったら当日分があった！ | kotala's note</a><br style="clear:both;" />iPadminiを買ってから約10日間経ち、色々使ってたことでわかったよかった点悪かった点について書いてみたいと思います。<br />
 <!--more--></p>
 <h2>よかった部分</h2>
 <h3>RSSが読みやすい</h3>
 <p>RSS購読については大変満足しています。<br />
-<a href="http://kotalab.com/ipad-mini-reeder" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/reeder_121108.png" alt="iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-reeder" target="_blank">iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note</a><br style="clear:both;" />ここでも紹介しましたが、RSSを読むのにはiPhoneより画面が大きなiPadminiを使っています。<br />
+<a href="https://kotalab.com/ipad-mini-reeder" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/reeder_121108.png" alt="iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-reeder" target="_blank">iPadminiでRSSを見るならこれ！「Reeder for iPad」がスゴくいい！ | kotala's note</a><br style="clear:both;" />ここでも紹介しましたが、RSSを読むのにはiPhoneより画面が大きなiPadminiを使っています。<br />
 外出時のみならず家で使うのにもMacBookAirよりiPadminiを使ってRSS購読することの方が多くなりました。</p>
 <h3>持ち運びに便利</h3>
-<p><a href="http://kotalab.com/wp-content/uploads/ipadmini10days_20121114_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadmini10days_20121114_01.jpg" alt="" title="ipadmini10days_20121114_01" width="448" height="336" class="alignnone size-full wp-image-4213" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/ipadmini10days_20121114_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini10days_20121114_01.jpg" alt="" title="ipadmini10days_20121114_01" width="448" height="336" class="alignnone size-full wp-image-4213" /></a><br />
 僕がiPadminiを使ってる場所のほとんどは通勤中の電車内です。<br />
 これはあらかじめ想定していましたが、ここまで快適に使えるとは思ってもいませんでした。<br />
 満員の電車内ではさすがに迷惑ですが、本が読めるくらいのスペースさえあれば気軽に使えるのがiPadminiのいいところです。</p>
 <h3>気軽に充電出来る</h3>
-<p><a href="http://kotalab.com/tunakan-3rd" title="第3回つながるカンファレンスに参加してきました。有意義な時間をありがとうございました！#tunakan" target="_blank">先日行ったつなカン</a>にもiPadminiを持っていきました。<br />
+<p><a href="https://kotalab.com/tunakan-3rd" title="第3回つながるカンファレンスに参加してきました。有意義な時間をありがとうございました！#tunakan" target="_blank">先日行ったつなカン</a>にもiPadminiを持っていきました。<br />
 MacBookAirも持っていこうかほんの少しだけ迷いましたがiPadminiだけで正解でした。<br />
 つなカンでは気に入ったフレーズなどをEvernoteにメモをとるのにiPadminiを使用していました。<br />
-その日の朝たまたまiPadminiの充電をし忘れてて20％くらいしか充電が残っていなかったんですが、<a href="http://kotalab.com/cheero-power-plus" title="大容量なのに安い！あのcheeroPowerPlusを購入！" target="_blank">以前買ったCheeroのモバイルバッテリー</a>でイベント中に充電してたらいつの間にか90％くらいまで充電されていました。<br />
+その日の朝たまたまiPadminiの充電をし忘れてて20％くらいしか充電が残っていなかったんですが、<a href="https://kotalab.com/cheero-power-plus" title="大容量なのに安い！あのcheeroPowerPlusを購入！" target="_blank">以前買ったCheeroのモバイルバッテリー</a>でイベント中に充電してたらいつの間にか90％くらいまで充電されていました。<br />
 僕はMacBookAirを外で充電出来る<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00456DWUA/same-22/ref=nosim/" rel="nofollow" target="_blank">HyperJuice</a>を持っていないので、もしこれがiPadminiじゃなくMacBookAirだったら同じことは出来ていませんでした。<br />
 いざという時にモバイルバッテリーで気軽に充電出来るのもiPadminiのいいところです。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
@@ -77,7 +77,7 @@ MacBookAirも持っていこうかほんの少しだけ迷いましたがiPadmin
 iPhoneだとなかなか一緒には見づらいですが、フォトストリームでiPhone5で撮った写真をすぐiPadminiで見れるというのはとても便利で気に入ってます。</p>
 <h2>悪かった部分</h2>
 <h3>ブログエディタ</h3>
-<p><a href="http://kotalab.com/wp-content/uploads/ipadmini10days_20121114_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadmini10days_20121114_02.jpg" alt="" title="ipadmini10days_20121114_02" width="448" height="336" class="alignnone size-full wp-image-4214" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/ipadmini10days_20121114_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini10days_20121114_02.jpg" alt="" title="ipadmini10days_20121114_02" width="448" height="336" class="alignnone size-full wp-image-4214" /></a><br />
 ブログ更新について。<br />
 <del datetime="2013-09-05T08:35:35+00:00">これはiPadminiがというよりもアプリに対することの方が大きかったです。<br />
 正直期待していたよりもかなり残念な結果でした。<br />
@@ -139,17 +139,17 @@ iPadminiの登場でiPadを使ってブログを書く人が増えブログエ�
 </div>
 <h2>最後に</h2>
 <p>僕は買う前にある程度iPadminiの用途を考えていました。<br />
-<a href="http://kotalab.com/ipad-mini-thinking" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipad_121029.jpg" alt="無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-thinking" target="_blank">無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！ | kotala's note</a><br style="clear:both;" /></p>
+<a href="https://kotalab.com/ipad-mini-thinking" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipad_121029.jpg" alt="無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-thinking" target="_blank">無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！ | kotala's note</a><br style="clear:both;" /></p>
 <blockquote><p>通勤電車内の読書、RSS購読、外出時のブログ更新をiPadでやろうと思っています。</p></blockquote>
 <p>思っていたことと実際にやってみるのとでは違った部分が色々ありました。<br />
 色々ありますが買ってよかったかどうかと聞かれたら即答で良かったと答えます。<br />
 それだけiPadminiは買ってよかったです！<br />
 ちなみにiPadminiを買ってすぐにKindleストアアプリを入れましたが、まだ実際には電子書籍を読んでいません。<br />
-<a href="http://kotalab.com/ipadmini-first10app" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20121104102440.jpg" alt="iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipadmini-first10app" target="_blank">iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note</a><br style="clear:both;" />何故かというと積読本が3冊あるからです。<br />
+<a href="https://kotalab.com/ipadmini-first10app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121104102440.jpg" alt="iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipadmini-first10app" target="_blank">iPadminiを買って真っ先にいれた10のアプリ！ | kotala's note</a><br style="clear:both;" />何故かというと積読本が3冊あるからです。<br />
 この3冊を読み終える頃にはKindleで電子書籍を買います！</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/ipadmini-datatraffic" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipadminiwifi_121202-448x336.jpg" alt="iPadminiを1ヶ月使ってみて、iPhone5と合わせてどれくらいの通信量かざっくり調べてみた！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipadmini-datatraffic" target="_blank">iPadminiを1ヶ月使ってみて、iPhone5と合わせてどれくらいの通信量かざっくり調べてみた！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/ipad-mini-before-after" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-before-after" target="_blank">iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/ipadmini-settings" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipadmini130108-448x300.jpg" alt="アプリの切り替えが楽になる！iPadminiがほんの少し使いやすくなる設定！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipadmini-settings" target="_blank">アプリの切り替えが楽になる！iPadminiがほんの少し使いやすくなる設定！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/ipad-mini-photo-windows" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipadmini130108-448x300.jpg" alt="iPadminiの写真をWindowsで見る方法！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-photo-windows" target="_blank">iPadminiの写真をWindowsで見る方法！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ipadmini-datatraffic" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadminiwifi_121202-448x336.jpg" alt="iPadminiを1ヶ月使ってみて、iPhone5と合わせてどれくらいの通信量かざっくり調べてみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipadmini-datatraffic" target="_blank">iPadminiを1ヶ月使ってみて、iPhone5と合わせてどれくらいの通信量かざっくり調べてみた！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ipad-mini-before-after" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-before-after" target="_blank">iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ipadmini-settings" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini130108-448x300.jpg" alt="アプリの切り替えが楽になる！iPadminiがほんの少し使いやすくなる設定！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipadmini-settings" target="_blank">アプリの切り替えが楽になる！iPadminiがほんの少し使いやすくなる設定！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ipad-mini-photo-windows" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini130108-448x300.jpg" alt="iPadminiの写真をWindowsで見る方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-photo-windows" target="_blank">iPadminiの写真をWindowsで見る方法！ | kotala's note</a><br style="clear:both;" /></p>

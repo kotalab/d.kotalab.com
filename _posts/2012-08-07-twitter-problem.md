@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1947
-wordpress_url: http://kotalab.com/?p=1947
+wordpress_url: https://kotalab.com/?p=1947
 date: '2012-08-07 12:20:33 +0900'
 date_gmt: '2012-08-07 03:20:33 +0900'
 category:
@@ -20,22 +20,22 @@ tags:
 - Twitter
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/twitter_120803.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/twitter_120803.jpg" alt="" title="twitter_120803" width="448" height="298" class="alignnone size-full wp-image-1961" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/twitter_120803.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/twitter_120803.jpg" alt="" title="twitter_120803" width="448" height="298" class="alignnone size-full wp-image-1961" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/pleuntje/7557559670/" target="_blank">search</a> / Pleuntje</span><br />
 Twitterで自分のツイートを検索したら表示されませんでした。@kotala_bです。<br />
 エゴサーチをしようとTwitterで「kotala_b」を検索してみたところ、表示されるツイートと<strong>表示されないツイート</strong>がありました。<br />
 <!--more--></p>
 <h2>検索に表示されない</h2>
 <p>▼「kotala_b」での検索結果<br />
-<a href="http://kotalab.com/wp-content/uploads/twitter_120803_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/twitter_120803_02.jpg" alt="" title="twitter_120803_02" width="448" height="336" class="alignnone size-full wp-image-1953" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/twitter_120803_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/twitter_120803_02.jpg" alt="" title="twitter_120803_02" width="448" height="336" class="alignnone size-full wp-image-1953" /></a><br />
 ▼その時のタイムライン<br />
-<a href="http://kotalab.com/wp-content/uploads/twitter_120803_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/twitter_120803_01.jpg" alt="" title="twitter_120803_01" width="448" height="336" class="alignnone size-full wp-image-1952" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/twitter_120803_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/twitter_120803_01.jpg" alt="" title="twitter_120803_01" width="448" height="336" class="alignnone size-full wp-image-1952" /></a><br />
 2つを比べてみると表示されないツイートのほとんどがURL付きのツイートであることがわかりました。<br />
 公式ヘルプを見てみると、どうやら自動的に検索結果から除外されることがあるようです。<br />
 参考：<a href="https://support.twitter.com/groups/32-something-s-not-working/topics/118-search-problems/articles/249045-twitter" title="Twitter検索と留意点" target="_blank">Twitter検索と留意点</a></p>
 <h2>検索に表示されない場合の解決策</h2>
 <p>▼解決策を探してググります！<br />
-<a href="http://kotalab.com/wp-content/uploads/twitter_120803_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/twitter_120803_03.jpg" alt="" title="twitter_120803_03" width="448" height="75" class="alignnone size-full wp-image-1954" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/twitter_120803_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/twitter_120803_03.jpg" alt="" title="twitter_120803_03" width="448" height="75" class="alignnone size-full wp-image-1954" /></a><br />
 検索してみたところ、自分ではどうすることも出来なくて公式サポートにメールするしかないようです。<br />
 参考：<a href="https://support.twitter.com/forms/" title="ヘルプセンター" target="_blank">ヘルプセンター</a></p>
 <h2>ヘルプセンターにメールを送る</h2>

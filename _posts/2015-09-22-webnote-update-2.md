@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14845
-wordpress_url: http://kotalab.com/?p=14845
+wordpress_url: https://kotalab.com/?p=14845
 date: '2015-09-22 13:52:48 +0900'
 date_gmt: '2015-09-22 04:52:48 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - WebNoteアップデート情報
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922-780x702.jpg" alt="webnote-update-2_20150922" width="780" height="702" class="aligncenter size-large wp-image-14879" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922-780x702.jpg" alt="webnote-update-2_20150922" width="780" height="702" class="aligncenter size-large wp-image-14879" /><br />
 iPhoneアプリWebNoteのアップデートを行い、通信量が気になる方のための機能を追加しました。<br />
 今回のアップデートの目玉はiOS9のコンテンツブロッカーの追加です！</p>
 <p>コンテンツブロッカーというと広告をブロックするだけの機能のように思われがちですが、WebNoteでは広告ではなく画像の読み込みをブロックします。</p>
@@ -48,15 +48,15 @@ iPhoneアプリWebNoteのアップデートを行い、通信量が気になる�
 <p>WebNoteで追加されているコンテンツブロッカーを利用するためには、iOS9以上のバージョンが必要です。<br />
 iOS9にアップデートした上で下記の設定を行ってください。</p>
 <p>1.設定アプリを開く<br />
-<img src="http://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_01.png" alt="webnote-update-2_20150922_01" width="300" height="504" class="aligncenter size-medium wp-image-14874" /></p>
+<img src="https://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_01.png" alt="webnote-update-2_20150922_01" width="300" height="504" class="aligncenter size-medium wp-image-14874" /></p>
 <p>2.Safariを開く<br />
-<img src="http://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_02.png" alt="webnote-update-2_20150922_02" width="300" height="504" class="aligncenter size-medium wp-image-14878" /></p>
+<img src="https://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_02.png" alt="webnote-update-2_20150922_02" width="300" height="504" class="aligncenter size-medium wp-image-14878" /></p>
 <p>3.コンテンツブロッカーを開く<br />
-<img src="http://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_03.png" alt="webnote-update-2_20150922_03" width="300" height="504" class="aligncenter size-medium wp-image-14876" /></p>
+<img src="https://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_03.png" alt="webnote-update-2_20150922_03" width="300" height="504" class="aligncenter size-medium wp-image-14876" /></p>
 <p>4.有効にしたいコンテンツブロッカーをONにする<br />
-<img src="http://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_05.png" alt="webnote-update-2_20150922_05" width="300" height="504" class="aligncenter size-medium wp-image-14877" /></p>
+<img src="https://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_05.png" alt="webnote-update-2_20150922_05" width="300" height="504" class="aligncenter size-medium wp-image-14877" /></p>
 <p>5.Safariで開いているページを再読み込みする<br />
-<img src="http://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_061-300x493.png" alt="webnote-update-2_20150922_06" width="300" height="504" class="aligncenter size-medium wp-image-14886" /></p>
+<img src="https://kotalab.com/wp-content/uploads/2015/09/webnote-update-2_20150922_061-300x493.png" alt="webnote-update-2_20150922_06" width="300" height="504" class="aligncenter size-medium wp-image-14886" /></p>
 <p>これでコンテンツブロッカーが有効になります。</p>
 <h2>さいごに</h2>
 <p>画像の読み込みをブロックするSafari拡張機能が追加されたWebNoteは、<strong>2015年9月末まで半額セール中です！</strong><br />

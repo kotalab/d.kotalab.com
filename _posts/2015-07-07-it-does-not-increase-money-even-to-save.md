@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14726
-wordpress_url: http://kotalab.com/?p=14726
+wordpress_url: https://kotalab.com/?p=14726
 date: '2015-07-07 07:31:56 +0900'
 date_gmt: '2015-07-06 22:31:56 +0900'
 category:
@@ -19,7 +19,7 @@ tags:
 - むだづかい
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/third-anivarsary_20150509_01-780x516.jpg" alt="third-anivarsary_20150509_01.JPG" width="780" height="516" class="aligncenter size-large wp-image-14305" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/third-anivarsary_20150509_01-780x516.jpg" alt="third-anivarsary_20150509_01.JPG" width="780" height="516" class="aligncenter size-large wp-image-14305" /><br />
 お金を貯める2つの方法はよく「収入を増やす」と「支出を減らす」だと言われています。</p>
 <p>どちらも同じお金を増やす手段なのですが、周囲や自分に与える影響は大きく変わる可能性があります。<!--more--></p>
 <h2>支出を減らす</h2>
@@ -42,7 +42,7 @@ comments: []
 <p><strong>両方のバランスが重要だと考えています。</strong></p>
 <p>どちらかだけの人生なんてつまらないです。</p>
 <h2>さいごに</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/third-anivarsary_20150509_02-780x516.jpg" alt="third-anivarsary_20150509_02.JPG" width="780" height="516" class="aligncenter size-large wp-image-14306" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/third-anivarsary_20150509_02-780x516.jpg" alt="third-anivarsary_20150509_02.JPG" width="780" height="516" class="aligncenter size-large wp-image-14306" /></p>
 <p>支出を減らすこと=節約<br />
 は決して悪いことではありません。</p>
 <p>ムダがあればムダをなくす。<br />
@@ -53,5 +53,5 @@ comments: []
 <p>節約のための節約だけは避けたいものです。</p>
 <p>[dailynew]<br />
 ・Sketch3で画面遷移を作る</p>
-<p><a href="http://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6920
-wordpress_url: http://kotalab.com/?p=6920
+wordpress_url: https://kotalab.com/?p=6920
 date: '2013-04-26 20:25:24 +0900'
 date_gmt: '2013-04-26 11:25:24 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - 設定
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/pocket_130426-448x448.png" alt="pocket_130426" width="448" height="448" class="alignnone size-large wp-image-6923" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/pocket_130426-448x448.png" alt="pocket_130426" width="448" height="448" class="alignnone size-large wp-image-6923" /><br />
 Pocketに追加ボタンを設置しました。@kotala_bです。<br />
 Pocketは「後で読む」サービスの代表的なwebサービスです。<br />
 今まではFacebook、Twitter、はてブ、Google+の4種類を設置していました。<br />
@@ -38,7 +38,7 @@ Pocketは「後で読む」サービスの代表的なwebサービスです。<b
 </div>
 <p><!--more--></p>
 <h2>Pocketに追加ボタンを設置してみました</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/pocket_130426_01-448x76.jpg" alt="pocket_130426_01" width="448" height="76" class="alignnone size-large wp-image-6921" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/pocket_130426_01-448x76.jpg" alt="pocket_130426_01" width="448" height="76" class="alignnone size-large wp-image-6921" /><br />
 実際にボタンを設置してみました。<br />
 設置してみたところ、他のボタンに比べPocketのボタンの方が押されていたのには驚きました！</p>
 <blockquote><p>ホント、なんだみんなここにいたんじゃーん！、なんですか、このサイレントユーザー、まるで地下水脈ですよ。</p></blockquote>
@@ -62,4 +62,4 @@ Pocketは「後で読む」サービスの代表的なwebサービスです。<b
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/social-botton" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/social_120630_03.jpg" alt="＠knk_nさんの記事を見てソーシャルボタンを設置したら意外と簡単にできた！ | kotala's note" width="150" /></a><a href="http://kotalab.com/social-botton" target="_blank">＠knk_nさんの記事を見てソーシャルボタンを設置したら意外と簡単にできた！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/social-botton" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/social_120630_03.jpg" alt="＠knk_nさんの記事を見てソーシャルボタンを設置したら意外と簡単にできた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/social-botton" target="_blank">＠knk_nさんの記事を見てソーシャルボタンを設置したら意外と簡単にできた！ | kotala's note</a><br style="clear:both;" /></p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5830
-wordpress_url: http://kotalab.com/?p=5830
+wordpress_url: https://kotalab.com/?p=5830
 date: '2013-01-22 08:53:12 +0900'
 date_gmt: '2013-01-21 23:53:12 +0900'
 category:
@@ -25,17 +25,17 @@ tags:
 - リマインダー
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/smareverdue_130122.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="smareverdue_130122" width="448" height="327" class="alignnone size-large wp-image-5838" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/smareverdue_130122.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="smareverdue_130122" width="448" height="327" class="alignnone size-large wp-image-5838" /></a><br />
 Evernoteが大好き。@kotala_bです。<br />
 前回は2タップで特定のノートを開く方法をご紹介しました。<br />
-<a href="http://kotalab.com/evernote-2tap" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note" width="150" /></a><a href="http://kotalab.com/evernote-2tap" target="_blank">Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note</a><br style="clear:both;" />SmarteverとSeeqを使って2タップで開く方法でした。<br />
+<a href="https://kotalab.com/evernote-2tap" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/evernote-2tap" target="_blank">Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note</a><br style="clear:both;" />SmarteverとSeeqを使って2タップで開く方法でした。<br />
 普段よく見るノートはこの方法を使えば検索いらずで快適に見ることが出来ます！<br />
 <strong>今回は指定した時間にノートを開く方法をご紹介します！<br />
 しかもたったの1タップです！</strong><br />
 <!--more--></p>
 <h2>使うアプリは2つ</h2>
 <p>使うアプリはEvernoteのクライアントアプリ「SmartEver」とリマインダーアプリの「Due」です。<br />
-<a href="http://kotalab.com/due-urlscheme" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/due_120912.jpg" alt="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note" width="150" /></a><a href="http://kotalab.com/due-urlscheme" target="_blank">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note</a><br style="clear:both;" />ノートを開きたい時間を指定するのにDueを使います。</p>
+<a href="https://kotalab.com/due-urlscheme" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note" width="150" /></a><a href="https://kotalab.com/due-urlscheme" target="_blank">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note</a><br style="clear:both;" />ノートを開きたい時間を指定するのにDueを使います。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4"><img src="http://a1946.phobos.apple.com/us/r1000/062/Purple/v4/03/e5/86/03e5863b-78e4-fab1-d7c6-9adb6d9ca301/mza_5251020485347599819.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4">SmartEver - サクサク使える軽量Evernoteクライアント</span></div>
@@ -59,16 +59,16 @@ Evernoteが大好き。@kotala_bです。<br />
 <h2>SmarteverからURLスキームを取得する</h2>
 <p>まずはSmarteverでノートのURLスキームを取得します。<br />
 ▼Smarteverで時間指定で開きたいノートを開き「i」ボタンをタップ<br />
-<a href="http://kotalab.com/wp-content/uploads/evernote_130121_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/evernote_130121_01-300x513.png" alt="evernote_130121_01" width="300" height="513" class="alignnone size-medium wp-image-5817" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/evernote_130121_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/evernote_130121_01-300x513.png" alt="evernote_130121_01" width="300" height="513" class="alignnone size-medium wp-image-5817" /></a><br />
 ▼URLスキームが表示されているのでコピーします<br />
-<a href="http://kotalab.com/wp-content/uploads/evernote_130121_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/evernote_130121_02-300x513.png" alt="evernote_130121_02" width="300" height="513" class="alignnone size-medium wp-image-5818" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/evernote_130121_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/evernote_130121_02-300x513.png" alt="evernote_130121_02" width="300" height="513" class="alignnone size-medium wp-image-5818" /></a><br />
 コピーしたらDueでリマインダーの設定を行います。<br />
 ▼取得したURLスキームをDueのリマインダーにセット<br />
-<a href="http://kotalab.com/wp-content/uploads/smareverdue_130122_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smareverdue_130122_01-300x513.png" alt="smareverdue_130122_01" width="300" height="513" class="alignnone size-medium wp-image-5836" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/smareverdue_130122_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smareverdue_130122_01-300x513.png" alt="smareverdue_130122_01" width="300" height="513" class="alignnone size-medium wp-image-5836" /></a><br />
 時間やリピート設定等はお好みで設定してください。<br />
 保存を押したら設定完了です。<br />
 ▼指定した時刻になると「〜を開く」というメッセージが出るのでそこをタップ<br />
-<a href="http://kotalab.com/wp-content/uploads/smareverdue_130122_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smareverdue_130122_02-300x513.png" alt="smareverdue_130122_02" width="300" height="513" class="alignnone size-medium wp-image-5837" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/smareverdue_130122_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smareverdue_130122_02-300x513.png" alt="smareverdue_130122_02" width="300" height="513" class="alignnone size-medium wp-image-5837" /></a><br />
 時間がきたらこのボタンを1タップするだけ！<br />
 これで先ほどのノートが開けます。</p>
 <h2>最後に</h2>

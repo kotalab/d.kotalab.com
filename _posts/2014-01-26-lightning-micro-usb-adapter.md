@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10672
-wordpress_url: http://kotalab.com/?p=10672
+wordpress_url: https://kotalab.com/?p=10672
 date: '2014-01-26 09:57:36 +0900'
 date_gmt: '2014-01-26 00:57:36 +0900'
 category:
@@ -22,9 +22,9 @@ tags:
 - USBアダプタ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/lightning-micro-usb-adapter_140126_01-546x361.jpg" alt="lightning-micro-usb-adapter_140126_01" width="546" height="361" class="alignnone size-large wp-image-10676" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/lightning-micro-usb-adapter_140126_01-546x361.jpg" alt="lightning-micro-usb-adapter_140126_01" width="546" height="361" class="alignnone size-large wp-image-10676" /><br />
 これまで僕は外出時のiPhoneの充電には巻き取り式Lightningケーブルを使ってきました。<br />
-使っていたのは<a href="http://kotalab.com/lightning-cable-reel" title="iPhone 5sでも使える！激安巻き取り式LightningケーブルをAmazonで買ったぞ！">100円ちょっとの激安ケーブル</a>です。<br />
+使っていたのは<a href="https://kotalab.com/lightning-cable-reel" title="iPhone 5sでも使える！激安巻き取り式LightningケーブルをAmazonで買ったぞ！">100円ちょっとの激安ケーブル</a>です。<br />
 持ち運ぶとなると長いケーブルはどうしても邪魔なので巻き取り式をずっと愛用しています。<br />
 PocketWi-Fiの充電用に使うmicroUSBケーブルももちろん巻き取り式！microUSBの方は100均で買ったケーブルです。<br />
 充電できればいいやという感覚で激安の巻き取り式Lightningケーブルを使っていたんですが、危ない壊れ方をしたという情報を目にして使うのを急遽やめることにしました。<br />
@@ -49,9 +49,9 @@ via:<a href="http://azur256.com/archives/10414" target="_blank">巻き取り式 
 そしたらこれがとってもいい感じなのでご紹介したいと思います！<br />
 巻き取り式ケーブルが黒で純正品は白のアダプタしかないので、MFI認証の黒いアダプタを買いました！<br />
 これがそのmicroUSBアダプタです！<br />
-<img src="http://kotalab.com/wp-content/uploads/lightning-micro-usb-adapter_140126_01-546x361.jpg" alt="lightning-micro-usb-adapter_140126_01" width="546" height="361" class="alignnone size-large wp-image-10676" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lightning-micro-usb-adapter_140126_01-546x361.jpg" alt="lightning-micro-usb-adapter_140126_01" width="546" height="361" class="alignnone size-large wp-image-10676" /><br />
 100均のUSBケーブルと一緒に並べるとこんな感じ！<br />
-<img src="http://kotalab.com/wp-content/uploads/lightning-micro-usb-adapter_140126_02-546x361.jpg" alt="lightning-micro-usb-adapter_140126_02" width="546" height="361" class="alignnone size-large wp-image-10675" /><br />
+<img src="https://kotalab.com/wp-content/uploads/lightning-micro-usb-adapter_140126_02-546x361.jpg" alt="lightning-micro-usb-adapter_140126_02" width="546" height="361" class="alignnone size-large wp-image-10675" /><br />
 とってもちっちゃくて持ち運びにスゴい便利！ケーブルは今まで持ち歩いてたモノだから荷物が増えるわけでもないし大満足！<br />
 小さすぎてなくさないかどうかだけ心配なので、巻き取り式ケーブルにつけっぱなしで持ち運んでます。</p>
 <h3>さいごに</h3>

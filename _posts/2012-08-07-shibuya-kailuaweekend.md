@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1985
-wordpress_url: http://kotalab.com/?p=1985
+wordpress_url: https://kotalab.com/?p=1985
 date: '2012-08-07 15:29:49 +0900'
 date_gmt: '2012-08-07 06:29:49 +0900'
 category:
@@ -23,22 +23,22 @@ tags:
 - ヒカリエ
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20120807152945.jpg" width="448" height="336" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120807152945.jpg" width="448" height="336" /><br />
 渋谷のヒカリエに初めて行きました。@kotala_bです。<br />
 ヒカリエ7階にあるハワイアンレストラン「KailuaWeekend」でテリヤキロコモコを食べました！<br />
 <!--more--><br />
 2時半ごろに行ったんですが、満員でお店の外で少し待つことに。<br />
 ▼中に通されるとHAWAIと書かれたオブジェが飾ってありました。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20120807152947.jpg" width="448" height="336" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120807152947.jpg" width="448" height="336" /><br />
 ▼食べた後もゆっくりしてるお客さんが多いようで、混んでる店内とは裏腹に頼んでからは数分で料理が運ばれて来ました！<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20120807152943.jpg" width="448" height="336" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120807152943.jpg" width="448" height="336" /><br />
 頼んだのは<strong>テリヤキロコモコ</strong>（930円）。<br />
 下にある玄米ごはんがほぼ全部隠れる程の大きさのハンバーグ！<br />
 さらに半熟具合がいい感じの卵も乗っかってます！<br />
 ヒカリエのターゲットが女性ということで、食事の量もそれなりかなと最初は思ってたんですがそんなことはありませんでした！<br />
 一緒についてきたスープも一緒に完食！<br />
 ▼食後にデザートを頼みました。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20120807154405.jpg" width="448" height="336" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120807154405.jpg" width="448" height="336" /><br />
 フルーツたっぷりのアサイーボウルSサイズ（580円）。<br />
 アサイーボウルには3種類ありました。<br />
 頼んだのはそのうちのスタンダード。<br />

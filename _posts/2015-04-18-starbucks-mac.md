@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14128
-wordpress_url: http://kotalab.com/?p=14128
+wordpress_url: https://kotalab.com/?p=14128
 date: '2015-04-18 16:35:26 +0900'
 date_gmt: '2015-04-18 07:35:26 +0900'
 category:
@@ -21,14 +21,14 @@ tags:
 - スタバ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/stb-mac-diff_20150418_01-780x520.jpg" alt="stb-mac-diff_20150418_01" width="780" height="520" class="aligncenter size-large wp-image-14130" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/stb-mac-diff_20150418_01-780x520.jpg" alt="stb-mac-diff_20150418_01" width="780" height="520" class="aligncenter size-large wp-image-14130" /><br />
 スタバの新製品「フルーツ-オン-トップ-ヨーグルト フラペチーノ with クラッシュ ナッツ」</p>
 <p>そこまで甘すぎずヨーグルトが入っていることでさっぱりした味わいになっています。<br />
 スタバの「フルーツ-オン-トップ-ヨーグルト フラペチーノ with クラッシュ ナッツ」がおいしい！みたいなことを書こうと思ったけど、<br />
 土曜の午後にスタバでドヤ顏しながらMacBook Airを広げてブログを書きながら思ったことをつらつらと書こうと思う。<br />
 <!--more--></p>
 <h2>スタバってなんでこんなに混んでるの？</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/stb-mac-diff_20150418_02-780x520.jpg" alt="stb-mac-diff_20150418_02" width="780" height="520" class="aligncenter size-large wp-image-14131" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/stb-mac-diff_20150418_02-780x520.jpg" alt="stb-mac-diff_20150418_02" width="780" height="520" class="aligncenter size-large wp-image-14131" /><br />
 スタバのコーヒーはまずくはないけれど、決して「このコーヒーうまい！」という味ではない。<br />
 値段で言えば100円で飲めるマックの数倍する。</p>
 <p>それなのに関わらず休日の午後にはどこのスタバに行っても大抵席が埋まってるし、<br />

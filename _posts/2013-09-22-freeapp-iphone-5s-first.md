@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 9585
-wordpress_url: http://kotalab.com/?p=9585
+wordpress_url: https://kotalab.com/?p=9585
 date: '2013-09-22 12:26:31 +0900'
 date_gmt: '2013-09-22 03:26:31 +0900'
 category:
@@ -26,7 +26,7 @@ tags:
 - Gmail
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/freeappiphone5sfirst_130922-546x307.jpg" alt="freeappiphone5sfirst_130922" width="546" height="307" class="alignnone size-large wp-image-9588" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/freeappiphone5sfirst_130922-546x307.jpg" alt="freeappiphone5sfirst_130922" width="546" height="307" class="alignnone size-large wp-image-9588" /><br />
 iPhone 5sを使ってます。こたら（@kotala_b）です。<br />
 もうiPhone 5sやiPhone 5cを手にされましたか？<br />
 今日はiPhone 5sやiPhone 5cを買ったら真っ先にいれたい無料アプリを紹介したいと思います！<br />

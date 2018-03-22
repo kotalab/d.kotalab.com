@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14103
-wordpress_url: http://kotalab.com/?p=14103
+wordpress_url: https://kotalab.com/?p=14103
 date: '2015-04-15 08:09:49 +0900'
 date_gmt: '2015-04-14 23:09:49 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - フォーカルポイント
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/insurancecannotfeelrelieved_131126_02.jpg" alt="insurancecannotfeelrelieved_131126_02" width="780" class="aligncenter wp-image-10245" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/insurancecannotfeelrelieved_131126_02.jpg" alt="insurancecannotfeelrelieved_131126_02" width="780" class="aligncenter wp-image-10245" /><br />
 価値あることだと断言できます。<br />
 ここ何日か更新を続けていて、やっぱりブログを書くことっていいなって思いました。</p>
 <p>なんとなく頭の中でぼんやり浮かんでいることを文章にするっていう行為が、自分自身を整理することができる。<br />

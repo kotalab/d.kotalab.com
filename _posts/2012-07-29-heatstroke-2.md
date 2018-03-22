@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1707
-wordpress_url: http://kotalab.com/?p=1707
+wordpress_url: https://kotalab.com/?p=1707
 date: '2012-07-29 10:35:31 +0900'
 date_gmt: '2012-07-29 01:35:31 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - 熱中症対策
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/water_120729.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/water_120729.jpg" alt="" title="water_120729" width="448" height="336" class="alignnone size-full wp-image-1714" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/water_120729.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/water_120729.jpg" alt="" title="water_120729" width="448" height="336" class="alignnone size-full wp-image-1714" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/22280677@N07/2196926330/" target="_blank">Drinks</a> / Svadilfari</span><br />
 水を毎日飲んでます。@kotala_bです。<br />
 夏になると毎年のように熱中症で緊急搬送というニュースが絶えません。<br />
@@ -79,7 +79,7 @@ comments: []
 <p>のどが渇いていない時は水分補給を忘れがちです。<br />
 リマインダー系のアプリを活用して飲み忘れを防ぎましょう。<br />
 ▼2時間おきに水分補給のアラートをセット。これで忘れずに水分補給！<br />
-<a href="http://kotalab.com/wp-content/uploads/water_120729_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/water_120729_01.jpg" alt="" title="water_120729_01" width="300" height="423" class="alignnone size-full wp-image-1718" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/water_120729_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/water_120729_01.jpg" alt="" title="water_120729_01" width="300" height="423" class="alignnone size-full wp-image-1718" /></a></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/due-rimainda-taima-aramu/id390017969?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1955.phobos.apple.com/us/r30/Purple2/v4/ac/cc/b0/acccb031-74ec-b718-b37e-68cf31dbfcfa/mzl.hnnmxzuh.png" width="80" /></a></div>
 <div class="applinktext">

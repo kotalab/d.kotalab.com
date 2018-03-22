@@ -21,7 +21,7 @@ tags:
 - 空き容量不足
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/medias.jpg"><img src="http://kotalab.com/wp-content/uploads/medias-224x300.jpg" alt="" title="medias" width="224" height="300" class="alignnone size-medium wp-image-692" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/medias.jpg"><img src="https://kotalab.com/wp-content/uploads/medias-224x300.jpg" alt="" title="medias" width="224" height="300" class="alignnone size-medium wp-image-692" /></a><br />
 <span style="font-size:10px;"><a title="MEDIAS WP手続き中。" href="http://www.flickr.com/photos/mkuma443/5865031155/" target="_blank">MEDIAS WP手続き中。</a> / mkuma443</span><br />
 ドコモのmediasWP　N-06Cを使っている@kotala_bです。<br />
 ここ1週間くらいスマホの動作が不安定でして、勝手に再起動する。写真を撮っても保存出来ない。（普段は撮ったら自動的にSDカードに保存されます）アプリがいつの間にか消えてる。<br />
@@ -70,11 +70,11 @@ SDカードに移せないアプリが減ればいいんですが、ウェジッ
 機種変するならやっぱりiPhoneが欲しい！<br />
 <strong><del datetime="2012-12-07T09:43:10+00:00">新しいiphoneはまだですか？ドコモでも出してもらえるとうれしいです。apple様おねがいします。どうかお願いします。</del></strong><br />
 ドコモで出ないのでMNPでiPhoneを購入しました。<br />
-<a href="http://kotalab.com/iphone4s32gb-0yen" target="_blank"><img src="http://capture.heartrails.com/150x130?http://kotalab.com/http://kotalab.com/iphone4s32gb-0yen" alt="http://kotalab.com/archives/1402" width="150" height="130" align="left" /></a><a href="http://kotalab.com/iphone4s32gb-0yen" target="_blank">念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note</a><br style="clear:both;" /><br />
-8月5日追記：<a href="http://kotalab.com/android-choosepoint" target="_blank">【Android】ここに注目すれば容量不足も気にならない！Androidを選ぶ時に一番気をつけたいポイント！</a>を記事にしました。<br />
+<a href="https://kotalab.com/iphone4s32gb-0yen" target="_blank"><img src="http://capture.heartrails.com/150x130?https://kotalab.com/https://kotalab.com/iphone4s32gb-0yen" alt="https://kotalab.com/archives/1402" width="150" height="130" align="left" /></a><a href="https://kotalab.com/iphone4s32gb-0yen" target="_blank">念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note</a><br style="clear:both;" /><br />
+8月5日追記：<a href="https://kotalab.com/android-choosepoint" target="_blank">【Android】ここに注目すれば容量不足も気にならない！Androidを選ぶ時に一番気をつけたいポイント！</a>を記事にしました。<br />
 こちらの記事も合わせてお読みください。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/android-memoryshortage" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/think.jpg" alt="【Android】空き容量不足に悩むぼくがやっている4つのこと | kotala's note" width="150" /></a><a href="http://kotalab.com/android-memoryshortage" target="_blank">【Android】空き容量不足に悩むぼくがやっている4つのこと | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/android-choosepoint" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/Android_120805.jpg" alt="【Android】ここに注目すれば容量不足も気にならない！Androidを選ぶ時に一番気をつけたいポイント！ | kotala's note" width="150" /></a><a href="http://kotalab.com/android-choosepoint" target="_blank">【Android】ここに注目すれば容量不足も気にならない！Androidを選ぶ時に一番気をつけたいポイント！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/android-format" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/androidreset_120820.jpg" alt="【Android】Androidを初期化する方法と注意点 | kotala's note" width="150" /></a><a href="http://kotalab.com/android-format" target="_blank">【Android】Androidを初期化する方法と注意点 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/mnp-iphone5" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130327212701.jpg" alt="iPhone5にMNPしたらしたいことまとめ | kotala's note" width="150" /></a><a href="http://kotalab.com/mnp-iphone5" target="_blank">iPhone5にMNPしたらしたいことまとめ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/android-memoryshortage" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/think.jpg" alt="【Android】空き容量不足に悩むぼくがやっている4つのこと | kotala's note" width="150" /></a><a href="https://kotalab.com/android-memoryshortage" target="_blank">【Android】空き容量不足に悩むぼくがやっている4つのこと | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/android-choosepoint" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/Android_120805.jpg" alt="【Android】ここに注目すれば容量不足も気にならない！Androidを選ぶ時に一番気をつけたいポイント！ | kotala's note" width="150" /></a><a href="https://kotalab.com/android-choosepoint" target="_blank">【Android】ここに注目すれば容量不足も気にならない！Androidを選ぶ時に一番気をつけたいポイント！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/android-format" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/androidreset_120820.jpg" alt="【Android】Androidを初期化する方法と注意点 | kotala's note" width="150" /></a><a href="https://kotalab.com/android-format" target="_blank">【Android】Androidを初期化する方法と注意点 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/mnp-iphone5" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130327212701.jpg" alt="iPhone5にMNPしたらしたいことまとめ | kotala's note" width="150" /></a><a href="https://kotalab.com/mnp-iphone5" target="_blank">iPhone5にMNPしたらしたいことまとめ | kotala's note</a><br style="clear:both;" /></p>

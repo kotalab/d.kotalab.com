@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 8675
-wordpress_url: http://kotalab.com/?p=8675
+wordpress_url: https://kotalab.com/?p=8675
 date: '2013-09-11 15:01:21 +0900'
 date_gmt: '2013-09-11 06:01:21 +0900'
 category:
@@ -26,7 +26,7 @@ tags:
 - iPhone 5c
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/howtobuyiphone5siphone5c_130911-546x242.png" alt="howtobuyiphone5siphone5c_130911" width="546" height="242" class="alignnone size-large wp-image-8676" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/howtobuyiphone5siphone5c_130911-546x242.png" alt="howtobuyiphone5siphone5c_130911" width="546" height="242" class="alignnone size-large wp-image-8676" /><br />
 iPhone 5sを購入予定です。こたら（@kotala_b）です。<br />
 ついに新型のiPhoneが2種類発表されましたね！<br />
 指紋認証搭載でカメラも一段と機能が上がった<strong>iPhone 5S</strong>、機能面はiPhone 5のままカラフルでお手頃価格になった<strong>iPhone 5c</strong>。<br />
@@ -55,13 +55,13 @@ iPhone 5S購入予定の方は最新の情報をチェックしておきまし�
 とは言ってもこれまでのiPhoneや他のスマホと購入方法に変わりはないはず！<br />
 機種変更にしてもMNPや新規にしても、身分証明書など必要なモノはiPhone 5sでも他の端末でも一緒。<br />
 MNPはMNP予約番号を事前に発行する必要がありますが、MNP予約番号は有効期限が15日間となっているので早めに取りすぎないようにしましょう！<br />
-<a href="http://kotalab.com/mnp-todobetter" title="MNPの前後でやったこと、やっておいた方がいいこと" target="_blank">MNPについて</a>はこちらを参考にしてください。<br />
+<a href="https://kotalab.com/mnp-todobetter" title="MNPの前後でやったこと、やっておいた方がいいこと" target="_blank">MNPについて</a>はこちらを参考にしてください。<br />
 iPhone 5s、iPhone 5c関連エントリー：<br />
-<a href="http://kotalab.com/apple-spevent" target="_blank">iPhone 5S、iPhone 5Cが9月20日発売決定！9月11日のAppleイベントの内容！</a><br />
-<a href="http://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
-<a href="http://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
-<a href="http://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
-<a href="http://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
+<a href="https://kotalab.com/apple-spevent" target="_blank">iPhone 5S、iPhone 5Cが9月20日発売決定！9月11日のAppleイベントの内容！</a><br />
+<a href="https://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
+<a href="https://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
+<a href="https://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
+<a href="https://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31KsxIFmn0L._SL160_.jpg" style="border: none;" /></a></div>

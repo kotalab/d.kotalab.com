@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1696
-wordpress_url: http://kotalab.com/?p=1696
+wordpress_url: https://kotalab.com/?p=1696
 date: '2012-07-28 12:18:21 +0900'
 date_gmt: '2012-07-28 03:18:21 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - 読んだ
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/toyota_120728.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/toyota_120728.jpg" alt="" title="toyota_120728" width="448" height="336" class="alignnone size-full wp-image-1697" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/toyota_120728.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/toyota_120728.jpg" alt="" title="toyota_120728" width="448" height="336" class="alignnone size-full wp-image-1697" /></a><br />
 若松義人さん著書の「<a href="http://www.amazon.co.jp/exec/obidos/asin/4569690645/same-22/" rel="nofollow" name="booklink" target="_blank">トヨタの上司は現場で何を伝えているのか</a>」を読みました。@kotala_bです。<br />
 本書では「<strong>トヨタ語</strong>」と言われている、トヨタグループやトヨタ式の実践企業で上司から部下へと伝えられている仕事に活かされている数々の言葉がまとめられた内容となっています。<br />
 「<strong>トヨタ語</strong>」の多くは、現場の理解と納得を得よう、知恵を引き出そうという中で生まれた言葉です。<br />

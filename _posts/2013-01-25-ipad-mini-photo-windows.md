@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5880
-wordpress_url: http://kotalab.com/?p=5880
+wordpress_url: https://kotalab.com/?p=5880
 date: '2013-01-25 10:10:04 +0900'
 date_gmt: '2013-01-25 01:10:04 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - 写真
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/ipadmini130108.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadmini130108-448x300.jpg" alt="ipadmini130108" width="448" height="300" class="alignnone size-large wp-image-5573" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/ipadmini130108.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini130108-448x300.jpg" alt="ipadmini130108" width="448" height="300" class="alignnone size-large wp-image-5573" /></a><br />
 いまだにWindowsはXPのままです。@kotala_bです。<br />
 WindowsにiPadminiを接続してカメラロールの写真を見ようと思ったところすぐには見れませんでした。<br />
 Macだとフォトストリーム経由ですぐ見れるのに。<br />
@@ -32,24 +32,24 @@ Windowsを弄っていたら見れるようになったので、そのやり方�
 <!--more--></p>
 <h2>iPadminiの写真が見れなかった</h2>
 <p>▼iPadminiをWindowsに接続してマイコンピュータを開いたところ<br />
-<a href="http://kotalab.com/wp-content/uploads/ipadphoto_130125_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadphoto_130125_01-448x323.jpg" alt="ipadphoto_130125_01" width="448" height="323" class="alignnone size-large wp-image-5881" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/ipadphoto_130125_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadphoto_130125_01-448x323.jpg" alt="ipadphoto_130125_01" width="448" height="323" class="alignnone size-large wp-image-5881" /></a><br />
 iPadminiの画像が0枚になってました。<br />
 ▼iPadminiを開いてみても写真が表示されない！<br />
-<a href="http://kotalab.com/wp-content/uploads/ipadphoto_130125_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadphoto_130125_02-448x322.jpg" alt="ipadphoto_130125_02" width="448" height="322" class="alignnone size-large wp-image-5882" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/ipadphoto_130125_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadphoto_130125_02-448x322.jpg" alt="ipadphoto_130125_02" width="448" height="322" class="alignnone size-large wp-image-5882" /></a></p>
 <h2>iPadminiの写真を見る方法</h2>
 <p><strong>iPadminiはカメラロール等アプリは何も表示させずにホーム画面のままUSBでパソコンに繋ぎます。<br />
 この後iPadminiの本体は一切操作しません。</strong><br />
 ▼iPadminiを繋いだら右クリッくから「画像の取得」を選択します。<br />
-<a href="http://kotalab.com/wp-content/uploads/ipadphoto_130125_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadphoto_130125_03.jpg" alt="ipadphoto_130125_03" width="448" height="316" class="alignnone size-full wp-image-5883" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/ipadphoto_130125_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadphoto_130125_03.jpg" alt="ipadphoto_130125_03" width="448" height="316" class="alignnone size-full wp-image-5883" /></a><br />
 ▼すると「スキャナとカメラウィザード」が始まりますので「次へ」をクリック。<br />
-<a href="http://kotalab.com/wp-content/uploads/ipadphoto_130125_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadphoto_130125_04-448x294.jpg" alt="ipadphoto_130125_04" width="448" height="294" class="alignnone size-large wp-image-5884" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/ipadphoto_130125_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadphoto_130125_04-448x294.jpg" alt="ipadphoto_130125_04" width="448" height="294" class="alignnone size-large wp-image-5884" /></a><br />
 ▼「コピーする画像の選択」という画面になりますが、ここでは「キャンセル」を選びマイコンピュータに戻ります。<br />
-<a href="http://kotalab.com/wp-content/uploads/ipadphoto_130125_05.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadphoto_130125_05-448x295.jpg" alt="ipadphoto_130125_05" width="448" height="295" class="alignnone size-large wp-image-5885" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/ipadphoto_130125_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadphoto_130125_05-448x295.jpg" alt="ipadphoto_130125_05" width="448" height="295" class="alignnone size-large wp-image-5885" /></a><br />
 するとどうでしょう。<br />
 ▼さっきは0枚だったiPadminiの画像の枚数が実際の枚数に変わりました！<br />
-<a href="http://kotalab.com/wp-content/uploads/ipadphoto_130125_06.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadphoto_130125_06-448x322.jpg" alt="ipadphoto_130125_06" width="448" height="322" class="alignnone size-large wp-image-5886" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/ipadphoto_130125_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadphoto_130125_06-448x322.jpg" alt="ipadphoto_130125_06" width="448" height="322" class="alignnone size-large wp-image-5886" /></a><br />
 ▼iPadminiを開いてみると画像が無事表示されました！<br />
-<a href="http://kotalab.com/wp-content/uploads/ipadphoto_130125_07.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadphoto_130125_07-448x322.jpg" alt="ipadphoto_130125_07" width="448" height="322" class="alignnone size-large wp-image-5887" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/ipadphoto_130125_07.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadphoto_130125_07-448x322.jpg" alt="ipadphoto_130125_07" width="448" height="322" class="alignnone size-large wp-image-5887" /></a></p>
 <h2>最後に</h2>
 <p>WindowsではUSB接続するだけで、iPadminiに入っている写真のバックアップや一括削除が手軽に出来るようになります。<br />
 このデータをUSBメモリに移せばプリントアウトも可能です。<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7099
-wordpress_url: http://kotalab.com/?p=7099
+wordpress_url: https://kotalab.com/?p=7099
 date: '2013-05-11 19:00:45 +0900'
 date_gmt: '2013-05-11 10:00:45 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 靴
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/nike_130511-448x336.jpg" alt="nike_130511" width="448" height="336" class="alignnone size-large wp-image-7104" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/nike_130511-448x336.jpg" alt="nike_130511" width="448" height="336" class="alignnone size-large wp-image-7104" /><br />
 小さい頃からナイキの靴が好きです。@kotala_bです。<br />
 一番古い思い出として残ってるのは小学校高学年のころ。<br />
 当時はスラムダンクが流行っていてバスケットが大人気でした。<br />
@@ -46,13 +46,13 @@ comments: []
 </div>
 <p><!--more--></p>
 <h2>大好きなエアフォース1を作った</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/nike_130511_01-448x336.jpg" alt="nike_130511_01" width="448" height="336" class="alignnone size-large wp-image-7105" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/nike_130511_01-448x336.jpg" alt="nike_130511_01" width="448" height="336" class="alignnone size-large wp-image-7105" /><br />
 特にエアフォース1は中学生のころから今までに計3足履いた大好きなモデルで、今年の誕生日を記念に<a href="http://px.a8.net/svt/ejp?a8mat=25P43I+6P4N3E+2ASK+5YJRM" target="_blank">NIKEiD</a>でエアフォース1のオリジナルシューズを作ることにしました。<br />
 今まで作りたいと思っていたエアフォース1のオリジナルシューズがようやく実現します。<br />
 作成はWebからも出来ますが、僕は敢えて原宿店に行き店頭で作ることにしました。<br />
 店頭で作った理由は色とサイズです。</p>
 <h2>店頭で作るメリット</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/nike_130511_02-448x336.jpg" alt="nike_130511_02" width="448" height="336" class="alignnone size-large wp-image-7106" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/nike_130511_02-448x336.jpg" alt="nike_130511_02" width="448" height="336" class="alignnone size-large wp-image-7106" /><br />
 店頭で作ったのにはそれなりの理由があります。<br />
 1つ目は色合いや質感を手に取って確かめられる点です。<br />
 Webで作った場合は実際の色合いや質感といったものは注文をして手に届くまでわかりません。<br />
@@ -71,9 +71,9 @@ Webで作った場合は実際の色合いや質感といったものは注文�
 <h2>特製カードが貰えた</h2>
 <p>オリジナルシューズを注文するとその場でオリジナルデザインが描かれた特製カードが貰えました。<br />
 ▼表にはデザイン<br />
-<img src="http://kotalab.com/wp-content/uploads/nike_130511_03-448x336.jpg" alt="nike_130511_03" width="448" height="336" class="alignnone size-large wp-image-7101" /><br />
+<img src="https://kotalab.com/wp-content/uploads/nike_130511_03-448x336.jpg" alt="nike_130511_03" width="448" height="336" class="alignnone size-large wp-image-7101" /><br />
 ▼裏にはデザイナー名やデザイン名を入れられます。<br />
-<img src="http://kotalab.com/wp-content/uploads/nike_130511_04-448x336.jpg" alt="nike_130511_04" width="448" height="336" class="alignnone size-large wp-image-7107" /></p>
+<img src="https://kotalab.com/wp-content/uploads/nike_130511_04-448x336.jpg" alt="nike_130511_04" width="448" height="336" class="alignnone size-large wp-image-7107" /></p>
 <h2>NIKEiDを店頭で作る時の注意点</h2>
 <p>店頭で作る場合、週末など混み合っていると作成出来ない可能性もあります。<br />
 電話予約可能なので行く前に予約しておくとスムーズです。<br />
@@ -86,5 +86,5 @@ Webで作った場合は実際の色合いや質感といったものは注文�
 約4週間から6週間でお届けということでした。<br />
 今から届くのが楽しみです！</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/shoelace-doubleback" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/shoes_120624_07.jpg" alt="一風変わった靴ひもの結び方！ダブルバック結びを試してみた！ | kotala's note" width="150" /></a><a href="http://kotalab.com/shoelace-doubleback" target="_blank">一風変わった靴ひもの結び方！ダブルバック結びを試してみた！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/gravis-tarmac-hi-cut-mns" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/shoes_120624_03.jpg" alt="[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！ | kotala's note" width="150" /></a><a href="http://kotalab.com/gravis-tarmac-hi-cut-mns" target="_blank">[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/shoelace-doubleback" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/shoes_120624_07.jpg" alt="一風変わった靴ひもの結び方！ダブルバック結びを試してみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/shoelace-doubleback" target="_blank">一風変わった靴ひもの結び方！ダブルバック結びを試してみた！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/gravis-tarmac-hi-cut-mns" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/shoes_120624_03.jpg" alt="[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/gravis-tarmac-hi-cut-mns" target="_blank">[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！ | kotala's note</a><br style="clear:both;" /></p>

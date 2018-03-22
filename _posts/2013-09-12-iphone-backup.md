@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 9073
-wordpress_url: http://kotalab.com/?p=9073
+wordpress_url: https://kotalab.com/?p=9073
 date: '2013-09-12 11:14:25 +0900'
 date_gmt: '2013-09-12 02:14:25 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - iPhone 5c
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/iphonebackup_130912_07-546x407.jpg" alt="iphonebackup_130912_07" width="546" height="407" class="alignnone size-large wp-image-9088" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_07-546x407.jpg" alt="iphonebackup_130912_07" width="546" height="407" class="alignnone size-large wp-image-9088" /><br />
 iPhone 5sを買う予定です！こたら（@kotala_b）です。<br />
 僕は今iPhone5を利用中なので、そのままiPhone 5sを使うにはデータをバックアップして移行する必要があります。<br />
 バックアップから移行までの手順をご紹介します！<br />
@@ -38,7 +38,7 @@ PCはWindows、Macどちらを使っていてもiTunesからバックアップ�
 </ul>
 <p>iPhoneのデータをバックアップする流れはこんな感じ。</p>
 <h3>1.iTunesのバージョンを確認する</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/iphonebackup_130912_01-546x247.png" alt="iphonebackup_130912_01" width="546" height="247" class="alignnone size-large wp-image-9079" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_01-546x247.png" alt="iphonebackup_130912_01" width="546" height="247" class="alignnone size-large wp-image-9079" /><br />
 iTunesが古いバージョンの場合、バックアップや移行ができない場合があります。<br />
 具体的にはバージョンが9.2以降なら問題はないようです。</p>
 <blockquote><p>バージョンが9.2以降であれば問題ありません。9.2以前の場合、アップグレードの必要があります。<br />
@@ -47,16 +47,16 @@ iTunesが古いバージョンの場合、バックアップや移行ができ�
 また、OSが10.6(Snow Leopard)のように古い場合にはバージョン9.2以降のiTunesが使えない場合もあります。<br />
 <strong>なるべく最新のOS、iTunesで行うようにしましょう。</strong></p>
 <h3>2.PCにiPhoneを接続する</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/iphonebackup_130912_07-546x407.jpg" alt="iphonebackup_130912_07" width="546" height="407" class="alignnone size-large wp-image-9088" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_07-546x407.jpg" alt="iphonebackup_130912_07" width="546" height="407" class="alignnone size-large wp-image-9088" /><br />
 iPhoneのバックアップにはiCloud経由とiTunes経由の2通りがあります。<br />
 今回はiTunes経由でバックアップするのでUSBケーブルで直接PCと繋ぎましょう。</p>
 <h3>3.iTunesを開きバックアップを取る</h3>
 <p>最新版のiTunesではiPhoneを接続するとこのような画面が開きます。<br />
-<img src="http://kotalab.com/wp-content/uploads/iphonebackup_130912_02-546x407.jpg" alt="iphonebackup_130912_02" width="546" height="407" class="alignnone size-large wp-image-9080" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_02-546x407.jpg" alt="iphonebackup_130912_02" width="546" height="407" class="alignnone size-large wp-image-9080" /><br />
 概要タブにある<strong>「手動」</strong>で<strong>「今すぐバックアップ」</strong>を選びます。<br />
-<img src="http://kotalab.com/wp-content/uploads/iphonebackup_130912_03-546x407.jpg" alt="iphonebackup_130912_03" width="546" height="407" class="alignnone size-large wp-image-9081" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_03-546x407.jpg" alt="iphonebackup_130912_03" width="546" height="407" class="alignnone size-large wp-image-9081" /><br />
 ▼iTunesがもう少し古いバージョンだとこのように左の一覧からバックアップを選択することになります。<br />
-<a href="http://kotalab.com/wp-content/uploads/iphone_120911_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphone_120911_01.jpg" alt="iphone_120911_01" width="548" height="200" class="alignnone size-full wp-image-2683" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphone_120911_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone_120911_01.jpg" alt="iphone_120911_01" width="548" height="200" class="alignnone size-full wp-image-2683" /></a><br />
 これでバックアップは取れました。</p>
 <hr>
 <p>追記：<br />
@@ -66,13 +66,13 @@ iPhoneのバックアップにはiCloud経由とiTunes経由の2通りがあり�
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br />
 とるちんさんありがとうございます！<br />
 ▼暗号化はバックアップボタンの左側にあります。<br />
-<img src="http://kotalab.com/wp-content/uploads/iphonebackup_130912_08-546x407.jpg" alt="iphonebackup_130912_08" width="546" height="407" class="alignnone size-large wp-image-9099" /></p>
+<img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_08-546x407.jpg" alt="iphonebackup_130912_08" width="546" height="407" class="alignnone size-large wp-image-9099" /></p>
 <h2>バックアップしたデータをiPhone 5s、iPhone 5cに移行する方法</h2>
 <p>データがあった旧iPhoneのPC接続を外し、移行先のiPhone 5S(5c)をPCに繋ぎます。<br />
 バックアップした時の隣にあった<strong>「バックアップを復元」</strong>を押すと移行完了！<br />
-<img src="http://kotalab.com/wp-content/uploads/iphonebackup_130912_04-546x407.jpg" alt="iphonebackup_130912_04" width="546" height="407" class="alignnone size-large wp-image-9082" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_04-546x407.jpg" alt="iphonebackup_130912_04" width="546" height="407" class="alignnone size-large wp-image-9082" /><br />
 旧バージョンのiTunesでもバックアップボタンのすぐ下に復元ボタンがあります。<br />
-<a href="http://kotalab.com/wp-content/uploads/iphone_120911_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphone_120911_01.jpg" alt="iphone_120911_01" width="548" height="200" class="alignnone size-full wp-image-2683" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iphone_120911_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone_120911_01.jpg" alt="iphone_120911_01" width="548" height="200" class="alignnone size-full wp-image-2683" /></a><br />
 そのまま待っていると徐々に復元されていくので完了までお待ちください。</p>
 <h2>iTunes経由とiCloud経由でバックアップを取る違い</h2>
 <p>今回はiTunes経由でバックアップを取る方法をご紹介しました。<br />
@@ -137,17 +137,17 @@ Visual Voicemail<br />
 カメラロールに何千枚と写真があったり、音楽が何千曲も入っていたりする。<br />
 <strong>多ければ多いほど、移行にかかる時間がかかります。</strong><br />
 どれだけ入ってるかわからなければ、iTunesやiPhoneの画面から確認ができます。<br />
-<img src="http://kotalab.com/wp-content/uploads/iphonebackup_130912_05-546x59.jpg" alt="iphonebackup_130912_05" width="546" height="59" class="alignnone size-large wp-image-9085" /><br />
-<img src="http://kotalab.com/wp-content/uploads/iphonebackup_130912_06-300x513.jpg" alt="iphonebackup_130912_06" width="300" height="513" class="alignnone size-medium wp-image-9086" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_05-546x59.jpg" alt="iphonebackup_130912_05" width="546" height="59" class="alignnone size-large wp-image-9085" /><br />
+<img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_06-300x513.jpg" alt="iphonebackup_130912_06" width="300" height="513" class="alignnone size-medium wp-image-9086" /><br />
 写真などのデータ自体をHDDにバックアップしてからiPhone内のデータを削除し、その後データのバックアップを取るとスムーズに移行できます！<br />
 ▼写真のバックアップはこちらを参考に。<br />
-<a href="http://kotalab.com/iphone-photo-backup" target="_blank">折角撮った写真が埋もれる前に！撮った写真を管理して見たい時に見れる環境を作ろう！ </a><br />
+<a href="https://kotalab.com/iphone-photo-backup" target="_blank">折角撮った写真が埋もれる前に！撮った写真を管理して見たい時に見れる環境を作ろう！ </a><br />
 iPhone 5s、iPhone 5c関連エントリー：<br />
-<a href="http://kotalab.com/apple-spevent" target="_blank">iPhone 5S、iPhone 5Cが9月20日発売決定！9月11日のAppleイベントの内容！</a><br />
-<a href="http://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
-<a href="http://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
-<a href="http://kotalab.com/how-to-buy-iphone-5s-iphone-5c" target="_blank">iPhone 5s、iPhone 5Cはどうやって買えばいい？iPhone購入方法は？</a><br />
-<a href="http://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
+<a href="https://kotalab.com/apple-spevent" target="_blank">iPhone 5S、iPhone 5Cが9月20日発売決定！9月11日のAppleイベントの内容！</a><br />
+<a href="https://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
+<a href="https://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
+<a href="https://kotalab.com/how-to-buy-iphone-5s-iphone-5c" target="_blank">iPhone 5s、iPhone 5Cはどうやって買えばいい？iPhone購入方法は？</a><br />
+<a href="https://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31KsxIFmn0L._SL160_.jpg" style="border: none;" /></a></div>

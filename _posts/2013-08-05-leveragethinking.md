@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7959
-wordpress_url: http://kotalab.com/?p=7959
+wordpress_url: https://kotalab.com/?p=7959
 date: '2013-08-05 19:00:04 +0900'
 date_gmt: '2013-08-05 10:00:04 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - レバレッジ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/leveragethinking_130805-448x336.jpg" alt="leveragethinking_130805" width="448" height="336" class="alignnone size-large wp-image-7979" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/leveragethinking_130805-448x336.jpg" alt="leveragethinking_130805" width="448" height="336" class="alignnone size-large wp-image-7979" /><br />
 レバレッジシンキングを読みました。こたら（@kotala_b）です。<br />
 レバレッジシンキングの中には4つの自己資産として「労力資産」「時間資産」「知識資産」「人脈資産」という考え方がありました。<br />
 それぞれの自己資産に投資しレバレッジをかけることで、少ない労力で大きな成果を生み出すことができます。<br />
@@ -58,7 +58,7 @@ comments: []
 人脈というのは相手にどんな価値を提供しているか、どんな貢献が出来ているかということである。<br />
 もし相手に貢献できるものがなければ、何かが出来そうなタイミングで行うとよい。</p>
 <h2>最後に</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/leveragethinking_130805_01-448x336.jpg" alt="leveragethinking_130805_01" width="448" height="336" class="alignnone size-large wp-image-7978" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/leveragethinking_130805_01-448x336.jpg" alt="leveragethinking_130805_01" width="448" height="336" class="alignnone size-large wp-image-7978" /><br />
 今まで少ない労力で大きな成果を上げてこれなかった人は、これまでと考え方を変え行動を変えなければならない。<br />
 今まで通りやっていてはこの先も今まで通りにしかならないのだ。<br />
 少ない労力で大きな成果を上げる考え方こそがレバレッジシンキングなのである。<br />

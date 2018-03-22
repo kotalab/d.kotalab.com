@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1275
-wordpress_url: http://kotalab.com/?p=1275
+wordpress_url: https://kotalab.com/?p=1275
 date: '2012-07-06 14:09:11 +0900'
 date_gmt: '2012-07-06 05:09:11 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - マイル
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/credit_120706.jpg" align="left" target="_blank"><img src="http://kotalab.com/wp-content/uploads/credit_120706.jpg" alt="" title="credit_120706" width="448" height="336" class="alignnone size-full wp-image-1292" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/credit_120706.jpg" align="left" target="_blank"><img src="https://kotalab.com/wp-content/uploads/credit_120706.jpg" alt="" title="credit_120706" width="448" height="336" class="alignnone size-full wp-image-1292" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/68751915@N05/6355848263/" target="_blank">Credit Cards</a> / 401K 2012</span><br />
 クレジットカードを作ろうか検討中です。@kotala_bです。<br />
 普段の買い物にクレジットカードを利用してマイルを貯めて海外旅行もイイナなんて思うわけです。<br />

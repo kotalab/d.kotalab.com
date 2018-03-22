@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14146
-wordpress_url: http://kotalab.com/?p=14146
+wordpress_url: https://kotalab.com/?p=14146
 date: '2015-04-21 07:54:46 +0900'
 date_gmt: '2015-04-20 22:54:46 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - やりたいこと
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="780" class="aligncenter wp-image-10753" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="780" class="aligncenter wp-image-10753" /><br />
 何かやりたいことがあるとき、それを実行するなら朝一番でやるべきです。<br />
 毎日続けたい習慣なら尚更です。</p>
 <p>ブログを更新することの優先度をあげて、とにかく書こうと決めました。<br />

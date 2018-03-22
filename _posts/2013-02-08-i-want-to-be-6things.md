@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6067
-wordpress_url: http://kotalab.com/?p=6067
+wordpress_url: https://kotalab.com/?p=6067
 date: '2013-02-08 15:32:09 +0900'
 date_gmt: '2013-02-08 06:32:09 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 書評
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130208152334.jpg" width="448" height="336" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130208152334.jpg" width="448" height="336" /><br />
 <a href="http://www.amazon.co.jp/exec/obidos/asin/4479793631/same-22/" rel="nofollow" name="booklink" target="_blank">スタンフォードの自分を変える教室</a>を読みました。@kotala_bです。<br />
 心理学、神経科学や経済学など最新の科学的成果を盛り込み書かれていて「なりたい自分になるため」の実践的な本でした。<br />
 本書に書かれていた、是非取り入れたい「なりたい自分になるため」のコツを6つご紹介します。</p>
@@ -66,7 +66,7 @@ comments: []
 <h2>4.軸がぶれないようにする</h2>
 <p>もし軸がぶれそうになったときは「なぜ」自分がそれをやっているのか、その目標を「なぜ」たてたのかということを思い出しましょう。<br />
 ▼目標を忘れないために僕はEvernoteを使っています。<br />
-<a href="http://kotalab.com/evernote-2tap" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note" width="150" /></a><a href="http://kotalab.com/evernote-2tap" target="_blank">Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note</a><br style="clear:both;" />目標を書いたノートをすぐ開くならこの方法がオススメです！</p>
+<a href="https://kotalab.com/evernote-2tap" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/evernote-2tap" target="_blank">Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note</a><br style="clear:both;" />目標を書いたノートをすぐ開くならこの方法がオススメです！</p>
 <h2>5.「する」が失敗したら「しない」を決める</h2>
 <p>例えば「早く寝る」こと。<br />
 たまに夜更かししてしまうことだってあります。<br />
@@ -96,11 +96,11 @@ comments: []
 </div>
 <h2 class="rele">関連記事</h2>
 <p>こんな本も読みました。<br />
-<a href="http://kotalab.com/kataduke-magic2" target="_blank">今度こそ片づけを終わらせる！人生がときめく片づけの魔法2 | kotala's note</a><br />
-<a href="http://kotalab.com/twenties-worker" target="_blank">20代の今だからこそ知っておきたいこと　会社で不幸になる人、ならない人 | kotala's note</a><br />
-<a href="http://kotalab.com/books-kataduke-magic" target="_blank">人生の限られた時間と情熱をかけるべき「自分がときめくこと」は片づけをすることで見えてくる「人生がときめく片づけの魔法」 | kotala's note</a><br />
-<a href="http://kotalab.com/books-nomadlife" target="_blank">実践する前から出来る！ノマドライフ的暮らし方の3つの練習！「ノマドライフ」 | kotala's note</a><br />
-<a href="http://kotalab.com/books-syuzo-thinking" target="_blank">日常の全てを楽しむ！「修造思考！」 | kotala's note</a></p>
+<a href="https://kotalab.com/kataduke-magic2" target="_blank">今度こそ片づけを終わらせる！人生がときめく片づけの魔法2 | kotala's note</a><br />
+<a href="https://kotalab.com/twenties-worker" target="_blank">20代の今だからこそ知っておきたいこと　会社で不幸になる人、ならない人 | kotala's note</a><br />
+<a href="https://kotalab.com/books-kataduke-magic" target="_blank">人生の限られた時間と情熱をかけるべき「自分がときめくこと」は片づけをすることで見えてくる「人生がときめく片づけの魔法」 | kotala's note</a><br />
+<a href="https://kotalab.com/books-nomadlife" target="_blank">実践する前から出来る！ノマドライフ的暮らし方の3つの練習！「ノマドライフ」 | kotala's note</a><br />
+<a href="https://kotalab.com/books-syuzo-thinking" target="_blank">日常の全てを楽しむ！「修造思考！」 | kotala's note</a></p>
 <hr>
 <p>このアプリを使って更新しました！</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1.mzstatic.com/us/r1000/065/Purple/v4/4c/c6/a8/4cc6a855-cc5c-34ed-0436-36e219eafb81/mzl.xejvrijs.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>

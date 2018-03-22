@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6900
-wordpress_url: http://kotalab.com/?p=6900
+wordpress_url: https://kotalab.com/?p=6900
 date: '2013-04-23 12:28:10 +0900'
 date_gmt: '2013-04-23 03:28:10 +0900'
 category:
@@ -22,24 +22,24 @@ tags:
 - テーブルランプ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/ikea_130423-448x336.jpg" alt="ikea_130423" width="448" height="336" class="alignnone size-large wp-image-6901" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ikea_130423-448x336.jpg" alt="ikea_130423" width="448" height="336" class="alignnone size-large wp-image-6901" /><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/kobakou/2083159709/" target="_blank">IKEA KOHOKU</a> / kobakou</span><br />
 久しぶりにIKEAに行きました。@kotala_bです。<br />
 机の上に置くライトを探していたら良さそうなのがあったので購入しました！<br />
 ソーラーパネル内蔵でコードレスなライトがいい感じです！<br />
 <!--more--></p>
 <h2>ソーラーパネル内蔵のテーブルランプ！</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/ikea_130423_01-448x336.jpg" alt="ikea_130423_01" width="448" height="336" class="alignnone size-large wp-image-6906" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/ikea_130423_01-448x336.jpg" alt="ikea_130423_01" width="448" height="336" class="alignnone size-large wp-image-6906" /><br />
 このライトの特徴はソーラーパネル内蔵というところ！<br />
 ソーラーパネル内蔵な上にコードレスなので持ち運びにも便利です。<br />
 外で電源がない場所でも使えそう！</p>
 <h2>ソーラーパネルがつけ外し可能！</h2>
 <p>このライトのソーラーパネルはつけ外しが可能でした！<br />
-<img src="http://kotalab.com/wp-content/uploads/ikea_130423_02-448x336.jpg" alt="ikea_130423_02" width="448" height="336" class="alignnone size-large wp-image-6905" /><br />
+<img src="https://kotalab.com/wp-content/uploads/ikea_130423_02-448x336.jpg" alt="ikea_130423_02" width="448" height="336" class="alignnone size-large wp-image-6905" /><br />
 本体は机の上に<br />
-<img src="http://kotalab.com/wp-content/uploads/ikea_130423_04-448x336.jpg" alt="ikea_130423_04" width="448" height="336" class="alignnone size-large wp-image-6903" /><br />
+<img src="https://kotalab.com/wp-content/uploads/ikea_130423_04-448x336.jpg" alt="ikea_130423_04" width="448" height="336" class="alignnone size-large wp-image-6903" /><br />
 ソーラーパネルだけ窓際へ<br />
-<img src="http://kotalab.com/wp-content/uploads/ikea_130423_03-448x336.jpg" alt="ikea_130423_03" width="448" height="336" class="alignnone size-large wp-image-6904" /><br />
+<img src="https://kotalab.com/wp-content/uploads/ikea_130423_03-448x336.jpg" alt="ikea_130423_03" width="448" height="336" class="alignnone size-large wp-image-6904" /><br />
 いちいちライトごと光の当たる場所へ持って行くのは面倒ですがこれなら楽チン！</p>
 <h2>カラーバリエーションは7色！</h2>
 <p>僕が買った白の他には黒や青など、選べるカラーは7色！<br />
@@ -91,4 +91,4 @@ IKEAが近くにないという方はAmazonなどでも購入可能でした。<
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/app-ikea" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ikea_120801.jpg" alt="IKEAのカタログが送られてきた！IKEAアプリを使ったら楽しく見れた！ | kotala's note" width="150" /></a><a href="http://kotalab.com/app-ikea" target="_blank">IKEAのカタログが送られてきた！IKEAアプリを使ったら楽しく見れた！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/app-ikea" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ikea_120801.jpg" alt="IKEAのカタログが送られてきた！IKEAアプリを使ったら楽しく見れた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/app-ikea" target="_blank">IKEAのカタログが送られてきた！IKEAアプリを使ったら楽しく見れた！ | kotala's note</a><br style="clear:both;" /></p>

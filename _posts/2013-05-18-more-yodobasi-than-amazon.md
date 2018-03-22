@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7173
-wordpress_url: http://kotalab.com/?p=7173
+wordpress_url: https://kotalab.com/?p=7173
 date: '2013-05-18 19:00:18 +0900'
 date_gmt: '2013-05-18 10:00:18 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - デジイチ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/Amazonyodobasi_130518-448x336.jpg" alt="Amazonyodobasi_130518" width="448" height="336" class="alignnone size-large wp-image-7174" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/Amazonyodobasi_130518-448x336.jpg" alt="Amazonyodobasi_130518" width="448" height="336" class="alignnone size-large wp-image-7174" /><br />
 ヨドバシカメラでデジイチを買いました。こたら（@kotala_b）です。<br />
 4種類の候補が有り、手に取って重さなどを確かめたいので家電量販店へ行くことにしました。<br />
 何故ヨドバシに行ったのかというと、元々よく使っていたから。<br />
@@ -32,7 +32,7 @@ comments: []
 <a href="http://frnk.hatenablog.jp/entry/2013/04/08/080159" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://frnk.hatenablog.jp/entry/2013/04/08/080159" alt="最近のヨドバシカメラが完全にAmazonを超えている件 - らっこのじゆうちょう" width="150" height="130" /></a><a href="http://frnk.hatenablog.jp/entry/2013/04/08/080159" target="_blank">最近のヨドバシカメラが完全にAmazonを超えている件 - らっこのじゆうちょう</a><a href="http://b.hatena.ne.jp/entry/http://frnk.hatenablog.jp/entry/2013/04/08/080159" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://frnk.hatenablog.jp/entry/2013/04/08/080159" alt="" /></a><br style="clear:both;" />ヨドバシがAmazonを超えているというので試しに価格交渉をしてみました。<br />
 <!--more--></p>
 <h2>ヨドバシ店頭で価格交渉をしてみた</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/Amazonyodobasi_130518_01-448x337.jpg" alt="Amazonyodobasi_130518_01" width="448" height="337" class="alignnone size-large wp-image-7175" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/Amazonyodobasi_130518_01-448x337.jpg" alt="Amazonyodobasi_130518_01" width="448" height="337" class="alignnone size-large wp-image-7175" /><br />
 ヨドバシの店頭価格はAmazonよりも若干高めの設定のモノが多かったです。<br />
 そこで価格交渉したらAmazonより安くなるのかと実際に店員さんに価格交渉をしてみました。<br />
 D7000というNikonのデジイチがヨドバシの店頭では71500円。<br />
@@ -56,4 +56,4 @@ iPhoneでAmazonの商品ページを表示させながら店員さんにその�
 そこでいいモノが見つかればAmazonと同じ価格になるよう交渉出来て、その場で買える。<br />
 ヨドバシの店頭にわざわざ買いに行く理由が出来ました。</strong></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/want-digicame" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note" width="150" /></a><a href="http://kotalab.com/want-digicame" target="_blank">「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/want-digicame" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note" width="150" /></a><a href="https://kotalab.com/want-digicame" target="_blank">「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note</a><br style="clear:both;" /></p>

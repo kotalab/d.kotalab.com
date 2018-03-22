@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14812
-wordpress_url: http://kotalab.com/?p=14812
+wordpress_url: https://kotalab.com/?p=14812
 date: '2015-07-31 08:03:22 +0900'
 date_gmt: '2015-07-30 23:03:22 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - もったいない
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/07/lets-quit-because-time-is-too-good_20150731.jpg" alt="Lets quit because time is too good 20150731" width="780" height ="520" class="aligncenter size-large" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/07/lets-quit-because-time-is-too-good_20150731.jpg" alt="Lets quit because time is too good 20150731" width="780" height ="520" class="aligncenter size-large" /><br />
 今までは運動をほとんどしてなかったけど、スポーツジムの会費を払ったばかりの頃はしょっちゅう通う。<br />
 図書館で借りた本はなかなか読まないけど、本を買った日に最初の10ページくらいは読む。</p>
 <p>何かを始める時に最初にお金をある程度かけることで、始めるきっかけ作りになります。</p>

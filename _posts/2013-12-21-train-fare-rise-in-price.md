@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10320
-wordpress_url: http://kotalab.com/?p=10320
+wordpress_url: https://kotalab.com/?p=10320
 date: '2013-12-21 11:42:47 +0900'
 date_gmt: '2013-12-21 02:42:47 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 増税
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/trainfareriseinprice_131221_01-546x364.jpg" alt="trainfareriseinprice_131221_01" width="546" height="364" class="alignnone size-large wp-image-10331" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/trainfareriseinprice_131221_01-546x364.jpg" alt="trainfareriseinprice_131221_01" width="546" height="364" class="alignnone size-large wp-image-10331" /><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/oimax/426704073/" target="_blank">IC / OiMax</a></span><br />
 毎日電車を使ってます。こたら（@kotala_b）です。<br />
 来年4月1日から消費税が5%から8%に上がることを理由に、鉄道各社から運賃の値上げを国土交通大臣宛に申請しているという発表がありました。<br />
@@ -43,7 +43,7 @@ SuicaやPASMOなどの<span class="b">ICカード利用の場合には1円単位
 <h3>区間によってはICカード利用のほうが高くなるケースも</h3>
 <p>「ICカードを使った方が安上がり！」と思っていたらそれだけじゃないみたい。<br />
 JR東日本が発表した内容を詳しく見てみると切符を買って乗った方が安くなる区間があることも書いてありました。<br />
-<img src="http://kotalab.com/wp-content/uploads/trainfareriseinprice_131221-546x356.png" alt="trainfareriseinprice_131221" width="546" height="356" class="alignnone size-large wp-image-10324" /></p>
+<img src="https://kotalab.com/wp-content/uploads/trainfareriseinprice_131221-546x356.png" alt="trainfareriseinprice_131221" width="546" height="356" class="alignnone size-large wp-image-10324" /></p>
 <blockquote><p>きっぷご利用時の運賃の端数処理は、原則として「四捨五入」といたします。<br />
 ただし、ICカード利用率が約8割の&rdquo;電車特定区間・山手線内&rdquo;においては「切り上げ」といたします。<br />
 <a href="http://www.jreast.co.jp/press/2013/20131209.pdf" target="_blank">JR東日本</a><a href="http://b.hatena.ne.jp/entry/http://www.jreast.co.jp/press/2013/20131209.pdf" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.jreast.co.jp/press/2013/20131209.pdf" alt="" /></a></p></blockquote>

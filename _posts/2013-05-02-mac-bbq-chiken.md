@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6978
-wordpress_url: http://kotalab.com/?p=6978
+wordpress_url: https://kotalab.com/?p=6978
 date: '2013-05-02 12:56:53 +0900'
 date_gmt: '2013-05-02 03:56:53 +0900'
 category:
@@ -20,18 +20,18 @@ tags:
 - マクドナルド
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130502125650.jpg" width="448" height="448" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130502125650.jpg" width="448" height="448" /><br />
 久しぶりにマックで食べました。@kotala_bです。<br />
 食べたのは期間限定メニューのバーベキューチキン！<br />
 4月２６日から5月6日まで、ゴールデンウィーク期間中のみの限定販売です！<br />
 <!--more--></p>
 <h2>バーベキューチキンを食べた！</h2>
 <p>▼普通の包装紙<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130502125649.jpg" width="448" height="448" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130502125649.jpg" width="448" height="448" /><br />
 ▼チーズ2枚に挟まれてチキンが隠れてる！<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130502125650.jpg" width="448" height="448" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130502125650.jpg" width="448" height="448" /><br />
 ▼傾けるとチキンが出てきました！<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130502125646.jpg" width="448" height="448" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130502125646.jpg" width="448" height="448" /><br />
 味付けはピリ辛でほんのりスパイシー。<br />
 シャキシャキのレタスやチーズも入っているので辛さが目立つわけじゃなく、ちょうどいいピリ辛さ。<br />
 また食べたくなるそんなメニューでした。<br />
@@ -61,5 +61,5 @@ comments: []
 </div>
 <p>参考：<span class="removed_link" title="http://www.mcdonalds.co.jp/campaign/bbq/index.html#himitsu">バーベキュービーフ／バーベキューチキン | キャンペーン | McDonald's</span></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/world-mac-aus" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/cheesedeli_120831_02.jpg" alt="[食]パストラミビーフがたっぷり！今日からスタートのチーズオージーデリを食べた！ | kotala's note" width="150" /></a><a href="http://kotalab.com/world-mac-aus" target="_blank">[食]パストラミビーフがたっぷり！今日からスタートのチーズオージーデリを食べた！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/world-mac-ind2" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/goldmasala_120810_02.jpg" alt="[食]レギュラーメニューに追加して欲しい！世界の★★★マック第2弾、ホットゴールドマサラを食べた！ | kotala's note" width="150" /></a><a href="http://kotalab.com/world-mac-ind2" target="_blank">[食]レギュラーメニューに追加して欲しい！世界の★★★マック第2弾、ホットゴールドマサラを食べた！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/world-mac-aus" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/cheesedeli_120831_02.jpg" alt="[食]パストラミビーフがたっぷり！今日からスタートのチーズオージーデリを食べた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/world-mac-aus" target="_blank">[食]パストラミビーフがたっぷり！今日からスタートのチーズオージーデリを食べた！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/world-mac-ind2" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/goldmasala_120810_02.jpg" alt="[食]レギュラーメニューに追加して欲しい！世界の★★★マック第2弾、ホットゴールドマサラを食べた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/world-mac-ind2" target="_blank">[食]レギュラーメニューに追加して欲しい！世界の★★★マック第2弾、ホットゴールドマサラを食べた！ | kotala's note</a><br style="clear:both;" /></p>

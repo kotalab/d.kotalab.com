@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14108
-wordpress_url: http://kotalab.com/?p=14108
+wordpress_url: https://kotalab.com/?p=14108
 date: '2015-04-16 08:11:34 +0900'
 date_gmt: '2015-04-15 23:11:34 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - Google
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/mobile_frendly_test_20150416_03-780x675.png" alt="mobile_frendly_test_20150416_03" width="780" height="675" class="aligncenter size-large wp-image-14111" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/mobile_frendly_test_20150416_03-780x675.png" alt="mobile_frendly_test_20150416_03" width="780" height="675" class="aligncenter size-large wp-image-14111" /><br />
 Googleは検索結果に大きな影響を与えるアップデートを公に発表しています。</p>
 <blockquote><p>Google では、4 月 21 日より、ウェブサイトがモバイル フレンドリーかどうかをランキング要素として使用し始めます。この変更は世界中の全言語のモバイル検索に影響を与え、Google の検索結果に大きな変化をもたらします。この変更によって、検索ユーザーは、クエリへの関連性が高く使用端末にも適した高品質な検索結果を見つけやすくなります。<br />
 via:<a href="http://googlewebmastercentral-ja.blogspot.jp/2015/02/finding-more-mobile-friendly-search.html" target="_blank">Google ウェブマスター向け公式ブログ: 検索結果をもっとモバイル フレンドリーに</a>
@@ -32,9 +32,9 @@ via:<a href="http://googlewebmastercentral-ja.blogspot.jp/2015/02/finding-more-m
 <h2>1.モバイルフレンドリーテストでチェック</h2>
 <p>モバイルフレンドリーかどうかを一番簡単にチェックできるのはGoogleが提供している<a href="https://www.google.com/webmasters/tools/mobile-friendly/" target="_blank">モバイルフレンドリーテスト</a>を行うことです。<br />
 <a href="https://www.google.com/webmasters/tools/mobile-friendly/" target="_blank">モバイルフレンドリーテスト</a>にアクセスし、実際にテストをやってみました。</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/mobile_frendly_test_20150416_01-300x533.png" alt="mobile_frendly_test_20150416_01" width="300" height="533" class="aligncenter size-medium wp-image-14109" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/mobile_frendly_test_20150416_01-300x533.png" alt="mobile_frendly_test_20150416_01" width="300" height="533" class="aligncenter size-medium wp-image-14109" /><br />
 URLを入力して分析ボタンを押します。</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/mobile_frendly_test_20150416_02-780x1387.png" alt="mobile_frendly_test_20150416_02" width="300" height="533" class="aligncenter size-medium wp-image-14110" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/mobile_frendly_test_20150416_02-780x1387.png" alt="mobile_frendly_test_20150416_02" width="300" height="533" class="aligncenter size-medium wp-image-14110" /><br />
 分析が終わると結果が表示。</p>
 <p>このブログはモバイルフレンドリーでした！<br />
 数分あれば終わるのでまだの方は是非。</p>

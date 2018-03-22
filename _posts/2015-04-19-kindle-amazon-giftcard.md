@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14133
-wordpress_url: http://kotalab.com/?p=14133
+wordpress_url: https://kotalab.com/?p=14133
 date: '2015-04-19 14:48:51 +0900'
 date_gmt: '2015-04-19 05:48:51 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - iPhone6Plus
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/kindle-amazon-giftcard_20150419_01-780x517.jpg" alt="kindle-amazon-giftcard_20150419_01" width="780" height="517" class="aligncenter size-large wp-image-14136" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/kindle-amazon-giftcard_20150419_01-780x517.jpg" alt="kindle-amazon-giftcard_20150419_01" width="780" height="517" class="aligncenter size-large wp-image-14136" /><br />
 Amazonで紙の本の場合には、「カートに入れる」ボタンから注文することで届け先の住所や決済方法が選べます。<br />
 この時にクレジットカード以外にも代引きやコンビニ払い、Amazonギフト券などクレジットカード以外の決済方法の選択ができます。</p>
 <p>「カートに入れる」以外に「1-Clickで買う」というのがあって、こっちを選ぶとAmazonのアカウントに登録してあるクレジットカードで決済されます。</p>
@@ -30,7 +30,7 @@ Amazonで紙の本の場合には、「カートに入れる」ボタンから�
 <p>Kindle本をAmazonギフト券で購入する方法をご紹介したいと思います。<br />
 <!--more--></p>
 <h2>1.Amazonアカウントにギフト券を登録しておく</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/kindle-amazon-giftcard_20150419_02-780x180.png" alt="kindle-amazon-giftcard_20150419_02" width="780" height="180" class="aligncenter size-large wp-image-14135" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/kindle-amazon-giftcard_20150419_02-780x180.png" alt="kindle-amazon-giftcard_20150419_02" width="780" height="180" class="aligncenter size-large wp-image-14135" /><br />
 「1-Clickで買う」ボタンを押す前にAmazonアカウントにギフト券を登録しておくことで、「1-Clickで買う」時に自動的にギフト券から支払われるようになります。</p>
 <p>普段Amazonギフト券を使う時には「カートに入れる」から注文して支払い方法を選択するときに使っていたので、先に登録しておけばギフト券から支払えるということに気付きませんでした。<br />
 今回たまたま、ギフト券の残高が残っている状態で1-ClickでKindle本を買って、ギフト券から支払われていることに気づきました。</p>

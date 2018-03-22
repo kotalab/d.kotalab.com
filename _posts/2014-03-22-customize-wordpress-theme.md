@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11217
-wordpress_url: http://kotalab.com/?p=11217
+wordpress_url: https://kotalab.com/?p=11217
 date: '2014-03-22 15:43:17 +0900'
 date_gmt: '2014-03-22 06:43:17 +0900'
 category:
@@ -22,8 +22,8 @@ tags:
 - homephp
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/customize-wordpress-theme-546x306.jpg" alt="customize-wordpress-theme" width="546" height="306" class="alignnone size-large wp-image-11225" /><br />
-<a href="http://kotalab.com/header-banner-renewal" title="ブログのバナーをランサーズで頼んだらこんないいモノが！">新しいヘッダーが出来上がって</a>からブログのカスタマイズに力を入れ始めました！この3連休を使って色々といじってます。</p>
+<p><img src="https://kotalab.com/wp-content/uploads/customize-wordpress-theme-546x306.jpg" alt="customize-wordpress-theme" width="546" height="306" class="alignnone size-large wp-image-11225" /><br />
+<a href="https://kotalab.com/header-banner-renewal" title="ブログのバナーをランサーズで頼んだらこんないいモノが！">新しいヘッダーが出来上がって</a>からブログのカスタマイズに力を入れ始めました！この3連休を使って色々といじってます。</p>
 <p>PHPとかWordPressには詳しくはないので、調べながらちょっとずつ前進という感じ。<br />
 調べながらカスタマイズしてて、調べてもなかなかうまくいかないことが出てきました。<br />
 それがトップページのカスタマイズについてです。<br />

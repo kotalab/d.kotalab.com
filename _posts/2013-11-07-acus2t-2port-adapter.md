@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10118
-wordpress_url: http://kotalab.com/?p=10118
+wordpress_url: https://kotalab.com/?p=10118
 date: '2013-11-07 16:30:15 +0900'
 date_gmt: '2013-11-07 07:30:15 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - iPad Air
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_01-546x361.jpg" alt="acus2t2portadapter_131107_01" width="546" height="361" class="alignnone size-large wp-image-10124" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_01-546x361.jpg" alt="acus2t2portadapter_131107_01" width="546" height="361" class="alignnone size-large wp-image-10124" /><br />
 毎日の生活にACアダプタが欠かせません。こたら（@kotala_b）です。<br />
 スマホやタブレット、モバイルルーターなどの充電には欠かせないのが充電器。<br />
 1台だけじゃなく2台3台と家の中にはたくさんの充電器があるご家庭も多いでしょう。<br />
@@ -33,22 +33,22 @@ comments: []
 そんな悩みを解消してくれるのが1つのコンセントで2台充電できるACアダプタです。<br />
 <!--more--></p>
 <h2>今まで使ってたACアダプタは2口合計2A</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_03-546x361.jpg" alt="acus2t2portadapter_131107_03" width="546" height="361" class="alignnone size-large wp-image-10125" /><br />
-<a href="http://kotalab.com/usb-2port-adapter" title="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！" target="_blank">2台同時充電できるACアダプタ</a>を持ってたんですが、1つだけ気になることがありました。<br />
+<p><img src="https://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_03-546x361.jpg" alt="acus2t2portadapter_131107_03" width="546" height="361" class="alignnone size-large wp-image-10125" /><br />
+<a href="https://kotalab.com/usb-2port-adapter" title="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！" target="_blank">2台同時充電できるACアダプタ</a>を持ってたんですが、1つだけ気になることがありました。<br />
 それは2ポートで合計2Aしか充電できないことです。<br />
-それの何が問題かというと、<a href="http://kotalab.com/buy-ipad-air" title="iPad Airを発売日の夕方購入！意外な穴場！？で並ばずにたったの5分でWi-Fi版が買えた！" target="_blank">つい先日iPad Airを買いまして</a>、iPad AirとiPhone 5sを同時に充電することがでてきました。<br />
-<a href="http://kotalab.com/usb-2port-adapter" title="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！" target="_blank">以前紹介したPLANEXのアダプタ</a>だとiPad AirとiPhone 5sのどちらもなかなか充電されなくなってしまいました。<br />
+それの何が問題かというと、<a href="https://kotalab.com/buy-ipad-air" title="iPad Airを発売日の夕方購入！意外な穴場！？で並ばずにたったの5分でWi-Fi版が買えた！" target="_blank">つい先日iPad Airを買いまして</a>、iPad AirとiPhone 5sを同時に充電することがでてきました。<br />
+<a href="https://kotalab.com/usb-2port-adapter" title="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！" target="_blank">以前紹介したPLANEXのアダプタ</a>だとiPad AirとiPhone 5sのどちらもなかなか充電されなくなってしまいました。<br />
 そこでもっと高出力なUSBアダプタが欲しくなり新しいものを買いました。<br />
 それが今回紹介するオウルテック製のACアダプタです。</p>
 <h2>今回買ったACアダプタは2口合計3.1A</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_04-546x361.jpg" alt="acus2t2portadapter_131107_04" width="546" height="361" class="alignnone size-large wp-image-10123" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_04-546x361.jpg" alt="acus2t2portadapter_131107_04" width="546" height="361" class="alignnone size-large wp-image-10123" /><br />
 PLANEX製と比べると一回りサイズが大きいですが重さの違いはあまり感じません。<br />
 USB差し込み口には1Aと2.1Aの表示があって間違えて差すこともなし。<br />
 裏側にはコンセントプラグがついてます。<br />
-<img src="http://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_02-546x361.jpg" alt="acus2t2portadapter_131107_02" width="546" height="361" class="alignnone size-large wp-image-10121" /><br />
+<img src="https://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_02-546x361.jpg" alt="acus2t2portadapter_131107_02" width="546" height="361" class="alignnone size-large wp-image-10121" /><br />
 2.1AからはiPad Airはもちろんのこと、iPhone 5sの充電もできました。</p>
 <h3>iPad Airも充電できて大満足</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_05-546x361.jpg" alt="acus2t2portadapter_131107_05" width="546" height="361" class="alignnone size-large wp-image-10122" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_05-546x361.jpg" alt="acus2t2portadapter_131107_05" width="546" height="361" class="alignnone size-large wp-image-10122" /><br />
 これさえあればACアダプタをひとまとめ！<br />
 1つのコンセントで2つの機器が充電できるACアダプタのご紹介でした。<br />
 iPad Airもしっかり充電できて大満足！</p>

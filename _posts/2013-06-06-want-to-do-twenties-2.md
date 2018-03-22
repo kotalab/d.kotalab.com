@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7384
-wordpress_url: http://kotalab.com/?p=7384
+wordpress_url: https://kotalab.com/?p=7384
 date: '2013-06-06 19:00:46 +0900'
 date_gmt: '2013-06-06 10:00:46 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - やりたいこと
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/20dai_130606-448x297.jpg" alt="20dai_130606" width="448" height="297" class="alignnone size-large wp-image-7386" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/20dai_130606-448x297.jpg" alt="20dai_130606" width="448" height="297" class="alignnone size-large wp-image-7386" /><br />
 20代もあと10ヶ月ちょっと。こたら（@kotala_b）です。<br />
 今年の4月で29歳になり20代も残すところあとわずかになってきました。<br />
 20代の今のうちにやりたいことを書いてみることにしました。<br />
@@ -91,6 +91,6 @@ FPは将来の夢や目標の実現のために総合的な資金計画を立て
 20代のうちにやりたいことを考えた時に、この3つが出てきました。<br />
 よく考えてみるとこの3つは20代の今だけやりたいわけじゃなく、これからも継続してやり続けたいことでもありました。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/i-want-to-be-6things" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130208152334.jpg" alt="なりたい自分になるための6つのコツ | kotala's note" width="150" /></a><a href="http://kotalab.com/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/twenties-worker" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/kaisyadehukou130110-448x300.jpg" alt="20代の今だからこそ知っておきたいこと　会社で不幸になる人、ならない人 | kotala's note" width="150" /></a><a href="http://kotalab.com/twenties-worker" target="_blank">20代の今だからこそ知っておきたいこと　会社で不幸になる人、ならない人 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/good-three-habits" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/habit_130405-448x336.jpg" alt="もし新社会人の頃の自分に戻れるなら、あの頃の自分に身につけさせたい3つの良習慣！ | kotala's note" width="150" /></a><a href="http://kotalab.com/good-three-habits" target="_blank">もし新社会人の頃の自分に戻れるなら、あの頃の自分に身につけさせたい3つの良習慣！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/i-want-to-be-6things" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130208152334.jpg" alt="なりたい自分になるための6つのコツ | kotala's note" width="150" /></a><a href="https://kotalab.com/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/twenties-worker" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kaisyadehukou130110-448x300.jpg" alt="20代の今だからこそ知っておきたいこと　会社で不幸になる人、ならない人 | kotala's note" width="150" /></a><a href="https://kotalab.com/twenties-worker" target="_blank">20代の今だからこそ知っておきたいこと　会社で不幸になる人、ならない人 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/good-three-habits" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/habit_130405-448x336.jpg" alt="もし新社会人の頃の自分に戻れるなら、あの頃の自分に身につけさせたい3つの良習慣！ | kotala's note" width="150" /></a><a href="https://kotalab.com/good-three-habits" target="_blank">もし新社会人の頃の自分に戻れるなら、あの頃の自分に身につけさせたい3つの良習慣！ | kotala's note</a><br style="clear:both;" /></p>

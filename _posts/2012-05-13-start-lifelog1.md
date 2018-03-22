@@ -19,7 +19,7 @@ tags:
 - Postever
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/pc.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/pc.jpg" alt="" title="pc" width="448" height="336" class="alignnone size-full wp-image-1059" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/pc.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/pc.jpg" alt="" title="pc" width="448" height="336" class="alignnone size-full wp-image-1059" /></a><br />
 <a href="http://www.flickr.com/photos/sekikos/3031651026" target="_blank">バルコニーにて</a> / Sekikos</span><br />
 ライフログを取り始めて1ヶ月半くらいの@kotala_bです。<br />
 いきなりなんでもかんでもライフログ取ろうと思っても早々に挫折することはわかっていたので、少しずつライフログをとる習慣を増やしてます。<br />

@@ -17,7 +17,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/alarmClock.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/alarmClock.jpg" alt="" title="alarmClock" width="400" height="300" class="alignnone size-full wp-image-1231" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/alarmClock.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/alarmClock.jpg" alt="" title="alarmClock" width="400" height="300" class="alignnone size-full wp-image-1231" /></a><br />
 <span style="font-size:10px;"><a title="AlarmClock2" href="http://www.flickr.com/photos/alancleaver/4293345629/" target="_blank">Alarm Clock 2 / Alan Cleaver</a></span><br />
 今日寝坊しました。@kotala_bです。<br />
 2時～8時がいつもの睡眠時間です。<br />

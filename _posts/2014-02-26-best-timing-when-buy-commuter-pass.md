@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10988
-wordpress_url: http://kotalab.com/?p=10988
+wordpress_url: https://kotalab.com/?p=10988
 date: '2014-02-26 07:55:15 +0900'
 date_gmt: '2014-02-25 22:55:15 +0900'
 category:
@@ -22,9 +22,9 @@ tags:
 - 定期券
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/best-timing-when-buy-commuter-pass_140226-546x409.jpg" alt="best-timing-when-buy-commuter-pass_140226" width="546" height="409" class="alignnone size-large wp-image-10986" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/best-timing-when-buy-commuter-pass_140226-546x409.jpg" alt="best-timing-when-buy-commuter-pass_140226" width="546" height="409" class="alignnone size-large wp-image-10986" /><br />
 4月1日から消費税が今の5％から8％へあがります。残すところあと1ヶ月ちょっと！<br />
-<a href="http://kotalab.com/train-fare-rise-in-price" title="消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。">消費税増税にともない電車賃も上がること</a>はご存知ですか？<br />
+<a href="https://kotalab.com/train-fare-rise-in-price" title="消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。">消費税増税にともない電車賃も上がること</a>はご存知ですか？<br />
 初乗り130円だった山手線はICカード利用で133円に、切符だと140円に値上がります。<br />
 運賃が値上がれば定期も必然と値上がります。<br />
 そこで、いつ定期券を買うと安く済ませられるのかを調べてみました。<br />
@@ -50,19 +50,19 @@ via:<a href="http://allabout.co.jp/gm/gc/439187/2/" target="_blank">2/2 消費�
 値段を知って迷いが出てきたのでした。</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/train-fare-rise-in-price"><img src="http://kotalab.com/wp-content/uploads/trainfareriseinprice_131221_01-546x364.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/train-fare-rise-in-price">消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/train-fare-rise-in-price"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/train-fare-rise-in-price" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/train-fare-rise-in-price"><img src="https://kotalab.com/wp-content/uploads/trainfareriseinprice_131221_01-546x364.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/train-fare-rise-in-price">消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/train-fare-rise-in-price"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/train-fare-rise-in-price" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/communications-cost-95off"><img src="http://kotalab.com/wp-content/uploads/communications-cost-95off_140228_01-546x285.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/communications-cost-95off">スマホの通話料が95%OFF！？消費税増税前に使い始めたい格安通話サービス</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/communications-cost-95off" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/communications-cost-95off" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/communications-cost-95off"><img src="https://kotalab.com/wp-content/uploads/communications-cost-95off_140228_01-546x285.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/communications-cost-95off">スマホの通話料が95%OFF！？消費税増税前に使い始めたい格安通話サービス</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/communications-cost-95off" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/communications-cost-95off" alt="" /></a></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/costco-item-before-tax-up"><img src="http://kotalab.com/wp-content/uploads/costco-item-before-tax-up_20140203_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/costco-item-before-tax-up">消費税増税前に買い込むならこれだ！コストコでオススメの5つのアイテム！</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/costco-item-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/costco-item-before-tax-up" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/costco-item-before-tax-up"><img src="https://kotalab.com/wp-content/uploads/costco-item-before-tax-up_20140203_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/costco-item-before-tax-up">消費税増税前に買い込むならこれだ！コストコでオススメの5つのアイテム！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/costco-item-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/costco-item-before-tax-up" alt="" /></a></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/how-to-buy-smartphone-before-tax-up"><img src="http://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_08-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/how-to-buy-smartphone-before-tax-up">消費税増税前にスマホ買い換えますか？お得な買い替え方をご紹介！</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/how-to-buy-smartphone-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/how-to-buy-smartphone-before-tax-up" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/how-to-buy-smartphone-before-tax-up"><img src="https://kotalab.com/wp-content/uploads/iphone5scompareiphone5_130920_08-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/how-to-buy-smartphone-before-tax-up">消費税増税前にスマホ買い換えますか？お得な買い替え方をご紹介！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/how-to-buy-smartphone-before-tax-up" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/how-to-buy-smartphone-before-tax-up" alt="" /></a></div>
 </div>
 <p>iPad Airから<a href="https://itunes.apple.com/jp/app/surupuro-for-ios-buroguedita/id436676299?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">するぷろ for iOS</a>を使って更新しました！</p>

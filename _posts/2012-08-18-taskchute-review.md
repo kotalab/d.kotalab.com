@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2175
-wordpress_url: http://kotalab.com/?p=2175
+wordpress_url: https://kotalab.com/?p=2175
 date: '2012-08-18 05:17:32 +0900'
 date_gmt: '2012-08-17 20:17:32 +0900'
 category:
@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/taskchute_120818.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/taskchute_120818.jpg" alt="" title="taskchute_120818" width="448" height="288" class="alignnone size-full wp-image-2176" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/taskchute_120818.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/taskchute_120818.jpg" alt="" title="taskchute_120818" width="448" height="288" class="alignnone size-full wp-image-2176" /></a><br />
 <span style="font-size:10px;">Watching The Sun Rise</a> / thejasp</span><br />
 Taskchuteに入れてあるタスクを見直しました。@kotala_bです。<br />
 仕事中はTaskchuteを使えないので、家でこうしてブログを書いたりルーチンを消化する際に使っています。<br />

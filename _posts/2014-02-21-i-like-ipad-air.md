@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10949
-wordpress_url: http://kotalab.com/?p=10949
+wordpress_url: https://kotalab.com/?p=10949
 date: '2014-02-21 08:14:51 +0900'
 date_gmt: '2014-02-20 23:14:51 +0900'
 category:
@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20140221081446.jpg" width="546" height="409" class="slooProImg" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140221081446.jpg" width="546" height="409" class="slooProImg" /><br />
 iPad miniは2012年の発売と同時に購入しました。<br />
 それからiPad Airが出るまでの約1年間使っていました。<br />
 iPad miniはそれはそれで持ち運びやすくて、どこにでも持っていけるいいヤツでした。<br />

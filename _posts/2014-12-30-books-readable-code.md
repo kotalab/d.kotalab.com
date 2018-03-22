@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13695
-wordpress_url: http://kotalab.com/?p=13695
+wordpress_url: https://kotalab.com/?p=13695
 date: '2014-12-30 14:24:14 +0900'
 date_gmt: '2014-12-30 05:24:14 +0900'
 category:
@@ -22,9 +22,9 @@ tags:
 - アプリ道場
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books-readable-code_20141230-780x520.jpg" alt="books-readable-code_20141230" width="780" height="520" class="aligncenter size-large wp-image-13702" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-readable-code_20141230-780x520.jpg" alt="books-readable-code_20141230" width="780" height="520" class="aligncenter size-large wp-image-13702" /><br />
 アプリ開発を始めて1年目の僕はまだまだ経験も浅く、コードの書き方はわかってもどんなコードがいいコードなのかわからない。</p>
-<p>どんなコードがいいコードなのか、どんなコードを書くのがいいのかを知りたかった僕は、<a href="http://kotalab.com/category/ios-developer/app-dojo">アプリ道場</a>の忘年会で知った「<a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a>」という本を読んでみた。</p>
+<p>どんなコードがいいコードなのか、どんなコードを書くのがいいのかを知りたかった僕は、<a href="https://kotalab.com/category/ios-developer/app-dojo">アプリ道場</a>の忘年会で知った「<a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a>」という本を読んでみた。</p>
 <p>リーダブルコードにはこのようなことが最初に書いてある。</p>
 <blockquote><p>コードは理解しやすくなければならない。<br />
 via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a> P.2</p></blockquote>

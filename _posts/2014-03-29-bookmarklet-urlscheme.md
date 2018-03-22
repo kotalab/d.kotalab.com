@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11299
-wordpress_url: http://kotalab.com/?p=11299
+wordpress_url: https://kotalab.com/?p=11299
 date: '2014-03-29 09:12:31 +0900'
 date_gmt: '2014-03-29 00:12:31 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - ブックマークレット
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20140329091227.jpg" width="548" height="499" class="slooProImg" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140329091227.jpg" width="548" height="499" class="slooProImg" /><br />
 ブラウザで見てるページをツイートしたい。でも、見てるページによってはどこにツイートボタンがあるかわからない。そんなページでもすぐにツイートできたらいいなって思いました。</p>
 <p>用意されてるツイートボタンを押すとTwitterのWebからの投稿画面が出てきますよね。僕はあれがどうしても好きになれません。嫌いというかなんとなく違和感を感じちゃいます。</p>
 <p>かといってiPhoneのSafariからツイートしようとするとURLしかセットされないしいまいち。<br />
@@ -58,7 +58,7 @@ Safariから起動できればいいなっていうことでブックマーク�
 このブックマークレットはTwitterの公式クライアントが入ってれば、Macでも動きますし、もちろんiPadでも動きます。</p>
 <p>まさかMacでも動くと思ってなかったんですが、Macアプリも同じURLスキームだったみたいです。</p>
 <p><a href="http://www.lifehacker.jp/2014/03/140326tabroid_iphoneseeq.html" target="_blank">今話題のSeeq+</a>みたいに、内蔵ブラウザにブックマークレットが登録できれば、他のアプリからも起動できちゃいます！<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20140329091228.jpg" width="300" height="514" class="slooProImg" /></p>
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140329091228.jpg" width="300" height="514" class="slooProImg" /></p>
 <h2>とっても便利なURLスキーム</h2>
 <p>コードの前半の</p>
 <pre>twitter://post?message=</pre>

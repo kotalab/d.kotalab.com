@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4654
-wordpress_url: http://kotalab.com/?p=4654
+wordpress_url: https://kotalab.com/?p=4654
 date: '2012-12-09 11:44:03 +0900'
 date_gmt: '2012-12-09 02:44:03 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 松岡修造
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/shuzo_121209.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/shuzo_121209-448x336.jpg" alt="" title="shuzo_121209" width="448" height="336" class="alignnone size-large wp-image-4655" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/shuzo_121209.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/shuzo_121209-448x336.jpg" alt="" title="shuzo_121209" width="448" height="336" class="alignnone size-large wp-image-4655" /></a><br />
 松岡修造さんの「修造思考！」を読みました。@kotala_bです。<br />
 松岡修造さんと言えば元プロテニスプレイヤーで現在はスポーツキャスター等でテレビでもお馴染みの方です。<br />
 独特の熱意を持ったとても熱い方というイメージが僕の中では強くありました。<br />

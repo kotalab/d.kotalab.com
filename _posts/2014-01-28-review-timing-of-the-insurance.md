@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10687
-wordpress_url: http://kotalab.com/?p=10687
+wordpress_url: https://kotalab.com/?p=10687
 date: '2014-01-28 06:08:36 +0900'
 date_gmt: '2014-01-27 21:08:36 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 見直し
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/Review-timing-of-the-insurance_140128-546x361.jpg" alt="Review timing of the insurance_140128" width="546" height="361" class="alignnone size-large wp-image-10689" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/Review-timing-of-the-insurance_140128-546x361.jpg" alt="Review timing of the insurance_140128" width="546" height="361" class="alignnone size-large wp-image-10689" /><br />
 日本人は保険をかけすぎだと言われています。<br />
 アメリカやイギリス、ドイツでは生命保険の加入率は50％以下。<br />
 でも<span class="b">日本人の保険加入率はつい数年前の調査では約90％でした</span>。</p>
@@ -61,6 +61,6 @@ via:<a href="http://biz-journal.jp/2014/01/post_3931.html" target="_blank">生�
 <p>保険をかける前に、毎月いくら払うだけじゃなくて生涯いくら払うのか計算した上でかけることをオススメします。</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/no-insurance" target="_blank"><img src="http://kotalab.com/wp-content/uploads/no-insurance_130118_01-546x233.png" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/no-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/no-insurance" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/no-insurance" target="_blank"><img src="https://kotalab.com/wp-content/uploads/no-insurance_130118_01-546x233.png" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/no-insurance" target="_blank">医療保険なんていらない！医療保険の支払い総額を計算してみよう</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/no-insurance"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/no-insurance" alt="" /></span></div>
 </div>

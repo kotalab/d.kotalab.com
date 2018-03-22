@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 9096
-wordpress_url: http://kotalab.com/?p=9096
+wordpress_url: https://kotalab.com/?p=9096
 date: '2013-09-13 11:18:33 +0900'
 date_gmt: '2013-09-13 02:18:33 +0900'
 category:
@@ -34,12 +34,12 @@ comments:
     note ） [&#8230;]"
 ---
 <p>iPhoneからiPhoneへ機種変する時の注意点はこちら&rarr;[article include="13480"]<br />
-<img src="http://kotalab.com/wp-content/uploads/slooProImg_20130327212701-448x336.jpg" alt="slooProImg_20130327212701.jpg" width="448" height="336" class="alignnone size-large wp-image-6638" /><br />
+<img src="https://kotalab.com/wp-content/uploads/slooProImg_20130327212701-448x336.jpg" alt="slooProImg_20130327212701.jpg" width="448" height="336" class="alignnone size-large wp-image-6638" /><br />
 2014/01/25 追記：<br />
 別エントリーにiPhoneへの電話帳データの移行方法をまとめました。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img src="http://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank">ガラケーからもスマホからもできる！iPhoneへの電話帳移行方法</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/transfer-data-for-ketai-to-iphone" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank">ガラケーからもスマホからもできる！iPhoneへの電話帳移行方法</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/transfer-data-for-ketai-to-iphone" alt="" /></a></div>
 </div>
 <div class="clear"></div>
 <p>よかったらそちらも参考にしてみてください。<br />
@@ -57,13 +57,13 @@ AndroidからiPhoneへ変えた時に一番大変だったのがデータ移行�
 アプリによっては機種変更前の端末で行う設定もあります。<br />
 <strong>できれば機種変更前のAndroidでやりましょう！</strong></p>
 <h2>電話帳の移行</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/fromandroidtoiphone5siphone5c_130913-546x409.jpg" alt="fromandroidtoiphone5siphone5c_130913" width="546" height="409" class="alignnone size-large wp-image-9103" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/fromandroidtoiphone5siphone5c_130913-546x409.jpg" alt="fromandroidtoiphone5siphone5c_130913" width="546" height="409" class="alignnone size-large wp-image-9103" /><br />
 データ移行ツールというSoftBankショップでアプリがありましたが、僕が使ってたMediasWP(n-06c)ではそのアプリが使えませんでした。<br />
 そこで行ったのが<strong>キャリア関係なくAndroidからiPhoneへ電話帳を移行する方法</strong>です。<br />
 Androidの連絡先アプリを開き、<strong>データをSDカードへインポート</strong>します。<br />
 インポートしたデータは「00001.vcf」というファイル名でSDカードに保存されます。<br />
 このSDカードのデータをメールで自分のGmailアドレス宛に送り、添付されたファイルをiPhoneに保存すれば完了です！<br />
-<a href="http://kotalab.com/from-medias-to-iphone" target="_blank">SDカードのデータをクラウド系のアプリを使ってAndroidからiPhoneへ移す方法</a>も過去にご紹介しました。</p>
+<a href="https://kotalab.com/from-medias-to-iphone" target="_blank">SDカードのデータをクラウド系のアプリを使ってAndroidからiPhoneへ移す方法</a>も過去にご紹介しました。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/gmail-google-nomeru/id422689480?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1437.phobos.apple.com/us/r1000/027/Purple4/v4/92/1e/b4/921eb4f7-1add-a8d1-6912-0d0766566538/Icon.png" width="80" /></a></div>
 <div class="applinktext">
@@ -157,14 +157,14 @@ AndroidにもiPhoneにもアプリがある場合も問題になるのが、ア�
 <a href="http://www.au.kddi.com/mobile/change/data/" target="_blank">データ移行方法│機種変更のご案内│au</a><br />
 <a href="http://www.softbank.jp/mobile/change/transfer/" target="_blank">購入後のデータ移行方法を確認する | 機種変更 | ソフトバンクモバイル</a><br />
 僕も実際にやるまではデータ移行は簡単だと思っていました。<br />
-でも<a href="http://kotalab.com/from-medias-to-iphone" target="_blank">実際に体験した</a>のは、<strong>引き継ぎ対応機種じゃないせいで全部自分で移行しなければならなかったこと</strong>です。<br />
+でも<a href="https://kotalab.com/from-medias-to-iphone" target="_blank">実際に体験した</a>のは、<strong>引き継ぎ対応機種じゃないせいで全部自分で移行しなければならなかったこと</strong>です。<br />
 AndroidからiPhoneへの移行は<strong>ネット接続した状態でやらなければならないことがあるのでご注意ください！</strong><br />
 iPhone 5s、iPhone 5c関連エントリー：<br />
-<a href="http://kotalab.com/apple-spevent" target="_blank">iPhone 5S、iPhone 5Cが9月20日発売決定！9月11日のAppleイベントの内容！</a><br />
-<a href="http://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
-<a href="http://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
-<a href="http://kotalab.com/how-to-buy-iphone-5s-iphone-5c" target="_blank">iPhone 5s、iPhone 5Cはどうやって買えばいい？iPhone購入方法は？</a><br />
-<a href="http://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a></p>
+<a href="https://kotalab.com/apple-spevent" target="_blank">iPhone 5S、iPhone 5Cが9月20日発売決定！9月11日のAppleイベントの内容！</a><br />
+<a href="https://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
+<a href="https://kotalab.com/apple-event-video" target="_blank">見逃した方も必見！Appleイベントが動画で配信中です！</a><br />
+<a href="https://kotalab.com/how-to-buy-iphone-5s-iphone-5c" target="_blank">iPhone 5s、iPhone 5Cはどうやって買えばいい？iPhone購入方法は？</a><br />
+<a href="https://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/31KsxIFmn0L._SL160_.jpg" style="border: none;" /></a></div>

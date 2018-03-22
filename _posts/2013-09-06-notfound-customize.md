@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 8441
-wordpress_url: http://kotalab.com/?p=8441
+wordpress_url: https://kotalab.com/?p=8441
 date: '2013-09-06 21:00:16 +0900'
 date_gmt: '2013-09-06 12:00:16 +0900'
 category:
@@ -42,13 +42,13 @@ comments:
   date_gmt: '2014-11-18 05:10:43 +0900'
   content: "[&#8230;] [WordPress]Google先生もオススメ！オリジナルの404ページを作成する方法！ [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/notfound-customize_130906_01-546x409.jpg" alt="notfound-customize_130906_01" width="546" height="409" class="alignnone size-large wp-image-8453" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/notfound-customize_130906_01-546x409.jpg" alt="notfound-customize_130906_01" width="546" height="409" class="alignnone size-large wp-image-8453" /><br />
 SEO効果抜群のWordPress無料テーマ「Stinger2」を使ってます。こたら（@kotala_b）です。<br />
 「Stinger2」ではサイト上に存在しないページにアクセスしようとした時に表示されるページ（以下404ページ）が用意されています。<br />
 ほとんどのサイトの404ページでは「お探しのページは見つかりませんでした」というような文が表示されているだけで、アクセスした人にとってはなんの価値もないページとなっています。<br />
 もしなんの価値もない404ページにアクセスされてしまったら、ブラウザの戻るボタンを押されるのは避けられません。<br />
 このことは<strong>「Stinger2」も例外ではありません。</strong><br />
-<img src="http://kotalab.com/wp-content/uploads/notfound-customize_130906_02-546x131.jpg" alt="notfound-customize_130906_02" width="546" height="131" class="alignnone size-large wp-image-8454" /><br />
+<img src="https://kotalab.com/wp-content/uploads/notfound-customize_130906_02-546x131.jpg" alt="notfound-customize_130906_02" width="546" height="131" class="alignnone size-large wp-image-8454" /><br />
 404ページにたどり着いてしまった時でも<strong>次のページを読んで貰える工夫</strong>をすることで、ブラウザの戻るボタンを押されることを避けられるならあなたはどうしますか？<strong>僕は間違いなく次のページを読んで貰える工夫をします。</strong><br />
 <!--more--></p>
 <h2>色々な404ページ</h2>
@@ -135,9 +135,9 @@ SEO効果抜群のWordPress無料テーマ「Stinger2」を使ってます。こ
 <p><?php endforeach; ?>
 </div>
 <p>[/php]<br />
-見た目は<a href="http://kotalab.com/asd" title="" target="_blank">こんな風に</a>できあがりました！</p>
+見た目は<a href="https://kotalab.com/asd" title="" target="_blank">こんな風に</a>できあがりました！</p>
 <h3>オリジナルの404ページで次のページを読んで貰える工夫を！</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/notfound-customize_130906_03-546x513.jpg" alt="notfound-customize_130906_03" width="546" height="513" class="alignnone size-large wp-image-8455" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/notfound-customize_130906_03-546x513.jpg" alt="notfound-customize_130906_03" width="546" height="513" class="alignnone size-large wp-image-8455" /><br />
 あなたもオリジナルの404ページで次のページを読んで貰える工夫をしてみませんか？</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4956
-wordpress_url: http://kotalab.com/?p=4956
+wordpress_url: https://kotalab.com/?p=4956
 date: '2012-12-20 11:30:12 +0900'
 date_gmt: '2012-12-20 02:30:12 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - トップバリュ
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/readymeal_121220.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readymeal_121220-448x448.jpg" alt="readymeal_121220" width="448" height="448" class="alignnone size-large wp-image-4962" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/readymeal_121220.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readymeal_121220-448x448.jpg" alt="readymeal_121220" width="448" height="448" class="alignnone size-large wp-image-4962" /></a><br />
 トップバリュのレディーミールを食べました。@kotala_bです。<br />
 レディーミールとは何かというと、簡単に言うとトップバリュで売ってる冷凍食品です。<br />
 <strong>レディーミールはパスタだけでも10種類近くあり、チャーハンやピラフなどのご飯ものや鮭の塩焼きや鯖の味噌煮といった定番のおかずまで種類が豊富です！</strong><br />
@@ -46,24 +46,24 @@ TVCMで見かけるようになりその存在が気になっていました。<
 </div>
 <p><!--more--></p>
 <h2>レディーミールのペスカトーレスパゲッティ</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/readymeal_121220_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readymeal_121220_01-448x448.jpg" alt="readymeal_121220_01" width="448" height="448" class="alignnone size-large wp-image-4963" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/readymeal_121220_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readymeal_121220_01-448x448.jpg" alt="readymeal_121220_01" width="448" height="448" class="alignnone size-large wp-image-4963" /></a><br />
 色々あるなかから今回はペスカトーレスパゲッティを買ってみました！<br />
 袋から取り出すと内袋にパスタが入っています。<br />
 ▼内袋にはわかりやすく「こちらの面が上」とあるので、見えるようにお皿に置きレンジへ。<br />
-<a href="http://kotalab.com/wp-content/uploads/readymeal_121220_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readymeal_121220_02-448x448.jpg" alt="readymeal_121220_02" width="448" height="448" class="alignnone size-large wp-image-4964" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/readymeal_121220_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readymeal_121220_02-448x448.jpg" alt="readymeal_121220_02" width="448" height="448" class="alignnone size-large wp-image-4964" /></a><br />
 ▼レンジの中では袋が破裂するのかと思うくらいパンパンにふくらみます。<br />
-<a href="http://kotalab.com/wp-content/uploads/readymeal_121220_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readymeal_121220_03-448x448.jpg" alt="readymeal_121220_03" width="448" height="448" class="alignnone size-large wp-image-4965" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/readymeal_121220_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readymeal_121220_03-448x448.jpg" alt="readymeal_121220_03" width="448" height="448" class="alignnone size-large wp-image-4965" /></a><br />
 上と書いてある面には破裂防止の為の空気穴があるので破裂することなくレンジでチンできます！<br />
 ▼チンした後の袋<br />
-<a href="http://kotalab.com/wp-content/uploads/readymeal_121220_04.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readymeal_121220_04-448x448.jpg" alt="readymeal_121220_04" width="448" height="448" class="alignnone size-large wp-image-4961" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/readymeal_121220_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readymeal_121220_04-448x448.jpg" alt="readymeal_121220_04" width="448" height="448" class="alignnone size-large wp-image-4961" /></a><br />
 お皿自体が熱くなってるのでやけどには注意！<br />
 ▼袋の端を切りパスタをお皿へ入れて出来上がり！<br />
-<a href="http://kotalab.com/wp-content/uploads/readymeal_121220_05.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readymeal_121220_05-448x448.jpg" alt="readymeal_121220_05" width="448" height="448" class="alignnone size-large wp-image-4966" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/readymeal_121220_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readymeal_121220_05-448x448.jpg" alt="readymeal_121220_05" width="448" height="448" class="alignnone size-large wp-image-4966" /></a></p>
 <h2>早速食べてみた！</h2>
 <p>▼miilの写真はこんな感じ<br />
-<a href="http://kotalab.com/wp-content/uploads/readymeal_121220_07.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readymeal_121220_07-448x447.jpg" alt="readymeal_121220_07" width="448" height="447" class="alignnone size-large wp-image-4968" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/readymeal_121220_07.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readymeal_121220_07-448x447.jpg" alt="readymeal_121220_07" width="448" height="447" class="alignnone size-large wp-image-4968" /></a><br />
 ▼頂きます！<br />
-<a href="http://kotalab.com/wp-content/uploads/readymeal_121220_06.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/readymeal_121220_06-448x448.jpg" alt="readymeal_121220_06" width="448" height="448" class="alignnone size-large wp-image-4967" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/readymeal_121220_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/readymeal_121220_06-448x448.jpg" alt="readymeal_121220_06" width="448" height="448" class="alignnone size-large wp-image-4967" /></a><br />
 <strong>パスタのかたさは柔らかくも硬くもなくちょうどいい硬さでした！<br />
 気になるお味の方は、これで150円なら十分満足といった感じ。</strong><br />
 普段食べてる量が多めなので、それと比べるとちょっと少な目。<br />

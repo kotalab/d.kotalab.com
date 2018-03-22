@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5932
-wordpress_url: http://kotalab.com/?p=5932
+wordpress_url: https://kotalab.com/?p=5932
 date: '2013-01-28 08:00:40 +0900'
 date_gmt: '2013-01-27 23:00:40 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - Dpub
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/iid_130128.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128-448x448.jpg" alt="iid_130128" width="448" height="448" class="alignnone size-large wp-image-5947" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/iid_130128.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128-448x448.jpg" alt="iid_130128" width="448" height="448" class="alignnone size-large wp-image-5947" /></a><br />
 2月2日はDpub7に行きます。@kotala_bです。<br />
 おそらくDpub7に向けてでしょう、iIDという@itok_twitさんのアプリ「iID-オフ会名札」がiPhone5に対応し2月2日まで半額セールを行っています！<br />
 早速ダウンロードしてみたのでご紹介します！</p>
@@ -44,41 +44,41 @@ App Storeより</p></blockquote>
 <a href="http://itok.jp/blog/2013/01/28/iid_v110/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://itok.jp/blog/2013/01/28/iid_v110/" alt="名札作成・表示iPhoneアプリ iID v1.1 を公開しました &ndash; iOS6/iPhone5対応など & 50%オフセール" width="150" height="130" /></a><a href="http://itok.jp/blog/2013/01/28/iid_v110/" target="_blank">名札作成・表示iPhoneアプリ iID v1.1 を公開しました &ndash; iOS6/iPhone5対応など &amp; 50%オフセール</a><a href="http://b.hatena.ne.jp/entry/http://itok.jp/blog/2013/01/28/iid_v110/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://itok.jp/blog/2013/01/28/iid_v110/" alt="" /></a><br style="clear:both;" />iPhoneをIDカードとして表示させておくことが出来るアプリです。</p>
 <h2>iIDの使い方</h2>
 <p>▼アプリを起動するとこんな画面になります<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_01-300x513.png" alt="iid_130128_01" width="300" height="513" class="alignnone size-medium wp-image-5935" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_01-300x513.png" alt="iid_130128_01" width="300" height="513" class="alignnone size-medium wp-image-5935" /></a><br />
 最初に名札として使いたい画像を選択します<br />
 ▼今回はTwitterの画像で作ってみます<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_02-300x513.png" alt="iid_130128_02" width="300" height="513" class="alignnone size-medium wp-image-5936" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_02-300x513.png" alt="iid_130128_02" width="300" height="513" class="alignnone size-medium wp-image-5936" /></a><br />
 iPhoneに登録済みのTwitterアカウントが表示され、他にもユーザー検索が可能です。<br />
 アカウントのところをタップし名札を作成します。<br />
 ▼名札の編集画面<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_03.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_03-300x513.png" alt="iid_130128_03" width="300" height="513" class="alignnone size-medium wp-image-5937" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_03-300x513.png" alt="iid_130128_03" width="300" height="513" class="alignnone size-medium wp-image-5937" /></a><br />
 Twitterアイコンとアカウント名が最初に表示されました。<br />
 アイコンは1本指で動かすと画像の位置を変更でき、2本指でピンチアウトをすると画像の拡大、ピンチインをすると画像の縮小が出来ます。<br />
 画面下には3つのボタンがあり、このボタンで編集を行います。<br />
 ▼左のボタンはカラーパレットです<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_04.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_04-300x513.png" alt="iid_130128_04" width="300" height="513" class="alignnone size-medium wp-image-5938" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_04.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_04-300x513.png" alt="iid_130128_04" width="300" height="513" class="alignnone size-medium wp-image-5938" /></a><br />
 背景色を選ぶことが出来ます<br />
 ▼中央のプラスボタンでは任意のテキストを入力することが出来ます<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_06.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_06-300x513.png" alt="iid_130128_06" width="300" height="513" class="alignnone size-medium wp-image-5939" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_06.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_06-300x513.png" alt="iid_130128_06" width="300" height="513" class="alignnone size-medium wp-image-5939" /></a><br />
 ▼右のボタンを押すと画像が角丸に変更されます。<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_07.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_07-300x513.png" alt="iid_130128_07" width="300" height="513" class="alignnone size-medium wp-image-5940" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_07.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_07-300x513.png" alt="iid_130128_07" width="300" height="513" class="alignnone size-medium wp-image-5940" /></a><br />
 ▼表示されているテキストをタップするとテキストのフォントや色を変更出来ます<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_05.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_05-300x513.png" alt="iid_130128_05" width="300" height="513" class="alignnone size-medium wp-image-5942" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_05.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_05-300x513.png" alt="iid_130128_05" width="300" height="513" class="alignnone size-medium wp-image-5942" /></a><br />
 ▼沢山のフォントの中から選ぶことが出来ます<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_09.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_09-300x513.png" alt="iid_130128_09" width="300" height="513" class="alignnone size-medium wp-image-5946" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_09.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_09-300x513.png" alt="iid_130128_09" width="300" height="513" class="alignnone size-medium wp-image-5946" /></a><br />
 編集が終わったら右上の完了ボタンで完成です。<br />
 ▼自分の好きな名前で登録が出来ます<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_08.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_08-300x513.png" alt="iid_130128_08" width="300" height="513" class="alignnone size-medium wp-image-5941" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_08.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_08-300x513.png" alt="iid_130128_08" width="300" height="513" class="alignnone size-medium wp-image-5941" /></a><br />
 ▼完成した名札がこちら<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_10.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_10-300x532.png" alt="iid_130128_10" width="300" height="532" class="alignnone size-medium wp-image-5945" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_10.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_10-300x532.png" alt="iid_130128_10" width="300" height="532" class="alignnone size-medium wp-image-5945" /></a><br />
 Twitterのアイコンを使って名札を作成しましたが、好きな写真を使うことも可能です。<br />
 ▼TwitterやFacebookのアイコン以外のものを使う場合はフォトライブラリから選択します<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_11.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_11-300x513.png" alt="iid_130128_11" width="300" height="513" class="alignnone size-medium wp-image-5944" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_11.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_11-300x513.png" alt="iid_130128_11" width="300" height="513" class="alignnone size-medium wp-image-5944" /></a><br />
 ▼この場合選んだ画像のみが表示されるので、自分でテキストを入力するとわかりやすくなります<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_12.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_12-300x532.png" alt="iid_130128_12" width="300" height="532" class="alignnone size-medium wp-image-5943" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_12.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_12-300x532.png" alt="iid_130128_12" width="300" height="532" class="alignnone size-medium wp-image-5943" /></a><br />
 1度作った名札は履歴からいつでも表示することが出来ます。<br />
 ▼履歴表示<br />
-<a href="http://kotalab.com/wp-content/uploads/iid_130128_13.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iid_130128_13-300x513.png" alt="iid_130128_13" width="300" height="513" class="alignnone size-medium wp-image-5952" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/iid_130128_13.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iid_130128_13-300x513.png" alt="iid_130128_13" width="300" height="513" class="alignnone size-medium wp-image-5952" /></a></p>
 <h2>最後に</h2>
 <p>画面の回転をロックしていると逆さまに表示出来なかったので、ネックストラップを使ってiPhoneを逆さまにする時は画面の回転のロックを解除しておきましょう。<br />
 @itok_twitさんが言っているように、使わなくなったiPhoneやiPod touchを持っている方はそれを使えばメインで使ってるiPhoneのバッテリーを気にしなくて済むので良さそうです！<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7695
-wordpress_url: http://kotalab.com/?p=7695
+wordpress_url: https://kotalab.com/?p=7695
 date: '2013-06-29 19:00:23 +0900'
 date_gmt: '2013-06-29 10:00:23 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - Feedly
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/feedly_130629-448x240.jpg" alt="feedly_130629" width="448" height="240" class="alignnone size-large wp-image-7696" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/feedly_130629-448x240.jpg" alt="feedly_130629" width="448" height="240" class="alignnone size-large wp-image-7696" /><br />
 GoogleリーダーからFeedlyへRSSデータを移行させました。こたら（@kotala_b）です。<br />
 iPhoneアプリのReederをこれまで愛用してきました。<br />
 ReederがFeedlyへ対応するという公式発表があり、それならGoogleリーダーのデータをまずはFeedlyへ移行させようと思いました。</p>
@@ -52,10 +52,10 @@ ReederがFeedlyへ対応するという公式発表があり、それならGoogl
 <h2>Feedlyへの移行方法</h2>
 <p>まずは<a href="http://cloud.feedly.com/" title="Feedly" target="_blank">Feedly</a>を開きます。<br />
 トップページに3つあるボタンの中から青いボタン「One-click Google Reader Import」をクリック。<br />
-<img src="http://kotalab.com/wp-content/uploads/feedly_130629_01-448x240.jpg" alt="feedly_130629_01" width="448" height="240" class="alignnone size-large wp-image-7698" /><br />
+<img src="https://kotalab.com/wp-content/uploads/feedly_130629_01-448x240.jpg" alt="feedly_130629_01" width="448" height="240" class="alignnone size-large wp-image-7698" /><br />
 そうするとGoogleアカウントを入力する画面に移ります。<br />
 その後アカウントを認証すると、これまでGoogleリーダーに登録してあったRSSデータがFeedlyで見られるようになります。<br />
-<img src="http://kotalab.com/wp-content/uploads/feedly_130629_02-448x496.jpg" alt="feedly_130629_02" width="448" height="496" class="alignnone size-large wp-image-7697" /></p>
+<img src="https://kotalab.com/wp-content/uploads/feedly_130629_02-448x496.jpg" alt="feedly_130629_02" width="448" height="496" class="alignnone size-large wp-image-7697" /></p>
 <h2>最後に</h2>
 <p>たったこれだけでRSSデータがGoogleリーダーからFeedlyへ移行できました。<br />
 簡単すぎてビックリしました。<br />
@@ -91,4 +91,4 @@ ReederがFeedlyへ対応するという公式発表があり、それならGoogl
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/reeder-feedly" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note" width="150" /></a><a href="http://kotalab.com/reeder-feedly" target="_blank">Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/reeder-feedly" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note" width="150" /></a><a href="https://kotalab.com/reeder-feedly" target="_blank">Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note</a><br style="clear:both;" /></p>

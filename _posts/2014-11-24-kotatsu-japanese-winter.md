@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13604
-wordpress_url: http://kotalab.com/?p=13604
+wordpress_url: https://kotalab.com/?p=13604
 date: '2014-11-24 10:30:43 +0900'
 date_gmt: '2014-11-24 01:30:43 +0900'
 category:
@@ -20,18 +20,18 @@ tags:
 - こたつ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/kotatsu-japanese-winter_20141125_01-780x585.jpg" alt="kotatsu-japanese-winter_20141125_01" width="780" height="585" class="aligncenter size-large wp-image-13607" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/kotatsu-japanese-winter_20141125_01-780x585.jpg" alt="kotatsu-japanese-winter_20141125_01" width="780" height="585" class="aligncenter size-large wp-image-13607" /><br />
 小さい頃、僕の家にはこたつがなくて、冬にこたつに入ってみかんを食べることにちょっとした憧れを持っていました。<br />
 あれから20数年、今年で30歳になる大人になった僕はあの頃のことを思い出して自宅の和室にこたつを置くことにしました。<br />
 <!--more--></p>
 <h2>コンパクトで折りたためるこたつ！</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/kotatsu-japanese-winter_20141125_03-780x585.jpg" alt="kotatsu-japanese-winter_20141125_03" width="780" height="585" class="aligncenter size-large wp-image-13609" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/kotatsu-japanese-winter_20141125_03-780x585.jpg" alt="kotatsu-japanese-winter_20141125_03" width="780" height="585" class="aligncenter size-large wp-image-13609" /><br />
 僕は脚が折り畳めるタイプのコンパクトで場所をとらないこたつを買いました。<br />
 山善の折脚カジュアルこたつという、脚が折りたためて1辺が75センチのコンパクトなこたつです。</p>
 <p>脚が折り畳めればしまう時も場所をとらないし、夏場は押入れにしまっておくこともできるし！<br />
 こたつ布団を取っちゃえば1年中使えそうですけどね。というか使ってそうです。</p>
 <h3>こたつといえばうたた寝！？</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/kotatsu-japanese-winter_20141125_01-780x585.jpg" alt="kotatsu-japanese-winter_20141125_01" width="780" height="585" class="aligncenter size-large wp-image-13607" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/kotatsu-japanese-winter_20141125_01-780x585.jpg" alt="kotatsu-japanese-winter_20141125_01" width="780" height="585" class="aligncenter size-large wp-image-13607" /><br />
 先週くらいからこたつを使い始めたんですけど、なんていうか<span class="b">ヤバイ！</span><br />
 仕事で帰ってきてこたつに入ったらもう抜け出せなくなるあの感じ。</p>
 <p>風邪はひきたくないんでちゃんと布団で寝ますけど、何度こたつの誘惑に負けそうになったことか。</p>

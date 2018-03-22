@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4482
-wordpress_url: http://kotalab.com/?p=4482
+wordpress_url: https://kotalab.com/?p=4482
 date: '2012-12-01 12:07:02 +0900'
 date_gmt: '2012-12-01 03:07:02 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - WPtouch
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/link_120708.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/link_120708.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 WPtouchを外しました。@kotala_bです。<br />
 これが直接のきっかけという訳ではないんですが、この一言のおかげで今まで躊躇してたのを一歩踏み込んで外してみることにしました。</p>

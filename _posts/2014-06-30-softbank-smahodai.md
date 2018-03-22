@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13289
-wordpress_url: http://kotalab.com/?p=13289
+wordpress_url: https://kotalab.com/?p=13289
 date: '2014-06-30 06:50:28 +0900'
 date_gmt: '2014-06-29 21:50:28 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - スマホ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/softbank-smahodai_140626_01.png" alt="Softbank smahodai 140626 01" title="softbank-smahodai_140626_01.png" border="0" width="548" height="296" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/softbank-smahodai_140626_01.png" alt="Softbank smahodai 140626 01" title="softbank-smahodai_140626_01.png" border="0" width="548" height="296" /><br />
 家族2人でSoftBankのiPhoneを使っています。<br />
 そんな僕達がSoftBankの新料金プラン「スマ放題」に切替えると料金的にお得なのか試算してみました！<br />
 <!--more--></p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10284
-wordpress_url: http://kotalab.com/?p=10284
+wordpress_url: https://kotalab.com/?p=10284
 date: '2013-12-16 11:31:36 +0900'
 date_gmt: '2013-12-16 02:31:36 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - おすすめ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/nsl8_120929.jpg" alt="nsl8_120929" width="546" height="410" class="alignnone size-full wp-image-3035" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/nsl8_120929.jpg" alt="nsl8_120929" width="546" height="410" class="alignnone size-full wp-image-3035" /><br />
 貰った名刺はEvernoteに入れてます。こたら（@kotala_b）です。<br />
 皆さんはイベントやセミナー、会社のお付き合いで貰った名刺どうしてますか？<br />
 貰ったままにしてたらもったいないですよ！<br />
@@ -34,23 +34,23 @@ comments: []
 Evernoteへ入れるとなるとスキャナが必要になりそうですが、iPhoneアプリのアップデートでiPhoneで写真を撮るだけで取り込めるようになりました！<br />
 <!--more--></p>
 <h2>EvernoteのiPhoneアプリがバージョンアップで名刺カメラを搭載</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/evernotescannamecard_131216_01-300x362.jpg" alt="evernotescannamecard_131216_01" width="300" height="362" class="alignnone size-medium wp-image-10287" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/evernotescannamecard_131216_01-300x362.jpg" alt="evernotescannamecard_131216_01" width="300" height="362" class="alignnone size-medium wp-image-10287" /><br />
 iPhoneアプリのバージョン7.2からプレミアム機能に「名刺カメラ」モードが追加されました。<br />
 この名刺カメラを使うことでキレイに名刺だけを取り込めるようになりました。<br />
 無料ユーザーにはお試し機能として5枚まで名刺がスキャンできるので是非お試しください！</p>
 <h2>EvernoteのiPhoneアプリから名刺をスキャンする方法</h2>
 <p>公式アプリを開いた画面の下の方にあるカメラのマークから起動します。<br />
-<img src="http://kotalab.com/wp-content/uploads/evernotescannamecard_131216_03-300x367.jpg" alt="evernotescannamecard_131216_03" width="300" height="367" class="alignnone size-medium wp-image-10289" /><br />
+<img src="https://kotalab.com/wp-content/uploads/evernotescannamecard_131216_03-300x367.jpg" alt="evernotescannamecard_131216_03" width="300" height="367" class="alignnone size-medium wp-image-10289" /><br />
 カメラが起動したら左右へのスワイプでカメラモードが切り替わるので名刺モードへ。<br />
-<img src="http://kotalab.com/wp-content/uploads/evernotescannamecard_131216_05-300x532.jpg" alt="evernotescannamecard_131216_05" width="300" height="532" class="alignnone size-medium wp-image-10291" /><br />
+<img src="https://kotalab.com/wp-content/uploads/evernotescannamecard_131216_05-300x532.jpg" alt="evernotescannamecard_131216_05" width="300" height="532" class="alignnone size-medium wp-image-10291" /><br />
 取り込みたい名刺を置いてシャッターを切れば取り込み完了！<br />
-<img src="http://kotalab.com/wp-content/uploads/evernotescannamecard_131216_04-300x532.jpg" alt="evernotescannamecard_131216_04" width="300" height="532" class="alignnone size-medium wp-image-10290" /><br />
+<img src="https://kotalab.com/wp-content/uploads/evernotescannamecard_131216_04-300x532.jpg" alt="evernotescannamecard_131216_04" width="300" height="532" class="alignnone size-medium wp-image-10290" /><br />
 背景が映り込まないで名刺だけがキレイに取り込めました。<br />
 名刺カメラでは名刺そのものを取り込むだけなので、名前やメアドなどは手書きで編集します。</p>
 <h2>名前は後から編集し直す</h2>
 <p>名刺を取り込んだ画面では名前と電話番号、メアドを入力することができます。<br />
 後から取り込んだ名刺を見てみると、ノートのタイトルが「名前がありません - スキャンした名刺」に。<br />
-<img src="http://kotalab.com/wp-content/uploads/evernotescannamecard_131216_02-300x513.jpg" alt="evernotescannamecard_131216_02" width="300" height="513" class="alignnone size-medium wp-image-10288" /><br />
+<img src="https://kotalab.com/wp-content/uploads/evernotescannamecard_131216_02-300x513.jpg" alt="evernotescannamecard_131216_02" width="300" height="513" class="alignnone size-medium wp-image-10288" /><br />
 入力したはずの名前が未入力になってました。<br />
 アプリの不具合っぽいのでいつか直りそうですけど、現時点（Ver7.2）では後から編集しなおさなきゃいけません。</p>
 <h3>名刺を取り込んだらタグ付けしとくと便利！</h3>

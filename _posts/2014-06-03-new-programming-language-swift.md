@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13265
-wordpress_url: http://kotalab.com/?p=13265
+wordpress_url: https://kotalab.com/?p=13265
 date: '2014-06-03 07:05:16 +0900'
 date_gmt: '2014-06-02 22:05:16 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - WWDC
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20140603070504.jpg" width="548" height="309" class="slooProImg" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140603070504.jpg" width="548" height="309" class="slooProImg" /><br />
 Appleの開発者向け発表会WWDCで、新プログラミング言語のSwiftが発表されました！</p>
 <p>Appleがモダンでパワフルな言語と表現するSwiftは今日から開発可能となっています！<br />
 <!--more--></p>

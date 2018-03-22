@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6822
-wordpress_url: http://kotalab.com/?p=6822
+wordpress_url: https://kotalab.com/?p=6822
 date: '2013-04-15 11:41:46 +0900'
 date_gmt: '2013-04-15 02:41:46 +0900'
 category:
@@ -23,24 +23,24 @@ tags:
 - 水没
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/suibotsu_130415-448x336.jpg" alt="suibotsu_130415" width="448" height="336" class="alignnone size-large wp-image-6825" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/suibotsu_130415-448x336.jpg" alt="suibotsu_130415" width="448" height="336" class="alignnone size-large wp-image-6825" /><br />
 おとといの夜MacBook Airに水をこぼしました。@kotala_bです。<br />
 その時とった対処法は、真っ先に電源を切り場所を移し完全に乾燥させることでした。<br />
-<a href="http://kotalab.com/macbook-air-water-accident" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130413232251.jpg" alt="MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note" width="150" /></a><a href="http://kotalab.com/macbook-air-water-accident" target="_blank">MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note</a><br style="clear:both;" />それから丸1日以上経った今朝、恐る恐るMacBook Airに電源を入れてみました。<br />
+<a href="https://kotalab.com/macbook-air-water-accident" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130413232251.jpg" alt="MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note" width="150" /></a><a href="https://kotalab.com/macbook-air-water-accident" target="_blank">MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note</a><br style="clear:both;" />それから丸1日以上経った今朝、恐る恐るMacBook Airに電源を入れてみました。<br />
 <!--more--></p>
 <h2>水没からの開封！</h2>
 <p>▼この状態で1日半近く放置していました。<br />
-<img src="http://kotalab.com/wp-content/uploads/suibotsu_130415_01-448x336.jpg" alt="suibotsu_130415_01" width="448" height="336" class="alignnone size-large wp-image-6827" /><br />
+<img src="https://kotalab.com/wp-content/uploads/suibotsu_130415_01-448x336.jpg" alt="suibotsu_130415_01" width="448" height="336" class="alignnone size-large wp-image-6827" /><br />
 上の方に見える同封された乾燥剤がその悲惨さを物語ります。<br />
 ▼久しぶりのご対面<br />
-<img src="http://kotalab.com/wp-content/uploads/suibotsu_130415_02-448x336.jpg" alt="suibotsu_130415_02" width="448" height="336" class="alignnone size-large wp-image-6823" /><br />
+<img src="https://kotalab.com/wp-content/uploads/suibotsu_130415_02-448x336.jpg" alt="suibotsu_130415_02" width="448" height="336" class="alignnone size-large wp-image-6823" /><br />
 何事もなく無事であってほしい！<br />
 ▼そんな願いを込めて開き<br />
-<img src="http://kotalab.com/wp-content/uploads/suibotsu_130415-448x336.jpg" alt="suibotsu_130415" width="448" height="336" class="alignnone size-large wp-image-6825" /><br />
+<img src="https://kotalab.com/wp-content/uploads/suibotsu_130415-448x336.jpg" alt="suibotsu_130415" width="448" height="336" class="alignnone size-large wp-image-6825" /><br />
 ▼このたった数秒の起動前の読み込みにドキドキです。<br />
-<img src="http://kotalab.com/wp-content/uploads/suibotsu_130415_03-448x336.jpg" alt="suibotsu_130415_03" width="448" height="336" class="alignnone size-large wp-image-6824" /><br />
+<img src="https://kotalab.com/wp-content/uploads/suibotsu_130415_03-448x336.jpg" alt="suibotsu_130415_03" width="448" height="336" class="alignnone size-large wp-image-6824" /><br />
 ▼すると何事もなかったように、今まで通り元気よく「ジャーン」と鳴りいつもの画面がでてきました！<br />
-<img src="http://kotalab.com/wp-content/uploads/suibotsu_130415_04-448x336.jpg" alt="suibotsu_130415_04" width="448" height="336" class="alignnone size-large wp-image-6826" /><br />
+<img src="https://kotalab.com/wp-content/uploads/suibotsu_130415_04-448x336.jpg" alt="suibotsu_130415_04" width="448" height="336" class="alignnone size-large wp-image-6826" /><br />
 起動から1時間ぐらい経ちましたが、何事もなかったかのように何も問題なく動いています！</p>
 <h2>MacBook Airに水をこぼして感じたこと</h2>
 <p>水をこぼした時、最初に思ったのが「壊れて起動しなくなったらまた買わなきゃ！」ということでした。<br />
@@ -84,5 +84,5 @@ comments: []
 <p>そういうことを無意識的にわかっていたから水をこぼした時も冷静に電源をすぐ切り、iPhoneで対処法を調べ更にはブログのネタに出来たんだと思います。<br />
 もしMacBook Airにしかデータがなく全てをMacBook Airでしか出来ない状態だったら、慌ててまともな対処が出来ていなかったはずです。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/macbook-air-water-accident" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130413232251.jpg" alt="MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note" width="150" /></a><a href="http://kotalab.com/macbook-air-water-accident" target="_blank">MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/hdd-hd-lb20tu3j" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/hdd_120930.jpg" alt="外付けHDD買うならUSB3.0！MacBook Airに繋げて使う外付けHDD「HD-LB2.0TU3J」を購入！ | kotala's note" width="150" /></a><a href="http://kotalab.com/hdd-hd-lb20tu3j" target="_blank">外付けHDD買うならUSB3.0！MacBook Airに繋げて使う外付けHDD「HD-LB2.0TU3J」を購入！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/macbook-air-water-accident" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130413232251.jpg" alt="MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note" width="150" /></a><a href="https://kotalab.com/macbook-air-water-accident" target="_blank">MacBook Airに水をこぼした！そんな時は落ち着いて電源を切るべし！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/hdd-hd-lb20tu3j" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/hdd_120930.jpg" alt="外付けHDD買うならUSB3.0！MacBook Airに繋げて使う外付けHDD「HD-LB2.0TU3J」を購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/hdd-hd-lb20tu3j" target="_blank">外付けHDD買うならUSB3.0！MacBook Airに繋げて使う外付けHDD「HD-LB2.0TU3J」を購入！ | kotala's note</a><br style="clear:both;" /></p>

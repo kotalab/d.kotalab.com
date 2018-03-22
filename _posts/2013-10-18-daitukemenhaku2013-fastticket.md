@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 9959
-wordpress_url: http://kotalab.com/?p=9959
+wordpress_url: https://kotalab.com/?p=9959
 date: '2013-10-18 21:29:13 +0900'
 date_gmt: '2013-10-18 12:29:13 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - おすすめ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_01-546x307.jpg" alt="tukemenhaku2013fasticket_131018_01" width="546" height="307" class="alignnone size-large wp-image-9964" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_01-546x307.jpg" alt="tukemenhaku2013fasticket_131018_01" width="546" height="307" class="alignnone size-large wp-image-9964" /><br />
 大つけ麺博でファストチケットを試してみました。こたら（@kotala_b）です。<br />
 ファストチケットというのは、ディズニーランドでいうところのファストパスと一緒。<br />
 決められた時間帯にだけ使える前売り食券です。<br />
@@ -66,14 +66,14 @@ Facebookアカウントがある場合はFacebookアカウントでログイン�
 <h3>3.食べたいつけ麺のファストチケットを購入し、アプリにチケットを入れる</h3>
 <p>tixeeの会員登録が完了したら、<a href="http://dai-tsukemen-haku.com/" target="_blank">大つけ麺博の公式サイト</a>を開き食べたいつけ麺を選びます。<br />
 「ファストチケットページへ」というリンクからファストチケット購入手続きへと移ります。<br />
-<img src="http://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_02-546x500.jpg" alt="tukemenhaku2013fasticket_131018_02" width="546" height="500" class="alignnone size-large wp-image-9966" /><br />
+<img src="https://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_02-546x500.jpg" alt="tukemenhaku2013fasticket_131018_02" width="546" height="500" class="alignnone size-large wp-image-9966" /><br />
 ファストチケットは1時間ごとに分けられているので、食べる時間帯のファストチケットを選びます。<br />
 購入手続きが完了すると、画面内にチケットをアプリに入れる案内があるのでそこを選択。<br />
-<img src="http://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_03-546x822.jpg" alt="tukemenhaku2013fasticket_131018_03" width="546" height="822" class="alignnone size-large wp-image-9967" /><br />
+<img src="https://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_03-546x822.jpg" alt="tukemenhaku2013fasticket_131018_03" width="546" height="822" class="alignnone size-large wp-image-9967" /><br />
 これでアプリ内にチケットが入ったらあとはつけ麺を貰いにいくだけ！<br />
-<img src="http://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_04-546x934.jpg" alt="tukemenhaku2013fasticket_131018_04" width="546" height="934" class="alignnone size-large wp-image-9968" /></p>
+<img src="https://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_04-546x934.jpg" alt="tukemenhaku2013fasticket_131018_04" width="546" height="934" class="alignnone size-large wp-image-9968" /></p>
 <h3>4.ファストチケット専用の入り口から入りチケットを店員さんに見せる</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_05-546x409.jpg" alt="tukemenhaku2013fasticket_131018_05" width="546" height="409" class="alignnone size-large wp-image-9971" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/tukemenhaku2013fasticket_131018_05-546x409.jpg" alt="tukemenhaku2013fasticket_131018_05" width="546" height="409" class="alignnone size-large wp-image-9971" /><br />
 通常の入り口の他にファストチケット専用の入り口があるので、そこから入り店員さんにファストチケットを見せます。<br />
 通常の入り口側に何人並んでてもファストチケットを持ってれば先頭でつけ麺を受取れます！<br />
 トッピングなどの追加注文をしたい時はその場で店員さんに言ってお金を払えばトッピングもして貰えます。</p>

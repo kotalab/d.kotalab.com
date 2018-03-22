@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1663
-wordpress_url: http://kotalab.com/?p=1663
+wordpress_url: https://kotalab.com/?p=1663
 date: '2012-07-26 06:07:06 +0900'
 date_gmt: '2012-07-25 21:07:06 +0900'
 category:
@@ -24,12 +24,12 @@ tags:
 - SmartEver
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
 EvernoteのiPhoneアプリの数に驚いてます。@kotala_bです。<br />
 SmartEver、MergeEverやBookEverなど数えるとキリがないほど多くのアプリがあります。<br />
 そんな中からiPhone4Sを買ってから約2週間の間に、公式アプリを含め7つのアプリを入れました。<br />
-<a href="http://kotalab.com/wp-content/uploads/smartever_120726_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smartever_120726_02.png" alt="" title="smartever_120726_02" width="300" height="431" class="alignnone size-full wp-image-1664" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/smartever_120726_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726_02.png" alt="" title="smartever_120726_02" width="300" height="431" class="alignnone size-full wp-image-1664" /></a><br />
 その中から今日ご紹介するのは「<a href="https://itunes.apple.com/jp/app/smartever/id493990103?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">SmartEver</a>」というアプリです。<br />
 <!--more--></p>
 <h2>SmartEverの特徴</h2>
@@ -43,7 +43,7 @@ SmartEver、MergeEverやBookEverなど数えるとキリがないほど多くの
 なのでちょっとしたアイデアをSmartEverで書いて、あとでそのことについて何か思いついたらまた書きたす。<br />
 といったことが出来ます。<br />
 ▼実際に<strong>SmartEver</strong>で作った「smartever」というノート<br />
-<a href="http://kotalab.com/wp-content/uploads/smartever_120726_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smartever_120726_01.png" alt="" title="smartever_120726_01" width="300" height="432" class="alignnone size-full wp-image-1665" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/smartever_120726_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726_01.png" alt="" title="smartever_120726_01" width="300" height="432" class="alignnone size-full wp-image-1665" /></a><br />
 <strong>SmartEver</strong>の使い道について考えたときのノートです。<br />
 使い始めた時はあれもこれもとタグを付けすぎて、逆に多すぎて見づらくなってしまいました。<br />
 削ったというのは読んで字のごとくタグを付けているノート数を削りました。<br />

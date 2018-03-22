@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10416
-wordpress_url: http://kotalab.com/?p=10416
+wordpress_url: https://kotalab.com/?p=10416
 date: '2014-01-06 13:06:28 +0900'
 date_gmt: '2014-01-06 04:06:28 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - クラウド
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="plan-next-action_140103" width="546" height="409" class="alignnone size-large wp-image-10381" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="plan-next-action_140103" width="546" height="409" class="alignnone size-large wp-image-10381" /><br />
 あれもこれもやりたい。でもやることが多すぎて時間が足らない。<br />
 僕たち現代人はIT技術の発展とともに大量の情報を裁き、猛スピードで進化する環境や技術に対応をしなければならない。<br />
 <strong>やることが多すぎるのだ。</strong><br />
@@ -66,12 +66,12 @@ GTDはやりたいことや気になっていることなど全てのタスク�
 オススメです！</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/books-kuroneko" target="_blank"><img src="http://kotalab.com/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/books-kuroneko" target="_blank">ストレスフリーな自分の作り方 &ndash; 人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと 金光サリィ著</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/books-kuroneko"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/books-kuroneko" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/books-kuroneko" target="_blank"><img src="https://kotalab.com/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/books-kuroneko" target="_blank">ストレスフリーな自分の作り方 &ndash; 人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと 金光サリィ著</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/books-kuroneko"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/books-kuroneko" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/books-thinking" target="_blank"><img src="http://kotalab.com/wp-content/uploads/yuruku_121129-448x336.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/http://kotalab.com/books-thinking"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/books-thinking" alt="" /></span></div>
+<div class="shhtimg"><a href="https://kotalab.com/books-thinking" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yuruku_121129-448x336.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="http://b.hatena.ne.jp/entry/https://kotalab.com/books-thinking"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/books-thinking" alt="" /></span></div>
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">

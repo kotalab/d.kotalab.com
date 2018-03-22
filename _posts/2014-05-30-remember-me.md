@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13253
-wordpress_url: http://kotalab.com/?p=13253
+wordpress_url: https://kotalab.com/?p=13253
 date: '2014-05-30 08:16:45 +0900'
 date_gmt: '2014-05-29 23:16:45 +0900'
 category:
@@ -29,7 +29,7 @@ comments: []
 <p>もし自分のことを相手に覚えてもらいたかったら、何か思い出してもらうためのきっかけを自分から作るしかありません。<br />
 <!--more--></p>
 <h2>プライベートではプライベート用の名刺</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/blogermeishi_130123-448x336.jpg" alt="blogermeishi_130123" width="546" height="410" class="alignnone size-full wp-image-5857" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/blogermeishi_130123-448x336.jpg" alt="blogermeishi_130123" width="546" height="410" class="alignnone size-full wp-image-5857" /><br />
 僕は初対面の人に会った時、仕事の場では名刺交換をします。<br />
 最低でも名刺交換をすればどこの会社の誰だかはわかりますし、名刺整理した時には誰だったか思い出すこともあります。</p>
 <p>プライベートでも同じように名刺を渡すようにしていました。<br />
@@ -37,13 +37,13 @@ comments: []
 <p>TwitterやFacebookをやってればそのアカウントをプライベート用の名刺に書いておけば、後から登録してもらいやすいですしネットで多少の交流があれば相手にも覚えてもらいやすいですよね。</p>
 <p>ただ最近はプライベート用の名刺がきれていて、初対面の方とお会いしても名刺を貰うだけのことが多かったです。</p>
 <h2>名刺を渡さなくなって気づいたこと</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/slooProImg_20140214083545-546x409.jpg" alt="slooProImg_20140214083545.jpg" width="546" height="409" class="alignnone size-large wp-image-10830" />僕の記憶力があまりよろしくないということもあるんですが、初めて会った後も名刺が残ってれば思い出しやすいんですよね。</p>
+<p><img src="https://kotalab.com/wp-content/uploads/slooProImg_20140214083545-546x409.jpg" alt="slooProImg_20140214083545.jpg" width="546" height="409" class="alignnone size-large wp-image-10830" />僕の記憶力があまりよろしくないということもあるんですが、初めて会った後も名刺が残ってれば思い出しやすいんですよね。</p>
 <p>これは名刺を一方的に貰うようになって気づきました。</p>
 <p>プライベートでも名刺があると、相手の記憶の中から自分という存在を思い出して貰う一つのきっかけになる。</p>
 <p>自分の体験でそう思い知った僕は新しいデザインの名刺を注文しました。</p>
 <p>プライベート用の名刺を持ってる人ってそんなに多くはないと思うんですが、多くないからこそ持ってると他の人との差がつくんです。</p>
 <h2>前川企画印刷さんのブロガー名刺がオススメ</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/blogermeishi_120921_02.jpg" alt="blogermeishi_120921_02" width="896" height="672" class="alignnone size-full wp-image-2917" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/blogermeishi_120921_02.jpg" alt="blogermeishi_120921_02" width="896" height="672" class="alignnone size-full wp-image-2917" /><br />
 プライベート用の名刺なのでできるだけお金をかけたくない人も多いと思います。<br />
 そんな人にオススメなのが前川企画印刷さんです。</p>
 <p>前川企画印刷さんではブロガー名刺と言って、ブログの記事で前川企画印刷さんを紹介すると特別料金で作ってくれる名刺があります。</p>

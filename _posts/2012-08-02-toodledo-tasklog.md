@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1790
-wordpress_url: http://kotalab.com/?p=1790
+wordpress_url: https://kotalab.com/?p=1790
 date: '2012-08-02 10:44:22 +0900'
 date_gmt: '2012-08-02 01:44:22 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - TaskLog
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/tasklog_120802.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/tasklog_120802.jpg" alt="" title="tasklog_120802" width="448" height="299" class="alignnone size-full wp-image-1800" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/tasklog_120802.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tasklog_120802.jpg" alt="" title="tasklog_120802" width="448" height="299" class="alignnone size-full wp-image-1800" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/bu_arras/6165675170/" target="_blank">check list</a> / Artois Biblioth&egrave;ques</span><br />
 プロジェクト管理にはToodledoを使っています。@kotala_bです。<br />
 多機能で便利な<strong>Toodledo</strong>ですが、新たに「<strong>TaskLog</strong>」というブックマークレットが公開されました。<br />
@@ -37,7 +37,7 @@ comments: []
 <p>このブックマークレットを使うことで作業記録や行動記録を簡単に残すことが出来ます！</p>
 <h2>TaskLogの簡単な使い方</h2>
 <p>▼クリックすると拡大画像が開きます<br />
-<a href="http://kotalab.com/wp-content/uploads/tasklog_120802_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/tasklog_120802_01.jpg" alt="" title="tasklog_120802_01" width="448" height="336" class="alignnone size-full wp-image-1795" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/tasklog_120802_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tasklog_120802_01.jpg" alt="" title="tasklog_120802_01" width="448" height="336" class="alignnone size-full wp-image-1795" /></a><br />
 まず<strong>Toodledo</strong>をWeb上で開きます。<br />
 一番上にあるタスクを開始する時にブックマークレットをまず1クリック。<br />
 タスク終了時にもう1度ブックマークレットを1クリック。<br />

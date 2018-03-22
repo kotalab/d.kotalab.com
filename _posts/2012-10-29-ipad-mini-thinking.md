@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3777
-wordpress_url: http://kotalab.com/?p=3777
+wordpress_url: https://kotalab.com/?p=3777
 date: '2012-10-29 12:13:23 +0900'
 date_gmt: '2012-10-29 03:13:23 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - iPad
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/ipad_121029.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipad_121029.jpg" alt="" title="ipad_121029" width="448" height="300" class="alignnone size-full wp-image-3778" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/ipad_121029.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipad_121029.jpg" alt="" title="ipad_121029" width="448" height="300" class="alignnone size-full wp-image-3778" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/jedalani/2744362014/" target="_blank">Le Penseur</a> / Jean-David &amp; Anne-Laure</span><br />
 タブレット端末は何も持っていません。@kotala_bです。<br />
 11月2日発売のiPadminiを買おうと考えています。<br />

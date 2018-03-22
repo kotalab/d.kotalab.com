@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1518
-wordpress_url: http://kotalab.com/?p=1518
+wordpress_url: https://kotalab.com/?p=1518
 date: '2012-07-16 14:50:39 +0900'
 date_gmt: '2012-07-16 05:50:39 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - こたらの1週間
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/weekly_120703.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/weekly_120703.jpg" alt="" title="weekly_120703" width="448" height="336" class="alignnone size-full wp-image-1221" /></a><br /><span style="font-size:10px;"><a href="http://www.flickr.com/photos/wespeck/4574733303/" target="_blank">Life</a> / gfpeck</span><br />
+<p><a href="https://kotalab.com/wp-content/uploads/weekly_120703.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/weekly_120703.jpg" alt="" title="weekly_120703" width="448" height="336" class="alignnone size-full wp-image-1221" /></a><br /><span style="font-size:10px;"><a href="http://www.flickr.com/photos/wespeck/4574733303/" target="_blank">Life</a> / gfpeck</span><br />
 こたらの1週間第6号です。<br />
 先週1週間を振り返ります。<br />
 <!--more--></p>
@@ -29,13 +29,13 @@ comments: []
 <h3>六本木ヒルズへいく</h3>
 <p>水曜日に六本木ヒルズへ行ってきました。<br />
 その時書いた記事はこちらです。<br />
-<a href="http://kotalab.com/roppongihills-52f" target="_blank"><img title="六本木ヒルズの52階展望台から眺めた東京の風景 | kotala's note" src="http://capture.heartrails.com/150x130?http://kotalab.com/roppongihills-52f" alt="http://kotalab.com/archives/1389" width="150" height="130" align="left" /></a><a href="http://kotalab.com/roppongihills-52f" title="六本木ヒルズの52階展望台から眺めた東京の風景" target="_blank">六本木ヒルズの52階展望台から眺めた東京の風景 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/roppongihills-egypt" target="_blank"><img title="様々な歴史を感じる六本木ヒルズで開催中の古代エジプト展に行ってきた！ | kotala's note" src="http://capture.heartrails.com/150x130/1342416612704?http://kotalab.com/roppongihills-egypt" alt="http://kotalab.com/archives/1400" width="150" height="130" align="left" /></a><a href="http://kotalab.com/roppongihills-egypt" title="様々な歴史を感じる六本木ヒルズで開催中の古代エジプト展に行ってきた！" target="_blank">様々な歴史を感じる六本木ヒルズで開催中の古代エジプト展に行ってきた！ | kotala's note</a><br style="clear:both;" />52階からみる東京の風景はキレイでした。</p>
+<a href="https://kotalab.com/roppongihills-52f" target="_blank"><img title="六本木ヒルズの52階展望台から眺めた東京の風景 | kotala's note" src="http://capture.heartrails.com/150x130?https://kotalab.com/roppongihills-52f" alt="https://kotalab.com/archives/1389" width="150" height="130" align="left" /></a><a href="https://kotalab.com/roppongihills-52f" title="六本木ヒルズの52階展望台から眺めた東京の風景" target="_blank">六本木ヒルズの52階展望台から眺めた東京の風景 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/roppongihills-egypt" target="_blank"><img title="様々な歴史を感じる六本木ヒルズで開催中の古代エジプト展に行ってきた！ | kotala's note" src="http://capture.heartrails.com/150x130/1342416612704?https://kotalab.com/roppongihills-egypt" alt="https://kotalab.com/archives/1400" width="150" height="130" align="left" /></a><a href="https://kotalab.com/roppongihills-egypt" title="様々な歴史を感じる六本木ヒルズで開催中の古代エジプト展に行ってきた！" target="_blank">様々な歴史を感じる六本木ヒルズで開催中の古代エジプト展に行ってきた！ | kotala's note</a><br style="clear:both;" />52階からみる東京の風景はキレイでした。</p>
 <h3>iPhoneを買う</h3>
 <p>木曜日にiPhone4Sを購入しました。<br />
 その時書いた記事はこちらです。<br />
-<a href="http://kotalab.com/iphone-buy" target="_blank"><img title="ついにiPhoneを購入！早速開封！ | kotala's note" src="http://capture.heartrails.com/150x130/1342416909414?http://kotalab.com/iphone-buy" alt="http://kotalab.com/archives/1428" width="150" height="130" align="left" /></a><a href="http://kotalab.com/iphone-buy" title="ついにiPhoneを購入！早速開封！" target="_blank">ついにiPhoneを購入！早速開封！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/iphone4s32gb-0yen" target="_blank"><img title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note" src="http://capture.heartrails.com/150x130?http://kotalab.com/http://kotalab.com/iphone4s32gb-0yen" alt="http://kotalab.com/archives/1402" width="150" height="130" align="left" /></a><a href="http://kotalab.com/iphone4s32gb-0yen" title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！" target="_blank">念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note</a><br style="clear:both;" />iPhone4Sの32GBが一括0円で手に入るとは思ってもいませんでした。</p>
+<a href="https://kotalab.com/iphone-buy" target="_blank"><img title="ついにiPhoneを購入！早速開封！ | kotala's note" src="http://capture.heartrails.com/150x130/1342416909414?https://kotalab.com/iphone-buy" alt="https://kotalab.com/archives/1428" width="150" height="130" align="left" /></a><a href="https://kotalab.com/iphone-buy" title="ついにiPhoneを購入！早速開封！" target="_blank">ついにiPhoneを購入！早速開封！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/iphone4s32gb-0yen" target="_blank"><img title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note" src="http://capture.heartrails.com/150x130?https://kotalab.com/https://kotalab.com/iphone4s32gb-0yen" alt="https://kotalab.com/archives/1402" width="150" height="130" align="left" /></a><a href="https://kotalab.com/iphone4s32gb-0yen" title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！" target="_blank">念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note</a><br style="clear:both;" />iPhone4Sの32GBが一括0円で手に入るとは思ってもいませんでした。</p>
 <h2>今週読んだ本</h2>
 <h3>トヨタの上司は現場で何を伝えているのか</h3>
 <p>若松義人さん著書の「<a href="http://www.amazon.co.jp/exec/obidos/asin/4569690645/same-22/" rel="nofollow" name="booklink" target="_blank">トヨタの上司は現場で何を伝えているのか</a>」を読みました。<br />

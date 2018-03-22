@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13929
-wordpress_url: http://kotalab.com/?p=13929
+wordpress_url: https://kotalab.com/?p=13929
 date: '2015-02-08 08:00:02 +0900'
 date_gmt: '2015-02-07 23:00:02 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - ヘルスキット
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/02/applewatch-can_20150208_01.png" alt="applewatch-can_20150208_01" width="780" height="597" class="aligncenter size-full wp-image-13941" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/02/applewatch-can_20150208_01.png" alt="applewatch-can_20150208_01" width="780" height="597" class="aligncenter size-full wp-image-13941" /><br />
 <span style="font-size:10px;">via:<a href="http://www.apple.com/jp/watch/" target="_blank">Apple - Apple Watch</a></span><br />
 Apple Watchの発表から約5ヶ月。<br />
 発売日の正式発表はまだされていませんが、AppleのWebサイトでは「2015年に発売」という表示がされています。</p>
@@ -31,7 +31,7 @@ Apple Watchでできることって何だっけ？という人は参考にして
 <!--more--></p>
 <h2>Apple Watchの文字盤は数百万通り以上のカスタマイズが可能</h2>
 <p>Watchというからには時計なんですが、Apple Watchでは時間を見ることだけにとどまりません。</p>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/02/applewatch-can_20150208_02.png" alt="applewatch-can_20150208_02" width="780" height="485" class="aligncenter size-full wp-image-13943" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/02/applewatch-can_20150208_02.png" alt="applewatch-can_20150208_02" width="780" height="485" class="aligncenter size-full wp-image-13943" /><br />
 <span style="font-size:10px;">via:<a href="http://www.apple.com/jp/watch/timekeeping/" target="_blank">Apple - Apple Watch - タイムキーピング</a></span></p>
 <p>シンプルな表示もできるし、様々なコンプリケーション（日の出や月の満ち欠けのような時刻表示以外の機能）を表示することもできます。</p>
 <p>文字盤の見た目から機能まで、<span class="b">数百万通りものカスタマイズが可能</span>です。</p>
@@ -40,7 +40,7 @@ Apple Watchでできることって何だっけ？という人は参考にして
 <p>Apple Watchで受けた電話はiPhoneに切り替えることもできるし、メッセージも同様です。</p>
 <p>簡単なメッセージなら、<span class="b">わざわざiPhoneを取り出さなくてもApple Watchだけで十分</span>かもしれません。</p>
 <h2>Apple Watchは行動を記録してより健康的な体づくりを促進させる未来の時計</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/02/applewatch-can_20150208_03-780x586.png" alt="applewatch-can_20150208_03" width="780" height="586" class="aligncenter size-large wp-image-13945" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/02/applewatch-can_20150208_03-780x586.png" alt="applewatch-can_20150208_03" width="780" height="586" class="aligncenter size-large wp-image-13945" /><br />
 <span style="font-size:10px;">via:<a href="http://www.apple.com/jp/watch/health-and-fitness/" target="_blank">Apple - Apple Watch - 健康とフィットネス</a></span><br />
 iPhoneにもついている加速度センサーやWi-Fi、GPSの他に、Apple Watchには心拍センサーが備わっています。</p>
 <p>心拍センサーが加わったことにより、立ったり座ったりという動作や消費カロリーが今まで以上に正確に計算することができます。</p>

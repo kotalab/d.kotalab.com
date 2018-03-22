@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 6807
-wordpress_url: http://kotalab.com/?p=6807
+wordpress_url: https://kotalab.com/?p=6807
 date: '2013-04-13 23:22:54 +0900'
 date_gmt: '2013-04-13 14:22:54 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 水没
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130413232251.jpg" width="448" height="336" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130413232251.jpg" width="448" height="336" /><br />
 MacBook Airに水をこぼしました。@kotala_bです。<br />
 ブログを更新しようとMacBook Airを開いたすぐあとに、マグカップが手から滑り落ちてキーボードの上が水浸しになりました。<br />
 すぐ拭き取ったものの不安だったのですぐに電源を切り、iPhone片手に対処法を探しました。<br />
@@ -36,14 +36,14 @@ MacBook Airに水をこぼしました。@kotala_bです。<br />
 <h3>完全に乾燥させる</h3>
 <p>乾燥の仕方は何通りかあって、<br />
 ▼ドライヤーで送風を当て続ける方法<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130413232242.jpg" width="448" height="336" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130413232242.jpg" width="448" height="336" /><br />
 熱風だと逆効果みたいなので、あまり熱くならない送風がいいみたいでした。<br />
 ▼乾燥剤を使う方法もありました。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130413232245.jpg" width="448" height="336" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130413232245.jpg" width="448" height="336" /><br />
 乾燥剤とMacBook Airを一つの袋に入れて放置します。<br />
 僕は数分間ドライヤーを当てましたが、そのまま続けるのも難しいので乾燥剤を使いました。<br />
 ▼海苔が入った袋にちょうどいい乾燥剤があったので、それをビニール袋にMacBook Airと一緒にいれています。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130413232249.jpg" width="448" height="336" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130413232249.jpg" width="448" height="336" /><br />
 <strong>大切なのは、まだ完全に乾いていない状態で電源をいれてしまわないこと。</strong></p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00BF8PUGK/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/21ihq88hNgL._SL160_.jpg" style="border: none;" /></a></div>

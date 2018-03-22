@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11057
-wordpress_url: http://kotalab.com/?p=11057
+wordpress_url: https://kotalab.com/?p=11057
 date: '2014-03-04 06:24:23 +0900'
 date_gmt: '2014-03-03 21:24:23 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - とゆ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books-memo-and-log_20140304-546x409.jpg" alt="books-memo-and-log_20140304" width="546" height="409" class="alignnone size-large wp-image-11065" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-memo-and-log_20140304-546x409.jpg" alt="books-memo-and-log_20140304" width="546" height="409" class="alignnone size-large wp-image-11065" /><br />
 メモと記録ってどう違うの？<br />
 「<a href="http://www.amazon.co.jp/exec/obidos/asin/B00FR2XNVY/same-22/" rel="nofollow" target="_blank">メモと記録だけでストレスフリーな毎日を続ける仕事術</a>」というタイトルを見て思い浮かんだ言葉がこれだ。<br />
 本書を読み進めていくとこれがわかるようになってくる。<br />

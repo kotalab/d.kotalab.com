@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 8303
-wordpress_url: http://kotalab.com/?p=8303
+wordpress_url: https://kotalab.com/?p=8303
 date: '2013-09-02 19:00:01 +0900'
 date_gmt: '2013-09-02 10:00:01 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - 読書
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="readingpace_130902_01" width="546" height="407" class="alignnone size-large wp-image-8307" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="readingpace_130902_01" width="546" height="407" class="alignnone size-large wp-image-8307" /><br />
 読書が好きです。こたら（@kotala_b）です。<br />
 ただ読むだけじゃなくて、1年間に50冊という目標を今年の初めに立てて読んでいます。<br />
 年間に50冊なので月に4冊、1週間に1冊ペース、読む本はビジネス書が中心です。<br />
@@ -35,8 +35,8 @@ comments: []
 <!--more--></p>
 <h2>1ヶ月間で読む本が2倍になった！</h2>
 <p>今年これまでに読んだ本のタイトルはこんな感じ。<br />
-<img src="http://kotalab.com/wp-content/uploads/readingpace_130902_02-546x244.jpg" alt="readingpace_130902_02" width="546" height="244" class="alignnone size-large wp-image-8308" /><br />
-<img src="http://kotalab.com/wp-content/uploads/readingpace_130902_03-546x416.jpg" alt="readingpace_130902_03" width="546" height="416" class="alignnone size-large wp-image-8309" /><br />
+<img src="https://kotalab.com/wp-content/uploads/readingpace_130902_02-546x244.jpg" alt="readingpace_130902_02" width="546" height="244" class="alignnone size-large wp-image-8308" /><br />
+<img src="https://kotalab.com/wp-content/uploads/readingpace_130902_03-546x416.jpg" alt="readingpace_130902_03" width="546" height="416" class="alignnone size-large wp-image-8309" /><br />
 これはOmniFocusというタスク管理アプリの画面で、僕はOmniForcusを使って何の本を読んだのかという読書の記録をつけています。<br />
 3月と5月はあまり読めていませんでしたが、他の月は4冊以上は読めています。<br />
 8月を見てみると今までで一番多い9冊読んでいました。<br />
@@ -107,7 +107,7 @@ iPhoneだとiPadminiよりももっと手軽に読めるのが気に入ってま
 <p>電車を待ちながら、歩きながらなどなど。iPhoneがあるとついついSNSを開いてしまうことがありました。<br />
 iPhoneでSNSアプリを起動させることから電子書籍アプリを起動させるように変えました。</p>
 <h2>読書記録を始めて大成功！</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/readingpace_130902_04-546x228.jpg" alt="readingpace_130902_04" width="546" height="228" class="alignnone size-large wp-image-8310" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/readingpace_130902_04-546x228.jpg" alt="readingpace_130902_04" width="546" height="228" class="alignnone size-large wp-image-8310" /><br />
 読みたい本はいっぱいある。でも読む時間が足りない。<br />
 そう感じていた僕は今月新たな取り組みに挑戦してみました。<br />
 その結果<strong>今までの倍のペースで本が読めていました！</strong><br />
@@ -120,8 +120,8 @@ Togglで確認したところ8月は12時間44分35秒間、読書をしてい�
 <strong>9月は13時間を目標にしてみます！</strong></p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/change-habit" target="_blank"><img src="http://kotalab.com/wp-content/uploads/change-habit_140204_01-546x307.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/change-habit" target="_blank">ちょっとした習慣の変化が積み重なると人生は変わるのかも知れない</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/change-habit" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/change-habit" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/change-habit" target="_blank"><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_01-546x307.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/change-habit" target="_blank">ちょっとした習慣の変化が積み重なると人生は変わるのかも知れない</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/change-habit" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/change-habit" alt="" /></a></div>
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">

@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14370
-wordpress_url: http://kotalab.com/?p=14370
+wordpress_url: https://kotalab.com/?p=14370
 date: '2015-05-16 10:16:08 +0900'
 date_gmt: '2015-05-16 01:16:08 +0900'
 category:
@@ -22,8 +22,8 @@ tags:
 - 目標
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/mistake-in-habit_20150516.jpg" alt="Mistake in habit 20150516" width="780" height ="520" class="aligncenter size-large" /></p>
-<p>4月11日に書いた「<a href="http://kotalab.com/habit-every-day">習慣づけたいことは毎日やる方が楽にできる？</a>」というエントリーで、「習慣は毎日続けると楽だけど間隔をあけてやろうとすると難しいんじゃないか？」というようなことを書きました。</p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/mistake-in-habit_20150516.jpg" alt="Mistake in habit 20150516" width="780" height ="520" class="aligncenter size-large" /></p>
+<p>4月11日に書いた「<a href="https://kotalab.com/habit-every-day">習慣づけたいことは毎日やる方が楽にできる？</a>」というエントリーで、「習慣は毎日続けると楽だけど間隔をあけてやろうとすると難しいんじゃないか？」というようなことを書きました。</p>
 <p>その日以降、今日までブログを更新しなかったのは5月2日の1日だけ。<br />
 今書いているこの記事を含めると35回更新です。</p>
 <p>3月の更新はたった2回だけ。</p>
@@ -42,7 +42,7 @@ comments: []
 <p>これまでずっと毎日やることは面倒くさいことだと思って生きてきたのですから。</p>
 <p>毎日積み重ねることで「こうやったほうがもっと楽になるんじゃないか？」というポイントがわかってきて、ちょっとずつ工夫ができて楽になってきます。</p>
 <h2>やらないと気持ち悪くなるくらい続ける</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/04/romancecar-good-experience_20150429_03-780x520.jpg" alt="romancecar-good-experience_20150429_03.jpg" width="780" height="520" class="aligncenter size-large wp-image-14205" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/04/romancecar-good-experience_20150429_03-780x520.jpg" alt="romancecar-good-experience_20150429_03.jpg" width="780" height="520" class="aligncenter size-large wp-image-14205" /></p>
 <p>毎日続けていると歯磨きのように、やらないと気持ち悪いという感覚が芽生えてきます。<br />
 習慣化はこの状態まで持っていくことが目標です。</p>
 <p>僕の場合はブログ更新でしたが、別の習慣も同じように身につけていくことができるはずです。</p>

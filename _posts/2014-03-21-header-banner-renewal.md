@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11194
-wordpress_url: http://kotalab.com/?p=11194
+wordpress_url: https://kotalab.com/?p=11194
 date: '2014-03-21 09:49:55 +0900'
 date_gmt: '2014-03-21 00:49:55 +0900'
 category:
@@ -29,8 +29,8 @@ comments:
   date_gmt: '2014-03-29 00:55:18 +0900'
   content: "[&#8230;] ブログのバナーをランサーズで頼んだらこんないいモノが！ [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/lancers_140312-546x221.png" alt="lancers_140312" width="546" height="221" class="alignnone size-large wp-image-11113" /><br />
-<a href="http://kotalab.com/rancers-banner" target="_blank">ブログのヘッダーに置くバナーをランサーズを利用して頼んでみた</a>のは先週のこと。<br />
+<p><img src="https://kotalab.com/wp-content/uploads/lancers_140312-546x221.png" alt="lancers_140312" width="546" height="221" class="alignnone size-large wp-image-11113" /><br />
+<a href="https://kotalab.com/rancers-banner" target="_blank">ブログのヘッダーに置くバナーをランサーズを利用して頼んでみた</a>のは先週のこと。<br />
 それが昨日ようやく完成し手元に届きました。</p>
 <p>頼んでみる前は「そもそも提案がこないんじゃないか」とか不安な部分もありました。実際に頼んでみて完成したのを見ると、「頼んでよかった」という気持ちがすごく強いです。<strong>想像以上のできに大満足の結果でした！</strong></p>
 <p>僕が実際にランサーズで頼んだときの流れも書くのでよかったら参考にしてください。<br />
@@ -38,9 +38,9 @@ comments:
 <h2>新しいバナーをお披露目！</h2>
 <p>僕が頼んでできあがったバナーをご紹介したいと思います。<br />
 これが今までのバナーというかヘッダー（ビフォー）<br />
-<img src="http://kotalab.com/wp-content/uploads/header-banner-renewal_140321-546x47.png" alt="header-banner-renewal_140321" width="546" height="47" class="alignnone size-large wp-image-11202" /><br />
+<img src="https://kotalab.com/wp-content/uploads/header-banner-renewal_140321-546x47.png" alt="header-banner-renewal_140321" width="546" height="47" class="alignnone size-large wp-image-11202" /><br />
 できあがったのがこちらです（アフター）<br />
-<img src="http://kotalab.com/wp-content/uploads/header1-546x202.png" alt="header" width="546" height="202" class="alignnone size-large wp-image-11200" /><br />
+<img src="https://kotalab.com/wp-content/uploads/header1-546x202.png" alt="header" width="546" height="202" class="alignnone size-large wp-image-11200" /><br />
 比べてみると一目瞭然。今までのは「ないな」というのが明らかじゃないでしょうか。</p>
 <p>この記事を書いてる今はまだ「ビフォー」なのですが、先に<a href="https://www.facebook.com/kotalab" target="_blank">Facebookページ</a>のバナーを更新したのでよかったら見てください。</p>
 <h2>ランサーズで頼んでよかった！</h2>

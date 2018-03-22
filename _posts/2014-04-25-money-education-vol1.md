@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 12634
-wordpress_url: http://kotalab.com/?p=12634
+wordpress_url: https://kotalab.com/?p=12634
 date: '2014-04-25 08:15:01 +0900'
 date_gmt: '2014-04-24 23:15:01 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - サラリーマン
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/money-education-vol1_140425.jpg" alt="Money education vol1 140425" title="money-education-vol1_140425.jpg" border="0" width="548" height="411" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/money-education-vol1_140425.jpg" alt="Money education vol1 140425" title="money-education-vol1_140425.jpg" border="0" width="548" height="411" /><br />
 今日から「学校では教わらなかったお金の教養」という連載を始めることにしました。</p>
 <p>僕は今年で30歳になるファイナンシャルプランナーです。<br><br />
 ファイナンシャルプランナーの勉強をしていく中で「もっと早く知っておきたかった」「なんでこのことを学校では教えてくれないのか」と思ったことが結構ありました。<br />

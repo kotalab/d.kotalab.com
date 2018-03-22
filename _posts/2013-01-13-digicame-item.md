@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5664
-wordpress_url: http://kotalab.com/?p=5664
+wordpress_url: https://kotalab.com/?p=5664
 date: '2013-01-13 11:08:42 +0900'
 date_gmt: '2013-01-13 02:08:42 +0900'
 category:
@@ -22,10 +22,10 @@ tags:
 - デジイチ
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/eyefi130106_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/eyefi130106_02-448x300.jpg" alt="eyefi130106_02" width="448" height="300" class="alignnone size-large wp-image-5539" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/eyefi130106_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/eyefi130106_02-448x300.jpg" alt="eyefi130106_02" width="448" height="300" class="alignnone size-large wp-image-5539" /></a><br />
 今年の抱負はデジイチに挑戦することです。@kotala_bです。<br />
 初めてデジイチで撮影をする為に深大寺へ初詣へ行きました。<br />
-<a href="http://kotalab.com/go-to-jindaiji" target="_blank"><img class="alignleft" src="http://kotalab.com/wp-content/uploads/jindaiji_130112_07-448x300.jpg" alt="深大寺へ初詣に行ってきた！ | kotala's note" width="150" /></a><a href="http://kotalab.com/go-to-jindaiji" target="_blank">深大寺へ初詣に行ってきた！ | kotala's note</a><br style="clear:both" />深大寺へ行く前には家の中で試し撮りをしていました。<br />
+<a href="https://kotalab.com/go-to-jindaiji" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/jindaiji_130112_07-448x300.jpg" alt="深大寺へ初詣に行ってきた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/go-to-jindaiji" target="_blank">深大寺へ初詣に行ってきた！ | kotala's note</a><br style="clear:both" />深大寺へ行く前には家の中で試し撮りをしていました。<br />
 <strong>試し撮りをしていて感じたのが、撮った写真を確認するのにデジイチのディスプレイじゃ見づらいことでした。<br />
 D80についているディスプレイは2.5インチ。<br />
 これまで写真を撮っていたiPhone5は4インチのRetinaディスプレイ。<br />

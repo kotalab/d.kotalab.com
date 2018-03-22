@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4398
-wordpress_url: http://kotalab.com/?p=4398
+wordpress_url: https://kotalab.com/?p=4398
 date: '2012-11-25 12:07:18 +0900'
 date_gmt: '2012-11-25 03:07:18 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - googleカレンダー
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/countdowncal_121125.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/countdowncal_121125-448x448.png" alt="" title="countdowncal_121125" width="448" height="448" class="alignnone size-large wp-image-4403" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/countdowncal_121125.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/countdowncal_121125-448x448.png" alt="" title="countdowncal_121125" width="448" height="448" class="alignnone size-large wp-image-4403" /></a><br />
 カレンダーはGoogleカレンダーを使っています。@kotala_bです。<br />
 カレンダーには時間が決まっている予定や忘れたくないイベントの日程を入れています。<br />
 時間が決まっている予定というのは出勤や誰かとの約束など絶対に外せないし忘れちゃいけないモノばかりです。<br />
@@ -67,24 +67,24 @@ Googleカレンダーを使っている僕でも、Googleカレンダーの予�
 また表示させているカレンダーごとに知らせるかどうかの設定が出来るのでカウントダウンで知らせてほしい予定だけを選ぶことが出来ます。</p>
 <h2>カウントダウンカレンダーを使うためのひと工夫</h2>
 <p>▼これは僕のカレンダーアプリに表示させているGoogleカレンダーです。<br />
-<a href="http://kotalab.com/wp-content/uploads/countdowncal_121125_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/countdowncal_121125_03-300x513.jpg" alt="" title="countdowncal_121125_03" width="300" height="513" class="alignnone size-medium wp-image-4402" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/countdowncal_121125_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/countdowncal_121125_03-300x513.jpg" alt="" title="countdowncal_121125_03" width="300" height="513" class="alignnone size-medium wp-image-4402" /></a><br />
 元々は外出予定という項目はありませんでしたが、このカウントダウンカレンダーを使うために新たに作りました。<br />
 この外出予定には家を出る時間を入れています。<br />
 ▼こっちはカウントダウンカレンダーで表示される画面です<br />
-<a href="http://kotalab.com/wp-content/uploads/countdowncal_121125_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/countdowncal_121125_02-300x532.jpg" alt="" title="countdowncal_121125_02" width="300" height="532" class="alignnone size-medium wp-image-4401" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/countdowncal_121125_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/countdowncal_121125_02-300x532.jpg" alt="" title="countdowncal_121125_02" width="300" height="532" class="alignnone size-medium wp-image-4401" /></a><br />
 外出予定だけをカウントダウンカレンダーと同期するように設定しました。<br />
 仕事や人との約束は「仕事が始まる時間」「人と会う約束をした時間」をカレンダーに入れているので、これを同期させても予定の時間をカウントダウンするだけなので意味がありません。<br />
 早めに家を出てどっかに寄ってから人と会うというような時でも<strong>家を出る時間</strong>さえわかれば大丈夫。<br />
 僕が知りたいのは<strong>家を出る時間</strong>まで後どれくらいあるのかということなのです。</p>
 <h2>今の作業に集中出来る</h2>
 <p>▼アプリを表示させるとこのように予定の時間までのカウントダウンが表示されます。<br />
-<a href="http://kotalab.com/wp-content/uploads/countdowncal_121125_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/countdowncal_121125_01-300x532.png" alt="" title="countdowncal_121125_01" width="300" height="532" class="alignnone size-medium wp-image-4400" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/countdowncal_121125_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/countdowncal_121125_01-300x532.png" alt="" title="countdowncal_121125_01" width="300" height="532" class="alignnone size-medium wp-image-4400" /></a><br />
 例えば電車の時間が9時32分だから家を9時22分に出たいという時、時計を見て「今8時33分だからあと49分ある！」なんてことを考える人はまずいないと思います。<br />
 そんな計算をわざわざしなくてもアプリを見れば出発時間まで残りあと何分あるのかが一目でわかります。<br />
 また、音声で残り何分といったことを60分前から教えてくれて30分前・15分前・10分前、残り10分を切ると1分間隔でお知らせしてくれます。<br />
 他の作業をしていてもiPhoneが手元にあれさえすれば、時間をいちいち気にすることなく今やっていることに集中出来るようになりました。</p>
 <h2>最後に</h2>
-<p>このアプリは<a href="http://kotalab.com/nsl-11th" title="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11" target="_blank">先日行ったNSLセミナー</a>で紹介されていたアプリです。<br />
+<p>このアプリは<a href="https://kotalab.com/nsl-11th" title="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11" target="_blank">先日行ったNSLセミナー</a>で紹介されていたアプリです。<br />
 これは便利そうだと思い早速使ってみることにしました。<br />
 1週間使ってみたところ想像以上に便利でした。<br />
 使ってみてわかったことがありました。<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10575
-wordpress_url: http://kotalab.com/?p=10575
+wordpress_url: https://kotalab.com/?p=10575
 date: '2014-01-16 12:44:05 +0900'
 date_gmt: '2014-01-16 03:44:05 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - 家計簿
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books-sakiokurisezuni_140116-546x409.jpg" alt="books-sakiokurisezuni_140116" width="546" height="409" class="alignnone size-large wp-image-10577" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-sakiokurisezuni_140116-546x409.jpg" alt="books-sakiokurisezuni_140116" width="546" height="409" class="alignnone size-large wp-image-10577" /><br />
 素晴らしい本を読んでも読みっぱなし。<br />
 勉強をして新しい知識を仕入れてもそのまま。<br />
 あなたもそんな経験がありませんか？<br />

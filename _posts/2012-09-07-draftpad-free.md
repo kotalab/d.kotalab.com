@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2529
-wordpress_url: http://kotalab.com/?p=2529
+wordpress_url: https://kotalab.com/?p=2529
 date: '2012-09-07 11:34:32 +0900'
 date_gmt: '2012-09-07 02:34:32 +0900'
 category:
@@ -24,7 +24,7 @@ tags:
 - Textexpander
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/draftpad_120907.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/draftpad_120907.jpg" alt="" title="draftpad_120907" width="448" height="336" class="alignnone size-full wp-image-2545" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/draftpad_120907.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/draftpad_120907.jpg" alt="" title="draftpad_120907" width="448" height="336" class="alignnone size-full wp-image-2545" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/typicalgenius/2387819098/" target="_blank">Memo</a> / typicalgenius</span></p>
 <p><strong>残念ながら2014年4月現在、AppStoreからDraftPadはダウンロードできなくなっています。</strong></p>
 <p>DraftPadが無料アプリということが信じられません。@kotala_bです。<br />
@@ -48,12 +48,12 @@ comments: []
 <h2>連携が便利</h2>
 <p>DraftPadにはAssistsという機能があり、それを入れることで様々なアプリと連携して使うことが出来ます。<br />
 Assists機能で自分が使いたい連携を追加することでより便利に使うことが出来ます。<br />
-<a href="http://kotalab.com/wp-content/uploads/draftpad_120907_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/draftpad_120907_01.png" alt="" title="draftpad_120907_01" width="300" height="450" class="alignnone size-full wp-image-2534" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/draftpad_120907_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/draftpad_120907_01.png" alt="" title="draftpad_120907_01" width="300" height="450" class="alignnone size-full wp-image-2534" /></a><br />
 僕が主に使っているのは、Textexpander・Evernote・するぷろと連携をするAsisstsです。<br />
 文字入力がかなり快適になるTextexpanderとの連携は欠かせません！<br />
 Evernoteに送信する場合は1行目がタイトル、2行目が本文、「#+文字」でタグという風に使えます。<br />
 ▼DraftPadで送ったノートをSmartEverで見る<br />
-<a href="http://kotalab.com/wp-content/uploads/draftpad_120907_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/draftpad_120907_03.jpg" alt="" title="draftpad_120907_03" width="448" height="336" class="alignnone size-full wp-image-2539" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/draftpad_120907_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/draftpad_120907_03.jpg" alt="" title="draftpad_120907_03" width="448" height="336" class="alignnone size-full wp-image-2539" /></a></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/textexpander/id326180690?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1439.phobos.apple.com/us/r1000/087/Purple2/v4/f9/fb/47/f9fb47ed-e99e-b3e6-03a1-af7dd3d2e04d/TEIcon.png" width="80" /></a></div>
 <div class="applinktext">
@@ -91,7 +91,7 @@ Evernoteに送信する場合は1行目がタイトル、2行目が本文、「#
 <p>他のアプリに送信した場合もDraftPad内に履歴が残るので、よく使うhtmlタグを履歴として残しておいてDraftPadから直接するぷろに送るという使い方も出来ます。<br />
 メモを書きたしていくと履歴が貯まっていくので、誤って削除してしまったメモも履歴をさかのぼることで復元出来ます。<br />
 履歴は個別に削除可能なのでいらない物だけ選らんで削除が出来ます。<br />
-<a href="http://kotalab.com/wp-content/uploads/draftpad_120907_02.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/draftpad_120907_02.jpg" alt="" title="draftpad_120907_02" width="448" height="336" class="alignnone size-full wp-image-2537" /></a></p>
+<a href="https://kotalab.com/wp-content/uploads/draftpad_120907_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/draftpad_120907_02.jpg" alt="" title="draftpad_120907_02" width="448" height="336" class="alignnone size-full wp-image-2537" /></a></p>
 <h2>僕のDraftPadの使い方</h2>
 <p>外出時のメモとしてDraftPadを使っています。<br />
 「帰ったらエネループを充電する」というような単なるメモの場合はそのままDraftPadに書きためて、帰った時にメモの内容を振返ります。<br />
@@ -115,7 +115,7 @@ Evernoteに送信する場合は1行目がタイトル、2行目が本文、「#
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/draftpad/id358067114?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/draftpad-reason" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/draftpad_130416-448x448.png" alt="イチオシのメモアプリ！僕がDraftPadを愛用する理由！ | kotala's note" width="150" /></a><a href="http://kotalab.com/draftpad-reason" target="_blank">イチオシのメモアプリ！僕がDraftPadを愛用する理由！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/my-kami-app" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/kamiapp_121203-448x319.jpg" alt="なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note" width="150" /></a><a href="http://kotalab.com/my-kami-app" target="_blank">なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/evernote-task-management" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="Evernoteでタスク管理をする人必見！指定した時間にEvernoteの特定のノートを開く方法！ | kotala's note" width="150" /></a><a href="http://kotalab.com/evernote-task-management" target="_blank">Evernoteでタスク管理をする人必見！指定した時間にEvernoteの特定のノートを開く方法！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/evernote-2tap" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note" width="150" /></a><a href="http://kotalab.com/evernote-2tap" target="_blank">Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/draftpad-reason" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/draftpad_130416-448x448.png" alt="イチオシのメモアプリ！僕がDraftPadを愛用する理由！ | kotala's note" width="150" /></a><a href="https://kotalab.com/draftpad-reason" target="_blank">イチオシのメモアプリ！僕がDraftPadを愛用する理由！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/my-kami-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kamiapp_121203-448x319.jpg" alt="なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note" width="150" /></a><a href="https://kotalab.com/my-kami-app" target="_blank">なくてはならない8つのアプリ！毎日使っているのはこれ！　#my_kamiapp | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/evernote-task-management" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="Evernoteでタスク管理をする人必見！指定した時間にEvernoteの特定のノートを開く方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/evernote-task-management" target="_blank">Evernoteでタスク管理をする人必見！指定した時間にEvernoteの特定のノートを開く方法！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/evernote-2tap" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/evernote_130121-448x326.png" alt="Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/evernote-2tap" target="_blank">Evernoteの特定のノートをiPhoneからたった2タップで素早く見る方法！ | kotala's note</a><br style="clear:both;" /></p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4975
-wordpress_url: http://kotalab.com/?p=4975
+wordpress_url: https://kotalab.com/?p=4975
 date: '2012-12-21 09:42:52 +0900'
 date_gmt: '2012-12-21 00:42:52 +0900'
 category:
@@ -25,7 +25,7 @@ tags:
 - 使い道
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/ipadmini_121221.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="ipadmini_121221" width="448" height="448" class="alignnone size-large wp-image-4980" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/ipadmini_121221.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="ipadmini_121221" width="448" height="448" class="alignnone size-large wp-image-4980" /></a><br />
 iPadminiを毎日使っています。@kotala_bです。<br />
 家にいる時は「<span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Flcd-clock-hd%252Fid364744542%253Fmt%253D8%2526uo%253D4">LCD Clock HD</span>」を使って時計として、外出時は「<span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkindle%252Fid302584613%253Fmt%253D8%2526uo%253D4">Kindle</span>」や「<span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder-for-ipad%252Fid375661689%253Fmt%253D8%2526uo%253D4">Reeder for iPad</span>」を使って電子書籍やRSSを読んでいます。<br />
 しかし<strong>これらは買う前に考えていた1番の目的ではありませんでした。</strong></p>
@@ -62,8 +62,8 @@ iPadminiを毎日使っています。@kotala_bです。<br />
 <p><!--more--></p>
 <h2>買う前に考えていた使い道</h2>
 <p>iPadminiを購入する前はこんなことを考えていました。<br />
-<a href="http://kotalab.com/ipad-mini-best-tablet" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="タブレット端末でやりたいことを考えるとやっぱりiPadminiがいい！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-best-tablet" target="_blank">タブレット端末でやりたいことを考えるとやっぱりiPadminiがいい！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/ipad-mini-thinking" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/ipad_121029.jpg" alt="無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！ | kotala's note" width="150" /></a><a href="http://kotalab.com/ipad-mini-thinking" target="_blank">無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ipad-mini-best-tablet" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="タブレット端末でやりたいことを考えるとやっぱりiPadminiがいい！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-best-tablet" target="_blank">タブレット端末でやりたいことを考えるとやっぱりiPadminiがいい！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/ipad-mini-thinking" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipad_121029.jpg" alt="無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-thinking" target="_blank">無駄な買い物を無くす！iPadを買おうか迷った時は買った後のことを考えてみよう！ | kotala's note</a><br style="clear:both;" /><br />
 <strong>この2つの記事で共通しているiPadminiの使い道は「iPadminiでブログを書くこと」でした。</strong></p>
 <h2>実際に使ってみたところ</h2>
 <p>iPadminiだけを使ってブログを更新したのは1回もありません。<br />
@@ -105,7 +105,7 @@ iPadminiにキーボードカバーをつければ文字入力は改善します
 iPhoneと比較すると画面が大きくて見やすいです。<br />
 <strong>Retinaディスプレイ搭載じゃないので、そのことを気にする方もいらっしゃいますが、僕は全然気になりません。</strong><br />
 ▼同じ画像を拡大せずにiPhone5とiPadminiで表示させてみました。<br />
-<a href="http://kotalab.com/wp-content/uploads/ipadmini_121221_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/ipadmini_121221_01-448x298.jpg" alt="ipadmini_121221_01" width="448" height="298" class="alignnone size-large wp-image-4978" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/ipadmini_121221_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121221_01-448x298.jpg" alt="ipadmini_121221_01" width="448" height="298" class="alignnone size-large wp-image-4978" /></a><br />
 左右反転しているのであれですが、どっちが見やすいかは一目瞭然です。</p>
 <h2>最後に</h2>
 <p>iPadminiを買う前に考えていた使い道とは若干変わりましたが、それでもiPadminiには大満足！<br />

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13798
-wordpress_url: http://kotalab.com/?p=13798
+wordpress_url: https://kotalab.com/?p=13798
 date: '2015-01-11 21:02:23 +0900'
 date_gmt: '2015-01-11 12:02:23 +0900'
 category:
@@ -28,16 +28,16 @@ tags:
 - iPhone6Plus
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_01.jpg" alt="iphone6plus-home-app-2015-01_20150111_01" width="639" height="458" class="aligncenter size-full wp-image-13802" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_01.jpg" alt="iphone6plus-home-app-2015-01_20150111_01" width="639" height="458" class="aligncenter size-full wp-image-13802" /><br />
 2015年になってからアプリの断捨離を始めました。</p>
 <p>使ったアプリを1画面目に移動、使わないアプリはどんどん後ろの画面に勝手に移動していくという方法で、並び替え。<br />
 そして1月1日から10日までの使わなかったアプリは削除！</p>
 <p>そんなことをして残ったアプリをご紹介します！<br />
 <!--more--></p>
 <h2>これだけで1日の90%は事足りる1画面目</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_05-300x533.jpg" alt="iphone6plus-home-app-2015-01_20150111_05" width="300" height="533" class="aligncenter size-medium wp-image-13809" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_05-300x533.jpg" alt="iphone6plus-home-app-2015-01_20150111_05" width="300" height="533" class="aligncenter size-medium wp-image-13809" /></p>
 <h3>1、2列目</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_06.jpg" alt="iphone6plus-home-app-2015-01_20150111_06" width="639" height="313" class="aligncenter size-full wp-image-13804" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_06.jpg" alt="iphone6plus-home-app-2015-01_20150111_06" width="639" height="313" class="aligncenter size-full wp-image-13804" /><br />
 上の方は1画面目の中ではあまり使わないアプリ。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/staccal-2-12zhong-leinokarendatorimainda/id794729836?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a757.phobos.apple.com/us/r30/Purple1/v4/d9/60/b0/d960b0ec-43cd-6f54-9d60-aa17431f4926/pr_source.jpg?downloadKey=1420980171_f2dba29e002a43fd034e0524763e2e06" width="80" /></a></div>
@@ -102,7 +102,7 @@ iOS8の新機能ヘルスケアとの連携もできます。<br />
 </div>
 <p>続けたい習慣を登録しているGoodHabits。</p>
 <h3>3、4列目</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_07.jpg" alt="iphone6plus-home-app-2015-01_20150111_07" width="639" height="313" class="aligncenter size-full wp-image-13803" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_07.jpg" alt="iphone6plus-home-app-2015-01_20150111_07" width="639" height="313" class="aligncenter size-full wp-image-13803" /></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/reduce-batch-resize-images/id580474806?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a927.phobos.apple.com/us/r30/Purple/v4/d1/7d/af/d17dafe0-ef47-9d0d-b6e5-91cc38dc4d87/mzl.krfksjdm.png" width="80" /></a></div>
 <div class="applinktext">
@@ -192,7 +192,7 @@ EffectTouchは全体的にも部分的にもエフェクトがかけられるの
 クラウドで使えるアウトライナー的なアプリです。<br />
 考え事をするときに使っています。</p>
 <h3>5、6列目</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_08.jpg" alt="iphone6plus-home-app-2015-01_20150111_08" width="639" height="312" class="aligncenter size-full wp-image-13801" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_08.jpg" alt="iphone6plus-home-app-2015-01_20150111_08" width="639" height="312" class="aligncenter size-full wp-image-13801" /><br />
 この位置は右手で持ったときに親指で押しやすいので、1画面目でも特によく使うアプリがこの列に入っています。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/surupuro-for-ios-wordpress/id436676299?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a704.phobos.apple.com/us/r30/Purple3/v4/9d/0c/d6/9d0cd6ef-40e8-5099-5e37-97a07dc0953c/mzl.mpvajfyv.jpg" width="80" /></a></div>
@@ -286,7 +286,7 @@ EffectTouchは全体的にも部分的にもエフェクトがかけられるの
 <p>SwipemintはURLスキームで4つのアプリが起動できる便利アプリ。<br />
 僕はTwitter、Facebook、Google+、Gunosyを起動できるようにしています。</p>
 <h3>Dock</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_09.jpg" alt="iphone6plus-home-app-2015-01_20150111_09" width="639" height="149" class="aligncenter size-full wp-image-13806" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_09.jpg" alt="iphone6plus-home-app-2015-01_20150111_09" width="639" height="149" class="aligncenter size-full wp-image-13806" /><br />
 僕の中で最も使っているのがDockに置いてあるこの4つです。<br />
 中でもOneCamとSeeqは2012年11月からずーっとDockに入っている本当にお世話になっているアプリです。<br />
 参考：[article include="4537"]</p>
@@ -316,7 +316,7 @@ EffectTouchは全体的にも部分的にもエフェクトがかけられるの
 </div>
 <p>たすくまはTaskchuteというExcelベースのタスク管理アプリのiPhone版です。<br />
 Taskchute実際にやったこと（事実）ベースで記録を取り、そこから次の日や将来のタスクを作り上げていくことになります。<br />
-たすくまを使っていると、<a href="http://kotalab.com/start-something-new" title="何かを始める時に乗り越えないといけないこと">新しい事を始めるには今やっている何かをやめないとできない</a>ということが歴然とします。</p>
+たすくまを使っていると、<a href="https://kotalab.com/start-something-new" title="何かを始める時に乗り越えないといけないこと">新しい事を始めるには今やっている何かをやめないとできない</a>ということが歴然とします。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/cellmemo-evernoteni-su-zaokumemo/id888319137?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a359.phobos.apple.com/us/r30/Purple3/v4/c9/86/d1/c986d141-a742-51b7-4315-c16bc8ae0203/pr_source.png?downloadKey=1420980691_72900db668b86ec0adcf4b59aeb319b0" width="80" /></a></div>
 <div class="applinktext">
@@ -343,7 +343,7 @@ Taskchute実際にやったこと（事実）ベースで記録を取り、そ�
 <p>Seeq+は便利な検索アプリです。<br />
 Web検索するときも、辞書で英語の意味を調べたい時もこのアプリから。</p>
 <h2>たまーに使う2画面目</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_03-300x533.jpg" alt="iphone6plus-home-app-2015-01_20150111_03" width="300" height="533" class="aligncenter size-medium wp-image-13808" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_03-300x533.jpg" alt="iphone6plus-home-app-2015-01_20150111_03" width="300" height="533" class="aligncenter size-medium wp-image-13808" /><br />
 2画面目はまだ並び替えてないんですけど、このままでもいいかな。</p>
 <p>2画面目からは一部だけご紹介。</p>
 <div class="applink">
@@ -363,7 +363,7 @@ Web検索するときも、辞書で英語の意味を調べたい時もこの�
 <p>左下にある僕のホーム画面の中で唯一のフォルダはアプリ開発の参考になりそうなアプリを入れています。<br />
 気になったアプリはとりあえずここに入れています。</p>
 <h2>ほぼ置いてあるだけの3画面</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_04-300x533.jpg" alt="iphone6plus-home-app-2015-01_20150111_04" width="300" height="533" class="aligncenter size-medium wp-image-13807" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_04-300x533.jpg" alt="iphone6plus-home-app-2015-01_20150111_04" width="300" height="533" class="aligncenter size-medium wp-image-13807" /><br />
 ここに置いてあるのはURLスキームで起動してたり、ログを自動で取ってくれてたりするアプリがほとんどです。</p>
 <p>上から3列目までは全部URLスキームで起動しています。</p>
 <h3>まとめ</h3>

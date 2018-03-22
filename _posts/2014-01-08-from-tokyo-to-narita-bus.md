@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10443
-wordpress_url: http://kotalab.com/?p=10443
+wordpress_url: https://kotalab.com/?p=10443
 date: '2014-01-08 09:17:34 +0900'
 date_gmt: '2014-01-08 00:17:34 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 観光
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108-546x409.jpg" alt="from-tokyo-to-narita-bus_140108" width="546" height="409" class="alignnone size-large wp-image-10457" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108-546x409.jpg" alt="from-tokyo-to-narita-bus_140108" width="546" height="409" class="alignnone size-large wp-image-10457" /><br />
 成田空港から福岡へ行ってきます。こたら（@kotala_b）です。<br />
 成田空港って都内からだとちょっと遠いイメージ。<br />
 空港まで電車移動となると荷物も多いし一苦労。<br />
@@ -36,21 +36,21 @@ comments: []
 <h2>銀座駅から高速バス乗り場への道順</h2>
 <p>僕は今回、銀座から高速バスを利用しました。<br />
 銀座駅の改札からはC5出口を目指します。<br />
-<img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_01-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_01" width="546" height="409" class="alignnone size-large wp-image-10448" /><br />
-<img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_02-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_02" width="546" height="409" class="alignnone size-large wp-image-10449" /><br />
+<img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_01-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_01" width="546" height="409" class="alignnone size-large wp-image-10448" /><br />
+<img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_02-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_02" width="546" height="409" class="alignnone size-large wp-image-10449" /><br />
 朝早かったせいか、C5出口らしき場所はシャッターが閉まってて出れなかった！<br />
-<img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_03-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_03" width="546" height="409" class="alignnone size-large wp-image-10450" /><br />
+<img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_03-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_03" width="546" height="409" class="alignnone size-large wp-image-10450" /><br />
 近くには地上行きのエレベーターがあったのでエレベーターで地上へ向かいます。<br />
-<img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_04-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_04" width="546" height="409" class="alignnone size-large wp-image-10451" /><br />
-<img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_05-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_05" width="546" height="409" class="alignnone size-large wp-image-10452" /><br />
+<img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_04-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_04" width="546" height="409" class="alignnone size-large wp-image-10451" /><br />
+<img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_05-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_05" width="546" height="409" class="alignnone size-large wp-image-10452" /><br />
 なんとエレベーターを降りたらすぐ目の前に高速バスが！<br />
-<img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_06-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_06" width="546" height="409" class="alignnone size-large wp-image-10453" /><br />
+<img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_06-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_06" width="546" height="409" class="alignnone size-large wp-image-10453" /><br />
 丸ノ内線の銀座駅改札を降りてから徒歩で2、3分といった感じですぐにバス乗り場に到着。<br />
-<img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_07-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_07" width="546" height="409" class="alignnone size-large wp-image-10454" /><br />
+<img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_07-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_07" width="546" height="409" class="alignnone size-large wp-image-10454" /><br />
 バスは時間通りに出発し<br />
-<img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_08-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_08" width="546" height="409" class="alignnone size-large wp-image-10455" /><br />
+<img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_08-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_08" width="546" height="409" class="alignnone size-large wp-image-10455" /><br />
 東京駅を経由。<br />
-<img src="http://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_09-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_09" width="546" height="409" class="alignnone size-large wp-image-10456" /><br />
+<img src="https://kotalab.com/wp-content/uploads/from-tokyo-to-narita-bus_140108_09-546x409.jpg" alt="from-tokyo-to-narita-bus_140108_09" width="546" height="409" class="alignnone size-large wp-image-10456" /><br />
 東京駅を出るすぐ高速道路に乗って成田空港へと向かいます。<br />
 東京駅からバス乗り場までの道のりはこちらを参考に</p>
 <div class="shht">

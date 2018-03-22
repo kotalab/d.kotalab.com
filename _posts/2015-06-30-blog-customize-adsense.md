@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14709
-wordpress_url: http://kotalab.com/?p=14709
+wordpress_url: https://kotalab.com/?p=14709
 date: '2015-06-30 07:36:51 +0900'
 date_gmt: '2015-06-29 22:36:51 +0900'
 category:
@@ -22,15 +22,15 @@ tags:
 - 環境構築
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/06/blog-customize-adsense_20150630_01.png" alt="Blog customize adsense 20150630 01" width="780" height ="606" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/06/blog-customize-adsense_20150630_01.png" alt="Blog customize adsense 20150630 01" width="780" height ="606" class="aligncenter size-large" /></p>
 <p>ブログのトップページには最新の記事から順に、記事タイトルが並んでいる作りのものが多いと思います。</p>
 <p>僕が使っているWordPressテーマのstingerもそうです。<br />
 こういった作りの場合、よくわからずにトップページに広告を設置すると1記事おきに表示されてしまうことがあります。</p>
 <p>そうならないよう、トップページの記事と記事の間の自分の置きたい場所に広告を表示させる方法をご紹介します。</p>
 <p><!--more--></p>
 <h2>広告設置位置</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/06/blog-customize-adsense_20150630_02.jpg" alt="Blog customize adsense 20150630 02" width="780" height ="693" class="aligncenter size-large" /></p>
-<p><a href="http://kotalab.com">このブログのトップページ</a>には20件の最新記事を並べています。<br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/06/blog-customize-adsense_20150630_02.jpg" alt="Blog customize adsense 20150630 02" width="780" height ="693" class="aligncenter size-large" /></p>
+<p><a href="https://kotalab.com">このブログのトップページ</a>には20件の最新記事を並べています。<br />
 そして広告は7記事目の下、14記事目の下、20記事目の下に設置しています。</p>
 <p>このように広告を設置するにはPHPのコードを書き加えます。<br />
 PHPをいじることになり予期せぬエラーでブログ表示が真っ白になってしまう場合もあるので、<span class="b">バックアップを取ったりローカル環境で試すなど十分に注意してカスタマイズしてください。</span></p>
@@ -61,8 +61,8 @@ stingerでは&uarr;のような書き方になっていますが、テーマに�
 <p>PHPというプログラムの部分をいじることになるので、たった1文字「?」が抜けていただけでもブログに何も表示されず画面が真っ白になってしまいます。<br />
 慣れていない方はくれぐれもご注意ください。</p>
 <p>慣れていないけど挑戦してみたい方は、WordPressが動く環境をPC内に作ると練習できるのでやってみてください。</p>
-<p>参考：<a href="http://kotalab.com/wordpress-bitnami">画面が真っ白とこれでおさらば！WordPressをいじり倒したい人のためのローカル環境構築</a></p>
-<p>ちょっと一人だと心細いという方は、<a href="http://kotalab.com/blog-consultation" title="ブログのお手伝い始めました">連絡いただければご相談に乗ります</a>。</p>
+<p>参考：<a href="https://kotalab.com/wordpress-bitnami">画面が真っ白とこれでおさらば！WordPressをいじり倒したい人のためのローカル環境構築</a></p>
+<p>ちょっと一人だと心細いという方は、<a href="https://kotalab.com/blog-consultation" title="ブログのお手伝い始めました">連絡いただければご相談に乗ります</a>。</p>
 <h2>さいごに</h2>
 <p>ファーストビュー(ページを開いた時に最初に表示される画面範囲)から広告をなくしました。</p>
 <p>ファーストビューに広告を置いた方が広告収入が上がると思います。<br />
@@ -70,5 +70,5 @@ stingerでは&uarr;のような書き方になっていますが、テーマに�
 <p>僕は少しでも読んでもらいたいと思ってブログを更新しているので、ファーストビューから広告を外しました。</p>
 <p>[dailynew]<br />
 ・新しいアプリの主要機能をピックアップ</p>
-<p><a href="http://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

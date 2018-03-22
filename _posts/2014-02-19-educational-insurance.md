@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10870
-wordpress_url: http://kotalab.com/?p=10870
+wordpress_url: https://kotalab.com/?p=10870
 date: '2014-02-19 08:14:57 +0900'
 date_gmt: '2014-02-18 23:14:57 +0900'
 category:
@@ -22,7 +22,7 @@ comments: []
 ---
 <p>一人の子どもを育てるのに必要な教育費は大きな金額です。<br />
 生まれてから大学卒業までに、全部公立に通わせても1000万弱、全部私立だとその倍以上かかります。<br />
-詳しい計算方法は<a href="http://kotalab.com/education-cost" target="_blank">別エントリー</a>を参考にしてください。<br />
+詳しい計算方法は<a href="https://kotalab.com/education-cost" target="_blank">別エントリー</a>を参考にしてください。<br />
 今回は教育に関わる保険、学資保険について書きます。<br />
 学資保険というと、払った以上にお金が返ってくるというような保険会社の宣伝もありますが、本当にそうでしょうか。<br />
 それだけじゃない、学資保険の裏側にも目を向けていきたいと思います。</p>

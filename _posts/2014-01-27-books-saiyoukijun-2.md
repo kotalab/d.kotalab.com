@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10684
-wordpress_url: http://kotalab.com/?p=10684
+wordpress_url: https://kotalab.com/?p=10684
 date: '2014-01-27 08:06:18 +0900'
 date_gmt: '2014-01-26 23:06:18 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 伊賀泰代
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20140127080614.jpg" width="546" height="409" class="slooProImg" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140127080614.jpg" width="546" height="409" class="slooProImg" /><br />
 リーダーというのを考えてみた時に連想してみた。頭の中に出てきたのはこんな人たちだ。<br />
 学生の頃までさかのぼると、学級委員長、生徒会長、部活の部長・キャプテンといった役割の人物。<br />
 それが社会人になると、部長や社長、店長といったいわゆる上司になってくる。<br />

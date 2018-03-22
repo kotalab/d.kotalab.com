@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5103
-wordpress_url: http://kotalab.com/?p=5103
+wordpress_url: https://kotalab.com/?p=5103
 date: '2012-12-26 10:16:14 +0900'
 date_gmt: '2012-12-26 01:16:14 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 近藤麻理恵
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/kataduke_121226.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/kataduke_121226-448x335.jpg" alt="kataduke_121226" width="448" height="335" class="alignnone size-large wp-image-5104" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/kataduke_121226.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kataduke_121226-448x335.jpg" alt="kataduke_121226" width="448" height="335" class="alignnone size-large wp-image-5104" /></a><br />
 「人生がときめく片づけの魔法」を読みました。@kotala_bです。<br />
 「人生がときめく片づけの魔法」は片づけコンサルタントとして活躍中の近藤麻理恵さんの本です。<br />
 本書には「<strong>一度片づけたら絶対に元に戻らない方法</strong>」について、具体的な方法だけでなく心の持ち方についても書かれています。<br />

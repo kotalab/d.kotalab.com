@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11195
-wordpress_url: http://kotalab.com/?p=11195
+wordpress_url: https://kotalab.com/?p=11195
 date: '2014-03-20 08:33:15 +0900'
 date_gmt: '2014-03-19 23:33:15 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - 自由大学
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/app-creator-546x409.png" alt="app-creator" width="546" height="409" class="alignnone size-large wp-image-11196" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/app-creator-546x409.png" alt="app-creator" width="546" height="409" class="alignnone size-large wp-image-11196" /><br />
 <a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a>のアキオさんが講師を務める、「<a href="https://freedom-univ.com/lecture/app_developmen.html" target="_blank">アプリクリエイター道場　開発塾」</a>に申込んでみました！</p>
 <p><strong>「iPhoneアプリを作ってみたい、自分が使いたいアプリを作ってみたい」「でもどこから手をつけていいかがわからない」</strong>そこで僕は今回の受講に踏み切りました。<br />
 <!--more--></p>

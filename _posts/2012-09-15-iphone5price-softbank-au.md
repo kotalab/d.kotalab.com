@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2761
-wordpress_url: http://kotalab.com/?p=2761
+wordpress_url: https://kotalab.com/?p=2761
 date: '2012-09-15 11:41:33 +0900'
 date_gmt: '2012-09-15 02:41:33 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - au
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/iphone5kakaku_120915.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iphone5kakaku_120915.jpg" alt="" title="iphone5kakaku_120915" width="448" height="336" class="alignnone size-full wp-image-2769" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/iphone5kakaku_120915.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5kakaku_120915.jpg" alt="" title="iphone5kakaku_120915" width="448" height="336" class="alignnone size-full wp-image-2769" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/mroach/2436379822/" target="_blank">Phone store!</a> / mroach</span><br />
 僕はSoftbankでiPhoneを予約します。@kotala_bです。<br />
 9月14日午後2時半にSoftbankとau共にiPhone5の料金体系が発表されました。<br />
@@ -58,7 +58,7 @@ auで買った場合、12ヶ月後に支払う端末代金は新規・MNPの場�
 Softbankとauの差額は新規・MNPの場合で5160円、機種変の場合だと9840円になります。</p>
 <h2>まとめ</h2>
 <p>▼クリックすると拡大画像が開きます。<br />
-<a href="http://kotalab.com/wp-content/uploads/iPhone5kakaku_120915_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/iPhone5kakaku_120915_01.jpg" alt="" title="iPhone5kakaku_120915_01" width="448" height="150" class="alignnone size-full wp-image-2765" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/iPhone5kakaku_120915_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iPhone5kakaku_120915_01.jpg" alt="" title="iPhone5kakaku_120915_01" width="448" height="150" class="alignnone size-full wp-image-2765" /></a><br />
 一括での機種代と毎月の割引き額が違うことに疑問を持ち調べてみました。<br />
 その結果、24ヶ月後には同じでも12ヶ月後では大きな差額があることがわかりました。<br />
 Softbankとauの端末代金が同じであるかのような情報が多くありますが、それは<strong>あくまでも24ヶ月間使った場合</strong>ということを頭に入れておきましょう！</p>
@@ -67,6 +67,6 @@ Softbankとauの端末代金が同じであるかのような情報が多くあ�
 <strong>auのiPhone5の本体代金と毎月割額が下がったのでiPhone5の端末代金はSoftBankと同条件になったようです。<br />
 これから契約する方はご注意ください！</strong></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/mnp-iphone5" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130327212701.jpg" alt="iPhone5にMNPしたらしたいことまとめ | kotala's note" width="150" /></a><a href="http://kotalab.com/mnp-iphone5" target="_blank">iPhone5にMNPしたらしたいことまとめ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/mnp-march" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/iphoneandroid_120720.jpg" alt="MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note" width="150" /></a><a href="http://kotalab.com/mnp-march" target="_blank">MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/iphone5-first10app" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note" width="150" /></a><a href="http://kotalab.com/iphone5-first10app" target="_blank">iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/mnp-iphone5" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130327212701.jpg" alt="iPhone5にMNPしたらしたいことまとめ | kotala's note" width="150" /></a><a href="https://kotalab.com/mnp-iphone5" target="_blank">iPhone5にMNPしたらしたいことまとめ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/mnp-march" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iphoneandroid_120720.jpg" alt="MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note" width="150" /></a><a href="https://kotalab.com/mnp-march" target="_blank">MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/iphone5-first10app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone5-first10app" target="_blank">iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note</a><br style="clear:both;" /></p>

@@ -12,7 +12,7 @@ author:
 author_email: info@kotalab.com
 excerpt: "定申告の作業がもっとラクで簡単に済むようになったらいいですよね。\r\n確定申告が大変なのはもしかしたら使ってるソフトのせいかもしれませんよ。\r\n僕自身「やよいの青色申告」を使ってますが、仕分けやら入力やらが結構めんどくさく感じています。\r\nもっとラクにできたらいいなと思い、クラウド型の会計ソフトについて少し調べてみました。\r\n調べたことを備忘録も兼ねて書いてみます。"
 wordpress_id: 10826
-wordpress_url: http://kotalab.com/?p=10826
+wordpress_url: https://kotalab.com/?p=10826
 date: '2014-02-13 08:33:58 +0900'
 date_gmt: '2014-02-12 23:33:58 +0900'
 category:
@@ -32,12 +32,12 @@ comments: []
 調べたことを備忘録も兼ねて書いてみます。<br />
 <!--more--></p>
 <h2>freeeとマネーフォワード</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/compare-freee-with-moneyforward_140213_01-546x286.png" alt="compare-freee-with-moneyforward_140213_01" width="546" height="286" class="alignnone size-large wp-image-10823" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/compare-freee-with-moneyforward_140213_01-546x286.png" alt="compare-freee-with-moneyforward_140213_01" width="546" height="286" class="alignnone size-large wp-image-10823" /><br />
 僕が調べたのは「freee」と「マネーフォワード」というソフトです。<br />
 マネーフォワードは家計簿アプリとしても有名ですが、青色申告に対応した「マネーフォワード for BUSINESS」を正式リリースしたのは1月27日です。<br />
 それに比べるとfreeeの方が先駆け的存在です。</p>
 <h2>クラウド型会計ソフトの特徴</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/compare-freee-with-moneyforward_140213_02-546x286.png" alt="compare-freee-with-moneyforward_140213_02" width="546" height="286" class="alignnone size-large wp-image-10824" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/compare-freee-with-moneyforward_140213_02-546x286.png" alt="compare-freee-with-moneyforward_140213_02" width="546" height="286" class="alignnone size-large wp-image-10824" /><br />
 まずはこの二つに共通する特徴からみていきます。<br />
 制限はあるものの無料プランが用意されています。<br />
 クラウド型なのでインストール不要。<br />

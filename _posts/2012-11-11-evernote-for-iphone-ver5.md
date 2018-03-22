@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4138
-wordpress_url: http://kotalab.com/?p=4138
+wordpress_url: https://kotalab.com/?p=4138
 date: '2012-11-11 11:23:48 +0900'
 date_gmt: '2012-11-11 02:23:48 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - iPadアプリ
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121111102436.png" width="448" height="251" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121111102436.png" width="448" height="251" /><br />
 iPhone5にもiPadminiにもEvernoteが入っています。@kotala_bです。<br />
 iOS版のEvernoteが5.0にバージョンアップされました。<br />
 今回のバージョンアップで大きな変更があったのはUI（ユーザーインターフェイス）です。</p>
@@ -39,12 +39,12 @@ iOS版のEvernoteが5.0にバージョンアップされました。<br />
 <p><!--more--></p>
 <h2>大きく変わったUI</h2>
 <p>▼バージョンアップの内容を見ると「素早く」ということが強調され、使いやすさに拘ったアップデート内容になっています。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121111102433.jpg" width="300" height="514" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121111102433.jpg" width="300" height="514" /><br />
 ▼新しくなったUIでは画面上部に新規ノート作成ボタン、カメラボタン、ページカメラボタンと3つセットされています。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121111105433.png" width="300" height="514" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121111105433.png" width="300" height="514" /><br />
 起動から1タップでノートの新規作成が出来るのはいいことです！<br />
 ▼画面中央から下は場所、タグ、ノートブック、全てのノートに1タップで移動出来ます。<br />
-<img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20121111105431.png" width="300" height="514" /><br />
+<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121111105431.png" width="300" height="514" /><br />
 メイン画面からの移動が全て1タップというのは使いやすさを気にしたアップデートといえます。<br />
 今まではSmarteverを使うことの方が多かったですが、これからは公式アプリを使おうかなと思わせる使いやすいUIになりました。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartever-sakusaku-shieru%252Fid493990103%253Fmt%253D8%2526uo%253D4"><img src="http://a1946.phobos.apple.com/us/r1000/062/Purple/v4/03/e5/86/03e5863b-78e4-fab1-d7c6-9adb6d9ca301/mza_5251020485347599819.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>

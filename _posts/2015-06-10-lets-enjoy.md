@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14587
-wordpress_url: http://kotalab.com/?p=14587
+wordpress_url: https://kotalab.com/?p=14587
 date: '2015-06-10 08:13:49 +0900'
 date_gmt: '2015-06-09 23:13:49 +0900'
 category:
@@ -19,7 +19,7 @@ tags:
 - 行動
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/06/time-is-precious_20150605_02-780x520.jpg" alt="time-is-precious_20150605_02" width="780" height="520" class="aligncenter size-large wp-image-14535" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/06/time-is-precious_20150605_02-780x520.jpg" alt="time-is-precious_20150605_02" width="780" height="520" class="aligncenter size-large wp-image-14535" /></p>
 <p>肩の力を抜いて楽しもう。</p>
 <p>自分が「楽しい！」と思えることほど時間が経つのはあっという間で、熱中して取りかかることができます。</p>
 <p>逆に頑張らなきゃ頑張らなきゃと思えば思うほど、カラダはガチガチになって楽しむことを忘れちゃう。</p>
@@ -49,7 +49,7 @@ via:<a href="http://sumirexxx.com/2015/06/09/nurumayu/" target="_blank">ぬる�
 <p>好きなこと、やりたいことをとにかくやろう！とにかく楽しもう！</p>
 <p>[dailynew]<br />
 ・ABテスト</p>
-<p><a href="http://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>
 <div class="booklink-box">
 <div class="booklink-image"><a href="http://www.amazon.co.jp/exec/obidos/asin/4763130471/same-22/" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41lZRfg1yHL._SL160_.jpg" style="border: none;" /></a></div>

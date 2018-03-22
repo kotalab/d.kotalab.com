@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11118
-wordpress_url: http://kotalab.com/?p=11118
+wordpress_url: https://kotalab.com/?p=11118
 date: '2014-03-12 12:34:03 +0900'
 date_gmt: '2014-03-12 03:34:03 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - ランサーズ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/lancers_140312-546x221.png" alt="lancers_140312" width="546" height="221" class="alignnone size-large wp-image-11113" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/lancers_140312-546x221.png" alt="lancers_140312" width="546" height="221" class="alignnone size-large wp-image-11113" /><br />
 ランサーズというクラウドソーシングを利用して、このブログのヘッダーで使うバナーのデザインを頼んでみました！<br />
 昨日の夜に募集開始して締め切りは03月18日 21:54です。<br />
 ▼募集ページはこちら。<br />
@@ -36,8 +36,8 @@ comments: []
 <p>変えたのが今使ってる「Stinger2」というテーマです。<br />
 使い始めたのは去年の8月から。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/change-stinger2"><img src="http://kotalab.com/wp-content/uploads/stinger2-448x294.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/change-stinger2">[Stinger2]ブログのテーマを「Stinger2」に変更しました！</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/change-stinger2" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/change-stinger2" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/change-stinger2"><img src="https://kotalab.com/wp-content/uploads/stinger2-448x294.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/change-stinger2">[Stinger2]ブログのテーマを「Stinger2」に変更しました！</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/change-stinger2" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/change-stinger2" alt="" /></a></div>
 </div>
 <p>使い始めた頃は同じテーマを使う人はほとんど見なかったんでよかったんですが、今は同じテーマのブログがすごい目につきます。<br />
 これじゃあ「誰が書いてるか」っていうのがほんとわかりません。</p>
@@ -45,7 +45,7 @@ comments: []
 そんな話を<a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a><a href="http://b.hatena.ne.jp/entry/http://akio0911.net/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://akio0911.net/" alt="" /></a><br />
 のアキオさんから直接聞く機会もあって、そろそろ何とかしたいという気持ちがありました。<br />
 参考:<a href="http://akio0911.net/archives/27222" target="_blank">ブログの訪問者に自分やブログを覚えてもらうためにこんな工夫してます</a><a href="http://b.hatena.ne.jp/entry/http://akio0911.net/archives/27222" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://akio0911.net/archives/27222" alt="" /></a></p>
-<p>ついこの前、<a href="http://kotalab.com/new-icon" title="ふじもなおさんに似顔絵を書いてもらいました！">ふじもなおさんに似顔絵を描いてもらった</a>ので、その似顔絵を使ってヘッダーに置くバナーを作ることに決めました。</p>
+<p>ついこの前、<a href="https://kotalab.com/new-icon" title="ふじもなおさんに似顔絵を書いてもらいました！">ふじもなおさんに似顔絵を描いてもらった</a>ので、その似顔絵を使ってヘッダーに置くバナーを作ることに決めました。</p>
 <p>ただし、自分で作ったらまた時間がかかることも目に見えてわかります。<br />
 そこで誰かに作ってもらおうと思って、今回ランサーズで頼んでみることにしました！</p>
 <h3>ご応募お待ちしております！</h3>

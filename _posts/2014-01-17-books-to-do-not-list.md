@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10584
-wordpress_url: http://kotalab.com/?p=10584
+wordpress_url: https://kotalab.com/?p=10584
 date: '2014-01-17 07:26:04 +0900'
 date_gmt: '2014-01-16 22:26:04 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - 中村孝志
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books-to-do-not-list_140117-546x409.jpg" alt="books-to-do-not-list_140117" width="546" height="409" class="alignnone size-large wp-image-10585" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-to-do-not-list_140117-546x409.jpg" alt="books-to-do-not-list_140117" width="546" height="409" class="alignnone size-large wp-image-10585" /><br />
 僕らは多くの「やりたいこと」「やらなければならないこと」に囲まれながら日々を過ごしている。<br />
 多すぎる「やりたいこと」「やらなければならないこと」はやがて僕らを縛りつけ、身動きが取りにくい状況へとおいやってしまう。<br />
 「あれもこれもやりたいのに時間がない」「あれもこれもと手を伸ばし、結局全部が中途半端」そんな経験はないだろうか？<br />

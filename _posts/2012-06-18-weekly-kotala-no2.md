@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 802
-wordpress_url: http://kotalab.com/?p=802
+wordpress_url: https://kotalab.com/?p=802
 date: '2012-06-18 09:59:01 +0900'
 date_gmt: '2012-06-18 00:59:01 +0900'
 category:
@@ -55,7 +55,7 @@ comments: []
 <h3>金持ちになる男、貧乏になる男</h3>
 <p>今週は3冊の本を読み終えました。<br />
 1冊目はスティーブ・シーボルドさん著書の「<strong><a href="http://www.amazon.co.jp/exec/obidos/asin/4763132105/same-22/" title="金持ちになる男、貧乏になる男" target="_blank">金持ちになる男、貧乏になる男</a></strong>」です。<br />
-<a href="http://kotalab.com/books-how-rich-people-think" title="金持ちになるための3つの考え方" target="_blank">金持ちになるための3つの考え方</a>として記事にしたのでそちらもお読みください。</p>
+<a href="https://kotalab.com/books-how-rich-people-think" title="金持ちになるための3つの考え方" target="_blank">金持ちになるための3つの考え方</a>として記事にしたのでそちらもお読みください。</p>
 <h3>クラウド時代のタスク管理の技術</h3>
 <p>2冊目は佐々木正悟さん著書の「<strong><a href="http://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" title="クラウド時代のタスク管理の技術" target="_blank">クラウド時代のタスク管理の技術</a></strong>」です。<br />
 プロジェクト管理を始めるきっかけとなった本です。<br />

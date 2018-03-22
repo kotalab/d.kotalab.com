@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7797
-wordpress_url: http://kotalab.com/?p=7797
+wordpress_url: https://kotalab.com/?p=7797
 date: '2013-07-12 20:49:50 +0900'
 date_gmt: '2013-07-12 11:49:50 +0900'
 category:
@@ -40,31 +40,31 @@ comments:
   content: "[...] ◆ iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！前編 （ via kotala&#8217;s note ）
     [...]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712-448x249.jpg" alt="home_130712" width="448" height="249" class="alignnone size-large wp-image-7812" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712-448x249.jpg" alt="home_130712" width="448" height="249" class="alignnone size-large wp-image-7812" /><br />
 iPhoneに入ってるアプリの数をかぞえてみたら99でした。こたら（@kotala_b）です。<br />
 あと1つで100だった！<br />
-<a href="http://kotalab.com/iphone-buy" title="ついにiPhoneを購入！早速開封！" target="_blank">去年の7月12日に初めてのiPhoneを購入。</a><br />
+<a href="https://kotalab.com/iphone-buy" title="ついにiPhoneを購入！早速開封！" target="_blank">去年の7月12日に初めてのiPhoneを購入。</a><br />
 それまで使っていたドコモのmediasWP（N-06C）からSoftBankのiPhone4SへMNPしました。<br />
-ずっと欲しかった<a href="http://kotalab.com/iphone4s32gb-0yen" title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！" target="_blank">iPhoneを手に入れたあの日のこと</a>は今でも忘れません。<br />
+ずっと欲しかった<a href="https://kotalab.com/iphone4s32gb-0yen" title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！" target="_blank">iPhoneを手に入れたあの日のこと</a>は今でも忘れません。<br />
 1年間で色々なアプリを購入してきました。<br />
 今現在iPhoneの1画面目には57アプリ、2画面目には42アプリが入っていました。<br />
 2回に渡って全99アプリをご紹介していきます！<br />
 前編は1画面目の57アプリ！<br />
-<a href="http://kotalab.com/iphone1year-app2" title="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！後編42個" target="_blank">後編はこちら</a><br />
+<a href="https://kotalab.com/iphone1year-app2" title="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！後編42個" target="_blank">後編はこちら</a><br />
 <!--more--></p>
 <h2>ホーム画面</h2>
 <p>これまでの1画面目の全体の様子はこんな感じになります。<br />
 2012年10月、iPhone5に変えた当初のホーム画面です。<br />
-<img src="http://kotalab.com/wp-content/uploads/home_121010_01.png" alt="home_121010_01" width="300" height="514" class="alignnone size-full wp-image-3297" /><br />
-この頃はまだGoogleMapがなくて、<a href="http://kotalab.com/maps-plus" title="iPhone5にはこの地図アプリ！googleマップを使ったMaps+がスゴい便利！" target="_blank">Maps+を使っていました。</a><br />
-2012年11月、<a href="http://kotalab.com/seeq-sale" title="Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！" target="_blank">Seeqが登場して</a>ホーム画面に変化が起こります。<br />
+<img src="https://kotalab.com/wp-content/uploads/home_121010_01.png" alt="home_121010_01" width="300" height="514" class="alignnone size-full wp-image-3297" /><br />
+この頃はまだGoogleMapがなくて、<a href="https://kotalab.com/maps-plus" title="iPhone5にはこの地図アプリ！googleマップを使ったMaps+がスゴい便利！" target="_blank">Maps+を使っていました。</a><br />
+2012年11月、<a href="https://kotalab.com/seeq-sale" title="Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！" target="_blank">Seeqが登場して</a>ホーム画面に変化が起こります。<br />
 これまであったブラウザ・マップ・乗り換え案内アプリは全てSeeqから起動するようになりました。<br />
-<img src="http://kotalab.com/wp-content/uploads/slooProImg_20121204165232-300x514.jpg" alt="slooProImg_20121204165232.jpg" width="300" height="514" class="alignnone size-medium wp-image-4535" /><br />
-2013年4月、<a href="http://kotalab.com/folder-making" title="アプリが探しやすくなるフォルダの作り方！カテゴリーごとにフォルダは作らない！" target="_blank">行動別のフォルダを作り</a>ホーム画面にフォルダが復活！<br />
-<img src="http://kotalab.com/wp-content/uploads/home_130403_01-300x617.jpg" alt="home_130403_01" width="300" height="617" class="alignnone size-medium wp-image-6700" /><br />
+<img src="https://kotalab.com/wp-content/uploads/slooProImg_20121204165232-300x514.jpg" alt="slooProImg_20121204165232.jpg" width="300" height="514" class="alignnone size-medium wp-image-4535" /><br />
+2013年4月、<a href="https://kotalab.com/folder-making" title="アプリが探しやすくなるフォルダの作り方！カテゴリーごとにフォルダは作らない！" target="_blank">行動別のフォルダを作り</a>ホーム画面にフォルダが復活！<br />
+<img src="https://kotalab.com/wp-content/uploads/home_130403_01-300x617.jpg" alt="home_130403_01" width="300" height="617" class="alignnone size-medium wp-image-6700" /><br />
 そして、今現在のホーム画面はこんな感じ。<br />
-フォルダが増え、<a href="http://kotalab.com/draftpad-reason" title="イチオシのメモアプリ！僕がDraftPadを愛用する理由！" target="_blank">愛用していたDraftPad</a>がホーム画面からなくなりました。<br />
-<img src="http://kotalab.com/wp-content/uploads/home_130712_01-300x617.jpg" alt="home_130712_01" width="300" height="617" class="alignnone size-medium wp-image-7810" /><br />
+フォルダが増え、<a href="https://kotalab.com/draftpad-reason" title="イチオシのメモアプリ！僕がDraftPadを愛用する理由！" target="_blank">愛用していたDraftPad</a>がホーム画面からなくなりました。<br />
+<img src="https://kotalab.com/wp-content/uploads/home_130712_01-300x617.jpg" alt="home_130712_01" width="300" height="617" class="alignnone size-medium wp-image-7810" /><br />
 前回は4月3日だったので、それから約3ヶ月が経ちだいぶ変わりました。<br />
 過去のホーム画面を振り返ってみると結構楽しい！<br />
 これまでのホーム画面に共通しているのが、左上にデフォルトのカレンダーアプリがあること。<br />
@@ -74,12 +74,12 @@ Due、Quickin、SmartEver、Swipemintは位置は変わってもホーム画面�
 入れてるアプリが多くてごちゃごちゃしているのが許せないので、なるべく2画面目までしか入れないようにしてます。<br />
 たまに3画面目までアプリが増えることがあっても、使わないアプリはどんどん削除していくので基本2画面構成です。</p>
 <h2>Dock</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_07-448x119.jpg" alt="home_130712_07" width="448" height="119" class="alignnone size-large wp-image-7805" /><br />
-Dockには<a href="http://kotalab.com/draftpad-reason" title="イチオシのメモアプリ！僕がDraftPadを愛用する理由！" target="_blank">これまで愛用していたDraftPad</a>が消え、FastEverとZowNoteが新たに加わりました。<br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_07-448x119.jpg" alt="home_130712_07" width="448" height="119" class="alignnone size-large wp-image-7805" /><br />
+Dockには<a href="https://kotalab.com/draftpad-reason" title="イチオシのメモアプリ！僕がDraftPadを愛用する理由！" target="_blank">これまで愛用していたDraftPad</a>が消え、FastEverとZowNoteが新たに加わりました。<br />
 FastEverはEvernoteへ素早く簡単にメモを送信するアプリです。<br />
 これまではDraftPadに一旦メモを仮置きして、必要なモノだけを後からEvernoteへ送るという流れでした。<br />
 FastEverを入れることで一旦全てをEvernoteに送ってから、毎朝のルーチンワークでEvernoteのInboxを整理するというカタチへ変えました。<br />
-<a href="http://kotalab.com/app-zownote" title="読書メモを見るのに最適なEvernote関連アプリ「Zownote」" target="_blank">ZowNoteは読書メモの振り返りに使っています。</a><br />
+<a href="https://kotalab.com/app-zownote" title="読書メモを見るのに最適なEvernote関連アプリ「Zownote」" target="_blank">ZowNoteは読書メモの振り返りに使っています。</a><br />
 読書メモの振り返りに重点を置くという気持ちを込めてDockへ移動しました。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ffastever-su-zaoku-jian-dannievernotenimemo%252Fid364580273%253Fmt%253D8%2526uo%253D4"><img src="http://a1394.phobos.apple.com/us/r1000/099/Purple2/v4/51/e9/74/51e9741f-1732-7e22-8abc-7e5126528265/mzl.hbiujkdz.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
@@ -122,9 +122,9 @@ FastEverを入れることで一旦全てをEvernoteに送ってから、毎朝�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>1段目</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_02-448x131.jpg" alt="home_130712_02" width="448" height="131" class="alignnone size-large wp-image-7809" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_02-448x131.jpg" alt="home_130712_02" width="448" height="131" class="alignnone size-large wp-image-7809" /><br />
 1段目には1画面目不動のカレンダー、設定、カメラを置いています。<br />
-写真アプリが消えて、<a href="http://kotalab.com/photostorage-1tb" title="PicasaからFlickrへ移行を検討中。1TBのストレージにどれくらい写真を保存出来るか計算してみた。" target="_blank">Flickrを使うようになった</a>ので、Flickrの写真も見れるSuperAlbumを入れました。</p>
+写真アプリが消えて、<a href="https://kotalab.com/photostorage-1tb" title="PicasaからFlickrへ移行を検討中。1TBのストレージにどれくらい写真を保存出来るか計算してみた。" target="_blank">Flickrを使うようになった</a>ので、Flickrの写真も見れるSuperAlbumを入れました。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fxie-zhen-guan-li-superalbum%252Fid474978531%253Fmt%253D8%2526uo%253D4"><img src="http://a1653.phobos.apple.com/us/r1000/051/Purple/v4/d9/27/5f/d9275fc5-b65e-1019-f39e-61d9fd380671/mzl.envyqpph.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fxie-zhen-guan-li-superalbum%252Fid474978531%253Fmt%253D8%2526uo%253D4">写真管理 SuperAlbum</span></div>
@@ -136,13 +136,13 @@ FastEverを入れることで一旦全てをEvernoteに送ってから、毎朝�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>2段目</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_03-448x126.jpg" alt="home_130712_03" width="448" height="126" class="alignnone size-large wp-image-7808" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_03-448x126.jpg" alt="home_130712_03" width="448" height="126" class="alignnone size-large wp-image-7808" /><br />
 2段目のアプリはチェックアイコンが並んでいます。<br />
-これらは<a href="http://kotalab.com/iphone-home-201304" title="iPhone5のホーム画面 2013年4月版" target="_blank">2013年4月のホーム画面</a>にあった3段目のアプリがそのまま上に移りました。<br />
+これらは<a href="https://kotalab.com/iphone-home-201304" title="iPhone5のホーム画面 2013年4月版" target="_blank">2013年4月のホーム画面</a>にあった3段目のアプリがそのまま上に移りました。<br />
 Omniforcusはプロジェクト管理。<br />
-<a href="http://kotalab.com/quickin" title="foursquareで簡単にチェックインできるアプリQuickInが名前通り早い！" target="_blank">QuickInはFoursquareのチェックインが素早くできるアプリ。</a><br />
-<a href="http://kotalab.com/due-urlscheme" title="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！" target="_blank">Dueはしつこいリマインダー。</a><br />
-<a href="http://kotalab.com/checklist-making" title="繰り返しやることにはチェックリストを作る！物事を効率的にこなす為のチェックリストの作り方！" target="_blank">domoTodo+には外出時などのチェックリスト。</a></p>
+<a href="https://kotalab.com/quickin" title="foursquareで簡単にチェックインできるアプリQuickInが名前通り早い！" target="_blank">QuickInはFoursquareのチェックインが素早くできるアプリ。</a><br />
+<a href="https://kotalab.com/due-urlscheme" title="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！" target="_blank">Dueはしつこいリマインダー。</a><br />
+<a href="https://kotalab.com/checklist-making" title="繰り返しやることにはチェックリストを作る！物事を効率的にこなす為のチェックリストの作り方！" target="_blank">domoTodo+には外出時などのチェックリスト。</a></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fomnifocus-for-iphone%252Fid284885288%253Fmt%253D8%2526uo%253D4"><img src="http://a1633.phobos.apple.com/us/r1000/103/Purple/v4/13/f2/ae/13f2ae1f-0d5a-75be-270d-881ad4d261bf/mzm.vlxhitiy.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fomnifocus-for-iphone%252Fid284885288%253Fmt%253D8%2526uo%253D4">OmniFocus for iPhone</span></div>
@@ -184,11 +184,11 @@ Omniforcusはプロジェクト管理。<br />
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>3段目</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_04-448x126.jpg" alt="home_130712_04" width="448" height="126" class="alignnone size-large wp-image-7806" /><br />
-<a href="http://kotalab.com/sleeptime-updata" title="SleepTimeがアップデート！Soundscapeやログのグラフ表示も可能に！" target="_blank">SleepTimeは睡眠ログ。</a><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_04-448x126.jpg" alt="home_130712_04" width="448" height="126" class="alignnone size-large wp-image-7806" /><br />
+<a href="https://kotalab.com/sleeptime-updata" title="SleepTimeがアップデート！Soundscapeやログのグラフ表示も可能に！" target="_blank">SleepTimeは睡眠ログ。</a><br />
 MomentoはFacebookやTwitter、Flickrなどのタイムラインをひとまとめに。<br />
 SmartEverにはEvernoteにある今日やることリストや外出時に見るノートを同期。<br />
-<a href="http://kotalab.com/money-app-good-habits" title="資産管理や家計簿アプリを続けやすくする為にする、始める時のたった1つのコツ" target="_blank">bookeepは資産の現状把握に欠かせない家計簿アプリ。</a></p>
+<a href="https://kotalab.com/money-app-good-habits" title="資産管理や家計簿アプリを続けやすくする為にする、始める時のたった1つのコツ" target="_blank">bookeepは資産の現状把握に欠かせない家計簿アプリ。</a></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsleep-time%252B-alarm-clock-sleep%252Fid498360026%253Fmt%253D8%2526uo%253D4"><img src="http://a896.phobos.apple.com/us/r1000/092/Purple/v4/c9/4b/81/c94b816b-b722-df9a-ca7b-ce622b8f4870/mzl.oninmgjk.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsleep-time%252B-alarm-clock-sleep%252Fid498360026%253Fmt%253D8%2526uo%253D4">Sleep Time+ Alarm Clock and Sleep Cycle Analysis with Soundscape for Health and Fitness</span></div>
@@ -230,7 +230,7 @@ SmartEverにはEvernoteにある今日やることリストや外出時に見る
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>4段目</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_05-448x127.jpg" alt="home_130712_05" width="448" height="127" class="alignnone size-large wp-image-7807" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_05-448x127.jpg" alt="home_130712_05" width="448" height="127" class="alignnone size-large wp-image-7807" /><br />
 なくてはならないGoogleマップ。<br />
 動作が軽いランチャーアプリSwipemint。<br />
 Swipemintには情報収集を目的とした4つのアプリ、Facebook・Gunosy・Reeder・Janetterを登録しています。<br />
@@ -267,13 +267,13 @@ Swipemintには情報収集を目的とした4つのアプリ、Facebook・Gunos
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>5段目</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_06-448x126.jpg" alt="home_130712_06" width="448" height="126" class="alignnone size-large wp-image-7804" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_06-448x126.jpg" alt="home_130712_06" width="448" height="126" class="alignnone size-large wp-image-7804" /><br />
 5段目はフォルダ群です。<br />
-<a href="http://kotalab.com/folder-making" title="アプリが探しやすくなるフォルダの作り方！カテゴリーごとにフォルダは作らない！" target="_blank">フォルダは行動別に分けるようにしていて</a>、連絡する時に使うアプリ、朝一使うアプリ、ブログを書く時に使うアプリ、スキマ時間に使うアプリといった具合です。</p>
+<a href="https://kotalab.com/folder-making" title="アプリが探しやすくなるフォルダの作り方！カテゴリーごとにフォルダは作らない！" target="_blank">フォルダは行動別に分けるようにしていて</a>、連絡する時に使うアプリ、朝一使うアプリ、ブログを書く時に使うアプリ、スキマ時間に使うアプリといった具合です。</p>
 <h3>連絡フォルダ</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_08-300x191.jpg" alt="home_130712_08" width="300" height="191" class="alignnone size-medium wp-image-7820" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_08-300x191.jpg" alt="home_130712_08" width="300" height="191" class="alignnone size-medium wp-image-7820" /><br />
 連絡フォルダには通話やメール系のアプリ。<br />
-<a href="http://kotalab.com/how-to-use-smartalk" title="毎月の通話料が安くなるアプリ。SMARTalkの使い方と初期設定" target="_blank">通話料が安くなるSmartalk</a>やLINE・Gmailを使っています。</p>
+<a href="https://kotalab.com/how-to-use-smartalk" title="毎月の通話料が安くなるアプリ。SMARTalkの使い方と初期設定" target="_blank">通話料が安くなるSmartalk</a>やLINE・Gmailを使っています。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartalk-sumahono-tong-hua%252Fid646647577%253Fmt%253D8%2526uo%253D4"><img src="http://a1373.phobos.apple.com/us/r1000/001/Purple/v4/c2/f1/02/c2f1025a-754d-46c5-a7d0-65c50f962f2a/mzl.celjjbgs.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsmartalk-sumahono-tong-hua%252Fid646647577%253Fmt%253D8%2526uo%253D4">SMARTalk -スマホの通話料をトコトン安くする-</span></div>
@@ -305,14 +305,14 @@ Swipemintには情報収集を目的とした4つのアプリ、Facebook・Gunos
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h3>朝一フォルダ</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_09-300x358.jpg" alt="home_130712_09" width="300" height="358" class="alignnone size-medium wp-image-7819" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_09-300x358.jpg" alt="home_130712_09" width="300" height="358" class="alignnone size-medium wp-image-7819" /><br />
 朝一フォルダには朝やるルーチンで使うアプリとランニングアプリ。<br />
-<a href="http://kotalab.com/count-down-cal" title="予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！" target="_blank">出発時刻を教えてくれるカウントダウンカレンダー。</a><br />
+<a href="https://kotalab.com/count-down-cal" title="予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！" target="_blank">出発時刻を教えてくれるカウントダウンカレンダー。</a><br />
 瞑想の時間を計るiMeiso。<br />
-<a href="http://kotalab.com/app-moves" title="ライフログの決定版！iPhoneでライフログを取るなら使いたい無料アプリ「Moves」" target="_blank">1日の行動記録、歩数などがわかるMoves。</a><br />
+<a href="https://kotalab.com/app-moves" title="ライフログの決定版！iPhoneでライフログを取るなら使いたい無料アプリ「Moves」" target="_blank">1日の行動記録、歩数などがわかるMoves。</a><br />
 毎日の習慣を記録するStreaks。<br />
 写真フォルダを整理するSmartAlbum。<br />
-写真の送信アプリで、<a href="http://kotalab.com/my-first-app" title="iPhoneを買って真っ先に入れたアプリ#myfirstapp" target="_blank">初めて買った有料アプリのPictShare。</a><br />
+写真の送信アプリで、<a href="https://kotalab.com/my-first-app" title="iPhoneを買って真っ先に入れたアプリ#myfirstapp" target="_blank">初めて買った有料アプリのPictShare。</a><br />
 第2の脳Evernote。<br />
 Evernoteのノートを整理する、AutoEver・MergeEver・MoveEver。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4"><img src="http://a1156.phobos.apple.com/us/r1000/107/Purple/v4/15/2f/f4/152ff43f-e847-a2d2-839d-39218b8a7fef/mzl.lvqxjxvr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
@@ -446,11 +446,11 @@ Evernoteのノートを整理する、AutoEver・MergeEver・MoveEver。</p>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h3>blogフォルダ</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_10-300x353.jpg" alt="home_130712_10" width="300" height="353" class="alignnone size-medium wp-image-7817" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_10-300x353.jpg" alt="home_130712_10" width="300" height="353" class="alignnone size-medium wp-image-7817" /><br />
 blogフォルダにはブログで使うアプリ。<br />
-<a href="http://kotalab.com/app-blog-backside" title="iPhoneで手軽に情報を得られる。自分のブログの裏側を見る4つのアプリ" target="_blank">ブログの内側を見る4つのアプリ</a>や文章を書くためのアプリ、写真編集アプリなどが入っています。<br />
-<a href="http://kotalab.com/app-airlib" title="iPhoneからPCへ！PCからiPhoneへ！カメラロールを自在に操るスゴいアプリ！" target="_blank">MacとiPhoneの画像を簡単に受け渡しが出来るAirLib。</a><br />
-<a href="http://kotalab.com/reeder-feedly" title="自分で撮った写真や書いた絵をネットにアップする前にやっておきたい！iPhoneやiPadから簡単にcopyrightをつける方法！" target="_blank">画像のファイルサイズを小さくしつつ、著作権情報を画像に直接つけれるReduse。</a></p>
+<a href="https://kotalab.com/app-blog-backside" title="iPhoneで手軽に情報を得られる。自分のブログの裏側を見る4つのアプリ" target="_blank">ブログの内側を見る4つのアプリ</a>や文章を書くためのアプリ、写真編集アプリなどが入っています。<br />
+<a href="https://kotalab.com/app-airlib" title="iPhoneからPCへ！PCからiPhoneへ！カメラロールを自在に操るスゴいアプリ！" target="_blank">MacとiPhoneの画像を簡単に受け渡しが出来るAirLib。</a><br />
+<a href="https://kotalab.com/reeder-feedly" title="自分で撮った写真や書いた絵をネットにアップする前にやっておきたい！iPhoneやiPadから簡単にcopyrightをつける方法！" target="_blank">画像のファイルサイズを小さくしつつ、著作権情報を画像に直接つけれるReduse。</a></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ffeedback-buroguno-fan-xiangwo%252Fid577698758%253Fmt%253D8%2526uo%253D4"><img src="http://a1686.phobos.apple.com/us/r1000/119/Purple/v4/41/5b/c7/415bc7b4-38e1-beb7-bfdb-2be2bbf870be/mzl.zuzzrcld.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ffeedback-buroguno-fan-xiangwo%252Fid577698758%253Fmt%253D8%2526uo%253D4">Feedback - ブログの反響を可視化</span></div>
@@ -592,10 +592,10 @@ blogフォルダにはブログで使うアプリ。<br />
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h3>スキマフォルダ</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/home_130712_11-300x191.jpg" alt="home_130712_11" width="300" height="191" class="alignnone size-medium wp-image-7818" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/home_130712_11-300x191.jpg" alt="home_130712_11" width="300" height="191" class="alignnone size-medium wp-image-7818" /><br />
 スキマフォルダにはスキマ時間に使うアプリ。<br />
 Evernoteが単語カードになるEverword。<br />
-<a href="http://kotalab.com/pocket-five-reason" title="【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由" target="_blank">オフラインでも後で読めるPocket。</a><br />
+<a href="https://kotalab.com/pocket-five-reason" title="【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由" target="_blank">オフラインでも後で読めるPocket。</a><br />
 電子書籍アプリ3種類。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Feverword-evernote-an-jikado%252Fid485235376%253Fmt%253D8%2526uo%253D4"><img src="http://a231.phobos.apple.com/us/r1000/117/Purple2/v4/39/2b/b5/392bb5de-853e-7ac2-7ea3-2be9317e5084/mzl.faqbwpow.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
@@ -650,6 +650,6 @@ Evernoteが単語カードになるEverword。<br />
 <h2>最後に</h2>
 <p>フォルダに入ってるアプリが思っていたより多くてビックリ<br />
 長くなるので2画面目は後編に分けてご紹介したいと思います。<br />
-<a href="http://kotalab.com/iphone1year-app2" title="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！後編42個" target="_blank">後編はこちら</a></p>
+<a href="https://kotalab.com/iphone1year-app2" title="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！後編42個" target="_blank">後編はこちら</a></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/iphone1year-app2" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/home_130712-448x249.jpg" alt="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！後編42個 | kotala's note" width="150" /></a><a href="http://kotalab.com/iphone1year-app2" target="_blank">iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！後編42個 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/iphone1year-app2" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/home_130712-448x249.jpg" alt="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！後編42個 | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone1year-app2" target="_blank">iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！後編42個 | kotala's note</a><br style="clear:both;" /></p>

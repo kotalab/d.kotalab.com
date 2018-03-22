@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 10834
-wordpress_url: http://kotalab.com/?p=10834
+wordpress_url: https://kotalab.com/?p=10834
 date: '2014-02-15 11:59:37 +0900'
 date_gmt: '2014-02-15 02:59:37 +0900'
 category:
@@ -28,11 +28,11 @@ comments:
   date_gmt: '2014-02-25 12:47:27 +0900'
   content: "[&#8230;] 『何か新しいことを始める時に知っておくといいこと | kotala&#8217;s note』 [&#8230;]"
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="books_kuroneko_140209" width="546" height="361" class="alignnone size-large wp-image-10797" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="books_kuroneko_140209" width="546" height="361" class="alignnone size-large wp-image-10797" /><br />
 新しいことを始めると三日坊主という言葉がついてまわります。<br />
 新しいことを始める時ってどうしても続きにくいですよね。<br />
 それってなんでなんだろう？<br />
-<a href="http://kotalab.com/books-kuroneko" title="ストレスフリーな自分の作り方 &ndash; 人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと 金光サリィ著">つい先日紹介した黒猫思考の本</a>に気になることが書いてあったのでその紹介をしたいと思います。<br />
+<a href="https://kotalab.com/books-kuroneko" title="ストレスフリーな自分の作り方 &ndash; 人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと 金光サリィ著">つい先日紹介した黒猫思考の本</a>に気になることが書いてあったのでその紹介をしたいと思います。<br />
 <!--more--></p>
 <h2>人間の脳が持つ防衛本能</h2>
 <p>僕たちが今こうして生きていられるのは脳が持つ防衛本能のおかげだそうです。<br />
@@ -58,7 +58,7 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="
 via:<a href="http://www.amazon.co.jp/exec/obidos/asin/4479771808/same-22/" rel="nofollow" target="_blank">人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと</a> - P.115</p></blockquote>
 <p><span class="b">感謝しつつ、三日坊主になっても諦めないでまた始める！</span></p>
 <h3>諦めなきゃ続けられる</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/need-to-know_140215-300x532.jpg" alt="need to know_140215" width="300" height="532" class="alignnone size-medium wp-image-10836" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/need-to-know_140215-300x532.jpg" alt="need to know_140215" width="300" height="532" class="alignnone size-medium wp-image-10836" /><br />
 今年の初めに毎日ブログを書くことを決めてから、1ヶ月半が経ちました。<br />
 1月12日と13日に寝込んでしまい、ブログが書けない日もありました。<br />
 でも体調が戻ってきた14日からはまた始めて、今日まで続いています。<br />

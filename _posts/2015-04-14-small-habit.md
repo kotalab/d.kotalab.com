@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 14099
-wordpress_url: http://kotalab.com/?p=14099
+wordpress_url: https://kotalab.com/?p=14099
 date: '2015-04-14 08:05:23 +0900'
 date_gmt: '2015-04-13 23:05:23 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - フォーカルポイント
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_02.jpg" alt="sakurasaku-yoyogi_140402_02" width="780"  class="aligncenter wp-image-11324" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_02.jpg" alt="sakurasaku-yoyogi_140402_02" width="780"  class="aligncenter wp-image-11324" /><br />
 自分にとって価値ある行動にかける時間をとにかく増やすこと。<br />
 自分にとって大切なことをする時間をとにかく大切にすることだとも言える。</p>
 <p>「<strong>大切なことをする時間を大切にする</strong>」</p>

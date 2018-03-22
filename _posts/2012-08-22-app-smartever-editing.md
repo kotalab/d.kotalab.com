@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2248
-wordpress_url: http://kotalab.com/?p=2248
+wordpress_url: https://kotalab.com/?p=2248
 date: '2012-08-22 07:59:51 +0900'
 date_gmt: '2012-08-21 22:59:51 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - iPhoneアプリ
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/smartever_120822.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smartever_120822.jpg" alt="" title="smartever_120822" width="448" height="336" class="alignnone size-full wp-image-2256" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/smartever_120822.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120822.jpg" alt="" title="smartever_120822" width="448" height="336" class="alignnone size-full wp-image-2256" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/jaybergesen/2993161890/" target="_blank">Lonely Planet Product Placement, Elafonissi</a> / jaybergesen</span><br />
 <a href="https://itunes.apple.com/jp/app/smartever/id493990103?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">SmartEver</a>が最近のお気に入りです。@kotala_bです。<br />
 <a href="https://itunes.apple.com/jp/app/smartever/id493990103?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">SmartEver</a>で編集した時に「<strong>編集可能な形式に変換</strong>」と表示されるノートと表示されないノートがあるのをご存知でしょうか？<br />
@@ -30,7 +30,7 @@ comments: []
 どういったノートを編集するときに変換されるのか気になったので調べてみました。<br />
 <!--more--></p>
 <h2>編集可能な形式に変換されるノート</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/smartever_120822_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smartever_120822_01.png" alt="" title="smartever_120822_01" width="300" height="432" class="alignnone size-full wp-image-2253" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/smartever_120822_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120822_01.png" alt="" title="smartever_120822_01" width="300" height="432" class="alignnone size-full wp-image-2253" /></a><br />
 「<strong>編集可能な形式に変換</strong>」が必要だったのは、ノート内に「URLリンク」「リスト」「仕切り線」「テーブル」のどれかが含まれたノートでした。<br />
 それ以外のノート（チェックボックスや画像有りのノート）はそのまま<a href="https://itunes.apple.com/jp/app/smartever/id493990103?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">SmartEver</a>で編集可能でした。<br />
 「<strong>編集可能な形式に変換</strong>」した場合、URLリンクが切れる、テーブルがなくなる等「<strong>変換</strong>」されてしまうので「<strong>編集可能な形式に変換</strong>」を多用したくありません。</p>

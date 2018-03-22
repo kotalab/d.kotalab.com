@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 5992
-wordpress_url: http://kotalab.com/?p=5992
+wordpress_url: https://kotalab.com/?p=5992
 date: '2013-02-02 10:10:49 +0900'
 date_gmt: '2013-02-02 01:10:49 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - iPadアプリ
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/penultimate_130202-448x448.png" alt="penultimate_130202" width="448" height="448" class="alignnone size-large wp-image-5996" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/penultimate_130202-448x448.png" alt="penultimate_130202" width="448" height="448" class="alignnone size-large wp-image-5996" /><br />
 Evernoteが大好きです。@kotala_bです。<br />
 Evernoteにはメモをなんでも放り込んでます。<br />
 そんなEvernoteと連携する、iPad用の手書きのメモアプリPenultimateをご紹介します。<br />
@@ -34,7 +34,7 @@ Evernoteにはメモをなんでも放り込んでます。<br />
 Evernoteの公式アプリとしてリリースされているのでEvernoteとの連携がとてもスムーズ！<br />
 PenultimateからEvernoteのアカウントにログインをするとEvernoteのノートに「Penultimate」というノートが作成されます。<br />
 ▼Penultimateで作成したノートはひとつのノートブックとしてEvernote上で表示されます<br />
-<img src="http://kotalab.com/wp-content/uploads/penultimate_130202_01-448x303.jpg" alt="penultimate_130202_01" width="448" height="303" class="alignnone size-large wp-image-5994" /></p>
+<img src="https://kotalab.com/wp-content/uploads/penultimate_130202_01-448x303.jpg" alt="penultimate_130202_01" width="448" height="303" class="alignnone size-large wp-image-5994" /></p>
 <h2>最後に</h2>
 <p>スタライスペンが欲しくなりました！<br />
 買っちゃおうかな！</p>

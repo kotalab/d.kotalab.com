@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2153
-wordpress_url: http://kotalab.com/?p=2153
+wordpress_url: https://kotalab.com/?p=2153
 date: '2012-08-16 10:15:11 +0900'
 date_gmt: '2012-08-16 01:15:11 +0900'
 category:
@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/domain_120816.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/domain_120816.jpg" alt="" title="domain_120816" width="448" height="287" class="alignnone size-full wp-image-2154" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/domain_120816.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/domain_120816.jpg" alt="" title="domain_120816" width="448" height="287" class="alignnone size-full wp-image-2154" /></a><br />
 <span style="font-size:10px;">Domain Name Extensions</a> / The Booklight</span><br />
 ドメインはムームードメインで取得しました。@kotala_bです。<br />
 そのムームードメインが今だけ最大70%オフのキャンペーンを実施中です！<br />

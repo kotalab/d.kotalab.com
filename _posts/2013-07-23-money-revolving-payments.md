@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7891
-wordpress_url: http://kotalab.com/?p=7891
+wordpress_url: https://kotalab.com/?p=7891
 date: '2013-07-23 19:00:14 +0900'
 date_gmt: '2013-07-23 10:00:14 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - money
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/revo_130723-448x319.jpg" alt="revo_130723" width="448" height="319" class="alignnone size-large wp-image-7902" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/revo_130723-448x319.jpg" alt="revo_130723" width="448" height="319" class="alignnone size-large wp-image-7902" /><br />
 新米ファイナンシャルプランナー。こたら（@kotala_b）です。<br />
 知らないと損するお金のこと第2回目は「クレジットカードのリボ払い」について書いてみたいと思います。<br />
 リボ払いというとどんなイメージがありますか？<br />
@@ -49,4 +49,4 @@ comments: []
 クレジットカードを使うということは借金をしているということを忘れないでください。<br />
 ご利用は計画的に。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/money-kougakuryoyohi" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="知らないと損するお金のこと「高額療養費」 | kotala's note" width="150" /></a><a href="http://kotalab.com/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="知らないと損するお金のこと「高額療養費」 | kotala's note" width="150" /></a><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」 | kotala's note</a><br style="clear:both;" /></p>

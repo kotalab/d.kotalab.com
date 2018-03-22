@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 3879
-wordpress_url: http://kotalab.com/?p=3879
+wordpress_url: https://kotalab.com/?p=3879
 date: '2012-11-01 12:20:25 +0900'
 date_gmt: '2012-11-01 03:20:25 +0900'
 category:
@@ -40,7 +40,7 @@ comments:
   content: "[...] \x81Gunosy&atilde;\x81&uml;Evernote&atilde;\x82\x92&eacute;\x80&pound;&aelig;\x90&ordm;&iuml;&frac14;\x81Evernote&atilde;\x81&cedil;&egrave;\x87&ordf;&aring;\x8B\x95&atilde;\x81&sect;&aring;\N&yen;&atilde;\x82\x8C&atilde;\x81&brvbar;&atilde;\x81\x84&atilde;\x81&curren;&atilde;\x81&sect;&atilde;\x82\x82&egrave;&brvbar;\x8B&atilde;\x82\x8C&atilde;\x82\x8B&atilde;\x82\x88&atilde;\x81\x86&atilde;\x81&laquo;&atilde;\x81\x99&atilde;\x82\x8B&aelig;\x96&sup1;&aelig;&sup3;\x95&iuml;&frac14;\x81&acirc;\x80&raquo;&egrave;&iquest;&frac12;&egrave;&uml;\x98&atilde;\x81\x82&atilde;\x82\x8A&iuml;&frac14;\x81
     &#8211; kotaka&#8217;s note [...]"
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/othree/6353586689/" target="_blank">Evernote Taiwan User Meetup</a> / othree</span><br />
 Gunosy2日目です。@kotala_bです。<br />
 毎日送られてくるGunosyをEvernoteへ貯たらライフログのひとつとして面白いなと思いました。<br />
@@ -76,7 +76,7 @@ IFTTTを使ったgmailとEvernoteの連携はこちらを参考に。<br />
 そのことを利用して、「<strong>Gunosy_日付@inbox#Gunosy</strong>」という件名でEvernoteへメールを送ると「<strong>inboxというノートブックへ、Gunosyというタグをつけて、Gunosy_日付というタイトルのノート</strong>」が作成されます。<br />
 お試しということで他のメールにラベルを付けて送りました。<br />
 ▼送られてきたノートがこちら<br />
-<a href="http://kotalab.com/wp-content/uploads/gunosy_121101_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/gunosy_121101_02.png" alt="" title="gunosy_121101_02" width="448" height="336" class="alignnone size-full wp-image-3887" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/gunosy_121101_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/gunosy_121101_02.png" alt="" title="gunosy_121101_02" width="448" height="336" class="alignnone size-full wp-image-3887" /></a><br />
 タイトル、ノートブック、タグと全て指定通りに、Gmailに届いたカタチをそのままEvernoteへ転送することが出来ました。<br />
 これで明日から<strong>自動で指定したノートブックに届きます</strong>。<br />
 <strong>11月9日追記：試したメールでは改行が入りましたが、後日Gmailからの転送メールをEvernoteで見たところ改行が入りませんでした。<br />

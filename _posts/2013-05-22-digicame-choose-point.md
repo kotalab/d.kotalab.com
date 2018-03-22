@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7220
-wordpress_url: http://kotalab.com/?p=7220
+wordpress_url: https://kotalab.com/?p=7220
 date: '2013-05-22 19:00:59 +0900'
 date_gmt: '2013-05-22 10:00:59 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - D7000
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/digicame_130522-448x297.jpg" alt="digicame_130522" width="448" height="297" class="alignnone size-large wp-image-7221" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/digicame_130522-448x297.jpg" alt="digicame_130522" width="448" height="297" class="alignnone size-large wp-image-7221" /><br />
 写真を撮るのが楽しいです。こたら（@kotala_b）です。<br />
 先週NikonのD7000というデジタル一眼レフカメラを購入しました。<br />
 僕がこのカメラを買う時に気にしたのは、持った時の重さでした。</p>
@@ -57,5 +57,5 @@ comments: []
 デジタルカメラを始めようとして買う最初の1台は、<strong>気軽に取れる持ち運びやすいモノ</strong>。<br />
 写真を撮る楽しさを覚えた最初の1台という意味では、僕はiPhoneが最初の1台だったのかも知れません。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/take-a-picture" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="デジタル一眼レフで写真をうまく撮る撮り方。 | kotala's note" width="150" /></a><a href="http://kotalab.com/take-a-picture" target="_blank">デジタル一眼レフで写真をうまく撮る撮り方。 | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/want-digicame" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note" width="150" /></a><a href="http://kotalab.com/want-digicame" target="_blank">「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/take-a-picture" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="デジタル一眼レフで写真をうまく撮る撮り方。 | kotala's note" width="150" /></a><a href="https://kotalab.com/take-a-picture" target="_blank">デジタル一眼レフで写真をうまく撮る撮り方。 | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/want-digicame" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note" width="150" /></a><a href="https://kotalab.com/want-digicame" target="_blank">「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note</a><br style="clear:both;" /></p>

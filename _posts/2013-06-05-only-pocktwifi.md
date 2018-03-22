@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7376
-wordpress_url: http://kotalab.com/?p=7376
+wordpress_url: https://kotalab.com/?p=7376
 date: '2013-06-05 17:03:11 +0900'
 date_gmt: '2013-06-05 08:03:11 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - EMOBILE
 comments: []
 ---
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130605170309.jpg" width="448" height="297" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130605170309.jpg" width="448" height="297" /><br />
 iPhone5はWifiだけで運用しています。こたら（@kotala_b）です。<br />
 使っているのはEMOBILEのPocketWifi「GL04P」。<br />
 この機種の特徴としては約10時間の連続通信時間が可能という点です。<br />
@@ -47,7 +47,7 @@ iPhoneを使う時間が多いと、帰り道の途中にバッテリーが切�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>PocketWifiだけで過ごすメリット</h2>
-<p><img alt="" src="http://kotalab.com/wp-content/uploads/slooProImg_20130605170308.jpg" width="448" height="230" /><br />
+<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130605170308.jpg" width="448" height="230" /><br />
 ・MacBook AirやiPadなど別端末でもPocketWifiを使うなら、iPhoneの通信費を安く済ませられる。<br />
 SoftBankの場合はそうもいきませんが、auでは通信プランを外すことが出来るので、安くというか0円で運用出来ます。<br />
 僕はWifi版のiPadminiやMacBook Airも使うので外出中はPocketWifi1つで運用しています。<br />
@@ -75,5 +75,5 @@ EMOBILEにも制限はあることはあるんですが、他社とは異なり�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/gl04p-update" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/gl04pupdate_121205.jpg" alt="EMOBILEのPocketwifi「GL04P」をアップデートする方法！ファームウェアアップデートで接続時間を伸ばそう！ | kotala's note" width="150" /></a><a href="http://kotalab.com/gl04p-update" target="_blank">EMOBILEのPocketwifi「GL04P」をアップデートする方法！ファームウェアアップデートで接続時間を伸ばそう！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/gl04p-battery" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20120926062036.jpg" alt="EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！ | kotala's note" width="150" /></a><a href="http://kotalab.com/gl04p-battery" target="_blank">EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/gl04p-update" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/gl04pupdate_121205.jpg" alt="EMOBILEのPocketwifi「GL04P」をアップデートする方法！ファームウェアアップデートで接続時間を伸ばそう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/gl04p-update" target="_blank">EMOBILEのPocketwifi「GL04P」をアップデートする方法！ファームウェアアップデートで接続時間を伸ばそう！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/gl04p-battery" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20120926062036.jpg" alt="EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/gl04p-battery" target="_blank">EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！ | kotala's note</a><br style="clear:both;" /></p>

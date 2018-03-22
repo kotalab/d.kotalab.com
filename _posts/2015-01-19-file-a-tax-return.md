@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13852
-wordpress_url: http://kotalab.com/?p=13852
+wordpress_url: https://kotalab.com/?p=13852
 date: '2015-01-19 07:30:19 +0900'
 date_gmt: '2015-01-18 22:30:19 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - 所得税
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/file-a-tax-return_20150119_01-780x626.jpg" alt="file-a-tax-return_20150119_01" width="780" height="626" class="aligncenter size-large wp-image-13854" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/file-a-tax-return_20150119_01-780x626.jpg" alt="file-a-tax-return_20150119_01" width="780" height="626" class="aligncenter size-large wp-image-13854" /><br />
 <strong>2015年の確定申告の期間は2月16日（月）から3月16日（月）まで。</strong></p>
 <p>もしこの期間を過ぎてしまうと税金を多く支払う必要があったり、戻ってくるはずのお金が戻ってこなかったりと悪いことしかない。</p>
 <p>じゃあどんな人が確定申告しなきゃいけないのか。<br />
@@ -57,12 +57,12 @@ via:<a href="http://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/hajimete.ht
 など<br />
 via:<a href="http://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/hajimete.htm" target="_blank">初めて確定申告される方：平成26年分 確定申告特集</a><a href="http://b.hatena.ne.jp/entry/http://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/hajimete.htm" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://www.nta.go.jp/tetsuzuki/shinkoku/shotoku/tokushu/hajimete.htm" alt="" /></a></p></blockquote>
 <p>還付申告といって、払いすぎた税金を返して欲しいということを税務署に申請することができる。<br />
-多額の医療費を支出したときには<a href="http://kotalab.com/medical-deduction">医療費控除</a>が受けられる。<br />
+多額の医療費を支出したときには<a href="https://kotalab.com/medical-deduction">医療費控除</a>が受けられる。<br />
 また、特定の寄附をしたときというのは<span class="b">ふるさと納税</span>がそれにあたる。</p>
 <p>確定申告しなくてもいいけどした方がいい人と書いたのは、還付申告って実は申告しなくてもいい。<br />
 ただし、還付申告しなかったら戻ってくるはずの税金は戻ってはこない。</p>
 <h3>来年の確定申告の準備は今から始まっている</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/file-a-tax-return_20150119_02-780x438.jpg" alt="file-a-tax-return_20150119_02" width="780" height="438" class="aligncenter size-large wp-image-13853" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/file-a-tax-return_20150119_02-780x438.jpg" alt="file-a-tax-return_20150119_02" width="780" height="438" class="aligncenter size-large wp-image-13853" /><br />
 医療費控除やふるさと納税などの寄付の申告には、領収書の提出が必要となる。<br />
 今年提出分があるのに準備がまだな人は今から頑張ってかき集めよう。</p>
 <p>来年以降も同じように申請する可能性は誰にでもあるので、今のうちから来年の準備をしておくこと。<br />

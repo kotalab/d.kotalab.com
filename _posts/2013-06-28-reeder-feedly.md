@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7678
-wordpress_url: http://kotalab.com/?p=7678
+wordpress_url: https://kotalab.com/?p=7678
 date: '2013-06-28 23:00:46 +0900'
 date_gmt: '2013-06-28 14:00:46 +0900'
 category:
@@ -23,24 +23,24 @@ tags:
 - 移行
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="reeder_130628" width="300" height="300" class="alignnone size-medium wp-image-7686" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="reeder_130628" width="300" height="300" class="alignnone size-medium wp-image-7686" /><br />
 Reederが好きです。こたら（@kotala_b）です。<br />
 Googleリーダーは7月1日でサービス終了となります。<br />
 みなさんはGoogleリーダーからの移行先が見つかりましたか？<br />
 僕は今まで通りRSSはReederで読む予定です。<br />
 Googleリーダーからの移行がまだ終わっていない方、まだ移行先を決めかねている方もデータだけは保存しておきましょう。<br />
 RSSデータの保存方法はこちら<br />
-<a href="http://kotalab.com/change-googlereader" target="_blank"><img class="alignleft" src="http://kotalab.com/wp-content/uploads/rss_121210-448x336.jpg" alt="Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note" width="150" /></a><a href="http://kotalab.com/change-googlereader" target="_blank">Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/change-googlereader" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/rss_121210-448x336.jpg" alt="Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/change-googlereader" target="_blank">Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note</a><br style="clear:both;" /><br />
 <!--more--></p>
 <h2>オススメRSSリーダーはReeder</h2>
 <p>僕のイチオシRSSリーダーはiPhoneアプリのReederです。<br />
-<a href="http://kotalab.com/app-reeder-local-rss" target="_blank"><img class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="http://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" />単独でRSSの登録ができますし、SNSへのシェアやPocketへの追加など僕が欲しい機能が入ってます。<br />
+<a href="https://kotalab.com/app-reeder-local-rss" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="https://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" />単独でRSSの登録ができますし、SNSへのシェアやPocketへの追加など僕が欲しい機能が入ってます。<br />
 そしてなんといってもフリックで出来るシンプルな操作性がお気に入り。<br />
 そんなReederですが、残念な点があります。<br />
 <strong>最大の欠点はiPhone、iPad、Mac向けにアプリがあるにも関わらず、ローカルRSSは各アプリ間で連携が取れないこと。</strong><br />
 しかも今はまだローカルRSSに対応しているのは現在iPhoneアプリだけなので、RSSの登録や編集ができるのもiPhoneアプリだけ。<br />
 ただし<strong>iPhoneだけでRSSチェックする場合には何も問題はありません。</strong><br />
-<a href="http://kotalab.com/app-reeder-for-ipad-mac-free" target="_blank"><img class="alignleft" src="http://kotalab.com/wp-content/uploads/reeder_121108.png" alt="Googleリーダーが終わってもReederは終わらない！期間限定でReederのiPad版Mac版がダウンロードが無料です！ | kotala's note" width="150" /></a><a href="http://kotalab.com/app-reeder-for-ipad-mac-free" target="_blank">Googleリーダーが終わってもReederは終わらない！期間限定でReederのiPad版Mac版がダウンロードが無料です！ | kotala's note</a><br style="clear:both;" />iPadとMacのReederアプリはバージョンアップに期待という状態。<br />
+<a href="https://kotalab.com/app-reeder-for-ipad-mac-free" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/reeder_121108.png" alt="Googleリーダーが終わってもReederは終わらない！期間限定でReederのiPad版Mac版がダウンロードが無料です！ | kotala's note" width="150" /></a><a href="https://kotalab.com/app-reeder-for-ipad-mac-free" target="_blank">Googleリーダーが終わってもReederは終わらない！期間限定でReederのiPad版Mac版がダウンロードが無料です！ | kotala's note</a><br style="clear:both;" />iPadとMacのReederアプリはバージョンアップに期待という状態。<br />
 7月1日までにバージョンアップが間に合わないようで、7月1日以降はAppStoreからiPad、Macアプリが消えてしまうそうです。<br />
 現在はダウンロードが無料なので、今のうちにダウンロードしておくのも一つの手だと思います。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid439845554%253Fmt%253D12%2526uo%253D4"><img src="http://a4.mzstatic.com/us/r1000/103/Purple/v4/14/a7/79/14a779ba-6d57-7d80-8416-a08b8c0e579f/reeder.512x512-75.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
@@ -113,4 +113,4 @@ ReederのローカルRSSに頼らず、どの端末からでもRSSが読める�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/change-googlereader" target="_blank"><img class="alignleft" src="http://kotalab.com/wp-content/uploads/rss_121210-448x336.jpg" alt="Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note" width="150" /></a><a href="http://kotalab.com/change-googlereader" target="_blank">Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/change-googlereader" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/rss_121210-448x336.jpg" alt="Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/change-googlereader" target="_blank">Googleリーダーに登録済みのRSSを移行する方法！移行先を決めかねていてもデータだけは保存しておこう！ | kotala's note</a><br style="clear:both;" /></p>

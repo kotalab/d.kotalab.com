@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7018
-wordpress_url: http://kotalab.com/?p=7018
+wordpress_url: https://kotalab.com/?p=7018
 date: '2013-05-06 12:13:35 +0900'
 date_gmt: '2013-05-06 03:13:35 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - Reeder
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/pocket_130506.png" alt="pocket_130506" width="357" height="210" class="alignnone size-full wp-image-7027" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/pocket_130506.png" alt="pocket_130506" width="357" height="210" class="alignnone size-full wp-image-7027" /><br />
 Pocketを再び使い始めています。@kotala_bです。<br />
 気になった記事を「後で読む」サービスとして代表格のPocket。<br />
 「後で読む」に追加しても「なかなか後で読まない」ことが問題で一時期Pocketの使用を止めていました。<br />
@@ -54,17 +54,17 @@ Pocketに集約しておけばいつでも読みたい時に読めるのです�
 <h2>ReederからPocketに保存する方法</h2>
 <p>まずはReederにPocketのアカウントを登録します。<br />
 ▼Settingsを開きSharingServicesからPocketを選びます。<br />
-<img src="http://kotalab.com/wp-content/uploads/pocket_130506_01-300x513.jpg" alt="pocket_130506_01" width="300" height="513" class="alignnone size-medium wp-image-7025" /><br />
+<img src="https://kotalab.com/wp-content/uploads/pocket_130506_01-300x513.jpg" alt="pocket_130506_01" width="300" height="513" class="alignnone size-medium wp-image-7025" /><br />
 ▼Pocketの設定画面が開くので「ON」にしてPocketアカウントでサインインします。<br />
-<img src="http://kotalab.com/wp-content/uploads/pocket_130506_02-300x513.jpg" alt="pocket_130506_02" width="300" height="513" class="alignnone size-medium wp-image-7023" /><br />
+<img src="https://kotalab.com/wp-content/uploads/pocket_130506_02-300x513.jpg" alt="pocket_130506_02" width="300" height="513" class="alignnone size-medium wp-image-7023" /><br />
 これでReederからPocketに送れるようになりました。</p>
 <h2>ReederからPocketに簡単に保存方法</h2>
 <p>ReederではRSSフィードをスワイプ操作で簡単に既読にしたりスターをつけたりということが出来ます。<br />
 この設定を変えることでPocketへ送る動作もスワイプで済むようになります。<br />
 ▼設定方法はSettingsのAppSettingsを開き、ArticleListの設定を「Send to Pocket」に変更します。<br />
-<img src="http://kotalab.com/wp-content/uploads/pocket_130506_03-300x513.jpg" alt="pocket_130506_03" width="300" height="513" class="alignnone size-medium wp-image-7024" /><br />
+<img src="https://kotalab.com/wp-content/uploads/pocket_130506_03-300x513.jpg" alt="pocket_130506_03" width="300" height="513" class="alignnone size-medium wp-image-7024" /><br />
 ▼このようなタイトルが並ぶ画面でスワイプ操作するだけで簡単にPocketへ送ることが出来るようになります。<br />
-<img src="http://kotalab.com/wp-content/uploads/pocket_130506_04-300x513.jpg" alt="pocket_130506_04" width="300" height="513" class="alignnone size-medium wp-image-7026" /></p>
+<img src="https://kotalab.com/wp-content/uploads/pocket_130506_04-300x513.jpg" alt="pocket_130506_04" width="300" height="513" class="alignnone size-medium wp-image-7026" /></p>
 <h2>最後に</h2>
 <p>Pocketを快適に使う方法のご紹介でした。<br />
 ReederとPocketを使っている方は是非お試しください！<br />
@@ -90,4 +90,4 @@ Pocketへの追加が捗ります！</p>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/app-reeder-local-rss" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="http://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/app-reeder-local-rss" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="https://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" /></p>

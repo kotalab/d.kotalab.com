@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14592
-wordpress_url: http://kotalab.com/?p=14592
+wordpress_url: https://kotalab.com/?p=14592
 date: '2015-06-11 08:15:46 +0900'
 date_gmt: '2015-06-10 23:15:46 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - 立花岳志
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/blogfes_131021-546x409.jpg" alt="blogfes_131021" width="546" height="409" class="aligncenter size-large wp-image-10004" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/blogfes_131021-546x409.jpg" alt="blogfes_131021" width="546" height="409" class="aligncenter size-large wp-image-10004" /></p>
 <p>自分の好きなことだけでお金を稼ぎ、生きていけたらなんて素晴らしいんだろう。<br />
 僕はそう思っています。</p>
 <p>そんな夢のような話がありえるのかという疑問があるかもしれません。<br />
@@ -68,5 +68,5 @@ via:<a href="http://www.amazon.co.jp/exec/obidos/asin/B00L8GABLS/same-22/" rel="
 <p>[dailynew]<br />
 ・昼休みに大手町を散歩<br />
 ・なぜかうまくいく人の「聞く」技術を読む</p>
-<p><a href="http://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

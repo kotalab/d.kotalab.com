@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7715
-wordpress_url: http://kotalab.com/?p=7715
+wordpress_url: https://kotalab.com/?p=7715
 date: '2013-07-02 20:39:41 +0900'
 date_gmt: '2013-07-02 11:39:41 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - Feedly
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/reeder_130702-448x381.jpg" alt="reeder_130702" width="448" height="381" class="alignnone size-large wp-image-7717" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/reeder_130702-448x381.jpg" alt="reeder_130702" width="448" height="381" class="alignnone size-large wp-image-7717" /><br />
 RSSはReederで読んでます。こたら（@kotala_b）です。<br />
 Googleリーダーに登録してあるRSSをReederで読んでいました。<br />
 7月1日にGoogleリーダーのサービスが終了ということで、各RSSアプリが様々な対応をしていきました。<br />
@@ -31,15 +31,15 @@ Googleリーダーに登録してあるRSSをReederで読んでいました。<b
 <!--more--></p>
 <h2>Googleリーダー終了のお知らせ後のRSS</h2>
 <p>サービス終了の知らせを聞いてからはRSSをReederのローカルRSSに移して読んでいました。<br />
-<a href="http://kotalab.com/app-reeder-local-rss" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="http://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" />このローカルRSSにはデメリットがあって、iPhoneアプリのReederでしか読めないのです。<br />
+<a href="https://kotalab.com/app-reeder-local-rss" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="https://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" />このローカルRSSにはデメリットがあって、iPhoneアプリのReederでしか読めないのです。<br />
 iPhoneでしかRSSを読まないのであれば何も問題はありません。<br />
 たまにMacBook AirやiPadminiでも見たい時があったので、同期が出来ないことは不便に感じていました。</p>
 <h2>ReederがFeedly対応を発表</h2>
 <p>そんな中、ReederからFeedlyに対応することが発表されました。<br />
 ローカルRSSのデメリットを解消するために、僕はGoogleリーダーからFeedlyへデータを移行させました。<br />
-<a href="http://kotalab.com/reeder-feedly" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note" width="150" /></a><a href="http://kotalab.com/reeder-feedly" target="_blank">Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note</a><br style="clear:both;" />ReederがFeedlyに対応するということで、対応バージョンを待たずに移行させたのでした。<br />
+<a href="https://kotalab.com/reeder-feedly" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note" width="150" /></a><a href="https://kotalab.com/reeder-feedly" target="_blank">Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note</a><br style="clear:both;" />ReederがFeedlyに対応するということで、対応バージョンを待たずに移行させたのでした。<br />
 そして今日、ReederのiPhoneアプリのアップデートがありFeedlyの読み込みが可能になったのです。<br />
-<img src="http://kotalab.com/wp-content/uploads/reeder_130702_01-448x401.jpg" alt="reeder_130702_01" width="448" height="401" class="alignnone size-large wp-image-7716" /></p>
+<img src="https://kotalab.com/wp-content/uploads/reeder_130702_01-448x401.jpg" alt="reeder_130702_01" width="448" height="401" class="alignnone size-large wp-image-7716" /></p>
 <h2>残すはiPadアプリとMacアプリのみ</h2>
 <p>ReederがFeedlyからRSSを読み込めるようになったので、ローカルRSSは不要になりました。<br />
 これからはFeedlyをRSSの基盤として使い、Reederを使ってRSSを読んでいこうと思います。<br />
@@ -58,5 +58,5 @@ iPadアプリとMacアプリのアップデートがあれば、どの端末か�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/app-reeder-local-rss" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="http://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="http://kotalab.com/reeder-feedly" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note" width="150" /></a><a href="http://kotalab.com/reeder-feedly" target="_blank">Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/app-reeder-local-rss" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="https://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="https://kotalab.com/reeder-feedly" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/reeder_130628-300x300.jpg" alt="Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note" width="150" /></a><a href="https://kotalab.com/reeder-feedly" target="_blank">Reederユーザーへ送るGoogleリーダーからの移行先。まずはFeedlyへ移行すべし！ | kotala's note</a><br style="clear:both;" /></p>

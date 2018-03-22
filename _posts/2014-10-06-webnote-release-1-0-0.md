@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13376
-wordpress_url: http://kotalab.com/?p=13376
+wordpress_url: https://kotalab.com/?p=13376
 date: '2014-10-06 08:00:11 +0900'
 date_gmt: '2014-10-05 23:00:11 +0900'
 category:
@@ -23,29 +23,29 @@ tags:
 - WebNoteアップデート情報
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/app-release_140824.jpg" alt="app-release_140824" width="1280" height="960" class="aligncenter size-full wp-image-13380" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/app-release_140824.jpg" alt="app-release_140824" width="1280" height="960" class="aligncenter size-full wp-image-13380" /><br />
 WebページのタイトルとURLにメモを追記して送れるiPhoneアプリ「WebNote」をリリースしました！</p>
 <p>僕の初めてのiPhoneアプリとなる「WebNote」をリリースしたのでお知らせします！</p>
 <p><!--more--></p>
 <h2>WebNoteの特徴</h2>
 <h3>1.見ているWebページのURLとタイトルをサクッとEvernoteに送れる</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/webnote-release-1-0-0_01-300x532.jpg" alt="webnote-release-1-0-0_01" width="300" height="532" class="aligncenter size-medium wp-image-13416" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/webnote-release-1-0-0_01-300x532.jpg" alt="webnote-release-1-0-0_01" width="300" height="532" class="aligncenter size-medium wp-image-13416" /><br />
 僕は気になったWebページをよくEvernoteに送るんですが、iPhoneだけでEvernoteに送るのって意外とめんどくさいんです。<br />
 URLをコピーして貼付けて、URLだけじゃわからなくなるのでタイトルを入れたりメモを書いたり。</p>
 <p>どんなページを送るにしても、URLは必須だしページのタイトルをそのままノートのタイトルにするので、「そういうアプリを自分で作っちゃえ！」ということで開発することにしました。</p>
 <p>WebクリップじゃなくてタイトルとURLにメモを書いてEvernoteに送る。<br />
 そんなアプリです。<br />
-<img src="http://kotalab.com/wp-content/uploads/webnote-release-1-0-0_03-300x532.jpg" alt="webnote-release-1-0-0_03" width="300" height="532" class="aligncenter size-medium wp-image-13415" /><br />
+<img src="https://kotalab.com/wp-content/uploads/webnote-release-1-0-0_03-300x532.jpg" alt="webnote-release-1-0-0_03" width="300" height="532" class="aligncenter size-medium wp-image-13415" /><br />
 「見てるページから1タップでページのタイトルとURLを自動で書き出して、あとはメモを追記するだけ」そんなアプリです。<br />
-<img src="http://kotalab.com/wp-content/uploads/webnote-release-1-0-0_05-300x532.jpg" alt="webnote-release-1-0-0_05" width="300" height="532" class="aligncenter size-medium wp-image-13417" /></p>
+<img src="https://kotalab.com/wp-content/uploads/webnote-release-1-0-0_05-300x532.jpg" alt="webnote-release-1-0-0_05" width="300" height="532" class="aligncenter size-medium wp-image-13417" /></p>
 <h3>2.他のアプリで見てたページもサクッと送れる</h3>
 <p>FacebookとかTwitterのタイムラインに流れてくるページをEvernoteに保存したいって時もあります。<br />
 そんな時も「WebNote」を開くだけでメモを書き足して送れます！<br />
-<img src="http://kotalab.com/wp-content/uploads/webnote-release-1-0-0_04-300x532.jpg" alt="webnote-release-1-0-0_04" width="300" height="532" class="aligncenter size-medium wp-image-13418" /><br />
+<img src="https://kotalab.com/wp-content/uploads/webnote-release-1-0-0_04-300x532.jpg" alt="webnote-release-1-0-0_04" width="300" height="532" class="aligncenter size-medium wp-image-13418" /><br />
 他のアプリで見ていたページのURLをコピーして、「WebNote」を開きます。</p>
 <p>すると、メッセージが出てくるので「メモを書く」を選ぶとメモを書く画面になります。</p>
 <h3>3.タグをつけてサクッと送れる</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/webnote-release-1-0-0_02-300x532.jpg" alt="webnote-release-1-0-0_02" width="300" height="532" class="aligncenter size-medium wp-image-13414" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/webnote-release-1-0-0_02-300x532.jpg" alt="webnote-release-1-0-0_02" width="300" height="532" class="aligncenter size-medium wp-image-13414" /><br />
 WebNoteを使い始めてから、僕はタグだけをつけてサクッとノートを送信するようになりました。</p>
 <p>ページのタイトルとURLが自動でノートに入ってるのであとは「レシピ」とか「行きたい場所」とかのタグだけをつけるだけ。<br />
 たったそれだけで自分だけの資料が簡単に作れちゃいます！</p>

@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4514
-wordpress_url: http://kotalab.com/?p=4514
+wordpress_url: https://kotalab.com/?p=4514
 date: '2012-12-03 11:56:47 +0900'
 date_gmt: '2012-12-03 02:56:47 +0900'
 category:
@@ -32,7 +32,7 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/kamiapp_121203.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/kamiapp_121203-448x319.jpg" alt="" title="kamiapp_121203" width="448" height="319" class="alignnone size-large wp-image-4521" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/kamiapp_121203.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kamiapp_121203-448x319.jpg" alt="" title="kamiapp_121203" width="448" height="319" class="alignnone size-large wp-image-4521" /></a><br />
 便利なアプリが大好きです。@kotala_bです。<br />
 こんな企画があったので参加したいと思います！<br />
 <a href="http://crossmodelife.com/2012/11/27/2680/" target="_blank"><img  class="alignleft" src="http://capture.heartrails.com/150x130?http://crossmodelife.com/2012/11/27/2680/" alt="〈企画〉あなたにとっての神アプリを教えてください。#my_kamiapp | iPhoneアプリ紹介 | Cross Mode Life" width="150" height="130" /></a><a href="http://crossmodelife.com/2012/11/27/2680/" target="_blank">〈企画〉あなたにとっての神アプリを教えてください。#my_kamiapp | iPhoneアプリ紹介 | Cross Mode Life</a><a href="http://b.hatena.ne.jp/entry/http://crossmodelife.com/2012/11/27/2680/" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://crossmodelife.com/2012/11/27/2680/" alt="" /></a><br style="clear:both;" /><br />
@@ -57,7 +57,7 @@ comments: []
 さらに<strong>iPadmini</strong>で書いた内容を<strong>iPhone5</strong>で開くことやその逆も出来てとっても便利です！<br />
 iPadminiを買ってから増々使用頻度が上がりました！<br />
 以前にも紹介しました。<br />
-<a href="http://kotalab.com/draftpad-free" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/draftpad_120907.jpg" alt="DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note" width="150" /></a><a href="http://kotalab.com/draftpad-free" target="_blank">DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note</a><br style="clear:both;" />これで無料なのが本当に信じられません！</p>
+<a href="https://kotalab.com/draftpad-free" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/draftpad_120907.jpg" alt="DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note" width="150" /></a><a href="https://kotalab.com/draftpad-free" target="_blank">DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note</a><br style="clear:both;" />これで無料なのが本当に信じられません！</p>
 <h3>Textexpander</h3>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Ftextexpander%252Fid326180690%253Fmt%253D8%2526uo%253D4"><img src="http://a1820.phobos.apple.com/us/r1000/120/Purple/v4/d0/b3/c3/d0b3c34f-fe31-7646-19bc-e4c2d8e10c7d/mzm.akbkdpbu.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
@@ -87,7 +87,7 @@ MacBookAirでもiPhone5でもiPadminiでも使用しています！<br />
 <p>カメラロールの写真を他のアプリへ送信するアプリ。<br />
 僕はこのアプリを使って一日に撮った写真をまとめてEvernoteへアップロードし、ライフログとして貯めています。<br />
 このアプリは僕がiPhoneにしてから初めて買ったアプリでもあります！<br />
-<a href="http://kotalab.com/my-first-app" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/iphone_01.jpg" alt="iPhoneを買って真っ先に入れたアプリ#myfirstapp | kotala's note" width="150" /></a><a href="http://kotalab.com/my-first-app" target="_blank">iPhoneを買って真っ先に入れたアプリ#myfirstapp | kotala's note</a><br style="clear:both;" />買ってから今日までずっとホーム画面に張り付いております！<br />
+<a href="https://kotalab.com/my-first-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iphone_01.jpg" alt="iPhoneを買って真っ先に入れたアプリ#myfirstapp | kotala's note" width="150" /></a><a href="https://kotalab.com/my-first-app" target="_blank">iPhoneを買って真っ先に入れたアプリ#myfirstapp | kotala's note</a><br style="clear:both;" />買ってから今日までずっとホーム画面に張り付いております！<br />
 スゴい便利！！</p>
 <h3>MergeEver</h3>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmergeever-evernotenonotowomaji%252Fid538412128%253Fmt%253D8%2526uo%253D4"><img src="http://a1780.phobos.apple.com/us/r1000/112/Purple/v4/e1/a7/86/e1a786ea-163c-c532-8b46-63d41b8d3df0/mzm.kwpcekia.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
@@ -116,7 +116,7 @@ Evernoteに送った各種ライフログを一つのノートにまとめる為
 </div>
 <p>検索、ランチャーアプリ！<br />
 入れてからずっとドックに張り付いております！<br />
-<a href="http://kotalab.com/seeq-sale" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/seeq_20121110.png" alt="Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！ | kotala's note" width="150" /></a><a href="http://kotalab.com/seeq-sale" target="_blank">Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！ | kotala's note</a><br style="clear:both;" />このアプリのおかげでホーム画面がだいぶスッキリしました！</p>
+<a href="https://kotalab.com/seeq-sale" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/seeq_20121110.png" alt="Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！ | kotala's note" width="150" /></a><a href="https://kotalab.com/seeq-sale" target="_blank">Seeqが待望のリリース！難しいことがわからなくてもリリース記念セール中の今が買い！ | kotala's note</a><br style="clear:both;" />このアプリのおかげでホーム画面がだいぶスッキリしました！</p>
 <h3>Due</h3>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4"><img src="http://a1127.phobos.apple.com/us/r1000/083/Purple/v4/09/e8/6c/09e86c7f-acc1-f73d-7198-f1dc29e5d99b/mzm.sivkbxum.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
@@ -130,7 +130,7 @@ Evernoteに送った各種ライフログを一つのノートにまとめる為
 </div>
 <p>通知がしつこいのがウリ！<br />
 以前にも紹介しました。<br />
-<a href="http://kotalab.com/due-urlscheme" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/due_120912.jpg" alt="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note" width="150" /></a><a href="http://kotalab.com/due-urlscheme" target="_blank">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note</a><br style="clear:both;" />ついつい忘れがちなことを登録しておくと大変便利です！</p>
+<a href="https://kotalab.com/due-urlscheme" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note" width="150" /></a><a href="https://kotalab.com/due-urlscheme" target="_blank">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note</a><br style="clear:both;" />ついつい忘れがちなことを登録しておくと大変便利です！</p>
 <h3>カウントダウンカレンダー</h3>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkauntodaun-karenda-canri-shi%252Fid377342372%253Fmt%253D8%2526uo%253D4"><img src="http://a1156.phobos.apple.com/us/r1000/107/Purple/v4/15/2f/f4/152ff43f-e847-a2d2-839d-39218b8a7fef/mzl.lvqxjxvr.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
@@ -145,7 +145,7 @@ Evernoteに送った各種ライフログを一つのノートにまとめる為
 <p>こちらも通知系のアプリ。<br />
 カウントダウンカレンダーはカレンダーの予定が近づくと教えてくれるアプリです。<br />
 このアプリも以前紹介しました。<br />
-<a href="http://kotalab.com/count-down-cal" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/countdowncal_121125-448x448.png" alt="予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！ | kotala's note" width="150" /></a><a href="http://kotalab.com/count-down-cal" target="_blank">予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！ | kotala's note</a><br style="clear:both;" />iPhoneのカレンダーに予定を登録した時点で、自動的に予定を共有してくれて面倒くささが全くないのがいいところ！</p>
+<a href="https://kotalab.com/count-down-cal" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/countdowncal_121125-448x448.png" alt="予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！ | kotala's note" width="150" /></a><a href="https://kotalab.com/count-down-cal" target="_blank">予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！ | kotala's note</a><br style="clear:both;" />iPhoneのカレンダーに予定を登録した時点で、自動的に予定を共有してくれて面倒くささが全くないのがいいところ！</p>
 <h3>OneCam</h3>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="http://click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fonecam-jing-yin-lian-xie-jiotagu%252Fid422845617%253Fmt%253D8%2526uo%253D4"><img src="http://a1465.phobos.apple.com/us/r1000/073/Purple/v4/a4/85/24/a485243c-4b08-4662-e53d-a977191707e4/mzm.jycfbavq.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">

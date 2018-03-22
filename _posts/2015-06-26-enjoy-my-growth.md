@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14677
-wordpress_url: http://kotalab.com/?p=14677
+wordpress_url: https://kotalab.com/?p=14677
 date: '2015-06-26 08:25:05 +0900'
 date_gmt: '2015-06-25 23:25:05 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - Swift
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/01/bloggers-worries_20150117-780x438.jpg" alt="bloggers-worries_20150117" width="780" height="438" class="aligncenter size-large wp-image-13846" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/01/bloggers-worries_20150117-780x438.jpg" alt="bloggers-worries_20150117" width="780" height="438" class="aligncenter size-large wp-image-13846" /></p>
 <p>ちょっとしたことでも自分の成長がわかると途端に楽しくなります。<br />
 「この前できなかったことが少しだけうまくいくようになった！」<br />
 「なんか楽しくなってきた！もうちょっとやってみよう！」</p>
@@ -44,7 +44,7 @@ comments: []
 <p><strong>ちょっとずつ自分ができるようになることが増えていくことが目に見えてわかるので、すごく楽しいです。</strong></p>
 <p>大変なことも沢山ありますけど、僕にとってはそれ以上に楽しいことの方が沢山あります。</p>
 <h2>さいごに</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/bloger-app-event_140301_03.jpg" alt="bloger-app-event_140301_03" width="780" class="aligncenter size-large wp-image-11033" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/bloger-app-event_140301_03.jpg" alt="bloger-app-event_140301_03" width="780" class="aligncenter size-large wp-image-11033" /><br />
 <span style="font-size:14px;">※アプリ開発体験会の時の様子。派手な髪の毛の人が講師のあきおさんです。</span></p>
 <p>僕がiPhoneアプリ開発を始めた最初の一歩、「<a href="http://peatix.com/event/98924/" target="_blank">iPhoneアプリ開発体験会</a>」がまた近々開催されるようです。</p>
 <p>興味がある方は参加されてみてはいかがでしょう？</p>
@@ -52,8 +52,8 @@ comments: []
 Swiftというプログラミング言語を使って、簡単なアプリの開発レクチャーを行います。<br />
 via:<a href="http://peatix.com/event/98924/" target="_blank">第5回 iPhoneアプリ開発体験会</a></p>
 </blockquote>
-<p>参考：<a href="http://kotalab.com/bloger-app-event">僕がiPhoneアプリ開発体験会に参加した時の様子</a></p>
+<p>参考：<a href="https://kotalab.com/bloger-app-event">僕がiPhoneアプリ開発体験会に参加した時の様子</a></p>
 <p>[dailynew]<br />
 ・曙橋の中華料理店</p>
-<p><a href="http://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14857
-wordpress_url: http://kotalab.com/?p=14857
+wordpress_url: https://kotalab.com/?p=14857
 date: '2015-09-11 07:30:27 +0900'
 date_gmt: '2015-09-10 22:30:27 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - MacBook
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911.png" alt="Compare ipadpro macbook 20150911" width="780" height ="405" class="aligncenter size-large" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911.png" alt="Compare ipadpro macbook 20150911" width="780" height ="405" class="aligncenter size-large" /><br />
 <span style="font-size:14px;">via:<a href="http://www.apple.com/jp/ipad/" target="_blank">http://www.apple.com/jp/ipad/</a></span></p>
 <p>日本時間の9月10日午前2時すぎ開催されたAppleのイベント「September Event2015」でiPadの新型、iPad Proが発表されました。</p>
 <p>11月発売予定のiPad Proは12.9インチのRetinaディスプレイを搭載し、iPad Air2の2倍近いCPUパフォーマンスだそうです。</p>
@@ -72,7 +72,7 @@ comments: []
 <p>32GBではありますが、100,000円以下で買えるのはiPad Pro</p>
 <p>iPad Proの方はApplePencilとSmartKeyboardが別売りなので、セットでプラス30,000円くらいはみといた方がよさそうです。</p>
 <h2>ストレージ容量で選ぶならMacBook</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_03.png" alt="Compare ipadpro macbook 20150911 03" width="780" height ="481" class="aligncenter size-large" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_03.png" alt="Compare ipadpro macbook 20150911 03" width="780" height ="481" class="aligncenter size-large" /><br />
 <span style="font-size:14px;">via:<a href="http://www.apple.com/jp/macbook/" target="_blank">http://www.apple.com/jp/macbook/</a></span></p>
 <table class="ipadpro">
 <thead>
@@ -185,7 +185,7 @@ comments: []
 </ul>
 <p>MacBookにはどれもありません。</p>
 <h2>カメラで選ぶならiPad Pro</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_04.png" alt="Compare ipadpro macbook 20150911 04" width="780" height ="440" class="aligncenter size-large" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_04.png" alt="Compare ipadpro macbook 20150911 04" width="780" height ="440" class="aligncenter size-large" /><br />
 <span style="font-size:14px;">via:<a href="http://www.apple.com/jp/ipad/" target="_blank">http://www.apple.com/jp/ipad/</a></span></p>
 <p>iPad Proには1200万画素の背面カメラに800万画素の前面カメラがついています。<br />
 バーストモードやパノラマ撮影、動画撮影ができるのはiPad Proだけ。</p>
@@ -197,7 +197,7 @@ comments: []
 <p>iPad Proにはカーソルを動かして操作するという概念がありません。<br />
 マウスでカーソルを動かせるのはMacBookです。</p>
 <h2>キーボードで選ぶと迷う</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_02.png" alt="Compare ipadpro macbook 20150911 02" width="780" height ="364" class="aligncenter size-large" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_02.png" alt="Compare ipadpro macbook 20150911 02" width="780" height ="364" class="aligncenter size-large" /><br />
 <span style="font-size:14px;">via:<a href="http://www.apple.com/jp/ipad/" target="_blank">http://www.apple.com/jp/ipad/</a></span></p>
 <table class="ipadpro">
 <thead>
@@ -222,7 +222,7 @@ comments: []
 <p>どちらのキーボードも独自の技術を採用しているため比べるのは難しいです。<br />
 キーボードは実際に触って確かめるのが一番かもしれません。</p>
 <h2>Apple Pencilが使えるのはiPad Pro</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_01.png" alt="Compare ipadpro macbook 20150911 01" width="780" height ="560" class="aligncenter size-large" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911_01.png" alt="Compare ipadpro macbook 20150911 01" width="780" height ="560" class="aligncenter size-large" /><br />
 <span style="font-size:14px;">via:<a href="http://www.apple.com/jp/ipad/" target="_blank">http://www.apple.com/jp/ipad/</a></span></p>
 <p>iPad Proなら専用のApple Pencilが使えます。</p>
 <p>Apple Pencilの凄さはこの2分ちょっとの動画を見てもらえれば分かると思います。<br />

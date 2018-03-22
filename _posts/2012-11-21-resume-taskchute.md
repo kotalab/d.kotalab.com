@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 4338
-wordpress_url: http://kotalab.com/?p=4338
+wordpress_url: https://kotalab.com/?p=4338
 date: '2012-11-21 12:31:03 +0900'
 date_gmt: '2012-11-21 03:31:03 +0900'
 category:
@@ -24,11 +24,11 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/taskchute_121121.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/taskchute_121121-448x298.jpg" alt="" title="taskchute_121121" width="448" height="298" class="alignnone size-large wp-image-4342" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/taskchute_121121.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/taskchute_121121-448x298.jpg" alt="" title="taskchute_121121" width="448" height="298" class="alignnone size-large wp-image-4342" /></a><br />
 <span style="font-size:10px;"><a href="http://www.flickr.com/photos/kabacchi/4253256546/" target="_blank">Yokohama Sunrise - 24</a> / Kabacchi</span><br />
 Taskchuteを始めたのは今年の4月11日です。@kotala_bです。<br />
 なんでそんなことが分かるかというとTaskchuteを始めて1ヶ月後にこのブログで感想を書いていたからです。<br />
-<a href="http://kotalab.com/taskchute-1month" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/cal.jpg" alt="Taskchuteを始めてから1ヶ月たった感想 | kotala's note" width="150" /></a><a href="http://kotalab.com/taskchute-1month" target="_blank">Taskchuteを始めてから1ヶ月たった感想 | kotala's note</a><br style="clear:both;" />4月から使っていたTaskchuteですが1度やめていました。<br />
+<a href="https://kotalab.com/taskchute-1month" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/cal.jpg" alt="Taskchuteを始めてから1ヶ月たった感想 | kotala's note" width="150" /></a><a href="https://kotalab.com/taskchute-1month" target="_blank">Taskchuteを始めてから1ヶ月たった感想 | kotala's note</a><br style="clear:both;" />4月から使っていたTaskchuteですが1度やめていました。<br />
 メインとして使っていたWindowsのデスクトップが突然のブルスクや電源が入らなくなるなど不調に陥り、MacBook Airを購入しそれをメインとして使うことに。<br />
 そのときMacBook AirでTaskchuteを使うには少し敷居が高いことと、佐々木正悟さん（@nokibaさん）の著書「<a href="http://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" rel="nofollow" name="booklink" target="_blank">クラウド時代のタスク管理の技術</a>」を読みToodledoとTogglを使ってTaskchuteと同じようなことが出来ると知っていたこともあり、今まで慣れ親しんだTaskchuteからToodledo+Togglという組み合わせに変えていました。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
@@ -56,11 +56,11 @@ Toodledoをタスクリストとして使いTogglを時間管理に使います�
 Taskchuteを始めてから続けていることは大体の時間を把握出来ているのですが、新しいことにはどれくらい時間がかかるのか全くわかっていません。<br />
 そうなると新しいことにどれくらい時間をかけていいものなのか明確にはわからないので、なかなか続けるのが難しかったです。<br />
 やりたいことや新しい習慣がなかなか出来なくてもやもやしていた時に、習慣力とセルフマネジメントというテーマで立花さん（@ttachiさん）のNSLセミナーがあり参加することにしました。<br />
-<a href="http://kotalab.com/nsl-11th" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/nsl11_20121118_01-448x336.jpg" alt="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note" width="150" /></a><a href="http://kotalab.com/nsl-11th" target="_blank">第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note</a><br style="clear:both;" />このセミナーで佐々木正悟さんとお話し出来る機会があり、Taskchuteを再開することにしました。</p>
+<a href="https://kotalab.com/nsl-11th" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nsl11_20121118_01-448x336.jpg" alt="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note" width="150" /></a><a href="https://kotalab.com/nsl-11th" target="_blank">第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note</a><br style="clear:both;" />このセミナーで佐々木正悟さんとお話し出来る機会があり、Taskchuteを再開することにしました。</p>
 <h2>Taskchute2を始める！</h2>
-<p><a href="http://kotalab.com/wp-content/uploads/taskchute_121121_01.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/taskchute_121121_01-448x508.jpg" alt="" title="taskchute_121121_01" width="448" height="508" class="alignnone size-large wp-image-4340" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/taskchute_121121_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/taskchute_121121_01-448x508.jpg" alt="" title="taskchute_121121_01" width="448" height="508" class="alignnone size-large wp-image-4340" /></a><br />
 MacBook AirにはFusion5を入れて、WindowsXPとExcelをMacBook Airでも使えるようにしました。<br />
-<a href="http://kotalab.com/macbook-air-winxp" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/fusion5_20121119-448x336.jpg" alt="MacBookAirにWindowsXPをインストール！これでTaskchuteを再開出来る！ | kotala's note" width="150" /></a><a href="http://kotalab.com/macbook-air-winxp" target="_blank">MacBookAirにWindowsXPをインストール！これでTaskchuteを再開出来る！ | kotala's note</a><br style="clear:both;" />以前使っていたのは無料版のTaskchuteでしたが、今回はTaskchute2を購入。<br />
+<a href="https://kotalab.com/macbook-air-winxp" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/fusion5_20121119-448x336.jpg" alt="MacBookAirにWindowsXPをインストール！これでTaskchuteを再開出来る！ | kotala's note" width="150" /></a><a href="https://kotalab.com/macbook-air-winxp" target="_blank">MacBookAirにWindowsXPをインストール！これでTaskchuteを再開出来る！ | kotala's note</a><br style="clear:both;" />以前使っていたのは無料版のTaskchuteでしたが、今回はTaskchute2を購入。<br />
 Taskchute2を使ってみると無料版にはなかった豊富なリピート機能や動作の軽快さに、早くこれを使っておけばと思いました。<br />
 デスクトップで使っていた無料版よりも、MacBookAirでFusion経由で使うTaskchute2の方が圧倒的に動作が軽かったです！<br />
 Toodledoに登録してあるタスクリストを見ながら、まずはやったことの時間の記録をつけることから始めました。<br />

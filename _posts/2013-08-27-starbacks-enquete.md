@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 8280
-wordpress_url: http://kotalab.com/?p=8280
+wordpress_url: https://kotalab.com/?p=8280
 date: '2013-08-27 17:34:54 +0900'
 date_gmt: '2013-08-27 08:34:54 +0900'
 category:
@@ -29,18 +29,18 @@ comments: []
 アンケートに答えると無料でドリンクが1杯飲めるというのでラッキー！<br />
 <!--more--></p>
 <h2>スタバのアンケート付きレシート</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/starbucksenquete_130827_03-448x448.jpg" alt="starbucksenquete_130827_03" width="448" height="448" class="alignnone size-large wp-image-8283" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/starbucksenquete_130827_03-448x448.jpg" alt="starbucksenquete_130827_03" width="448" height="448" class="alignnone size-large wp-image-8283" /><br />
 アンケート付きのレシートは通常のレシートの2倍！<br />
 レシピ自体にアンケートがついているわけではなく、レシートについてるURLにアクセスしレシートについてる番号を入力するとアンケートが始まるという仕組み。<br />
 無料ドリンク券のために早速アンケートに答えてみました！</p>
 <h3>スタバのアンケート！</h3>
 <p>URLにパソコンからアクセスしまず、日本語か英語を選択します。<br />
 レシートについていた番号を入力しアンケートがスタート！<br />
-<img src="http://kotalab.com/wp-content/uploads/starbucksenquete_130827_01-448x364.jpg" alt="starbucksenquete_130827_01" width="448" height="364" class="alignnone size-large wp-image-8282" /><br />
+<img src="https://kotalab.com/wp-content/uploads/starbucksenquete_130827_01-448x364.jpg" alt="starbucksenquete_130827_01" width="448" height="364" class="alignnone size-large wp-image-8282" /><br />
 5分くらいで終わる簡単なアンケートに答えます。<br />
 20分でタイムアウトしてしまうので注意！<br />
 アンケートが終わるとレシートに入力する番号が出てくるのでその番号をレシートに書いたら終了！<br />
-<img src="http://kotalab.com/wp-content/uploads/starbucksenquete_130827_02-448x340.jpg" alt="starbucksenquete_130827_02" width="448" height="340" class="alignnone size-large wp-image-8281" /><br />
+<img src="https://kotalab.com/wp-content/uploads/starbucksenquete_130827_02-448x340.jpg" alt="starbucksenquete_130827_02" width="448" height="340" class="alignnone size-large wp-image-8281" /><br />
 このレシートが無料ドリンク券になります！</p>
 <h2>スタバのアンケートって実はスゴい！？</h2>
 <p>このスタバのアンケート、他の飲食店のアンケートとは違った印象。実は色んな工夫が詰められているのかも？と思いました。<br />
@@ -65,12 +65,12 @@ comments: []
 手書きだとパッと思い浮かぶだけで「受取り」から「回収」「データ入力」「集計」という4つの作業がかかります。<br />
 これを全部「アンケートを入力するお客さん」にやってもらえるというのはすごいラクな仕組み。</p>
 <h2>これはお願いごとになるべく「Yes」と答えてもらう方法だ！</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/tsutaekata_130826-448x336.jpg" alt="tsutaekata_130826" width="448" height="336" class="alignnone size-large wp-image-8276" /><br />
-<a href="http://kotalab.com/tsutaekataga9wari-3step" title="[Books]お願いごとにいい返事を貰うための3ステップ「伝え方が9割」" target="_blank">昨日のエントリー</a>で「伝え方が9割」の中から<strong>お願いごとにいい返事を貰うための3ステップ</strong>をご紹介しました。</p>
+<p><img src="https://kotalab.com/wp-content/uploads/tsutaekata_130826-448x336.jpg" alt="tsutaekata_130826" width="448" height="336" class="alignnone size-large wp-image-8276" /><br />
+<a href="https://kotalab.com/tsutaekataga9wari-3step" title="[Books]お願いごとにいい返事を貰うための3ステップ「伝え方が9割」" target="_blank">昨日のエントリー</a>で「伝え方が9割」の中から<strong>お願いごとにいい返事を貰うための3ステップ</strong>をご紹介しました。</p>
 <blockquote><p>1.頭の中をそのままコトバにしない<br />
 2.相手の頭の中を想像する<br />
 3.相手のメリットと一致するお願いを作る<br />
-<a href="http://kotalab.com/tsutaekataga9wari-3step" target="_blank">[Books]お願いごとにいい返事を貰うための3ステップ「伝え方が9割」 | kotala's note</a></p></blockquote>
+<a href="https://kotalab.com/tsutaekataga9wari-3step" target="_blank">[Books]お願いごとにいい返事を貰うための3ステップ「伝え方が9割」 | kotala's note</a></p></blockquote>
 <p>実はこのスタバのアンケートは、この3ステップをそのまま使っていることに気づきました！</p>
 <h3>1.頭の中をそのままコトバにしない</h3>
 <p>スタバはストレートに「アンケートにお答えください」とは言いません。<br />
@@ -84,7 +84,7 @@ comments: []
 <p>「アンケートに答えて無料ドリンクを楽しみませんか？」には僕たち「お客さん」が思わず「Yes」と答えてしまいたくなる「伝え方」が詰められていました。<br />
 アンケートの取り方だけでも色々考えられているんだなと思った休日の午後でした。<br />
 よかったらこちらも一緒にお読みください！<br />
-<a href="http://kotalab.com/tsutaekataga9wari-3step" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/tsutaekata_130826-448x336.jpg" alt="[Books]お願いごとにいい返事を貰うための3ステップ「伝え方が9割」 | kotala's note" width="150" /></a><a href="http://kotalab.com/tsutaekataga9wari-3step" target="_blank">[Books]お願いごとにいい返事を貰うための3ステップ「伝え方が9割」 | kotala's note</a><br style="clear:both;" /></p>
+<a href="https://kotalab.com/tsutaekataga9wari-3step" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/tsutaekata_130826-448x336.jpg" alt="[Books]お願いごとにいい返事を貰うための3ステップ「伝え方が9割」 | kotala's note" width="150" /></a><a href="https://kotalab.com/tsutaekataga9wari-3step" target="_blank">[Books]お願いごとにいい返事を貰うための3ステップ「伝え方が9割」 | kotala's note</a><br style="clear:both;" /></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="http://www.amazon.co.jp/exec/obidos/asin/4478017212/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="http://ecx.images-amazon.com/images/I/41ENcyGFWkL._SL160_.jpg" style="border: none;" /></a></div>

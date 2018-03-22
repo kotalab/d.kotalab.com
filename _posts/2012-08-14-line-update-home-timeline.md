@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 2092
-wordpress_url: http://kotalab.com/?p=2092
+wordpress_url: https://kotalab.com/?p=2092
 date: '2012-08-14 22:12:00 +0900'
 date_gmt: '2012-08-14 13:12:00 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - Line
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/line_120814.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/line_120814.png" alt="" title="line_120814" width="448" height="644" class="alignnone size-full wp-image-2105" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/line_120814.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/line_120814.png" alt="" title="line_120814" width="448" height="644" class="alignnone size-full wp-image-2105" /></a><br />
 ケータイでのメールは個人的な物はほぼ<strong>LINE</strong>を使ってます。@kotala_bです。<br />
 Lineというのはパケ代のみでメールや通話が出来る無料アプリのことです。<br />
 <a href="http://www.amazon.co.jp/exec/obidos/asin/4844332155/same-22/" rel="nofollow" name="booklink" target="_blank">公式本</a>などで広がりを拡大している<strong>LINE</strong>ですが昨日iOS版のアップデートがありました。<br />
@@ -29,21 +29,21 @@ Lineというのはパケ代のみでメールや通話が出来る無料アプ�
 <!--more--></p>
 <h2>LINEのアップデート情報</h2>
 <p>▼8月13日にLINE3.0.0のアップデートがありました。<br />
-<a href="http://kotalab.com/wp-content/uploads/line_120814_01.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/line_120814_01.png" alt="" title="line_120814_01" width="300" height="431" class="alignnone size-full wp-image-2097" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/line_120814_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/line_120814_01.png" alt="" title="line_120814_01" width="300" height="431" class="alignnone size-full wp-image-2097" /></a><br />
 注目なのは<strong>ホーム</strong>機能と<strong>タイムライン</strong>機能でしょう。<br />
 これによってFacebookのように「今なにしてる？」というようなことを投稿出来るようになりました。<br />
 ▼タイムライン画面<br />
-<a href="http://kotalab.com/wp-content/uploads/line_120814_04.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/line_120814_04.png" alt="" title="line_120814_04" width="300" height="432" class="alignnone size-full wp-image-2096" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/line_120814_04.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/line_120814_04.png" alt="" title="line_120814_04" width="300" height="432" class="alignnone size-full wp-image-2096" /></a><br />
 アップデートから間もないせいか、まだ誰も僕の友人は投稿していませんでした。<br />
 ▼その他画面<br />
-<a href="http://kotalab.com/wp-content/uploads/line_120814_02.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/line_120814_02.png" alt="" title="line_120814_02" width="300" height="430" class="alignnone size-full wp-image-2094" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/line_120814_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/line_120814_02.png" alt="" title="line_120814_02" width="300" height="430" class="alignnone size-full wp-image-2094" /></a><br />
 ここでは友達の追加や設定の他に、ホーム画面に移動することが出来るようになりました。<br />
 ▼公開範囲設定画面。<br />
-<a href="http://kotalab.com/wp-content/uploads/line_120814_03.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/line_120814_03.jpg" alt="" title="line_120814_03" width="300" height="431" class="alignnone size-full wp-image-2095" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/line_120814_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/line_120814_03.jpg" alt="" title="line_120814_03" width="300" height="431" class="alignnone size-full wp-image-2095" /></a><br />
 自分がホーム画面で投稿した内容を誰に公開するのか、1人ごとに公開設定も可能です。</p>
 <h2>まとめ</h2>
 <p>▼世界で5000万人以上、国内では2300万人以上が利用する<strong>LINE</strong>。<br />
-<a href="http://kotalab.com/wp-content/uploads/line_120814_05.png" target="_blank"><img src="http://kotalab.com/wp-content/uploads/line_120814_05.png" alt="" title="line_120814_05" width="300" height="432" class="alignnone size-full wp-image-2099" /></a><br />
+<a href="https://kotalab.com/wp-content/uploads/line_120814_05.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/line_120814_05.png" alt="" title="line_120814_05" width="300" height="432" class="alignnone size-full wp-image-2099" /></a><br />
 <a href="http://itpro.nikkeibp.co.jp/article/NEWS/20120706/407686/" target="_blank">国内では1000万人が利用</a>しているFacebookに対して、国内では倍以上のユーザーがいる<strong>LINE</strong>。<br />
 今回のアップデートでFacebookと似たような機能がつきこれからも注目のアプリです！<br />
 まだ利用されていない方は使ってみてはいかがでしょう？</p>

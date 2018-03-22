@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 13689
-wordpress_url: http://kotalab.com/?p=13689
+wordpress_url: https://kotalab.com/?p=13689
 date: '2014-12-29 13:47:14 +0900'
 date_gmt: '2014-12-29 04:47:14 +0900'
 category:
@@ -21,7 +21,7 @@ tags:
 - 貯金
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/kosodate_140328_02-546x363.jpg" alt="kosodate_140328_02" width="546" height="363" class="aligncenter size-large wp-image-11277" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/kosodate_140328_02-546x363.jpg" alt="kosodate_140328_02" width="546" height="363" class="aligncenter size-large wp-image-11277" /><br />
 <span class="ss">via:onigiri-kun</span><br />
 あなたが生命保険に入る（入ろうと思っている）理由は何ですか？</p>
 <ul>

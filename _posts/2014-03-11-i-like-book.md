@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 11109
-wordpress_url: http://kotalab.com/?p=11109
+wordpress_url: https://kotalab.com/?p=11109
 date: '2014-03-11 08:41:18 +0900'
 date_gmt: '2014-03-10 23:41:18 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - 読書
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/books-20dai-to-do-17-things_140129-546x361.jpg" alt="books-20dai-to-do-17-things_140129" width="546" height="361" class="alignnone size-large wp-image-10698" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-20dai-to-do-17-things_140129-546x361.jpg" alt="books-20dai-to-do-17-things_140129" width="546" height="361" class="alignnone size-large wp-image-10698" /><br />
 17冊。これは僕が今年に入って読んだ本の数です。<br />
 今年に入って70日経ったので4日に1冊のペースで読んでることになります。</p>
 <p>1年間に90冊というペースで読むことになります。<br />
@@ -30,8 +30,8 @@ comments: []
 <h2>去年の自分が驚くペース</h2>
 <p>去年はペースにばらつきがあって、1ヶ月に9冊読む時もありました。</p>
 <div class="shht">
-<div class="shhtimg"><a href="http://kotalab.com/readingpace"><img src="http://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="http://kotalab.com/readingpace">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="http://b.hatena.ne.jp/entry/http://kotalab.com/readingpace" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/http://kotalab.com/readingpace" alt="" /></a></div>
+<div class="shhtimg"><a href="https://kotalab.com/readingpace"><img src="https://kotalab.com/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="https://kotalab.com/readingpace">読書のペースを倍にするために新たに始めたこととやめたこと</a><a href="http://b.hatena.ne.jp/entry/https://kotalab.com/readingpace" target="_blank"><img border="0" src="http://b.hatena.ne.jp/entry/image/https://kotalab.com/readingpace" alt="" /></a></div>
 </div>
 <p>この時はオーディオブックを含めての数でしたが、今年に入ってからはオーディオブックを聞いていません。<br />
 それでいて今のペースですから、去年の僕では考えられないことです。</p>
@@ -47,7 +47,7 @@ comments: []
 僕の幼い頃の経験が今の読書好きに繋がってるような気がしました。<br />
 僕がつい最近までこのことに気づかなかったのは、自分の外側に好きなことを探し求めていたからかもしれません。</p>
 <h3>好きなことは自分の内側にある</h3>
-<p><img src="http://kotalab.com/wp-content/uploads/books-30dai-to-do-17-things_140201-546x361.jpg" alt="books-30dai-to-do-17-things_140201" width="546" height="361" class="alignnone size-large wp-image-10727" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/books-30dai-to-do-17-things_140201-546x361.jpg" alt="books-30dai-to-do-17-things_140201" width="546" height="361" class="alignnone size-large wp-image-10727" /><br />
 経験したこともないことを突然好きになったりはしません。<br />
 自分がやりたいこと、好きなことには少なからず過去に何かしらの経験があります。</p>
 <p>心の奥底には、誰にも自分の好きなことが眠っているはずです。<br />

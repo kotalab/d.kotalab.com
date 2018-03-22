@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 1251
-wordpress_url: http://kotalab.com/?p=1251
+wordpress_url: https://kotalab.com/?p=1251
 date: '2012-07-04 04:58:16 +0900'
 date_gmt: '2012-07-03 19:58:16 +0900'
 category:
@@ -20,7 +20,7 @@ tags:
 - バックアップ
 comments: []
 ---
-<p><a href="http://kotalab.com/wp-content/uploads/backUp_120602.jpg" target="_blank"><img src="http://kotalab.com/wp-content/uploads/backUp_120602.jpg" alt="" title="backUp_120602" width="448" height="307" class="alignnone size-full wp-image-1237" /></a><br />
+<p><a href="https://kotalab.com/wp-content/uploads/backUp_120602.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/backUp_120602.jpg" alt="" title="backUp_120602" width="448" height="307" class="alignnone size-full wp-image-1237" /></a><br />
 ブログのバックアップを取りました。@kotala_bです。<br />
 バックアップにはプラグインの「BackWPup」を使用しました。<br />
 <a href="http://blog.quusookagaku.com/wordpress/6876/" target="_blank"><img title="自分のWordPressブログを守るために出来る３つのこと*frasm" src="http://capture.heartrails.com/150x130/1341345039037?http://blog.quusookagaku.com/wordpress/6876/" alt="http://blog.quusookagaku.com/wordpress/6876/" width="150" height="130" align="left" /></a><a href="http://blog.quusookagaku.com/wordpress/6876/" title="自分のWordPressブログを守るために出来る３つのこと*frasm" target="_blank">自分のWordPressブログを守るために出来る３つのこと*frasm</a><br style="clear:both;" /><br />
@@ -32,7 +32,7 @@ comments: []
 毎日午前6時にDropboxへバックアップを自動で取るように設定しました。</p>
 <h2>2重でバックアップ</h2>
 <p>僕はDropbox自体もSugarSyncでバックアップしています。<br />
-<a href="http://kotalab.com/dropbox-backup" target="_blank"><img title="これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note" src="http://capture.heartrails.com/150x130?http://kotalab.com/dropbox-backup" alt="http://kotalab.com/archives/513" width="150" height="130" align="left" /></a><a href="http://kotalab.com/dropbox-backup" title="これで一安心！Dropboxを丸ごとバックアップ！" target="_blank">これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note</a><br style="clear:both;" />やり方はこちらの記事で紹介してます。</p>
+<a href="https://kotalab.com/dropbox-backup" target="_blank"><img title="これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note" src="http://capture.heartrails.com/150x130?https://kotalab.com/dropbox-backup" alt="https://kotalab.com/archives/513" width="150" height="130" align="left" /></a><a href="https://kotalab.com/dropbox-backup" title="これで一安心！Dropboxを丸ごとバックアップ！" target="_blank">これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note</a><br style="clear:both;" />やり方はこちらの記事で紹介してます。</p>
 <h2>バックアップ</h2>
 <p>万が一の時のために取るバックアップ。<br />
 頻繁にバックアップを取るには手動だとどうしても面倒なので、やるなら自動で行ってくれるものを選びましょう。<br />

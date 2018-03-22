@@ -9,7 +9,7 @@ author:
   url: ''
 author_email: info@kotalab.com
 wordpress_id: 14492
-wordpress_url: http://kotalab.com/?p=14492
+wordpress_url: https://kotalab.com/?p=14492
 date: '2015-05-31 11:06:38 +0900'
 date_gmt: '2015-05-31 02:06:38 +0900'
 category:
@@ -22,7 +22,7 @@ tags:
 - Swift
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/recommend-kindlebooks-for-ios_20150531_05-780x368.png" alt="recommend-kindlebooks-for-ios_20150531_05" width="780" height="368" class="aligncenter size-large wp-image-14498" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/recommend-kindlebooks-for-ios_20150531_05-780x368.png" alt="recommend-kindlebooks-for-ios_20150531_05" width="780" height="368" class="aligncenter size-large wp-image-14498" /><br />
 Kindle本が実質最大50%オフになるセール中です。<br />
 欲しいものリストに入ってたあのKindle本を買うなら今がチャンス！ということで、気になっていた本をいくつか買いました。</p>
 <p><span class="b">対象はなんと72000冊！</span>定価が高めに設定されている技術書系の本も50%になっています。<br />
@@ -33,7 +33,7 @@ Kindle本が実質最大50%オフになるセール中です。<br />
 追記：月曜の12時ごろまでだったようで、あっという間に終わってしまいました。</p>
 <p><!--more--></p>
 <h2>現場で通用する力を身につける　iPhoneアプリ開発の教科書</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/Irecommend-kindlebooks-for-ios_20150531_01.jpg" alt="Recommend kindlebooks for ios 20150531 01" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/Irecommend-kindlebooks-for-ios_20150531_01.jpg" alt="Recommend kindlebooks for ios 20150531 01" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>ラベルやボタンの配置、TableViewの使い方など、iPhoneアプリ開発でよく使う部品の使い方がObjectiveCのサンプルコードと共に載っています。<br />
 はじめの1冊としてオススメ、僕もこの本を最初に買いました。<br />
 iOS7・Xcode5対応となっていますが、iOS8・Xcode6の環境でもほとんど問題ありません。<br />
@@ -67,7 +67,7 @@ iOS7・Xcode5対応となっていますが、iOS8・Xcode6の環境でもほと
 <div class="booklink-footer"></div>
 </div>
 <h2>iOS Core Data 徹底入門</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/Irecommend-kindlebooks-for-ios_20150531_03.jpg" alt="Recommend kindlebooks for ios 20150531 03" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/Irecommend-kindlebooks-for-ios_20150531_03.jpg" alt="Recommend kindlebooks for ios 20150531 03" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>CoreData入門とタイトルに書かれていますが、NSUserDefoultやSQLiteのことも書いてあります。<br />
 データの取り扱いに関することはこれ1冊で十分というくらい、充実した内容です。</p>
 <p>アプリ内でデータ保存を使おうと思ったら、この本を読んでおけば間違いなしです。</p>
@@ -117,7 +117,7 @@ iOS7・Xcode5対応となっていますが、iOS8・Xcode6の環境でもほと
 <div class="booklink-footer"></div>
 </div>
 <h2>詳解 Swift</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/Irecommend-kindlebooks-for-ios_20150531_02.jpg" alt="Recommend kindlebooks for ios 20150531 02" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/Irecommend-kindlebooks-for-ios_20150531_02.jpg" alt="Recommend kindlebooks for ios 20150531 02" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>詳解 SwiftはSwiftの理解を深めるための本。<br />
 僕の中では辞書的な役割で本棚に置いています。</p>
 <p>いきなりこの本から入ると難しいですが、Swiftをより深く理解する目的に読むといいかもしれません。</p>
@@ -135,7 +135,7 @@ iOS7・Xcode5対応となっていますが、iOS8・Xcode6の環境でもほと
 <div class="booklink-footer"></div>
 </div>
 <h2>UIKit徹底解説</h2>
-<p><img src="http://kotalab.com/wp-content/uploads/2015/05/Irecommend-kindlebooks-for-ios_20150531_04.png" alt="Recommend kindlebooks for ios 20150531 04" width="300" height ="340" class="aligncenter size-large" /></p>
+<p><img src="https://kotalab.com/wp-content/uploads/2015/05/Irecommend-kindlebooks-for-ios_20150531_04.png" alt="Recommend kindlebooks for ios 20150531 04" width="300" height ="340" class="aligncenter size-large" /></p>
 <p>今回のセールで買った本の1つがこのUIKit徹底解説です。</p>
 <p>1年前の本なので、Swiftに関する内容は書かれていません。<br />
 UIKitを理解する上ではSwiftもObjectiveCもあまり関係ないと思っているので、この本を買いました。</p>

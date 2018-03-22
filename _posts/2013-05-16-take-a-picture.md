@@ -11,7 +11,7 @@ author:
 
 author_email: info@kotalab.com
 wordpress_id: 7158
-wordpress_url: http://kotalab.com/?p=7158
+wordpress_url: https://kotalab.com/?p=7158
 date: '2013-05-16 21:09:10 +0900'
 date_gmt: '2013-05-16 12:09:10 +0900'
 category:
@@ -23,7 +23,7 @@ tags:
 - canon
 comments: []
 ---
-<p><img src="http://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="nextyear_121231" width="448" height="448" class="alignnone size-large wp-image-5164" /><br />
+<p><img src="https://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="nextyear_121231" width="448" height="448" class="alignnone size-large wp-image-5164" /><br />
 デジイチが欲しい。こたら（@kotala_b）です。<br />
 デジイチを買ったら写真を今までよりももっともっとキレイに撮りたい。<br />
 その為にはどうすればいいのか？<br />
@@ -100,4 +100,4 @@ comments: []
 数日中には買ってしまいそうな勢いですが、もう少しガマン。<br />
 実際に手に取って確かめてから。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="http://kotalab.com/want-digicame" target="_blank"><img  class="alignleft" src="http://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note" width="150" /></a><a href="http://kotalab.com/want-digicame" target="_blank">「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="https://kotalab.com/want-digicame" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note" width="150" /></a><a href="https://kotalab.com/want-digicame" target="_blank">「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note</a><br style="clear:both;" /></p>
