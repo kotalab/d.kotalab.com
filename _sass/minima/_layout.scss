@@ -365,6 +365,63 @@
   }
 }
 
+.post-footer-wrapper {
+  @include relative-font-size(1.25);
+  font-weight: 300;
+  line-height: $base-font-size * 1.25 * 1.125;
+  letter-spacing: $base-letter-spacing * 1.2;
+  color: $grey-color;
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
+      @include relative-font-size(1.125);
+      font-weight: 300;
+      line-height: $base-font-size * 1.125 * 1.125;
+  }
+
+  .ad_header {
+    @include relative-font-size(0.625);
+    line-height: $base-font-size * 0.625;
+    margin-bottom: $spacing-unit * 0.75;
+
+    @include media-query($on-laptop) {
+      margin-bottom: $spacing-unit * 0.5;
+    }
+  }
+}
+
+.post-footer-col {
+  float: left;
+}
+
+.post-footer-col1,
+.post-footer-col2 {
+  width: -webkit-calc(50% - (#{$spacing-unit} * 1.5 / 2));
+  width:         calc(50% - (#{$spacing-unit} * 1.5 / 2));
+}
+
+.post-footer-col1 {
+  margin-bottom: $spacing-unit * 0.75;
+}
+
+.post-footer-col2 {
+s  margin-left: $spacing-unit * 0.75;
+  text-align: center;
+}
+
+
+@include media-query($on-palm) {
+  .post-footer-col {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+  .post-footer-col2 {
+    display: none;
+    margin-left: 0;
+  }
+}
+
 /**
  * amazon
  */
