@@ -107,7 +107,23 @@
   }
 }
 
+.content-wrapper {
+  padding-right: $spacing-unit * 1.5;
+  float: left;
+  max-width: calc(100% - (#{$side-width} + #{$spacing-unit} * 0.75 * 3 + 1px));
+  @include media-query($on-laptop) {
+    padding-right: $spacing-unit;
+    max-width: 100%;
+  }
+}
 
+.pagination {
+  margin: $spacing-unit * 0.75 0;
+  text-align: center;
+  @include media-query($on-laptop) {
+    margin: $spacing-unit * 0.5 0;
+  }
+}
 
 /**
  * Site footer
@@ -176,17 +192,102 @@
     margin-left: 0;
   }
 }
+/**
+ * Side bar
+ */
+.side-wrapper {
+  width: $side-width;
+  float: right;
+  border-left: solid 1px $sepalator-color;
+  padding-left: $spacing-unit * 0.75;
 
+  @include media-query($on-laptop) {
+      display: none;
+  }
+}
 
+.side-profile, .side-latest-post {
+  margin: $spacing-unit * 1.5 0;
+}
+
+.latest-post-content-thumbnail, .latest-post-content-title {
+  margin-bottom: $spacing-unit * 0.75;
+}
+
+.latest-post-content {
+  @extend %clearfix;
+  //border-bottom: solid 1px $sepalator-color;
+}
+
+.latest-post-content-thumbnail {
+  float: left;
+  margin-right: $spacing-unit * 0.75;
+  img {
+    width: 90px;
+  }
+}
+
+.latest-post-content-title {
+  float: right;
+  width: $side-width - (90px + $spacing-unit * 0.75);
+}
+
+/**
+ * Profile
+ */
+.profile-content, .profile-more {
+  @extend %clearfix;
+  @include relative-font-size(1.125);
+  color: $grey-color;
+  line-height: $base-font-size * 1.125 * 1.125;
+}
+
+.profile-title, .latest-post-title {
+  @include relative-font-size(1.25);
+  font-weight: 600;
+  line-height: $base-font-size * 1.25 * 1.25;
+  margin-bottom: $spacing-unit * 0.75;
+}
+
+.profile-image {
+  float: left;
+  text-align: center;
+  margin-right: $spacing-unit * 0.75;
+  img {
+    width: $profile-image-width;
+    height: $profile-image-width;
+  }
+}
+
+.profile-description {
+  float: right;
+  width: $side-width - ($spacing-unit * 0.75 + $profile-image-width);
+}
+
+.profile-more, .profile-sns {
+  margin-top: $spacing-unit * 0.75;
+}
+
+.profile-sns {
+  margin-bottom: $spacing-unit * 0.75;
+}
 
 /**
  * Page content
  */
-.page-content {
-  padding: $spacing-unit * 0.75 0;
+.post.h-entry {
+  padding-top: $spacing-unit * 1.5;
 
   @include media-query($on-palm) {
-    padding: $spacing-unit * 0.5 0;
+    padding-top: $spacing-unit;
+  }
+
+  .post-header {
+    margin-bottom: $spacing-unit * 1.5;
+
+    @include media-query($on-laptop) {
+      margin-bottom: $spacing-unit;
+    }
   }
 }
 
@@ -221,44 +322,34 @@
   @include relative-font-size(1.5);
 }
 
-
-
 /**
  * Posts
  */
 .post-header {
-  margin: $spacing-unit * 0.75 0 ;
   border-bottom: 1px solid $sepalator-color;
-
-  @include media-query($on-laptop) {
-    margin: $spacing-unit * 0.5 0 ;
-  }
 }
 
 .post-list-wrapper {
   @extend %clearfix;
-  width: -webkit-calc(100% - (#{$spacing-unit} * 0.75));
-  width:         calc(100% - (#{$spacing-unit} * 0.75));
+  width: 100%;
+}
+
+.post-list-image, .post-list-title {
+  margin: $spacing-unit * 1.5 0 $spacing-unit * 1.5 $spacing-unit * 0.75;
 
   @include media-query($on-laptop) {
-    width: -webkit-calc(100% - (#{$spacing-unit} * 0.5));
-    width:         calc(100% - (#{$spacing-unit} * 0.5));
+    margin: $spacing-unit 0 $spacing-unit $spacing-unit * 0.5;
   }
 }
 
 .post-list-image {
   float: left;
-  margin-right: $spacing-unit * 0.75;
-  margin-bottom: $spacing-unit * 1.5;
 
   img {
     width: 153px;
     height: 102px;
   }
   @include media-query($on-laptop) {
-    margin-right: $spacing-unit * 0.5;
-    margin-bottom: $spacing-unit;
-
     img {
       width: 120px;
       height: 80px;
@@ -270,12 +361,10 @@
   float: left;
   width: -webkit-calc(100% - (#{$spacing-unit} * 0.75) * 2 - 153px);
   width:         calc(100% - (#{$spacing-unit} * 0.75) * 2 - 153px);
-  margin: 0 0 $spacing-unit * 1.5 $spacing-unit * 0.75;
 
   @include media-query($on-laptop) {
     width: -webkit-calc(100% - (#{$spacing-unit} * 0.5) * 2 - 120px);
     width:         calc(100% - (#{$spacing-unit} * 0.5) * 2 - 120px);
-    margin: 0 0 $spacing-unit $spacing-unit * 0.5;
   }
 
   h2 {

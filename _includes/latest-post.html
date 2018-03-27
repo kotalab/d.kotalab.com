@@ -1,0 +1,22 @@
+<div class="latest-post-wrapper">
+  <div class="latest-post-title">
+    <span>最近の投稿</span>
+  </div>
+    {%- for post in site.posts -%}
+      <div class="latest-post-content">
+        <div class="latest-post-content-thumbnail">
+          {% if post.thumbnail %}
+            <a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}"></a>
+          {% else %}
+            <a href="{{ post.url | relative_url }}"><img src="{{ "/assets/no_image.png" | relative_url  }}"></a>
+          {% endif %}
+        </div>
+        <div class="latest-post-content-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </div>
+      </div>
+      {%- if forloop.index == 5 -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+</div>

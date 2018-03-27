@@ -23,10 +23,13 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    768px !default;
+$content-width:    1024px !default;
+$side-width:       256px !default;
 
 $on-palm:          768px !default;
-$on-laptop:        768px !default;
+$on-laptop:        1024px !default;
+
+$profile-image-width: 80px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
