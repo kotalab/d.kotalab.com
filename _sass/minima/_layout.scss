@@ -452,6 +452,11 @@
       @include relative-font-size(1.125);
     }
   }
+
+  p {
+    margin-top: $spacing-unit * 1.25;
+    margin-bottom: $spacing-unit * 1.25;
+  }
 }
 
 .post-footer-wrapper {
