@@ -348,6 +348,7 @@
   img {
     width: 153px;
     height: 102px;
+    object-fit: cover;
   }
   @include media-query($on-laptop) {
     img {
