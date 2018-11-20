@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 習慣化は自分のレベル上げ
+title: やめられなくなる、小さな習慣。小さな一歩人生を大きく変える
 category:
 - 読書
 tags:
