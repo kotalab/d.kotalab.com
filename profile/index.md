@@ -41,18 +41,16 @@ comments:
 ---
 <h2 class="landing">こたら</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/profile_icon.png" alt="" title="profile" width="350" height="350"/><br />
-・ブロガー<br />
-・iPhoneアプリ開発者<br />
-・2級ファイナンシャル・プランニング技能士</p>
+Swift/Firebase/Golang/GCP/iOS developer/ブロガー/FP<br />
+1984年生まれ<br />
+生まれも育ちも神奈川県川崎市<br />
+東京都世田谷区在住</p>
 <p>Twitter：<a href="https://twitter.com/kotala_b" title="こたらTwitter" target="_blank">kotala_b</a><br />
 Facebook：<a href="https://www.facebook.com/tetsuyakjma" title="こたらFacebook" target="_blank">https://www.facebook.com/tetsuyakjma</a><br />
-1984年生まれ。<br />
-生まれも育ちも神奈川県川崎市。<br />
-東京都町田市在住。</p>
 <p>「とにかくやってみよう！」をテーマにこのブログこたらずのーとを書いています。</p>
 <h2 class="landing">ブログ開設から</h2>
-<p>2012年5月9日wordpress.comでアカウントを取得しスタート。</p>
-<h3>ブログを始めたきっかけは</h3>
+<h3>2012/5/9 wordpress.comでアカウントを取得しスタート。</h3>
+ブログを始めたきっかけは
 <blockquote><p>ブログを始めたきっかけはストレスフリーという生き方とそれを実践している人たちに共感し、自分も実践しようと決意。<br />
 その実践の中でアウトプットの大切さを知り、ライフログを兼ねてブログを始めることにしました。<br />
 via：<a href="https://kotalab.com/hello-world">初投稿</a></p></blockquote>
@@ -60,12 +58,12 @@ via：<a href="https://kotalab.com/hello-world">初投稿</a></p></blockquote>
 ただ思い返してみるとブログを始めたときから「とにかくやってみよう！」でした。</p>
 <p>とにかくやってみることで自分の「好き」「嫌い」を今までよりずっと強く感じとることができるようになりました。<br />
 <span class="b">「とにかくやってみよう！」から始まり、自分の好きなこと・やりたいことをする毎日を送っています。</span></p>
-<h3>ファイナンシャルプランナー（FP）になる！</h3>
+<h3>2013/11 ファイナンシャルプランナー（FP）になる！</h3>
 <p>FPの資格を取ったのは、自分自身のお金に対する知識を身につけるためです。<br />
 ただ闇雲に勉強していても本当に身についているかわからなかったので、一つの目安としてFP試験を受けることにしました。<br />
 FP資格をとったことがきっかけで、家族や周囲の人からお金の相談を受けるようになりました。<br />
 ブログにも度々お金に関することを投稿したいたところ、あの<span class="b">「めざましテレビ」から取材を受ける</span>ことになりました。</p>
-<h3>iPhoneアプリ開発者になる！</h3>
+<h3>2014/2 iPhoneアプリ開発を始める！</h3>
 <p>ブログを始めた当初は、PCとは無縁の仕事をしていました。<br />
 いつからかiPhoneアプリを作ってみたいという気持ちが心の奥底にあり、iPhoneアプリを作りたい一心で転職しました。</p>
 <p>転職するまでは休みの日にたまに勉強する程度で、思うように上達しませんでした。<br />
@@ -73,6 +71,12 @@ FP資格をとったことがきっかけで、家族や周囲の人からお金
 <p><strong>週40時間ある仕事の時間を全てプログラミングの勉強時間に変えるための転職でした。</strong></p>
 <p>プログラマー1年目にしてiPhoneアプリ「<a href="https://itunes.apple.com/jp/app/webnote/id911802747?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">WebNote</a>」をリリース。<br />
 更にあのスティーブジョブズも立った「アップルストア銀座」で<a href="https://kotalab.com/appdojo-ginza-event" title="AppleStore銀座でアプリ道場のイベントにアプリ開発者として参加してきたよ！ #アプリ道場演武会">アプリの発表イベント</a>に登壇することにもなりました。</p>
+<h3>2016/2 iOS Engineer👨‍💻になる！</h3>
+<p>これまでは趣味で平日の早朝や休日に時間を作ってiPhoneアプリを開発していました。<br>
+開発をしているうちに<strong>もっと開発をしたい、自分が開発したものをもっと多くの人に使ってもらいたい</strong>と強く思うようになりました<br>
+iPhoneアプリ開発を仕事としてできるように、iOSエンジニアという職種で予防ヘルスケア×AIに特化したヘルステックベンチャー、FiNC(現FiNC technologies)に転職しました。<br>
+iOS Engineerとなってからは毎日毎日開発することが楽しく、ブログを書くこともせずひたすら開発に打ち込んでいます。
+</p>
 <h2>とにかくやってみよう！</h2>
 <p>ブログを始めたことで「とにかくやってみよう」と積極的に行動する自分に出会うことができました。<br />
 あの日「とにかくやってみよう！」と思わなかったら、「とにかくやってみよう！」と行動しなかったら、今の僕はありえません。</p>
