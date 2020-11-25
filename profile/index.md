@@ -41,10 +41,8 @@ comments:
 ---
 <h2 class="landing">こたら</h2>
 <p><img src="https://kotalab.com/wp-content/uploads/profile_icon.png" alt="" title="profile" width="350" height="350"/><br />
-Swift/Firebase/Golang/GCP/iOS developer/ブロガー/FP<br />
-1984年生まれ<br />
-生まれも育ちも神奈川県川崎市<br />
-東京都世田谷区在住</p>
+2児の父/Swift/iOS developer/ブロガー/FP<br />
+1984年生まれ</p>
 <p>Twitter：<a href="https://twitter.com/kotala_b" title="こたらTwitter" target="_blank">kotala_b</a><br />
 Facebook：<a href="https://www.facebook.com/tetsuyakjma" title="こたらFacebook" target="_blank">https://www.facebook.com/tetsuyakjma</a><br />
 <p>「とにかくやってみよう！」をテーマにこのブログこたらずのーとを書いています。</p>
