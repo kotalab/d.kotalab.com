@@ -22,7 +22,7 @@ tags:
 - PHG
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/phg_130820_01-448x336.jpg" alt="phg_130820_01" width="448" height="336" class="alignnone size-large wp-image-8097" /><br />
+<p><img src="/wp-content/uploads/phg_130820_01-448x336.jpg" alt="phg_130820_01" width="448" height="336" class="alignnone size-large wp-image-8097" /><br />
 PHGに登録完了しました。こたら（@kotala_b）です。<br />
 現在Linkshareで取扱われているiTunesアフィリエイトが終了し、新たにPerformance Horizon Group（PHG）でiTunesアフィリエイトの取扱いが始まるようです。<br />
 LinkShareからPHGヘiTunesアフィリエイトの提携先の切り替えをやってみました。<br />
@@ -47,7 +47,7 @@ PHGヘの登録が完了です！</p>
 サインインするとアフィリエイトの管理画面になるので、ツールタブを開きアフィリエイトリンクの作成が行えます。<br />
 リンクの作成方法は何種類かあるのでこちらを参考に<a href="https://www.apple.com/itunes/affiliates/resources/documentation/tools_jp.html" target="_blank">iTunes, App Store, iBookstore, and Mac App Store Affiliate Resources - リンクの作成方法</a></p>
 <h3>AutoLinkMakerが便利そう</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/phg_130820_02-448x336.jpg" alt="phg_130820_02" width="448" height="336" class="alignnone size-large wp-image-8098" /></p>
+<p><img src="/wp-content/uploads/phg_130820_02-448x336.jpg" alt="phg_130820_02" width="448" height="336" class="alignnone size-large wp-image-8098" /></p>
 <blockquote><p>Auto Link Maker ツールを使えば、簡単にアフィリエイトリンクが作成できます。ウェブサイトのソースにJavaScriptのコードを追加すれば、iTunes、App Store、iBookstore、Mac App Store のリンクがアフィリエイトリンクへ変換されます。<br />
 <a href="https://www.apple.com/itunes/affiliates/resources/documentation/tools_jp.html" target="_blank">iTunes, App Store, iBookstore, and Mac App Store Affiliate Resources - リンクの作成方法</a></p></blockquote>
 <p>何やら便利そうなAutoLinkMakerというものがあったので試してみようと思います。</p>

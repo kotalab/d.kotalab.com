@@ -24,7 +24,7 @@ tags:
 - 週次レビュー
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/syuukan5_121229.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/syuukan5_121229-448x336.jpg" alt="syuukan5_121229" width="448" height="336" class="alignnone size-large wp-image-5141" /></a><br />
+<p><a href="/wp-content/uploads/syuukan5_121229.jpg" target="_blank"><img src="/wp-content/uploads/syuukan5_121229-448x336.jpg" alt="syuukan5_121229" width="448" height="336" class="alignnone size-large wp-image-5141" /></a><br />
 今年の5月にブログを始めました。@kotala_bです。<br />
 ゴールデンウィーク前からブログに興味を持ち始め、ゴールデンウィーク中にブログを作るために色々調べ、ゴールデンウィーク明けの5月9日にブログをスタートさせました。<br />
 5月9日から毎日続いているブログ更新が今日で235日目になりました。<br />
@@ -36,7 +36,7 @@ comments: []
 <p>毎朝、起きてすぐ体温を計り体重をチェックするようになりました。<br />
 体調管理というと大げさかもしれませんが、毎朝自分のコンディションを確認しています。<br />
 <strong>このおかげで、8キロの減量に成功し、それから1ヶ月経った今でも同じ体重を維持出来ています。</strong><br />
-<a href="https://kotalab.com/diet-8kg" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/diet_121122_03-448x336.png" alt="習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note" width="150" /></a><a href="https://kotalab.com/diet-8kg" target="_blank">習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note</a><br style="clear:both;" />そのせいで今まで穿いていたズボンはぶかぶかになり、買い直しに出費がかさんだのは嬉しい悲鳴です。</p>
+<a href="/diet-8kg" target="_blank"><img  class="alignleft" src="/wp-content/uploads/diet_121122_03-448x336.png" alt="習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note" width="150" /></a><a href="/diet-8kg" target="_blank">習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note</a><br style="clear:both;" />そのせいで今まで穿いていたズボンはぶかぶかになり、買い直しに出費がかさんだのは嬉しい悲鳴です。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkarori-guan-li-shouseruapuri%252Fid382045106%253Fmt%253D8%2526uo%253D4"><img src="http://a286.phobos.apple.com/us/r1000/105/Purple/v4/a6/a4/01/a6a401a9-af74-1afb-883c-e0609bffdb6e/mzl.sdzvajce.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fkarori-guan-li-shouseruapuri%252Fid382045106%253Fmt%253D8%2526uo%253D4">カロリー管理（痩せるアプリ）</span></div>
@@ -78,7 +78,7 @@ iPhoneを買うまではエクセルで家計簿をつけていましたが、iP
 <p>僕は今まで全く本を読まなかった訳ではないんですが、今年1年間で今までの何倍もの数の本を読みました。<br />
 様々な本を読んでいるうちに、読書が好きなことに気づきました。<br />
 今年読んだ本の中で1番自分の中に影響があったのは本田直之さんのレバレッジリーディングでした。<br />
-<a href="https://kotalab.com/books-levareage-reeding" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/leveragereading_121206-448x298.jpg" alt="読書に対する意識が変わる本！多読のススメ「レバレッジリーディング」 | kotala's note" width="150" /></a><a href="https://kotalab.com/books-levareage-reeding" target="_blank">読書に対する意識が変わる本！多読のススメ「レバレッジリーディング」 | kotala's note</a><br style="clear:both;" />この本の中で、レバレッジメモというメモの作り方、活用の仕方を覚え実践するようになりました。<br />
+<a href="/books-levareage-reeding" target="_blank"><img  class="alignleft" src="/wp-content/uploads/leveragereading_121206-448x298.jpg" alt="読書に対する意識が変わる本！多読のススメ「レバレッジリーディング」 | kotala's note" width="150" /></a><a href="/books-levareage-reeding" target="_blank">読書に対する意識が変わる本！多読のススメ「レバレッジリーディング」 | kotala's note</a><br style="clear:both;" />この本の中で、レバレッジメモというメモの作り方、活用の仕方を覚え実践するようになりました。<br />
 <strong>レバレッジメモはいつでも見れるようにEvernoteに入れて、Zownoteというアプリを使いレバレッジメモだけをすぐに見られるような環境を作りました。</strong></p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51BE1142H2L._SL160_.jpg" style="border: none;" /></a></div>

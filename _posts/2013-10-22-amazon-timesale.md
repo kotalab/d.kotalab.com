@@ -22,7 +22,7 @@ tags:
 - セール
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/amazonsale_131022_01-546x435.jpg" alt="amazonsale_131022_01" width="546" height="435" class="alignnone size-large wp-image-10014" /><br />
+<p><img src="/wp-content/uploads/amazonsale_131022_01-546x435.jpg" alt="amazonsale_131022_01" width="546" height="435" class="alignnone size-large wp-image-10014" /><br />
 よくAmazonで買い物します。こたら（@kotala_b）です。<br />
 今日もAmazonをのぞいたら秋のタイムセールがやってました！<br />
 </p>
@@ -39,7 +39,7 @@ comments: []
 <a href="https://www.amazon.co.jp/b/?_encoding=UTF8&adid=0A4T12TK7HC2M8F34PZJ&camp=247&creative=7399&linkCode=ur2&node=3828871&ref-refURL=http%3A%2F%2Frcm-fe.amazon-adsystem.com%2Fe%2Fcm%3Ft%3Dsame-22%26o%3D9%26p%3D13%26l%3Dur1%26category%3Dhomekitchen%26banner%3D0CKTFV2MQVTJDXBJ4SG2%26f%3Difr&tag=same-22" target="_blank" rel="nofollow">ホーム&amp;キッチンの10周年感謝祭はこちら</a></p>
 <h3>Amazonのセールを毎日チェックしたい！</h3>
 <p>秋のタイムセールは毎日開催！<br />
-<img src="https://kotalab.com/wp-content/uploads/amazonsale_131022_02-546x210.png" alt="amazonsale_131022_02" width="546" height="210" class="alignnone size-large wp-image-10013" /><br />
+<img src="/wp-content/uploads/amazonsale_131022_02-546x210.png" alt="amazonsale_131022_02" width="546" height="210" class="alignnone size-large wp-image-10013" /><br />
 お買い得なので見逃さずにチェックしたい！<br />
 そんなときはAmazonの公式アプリが便利です！<br />
 アプリを開き「その他」からタイムセール情報を見ることができちゃいます！<br />

@@ -24,7 +24,7 @@ tags:
 - マークダウン
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140224082252.jpg" width="546" height="399" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140224082252.jpg" width="546" height="399" class="slooProImg" /><br />
 iPad Airを使ってブログを書くことが増えてきました。<br />
 MacBook Airで書く時と比べるとどうしても遅くなるのがタグを入れたいときです。<br />
 iPad Airのソフトウェアキーボードでタグを打つには切り替えが必要なので、どうしても遅くなっちゃいます。<br />
@@ -51,7 +51,7 @@ iPad Airのソフトウェアキーボードでタグを打つには切り替え
 <p>htmlではblockquoteタグが引用タグになります。</p>
 <p>引用は先頭に「>」をつける。</p>
 <h3>マークダウン記法は下書きに便利</h3>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140224082250.jpg" width="300" height="513" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140224082250.jpg" width="300" height="513" class="slooProImg" /><br />
 iPad AirではTextwellとするぷろを使ってブログを書いています。<br />
 Textwellでは「Markdown Preview」というアクションを追加すれば、マークダウン記法をhtmlに変換してくれます。<br />
 するぷろでは設定せずにそのままマークダウン記法が使えました。</p>

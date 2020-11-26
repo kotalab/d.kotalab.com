@@ -19,7 +19,7 @@ tags:
 - やってみる
 - バーバラ・シェア
 comments: []
-thumbnail: https://kotalab.com/wp-content/uploads/2016/01/lets-write_20160106-780x520.jpg
+thumbnail: /wp-content/uploads/2016/01/lets-write_20160106-780x520.jpg
 ---
 <p>一年の計は元旦にあり。<br><br />
 こんなことわざもあるくらいですから、年の初めに今年やりたいことを計画してみた人も沢山いると思います。  </p>

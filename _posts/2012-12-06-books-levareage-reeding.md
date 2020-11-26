@@ -25,7 +25,7 @@ tags:
 - 書評
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/leveragereading_121206.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/leveragereading_121206-448x298.jpg" alt="" title="leveragereading_121206" width="448" height="298" class="alignnone size-large wp-image-4571" /></a><br />
+<p><a href="/wp-content/uploads/leveragereading_121206.jpg" target="_blank"><img src="/wp-content/uploads/leveragereading_121206-448x298.jpg" alt="" title="leveragereading_121206" width="448" height="298" class="alignnone size-large wp-image-4571" /></a><br />
 本田直之さんのレバレッジリーディングを読みました。@kotala_bです。<br />
 この本に書いてある読書法は<strong>普通の</strong>読書とは違い、本を読むことを投資として扱っています。<br />
 <strong>将来の自分への投資</strong>です。<br />

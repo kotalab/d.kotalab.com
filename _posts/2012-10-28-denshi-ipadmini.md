@@ -21,7 +21,7 @@ tags:
 - 電子書籍
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/ipadmini_121028.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121028.jpg" alt="" title="ipadmini_121028" width="448" height="252" class="alignnone size-full wp-image-3769" /></a><br />
+<p><a href="/wp-content/uploads/ipadmini_121028.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini_121028.jpg" alt="" title="ipadmini_121028" width="448" height="252" class="alignnone size-full wp-image-3769" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/an-k/4867499173/" target="_blank">電子書籍端末祭！</a> / an-k</span><br />
 iPadminiの発売が待ち遠しいです。@kotala_bです。<br />
 先日の発表されたiPadminiですが発売まで1週間を切りました。<br />

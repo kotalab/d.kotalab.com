@@ -26,10 +26,10 @@ amazonのお買い得情報のご紹介です！<br />
 </p>
 <!--more-->
 <h2>書籍ランキング！</h2>
-<p><a href="https://www.amazon.co.jp/b/?_encoding=UTF8&node=2403637051&tag=same-22&linkCode=ur2&camp=247&creative=1211" target="_blank"><img src="https://kotalab.com/wp-content/uploads/amazon_120622-300x83.jpg" alt="" title="amazon_120622" width="487" height="135" class="alignnone size-medium wp-image-896" align="left" /></a><br style="clear:both;" />2012年上半期Booksランキング掲載の書籍に、Amazonポイント最大7％還元中！<br />
+<p><a href="https://www.amazon.co.jp/b/?_encoding=UTF8&node=2403637051&tag=same-22&linkCode=ur2&camp=247&creative=1211" target="_blank"><img src="/wp-content/uploads/amazon_120622-300x83.jpg" alt="" title="amazon_120622" width="487" height="135" class="alignnone size-medium wp-image-896" align="left" /></a><br style="clear:both;" />2012年上半期Booksランキング掲載の書籍に、Amazonポイント最大7％還元中！<br />
 キャンペーン期間は<strong>7月8日23時59分</strong>まで！</p>
 <h2>梅雨対策！</h2>
-<p><a href="https://www.amazon.co.jp/gp/browse.html/?ie=UTF8&node=2133678051&tag=same-22&linkCode=ur2&camp=247&creative=1211" target="_blank"><img src="https://kotalab.com/wp-content/uploads/amazon_120622_02.gif" alt="" title="amazon_120622_02" width="470" height="170" class="alignnone size-full wp-image-902" /></a><br />
+<p><a href="https://www.amazon.co.jp/gp/browse.html/?ie=UTF8&node=2133678051&tag=same-22&linkCode=ur2&camp=247&creative=1211" target="_blank"><img src="/wp-content/uploads/amazon_120622_02.gif" alt="" title="amazon_120622_02" width="470" height="170" class="alignnone size-full wp-image-902" /></a><br />
 ジメジメした季節を快適に過ごす！<br />
 梅雨対策グッズ特集！</p>
 <h2>洋服も買える！</h2>

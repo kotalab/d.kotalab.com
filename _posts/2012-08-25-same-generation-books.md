@@ -20,7 +20,7 @@ tags:
 - 読んだ
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/blogbook_120825.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/blogbook_120825.jpg" alt="" title="blogbook_120825" width="448" height="336" class="alignnone size-full wp-image-2322" /></a><br />
+<p><a href="/wp-content/uploads/blogbook_120825.jpg" target="_blank"><img src="/wp-content/uploads/blogbook_120825.jpg" alt="" title="blogbook_120825" width="448" height="336" class="alignnone size-full wp-image-2322" /></a><br />
 2つのブログ本を読みました。@kotala_bです。<br />
 【<a href="http://ozpa-h4.com/" target="_blank">OZPAの表4</a>】を書いてる@OZPAさん著書の「<a href="https://www.amazon.co.jp/exec/obidos/asin/4798030724/same-22/" rel="nofollow" name="booklink" target="_blank">あっという間に月25万PVをかせぐ人気ブログのつくり方</a>」と、<br />
 【<a href="http://netafull.net/" target="_blank">[N]ネタフル</a>】を書いてる@kogureさん、【<a href="https://wayohoo.com/" target="_blank">和洋風KAI</a>】を書いてる@isloopさんの2人が書いた「<a href="https://www.amazon.co.jp/exec/obidos/asin/4844331779/same-22/" rel="nofollow" name="booklink" target="_blank">必ず結果が出るブログ運営テクニック100</a>」です。<br />
@@ -69,7 +69,7 @@ comments: []
 ブログを効率よく書くためのツールであったり、ブログの分析方法などが詳しく解説されています。<br />
 2つの本には「楽しんで書くことを大切に」など同じことを言ってる部分もありますが、そこはより大切なところだと感じました。</p>
 <h2>1984年生まれ</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/blogbook_120825_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/blogbook_120825_01.jpg" alt="" title="blogbook_120825_01" width="300" height="450" class="alignnone size-full wp-image-2321" /></a><br />
+<p><a href="/wp-content/uploads/blogbook_120825_01.jpg" target="_blank"><img src="/wp-content/uploads/blogbook_120825_01.jpg" alt="" title="blogbook_120825_01" width="300" height="450" class="alignnone size-full wp-image-2321" /></a><br />
 <span style="font-size:10px;"><a href="http://2012.football.ua/Default.aspx?menu_id=gallery&id=720&photo_id=45524" target="_blank">Испания 2:0 Франция</a> / Football.ua</span><br />
 僕は1984年生まれなんですが、著者の@OZPAさんと@isloopさんも共に1984年生まれということでとても刺激を受けました！<br />
 ちなみに憧れの同い年はバルセロナの<a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%8B%E3%82%A8%E3%82%B9%E3%82%BF" target="_blank">イニエスタ</a>です。<br />
@@ -111,6 +111,6 @@ comments: []
 <section id="rele">
 <h2>関連記事</h2>
 <p>こちらの記事もいかがですか？<br />
-<a href="https://kotalab.com/want-to-do-twenties" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2109" alt="https://kotalab.com/archives/2109" width="150" height="130" align="left" /></a><a href="https://kotalab.com/want-to-do-twenties" target="_blank">【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/books-toyota-6words" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/1696" alt="https://kotalab.com/archives/1696" width="150" height="130" align="left" /></a><a href="https://kotalab.com/books-toyota-6words" target="_blank">トヨタの上司が伝える「自分を成長させる、すぐに実践したい」6つの言葉 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/want-to-do-twenties" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2109" alt="https://kotalab.com/archives/2109" width="150" height="130" align="left" /></a><a href="/want-to-do-twenties" target="_blank">【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note</a><br style="clear:both;" /><br />
+<a href="/books-toyota-6words" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/1696" alt="https://kotalab.com/archives/1696" width="150" height="130" align="left" /></a><a href="/books-toyota-6words" target="_blank">トヨタの上司が伝える「自分を成長させる、すぐに実践したい」6つの言葉 | kotala's note</a><br style="clear:both;" /><br />
 </section>

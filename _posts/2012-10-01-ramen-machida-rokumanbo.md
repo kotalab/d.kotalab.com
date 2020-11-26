@@ -21,33 +21,33 @@ tags:
 - NAGAHAMAろくまんぼー
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130439.jpg" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20121001130439.jpg" width="448" height="336" /><br />
 今日は用事があったので通勤前に町田へ行きました。@kotala_bです。<br />
 ちょうど昼時ということで町田駅から徒歩5分ほどの所にある「NAGAHAMAろくまんぼー」さんへ行ってきました！<br />
 最近は町田にくると大勝軒にばっかいってましたが、今日は別のラーメン！<br />
 </p>
 <!--more-->
 <p>▼店内の壁には所狭しと色紙が並べられています。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130338.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121001130338.jpg" width="448" height="336" /><br />
 よくみて見ると7玉完食というのが目につきます。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130337.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121001130337.jpg" width="448" height="336" /><br />
 7玉完食した人達の記念色紙のようです。<br />
 7玉完食すると色紙の他に記念Tシャツも貰えるようです。<br />
 ▼テーブルのトッピング<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130336.jpg" width="448" height="336" /><br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130335.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121001130336.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121001130335.jpg" width="448" height="336" /><br />
 今回頼んだのは味玉のせとんこつラーメン(700円)と長浜セット(100円)です。<br />
 ▼味玉のせとんこつラーメン<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130333.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121001130333.jpg" width="448" height="336" /><br />
 ▼長浜セットはチャーシューめしと目玉焼きのセット。これで100円は安い！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130332.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121001130332.jpg" width="448" height="336" /><br />
 こうやって並べて見るとたまご食べ過ぎな気がするけど気にしない！<br />
 ▼麺は細麺のストレート<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130331.jpg" width="448" height="598" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121001130331.jpg" width="448" height="598" /><br />
 ▼途中からすった白ごまをかけて食べました<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130330.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121001130330.jpg" width="448" height="336" /><br />
 ▼完食！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121001130329.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121001130329.jpg" width="448" height="336" /><br />
 美味しかったです！<br />
 ごちそうさまでした！</p>
 <h2>NAGAHAMAろくまんぼーさんの情報</h2>

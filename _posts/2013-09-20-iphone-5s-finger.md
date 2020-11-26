@@ -23,7 +23,7 @@ tags:
 - 指紋認証
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iPhone5sfinger_130920-546x519.jpg" alt="iPhone5sfinger_130920" width="546" height="519" class="alignnone size-large wp-image-9573" /><br />
+<p><img src="/wp-content/uploads/iPhone5sfinger_130920-546x519.jpg" alt="iPhone5sfinger_130920" width="546" height="519" class="alignnone size-large wp-image-9573" /><br />
 iPhone 5sを買いました。こたら（@kotala_b）です。<br />
 iPhone 5sの新機能と言えば指紋認証！<br />
 指紋認証の登録と設定方法をご紹介！<br />
@@ -34,21 +34,21 @@ iPhone 5sの新機能と言えば指紋認証！<br />
 「設定」アプリを開く[一般]から[パスコードと指紋認証]を開きます。<br />
 最初はすぐに指紋認証が使えないので、まずはパスコートをオンにします。<br />
 パスコードを設定したらようやく指紋認証の設定ができるようになります。<br />
-<img src="https://kotalab.com/wp-content/uploads/iPhone5sfinger_130920_02-300x532.jpg" alt="iPhone5sfinger_130920_02" width="300" height="532" class="alignnone size-medium wp-image-9569" /></p>
+<img src="/wp-content/uploads/iPhone5sfinger_130920_02-300x532.jpg" alt="iPhone5sfinger_130920_02" width="300" height="532" class="alignnone size-medium wp-image-9569" /></p>
 <h2>指紋の設定方法</h2>
 <p>「指紋を追加」をタップすると指紋を追加できます。<br />
-<img src="https://kotalab.com/wp-content/uploads/iPhone5sfinger_130920_01-300x532.jpg" alt="iPhone5sfinger_130920_01" width="300" height="532" class="alignnone size-medium wp-image-9572" /><br />
+<img src="/wp-content/uploads/iPhone5sfinger_130920_01-300x532.jpg" alt="iPhone5sfinger_130920_01" width="300" height="532" class="alignnone size-medium wp-image-9572" /><br />
 画面の案内通りに指をホームボタンにつけたり離したり繰り返していると設定が完了します。</p>
 <h2>指紋認証の設定と編集</h2>
 <p>指紋認証が使えるのはパスコードロックの解除、Storeでのアプリや音楽購入です。<br />
-<img src="https://kotalab.com/wp-content/uploads/iPhone5sfinger_130920_05-300x532.png" alt="iPhone5sfinger_130920_05" width="300" height="532" class="alignnone size-medium wp-image-9576" /><br />
+<img src="/wp-content/uploads/iPhone5sfinger_130920_05-300x532.png" alt="iPhone5sfinger_130920_05" width="300" height="532" class="alignnone size-medium wp-image-9576" /><br />
 指紋はいくつか登録できるようで、登録した指紋は画面右上の編集ボタンから名前の編集と削除ができます。</p>
 <h3>実際に指紋認証をつかってみた</h3>
 <p>画面のロック解除に指紋認証を使ってみました。<br />
-<img src="https://kotalab.com/wp-content/uploads/iPhone5sfinger_130920_04-300x532.jpg" alt="iPhone5sfinger_130920_04" width="300" height="532" class="alignnone size-medium wp-image-9570" /><br />
+<img src="/wp-content/uploads/iPhone5sfinger_130920_04-300x532.jpg" alt="iPhone5sfinger_130920_04" width="300" height="532" class="alignnone size-medium wp-image-9570" /><br />
 ロック解除の画面で登録した指をホームボタンに乗せるとホーム画面が開きます！<br />
 ▼試しに別の指でやってみると<br />
-<img src="https://kotalab.com/wp-content/uploads/iPhone5sfinger_130920_03-300x532.jpg" alt="iPhone5sfinger_130920_03" width="300" height="532" class="alignnone size-medium wp-image-9571" /><br />
+<img src="/wp-content/uploads/iPhone5sfinger_130920_03-300x532.jpg" alt="iPhone5sfinger_130920_03" width="300" height="532" class="alignnone size-medium wp-image-9571" /><br />
 できない！<br />
 登録した指ではちゃんとロック解除できました！<br />
 今まではパスコードをいちいち入力してたけど、これスゴイ便利！</p>

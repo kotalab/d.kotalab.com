@@ -20,7 +20,7 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/case121017_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/case121017_05.jpg" alt="" title="case121017_05" width="448" height="336" class="alignnone size-full wp-image-3463" /></a><br />
+<p><a href="/wp-content/uploads/case121017_05.jpg" target="_blank"><img src="/wp-content/uploads/case121017_05.jpg" alt="" title="case121017_05" width="448" height="336" class="alignnone size-full wp-image-3463" /></a><br />
 MacBookAirにつけるケースを買いました。@kotala_bです。<br />
 買ったのはSpeckの青いケースです！<br />
 MacBookAirをそのまま入れられるケースかつけるタイプのものにするか迷ったんですが、出し入れするのがいちいち面倒くさそうという理由だけでこのタイプのものを選びました。<br />
@@ -41,20 +41,20 @@ MacBookAirをそのまま入れられるケースかつけるタイプのもの�
 <!--more-->
 <h2>開封！</h2>
 <p>買ったのはMacBookAir13インチ対応、SpeckのSeeThruです！<br />
-<a href="https://kotalab.com/wp-content/uploads/case121017_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/case121017_01.jpg" alt="" title="case121017_01" width="448" height="336" class="alignnone size-full wp-image-3466" /></a><br />
+<a href="/wp-content/uploads/case121017_01.jpg" target="_blank"><img src="/wp-content/uploads/case121017_01.jpg" alt="" title="case121017_01" width="448" height="336" class="alignnone size-full wp-image-3466" /></a><br />
 パッケージを開けると取扱説明書の用なものが貼付けられています。<br />
-<a href="https://kotalab.com/wp-content/uploads/case121017_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/case121017_02.jpg" alt="" title="case121017_02" width="448" height="336" class="alignnone size-full wp-image-3465" /></a><br />
+<a href="/wp-content/uploads/case121017_02.jpg" target="_blank"><img src="/wp-content/uploads/case121017_02.jpg" alt="" title="case121017_02" width="448" height="336" class="alignnone size-full wp-image-3465" /></a><br />
 説明は英語フランス語スペイン語。<br />
 説明文はよくわかりませんが、隣に書いてある絵が単純でわかりやすい！<br />
 MacBookAir本体を拭いてから、底をはめて最後に上のパネルをはめるようです。<br />
 はめてみるとサイズがピッタリ！<br />
-<a href="https://kotalab.com/wp-content/uploads/case121017_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/case121017_03.jpg" alt="" title="case121017_03" width="448" height="336" class="alignnone size-full wp-image-3464" /></a><br />
+<a href="/wp-content/uploads/case121017_03.jpg" target="_blank"><img src="/wp-content/uploads/case121017_03.jpg" alt="" title="case121017_03" width="448" height="336" class="alignnone size-full wp-image-3464" /></a><br />
 横から見るとわかりますが、ケースを付けても厚みがさほど変わりません！<br />
 開いた状態で見るとケースが付いてるか付いてないかもわかりずらい！<br />
-<a href="https://kotalab.com/wp-content/uploads/case121017_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/case121017_06.jpg" alt="" title="case121017_06" width="448" height="336" class="alignnone size-full wp-image-3462" /></a><br />
+<a href="/wp-content/uploads/case121017_06.jpg" target="_blank"><img src="/wp-content/uploads/case121017_06.jpg" alt="" title="case121017_06" width="448" height="336" class="alignnone size-full wp-image-3462" /></a><br />
 何も違和感なくつけれいられます！<br />
 クリアパネルなので表面のリンゴはばっちり見えてます！<br />
-<a href="https://kotalab.com/wp-content/uploads/case121017_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/case121017_05.jpg" alt="" title="case121017_05" width="448" height="336" class="alignnone size-full wp-image-3463" /></a><br />
+<a href="/wp-content/uploads/case121017_05.jpg" target="_blank"><img src="/wp-content/uploads/case121017_05.jpg" alt="" title="case121017_05" width="448" height="336" class="alignnone size-full wp-image-3463" /></a><br />
 まるで青いモデルでも出たかのような雰囲気です！</p>
 <h2>まとめ</h2>
 <p>つけても厚さがさほど変わらずピッタリフィットしているのが気に入りました！<br />

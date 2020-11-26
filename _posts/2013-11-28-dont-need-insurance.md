@@ -22,7 +22,7 @@ tags:
 - 生命保険
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/dontneedinsurance_131128-546x409.jpg" alt="dontneedinsurance_131128" width="546" height="409" class="alignnone size-large wp-image-10253" /><br />
+<p><img src="/wp-content/uploads/dontneedinsurance_131128-546x409.jpg" alt="dontneedinsurance_131128" width="546" height="409" class="alignnone size-large wp-image-10253" /><br />
 前回に続いて、生命保険について書きます。こたら（@kotala_b）です。<br />
 終身保険や定期保険といわれる、死亡時に保険金が受取れる死亡保障の生命保険があります。<br />
 今回はその死亡保障の必要額っていくらなのか、その計算方法を書いてみます。<br />

@@ -21,26 +21,26 @@ tags:
 - Runtastic Road Bike
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg"  width="780" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg"  width="780" class="aligncenter size-large" /></p>
 <p>クロスバイクを買ってから週末に乗るのが楽しみで仕方ありません。<br />
 予定のない日はどこへ行こうか考えるのも楽しいです。</p>
 <p>予定があっても行ける範囲であれば、今までは電車を使って行ってたような場所でもクロスバイクで行ってます。</p>
 <p>ついこの間も、自宅の町田から川崎駅まで片道約30キロの道を2時間くらいかけて行ってきました。</p>
 <!--more-->
 <h2>Runtastic Road Bikeで記録を残そう</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/Icrossbike-iphone_20150527_01.png" alt="Crossbike iphone 20150527 01" width="780" height ="484" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/Icrossbike-iphone_20150527_01.png" alt="Crossbike iphone 20150527 01" width="780" height ="484" class="aligncenter size-large" /></p>
 <p>これは先日、川崎から町田へクロスバイクで移動したときのルートです。<br />
 <span class="b">Runtastic Road BikeというiPhoneアプリ</span>を起動させて走るとこのような記録を残すことができます。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/Icrossbike-iphone_20150527_02.png" alt="Crossbike iphone 20150527 02" width="763" height ="751" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/Icrossbike-iphone_20150527_02.png" alt="Crossbike iphone 20150527 02" width="763" height ="751" class="aligncenter size-large" /></p>
 <p>走行ルートの他には区間ごとのペース、道路のアップダウンも記録されます。</p>
 <p>これらはWeb版の<a href="https://www.runtastic.com/" target="_blank">Runtastic.com</a>から見た情報です。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/Icrossbike-iphone_20150527_03.jpg" alt="Crossbike iphone 20150527 03" width="300" height ="533" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/Icrossbike-iphone_20150527_03.jpg" alt="Crossbike iphone 20150527 03" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>もちろんiPhoneアプリ内でも記録を見ることができます。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/Icrossbike-iphone_20150527_04.jpg" alt="Crossbike iphone 20150527 04" width="300" height ="533" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/Icrossbike-iphone_20150527_04.jpg" alt="Crossbike iphone 20150527 04" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>地図をみると高低差が色でわかるようになっています。</p>
 <p>こういう記録が残っていると、「あのときの夕焼けをバックにした日産スタジアムが綺麗だったなぁ」とか思いだして、「今度はどこへいこう？」と考えるのも楽しくなります。</p>
 <h2>iPhoneを自転車に取り付けよう</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg"  width="780" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg"  width="780" class="aligncenter size-large" /></p>
 <p>走りながらRuntasticで現在地を見たりする、地図アプリのナビ機能を使うこともできます。<br />
 ただし、<strong>片手運転したりながら見運転は危険。</strong></p>
 <p>それに2015年6月1日から道路交通法が大幅に変更され、自転車の交通違反に対する罰則が強化されます。</p>
@@ -53,7 +53,7 @@ via:<a href="http://allabout.co.jp/newsdig/c/77944/2/" target="_blank">自転車
 <p>だからといって、信号で止まってる時にカバンからiPhoneを取り出して地図をみるのは少し面倒でした。</p>
 <p>そこでおすすめなのがiPhoneを自転車にとりつけることです。<br />
 自転車にとりつけておけば信号で止まったときにすぐ見れるし、走りながらナビを起動させておいて音声でルートを聞くこともできます。</p>
-<p>関連記事：<a href="https://kotalab.com/crossbike-iphone-case">クロスバイクにiPhoneを取り付けるケースを購入！iPhoneが見えれば道に迷わないで走れる！</a></p>
+<p>関連記事：<a href="/crossbike-iphone-case">クロスバイクにiPhoneを取り付けるケースを購入！iPhoneが見えれば道に迷わないで走れる！</a></p>
 <h2>さいごに</h2>
 <p>なんでもそうですが使い方を間違えれば危険です。<br />
 iPhoneは清く正しく使いましょう！</p>

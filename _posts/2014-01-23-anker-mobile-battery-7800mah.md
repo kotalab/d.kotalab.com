@@ -32,7 +32,7 @@ comments:
   content: "[&#8230;] ◆ iPhoneを3回以上充電できる！世界中で売れてるモバイルバッテリーhttps://kotalab.com  △ モバイルバッテリーも容量だけではなく、重量と大きさが重要な選択肢となってますよね。その中
     [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/anker-mobile-battery-7800mwh_140122_07-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_07" width="546" height="361" class="alignnone size-large wp-image-10626" /><br />
+<p><img src="/wp-content/uploads/anker-mobile-battery-7800mwh_140122_07-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_07" width="546" height="361" class="alignnone size-large wp-image-10626" /><br />
 モバイルバッテリーは今の僕に欠かせない必須ガジェット。<br />
 iPhoneの他にもiPad Airやそれらをネット接続するためのWi-Fiルーターを普段から持ち歩いています。<br />
 デジタルガジェットはバッテリーがなくてはただのガラクタ。一番の心配事はそれらデジタルガジェットのバッテリー問題です。<br />
@@ -45,19 +45,19 @@ iPhone 5sと並べて大きさを比較してみました。<br />
 <!--more-->
 <h2>モバイルバッテリー「ANKER Astro M2」</h2>
 <p>外箱はこんな感じ。<br />
-<img src="https://kotalab.com/wp-content/uploads/anker-mobile-battery-7800mwh_140122_01-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_01" width="546" height="361" class="alignnone size-large wp-image-10630" /><br />
+<img src="/wp-content/uploads/anker-mobile-battery-7800mwh_140122_01-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_01" width="546" height="361" class="alignnone size-large wp-image-10630" /><br />
 本体は丸みを帯びたフォルム。<br />
-<img src="https://kotalab.com/wp-content/uploads/anker-mobile-battery-7800mwh_140122_02-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_02" width="546" height="361" class="alignnone size-large wp-image-10632" /><br />
+<img src="/wp-content/uploads/anker-mobile-battery-7800mwh_140122_02-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_02" width="546" height="361" class="alignnone size-large wp-image-10632" /><br />
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DQ6UU50/same-22/ref=nosim/" rel="nofollow" target="_blank">ANKER Astro M2</a>は2台同時充電可能。一つは2Aに対応しているのでタブレットの充電も可能です。<br />
-<img src="https://kotalab.com/wp-content/uploads/anker-mobile-battery-7800mwh_140122_03-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_03" width="546" height="361" class="alignnone size-large wp-image-10631" /><br />
+<img src="/wp-content/uploads/anker-mobile-battery-7800mwh_140122_03-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_03" width="546" height="361" class="alignnone size-large wp-image-10631" /><br />
 iPhone 5sを上に置いて。横幅はiPhone 5sと同じくらい。<br />
-<img src="https://kotalab.com/wp-content/uploads/anker-mobile-battery-7800mwh_140122_04-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_04" width="546" height="361" class="alignnone size-large wp-image-10627" /><br />
+<img src="/wp-content/uploads/anker-mobile-battery-7800mwh_140122_04-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_04" width="546" height="361" class="alignnone size-large wp-image-10627" /><br />
 今度は横から。長さはiPhone 5sよりも短いです。<br />
-<img src="https://kotalab.com/wp-content/uploads/anker-mobile-battery-7800mwh_140122_05-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_05" width="546" height="361" class="alignnone size-large wp-image-10628" /><br />
+<img src="/wp-content/uploads/anker-mobile-battery-7800mwh_140122_05-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_05" width="546" height="361" class="alignnone size-large wp-image-10628" /><br />
 iPhone 5sを横に置くと、厚みはiPhone 5sの2倍くらいありました。<br />
-<img src="https://kotalab.com/wp-content/uploads/anker-mobile-battery-7800mwh_140122_06-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_06" width="546" height="361" class="alignnone size-large wp-image-10629" /><br />
+<img src="/wp-content/uploads/anker-mobile-battery-7800mwh_140122_06-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_06" width="546" height="361" class="alignnone size-large wp-image-10629" /><br />
 持ち運び用のポーチと充電用のUSBケーブルがついてきます。<br />
-<img src="https://kotalab.com/wp-content/uploads/anker-mobile-battery-7800mwh_140122_07-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_07" width="546" height="361" class="alignnone size-large wp-image-10626" /></p>
+<img src="/wp-content/uploads/anker-mobile-battery-7800mwh_140122_07-546x361.jpg" alt="anker-mobile-battery-7800mwh_140122_07" width="546" height="361" class="alignnone size-large wp-image-10626" /></p>
 <h3>さいごに</h3>
 <p>ANKER Astro Mシリーズは全3種類。バッテリー容量によって重さやサイズも異なります。<br />
 <a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DQ6THEA/same-22/ref=nosim/" rel="nofollow" target="_blank">ANKER Astro M1</a>は5200mAhで出力は1ポート。<br />
@@ -126,10 +126,10 @@ Amazonでも人気上位のANKER Astro Mシリーズは、女性にもオスス�
 </div>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/acus2t-2port-adapter" target="_blank"><img src="https://kotalab.com/wp-content/uploads/acus2t2portadapter_131107_01-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/acus2t-2port-adapter" target="_blank">iPhoneやiPadで増えたACアダプタをひとまとめにする。外出もこれ1つあれば大丈夫！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/acus2t-2port-adapter" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/acus2t-2port-adapter" alt="" /></a></div>
+<div class="shhtimg"><a href="/acus2t-2port-adapter" target="_blank"><img src="/wp-content/uploads/acus2t2portadapter_131107_01-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/acus2t-2port-adapter" target="_blank">iPhoneやiPadで増えたACアダプタをひとまとめにする。外出もこれ1つあれば大丈夫！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/acus2t-2port-adapter" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/acus2t-2port-adapter" alt="" /></a></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/gadget-porch" target="_blank"><img src="https://kotalab.com/wp-content/uploads/gadgetporch_131019_02-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/gadget-porch" target="_blank">普段使いから旅行まで！「これさえあれば丸1日大丈夫！」なガジェット達</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/gadget-porch"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/gadget-porch" alt="" /></span></div>
+<div class="shhtimg"><a href="/gadget-porch" target="_blank"><img src="/wp-content/uploads/gadgetporch_131019_02-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/gadget-porch" target="_blank">普段使いから旅行まで！「これさえあれば丸1日大丈夫！」なガジェット達</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/gadget-porch"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/gadget-porch" alt="" /></span></div>
 </div>

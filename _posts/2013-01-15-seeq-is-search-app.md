@@ -22,7 +22,7 @@ tags:
 - seeq
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/seeq_20121110.png"><img src="https://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="seeq_20121110" width="300" height="300" class="alignnone size-medium wp-image-4103" /></a><br />
+<p><a href="/wp-content/uploads/seeq_20121110.png"><img src="/wp-content/uploads/seeq_20121110-300x300.png" alt="seeq_20121110" width="300" height="300" class="alignnone size-medium wp-image-4103" /></a><br />
 イチオシのアプリはSeeqです。@kotala_bです。<br />
 Seeqはとっても便利なんですが「URLスキーム」や「ランチャー」といった聞き慣れない言葉に、「興味はあるけどなかなかSeeqに手が出せない」という方も多いんじゃないでしょうか。<br />
 そんな方はSeeqに慣れるためにまずは検索アプリとして使うことをオススメします。</p>
@@ -44,7 +44,7 @@ Libraryは<del datetime="2013-01-16T01:50:26+00:00">アップデート時に更�
 <hr>
 <p>追記<br />
 アプリ開発者の@Rivawanさんよりコメントを頂きました！</p>
-<blockquote class="twitter-tweet" lang="ja"><p>ありがとうございます！ちなみにライブラリーはサーバーにあるので、アップデート時ではなく随時更新されます。たまにチェックしてみてください。 / &ldquo;検索するときはこのアプリ！検索をひとまとめにしてストレスフリー！ | kotala's n&hellip;&rdquo; <a href="https://kotalab.com/seeq-is-search-app" title="http://htn.to/ttAfXA">htn.to/ttAfXA</a></p>
+<blockquote class="twitter-tweet" lang="ja"><p>ありがとうございます！ちなみにライブラリーはサーバーにあるので、アップデート時ではなく随時更新されます。たまにチェックしてみてください。 / &ldquo;検索するときはこのアプリ！検索をひとまとめにしてストレスフリー！ | kotala's n&hellip;&rdquo; <a href="/seeq-is-search-app" title="http://htn.to/ttAfXA">htn.to/ttAfXA</a></p>
 <p>&mdash; りばわん (Yusuke Tsuji) さん (@rivawan) <a href="https://twitter.com/rivawan/status/291086851144572928" data-datetime="2013-01-15T07:38:08+00:00">1月 15, 2013</a></p></blockquote>
 <p><</p>
 <p>p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br />
@@ -52,9 +52,9 @@ Libraryは<del datetime="2013-01-16T01:50:26+00:00">アップデート時に更�
 <hr>
 <p>もし自分が必要な検索手段がLibraryから見つからない場合はツイッターのハッシュタグ「#Seeqに追加」を見てみましょう。<br />
 ▼「#Seeqに追加」で検索する場合も勿論Seeqで！<br />
-<a href="https://kotalab.com/wp-content/uploads/seeq_130115_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq_130115_01-300x513.png" alt="seeq_130115_01" width="300" height="513" class="alignnone size-medium wp-image-5717" /></a><br />
+<a href="/wp-content/uploads/seeq_130115_01.png" target="_blank"><img src="/wp-content/uploads/seeq_130115_01-300x513.png" alt="seeq_130115_01" width="300" height="513" class="alignnone size-medium wp-image-5717" /></a><br />
 ▼検索するとこのように表示されます。<br />
-<a href="https://kotalab.com/wp-content/uploads/seeq_130115_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/seeq_130115_02-300x513.jpg" alt="seeq_130115_02" width="300" height="513" class="alignnone size-medium wp-image-5715" /></a><br />
+<a href="/wp-content/uploads/seeq_130115_02.jpg" target="_blank"><img src="/wp-content/uploads/seeq_130115_02-300x513.jpg" alt="seeq_130115_02" width="300" height="513" class="alignnone size-medium wp-image-5715" /></a><br />
 ここからSeeqに追加する場合は、画像アイコンをコピーしてから掲載されているURLを開くだけ！<br />
 このURLを開くとSeeqの登録画面が出てくるのでSaveを押して完了です！</p>
 <h2>最後に</h2>

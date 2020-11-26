@@ -21,7 +21,7 @@ tags:
 - 睡眠の法則
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/suimin_121003.jpg"><img src="https://kotalab.com/wp-content/uploads/suimin_121003.jpg" alt="" title="suimin_121003" width="448" height="336" class="alignnone size-full wp-image-3097" /></a><br />
+<p><a href="/wp-content/uploads/suimin_121003.jpg"><img src="/wp-content/uploads/suimin_121003.jpg" alt="" title="suimin_121003" width="448" height="336" class="alignnone size-full wp-image-3097" /></a><br />
 <a href="https://www.amazon.co.jp/exec/obidos/asin/4426115272/same-22/" rel="nofollow" name="booklink" target="_blank">あなたの人生を変える睡眠の法則</a>を読みました。@kotala_bです。<br />
 この本は菅原洋平さんという作業療法士の方が書かれた本です。<br />
 本には科学的なメカニズムを知り、質の良い睡眠を取る為の具体的な方法が書かれていました。</p>

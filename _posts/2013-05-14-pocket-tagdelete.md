@@ -20,7 +20,7 @@ tags:
 - 整理整頓
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/pocket_130426-448x448.png" alt="pocket_130426" width="448" height="448" class="alignnone size-large wp-image-6923" />PocketはTagで管理しています。こたら（@kotala_b）です。<br />
+<p><img src="/wp-content/uploads/pocket_130426-448x448.png" alt="pocket_130426" width="448" height="448" class="alignnone size-large wp-image-6923" />PocketはTagで管理しています。こたら（@kotala_b）です。<br />
 整理整頓には欠かせないTag機能。<br />
 PocketのTag自体の編集方法がわからなくて困っていました。<br />
 Pocket公式で調べたら見つけることができました！<br />
@@ -31,12 +31,12 @@ Pocket公式で調べたら見つけることができました！<br />
 <p>まずはブラウザでPocketを開きます。<br />
 ログインすると保存してある記事一覧が表示されます。<br />
 ▼この時、一番下にあるメニューバーの一番右のボタンをクリックします。<br />
-<img src="https://kotalab.com/wp-content/uploads/pockettag_130514_01-448x77.jpg" alt="pockettag_130514_01" width="448" height="77" class="alignnone size-large wp-image-7129" /><br />
+<img src="/wp-content/uploads/pockettag_130514_01-448x77.jpg" alt="pockettag_130514_01" width="448" height="77" class="alignnone size-large wp-image-7129" /><br />
 ▼記事一覧の右側にTagが一覧表示されます。<br />
-<img src="https://kotalab.com/wp-content/uploads/pockettag_130514_02.jpg" alt="pockettag_130514_02" width="199" height="264" class="alignnone size-full wp-image-7131" /><br />
+<img src="/wp-content/uploads/pockettag_130514_02.jpg" alt="pockettag_130514_02" width="199" height="264" class="alignnone size-full wp-image-7131" /><br />
 ここでTag名の左側にある小さい鉛筆マークを押すとTag名の編集が出来ます。<br />
 右側にあるゴミ箱マークはTagの削除になります。<br />
-<img src="https://kotalab.com/wp-content/uploads/pockettag_130514_03.jpg" alt="pockettag_130514_03" width="201" height="268" class="alignnone size-full wp-image-7130" /></p>
+<img src="/wp-content/uploads/pockettag_130514_03.jpg" alt="pockettag_130514_03" width="201" height="268" class="alignnone size-full wp-image-7130" /></p>
 <h2>最後に</h2>
 <p>よーく見てみるとTag名の横には鉛筆マークがありました。<br />
 これを押して編集するなんて全く気づきませんでした。<br />
@@ -53,5 +53,5 @@ Pocket公式で調べたら見つけることができました！<br />
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/pocket-formerly-read-it-later/id309601447?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/pocket-five-reason" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/pocket_130513.jpg" alt="【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由 | kotala's note" width="150" /></a><a href="https://kotalab.com/pocket-five-reason" target="_blank">【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/pocket-ifttt" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/pocketsns_130510-448x216.jpg" alt="【Pocket】PocketとSNSの連携にはIFTTTが便利！Pocketに保存した記事を複数のSNSに同時にシェアする方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/pocket-ifttt" target="_blank">【Pocket】PocketとSNSの連携にはIFTTTが便利！Pocketに保存した記事を複数のSNSに同時にシェアする方法！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/pocket-five-reason" target="_blank"><img  class="alignleft" src="/wp-content/uploads/pocket_130513.jpg" alt="【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由 | kotala's note" width="150" /></a><a href="/pocket-five-reason" target="_blank">【Pocket】「後で読む」に保存したまま後で読まなかった僕が「後で読む」ようになった5つの理由 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/pocket-ifttt" target="_blank"><img  class="alignleft" src="/wp-content/uploads/pocketsns_130510-448x216.jpg" alt="【Pocket】PocketとSNSの連携にはIFTTTが便利！Pocketに保存した記事を複数のSNSに同時にシェアする方法！ | kotala's note" width="150" /></a><a href="/pocket-ifttt" target="_blank">【Pocket】PocketとSNSの連携にはIFTTTが便利！Pocketに保存した記事を複数のSNSに同時にシェアする方法！ | kotala's note</a><br style="clear:both;" /></p>

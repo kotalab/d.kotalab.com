@@ -22,7 +22,7 @@ tags:
 - モバイル比率
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/01/slooProImg_20150112123504.jpg" width="720" height="477" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/01/slooProImg_20150112123504.jpg" width="720" height="477" class="slooProImg" /><br />
 去年1年間と一昨年1年間のアクセスをGoogleAnalyticsで解析してみました。</p>
 <p>解析して知りたかったことのひとつはこのブログのモバイル比率。<br />
 世間的にはネット利用の比率がPCからスマホに変わりつつあるということで、このブログもそうなのか実のところを調べてみました。<br />

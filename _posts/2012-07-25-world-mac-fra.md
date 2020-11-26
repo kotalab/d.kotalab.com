@@ -22,18 +22,18 @@ tags:
 - ルグラン
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" alt="" title="legrand_120718_02" width="448" height="336" class="alignnone size-full wp-image-1539" /></a><br />
+<p><a href="/wp-content/uploads/legrand_120718_02.jpg" target="_blank"><img src="/wp-content/uploads/legrand_120718_02.jpg" alt="" title="legrand_120718_02" width="448" height="336" class="alignnone size-full wp-image-1539" /></a><br />
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/6914750483.html" target="_blank">Enseigne McDonald&rsquo;s</a> / zigazou76</span><br />
 ルグランソーセージを食べました。@kotala_bです。<br />
-<a href="https://kotalab.com/world-mac-fra-2" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/1537" alt="https://kotalab.com/archives/1537" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-fra-2" target="_blank">世界の★★★マック第1弾！ル・グランが今日からスタート！ | kotala's note</a><br style="clear:both;" />先週から始まった「<strong>世界の★★★マック</strong>」第１弾のフランス・マックルグランソーセージを昨日食べました！<br />
+<a href="/world-mac-fra-2" target="_blank"><img src="https://capture.heartrails.com/150x130?https://d.kotalab.com/archives/1537" alt="https://kotalab.com/archives/1537" width="150" height="130" align="left" /></a><a href="/world-mac-fra-2" target="_blank">世界の★★★マック第1弾！ル・グランが今日からスタート！ | kotala's note</a><br style="clear:both;" />先週から始まった「<strong>世界の★★★マック</strong>」第１弾のフランス・マックルグランソーセージを昨日食べました！<br />
 </p>
 <!--more-->
 <h2>食べてみた！</h2>
 <p>▼<strong>ルグランソーセージ</strong>オリジナルの黄色い包み紙。<br />
-<a href="https://kotalab.com/wp-content/uploads/macLegrand_120725_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/macLegrand_120725_01.jpg" alt="" title="macLegrand_120725_01" width="448" height="336" class="alignnone size-full wp-image-1652" /></a><br />
+<a href="/wp-content/uploads/macLegrand_120725_01.jpg" target="_blank"><img src="/wp-content/uploads/macLegrand_120725_01.jpg" alt="" title="macLegrand_120725_01" width="448" height="336" class="alignnone size-full wp-image-1652" /></a><br />
 ▼開けるとレタス・ポークソーセージ・ビーフパティと上から順に重なってる！<br />
 写真からは見えないけど、ビーフパティの下にはチーズも入っています。<br />
-<a href="https://kotalab.com/wp-content/uploads/macLegrand_120725_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/macLegrand_120725_02.jpg" alt="" title="macLegrand_120725_02" width="448" height="336" class="alignnone size-full wp-image-1651" /></a><br />
+<a href="/wp-content/uploads/macLegrand_120725_02.jpg" target="_blank"><img src="/wp-content/uploads/macLegrand_120725_02.jpg" alt="" title="macLegrand_120725_02" width="448" height="336" class="alignnone size-full wp-image-1651" /></a><br />
 ルグラン特製のパン、チャバタは中がもちもちした食感でした。<br />
 ブラックペッパーがついたポークソーセージの味がビーフパティと合わさって香ばしくジューシーでした！<br />
 おいしかったです！</p>

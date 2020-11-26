@@ -21,7 +21,7 @@ tags:
 - 近藤誠
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-medical-gan_140220-546x409.jpg" alt="books-medical-gan_140220" width="546" height="409" class="alignnone size-large wp-image-10876" /><br />
+<p><img src="/wp-content/uploads/books-medical-gan_140220-546x409.jpg" alt="books-medical-gan_140220" width="546" height="409" class="alignnone size-large wp-image-10876" /><br />
 僕たちはがんのことをどれだけ知ってるだろう。<br />
 僕はがんになると辛い、苦しい、余命何ヶ月と宣告される。<br />
 とてもつらい病気というイメージがほとんどだ。でもこの<span class="b">辛い苦しいというイメージ自体が実は間違ったものだったのかも知れない</span>。</p>

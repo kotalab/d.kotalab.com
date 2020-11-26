@@ -20,21 +20,21 @@ tags:
 - iOS9
 - コンテンツブロッカー
 comments: []
-thumbnail: https://kotalab.com/wp-content/uploads/2015/09/content-blocker-off_20150927_04.jpg
+thumbnail: /wp-content/uploads/2015/09/content-blocker-off_20150927_04.jpg
 ---
 <p>iOS9からiPhoneのSafariに追加されたコンテンツブロッカー。</p>
 <p>コンテンツブロッカーのON/OFFの切り替えにはいちいちiPhoneの設定アプリを開いて設定変更をしなければなりません。</p>
 <p>いちいち変えなきゃいけないのは面倒くさいと思っていたのですが、今見ているページのコンテンツブロッカーだけをサッとオフにする方法がありました！</p>
 <!--more-->
 <h2>手軽にコンテンツブロッカーをオフにする方法</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/content-blocker-off_20150927_01.jpg" alt="Content blocker off 20150927 01" width="300" height ="533" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/09/content-blocker-off_20150927_01.jpg" alt="Content blocker off 20150927 01" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>コンテンツブロッカーがONになっている状態でSafariを開いていたとします。<br />
 WebNoteというアプリのコンテンツブロッカーを使っているこの状態では、画像が何も表示されていません。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/content-blocker-off_20150927_05.jpg" alt="Content blocker off 20150927 05" width="300" height ="533" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/09/content-blocker-off_20150927_05.jpg" alt="Content blocker off 20150927 05" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>ここでコンテンツブロッカーをオフにしたい時は、アドレスバーの右端にある更新ボタンを長押しします。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/content-blocker-off_20150927_02.jpg" alt="Content blocker off 20150927 02" width="300" height ="533" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/09/content-blocker-off_20150927_02.jpg" alt="Content blocker off 20150927 02" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>長押しすると下の方から「コンテンツブロッカーなしで再読み込み」というボタンが出てきます。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/09/content-blocker-off_20150927_03.jpg" alt="Content blocker off 20150927 03" width="300" height ="533" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/09/content-blocker-off_20150927_03.jpg" alt="Content blocker off 20150927 03" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>ボタンを押すと今見ているページがコンテンツブロッカー無しの状態で再読み込みされました。</p>
 <h2>さいごに</h2>
 <p>この方法を使えば、コンテンツブロッカーのON/OFFをサッと切り替えられて便利です。</p>

@@ -26,18 +26,18 @@ tags:
 - Maps+
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/iphone5_120924_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5_120924_04.jpg" alt="" title="iphone5_120924_04" width="448" height="598" class="alignnone size-full wp-image-2956" /></a><br />
+<p><a href="/wp-content/uploads/iphone5_120924_04.jpg" target="_blank"><img src="/wp-content/uploads/iphone5_120924_04.jpg" alt="" title="iphone5_120924_04" width="448" height="598" class="alignnone size-full wp-image-2956" /></a><br />
 iPhone5に変えて2週間経ちました。@kotala_bです。<br />
 買ってから2週間使ってみてこれはやっておきたいということを3つにまとめました！<br />
 </p>
 <!--more-->
 <h2>1.データの移行</h2>
 <p>僕はまず今まで使っていたiPhone4SからiPhone5へデータを移行させました。<br />
-<a href="https://kotalab.com/from-iphone-to-iphone" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iphone_120911.jpg" alt="iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/from-iphone-to-iphone" target="_blank">iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/from-iphone-to-iphone" target="_blank"><img  class="alignleft" src="/wp-content/uploads/iphone_120911.jpg" alt="iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note" width="150" /></a><a href="/from-iphone-to-iphone" target="_blank">iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note</a><br style="clear:both;" /><br />
 を買う前に調べた内容ですが、実際に買ってこの通りにやってみたところ簡単にデータを移すことが出来ました。<br />
 iPhone以外からiPhone5へ移行する際はPCを使って移行する方法があるようです。<br />
 <a href="http://news.livedoor.com/article/detail/6966187/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://news.livedoor.com/article/detail/6966187/" alt="AndroidからiPhoneへ、乗り換え手順ガイド(GIZMODO) - IT - livedoor ニュース" width="150" height="130" /></a><a href="http://news.livedoor.com/article/detail/6966187/" target="_blank">AndroidからiPhoneへ、乗り換え手順ガイド(GIZMODO) - IT - livedoor ニュース</a><a href="https://b.hatena.ne.jp/entry/http://news.livedoor.com/article/detail/6966187/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://news.livedoor.com/article/detail/6966187/" alt="" /></a><br style="clear:both;" />僕がandroidからiPhone4Sへ移行した時は電話帳だけ移行させました。<br />
-<a href="https://kotalab.com/from-medias-to-iphone" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iphone_01.jpg" alt="mediasWP(n-06c)から簡単にiPhoneへ電話帳を移行する方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/from-medias-to-iphone" target="_blank">mediasWP(n-06c)から簡単にiPhoneへ電話帳を移行する方法！ | kotala's note</a><br style="clear:both;" />電話帳以外にも写真や動画など様々なデータがケータイには入っています。<br />
+<a href="/from-medias-to-iphone" target="_blank"><img  class="alignleft" src="/wp-content/uploads/iphone_01.jpg" alt="mediasWP(n-06c)から簡単にiPhoneへ電話帳を移行する方法！ | kotala's note" width="150" /></a><a href="/from-medias-to-iphone" target="_blank">mediasWP(n-06c)から簡単にiPhoneへ電話帳を移行する方法！ | kotala's note</a><br style="clear:both;" />電話帳以外にも写真や動画など様々なデータがケータイには入っています。<br />
 バックアップという意味でもケータイ以外にもPCやクラウド上に同じデータを複数の場所に置いておくと、機種変の時や紛失してしまった時に役立ちます。</p>
 <h2>2.マップアプリの導入</h2>
 <p>iOS6からはGoogleマップをやめ独自の地図を採用しています。<br />
@@ -53,7 +53,7 @@ iPhone5は最初からiOS6を搭載しているので初期状態の地図アプ
 <hr>
 <p><strong>12月13日追記</strong><br />
 Googlemapsアプリがついに登場しました！<br />
-<a href="https://kotalab.com/googlemaps-ios-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/googlemaps_121213-448x448.png" alt="iPhone5にGoogleMapsがやってきた！待ちに待った地図アプリが遂にリリース！ | kotala's note" width="150" /></a><a href="https://kotalab.com/googlemaps-ios-app" target="_blank">iPhone5にGoogleMapsがやってきた！待ちに待った地図アプリが遂にリリース！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/googlemaps-ios-app" target="_blank"><img  class="alignleft" src="/wp-content/uploads/googlemaps_121213-448x448.png" alt="iPhone5にGoogleMapsがやってきた！待ちに待った地図アプリが遂にリリース！ | kotala's note" width="150" /></a><a href="/googlemaps-ios-app" target="_blank">iPhone5にGoogleMapsがやってきた！待ちに待った地図アプリが遂にリリース！ | kotala's note</a><br style="clear:both;" /><br />
 <strong>追記終わり</strong></p>
 <hr>
 <h2>3.バッテリーを長持ちさせる設定</h2>

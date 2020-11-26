@@ -20,33 +20,33 @@ tags:
 - GIANT
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg" alt="Crossbike iphone case 20150517 02" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg" alt="Crossbike iphone case 20150517 02" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>クロスバイクを購入して2週間。<br />
-先週の休みは<a href="https://kotalab.com/tag/情報発信・ブランディング講座" target="_blank">情報発信・ブランディング講座</a>に参加するために芝公園まで行っていたので、クロスバイクには乗りませんでした。</p>
+先週の休みは<a href="/tag/情報発信・ブランディング講座" target="_blank">情報発信・ブランディング講座</a>に参加するために芝公園まで行っていたので、クロスバイクには乗りませんでした。</p>
 <p>今週こそは！と思ったんですが、土曜日はあいにくの天気。</p>
 <p>日曜日は元々予定はなかったんですが、親戚のうちで赤ちゃんが産まれたということで、川崎市にある病院まで行くことになりました。<br />
 僕の住んでる町田からはだいたい30キロくらい。</p>
 <p>先日、<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00S0CO4HK/same-22/ref=nosim/" rel="nofollow" target="_blank">クロスバイクにiPhoneを取り付けるケース</a>を買って、どうしてもそれを使いたかった僕は川崎までクロスバイクで行くことにしました。</p>
 <!--more-->
 <h2>iPhone6Plusも入る自転車用ケース</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_01.jpg" alt="Crossbike iphone case 20150517 01" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_01.jpg" alt="Crossbike iphone case 20150517 01" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>買ったケースはポーチのようになっていて、</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_03.jpg" alt="Crossbike iphone case 20150517 03" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_03.jpg" alt="Crossbike iphone case 20150517 03" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>クロスバイクのフレームにベルクロで固定させて使います。<br />
 ベルクロは3つあって、ポーチの下に2つ上部に1つとなっているので走行中に足があたってもずれることはありませんでした。<br />
 もともとiPhone6Plusが入るギリギリの幅みたいでそんなに太くないので、足が当たることは滅多にありません。</p>
 <h2>ケースの上からでもiPhoneが操作できる</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg" alt="Crossbike iphone case 20150517 02" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg" alt="Crossbike iphone case 20150517 02" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>乗ってる時はこんな風に見えます。</p>
 <p>ケースの上からでもiPhoneのタッチパネルが反応するようになっているので、いちいちケースから取り外さなくても操作可能です。<br />
 ただし、日中の日向では<span class="b">iPhoneの明るさを最大にしても見えにくい</span>ですし、熱もこもりやすいので信号待ちでiPhoneを操作しようと思っても<span class="b">高温になっていてiPhoneの操作自体ができません</span>でした。</p>
 <p><strong>暑い時期は何か対策が必要に感じました。</strong></p>
 <h2>iPhone以外もいろいろ入る</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_04.jpg" alt="Crossbike iphone case 20150517 04" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_04.jpg" alt="Crossbike iphone case 20150517 04" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>iPhoneを入れておく場所の下はスペースになっていて、</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_05.jpg" alt="Crossbike iphone case 20150517 05" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_05.jpg" alt="Crossbike iphone case 20150517 05" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>カントリーマアムがぎりぎり入るか入らないかくらいの厚みがあります。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_06.jpg" alt="Crossbike iphone case 20150517 06" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_06.jpg" alt="Crossbike iphone case 20150517 06" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>なので、モバイルバッテリーや充電ケーブル、鍵や小銭入れくらいならこのスペースに収まります。</p>
 <p>モバイルバッテリーも充電ケーブルも入るんですが、残念なことにiPhone6Plusだと充電しながらケースに入れて走るのは非常に難しいです。<br />
 無理やり押し込めば充電しながらでも収まりましたけど、充電ケーブルの根元が曲がってしまうので、<span class="b">使い続けるといつかケーブルが断線してしまいそう</span>です。</p>

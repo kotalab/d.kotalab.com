@@ -23,7 +23,7 @@ tags:
 - Yosemite
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/yosemite-shortcut_201411010-780x520.jpg" alt="yosemite-shortcut_201411010" width="780" height="520" class="aligncenter size-large wp-image-13582" /><br />
+<p><img src="/wp-content/uploads/yosemite-shortcut_201411010-780x520.jpg" alt="yosemite-shortcut_201411010" width="780" height="520" class="aligncenter size-large wp-image-13582" /><br />
 ショートカットキーを覚えておけば、キーボード操作で色んなことができちゃいます！<br />
 ショートカットは何かと便利なんですが、その数も沢山。<br />
 一度に沢山覚えようとしてもなかなか難しいので、まずはこれだけでもというショートカットを紹介したいと思います。<br />

@@ -26,7 +26,7 @@ tags:
 - WS-50 Smart Body Analyzer
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/ws50_130726-448x296.jpg" alt="ws50_130726" width="448" height="296" class="alignnone size-large wp-image-7914" /><br />
+<p><img src="/wp-content/uploads/ws50_130726-448x296.jpg" alt="ws50_130726" width="448" height="296" class="alignnone size-large wp-image-7914" /><br />
 2月の末から体重計のない生活をしていました。こたら（@kotala_b）です。<br />
 健康管理に欠かすことの出来ない体重計。<br />
 かねてから新しく体重計が欲しくて、次に体重計を買う時はiPhoneやMacと連携出来るモノにしようと思っていました。<br />
@@ -34,7 +34,7 @@ comments: []
 iPhoneやMacと連携出来るのはWithingsのWifiBodyScaleただひとつでした。<br />
 Withingsの体重計を調べているとWS-50という新型が4月に発売されることを知ります。<br />
 残念なことに日本でのは発売はまだでした。<br />
-<a href="https://kotalab.com/withings-ws50" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/withings_130406-448x336.jpg" alt="日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note" width="150" /></a><a href="https://kotalab.com/withings-ws50" target="_blank">日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note</a><br style="clear:both;" />日本で発売されたら絶対買おうと思っていて、今週の火曜日にふとAmazonを見てみるとなんと<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings WS-50</a>が売られているではありませんか！<br />
+<a href="/withings-ws50" target="_blank"><img  class="alignleft" src="/wp-content/uploads/withings_130406-448x336.jpg" alt="日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note" width="150" /></a><a href="/withings-ws50" target="_blank">日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note</a><br style="clear:both;" />日本で発売されたら絶対買おうと思っていて、今週の火曜日にふとAmazonを見てみるとなんと<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank">Withings WS-50</a>が売られているではありませんか！<br />
 WS-50を知った時から欲しい欲しいとずっと言っていたこともあり、パートナーの了承もすんなり得られて無事買うことが出来ました！</p>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00DIBEDZQ/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31rQcZYY9zL._SL160_.jpg" style="border: none;" /></a></div>
@@ -58,28 +58,28 @@ WS-50を知った時から欲しい欲しいとずっと言っていたことも
 そんな理由からWithings WS-50を買おうと決めていました。</p>
 <h2>これがWithings WS-50だ！</h2>
 <p>注文から2日後、仕事から帰ると大きなAmazonの段ボールが届いていました！<br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726_01-448x336.jpg" alt="ws50_130726_01" width="448" height="336" class="alignnone size-large wp-image-7915" /><br />
+<img src="/wp-content/uploads/ws50_130726_01-448x336.jpg" alt="ws50_130726_01" width="448" height="336" class="alignnone size-large wp-image-7915" /><br />
 これを開けると小さい段ボールがもう1つ。<br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726_02-448x296.jpg" alt="ws50_130726_02" width="448" height="296" class="alignnone size-large wp-image-7913" /><br />
+<img src="/wp-content/uploads/ws50_130726_02-448x296.jpg" alt="ws50_130726_02" width="448" height="296" class="alignnone size-large wp-image-7913" /><br />
 2回段ボールを開けてようやくお目見え！<br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726_03-448x296.jpg" alt="ws50_130726_03" width="448" height="296" class="alignnone size-large wp-image-7912" /><br />
+<img src="/wp-content/uploads/ws50_130726_03-448x296.jpg" alt="ws50_130726_03" width="448" height="296" class="alignnone size-large wp-image-7912" /><br />
 これがWithings WS-50だ！<br />
 裏側はこんな感じ。<br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726_04-448x296.jpg" alt="ws50_130726_04" width="448" height="296" class="alignnone size-large wp-image-7911" /><br />
+<img src="/wp-content/uploads/ws50_130726_04-448x296.jpg" alt="ws50_130726_04" width="448" height="296" class="alignnone size-large wp-image-7911" /><br />
 中身は簡単な説明書と体重計が入っているだけ。<br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726_05-448x296.jpg" alt="ws50_130726_05" width="448" height="296" class="alignnone size-large wp-image-7910" /><br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726_06-448x296.jpg" alt="ws50_130726_06" width="448" height="296" class="alignnone size-large wp-image-7909" /><br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726_07-448x296.jpg" alt="ws50_130726_07" width="448" height="296" class="alignnone size-large wp-image-7908" /><br />
+<img src="/wp-content/uploads/ws50_130726_05-448x296.jpg" alt="ws50_130726_05" width="448" height="296" class="alignnone size-large wp-image-7910" /><br />
+<img src="/wp-content/uploads/ws50_130726_06-448x296.jpg" alt="ws50_130726_06" width="448" height="296" class="alignnone size-large wp-image-7909" /><br />
+<img src="/wp-content/uploads/ws50_130726_07-448x296.jpg" alt="ws50_130726_07" width="448" height="296" class="alignnone size-large wp-image-7908" /><br />
 とってもシンプル！<br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726-448x296.jpg" alt="ws50_130726" width="448" height="296" class="alignnone size-large wp-image-7914" /></p>
+<img src="/wp-content/uploads/ws50_130726-448x296.jpg" alt="ws50_130726" width="448" height="296" class="alignnone size-large wp-image-7914" /></p>
 <h2>Smartな機能</h2>
 <p>二酸化炭素濃度がわかると快適な生活が出来そう！<br />
 そう思って買ってみた訳ですが実際のところは使ってみないとわからないというのがホントのところ。<br />
 iPhoneアプリの「<span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fwithingsherusukonpanion%252Fid542701020%253Fmt%253D8%2526uo%253D4">Withingsヘルスコンパニオン</span>」と連携させて部屋の状態がどうやって表示されるのかを見てみました。<br />
 <a href="https://itunes.apple.com/jp/app/withingsherusukonpanion/id542701020?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">Withingsヘルスコンパニオン</a>のダッシュボード画面にはCO2レベルと温度が表示されます。<br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726_08-300x513.jpg" alt="ws50_130726_08" width="300" height="513" class="alignnone size-medium wp-image-7917" /><br />
+<img src="/wp-content/uploads/ws50_130726_08-300x513.jpg" alt="ws50_130726_08" width="300" height="513" class="alignnone size-medium wp-image-7917" /><br />
 これをグラフで見ることも出来ました。<br />
-<img src="https://kotalab.com/wp-content/uploads/ws50_130726_09-300x513.jpg" alt="ws50_130726_09" width="300" height="513" class="alignnone size-medium wp-image-7916" /><br />
+<img src="/wp-content/uploads/ws50_130726_09-300x513.jpg" alt="ws50_130726_09" width="300" height="513" class="alignnone size-medium wp-image-7916" /><br />
 昨日の夜から今日の午前中までの記録しかありませんが、寝ている間はほぼ一定の室温が保たれていることがわかりました。<br />
 太陽が出てくると室温が上昇していくのもはっきりとわかります。<br />
 今は窓を開けっ放しにしてるせいかCO2レベルも低めで、これを超えると不快感が出始めると言われる1000PPMを下回っている時間がほとんど。<br />
@@ -117,4 +117,4 @@ iPhoneアプリの「<span class="removed_link" title="click.linksynergy.com/fs-
 <div class="booklink-footer"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/withings-ws50" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/withings_130406-448x336.jpg" alt="日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note" width="150" /></a><a href="https://kotalab.com/withings-ws50" target="_blank">日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/withings-ws50" target="_blank"><img  class="alignleft" src="/wp-content/uploads/withings_130406-448x336.jpg" alt="日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note" width="150" /></a><a href="/withings-ws50" target="_blank">日本で発売されたら間違いなく買う！体重計の域を超えた体重計があのWithingsから登場！ | kotala's note</a><br style="clear:both;" /></p>

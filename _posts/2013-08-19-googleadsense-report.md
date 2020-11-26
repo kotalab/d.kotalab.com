@@ -21,7 +21,7 @@ tags:
 - google AdSense
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/adsense_130819_01-448x322.jpg" alt="adsense_130819_01" width="448" height="322" class="alignnone size-large wp-image-8079" /><br />
+<p><img src="/wp-content/uploads/adsense_130819_01-448x322.jpg" alt="adsense_130819_01" width="448" height="322" class="alignnone size-large wp-image-8079" /><br />
 Google AdSenseの便利機能を見つけました。こたら（@kotala_b）です。<br />
 ブログを書いている人ならGoogle AdSenseの広告を利用している人も多いはず。<br />
 ではGoogle AdSenseの収益はどうやってチェックしていますか？<br />
@@ -34,16 +34,16 @@ Google AdSenseの便利機能を見つけました。こたら（@kotala_b）で
 この設定はGoogle AdSense内のパフォーマンスレポートタブから設定することができます。</p>
 <h3>Google AdSenseのレポートを保存する</h3>
 <p>パフォーマンスレポートを開いたら画面上部にある「レポートを保存」を選択。<br />
-<img src="https://kotalab.com/wp-content/uploads/adsense_130819_05-448x177.jpg" alt="adsense_130819_05" width="448" height="177" class="alignnone size-large wp-image-8086" /><br />
+<img src="/wp-content/uploads/adsense_130819_05-448x177.jpg" alt="adsense_130819_05" width="448" height="177" class="alignnone size-large wp-image-8086" /><br />
 「このレポートを定期的に自動で作成」にチェックを入れます。<br />
-<img src="https://kotalab.com/wp-content/uploads/adsense_130819_02.jpg" alt="adsense_130819_02" width="411" height="160" class="alignnone size-full wp-image-8081" /><br />
+<img src="/wp-content/uploads/adsense_130819_02.jpg" alt="adsense_130819_02" width="411" height="160" class="alignnone size-full wp-image-8081" /><br />
 すると「作成頻度」というのが出てくるので希望の作成頻度と期間を設定し、送信先のメールアドレスを指定します。<br />
-<img src="https://kotalab.com/wp-content/uploads/adsense_130819_03.jpg" alt="adsense_130819_03" width="401" height="321" class="alignnone size-full wp-image-8082" /><br />
+<img src="/wp-content/uploads/adsense_130819_03.jpg" alt="adsense_130819_03" width="401" height="321" class="alignnone size-full wp-image-8082" /><br />
 <strong>毎日を選択すると毎朝、毎週を選択すると月曜の朝、毎月を選択すると毎月1日の朝にレポートが送られてくるようになります。</strong></p>
 <h3>スケジュール設定したレポートを編集する方法</h3>
 <p>スケジュール設定したレポートは後からスケジュールと期間の編集が可能です。<br />
 編集方法はパフォーマンスレポートタブを開き、左パネルの一番下にある「保存済みレポート」の「管理」を選択します。<br />
-<img src="https://kotalab.com/wp-content/uploads/adsense_130819_04.jpg" alt="adsense_130819_04" width="202" height="358" class="alignnone size-full wp-image-8080" /><br />
+<img src="/wp-content/uploads/adsense_130819_04.jpg" alt="adsense_130819_04" width="202" height="358" class="alignnone size-full wp-image-8080" /><br />
 すると保存済みのレポートが一覧表示されるので、設定を変えたいレポートの横にある「編集」を押し設定変更できます。</p>
 <h3>定期的に自動で送られてくるメールは便利</h3>
 <p>送られてくるメールには指定期間分のレポートがZIP形式で圧縮されたCSVファイルで送られてきます。<br />

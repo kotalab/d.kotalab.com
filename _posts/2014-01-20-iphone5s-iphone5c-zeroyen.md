@@ -56,7 +56,7 @@ comments:
   content: "[&#8230;] ◆ iPhone 5sとiPhone 5cが一括0円のお店続々！ドコモなら3円運用可能に！https://kotalab.com
     [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_01-546x361.jpg" alt="iphone5s-iphone5c-zeroyen_140120_01" width="546" height="361" class="alignnone size-large wp-image-10611" /><br />
+<p><img src="/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_01-546x361.jpg" alt="iphone5s-iphone5c-zeroyen_140120_01" width="546" height="361" class="alignnone size-large wp-image-10611" /><br />
 ついにというかなんというか。<br />
 iPhoneの投げ売りが開始されています。<br />
 iPhone 5cの機種代一括0円、iPhone 5sまで機種代一括0円で売るお店が出てきています。<br />
@@ -213,7 +213,7 @@ iPhone 5cの機種代一括0円、iPhone 5sまで機種代一括0円で売るお
 </table>
 <p>あくまで最低利用料なので、パケット通信をすると利用料は上がります。</p>
 <h3>さいごに</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_02-546x361.jpg" alt="iphone5s-iphone5c-zeroyen_140120_02" width="546" height="361" class="alignnone size-large wp-image-10612" /><br />
+<p><img src="/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_02-546x361.jpg" alt="iphone5s-iphone5c-zeroyen_140120_02" width="546" height="361" class="alignnone size-large wp-image-10612" /><br />
 一括0円で買えるとなるともともとの機種代金が高いドコモは毎月の割引料も高いので、その分毎月の利用料はお得に利用できることがわかりました。<br />
 しかもドコモはパケットフラット加入なしでも基本料無料！<br />
 パケットフラットを契約しないで家のWi-Fiだけで運用すれば、たった3円で子機としてiPhoneを贅沢に使うこともできちゃいます。<br />
@@ -221,16 +221,16 @@ iPhone 5cの機種代一括0円、iPhone 5sまで機種代一括0円で売るお
 </span></p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/mnp-cost" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_02-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/mnp-cost" target="_blank">得するMNP契約をするために知っておきたいMNPに関する費用まとめ</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/mnp-cost"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/mnp-cost" alt="" /></span></div>
+<div class="shhtimg"><a href="/mnp-cost" target="_blank"><img src="/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_02-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/mnp-cost" target="_blank">得するMNP契約をするために知っておきたいMNPに関する費用まとめ</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/mnp-cost"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/mnp-cost" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/abandoning-carrier-mail" target="_blank"><img src="https://kotalab.com/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/abandoning-carrier-mail" target="_blank">脱キャリアメールのすすめ。MNPがおトクすぎる今だからこそ</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/abandoning-carrier-mail" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/abandoning-carrier-mail" alt="" /></a></div>
+<div class="shhtimg"><a href="/abandoning-carrier-mail" target="_blank"><img src="/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/abandoning-carrier-mail" target="_blank">脱キャリアメールのすすめ。MNPがおトクすぎる今だからこそ</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/abandoning-carrier-mail" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/abandoning-carrier-mail" alt="" /></a></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/gmail-main-mail" target="_blank"><img src="https://kotalab.com/wp-content/uploads/gmailmainmail_130916-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/gmail-main-mail" target="_blank">MNPするならメールはGmailを使うと断然便利！Gmailをメインのメアドとして使う方法</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/gmail-main-mail" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/gmail-main-mail" alt="" /></a></div>
+<div class="shhtimg"><a href="/gmail-main-mail" target="_blank"><img src="/wp-content/uploads/gmailmainmail_130916-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/gmail-main-mail" target="_blank">MNPするならメールはGmailを使うと断然便利！Gmailをメインのメアドとして使う方法</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/gmail-main-mail" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/gmail-main-mail" alt="" /></a></div>
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">

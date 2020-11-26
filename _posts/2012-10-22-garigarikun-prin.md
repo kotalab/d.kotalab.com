@@ -20,7 +20,7 @@ tags:
 - ガリガリ君
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/garigarikun_121022.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/garigarikun_121022.jpg" alt="" title="garigarikun_121022" width="448" height="336" class="alignnone size-full wp-image-3608" /></a><br />
+<p><a href="/wp-content/uploads/garigarikun_121022.jpg" target="_blank"><img src="/wp-content/uploads/garigarikun_121022.jpg" alt="" title="garigarikun_121022" width="448" height="336" class="alignnone size-full wp-image-3608" /></a><br />
 ガリガリ君を久しぶりに食べました。@kotala_bです。<br />
 ガリガリ君と言えば先月のリッチコーンポタージュのニュースが記憶に新しいところです。<br />
 <a href="http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" alt="「ガリガリ君リッチコーンポタージュ」わずか３日間で販売休止 - MSN産経ニュース" width="150" height="130" /></a><a href="http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" target="_blank">「ガリガリ君リッチコーンポタージュ」わずか３日間で販売休止 - MSN産経ニュース</a><a href="https://b.hatena.ne.jp/entry/http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://sankei.jp.msn.com/economy/news/120906/rls12090616500010-n1.htm" alt="" /></a><br style="clear:both;" />発売されてたった3日間で販売が休止となりました。<br />
@@ -33,17 +33,17 @@ comments: []
 コンポタ味の様に販売休止になっては食べられないので、早速仕事帰りにコンビニに寄って買ってきました！</p>
 <h2>早速食べてみた</h2>
 <p>プリン色のパッケージ！<br />
-<a href="https://kotalab.com/wp-content/uploads/garigarikun_121022_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/garigarikun_121022_01.jpg" alt="" title="garigarikun_121022_01" width="448" height="336" class="alignnone size-full wp-image-3609" /></a><br />
+<a href="/wp-content/uploads/garigarikun_121022_01.jpg" target="_blank"><img src="/wp-content/uploads/garigarikun_121022_01.jpg" alt="" title="garigarikun_121022_01" width="448" height="336" class="alignnone size-full wp-image-3609" /></a><br />
 リッチプリンプリンの文字が目立ちます。<br />
 いざ開封！<br />
 出てきたのはプリン色のガリガリ君！<br />
-<a href="https://kotalab.com/wp-content/uploads/garigarikun_121022_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/garigarikun_121022_02.jpg" alt="" title="garigarikun_121022_02" width="448" height="336" class="alignnone size-full wp-image-3610" /></a><br />
+<a href="/wp-content/uploads/garigarikun_121022_02.jpg" target="_blank"><img src="/wp-content/uploads/garigarikun_121022_02.jpg" alt="" title="garigarikun_121022_02" width="448" height="336" class="alignnone size-full wp-image-3610" /></a><br />
 少し食べるとカラメルソース部分が出てきました<br />
-<a href="https://kotalab.com/wp-content/uploads/garigarikun_121022_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/garigarikun_121022_03.jpg" alt="" title="garigarikun_121022_03" width="448" height="336" class="alignnone size-full wp-image-3611" /></a><br />
+<a href="/wp-content/uploads/garigarikun_121022_03.jpg" target="_blank"><img src="/wp-content/uploads/garigarikun_121022_03.jpg" alt="" title="garigarikun_121022_03" width="448" height="336" class="alignnone size-full wp-image-3611" /></a><br />
 もう少し食べると更にカラメルソースが登場！<br />
-<a href="https://kotalab.com/wp-content/uploads/garigarikun_121022_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/garigarikun_121022_04.jpg" alt="" title="garigarikun_121022_04" width="448" height="336" class="alignnone size-full wp-image-3612" /></a><br />
+<a href="/wp-content/uploads/garigarikun_121022_04.jpg" target="_blank"><img src="/wp-content/uploads/garigarikun_121022_04.jpg" alt="" title="garigarikun_121022_04" width="448" height="336" class="alignnone size-full wp-image-3612" /></a><br />
 黙々と食べてあっという間に完食！<br />
-<a href="https://kotalab.com/wp-content/uploads/garigarikun_121022_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/garigarikun_121022_05.jpg" alt="" title="garigarikun_121022_05" width="448" height="336" class="alignnone size-full wp-image-3616" /></a></p>
+<a href="/wp-content/uploads/garigarikun_121022_05.jpg" target="_blank"><img src="/wp-content/uploads/garigarikun_121022_05.jpg" alt="" title="garigarikun_121022_05" width="448" height="336" class="alignnone size-full wp-image-3616" /></a></p>
 <h2>まとめ</h2>
 <p>持って帰る間に若干溶けかかっていたのもあり、普通のガリガリ君ほどガリガリした食感はありませんでした。<br />
 ちょっと涼しくなってきたのでガリガリ君はどうかなと思ったんですが、それでもやはりガリガリ君はおいしかったです！<br />

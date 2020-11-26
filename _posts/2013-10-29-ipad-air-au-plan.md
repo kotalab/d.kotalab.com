@@ -30,7 +30,7 @@ comments:
   content: "[&#8230;] ◆ au版iPad Airの料金プランが発表されました！Wi-Fi版iPad Airと比べたら驚きの結果に！ （ via
     kotala&#8217;s note ） [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/ipadairauplan_131029_01-546x240.png" alt="ipadairauplan_131029_01" width="546" height="240" class="alignnone size-large wp-image-10068" /><br />
+<p><img src="/wp-content/uploads/ipadairauplan_131029_01-546x240.png" alt="ipadairauplan_131029_01" width="546" height="240" class="alignnone size-large wp-image-10068" /><br />
 iPad Airを買う予定です。こたら（@kotala_b）です。<br />
 iPad Air発売まであと3日に迫る今日、auからiPad AirとiPad mini Retinaモデルの料金プランが発表されました！<br />
 iPad AirのWi-Fi版とau版を比べた利用料金の違いを表にまとめてみました。<br />
@@ -38,7 +38,7 @@ iPad AirのWi-Fi版とau版を比べた利用料金の違いを表にまとめ�
 <!--more-->
 <h2>au版iPad Airの料金プラン</h2>
 <p>iPad AirにはauやSoftBankから発売されるセルラー版の他に通信契約をしないで持てるWi-Fi版があります。<br />
-セルラー版とWi-Fi版の違いは<a href="https://kotalab.com/ipad-air-wifi-or-cellular" title="iPad AirはWi-Fi版？それともセルラー版？それぞれのメリットデメリットを比べてみた" target="_blank">別エントリー</a>で書いてますので、そちらを参考にしてください。<br />
+セルラー版とWi-Fi版の違いは<a href="/ipad-air-wifi-or-cellular" title="iPad AirはWi-Fi版？それともセルラー版？それぞれのメリットデメリットを比べてみた" target="_blank">別エントリー</a>で書いてますので、そちらを参考にしてください。<br />
 セルラー版のiPad Airは16GBモデルが<span class="b">65,520円</span>。Wi-Fi版が<span class="b">51,800円</span>なのに対して割高です。<br />
 その代わりセルラー版には毎月の機種代金が割引になる毎月割や、スマホとセットでもつことで割引になるスマホセット割がつきます。</p>
 <h3>iPad Airと毎月割</h3>
@@ -199,7 +199,7 @@ iPhoneやモバイルルーターと比べたら通信料自体は意外と安�
 ちょっと考えちゃいますね。これ。<br />
 ひとつ言えることがあるとすれば<strong>料金プランが複雑すぎる！</strong><br />
 関連記事：<br />
-<a href="https://kotalab.com/ipad-air-softbank-plan" target="_blank">SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！</a></p>
+<a href="/ipad-air-softbank-plan" target="_blank">SoftBankからiPad Airの料金プランがようやく発表！auと料金比較してみたけど大差なし！</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00BWBPTQG/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31ybRj0xCnL._SL160_.jpg" style="border: none;" /></a></div>

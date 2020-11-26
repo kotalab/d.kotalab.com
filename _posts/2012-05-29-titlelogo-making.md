@@ -24,7 +24,7 @@ comments: []
 </p>
 <!--more-->
 <h2>出来た！</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/logo.jpg"><img src="https://kotalab.com/wp-content/uploads/logo.jpg" alt="" title="logo" width="448" height="99" class="alignnone size-full wp-image-1178" /></a><br />
+<p><a href="/wp-content/uploads/logo.jpg"><img src="/wp-content/uploads/logo.jpg" alt="" title="logo" width="448" height="99" class="alignnone size-full wp-image-1178" /></a><br />
 ほんのりうっすらを意識して記事に書いてある通りに進めて出来たのがこれです。</p>
 <h2>感謝</h2>
 <p>記事を読みながらやりましたがほんとに10分もかからず<strong>あっという間に完成</strong>。<br />

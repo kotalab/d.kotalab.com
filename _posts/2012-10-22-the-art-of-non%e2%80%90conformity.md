@@ -20,7 +20,7 @@ tags:
 - 読んだ
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/joushiki_121022.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/joushiki_121022.jpg" alt="" title="joushiki_121022" width="448" height="336" class="alignnone size-full wp-image-3630" /></a><br />
+<p><a href="/wp-content/uploads/joushiki_121022.jpg" target="_blank"><img src="/wp-content/uploads/joushiki_121022.jpg" alt="" title="joushiki_121022" width="448" height="336" class="alignnone size-full wp-image-3630" /></a><br />
 読書の秋です。@kotala_bです。<br />
 クリス・ギレボーさんの著書「<a href="https://www.amazon.co.jp/exec/obidos/asin/4062172267/same-22/" rel="nofollow" name="booklink" target="_blank">常識からはみ出す生き方</a>」を読みました。<br />
 著者のクリス・ギレボーさんはノマドワーカーとして2012年5月時点で世界183ヶ国を訪問し、旅をしながら本当にやりたいことを明らかにするという生き方、ビジネスモデルを実践中の方です。<br />
@@ -62,7 +62,7 @@ comments: []
 更にこの目標をカテゴリーに分けていきます。<br />
 例えば仕事、趣味、健康、家庭など様々なカテゴリーに分けていきます。<br />
 僕は以前、7つの柱としてカテゴリーを7つに分けをしました。<br />
-<a href="https://kotalab.com/life-plan" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/thinking_120731.jpg" alt="自分の人生の柱について考えてみよう | kotala's note" width="150" /></a><a href="https://kotalab.com/life-plan" target="_blank">自分の人生の柱について考えてみよう | kotala's note</a><br style="clear:both;" /></p>
+<a href="/life-plan" target="_blank"><img  class="alignleft" src="/wp-content/uploads/thinking_120731.jpg" alt="自分の人生の柱について考えてみよう | kotala's note" width="150" /></a><a href="/life-plan" target="_blank">自分の人生の柱について考えてみよう | kotala's note</a><br style="clear:both;" /></p>
 <h3>3.アクシデントプランニング</h3>
 <p>「思いがけない出来事」を楽しむ仕組み作り。<br />
 たまには家でゆっくり寝たり何か普段と変わったことをしてみる。<br />

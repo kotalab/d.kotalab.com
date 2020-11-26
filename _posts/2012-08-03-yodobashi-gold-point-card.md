@@ -22,7 +22,7 @@ tags:
 - iPhoneアプリ
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/yodobashi_120803.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yodobashi_120803.jpg" alt="" title="yodobashi_120803" width="448" height="336" class="alignnone size-full wp-image-1805" /></a><br />
+<p><a href="/wp-content/uploads/yodobashi_120803.jpg" target="_blank"><img src="/wp-content/uploads/yodobashi_120803.jpg" alt="" title="yodobashi_120803" width="448" height="336" class="alignnone size-full wp-image-1805" /></a><br />
 よく行く家電量販店はヨドバシカメラです。@kotala_bです。<br />
 ヨドバシカメラのポイントカードはおサイフケータイじゃないiPhoneでも使えることをご存知でしょうか？<br />
 僕はつい先日ヨドバシカメラに行った時に、おサイフケータイじゃなくてもアプリでポイントカードが使えることを知りました。<br />
@@ -40,12 +40,12 @@ comments: []
 これで準備は整いました。<br />
 ヨドバシドットコム会員登録を済ませたら、<a href="http://www.yodobashi.com/ec/support/member/pointservice/gold/common/flow/index.html" target="_blank">ポイントカード共通化の手続き</a>を行います。<br />
 店頭にポイントカードを持参して、店員の人にポイントカードの共通化をしたいことを伝え「アクセスキー」を発行してもらいます。<br />
-<a href="https://kotalab.com/wp-content/uploads/yodobashi_120803_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yodobashi_120803_01.jpg" alt="" title="yodobashi_120803_01" width="448" height="475" class="alignnone size-full wp-image-1807" /></a><br />
+<a href="/wp-content/uploads/yodobashi_120803_01.jpg" target="_blank"><img src="/wp-content/uploads/yodobashi_120803_01.jpg" alt="" title="yodobashi_120803_01" width="448" height="475" class="alignnone size-full wp-image-1807" /></a><br />
 ヨドバシ・ドット・コムでこの「アクセスキー」とポイントカードの番号を登録することで、ポイントカードの共通化が出来ます。<br />
 ▼共通化をするとiPhoneアプリ上で現在のポイントが確認出来ます。<br />
-<a href="https://kotalab.com/wp-content/uploads/yodobashi_120803_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yodobashi_120803_02.jpg" alt="" title="yodobashi_120803_02" width="300" height="450" class="alignnone size-full wp-image-1810" /></a><br />
+<a href="/wp-content/uploads/yodobashi_120803_02.jpg" target="_blank"><img src="/wp-content/uploads/yodobashi_120803_02.jpg" alt="" title="yodobashi_120803_02" width="300" height="450" class="alignnone size-full wp-image-1810" /></a><br />
 ▼アプリでポイントカードを表示させることも出来ます。このバーコードを読み取ってもらうことで店頭でポイントカードとして使えます。<br />
-<a href="https://kotalab.com/wp-content/uploads/yodobashi_120803_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yodobashi_120803_03.jpg" alt="" title="yodobashi_120803_03" width="300" height="450" class="alignnone size-full wp-image-1809" /></a><br />
+<a href="/wp-content/uploads/yodobashi_120803_03.jpg" target="_blank"><img src="/wp-content/uploads/yodobashi_120803_03.jpg" alt="" title="yodobashi_120803_03" width="300" height="450" class="alignnone size-full wp-image-1809" /></a><br />
 これで無事ポイントカードをiPhoneで使えるようになりました！<br />
 参考：<a href="http://www.yodobashi.com/ec/support/member/pointservice/gold/common/flow/index.html" target="_blank">ヨドバシ.com-共通化手続きの流れ</a><br style="clear:both;" /></p>
 <div class="applink">

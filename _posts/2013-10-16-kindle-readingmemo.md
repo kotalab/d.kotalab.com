@@ -24,7 +24,7 @@ tags:
 - 読書
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/kindlereadingmemo_131016_01-546x307.jpg" alt="kindlereadingmemo_131016_01" width="546" height="307" class="alignnone size-large wp-image-9944" /><br />
+<p><img src="/wp-content/uploads/kindlereadingmemo_131016_01-546x307.jpg" alt="kindlereadingmemo_131016_01" width="546" height="307" class="alignnone size-large wp-image-9944" /><br />
 Kindleアプリでよく本を読みます。こたら（@kotala_b）です。<br />
 僕は本を読んだ後、読書メモを取るようにしてます。<br />
 読書メモを作る時にKindleの良さ、デジタルならではの良さを再発見することになりました。<br />
@@ -38,15 +38,15 @@ Kindleにはハイライトという機能があり、気になった部分に�
 <h2>Kindleのハイライトを読書メモとして書き出す方法</h2>
 <p><a href="https://kindle.amazon.co.jp/" target="_blank">Amazon Kindle: Home</a>にアクセスしYour Highlightsを開きます。<br />
 Amazonへのログインが必要なのでIDとパスワードを入れると、今まで自分がKindle上でつけたハイライトの一覧表示がでてきます。<br />
-<img src="https://kotalab.com/wp-content/uploads/kindlereadingmemo_131016_02-546x309.png" alt="kindlereadingmemo_131016_02" width="546" height="309" class="alignnone size-large wp-image-9941" /><br />
+<img src="/wp-content/uploads/kindlereadingmemo_131016_02-546x309.png" alt="kindlereadingmemo_131016_02" width="546" height="309" class="alignnone size-large wp-image-9941" /><br />
 ここからコピーしてEvernoteに貼付ければ読書メモの出来上がり！</p>
 <h3>ハイライトにメモを加える</h3>
 <p>読書メモを作る時には、線を引いた部分に対してそのとき自分の思ったことや感じたことなどを書き込んでいます。<br />
 Kindleのハイライト機能でも同じことが可能です。<br />
 メモを追加したいハイライトの「add a note」からメモを追加。<br />
-<img src="https://kotalab.com/wp-content/uploads/kindlereadingmemo_131016_03-546x320.png" alt="kindlereadingmemo_131016_03" width="546" height="320" class="alignnone size-large wp-image-9942" /><br />
+<img src="/wp-content/uploads/kindlereadingmemo_131016_03-546x320.png" alt="kindlereadingmemo_131016_03" width="546" height="320" class="alignnone size-large wp-image-9942" /><br />
 ハイライトと一緒にメモ書きが表示されます。<br />
-<img src="https://kotalab.com/wp-content/uploads/kindlereadingmemo_131016_04-546x313.png" alt="kindlereadingmemo_131016_04" width="546" height="313" class="alignnone size-large wp-image-9943" /></p>
+<img src="/wp-content/uploads/kindlereadingmemo_131016_04-546x313.png" alt="kindlereadingmemo_131016_04" width="546" height="313" class="alignnone size-large wp-image-9943" /></p>
 <h3>Kindleにはデジタルならではの良さがある</h3>
 <p>紙の本では、線を引いた部分を見つけ出し、そこを書き出すという2ステップが必要で、書き出すのにも長文だと時間もかかって大変でした。<br />
 この作業にかかるのはたった数分かもしれませんが、それが今では数十秒。<br />

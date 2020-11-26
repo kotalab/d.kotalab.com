@@ -21,7 +21,7 @@ tags:
 - チェックリスト
 - みんなのリスト
 comments: []
-thumbnail: https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212-780x660.jpg
+thumbnail: /wp-content/uploads/2015/12/minnanolist-release_20151212-780x660.jpg
 ---
 <p>「みんなのリスト」というiPhoneアプリをリリースしました！<br><br />
 「みんなのリスト」はみんなで使えるリストアプリです。</p>
@@ -39,13 +39,13 @@ thumbnail: https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20
 </div>
 <!--more-->
 <h2>みんなのリストの特徴</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212_01-780x416.png" alt="minnanolist-release_20151212_01" width="780" height="416" class="aligncenter size-large wp-image-14965" /></p>
+<p><img src="/wp-content/uploads/2015/12/minnanolist-release_20151212_01-780x416.png" alt="minnanolist-release_20151212_01" width="780" height="416" class="aligncenter size-large wp-image-14965" /></p>
 <h3>1.シンプルに使える「マイリスト」</h3>
 <p>マイリストは自分専用のリストです。<br><br />
 普段使いのチェックリストとして使うことができます。</p>
 <p><strong>マイリストはそのままでは公開されることはありません。</strong><br />
 公開したり共有したりするには、リストの共有設定をオンにした時だけ公開・共有がされるようになります。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/minnanolist-release_20151212_02-300x533.png" alt="minnanolist-release_20151212_02" width="300" height="533" class="aligncenter size-medium wp-image-14966" /></p>
+<p><img src="/wp-content/uploads/2015/12/minnanolist-release_20151212_02-300x533.png" alt="minnanolist-release_20151212_02" width="300" height="533" class="aligncenter size-medium wp-image-14966" /></p>
 <h3>2.公開されたリストが並ぶ「みんなのリスト」</h3>
 <p>みんなのリストにはみんなが公開しているリストが並びます。<br><br />
 これらのリストはマイリストへ保存して、自分専用にカスタマイズして使うことができます。</p>

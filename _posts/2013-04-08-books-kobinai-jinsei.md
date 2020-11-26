@@ -22,11 +22,11 @@ tags:
 - ジョン・キム
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/kobinai_130408-448x336.jpg" alt="kobinai_130408" width="448" height="336" class="alignnone size-large wp-image-6760" /><br />
+<p><img src="/wp-content/uploads/kobinai_130408-448x336.jpg" alt="kobinai_130408" width="448" height="336" class="alignnone size-large wp-image-6760" /><br />
 媚びない人生を再読しました。@kotala_bです。<br />
 媚びない人生は去年の6月に一度読みました。<br />
 ジョンキムさんと立花さんのトークライブ「ID-2」で目の前でジョンキムさんのお話を聞き、もう一度読みたいと思うようになり再読することにしました。<br />
-<a href="https://kotalab.com/talklive-id-2" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="https://kotalab.com/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" />実際に生のジョンキムさんのお話を聞いたあとで読んだ「媚びない人生」は一回目とはまた違った印象を受けました。</p>
+<a href="/talklive-id-2" target="_blank"><img  class="alignleft" src="/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" />実際に生のジョンキムさんのお話を聞いたあとで読んだ「媚びない人生」は一回目とはまた違った印象を受けました。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478017697/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31MJqxfaoIL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
@@ -120,5 +120,5 @@ Kindle版も出ているので、常に持ち歩ける一冊としていかが�
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/talklive-id-2" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="https://kotalab.com/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/books-lifepacking" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="https://kotalab.com/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/talklive-id-2" target="_blank"><img  class="alignleft" src="/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/books-lifepacking" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" /></p>

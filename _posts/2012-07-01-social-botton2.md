@@ -20,7 +20,7 @@ tags:
 - カスタマイズ
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/social_120630_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/social_120630_03.jpg" alt="" title="social_120630_03" width="448" height="373" class="alignnone size-full wp-image-1138" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/info_grrl/5084920323/" target="_blank">Social Media Small Plates</a> - Just Try 1 or 2! (or 3 or 4!) / The Daring Librarian</span><br />
+<p><a href="/wp-content/uploads/social_120630_03.jpg" target="_blank"><img src="/wp-content/uploads/social_120630_03.jpg" alt="" title="social_120630_03" width="448" height="373" class="alignnone size-full wp-image-1138" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/info_grrl/5084920323/" target="_blank">Social Media Small Plates</a> - Just Try 1 or 2! (or 3 or 4!) / The Daring Librarian</span><br />
 ブログのカスタマイズを時間を忘れて夢中になります。@kotala_bです。<br />
 時間を忘れすぎて出勤時間が迫ってきてました！<br />
 やるなら休みの日にやろう！<br />
@@ -35,7 +35,7 @@ comments: []
 更に、きれいに配置出来る方法を紹介して頂きました！<br />
 <a href="http://knk-n.com/2012/04/20/how_to_customize_button_layout/" target="_blank"><img title="ボタンレイアウトを見直しました | ソーシャルボタンを縦に並べて配置するときに大切なこと" src="https://capture.heartrails.com/150x130?http://knk-n.com/2012/04/20/how_to_customize_button_layout/" alt="http://knk-n.com/2012/04/20/how_to_customize_button_layout/" width="150" height="130" /></a><a href="http://knk-n.com/2012/04/20/how_to_customize_button_layout/" title="ボタンレイアウトを見直しました | ソーシャルボタンを縦に並べて配置するときに大切なこと | けんけん.com" target="_blank">ボタンレイアウトを見直しました | ソーシャルボタンを縦に並べて配置するときに大切なこと | けんけん.com</a><br style="clear:both;" />これでさらにいいものに！</p>
 <h2>たしかに気になる</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/social_120630_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/social_120630_02.jpg" alt="" title="social_120630_02" width="100" height="300" class="alignnone size-full wp-image-1126" /></a><br />
+<p><a href="/wp-content/uploads/social_120630_02.jpg" target="_blank"><img src="/wp-content/uploads/social_120630_02.jpg" alt="" title="social_120630_02" width="100" height="300" class="alignnone size-full wp-image-1126" /></a><br />
 言われてみると確かに縦のラインが整ってません。<br />
 これは直したい！<br />
 ということで早速やってみました。</p>

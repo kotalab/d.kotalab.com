@@ -24,7 +24,7 @@ tags:
 - ホワイトプランR
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/whiteplan_120928_01.jpg"><img src="https://kotalab.com/wp-content/uploads/whiteplan_120928_01.jpg" alt="" title="whiteplan_120928_01" width="448" height="336" class="alignnone size-full wp-image-3012" /></a><br />
+<p><a href="/wp-content/uploads/whiteplan_120928_01.jpg"><img src="/wp-content/uploads/whiteplan_120928_01.jpg" alt="" title="whiteplan_120928_01" width="448" height="336" class="alignnone size-full wp-image-3012" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/nobmouse/4052848608/" target="_blank">Contracts</a> / NobMouse</span><br />
 SoftBankのホワイトプランが新しくなっていることを知りませんでした。@kotala_bです。<br />
 iPhone5に機種変更した時の申込内容確認書を見て初めて知りました。<br />
@@ -34,7 +34,7 @@ iPhone5に機種変更した時の申込内容確認書を見て初めて知り�
 <!--more-->
 <h2>なんだこれ？</h2>
 <p>▼こちらがその申込内容確認書です。（クリックして拡大）<br />
-<a href="https://kotalab.com/wp-content/uploads/whiteplan_120928.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/whiteplan_120928.jpg" alt="" title="whiteplan_120928" width="448" height="336" class="alignnone size-full wp-image-3005" /></a><br />
+<a href="/wp-content/uploads/whiteplan_120928.jpg" target="_blank"><img src="/wp-content/uploads/whiteplan_120928.jpg" alt="" title="whiteplan_120928" width="448" height="336" class="alignnone size-full wp-image-3005" /></a><br />
 ホワイトプランNからホワイトプランRに変更とあり、下の方の注意点のところに「ホワイトNの解除により、契約解除料の支払いが必要」と書いてありました。</p>
 <blockquote class="twitter-tweet" lang="ja"><p>iPhone5に機種変したらホワイトプランNからホワイトプランRに変更されましたって申込確認書に書いてあって、注意書きでホワイトNの契約解除料が必要になりますって書いてあった。なんだこれ。</p>
 <p>&mdash; こたらさん (@kotala_b) <a href="https://twitter.com/kotala_b/status/250071361018552320" data-datetime="2012-09-24T03:17:13+00:00">9月 24, 2012</a></p></blockquote>
@@ -60,7 +60,7 @@ iPhone5に機種変更した時の申込内容確認書を見て初めて知り�
 <h3>のりかえ割の特典について</h3>
 <p>僕は7月にNTTdocomoからSoftBankへMNPで移りました。<br />
 そのときに乗り換え割というキャンペーンがありその特典としてホワイトプランの基本料無料という特典を申込んでいました。<br />
-参考：<a href="https://kotalab.com/softbank-welcome-norikae" target="_blank">【SoftBank】のりかえ割とかえとくキャンペーン合わせて2年間基本料無料！ | kotala's note</a></p>
+参考：<a href="/softbank-welcome-norikae" target="_blank">【SoftBank】のりかえ割とかえとくキャンペーン合わせて2年間基本料無料！ | kotala's note</a></p>
 <blockquote><p>のりかえ割は現在も継続となっております。</p></blockquote>
 <p>のりかえ割の注意点のところに、ホワイトプラン以外の料金プランへの変更の場合特典がなくなるということが書いてありましたがホワイトプランNからRへの変更は大丈夫だったようです。</p>
 <h2>まとめ</h2>
@@ -69,5 +69,5 @@ iPhone5に機種変更した時の申込内容確認書を見て初めて知り�
 <strong>契約解除料もかからず特典も継続</strong>ということで今回は何も問題が起こらなかったのでよかったですが、何か問題があってから気づいたのでは遅すぎます。<br />
 各種契約について、契約時に確認を怠らないよう気をつけていきたいと改めて思いました。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/mnp-iphone5" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130327212701.jpg" alt="iPhone5にMNPしたらしたいことまとめ | kotala's note" width="150" /></a><a href="https://kotalab.com/mnp-iphone5" target="_blank">iPhone5にMNPしたらしたいことまとめ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/iphone5-first10app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone5-first10app" target="_blank">iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/mnp-iphone5" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130327212701.jpg" alt="iPhone5にMNPしたらしたいことまとめ | kotala's note" width="150" /></a><a href="/mnp-iphone5" target="_blank">iPhone5にMNPしたらしたいことまとめ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/iphone5-first10app" target="_blank"><img  class="alignleft" src="/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note" width="150" /></a><a href="/iphone5-first10app" target="_blank">iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note</a><br style="clear:both;" /></p>

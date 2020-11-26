@@ -21,7 +21,7 @@ tags:
 - コミュニケーション
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/01/books-killerquestion_20150128-780x438.jpg" alt="books-killerquestion_20150128" width="780" height="438" class="aligncenter size-large wp-image-13906" /><br />
+<p><img src="/wp-content/uploads/2015/01/books-killerquestion_20150128-780x438.jpg" alt="books-killerquestion_20150128" width="780" height="438" class="aligncenter size-large wp-image-13906" /><br />
 初恋の人と初めて話した時のことを覚えていますか？<br />
 僕は何を話したかまでは定かではありませんが、とにかくドキドキしたことを憶えています。</p>
 <p>「何を話せばいいんだろう」「会話に間ができたらどうしよう」という不安感があったのだと思います。</p>

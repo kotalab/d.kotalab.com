@@ -25,7 +25,7 @@ tags:
 - iOS7
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/howtoiphonecontrolcenter_130924_01-546x307.jpg" alt="howtoiphonecontrolcenter_130924_01" width="546" height="307" class="alignnone size-large wp-image-9606" /><br />
+<p><img src="/wp-content/uploads/howtoiphonecontrolcenter_130924_01-546x307.jpg" alt="howtoiphonecontrolcenter_130924_01" width="546" height="307" class="alignnone size-large wp-image-9606" /><br />
 iOSになってコントロールセンターばっか開いてます。こたら（@kotala_b）です。<br />
 iOSのアップデートから約1週間経ちました。<br />
 みなさんは新しいiOS、iOS7を使いこなせていますか？<br />
@@ -38,14 +38,14 @@ iOSのアップデートから約1週間経ちました。<br />
 いくつかのデフォルトアプリも起動できる便利機能です！</p>
 <h2>コントロールセンターの設定方法</h2>
 <p>[設定]からコントロールセンターを開きます。<br />
-<img src="https://kotalab.com/wp-content/uploads/howtoiphonecontrolcenter_130924_02-300x513.jpg" alt="howtoiphonecontrolcenter_130924_02" width="300" height="513" class="alignnone size-medium wp-image-9607" /><br />
+<img src="/wp-content/uploads/howtoiphonecontrolcenter_130924_02-300x513.jpg" alt="howtoiphonecontrolcenter_130924_02" width="300" height="513" class="alignnone size-medium wp-image-9607" /><br />
 2つの項目があるので両方ともONにしましょう。<br />
-<img src="https://kotalab.com/wp-content/uploads/howtoiphonecontrolcenter_130924_03-300x513.jpg" alt="howtoiphonecontrolcenter_130924_03" width="300" height="513" class="alignnone size-medium wp-image-9608" /><br />
+<img src="/wp-content/uploads/howtoiphonecontrolcenter_130924_03-300x513.jpg" alt="howtoiphonecontrolcenter_130924_03" width="300" height="513" class="alignnone size-medium wp-image-9608" /><br />
 これでコントロールセンターを使う準備ができました！<br />
 画面下から上へスワイプするとコントロールセンターが起動します。<br />
-<img src="https://kotalab.com/wp-content/uploads/howtoiphonecontrolcenter_130924_04-300x513.jpg" alt="howtoiphonecontrolcenter_130924_04" width="300" height="513" class="alignnone size-medium wp-image-9605" /><br />
+<img src="/wp-content/uploads/howtoiphonecontrolcenter_130924_04-300x513.jpg" alt="howtoiphonecontrolcenter_130924_04" width="300" height="513" class="alignnone size-medium wp-image-9605" /><br />
 ホーム画面はもちろんのこと、ロック中やアプリ画面でもコントロールセンターを起動できます。<br />
-<img src="https://kotalab.com/wp-content/uploads/howtoiphonecontrolcenter_130924_05-300x513.jpg" alt="howtoiphonecontrolcenter_130924_05" width="300" height="513" class="alignnone size-medium wp-image-9609" /></p>
+<img src="/wp-content/uploads/howtoiphonecontrolcenter_130924_05-300x513.jpg" alt="howtoiphonecontrolcenter_130924_05" width="300" height="513" class="alignnone size-medium wp-image-9609" /></p>
 <h2>コントロールセンターからできること</h2>
 <p>コントロールセンターでできることはこんなにいっぱい！</p>
 <ul>
@@ -65,7 +65,7 @@ iOSのアップデートから約1週間経ちました。<br />
 <p>iPadやiPod touchでもiOS7にアップデートするとコントロールセンターが同じように使えるようになります！<br />
 ただしiPadのカメラにはフラッシュはありませんし電卓アプリもデフォルトでは入っていないので、その機能は使えません。<br />
 ▼iPadのコントロールセンター<br />
-<img src="https://kotalab.com/wp-content/uploads/howtoiphonecontrolcenter_130924_06-546x131.jpg" alt="howtoiphonecontrolcenter_130924_06" width="546" height="131" class="alignnone size-large wp-image-9610" /></p>
+<img src="/wp-content/uploads/howtoiphonecontrolcenter_130924_06-546x131.jpg" alt="howtoiphonecontrolcenter_130924_06" width="546" height="131" class="alignnone size-large wp-image-9610" /></p>
 <h3>iOS7になってますます便利になったiPhone</h3>
 <p>便利なアプリも沢山ありますが、デフォルトでもとっても便利なiPhone！<br />
 ライトはiPhoneを懐中電灯のように使える機能で、他のアプリ起動中にもライトがつけられるのはスゴイ便利！<br />

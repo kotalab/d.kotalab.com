@@ -24,9 +24,9 @@ tags:
 - 見直し
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/tax-up-april_140216-546x409.jpg" alt="tax-up-april_140216" width="546" height="409" class="alignnone size-large wp-image-10841" /><br />
+<p><img src="/wp-content/uploads/tax-up-april_140216-546x409.jpg" alt="tax-up-april_140216" width="546" height="409" class="alignnone size-large wp-image-10841" /><br />
 2014年4月から消費税が今の5%から8%へ増税があります。<br />
-消費税増税に伴って、<a href="https://kotalab.com/train-fare-rise-in-price" title="消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。">電車運賃の値上げ</a>や光熱費も値上がることになっています。<br />
+消費税増税に伴って、<a href="/train-fare-rise-in-price" title="消費税増税に伴って鉄道各社が運賃値上げ！？2014年4月1日から電車の料金がややこしくなるおそれ。">電車運賃の値上げ</a>や光熱費も値上がることになっています。<br />
 お給料が今まで通りなら、出て行くお金が単純に増えるだけ。<br />
 今までと同じようにお金を使ってると、消費税増税は単純に生活の大きな負担になってしまいます。</p>
 <p>今までお給料でギリギリの生活をしてた人は、消費税増税で毎月赤字になる可能性も出てくるわけです。<br />
@@ -53,7 +53,7 @@ comments: []
 固定費は家賃や保険料、定期代、ケータイのパケ代のような毎月定額のものがそうです。<br />
 毎月かかるお金だからその分、削れると効果が高いのが固定費です。<br />
 ケータイの使ってないサービス使用料や必要以上の保険料は削れるなら削ってしまいたいものです。<br />
-ケータイならMNPを上手に利用すれば<a href="https://kotalab.com/iphone5s-iphone5c-zeroyen">最新機種でも一括0円で買えて更に月々も安く使える</a>場合もあります。<br />
+ケータイならMNPを上手に利用すれば<a href="/iphone5s-iphone5c-zeroyen">最新機種でも一括0円で買えて更に月々も安く使える</a>場合もあります。<br />
 保険料は見直しでだいぶ安くなる可能性もあります。</p>
 <h3>変動費の中身</h3>
 <p>出ていくお金全体から固定費を引けば残りが変動費になります。<br />

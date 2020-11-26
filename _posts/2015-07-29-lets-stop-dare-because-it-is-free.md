@@ -19,9 +19,9 @@ tags:
 - アイスコーヒー
 - R.O.STAR
 comments: []
-thumbnail: https://kotalab.com/wp-content/uploads/2015/07/Lets-stop-dare-because-it-is-free_20150729.jpg
+thumbnail: /wp-content/uploads/2015/07/Lets-stop-dare-because-it-is-free_20150729.jpg
 ---
-<p><a href="https://kotalab.com/cafe-rostar-toyosu" title="豊洲にある電源とWi-Fiが使えて自家焙煎のコーヒーが飲めるカフェ「R.O.STAR」">最近毎朝のように通っている「R.O.STAR」というカフェ</a>では、ミルクやガムシロが有料で売られています。</p>
+<p><a href="/cafe-rostar-toyosu" title="豊洲にある電源とWi-Fiが使えて自家焙煎のコーヒーが飲めるカフェ「R.O.STAR」">最近毎朝のように通っている「R.O.STAR」というカフェ</a>では、ミルクやガムシロが有料で売られています。</p>
 <p>普通のお店だとタダでもらえるので、なんとなくもらってなんとなく使うことがよくありました。</p>
 <p>アイスコーヒーに入れるミルクやガムシロについて深く考えたこともなかったんですが、有料で売られていて気づいたことがありました。</p>
 <p>「別にいらないかも」</p>
@@ -55,5 +55,5 @@ thumbnail: https://kotalab.com/wp-content/uploads/2015/07/Lets-stop-dare-because
 <p>そこらじゅうにモノがあふれてる時代だからこそ、「本当に必要？」と考えることが大切な気がします。</p>
 <p>[dailynew]<br />
 ・Realm</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

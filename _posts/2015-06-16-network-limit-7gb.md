@@ -20,21 +20,21 @@ tags:
 - MVNO
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/network-limit-7gb_20150616_01.png" alt="Network limit 7gb 20150616 01" width="600" height ="580" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/06/network-limit-7gb_20150616_01.png" alt="Network limit 7gb 20150616 01" width="600" height ="580" class="aligncenter size-large" /></p>
 <p>スマホで動画を見すぎるとあっという間にネットワークが制限されて、回線速度が遅くなってしまいます。</p>
 <p>通信速度制限にかかってしまうと、高い追加料金（auの場合0.5GB/550円または1GB/1000円）を払って制限を解除してもらうか、低速回線で月末まで使うかになってしまいます。<br />
 できればどちらも避けたいので、制限にかからないよう気をつけていることがあります。</p>
 <!--more-->
 <h2>日々の通信量を知る</h2>
 <p>僕はauのiPhone 6plusを使っていて、ネットやSNSはもちろんテザリングでMacBook Proを繋げてこのブログを書いたりアプリ開発をしているので、ネットワーク通信の制限はいつも気にしています。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/network-limit-7gb_20150616_02.png" alt="Network limit 7gb 20150616 02" width="300" height ="533" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/06/network-limit-7gb_20150616_02.png" alt="Network limit 7gb 20150616 02" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>auはiPhoneアプリから今月のデータ通信量がわかるので、なるべく1日1回は起動して確認するようにしています。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/network-limit-7gb_20150616_03.png" alt="Network limit 7gb 20150616 03" width="300" height ="533" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/06/network-limit-7gb_20150616_03.png" alt="Network limit 7gb 20150616 03" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>月7GBのデータ通信量は単純計算で1日当たり0.23GB。<br />
 これよりも多く使う日があれば、他の日で挽回しないといつか制限されてしまうことになります。</p>
 <p>上のスクリーンショットを見ると6月12日に0.34GB使っていることがわかります。<br />
 このペースだと25日くらいには制限されてしまいそうなペースです。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/network-limit-7gb_20150616_04.png" alt="Network limit 7gb 20150616 04" width="300" height ="533" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/06/network-limit-7gb_20150616_04.png" alt="Network limit 7gb 20150616 04" width="300" height ="533" class="aligncenter size-large" /></p>
 <p>細かい数字を計算しなくても「このままだとやばいな」となんとなくわかっていたので、12日以降データ通信に気をつけるようにしました。<br />
 結果、15日までの3日間で0.38GBと抑えることができました。</p>
 <p>ただし、15日で3.63GBなのでまだまだ気を抜けない状況ではあります。</p>
@@ -53,5 +53,5 @@ comments: []
 端末を一括で購入しているのとMNPを利用して基本料金がかかっていないおかげで、毎月の維持費はこれだけの料金で済んでいます。</p>
 <p>[dailynew]<br />
 ・通勤電車・昼休みにWWDC動画</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

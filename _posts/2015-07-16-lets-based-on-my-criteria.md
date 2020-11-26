@@ -20,7 +20,7 @@ tags:
 - 意識
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/how-to-use-money_1404122.jpg" alt="how-to-use-money_140412.JPG" width="548" height="548" class="aligncenter size-large wp-image-12518" /><br />
+<p><img src="/wp-content/uploads/how-to-use-money_1404122.jpg" alt="how-to-use-money_140412.JPG" width="548" height="548" class="aligncenter size-large wp-image-12518" /><br />
 一生モノのお金のセンスを身につけるために、最近とくに意識してることがあります。</p>
 <p>モノを買うとき、というかお金を使うときの判断基準を値札に頼らないことです。</p>
 <p>「安いから買う、高いから買わない」をやめて<br />
@@ -28,7 +28,7 @@ comments: []
 <p>なぜこんなことをするようになったかというと、モノについてる値札が必ずしもあてになるわけじゃないと感じるようになったからです。</p>
 <!--more-->
 <h2>値札はあてにならない</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/lets-start-1day1new_20150608_01-780x520.jpg" alt="lets-start-1day1new_20150608_01.jpg" width="780" height="520" class="aligncenter size-large wp-image-14559" /></p>
+<p><img src="/wp-content/uploads/2015/06/lets-start-1day1new_20150608_01-780x520.jpg" alt="lets-start-1day1new_20150608_01.jpg" width="780" height="520" class="aligncenter size-large wp-image-14559" /></p>
 <p>例えば新築の住居は買った瞬間に、「新築」という付加価値がなくなり買った人が住む前に売ったとしても買ったとき以下の値段にしかならないと言われています。</p>
 <p>新築を買って住む前に売れば同じ新築だろうと思うのですが、値段はそうではないらしいのです。</p>
 <h2>値札の基準は変えられない</h2>
@@ -37,7 +37,7 @@ comments: []
 <p><span class="b">自分とは別のところに値札の基準があって、その基準は変えられません。</span></p>
 <p>自分では変えられない基準がある一方で、変えられる基準もあります。</p>
 <h2>自分の基準をもつ</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/how-to-choose-datapack_140702.jpg" alt="how-to-choose-datapack_140702" width="780" class="aligncenter size-large wp-image-13304" /></p>
+<p><img src="/wp-content/uploads/how-to-choose-datapack_140702.jpg" alt="how-to-choose-datapack_140702" width="780" class="aligncenter size-large wp-image-13304" /></p>
 <p>簡単に言ってしまえば価値観です。</p>
 <p>自分の価値観を変えるというとちょっとニュアンスが違うのですが、自分の持っている価値観を掘り起こすようなイメージです。</p>
 <p>ぼくはiPhoneをiPhone5がでた3年前から毎年、新しい機種が出るたびに買い換えています。<br />

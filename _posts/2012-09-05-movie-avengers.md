@@ -22,7 +22,7 @@ tags:
 - アベンジャーズ
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/avengers_120905.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/avengers_120905.jpg" alt="" title="avengers_120905" width="448" height="298" class="alignnone size-full wp-image-2516" /></a><br />
+<p><a href="/wp-content/uploads/avengers_120905.jpg" target="_blank"><img src="/wp-content/uploads/avengers_120905.jpg" alt="" title="avengers_120905" width="448" height="298" class="alignnone size-full wp-image-2516" /></a><br />
 <span style="font-size:10px;">The Avengers</a> / Mike Saechang</span><br />
 観たいと思ってた映画をやっと観れました。@kotala_bです。<br />
 その映画というのは「<strong>アベンジャーズ</strong>」です。<br />

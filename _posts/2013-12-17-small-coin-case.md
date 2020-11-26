@@ -24,7 +24,7 @@ tags:
 - abrAsus
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_03-546x546.jpg" alt="smallcoincase_131217_03" width="546" height="546" class="alignnone size-large wp-image-10301" /><br />
+<p><img src="/wp-content/uploads/smallcoincase_131217_03-546x546.jpg" alt="smallcoincase_131217_03" width="546" height="546" class="alignnone size-large wp-image-10301" /><br />
 小さい小銭入れを買いました。こたら(@kotala_b)です。<br />
 「小さい小銭入れ」は薄い財布や開くPCバッグで有名なSUPERCLASSICが12月10日に発売開始した新製品です。<br />
 僕はむねさださん(@mu_ne3)のブログで紹介されてたのを見て一目惚れ！</p>
@@ -37,35 +37,35 @@ comments: []
 </p>
 <!--more-->
 <h2>1週間に10時間しか開かないSUPERCLASSIC直営店</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_02-546x409.jpg" alt="smallcoincase_131217_02" width="546" height="409" class="alignnone size-large wp-image-10300" /><br />
+<p><img src="/wp-content/uploads/smallcoincase_131217_02-546x409.jpg" alt="smallcoincase_131217_02" width="546" height="409" class="alignnone size-large wp-image-10300" /><br />
 SUPERCLASSICの全製品を手にとって見られるお店「SUPERCLASSIC ギャラリー&ストア」<br />
 なんとこのお店、週に3日間で計10時間しかやってないんです！<br />
 空いてるのは火曜と木曜の12時から15時までの3時間ずつと、土曜もしくは日曜の4時間というスケジュール。<br />
 そんなお店に行って、小さい小銭入れを実際に目にしてきました！<br />
 お店の場所はJR渋谷駅から徒歩7分。ルアン渋谷という建物の3階です。<br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_01-546x409.jpg" alt="smallcoincase_131217_01" width="546" height="409" class="alignnone size-large wp-image-10299" /></p>
+<img src="/wp-content/uploads/smallcoincase_131217_01-546x409.jpg" alt="smallcoincase_131217_01" width="546" height="409" class="alignnone size-large wp-image-10299" /></p>
 <h2>「小さい小銭入れ」はキーケースにもなるコンパクトな小銭入れ！</h2>
 <p>実際に手にとってみて、その小ささと触った時の質感が気に入り購入しました！<br />
 ブルー、ブラック、キャメルという3色あるうち、僕が選んだのはキャメル！<br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_04-546x409.jpg" alt="smallcoincase_131217_04" width="546" height="409" class="alignnone size-large wp-image-10302" /><br />
+<img src="/wp-content/uploads/smallcoincase_131217_04-546x409.jpg" alt="smallcoincase_131217_04" width="546" height="409" class="alignnone size-large wp-image-10302" /><br />
 開くと小銭を入れる部分と、紙幣を折りたたんでしまえるスペースがあります。<br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_05-546x409.jpg" alt="smallcoincase_131217_05" width="546" height="409" class="alignnone size-large wp-image-10303" /><br />
+<img src="/wp-content/uploads/smallcoincase_131217_05-546x409.jpg" alt="smallcoincase_131217_05" width="546" height="409" class="alignnone size-large wp-image-10303" /><br />
 「小さい小銭入れ」に入る小銭は15枚。ちょうど999円分という考え尽くされた設計です。<br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_06-546x409.jpg" alt="smallcoincase_131217_06" width="546" height="409" class="alignnone size-large wp-image-10304" /><br />
+<img src="/wp-content/uploads/smallcoincase_131217_06-546x409.jpg" alt="smallcoincase_131217_06" width="546" height="409" class="alignnone size-large wp-image-10304" /><br />
 裏側にはカギを収納できるスペースがあり、<br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_07-546x409.jpg" alt="smallcoincase_131217_07" width="546" height="409" class="alignnone size-large wp-image-10305" /><br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_08-546x409.jpg" alt="smallcoincase_131217_08" width="546" height="409" class="alignnone size-large wp-image-10306" /><br />
+<img src="/wp-content/uploads/smallcoincase_131217_07-546x409.jpg" alt="smallcoincase_131217_07" width="546" height="409" class="alignnone size-large wp-image-10305" /><br />
+<img src="/wp-content/uploads/smallcoincase_131217_08-546x409.jpg" alt="smallcoincase_131217_08" width="546" height="409" class="alignnone size-large wp-image-10306" /><br />
 留め具を外して<br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_09-546x409.jpg" alt="smallcoincase_131217_09" width="546" height="409" class="alignnone size-large wp-image-10307" /><br />
+<img src="/wp-content/uploads/smallcoincase_131217_09-546x409.jpg" alt="smallcoincase_131217_09" width="546" height="409" class="alignnone size-large wp-image-10307" /><br />
 カギを2つまで収納できます！<br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_12-546x409.jpg" alt="smallcoincase_131217_12" width="546" height="409" class="alignnone size-large wp-image-10309" /><br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_10-546x409.jpg" alt="smallcoincase_131217_10" width="546" height="409" class="alignnone size-large wp-image-10308" /><br />
+<img src="/wp-content/uploads/smallcoincase_131217_12-546x409.jpg" alt="smallcoincase_131217_12" width="546" height="409" class="alignnone size-large wp-image-10309" /><br />
+<img src="/wp-content/uploads/smallcoincase_131217_10-546x409.jpg" alt="smallcoincase_131217_10" width="546" height="409" class="alignnone size-large wp-image-10308" /><br />
 「小さい小銭入れ」にはキーリングがついてるので、車の鍵とかチェーンと一緒に使うこともできちゃいます。<br />
 僕は普段使ってるカラビナにつけて使ってみようと思います。<br />
 ▼Before<br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_13-546x409.jpg" alt="smallcoincase_131217_13" width="546" height="409" class="alignnone size-large wp-image-10310" /><br />
+<img src="/wp-content/uploads/smallcoincase_131217_13-546x409.jpg" alt="smallcoincase_131217_13" width="546" height="409" class="alignnone size-large wp-image-10310" /><br />
 ▼after<br />
-<img src="https://kotalab.com/wp-content/uploads/smallcoincase_131217_14-546x409.jpg" alt="smallcoincase_131217_14" width="546" height="409" class="alignnone size-large wp-image-10311" /></p>
+<img src="/wp-content/uploads/smallcoincase_131217_14-546x409.jpg" alt="smallcoincase_131217_14" width="546" height="409" class="alignnone size-large wp-image-10311" /></p>
 <h3>小さい小銭入れを買ってみて</h3>
 <p>財布を持たなくなった僕がまた財布を持とうと思ったのはそのコンパクトさ。<br />
 普段カラビナにつけてるジャラジャラうるさいカギをまとめておけるスマートさ。<br />

@@ -19,7 +19,7 @@ email: info@kotalab.com
 description: >- # this means to ignore newlines until "baseurl:"
   こたらが書く、個人のウェブサイト・ブログです。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kotalab.com"
+url: "https://d.kotalab.com"
 twitter_username: kotala_b
 github_username:  kotalab
 facebook_username: tetsuyakjma

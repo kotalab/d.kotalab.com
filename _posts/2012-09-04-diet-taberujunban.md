@@ -21,7 +21,7 @@ tags:
 - ダイエット
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/health.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/health.jpg" alt="" title="health" width="448" height="298" class="alignnone size-full wp-image-1111" /></a><br />
+<p><a href="/wp-content/uploads/health.jpg" target="_blank"><img src="/wp-content/uploads/health.jpg" alt="" title="health" width="448" height="298" class="alignnone size-full wp-image-1111" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/quinnanya/5645559731/" target="_blank">Disposable blood pressure cuff</a> / quinn.anya</span><br />
 ご飯と一緒に肉を食べるのが大好きです。@kotala_bです。<br />
 フジテレビ系の朝の番組「とくダネ！」で<strong>食べる順番療法</strong>というものが紹介されていました。<br />

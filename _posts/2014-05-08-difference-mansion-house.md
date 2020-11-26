@@ -22,7 +22,7 @@ tags:
 - 一戸建て
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/difference-mansion-house_130508.jpg" alt="Difference mansion house 130508" title="difference-mansion-house_130508.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/difference-mansion-house_130508.jpg" alt="Difference mansion house 130508" title="difference-mansion-house_130508.jpg" border="0" width="548" height="365" /><br />
 よく「買うならマンションと一戸建てどっちがいい？」みたいなことを目にしますよね。</p>
 <p>マンションと一戸建てのどっちが損か得かということじゃなく、ひとつの大きな違いを書きたいと思います</p>
 <p>これから家を買う予定がある方は是非読んでみてください！<br />

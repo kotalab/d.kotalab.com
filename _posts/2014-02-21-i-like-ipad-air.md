@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140221081446.jpg" width="546" height="409" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140221081446.jpg" width="546" height="409" class="slooProImg" /><br />
 iPad miniは2012年の発売と同時に購入しました。<br />
 それからiPad Airが出るまでの約1年間使っていました。<br />
 iPad miniはそれはそれで持ち運びやすくて、どこにでも持っていけるいいヤツでした。<br />

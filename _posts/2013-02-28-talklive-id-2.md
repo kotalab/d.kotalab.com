@@ -21,7 +21,7 @@ tags:
 - ID
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/id2_130228_03-448x336.jpg" alt="id2_130228_03" width="448" height="336" class="alignnone size-large wp-image-6360" /><br />
+<p><img src="/wp-content/uploads/id2_130228_03-448x336.jpg" alt="id2_130228_03" width="448" height="336" class="alignnone size-large wp-image-6360" /><br />
 立花岳志さん（@ttachi）主催のトークライブ・IDに行ってきました。@kotala_bです。<br />
 トークライブ・IDと言うのは、</p>
 <blockquote><p>Identity = 個性<br />
@@ -67,12 +67,12 @@ Ideal = 理想の<br />
 <h2>ID-2</h2>
 <p>表参道駅のB1出口からすぐの場所にある「Cay」というタイ料理のお店を貸し切ってのトークライブでした。<br />
 ▼入り口にはID会場だとすぐわかるようになっています。<br />
-<img src="https://kotalab.com/wp-content/uploads/id2_130228-448x336.jpg" alt="id2_130228" width="448" height="336" class="alignnone size-large wp-image-6361" /><br />
+<img src="/wp-content/uploads/id2_130228-448x336.jpg" alt="id2_130228" width="448" height="336" class="alignnone size-large wp-image-6361" /><br />
 お店までは入り口から階段を降りていきます。<br />
 ▼階段の途中にはその日の日付が書かれたモノがありました。<br />
-<img src="https://kotalab.com/wp-content/uploads/id2_130228_01-448x336.jpg" alt="id2_130228_01" width="448" height="336" class="alignnone size-large wp-image-6358" /><br />
+<img src="/wp-content/uploads/id2_130228_01-448x336.jpg" alt="id2_130228_01" width="448" height="336" class="alignnone size-large wp-image-6358" /><br />
 ▼トークライブはこの壇上にお二方が座って行われます。<br />
-<img src="https://kotalab.com/wp-content/uploads/id2_130228_02-448x336.jpg" alt="id2_130228_02" width="448" height="336" class="alignnone size-large wp-image-6359" /></p>
+<img src="/wp-content/uploads/id2_130228_02-448x336.jpg" alt="id2_130228_02" width="448" height="336" class="alignnone size-large wp-image-6359" /></p>
 <h2>トークライブは生の「媚びない人生」</h2>
 <p>ジョンキムさんと言えば著書の「媚びない人生」があります。<br />
 ▼立花さんもブログで書かれていますが、今回のトークライブはまさに「媚びない人生」を<strong>生で体験出来る</strong>モノでした。<br />

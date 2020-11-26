@@ -19,14 +19,14 @@ category:
 tags: []
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120909142633.jpg" width="448" height="598" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20120909142633.jpg" width="448" height="598" /><br />
 新しいiPhoneが気になってます。@kotala_bです。<br />
 通勤途中にある携帯ショップに早くも予約受付のポスターが貼ってありました。<br />
 </p>
 <!--more-->
 <h2>早くもポスターが！</h2>
 <p>▼こちらが今日見かけたポスター<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120909142640.jpg" width="448" height="598" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120909142640.jpg" width="448" height="598" /><br />
 ノジマモバイル新百合ヶ丘店には早くも予約受付のポスターが貼ってありました！<br />
 Apple新製品の発表は9月12日らしいですが、発表前にも関わらず予約ができるようです。<br />
 他の家電量販店でも店舗によってはもう予約を受け付けているところもあるかもしれません。<br />

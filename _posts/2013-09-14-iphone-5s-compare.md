@@ -35,7 +35,7 @@ iPhone 5sの端末代金を比較してみたいと思います。<br />
 </p>
 <!--more-->
 <h2>一括購入時のiPhone 5s端末代金</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /></p>
+<p><img src="/wp-content/uploads/applespevent_130911_05-546x300.png" alt="applespevent_130911_05" width="546" height="300" class="alignnone size-large wp-image-8659" /></p>
 <table border="1" width="100%" align="center">
 <tbody>
 <tr bgcolor="#f3f3f3" align="center">
@@ -68,7 +68,7 @@ iPhone 5sの端末代金を比較してみたいと思います。<br />
 しかもドコモでは容量に関わらず同じ価格というちょっと変わった端末代金になってます。<br />
 2年契約やパケホなどの同時契約で発生する毎月の割引で差をつけるようですが、それにしてもドコモだけスゴい高く感じる。</p>
 <h2>一括購入時のiPhone 5c端末代金</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_04-546x285.png" alt="applespevent_130911_04" width="546" height="285" class="alignnone size-large wp-image-8660" /></p>
+<p><img src="/wp-content/uploads/applespevent_130911_04-546x285.png" alt="applespevent_130911_04" width="546" height="285" class="alignnone size-large wp-image-8660" /></p>
 <table border="1" width="100%" align="center">
 <tbody>
 <tr bgcolor="#f3f3f3" align="center">
@@ -97,18 +97,18 @@ iPhone 5sの端末代金を比較してみたいと思います。<br />
 廉価版のiPhone 5cのはずが、5万円台からってどうかしてませんか。<br />
 Appleイベントの発表では「iPhone 5c 16GBは99$」だったのに。1万円ならいいかなって人も沢山いたはず。</p>
 <h3>iPhoneてこんなに高かったっけ</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/iphone5_120924_03.jpg" alt="iphone5_120924_03" width="896" height="672" class="alignnone size-full wp-image-2955" /><br />
+<p><img src="/wp-content/uploads/iphone5_120924_03.jpg" alt="iphone5_120924_03" width="896" height="672" class="alignnone size-full wp-image-2955" /><br />
 去年iPhone 5が出たときの端末代金が気になり探してみました。<br />
 さすがブログ！過去記事に書いてありました！</p>
 <blockquote><p>Softbankでは端末代金が16GBが51360円、32GBが61680円、64GBが72000円。<br />
 auでは端末代金が16GBが61680円、32GBが72000円、64GBが82320円。<br />
-参考：<a href="https://kotalab.com/iphone5price-softbank-au" target="_blank">似てるけど同じではない！softbankとauのiPhone5端末代金に注意しよう！</a></p></blockquote>
+参考：<a href="/iphone5price-softbank-au" target="_blank">似てるけど同じではない！softbankとauのiPhone5端末代金に注意しよう！</a></p></blockquote>
 <p>やっぱり高くなってた！<br />
 今の「2年契約してパケホ代も払ってくれれば端末代金は割引しますよ！」っていう各社の戦略は何か違うなーと思ったのでした。<br />
 iPhone 5s、iPhone 5c関連エントリー：<br />
-<a href="https://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
-<a href="https://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
-<a href="https://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
+<a href="/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
+<a href="/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
+<a href="/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31KsxIFmn0L._SL160_.jpg" style="border: none;" /></a></div>

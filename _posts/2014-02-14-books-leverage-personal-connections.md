@@ -23,7 +23,7 @@ tags:
 - レバレッジ
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140214083545.jpg" width="546" height="409" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140214083545.jpg" width="546" height="409" class="slooProImg" /><br />
 「人脈に関する本は2冊の本に集約されている」<br />
 これは僕が尊敬してるプロブロガー立花岳志さん(<a href="https://mobile.twitter.com/ttachi" target="_blank">@ttachi</a>)の一言だ。<br />
 今回紹介するのはそのうちの1冊、本田直之さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478002754/same-22/" rel="nofollow" target="_blank">レバレッジ人脈術</a>」だ。<br />

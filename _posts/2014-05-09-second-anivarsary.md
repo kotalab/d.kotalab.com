@@ -24,7 +24,7 @@ tags:
 - 立花岳志
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/second-anivarsary_140509.jpg" alt="Second anivarsary 140509" title="second-anivarsary_140509.JPG" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/second-anivarsary_140509.jpg" alt="Second anivarsary 140509" title="second-anivarsary_140509.JPG" border="0" width="548" height="365" /><br />
 2014年5月9日でブログを始めてちょうど2年経ちました。</p>
 <p>ブログを始めたきっかけは「明日から本気だす！」というよくあるフレーズからでした。</p>
 <p>本気を出した結果、2年間でブログから色々なことを学び、2年前の僕と今の僕はいい意味で別人になれました。<br />
@@ -43,13 +43,13 @@ comments: []
 <h2>ブログが2年間で僕に与えてくれた2年後の自分</h2>
 <p>僕が最初に作った計画表は驚いたことに、達成したか方向転換したかのどちらかでした。<br />
 つまり<span class="b">達成できなかったことがなかった</span>んです。<br />
-<img src="https://kotalab.com/wp-content/uploads/second-anivarsary_140509_01.jpg" alt="Second anivarsary 140509 01" title="second-anivarsary_140509_01.JPG" border="0" width="548" height="476" /><br />
-<a href="https://kotalab.com/diet-8kg">決意から半年で8キロのダイエットに成功</a>し今も体重を維持できていますし、2013年の秋には奥さんのご両親に挨拶に行き<a href="https://kotalab.com/we-got-married">結婚する</a>ことも決まりました。</p>
-<p>TOEICは勉強するのをやめて、今年から<a href="https://kotalab.com/category/ios-developer">アプリ開発を開始</a>。簿記は取らずに<a href="https://kotalab.com/pass-the-exam">ファイナンシャルプランナーになりました</a>。</p>
+<img src="/wp-content/uploads/second-anivarsary_140509_01.jpg" alt="Second anivarsary 140509 01" title="second-anivarsary_140509_01.JPG" border="0" width="548" height="476" /><br />
+<a href="/diet-8kg">決意から半年で8キロのダイエットに成功</a>し今も体重を維持できていますし、2013年の秋には奥さんのご両親に挨拶に行き<a href="/we-got-married">結婚する</a>ことも決まりました。</p>
+<p>TOEICは勉強するのをやめて、今年から<a href="/category/ios-developer">アプリ開発を開始</a>。簿記は取らずに<a href="/pass-the-exam">ファイナンシャルプランナーになりました</a>。</p>
 <p>ブログのPVは2012年の段階で2014年までの目標は達成し、ブログのPVを目標から外しました。<br />
 読書に関しては毎年少しずつ目標を上げていけるくらい読めています。</p>
 <p>2012年にたてた今年から3年間の目標は、2014年の時点でみるとどれもしっくりきません。<br />
-<img src="https://kotalab.com/wp-content/uploads/second-anivarsary_140509_02.jpg" alt="Second anivarsary 140509 02" title="second-anivarsary_140509_02.JPG" border="0" width="508" height="524" /></p>
+<img src="/wp-content/uploads/second-anivarsary_140509_02.jpg" alt="Second anivarsary 140509 02" title="second-anivarsary_140509_02.JPG" border="0" width="508" height="524" /></p>
 <p>年収や年棒社員というのは以前務めていた会社の枠組みで考えていますし、他の項目もぱっとしません。</p>
 <p>こうやって振り返ってみると、ある程度定期的に見直していく必要があるのがわかります。</p>
 <p>たった2年前ですがこんなに変化があるとは思いませんでした。</p>

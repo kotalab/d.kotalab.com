@@ -24,7 +24,7 @@ tags:
 - iPhone 5s
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iphone5suse2years_130914-546x408.jpg" alt="iphone5suse2years_130914" width="546" height="408" class="alignnone size-large wp-image-9175" /><br />
+<p><img src="/wp-content/uploads/iphone5suse2years_130914-546x408.jpg" alt="iphone5suse2years_130914" width="546" height="408" class="alignnone size-large wp-image-9175" /><br />
 ファイナンシャルプランナーを目指してます。こたら（@kotala_b）です。<br />
 iPhone 5sの発売まであと1週間を切り、各社から料金体系が発表されました！<br />
 2年契約、パケホ加入がほぼ必須の条件で契約させられてしまうiPhone 5s。<br />
@@ -196,8 +196,8 @@ iPhone 5sの発売まであと1週間を切り、各社から料金体系が発�
 2年間使い続けると、16GBで14万円近く、64GBだと16万円近くになります。それにしても高いですね。<br />
 今すぐにというわけではないけど、<strong>13万を払う契約をさせられている</strong>ということを忘れちゃいけません。<br />
 iPhone 5s、iPhone 5c関連エントリー：<br />
-<a href="https://kotalab.com/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
-<a href="https://kotalab.com/iphone-5s-compare" target="_blank">やっぱりiPhone 5の時より高くなってた！iPhone 5sとiPhone 5cの各社端末代金比較！</a></p>
+<a href="/iphone5s-iphone5c-iphone5-compare" target="_blank">iPhone5S、iPhone5C、iPhone5を比較して表にまとめてみた！</a><br />
+<a href="/iphone-5s-compare" target="_blank">やっぱりiPhone 5の時より高くなってた！iPhone 5sとiPhone 5cの各社端末代金比較！</a></p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00CY6P968/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31KsxIFmn0L._SL160_.jpg" style="border: none;" /></a></div>

@@ -59,7 +59,7 @@ comments:
   content: "[...] アプリが探しやすくなるフォルダの作り方！カテゴリーごとにフォルダは作らない！ | kotala&#8217;s note iPhoneのホーム画面には2つのフォルダがあります。@kotala_bです。
     フォルダは複数のア [...]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iPhonefolder_130328-448x245.jpg" alt="iPhonefolder_130328" width="448" height="245" class="alignnone size-large wp-image-6646" /><br />
+<p><img src="/wp-content/uploads/iPhonefolder_130328-448x245.jpg" alt="iPhonefolder_130328" width="448" height="245" class="alignnone size-large wp-image-6646" /><br />
 iPhoneのホーム画面には2つのフォルダがあります。@kotala_bです。<br />
 フォルダは複数のアプリをまとめておくのに便利です。<br />
 フォルダ自体は便利ですが、フォルダを沢山作ってしまうとアプリがどこに入っているかわからなくなることはありませんか？<br />
@@ -92,5 +92,5 @@ miilをフォルダに入れるとしたらどこへ入れますか？<br />
 そうすると必然的に「あれどっちに入れたっけ？」となってしまうもの。<br />
 そんな時は行動別にフォルダを分けてみてください。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/blog-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/blogapp_130323-448x403.jpg" alt="僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note" width="150" /></a><a href="https://kotalab.com/blog-app" target="_blank">僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/ios-passcode" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/passcode_130212-448x468.jpg" alt="iPhoneやiPadminiのセキュリティ強化！ぱっと見ではわからない複雑なパスコードを設定する方法 | kotala's note" width="150" /></a><a href="https://kotalab.com/ios-passcode" target="_blank">iPhoneやiPadminiのセキュリティ強化！ぱっと見ではわからない複雑なパスコードを設定する方法 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/blog-app" target="_blank"><img  class="alignleft" src="/wp-content/uploads/blogapp_130323-448x403.jpg" alt="僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note" width="150" /></a><a href="/blog-app" target="_blank">僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/ios-passcode" target="_blank"><img  class="alignleft" src="/wp-content/uploads/passcode_130212-448x468.jpg" alt="iPhoneやiPadminiのセキュリティ強化！ぱっと見ではわからない複雑なパスコードを設定する方法 | kotala's note" width="150" /></a><a href="/ios-passcode" target="_blank">iPhoneやiPadminiのセキュリティ強化！ぱっと見ではわからない複雑なパスコードを設定する方法 | kotala's note</a><br style="clear:both;" /></p>

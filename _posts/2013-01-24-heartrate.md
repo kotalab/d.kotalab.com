@@ -22,7 +22,7 @@ tags:
 - 心拍数
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/heartrate_130124.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/heartrate_130124-448x448.png" alt="heartrate_130124" width="448" height="448" class="alignnone size-large wp-image-5865" /></a><br />
+<p><a href="/wp-content/uploads/heartrate_130124.png" target="_blank"><img src="/wp-content/uploads/heartrate_130124-448x448.png" alt="heartrate_130124" width="448" height="448" class="alignnone size-large wp-image-5865" /></a><br />
 体温と体重は毎朝計ってます。@kotala_bです。<br />
 それに加え心拍数も計ってみることにしました。<br />
 とは言っても大げさな装置を使う訳でもなくいつでも使えるiPhoneで計ります。<br />
@@ -37,7 +37,7 @@ comments: []
 <h2>Instant Heart Rate</h2>
 <p>心拍数を計るのに使うのは「Instant Heart Rate」というSleepTimeを開発しているAzumioから出ているアプリです。<br />
 ▼Sleeptimeが何かわからない方はこちらを参考に<br />
-<a href="https://kotalab.com/sleeptime-updata" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/sleeptime_120907.jpg" alt="SleepTimeがアップデート！Soundscapeやログのグラフ表示も可能に！ | kotala's note" width="150" /></a><a href="https://kotalab.com/sleeptime-updata" target="_blank">SleepTimeがアップデート！Soundscapeやログのグラフ表示も可能に！ | kotala's note</a><br style="clear:both;" /></p>
+<a href="/sleeptime-updata" target="_blank"><img  class="alignleft" src="/wp-content/uploads/sleeptime_120907.jpg" alt="SleepTimeがアップデート！Soundscapeやログのグラフ表示も可能に！ | kotala's note" width="150" /></a><a href="/sleeptime-updata" target="_blank">SleepTimeがアップデート！Soundscapeやログのグラフ表示も可能に！ | kotala's note</a><br style="clear:both;" /></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsleep-time%252B-alarm-clock-sleep%252Fid498360026%253Fmt%253D8%2526uo%253D4"><img src="http://a1824.phobos.apple.com/us/r1000/120/Purple/v4/95/80/e1/9580e1e7-c255-1f51-70ee-d5758d9b1616/mzl.jcmfbpuv.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsleep-time%252B-alarm-clock-sleep%252Fid498360026%253Fmt%253D8%2526uo%253D4">Sleep Time+ Alarm Clock and Sleep Cycle Analysis with Soundscape for Health and Fitness</span></div>
@@ -59,20 +59,20 @@ comments: []
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <p>▼起動時の画面<br />
-<a href="https://kotalab.com/wp-content/uploads/heartrate_130124_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/heartrate_130124_01-300x431.png" alt="heartrate_130124_01" width="300" height="431" class="alignnone size-medium wp-image-5866" /></a><br />
+<a href="/wp-content/uploads/heartrate_130124_01.png" target="_blank"><img src="/wp-content/uploads/heartrate_130124_01-300x431.png" alt="heartrate_130124_01" width="300" height="431" class="alignnone size-medium wp-image-5866" /></a><br />
 カメラレンズに指をつけることで心拍数を計れるというアプリです。<br />
 ▼使う前に「Setting」を開き性別と年齢を設定<br />
-<a href="https://kotalab.com/wp-content/uploads/heartrate_130124_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/heartrate_130124_03-300x431.png" alt="heartrate_130124_03" width="300" height="431" class="alignnone size-medium wp-image-5868" /></a><br />
-<a href="https://kotalab.com/wp-content/uploads/heartrate_130124_04.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/heartrate_130124_04-300x431.png" alt="heartrate_130124_04" width="300" height="431" class="alignnone size-medium wp-image-5869" /></a><br />
+<a href="/wp-content/uploads/heartrate_130124_03.png" target="_blank"><img src="/wp-content/uploads/heartrate_130124_03-300x431.png" alt="heartrate_130124_03" width="300" height="431" class="alignnone size-medium wp-image-5868" /></a><br />
+<a href="/wp-content/uploads/heartrate_130124_04.png" target="_blank"><img src="/wp-content/uploads/heartrate_130124_04-300x431.png" alt="heartrate_130124_04" width="300" height="431" class="alignnone size-medium wp-image-5869" /></a><br />
 設定したら計ってみます。<br />
 画面下の中央のボタンを押すと計測開始です。<br />
 ▼写真のように指先をカメラレンズに当てて数秒待つと測定が開始されます<br />
-<a href="https://kotalab.com/wp-content/uploads/heartrate_130124_05.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/heartrate_130124_05-300x431.png" alt="heartrate_130124_05" width="300" height="431" class="alignnone size-medium wp-image-5871" /></a><br />
+<a href="/wp-content/uploads/heartrate_130124_05.png" target="_blank"><img src="/wp-content/uploads/heartrate_130124_05-300x431.png" alt="heartrate_130124_05" width="300" height="431" class="alignnone size-medium wp-image-5871" /></a><br />
 ▼測定中は心拍数が表示されます<br />
-<a href="https://kotalab.com/wp-content/uploads/heartrate_130124_06.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/heartrate_130124_06-300x431.png" alt="heartrate_130124_06" width="300" height="431" class="alignnone size-medium wp-image-5872" /></a><br />
+<a href="/wp-content/uploads/heartrate_130124_06.png" target="_blank"><img src="/wp-content/uploads/heartrate_130124_06-300x431.png" alt="heartrate_130124_06" width="300" height="431" class="alignnone size-medium wp-image-5872" /></a><br />
 ちなみにテーブルや膝など指先以外にカメラレンズを当てても計れませんでした。<br />
 ▼測定結果はツイッターやFacebookにも投稿出来るようです<br />
-<a href="https://kotalab.com/wp-content/uploads/heartrate_130124_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/heartrate_130124_02-300x431.png" alt="heartrate_130124_02" width="300" height="431" class="alignnone size-medium wp-image-5867" /></a><br />
+<a href="/wp-content/uploads/heartrate_130124_02.png" target="_blank"><img src="/wp-content/uploads/heartrate_130124_02-300x431.png" alt="heartrate_130124_02" width="300" height="431" class="alignnone size-medium wp-image-5867" /></a><br />
 ▼試しにツイートしてみました。</p>
 <blockquote class="twitter-tweet" lang="ja"><p>My heart rate is 68bpm. <a href="https://twitter.com/search/%23instantheartrate">#instantheartrate</a> <a href="http://t.co/qIR0lZkl" title="http://azum.io/LNDRf6">azum.io/LNDRf6</a></p>
 <p>&mdash; こたらさん (@kotala_b) <a href="https://twitter.com/kotala_b/status/294152693457498112">1月 23, 2013</a></p></blockquote>

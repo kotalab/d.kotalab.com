@@ -21,7 +21,7 @@ tags:
 - ダイエット
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/muscle_120902.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/muscle_120902.jpg" alt="" title="muscle_120902" width="448" height="332" class="alignnone size-full wp-image-2441" /></a><br />
+<p><a href="/wp-content/uploads/muscle_120902.jpg" target="_blank"><img src="/wp-content/uploads/muscle_120902.jpg" alt="" title="muscle_120902" width="448" height="332" class="alignnone size-full wp-image-2441" /></a><br />
 <span style="font-size:10px;">Bathtime Muscles...</a> / mollypop</span><br />
 筋肉痛が2日間続いてました。@kotala_bです。<br />
 3日間に分けて腹筋・背筋、腕立て・スクワット、腕と交互に筋トレをやってます。<br />

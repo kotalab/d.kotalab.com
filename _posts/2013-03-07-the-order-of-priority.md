@@ -21,7 +21,7 @@ tags:
 - やりたいこと
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="timemanagement_130307" width="448" height="644" class="alignnone size-large wp-image-6427" /><br />
+<p><img src="/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="timemanagement_130307" width="448" height="644" class="alignnone size-large wp-image-6427" /><br />
 ブログを毎日書いて300日が過ぎました。@kotala_bです。<br />
 何故300日間、毎日書き続けられたのか。<br />
 それは<strong>ブログを書く時間を最優先したからに他なりません。</strong></p>
@@ -67,6 +67,6 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/keep-doing-every-morning" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130305112246.jpg" alt="毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note" width="150" /></a><a href="https://kotalab.com/keep-doing-every-morning" target="_blank">毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/positive-observation" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/influence_130211-448x383.jpg" alt="意思力は感染する！尊敬する人、見習いたい人を積極的に観察する | kotala's note" width="150" /></a><a href="https://kotalab.com/positive-observation" target="_blank">意思力は感染する！尊敬する人、見習いたい人を積極的に観察する | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/i-want-to-be-6things" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130208152334.jpg" alt="なりたい自分になるための6つのコツ | kotala's note" width="150" /></a><a href="https://kotalab.com/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/keep-doing-every-morning" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130305112246.jpg" alt="毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note" width="150" /></a><a href="/keep-doing-every-morning" target="_blank">毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/positive-observation" target="_blank"><img  class="alignleft" src="/wp-content/uploads/influence_130211-448x383.jpg" alt="意思力は感染する！尊敬する人、見習いたい人を積極的に観察する | kotala's note" width="150" /></a><a href="/positive-observation" target="_blank">意思力は感染する！尊敬する人、見習いたい人を積極的に観察する | kotala's note</a><br style="clear:both;" /><br />
+<a href="/i-want-to-be-6things" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130208152334.jpg" alt="なりたい自分になるための6つのコツ | kotala's note" width="150" /></a><a href="/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ | kotala's note</a><br style="clear:both;" /></p>

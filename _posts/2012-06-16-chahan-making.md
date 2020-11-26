@@ -49,17 +49,17 @@ comments: []
 <p>パラパラにするのに大切なポイントが<strong>2つ</strong>あります。<br />
 <strong>まず1つ目！</strong><br />
 <strong>炒める前にとき卵とご飯をよく混ぜる！</strong><br />
-<a href="https://kotalab.com/wp-content/uploads/chahan_120616_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/chahan_120616_01-300x225.jpg" alt="" title="chahan_120616_01" width="300" height="225" class="alignnone size-medium wp-image-784" /></a><br />
+<a href="/wp-content/uploads/chahan_120616_01.jpg" target="_blank"><img src="/wp-content/uploads/chahan_120616_01-300x225.jpg" alt="" title="chahan_120616_01" width="300" height="225" class="alignnone size-medium wp-image-784" /></a><br />
 ご飯が黄色っぽくなるまでよく混ぜます。<br />
 よく混ざったら、温めたフライパンの上にごま油をひいてご飯を炒めます。<br />
 ここで<strong>2つ目のポイント</strong>です！<br />
 <strong>パラパラになるまでご飯だけを炒める！</strong><br />
 調味料や具材はまだ入れません！<br />
-<a href="https://kotalab.com/wp-content/uploads/chahan_120616_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/chahan_120616_02-300x225.jpg" alt="" title="chahan_120616_02" width="300" height="225" class="alignnone size-medium wp-image-785" /></a><br />
+<a href="/wp-content/uploads/chahan_120616_02.jpg" target="_blank"><img src="/wp-content/uploads/chahan_120616_02-300x225.jpg" alt="" title="chahan_120616_02" width="300" height="225" class="alignnone size-medium wp-image-785" /></a><br />
 炒めて水分を飛ばしてパラパラにするのですが、この最中に具材等を入れると具材にも水分が含まれているのでなかなかパラパラになりません。<br />
 パラパラになってきたところで調味料と具材を入れてまた炒めることでパラパラチャーハンが出来ます。<br />
 具材に火が通ってきたところで完成です！<br />
-<a href="https://kotalab.com/wp-content/uploads/chahan_120616_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/chahan_120616_03-300x225.jpg" alt="" title="chahan_120616_03" width="300" height="225" class="alignnone size-medium wp-image-783" /></a><br />
+<a href="/wp-content/uploads/chahan_120616_03.jpg" target="_blank"><img src="/wp-content/uploads/chahan_120616_03-300x225.jpg" alt="" title="chahan_120616_03" width="300" height="225" class="alignnone size-medium wp-image-783" /></a><br />
 今回は冷蔵庫に残ってたウインナーとピーマンを入れました。</p>
 <h2>意外と簡単</h2>
 <p>こつさえ掴んでしまえば意外と簡単にパラパラチャーハンが作れます！<br />

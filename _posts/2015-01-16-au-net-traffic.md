@@ -52,7 +52,7 @@ via:<a href="https://cs.kddi.com/support/login_help.html#idpass" target="_blank"
 <p>Webの場合はPCでもスマホでもネットに繋がってさえ入れば確認ができます。</p>
 <p>ログイン画面はこちら:<a href="https://cs.kddi.com/support/smt_i/index.html" target="_blank">auお客さまサポート</a><a href="https://b.hatena.ne.jp/entry/https://cs.kddi.com/support/smt_i/index.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://cs.kddi.com/support/smt_i/index.html" alt="" /></a></p>
 <h3>2.アプリから確認する</h3>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/01/slooProImg_20150116074037.jpg" width="300" height="514" /></p>
+<p><img alt="" src="/wp-content/uploads/2015/01/slooProImg_20150116074037.jpg" width="300" height="514" /></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/auo-kesamasapoto/id479159684?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a800.phobos.apple.com/us/r30/Purple1/v4/94/07/ea/9407ea46-b9b0-d821-e5a4-56bd68d42f5c/mzl.hkafpzsr.png" width="80" /></a></div>
 <div class="applinktext">
@@ -69,7 +69,7 @@ via:<a href="https://cs.kddi.com/support/login_help.html#idpass" target="_blank"
 <p>au Marketアプリの説明はこちら:<a href="http://market.kddi.com/update_info/" target="_blank">au Market</a><a href="https://b.hatena.ne.jp/entry/http://market.kddi.com/update_info/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://market.kddi.com/update_info/" alt="" /></a></p>
 <p>アプリをダウンロードしたらサポートIDまたはauIDでログインし、メニューのデータ通信量から確認ができるようになります。</p>
 <h3>制限される前に確認しよう</h3>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/01/slooProImg_20150116074036.jpg" width="300" height="514" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/01/slooProImg_20150116074036.jpg" width="300" height="514" /><br />
 僕の場合は毎月3.5GB〜4GBくらいにおさまっているようでした。</p>
 <p>通信量の制限を外すには追加料金を払わなきゃいけません。<br />
 YouTubeやhuluで動画を見ているとあっという間に通信量があがっちゃうので、よく動画を見る人はチェックするクセをつけておくといいかもしれませんね。</p>

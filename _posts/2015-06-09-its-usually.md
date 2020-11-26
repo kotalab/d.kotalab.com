@@ -18,7 +18,7 @@ tags:
 - コンフォートゾーン
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/its-usually_20150609-780x517.jpg" alt="its-usually_20150609" width="780" height="517" class="aligncenter size-large wp-image-14580" /><br />
+<p><img src="/wp-content/uploads/2015/06/its-usually_20150609-780x517.jpg" alt="its-usually_20150609" width="780" height="517" class="aligncenter size-large wp-image-14580" /><br />
 新しいことを始めてみたものの、どうもうまくいかない。<br />
 自分にはむいてないんじゃないか。<br />
 なんか居心地が悪い。</p>
@@ -45,7 +45,7 @@ comfort zone、直訳すると快適な領域という意味で、自分が安�
 [dailynew]<br />
 ・ショートコードで昨日の新しい体験をフォーマット化<br />
 ・WorkFlowyでキャッチコピー考える</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>
 <div class="booklink-box">
 <div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/B00MY68CV2/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/61b6fHAir0L._SL160_.jpg" style="border: none;" /></a></div>

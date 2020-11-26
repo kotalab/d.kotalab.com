@@ -37,7 +37,7 @@ comments: []
 プロジェクトには期限を設けてプロジェクト名（フォルダ名）にはその日付をつけます。</p>
 <h2>タスクに小分けする</h2>
 <p>プロジェクトを立ち上げたら次にすることはタスクに小分けすることです。<br />
-<a href="https://kotalab.com/wp-content/uploads/project_120619.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/project_120619.jpg" alt="" title="project_120619" width="400" height="165" class="alignnone size-full wp-image-831" /></a><br style="clear:both;" />これは遊びに行くためのプロジェクトです。<br />
+<a href="/wp-content/uploads/project_120619.jpg" target="_blank"><img src="/wp-content/uploads/project_120619.jpg" alt="" title="project_120619" width="400" height="165" class="alignnone size-full wp-image-831" /></a><br style="clear:both;" />これは遊びに行くためのプロジェクトです。<br />
 遊びに行くのにわざわざプロジェクト管理は必要なの？と思うかもしれませんがこうすることで漏れを防ぐことが出来ます。<br />
 小分けにしたタスクは「誰を誘うのか？」「お店はどこにするのか？」などごくごく単純なことばかりです。<br />
 こういう単純でやりやすいと思える段階まで小分けすることで行動しやすくなります。<br />

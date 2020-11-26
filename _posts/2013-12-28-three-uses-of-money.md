@@ -24,7 +24,7 @@ tags:
 - money
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/threeusesofmoney_131228-546x409.jpg" alt="threeusesofmoney_131228" width="546" height="409" class="alignnone size-large wp-image-10351" /><br />
+<p><img src="/wp-content/uploads/threeusesofmoney_131228-546x409.jpg" alt="threeusesofmoney_131228" width="546" height="409" class="alignnone size-large wp-image-10351" /><br />
 お金の使い方は常に意識していたい。こたら（@kotala_b）です。<br />
 僕たちがお金を使うのには3種類の使い道があります。<br />
 投資と消費と浪費。<br />
@@ -98,6 +98,6 @@ comments: []
 <div class="booklink-footer"></div>
 </div>
 <h4 class="rel">関連記事</h4>
-<p><a href="https://kotalab.com/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-thinking"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-thinking" alt="" /></span><br />
-<a href="https://kotalab.com/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/i-want-to-be-6things"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/i-want-to-be-6things" alt="" /></span><br />
-<a href="https://kotalab.com/books-how-rich-people-think" target="_blank">金持ちになるための3つの考え方</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-how-rich-people-think"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-how-rich-people-think" alt="" /></span></p>
+<p><a href="/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-thinking"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-thinking" alt="" /></span><br />
+<a href="/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/i-want-to-be-6things"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/i-want-to-be-6things" alt="" /></span><br />
+<a href="/books-how-rich-people-think" target="_blank">金持ちになるための3つの考え方</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-how-rich-people-think"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-how-rich-people-think" alt="" /></span></p>

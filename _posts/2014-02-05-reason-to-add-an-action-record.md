@@ -28,7 +28,7 @@ tags:
 - ライフログ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/keep-habits-5-hints_140105_01-546x364.jpg" alt="keep-habits-5-hints_140105_01" width="546" height="364" class="alignnone size-large wp-image-10408" /><br />
+<p><img src="/wp-content/uploads/keep-habits-5-hints_140105_01-546x364.jpg" alt="keep-habits-5-hints_140105_01" width="546" height="364" class="alignnone size-large wp-image-10408" /><br />
 ライフログといわれる、生活のいろいろな記録をiPhoneなどのツールを使って記録しています。<br />
 主な記録先はEvernote。Evernoteに入れておくと後から探したい時に探しやすいからです。<br />
 僕がとってるライフログの一つに時間のログがあります。<br />
@@ -40,14 +40,14 @@ comments: []
 それは使ってるアプリが便利で使いやすいからでしょう。<br />
 僕が使ってる二つのアプリをご紹介します。</p>
 <h3>Taskchute</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/reason-to-add-an-action-record_140205_01-546x270.png" alt="reason-to-add-an-action-record_140205_01" width="546" height="270" class="alignnone size-large wp-image-10761" /><br />
+<p><img src="/wp-content/uploads/reason-to-add-an-action-record_140205_01-546x270.png" alt="reason-to-add-an-action-record_140205_01" width="546" height="270" class="alignnone size-large wp-image-10761" /><br />
 Taskchuteは過去の行動記録から将来の予測をたてやすくするというのが大きな特徴です。<br />
 Excelが動く環境なら(Excel for Macは動作保証対象外)どこでも使えますが、逆にそれがデメリットでもあります。<br />
 そこで次に紹介するiライフログの出番となります。</p>
 <p>▼Taskchuteの利用はこちらから<br />
 <a href="http://shigotano.info/item/55031/2259/"><img src="https://www.wom-p.com/upload/banner/2259_1382800482.jpg" alt=""></a></p>
 <h3>iライフログ</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/reason-to-add-an-action-record_140205_02-546x366.png" alt="reason-to-add-an-action-record_140205_02" width="546" height="366" class="alignnone size-large wp-image-10760" /><br />
+<p><img src="/wp-content/uploads/reason-to-add-an-action-record_140205_02-546x366.png" alt="reason-to-add-an-action-record_140205_02" width="546" height="366" class="alignnone size-large wp-image-10760" /><br />
 iライフログはiPhoneで使える時間を記録するライフログアプリです。<br />
 このアプリのいいところはiPhoneで時間記録が取れるというところですが、似たようなアプリはほかにもあります。<br />
 そんな中でなんでiライフログなのかというと、時間記録をEvernoteに自動で保存してくれるからにほかなりません。<br />
@@ -86,8 +86,8 @@ iライフログはiPhoneで使える時間を記録するライフログアプ�
 <p>お金の使い方を見直したかったら家計簿をつけるように、時間の使い方を見直したかったら行動記録を取ることをオススメします。</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/change-habit" target="_blank"><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_01-546x307.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/change-habit" target="_blank">ちょっとした習慣の変化が積み重なると人生は変わるのかも知れない</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/change-habit" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/change-habit" alt="" /></a></div>
+<div class="shhtimg"><a href="/change-habit" target="_blank"><img src="/wp-content/uploads/change-habit_140204_01-546x307.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/change-habit" target="_blank">ちょっとした習慣の変化が積み重なると人生は変わるのかも知れない</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/change-habit" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/change-habit" alt="" /></a></div>
 </div>
 <h4 class="app">記事の中に出てきたアプリ</h4>
 <p><a href="http://shigotano.info/item/55031/2259/"><img src="https://www.wom-p.com/upload/banner/2259_1382800482.jpg" alt=""></a></p>

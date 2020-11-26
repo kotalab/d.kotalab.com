@@ -37,7 +37,7 @@ comments: []
 どれくらいすぐかというと、ツイートしたのが11：19で作ろうとしてスクリーンショットを撮ったのが11：20。<br />
 即断即決です！</p>
 <h2>作り方は簡単</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/okidokei_120621_02.jpg"><img src="https://kotalab.com/wp-content/uploads/okidokei_120621_02.jpg" alt="" title="okidokei_120621_02" width="300" height="225" class="alignnone size-full wp-image-866" /></a><br />
+<p><a href="/wp-content/uploads/okidokei_120621_02.jpg"><img src="/wp-content/uploads/okidokei_120621_02.jpg" alt="" title="okidokei_120621_02" width="300" height="225" class="alignnone size-full wp-image-866" /></a><br />
 まず現在時刻から下の4セル分を選択しそのまま右隣のセルにコピーします。<br />
 <strong>以下の変更はコピーした方のセルで行ってください。</strong><br />
 現在時刻と終了予定時刻の項目をそれぞれ睡眠時間・起床時間に変えます。<br />
@@ -45,7 +45,7 @@ comments: []
 起床時間の下のセルには「<strong>=sum(<em>タスクの終了時刻</em>+<em>予定の睡眠時間</em>)</strong>」となるようにセルを指定した数式を入れてください。<br />
 これで起床時間がタスクの終了予定時間に合わせて自動的に変わるようになります。</p>
 <h2>うまく表示されない場合</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/okidokei_120621_01.jpg"><img src="https://kotalab.com/wp-content/uploads/okidokei_120621_01.jpg" alt="" title="okidokei_120621_01" width="400" height="300" class="alignnone size-full wp-image-865" /></a><br />
+<p><a href="/wp-content/uploads/okidokei_120621_01.jpg"><img src="/wp-content/uploads/okidokei_120621_01.jpg" alt="" title="okidokei_120621_01" width="400" height="300" class="alignnone size-full wp-image-865" /></a><br />
 もしも入力した睡眠時間がうまく表示されない場合は、うまく表示されないセルを選択した状態でセルの書式設定を行ってください。<br />
 上記の画像のように、「<strong>ユーザー定義の中からh:mmを選択</strong>」することでうまく表示されるようになります。<br />
 <strong>Taskchuteに起き時計</strong>！<br />

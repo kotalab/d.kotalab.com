@@ -25,7 +25,7 @@ tags:
 - 貯金
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/compare-recept-scan-functions_140409.jpg" alt="Compare recept scan functions 140409" title="compare-recept-scan-functions_140409.jpg" border="0" width="548" height="332" /><br />
+<p><img src="/wp-content/uploads/compare-recept-scan-functions_140409.jpg" alt="Compare recept scan functions 140409" title="compare-recept-scan-functions_140409.jpg" border="0" width="548" height="332" /><br />
 「家計簿をつけている人は、家計簿をつけていない人よりも貯金が多い。」日経新聞の朝刊にこんなことが書かれていました。<br><br />
 貯金ができない人、貯金をしたい人はまず家計簿をつけてみることから始めてるとよさそうです。</p>
 <p>でも家計簿をつけてみようと思ったけど続かない人、すごく多いと思います。<br><br />
@@ -41,7 +41,7 @@ comments: []
 <p>今回紹介するアプリは全部無料で使えます。<br><br />
 ただしbookeepのレシート読み込み機能だけは有料になっているのでご注意ください！</p>
 <h3>ReceReco</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-recept-scan-functions_140409_01.jpg" alt="Compare recept scan functions 140409 01" title="compare-recept-scan-functions_140409_01.jpg" border="0" width="548" height="485" /></p>
+<p><img src="/wp-content/uploads/compare-recept-scan-functions_140409_01.jpg" alt="Compare recept scan functions 140409 01" title="compare-recept-scan-functions_140409_01.jpg" border="0" width="548" height="485" /></p>
 <p>マネーフォワードと連携するレシート読み込みアプリのReceReco。<br><br />
 値段はギリギリ読み込めてるかなという感じ。</p>
 <div class="applink">
@@ -56,7 +56,7 @@ comments: []
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/wu-liao-jia-ji-buno-jue-ding/id592314796?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h3>マネーフォワードforBiz</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-recept-scan-functions_140409_02.jpg" alt="Compare recept scan functions 140409 02" title="compare-recept-scan-functions_140409_02.jpg" border="0" width="548" height="485" /></p>
+<p><img src="/wp-content/uploads/compare-recept-scan-functions_140409_02.jpg" alt="Compare recept scan functions 140409 02" title="compare-recept-scan-functions_140409_02.jpg" border="0" width="548" height="485" /></p>
 <p>マネーフォワードのビジネス版アプリ、マネーフォワードforBiz。<br><br />
 読み込んだ内容がそのまま帳簿としてつけられるアプリです。表示がマイナスなのはそのせいだと思います。</p>
 <p>読み込み機能としては数字は大丈夫そうだけどという感じ。</p>
@@ -72,7 +72,7 @@ comments: []
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/manefowadoforbiz-que-ding/id794972941?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h3>bookeep</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-recept-scan-functions_140409_032.jpg" alt="Compare recept scan functions 140409 03" title="compare-recept-scan-functions_140409_03.jpg" border="0" width="548" height="485" /></p>
+<p><img src="/wp-content/uploads/compare-recept-scan-functions_140409_032.jpg" alt="Compare recept scan functions 140409 03" title="compare-recept-scan-functions_140409_03.jpg" border="0" width="548" height="485" /></p>
 <p>僕が家の家計簿を付けるのに使ってるアプリbookeep。</p>
 <p>日本語はしっかり読み込めてます。ただ金額が読み込めてなくて残念。</p>
 <div class="applink">
@@ -87,7 +87,7 @@ comments: []
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/zhumaru!-zengeru!kantan-jia/id483308707?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h3>Reccit家計簿</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-recept-scan-functions_140409_04.jpg" alt="Compare recept scan functions 140409 04" title="compare-recept-scan-functions_140409_04.jpg" border="0" width="548" height="485" /></p>
+<p><img src="/wp-content/uploads/compare-recept-scan-functions_140409_04.jpg" alt="Compare recept scan functions 140409 04" title="compare-recept-scan-functions_140409_04.jpg" border="0" width="548" height="485" /></p>
 <p>見た目がピンクでかわいらしいアプリ、Reccit家計簿。</p>
 <p>日付と合計金額はばっちり読み込めてます。</p>
 <div class="applink">
@@ -102,7 +102,7 @@ comments: []
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/reccit-kisekae-jia-ji-bu-reshito/id580083947?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h3>Zaim</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-recept-scan-functions_140409_05.jpg" alt="Compare recept scan functions 140409 05" title="compare-recept-scan-functions_140409_05.jpg" border="0" width="548" height="485" /></p>
+<p><img src="/wp-content/uploads/compare-recept-scan-functions_140409_05.jpg" alt="Compare recept scan functions 140409 05" title="compare-recept-scan-functions_140409_05.jpg" border="0" width="548" height="485" /></p>
 <p>100万人以上が使うと言われる家計アプリ、Zaim。<br />
 金額、日付、お店の情報までばっちり。<br><br />
 カテゴリもしっかり分類されているのはスゴい！</p>
@@ -118,7 +118,7 @@ comments: []
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/jia-ji-buzaimreshito-du-quga/id445850671?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h3>レシーピ！</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-recept-scan-functions_140409_06.jpg" alt="Compare recept scan functions 140409 06" title="compare-recept-scan-functions_140409_06.jpg" border="0" width="548" height="485" /></p>
+<p><img src="/wp-content/uploads/compare-recept-scan-functions_140409_06.jpg" alt="Compare recept scan functions 140409 06" title="compare-recept-scan-functions_140409_06.jpg" border="0" width="548" height="485" /></p>
 <p>日テレの「Zip!」で紹介されていたアルパカのアイコンが目印のアプリ、レシーピ！</p>
 <p>日付こそ間違ってはいますが、商品名と値段はしっかり読み込めています。</p>
 <div class="applink">
@@ -133,11 +133,11 @@ comments: []
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/xuku-jia-ji-bureshipi!-jie/id660231447?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h3>DrWallet</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-recept-scan-functions_140409_07.jpg" alt="Compare recept scan functions 140409 07" title="compare-recept-scan-functions_140409_07.jpg" border="0" width="548" height="485" /></p>
+<p><img src="/wp-content/uploads/compare-recept-scan-functions_140409_07.jpg" alt="Compare recept scan functions 140409 07" title="compare-recept-scan-functions_140409_07.jpg" border="0" width="548" height="485" /></p>
 <p>撮った写真を人の目で解析してデータ化してくれるアプリ、DrWallet。<br />
 写真を撮った直後はデータ化中で結果をすぐには見れませんでした。<br><br />
 時間が経って確認してみるとこの通り。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-recept-scan-functions_140409_08.jpg" alt="Compare recept scan functions 140409 08" title="compare-recept-scan-functions_140409_08.jpg" border="0" width="300" height="532" /></p>
+<p><img src="/wp-content/uploads/compare-recept-scan-functions_140409_08.jpg" alt="Compare recept scan functions 140409 08" title="compare-recept-scan-functions_140409_08.jpg" border="0" width="300" height="532" /></p>
 <p>さすが人力！お店の情報も品名も値段もばっちりです！</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/jian-dan-jia-ji-budr.wallet!reshito/id686568005?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1825.phobos.apple.com/us/r30/Purple2/v4/d7/99/6b/d7996b74-2316-969c-fe6d-8548b8462770/mzl.bpuzseuw.png" width="80" /></a></div>

@@ -17,7 +17,7 @@ category:
 tags: []
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/its-usually_20150609-780x517.jpg" alt="its-usually_20150609" width="780" height="517" class="aligncenter size-large wp-image-14580" /></p>
+<p><img src="/wp-content/uploads/2015/06/its-usually_20150609-780x517.jpg" alt="its-usually_20150609" width="780" height="517" class="aligncenter size-large wp-image-14580" /></p>
 <p>モノを買うときに「<strong>この世で自分だけしか持っていなくても欲しいモノなのか？</strong>」という基準で判断してから買うようにしています。</p>
 <p>先月買ったMacBook Proを選ぶ時も、人気があるという理由で13インチを選ぶんじゃなくて15インチと比べてどっちが自分に合ってるかを最優先に考えて15インチに決めました。</p>
 <p>では判断基準の対象がモノではなくお金そのものだったらどうでしょう。</p>
@@ -45,5 +45,5 @@ comments: []
 <p>これからもこの感覚を大切にしていきたい！</p>
 <p>[dailynew]<br />
 ・iOS9・OS Xエルキャピタンからの新機能、ContentsBlockerを試してみた</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

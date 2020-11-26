@@ -18,7 +18,7 @@ tags:
 - Evernote
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/Evernote_01.gif" target="_blank"><img src="https://kotalab.com/wp-content/uploads/Evernote_01.gif" alt="" title="Evernote_01" width="228" height="118" class="alignnone size-full wp-image-1166" /></a><br />
+<p><a href="/wp-content/uploads/Evernote_01.gif" target="_blank"><img src="/wp-content/uploads/Evernote_01.gif" alt="" title="Evernote_01" width="228" height="118" class="alignnone size-full wp-image-1166" /></a><br />
 <a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>のノート数がいつの間にか1000を超えてました。<a href="https://twitter.com/kotala_b" target="_blank">@kotala_b</a>です。<br />
 まだ5ヶ月と日が浅いですが<a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>のノートを無作為に選んで見てみると面白いです。<br />
 なぜ<a title="Evernote" href="https://evernote.com/intl/jp/" target="_blank">Evernote</a>をこんなに使っているのか考えてみました。<br />

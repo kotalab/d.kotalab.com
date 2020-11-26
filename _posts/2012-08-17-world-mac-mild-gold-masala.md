@@ -22,22 +22,22 @@ tags:
 - マイルドゴールドマサラ
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" alt="" title="legrand_120718_02" width="448" height="336" class="alignnone size-full wp-image-1539" /></a><br />
+<p><a href="/wp-content/uploads/legrand_120718_02.jpg" target="_blank"><img src="/wp-content/uploads/legrand_120718_02.jpg" alt="" title="legrand_120718_02" width="448" height="336" class="alignnone size-full wp-image-1539" /></a><br />
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/6914750483.html" target="_blank">Enseigne McDonald&rsquo;s</a> / zigazou76</span><br />
 マック熱が自分の中で再燃してます。@kotala_bです。<br />
-<a href="https://kotalab.com/world-mac-ind2" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2026" alt="https://kotalab.com/archives/2026" width="150" height="130" align="left" /></a><a href="https://kotalab.com/world-mac-ind2" target="_blank">[食]レギュラーメニューに追加して欲しい！世界の★★★マック第2弾、ホットゴールドマサラを食べた！ | kotala's note</a><br style="clear:both;" />先日のホットゴールドマサラに引き続いて、マイルドゴールドマサラを食べました！<br />
+<a href="/world-mac-ind2" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/2026" alt="https://kotalab.com/archives/2026" width="150" height="130" align="left" /></a><a href="/world-mac-ind2" target="_blank">[食]レギュラーメニューに追加して欲しい！世界の★★★マック第2弾、ホットゴールドマサラを食べた！ | kotala's note</a><br style="clear:both;" />先日のホットゴールドマサラに引き続いて、マイルドゴールドマサラを食べました！<br />
 </p>
 <!--more-->
 <h2>マイルドゴールドマサラを食べてみた！</h2>
 <p>▼GOLD MASALA MILD！<br />
-<a href="https://kotalab.com/wp-content/uploads/mildgoldmasala_120817_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/mildgoldmasala_120817_01.jpg" alt="" title="mildgoldmasala_120817_01" width="448" height="336" class="alignnone size-full wp-image-2164" /></a><br />
+<a href="/wp-content/uploads/mildgoldmasala_120817_01.jpg" target="_blank"><img src="/wp-content/uploads/mildgoldmasala_120817_01.jpg" alt="" title="mildgoldmasala_120817_01" width="448" height="336" class="alignnone size-full wp-image-2164" /></a><br />
 ▼包装紙を広げるとはみ出るチキン！！<br />
-<a href="https://kotalab.com/wp-content/uploads/mildgoldmasala_120817_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/mildgoldmasala_120817_02.jpg" alt="" title="mildgoldmasala_120817_02" width="448" height="336" class="alignnone size-full wp-image-2165" /></a><br />
+<a href="/wp-content/uploads/mildgoldmasala_120817_02.jpg" target="_blank"><img src="/wp-content/uploads/mildgoldmasala_120817_02.jpg" alt="" title="mildgoldmasala_120817_02" width="448" height="336" class="alignnone size-full wp-image-2165" /></a><br />
 辛いものが苦手でも食べれるくらい辛さがおさえてあるおいしいハンバーガーです。<br />
 マイルドゴールドマサラというだけあってマイルドな味わいでした。<br />
 おいしかったです！<br />
 ▼今日から新登場のマックフルーリーキャラメルプリン！<br />
-<a href="https://kotalab.com/wp-content/uploads/mildgoldmasala_120817_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/mildgoldmasala_120817_03.jpg" alt="" title="mildgoldmasala_120817_03" width="448" height="336" class="alignnone size-full wp-image-2163" /></a><br />
+<a href="/wp-content/uploads/mildgoldmasala_120817_03.jpg" target="_blank"><img src="/wp-content/uploads/mildgoldmasala_120817_03.jpg" alt="" title="mildgoldmasala_120817_03" width="448" height="336" class="alignnone size-full wp-image-2163" /></a><br />
 デザートにオススメのキャラメル味の小さなクッキーがたっぷりかかったおいしいマックフルーリーです！<br />
 今日から新登場ということで合わせて買ってきました！<br />
 おいしかったです！</p>

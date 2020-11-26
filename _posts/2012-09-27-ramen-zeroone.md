@@ -21,29 +21,29 @@ tags:
 - 橋本
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120927155002.jpg" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20120927155002.jpg" width="448" height="336" /><br />
 橋本で油そばを食べました。@kotala_bです。<br />
 神奈川県相模原市、JR横浜線の橋本駅から徒歩3分のところにある「麺屋ZERO1」というお店にいってきました！<br />
 </p>
 <!--more-->
 <p>▼店内にはプロレスラー蝶野正洋さんがブラックパワー全開でお出迎え！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120927155008.jpg" width="448" height="598" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120927155008.jpg" width="448" height="598" /><br />
 ▼こちらのお店には豚甘醤油ベースのガッツ系と和風豚骨ベースの新節系があります！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120927155007.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120927155007.jpg" width="448" height="336" /><br />
 今回頼んだのはガッツ系！<br />
 ▼テーブルの上には2代目壺辛というものが！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120927155006.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120927155006.jpg" width="448" height="336" /><br />
 ▼蓋を開けて覗いてみた！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_201209271550041.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_201209271550041.jpg" width="448" height="336" /><br />
 見るからに辛そうな壺辛<br />
 ▼こちらが頼んだガッツ系油そばです。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120927155004.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120927155004.jpg" width="448" height="336" /><br />
 油そばと一緒にスープもついてました。<br />
 ▼麺は太麺で硬め。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120927155000.jpg" width="448" height="598" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120927155000.jpg" width="448" height="598" /><br />
 硬めを頼んだわけではなく、もともと硬いそうです。<br />
 ▼しっかり完食<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120927154958.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120927154958.jpg" width="448" height="336" /><br />
 美味しかったです！ごちそうさまでした！</p>
 <h2>お店の情報</h2>
 <p>昼11時～翌2時<br />

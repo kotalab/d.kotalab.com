@@ -23,7 +23,7 @@ tags:
 - 中村孝志
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-to-do-not-list_140117-546x409.jpg" alt="books-to-do-not-list_140117" width="546" height="409" class="alignnone size-large wp-image-10585" /><br />
+<p><img src="/wp-content/uploads/books-to-do-not-list_140117-546x409.jpg" alt="books-to-do-not-list_140117" width="546" height="409" class="alignnone size-large wp-image-10585" /><br />
 僕らは多くの「やりたいこと」「やらなければならないこと」に囲まれながら日々を過ごしている。<br />
 多すぎる「やりたいこと」「やらなければならないこと」はやがて僕らを縛りつけ、身動きが取りにくい状況へとおいやってしまう。<br />
 「あれもこれもやりたいのに時間がない」「あれもこれもと手を伸ばし、結局全部が中途半端」そんな経験はないだろうか？<br />

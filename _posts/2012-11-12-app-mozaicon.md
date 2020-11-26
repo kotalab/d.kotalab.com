@@ -20,9 +20,9 @@ tags:
 - iPhoneアプリ
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/mozaicon_20121112.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/mozaicon_20121112.png" alt="" title="mozaicon_20121112" width="300" height="300" class="alignnone size-full wp-image-4181" /></a><br />
+<p><a href="/wp-content/uploads/mozaicon_20121112.png" target="_blank"><img src="/wp-content/uploads/mozaicon_20121112.png" alt="" title="mozaicon_20121112" width="300" height="300" class="alignnone size-full wp-image-4181" /></a><br />
 オフ会に参加する頻度は決して高くありません。@kotala_bです。<br />
-そんな僕ですが<a href="https://kotalab.com/tunakan-3rd" title="第3回つながるカンファレンスに参加してきました。有意義な時間をありがとうございました！#tunakan" target="_blank">昨日は第3回つなカンへ行き</a>、11月17日は立花さん(@ttachiさん）主宰のnslセミナーに行く予定です。<br />
+そんな僕ですが<a href="/tunakan-3rd" title="第3回つながるカンファレンスに参加してきました。有意義な時間をありがとうございました！#tunakan" target="_blank">昨日は第3回つなカンへ行き</a>、11月17日は立花さん(@ttachiさん）主宰のnslセミナーに行く予定です。<br />
 オフ会に参加した時の写真てなんとなく公開しづらいですよね。<br />
 そんな時に便利なのがこの<span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmozaikon%252Fid574192874%253Fmt%253D8%2526uo%253D4">モザイコン</span>です！</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmozaikon%252Fid574192874%253Fmt%253D8%2526uo%253D4"><img src="http://a455.phobos.apple.com/us/r1000/105/Purple/v4/4f/95/fa/4f95fad0-d0a7-797d-de0b-3c1da30462db/mzm.piltfnxw.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
@@ -66,9 +66,9 @@ MoveEverやMergeEverでお馴染みのShamrock Records, Inc.さんのアプリ�
 色んな人たちが写ってる集合写真を使いたかったんですが、何人もの人に許可を得るのも難しいので今回は断念。<br />
 代わりに今撮りたての自分の写真を。<br />
 ▼普通にモザイク処理をした写真はこちら<br />
-<a href="https://kotalab.com/wp-content/uploads/mozaicon_20121112_011.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/mozaicon_20121112_011.jpg" alt="" title="mozaicon_20121112_01" width="448" height="336" class="alignnone size-full wp-image-4189" /></a><br />
+<a href="/wp-content/uploads/mozaicon_20121112_011.jpg" target="_blank"><img src="/wp-content/uploads/mozaicon_20121112_011.jpg" alt="" title="mozaicon_20121112_01" width="448" height="336" class="alignnone size-full wp-image-4189" /></a><br />
 ▼モザイコンを使った写真がこちら<br />
-<a href="https://kotalab.com/wp-content/uploads/mozaicon_20121112_021.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/mozaicon_20121112_021.jpg" alt="" title="mozaicon_20121112_02" width="448" height="336" class="alignnone size-full wp-image-4190" /></a><br />
+<a href="/wp-content/uploads/mozaicon_20121112_021.jpg" target="_blank"><img src="/wp-content/uploads/mozaicon_20121112_021.jpg" alt="" title="mozaicon_20121112_02" width="448" height="336" class="alignnone size-full wp-image-4190" /></a><br />
 うーん1人だとどうもイマイチな感じです。<br />
 アップだからかな。</p>
 <h2>最後に</h2>

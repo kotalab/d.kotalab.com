@@ -20,7 +20,7 @@ tags:
 - Gunosy
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/gunosy_20121109.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/gunosy_20121109.png" alt="gunosy_20121109" width="326" height="100" class="alignnone size-full wp-image-4050" /></a><br />
+<p><a href="/wp-content/uploads/gunosy_20121109.png" target="_blank"><img src="/wp-content/uploads/gunosy_20121109.png" alt="gunosy_20121109" width="326" height="100" class="alignnone size-full wp-image-4050" /></a><br />
 Gunosyは毎日チェックしてます。@kotala_bです。<br />
 今朝、Gunosyから2012年のまとめが届いていることに気づきました！<br />
 2012年のGunosyまとめをご紹介します！<br />
@@ -28,7 +28,7 @@ Gunosyは毎日チェックしてます。@kotala_bです。<br />
 <!--more-->
 <h2>Gunosyとは</h2>
 <p>▼Gunosyがよく分からない方はこちらからどうぞ。<br />
-<a href="https://kotalab.com/recommend-gunosy" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/gunosy_20121109.png" alt="RSS登録を減らしたのはGunosyの影響もあった！Gunosyをオススメする理由！ | kotala's note" width="150" /></a><a href="https://kotalab.com/recommend-gunosy" target="_blank">RSS登録を減らしたのはGunosyの影響もあった！Gunosyをオススメする理由！ | kotala's note</a><br style="clear:both" /></p>
+<a href="/recommend-gunosy" target="_blank"><img class="alignleft" src="/wp-content/uploads/gunosy_20121109.png" alt="RSS登録を減らしたのはGunosyの影響もあった！Gunosyをオススメする理由！ | kotala's note" width="150" /></a><a href="/recommend-gunosy" target="_blank">RSS登録を減らしたのはGunosyの影響もあった！Gunosyをオススメする理由！ | kotala's note</a><br style="clear:both" /></p>
 <blockquote><p>Gunosyでは頻繁に登場するブログがある一方で、全く見たことがないページも送られてきます。<br />
 この幅広さがとても面白く、僕がGunosyを毎日チェックするようになった理由でもあります。</p></blockquote>
 <h2>2012年のGunosyまとめ</h2>

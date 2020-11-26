@@ -19,7 +19,7 @@ tags:
 - CocoaPods
 - El Capitan
 comments: []
-thumbnail: https://kotalab.com/wp-content/uploads/2015/10/el-capitan-pod-command-not-found_20151004-780x488.png
+thumbnail: /wp-content/uploads/2015/10/el-capitan-pod-command-not-found_20151004-780x488.png
 ---
 <p>CocoaPodsで入れたライブラリを更新しようとターミナルで</p>
 <pre class="lang:default decode:true " >pod update</pre>

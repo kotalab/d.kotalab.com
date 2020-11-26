@@ -21,7 +21,7 @@ tags:
 - tullys
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/tullys_120711.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tullys_120711.jpg" alt="" title="tullys_120711" width="448" height="336" class="alignnone size-full wp-image-1369" /></a><br />
+<p><a href="/wp-content/uploads/tullys_120711.jpg" target="_blank"><img src="/wp-content/uploads/tullys_120711.jpg" alt="" title="tullys_120711" width="448" height="336" class="alignnone size-full wp-image-1369" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/mah_japan/2783868355/" target="_blank">a photo with manual adjustment</a> / mah_japan</span><br />
 <strong>アサイー</strong>と<strong>スワークル</strong>どちらも初体験です。@kotala_bです。<br />
 ところで<strong>スワークル</strong>と<strong>アサイー</strong>は一体なんなのでしょう。<br />
@@ -37,7 +37,7 @@ Wikipediaで調べるとこう書いてありました。<br />
 <h2>アサイーとは</h2>
 <p>アサイーというのは美容や健康にいいと今注目されている、ブルーベリーのような見た目の果実です。</p>
 <h2>ベリー＆アサイースワークル</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/tullys_120711_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tullys_120711_01.jpg" alt="" title="tullys_120711_01" width="448" height="249" class="alignnone size-full wp-image-1371" /></a><br />
+<p><a href="/wp-content/uploads/tullys_120711_01.jpg" target="_blank"><img src="/wp-content/uploads/tullys_120711_01.jpg" alt="" title="tullys_120711_01" width="448" height="249" class="alignnone size-full wp-image-1371" /></a><br />
 今回僕が飲んだのは<strong>7月4日に新発売</strong>となった<strong>アサイー</strong>の<strong>スワークル</strong>「ベリー＆アサイースワークル」です。<br />
 TULL'Sの商品情報に</p>
 <blockquote><p>ストロベリー・ラスベリー・ブルーベリーの3種類のベリーに、アサイーをミックスしました。夏にぴったりな、清涼感のある味わいです。</p></blockquote>

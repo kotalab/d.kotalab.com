@@ -24,7 +24,7 @@ tags:
 - 金利
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/how-to-use-money_1404122.jpg" alt="How to use money 140412" title="how-to-use-money_140412.JPG" border="0" width="548" height="548" /><br />
+<p><img src="/wp-content/uploads/how-to-use-money_1404122.jpg" alt="How to use money 140412" title="how-to-use-money_140412.JPG" border="0" width="548" height="548" /><br />
 消費税があがって家計は大変ですよね。<br />
 消費税で上がった3％分は数字でみるとスゴい高くなったわけじゃないけど、気持ち的には大打撃。</p>
 <p>スーパーにいって買物をするにも、今まで税込み価格で表示されていたものが、税抜き価格で表示されていてわかりづらいです。これがホントよくないと思いました。</p>
@@ -43,7 +43,7 @@ comments: []
 <p>貸した全体のお金に対して、お金が増えた分の割合が金利になります。</p>
 <p>100円貸して200円返ってきたら金利は100％だし、100円貸して105円返ってくれば金利は5％ということになります。</p>
 <h2>貯金の金利</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/how-to-use-money_140412_01.jpg" alt="How to use money 140412 01" title="how-to-use-money_140412_01.jpg" border="0" width="548" height="174" /></p>
+<p><img src="/wp-content/uploads/how-to-use-money_140412_01.jpg" alt="How to use money 140412 01" title="how-to-use-money_140412_01.jpg" border="0" width="548" height="174" /></p>
 <p>銀行にお金を預けておくだけで金利が貰えるのはご存知ですか？<br><br />
 銀行の通帳をみると半年に1回くらいのペースで「利息」なんて書かれて数十円から数百円くらいのお金が入金されていると思います。</p>
 <p>日本の銀行にお金を預けておく場合の金利はスゴく低くて、メガバンクと言われるみずほ銀行・三井住友銀行・東京三菱UFJ銀行の普通預金の金利は現在0.02%です。</p>
@@ -58,7 +58,7 @@ comments: []
 ただし、元本割れといって100円投資したのが90円とか80円、酷い時には0円になって返ってこないなんてこともあり得ます。</p>
 <p>銀行よりも利回りはよくなるかも知れないし、元本割れするかも知れない。<strong>安定しているとは言い切れないのが投資</strong>です。</p>
 <h2>ローンの金利</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/how-to-use-money_140412_03.png" alt="How to use money 140412 03" title="how-to-use-money_140412_03.png" border="0" width="548" height="472" /><br />
+<p><img src="/wp-content/uploads/how-to-use-money_140412_03.png" alt="How to use money 140412 03" title="how-to-use-money_140412_03.png" border="0" width="548" height="472" /><br />
 via:<a href="http://www.mizuhobank.co.jp/loan/housing/refinanced_loan/plan/index.html" target="_blank">みずほ銀行：みずほ借り換え住宅ローンの金利一覧</a></p>
 <p>家を建てる時や車を買う時にローンを組んで買う人がほとんどだと思います。ローンを組む時にも金利がついてきます。<br><br />
 とは言っても銀行に預けたり投資するときとは違って、こちらから払わなきゃいけない金利です。</p>
@@ -77,7 +77,7 @@ via:<a href="http://www.mizuhobank.co.jp/loan/housing/refinanced_loan/plan/index
 <h2>貯金よりも投資よりもまずローン返済！</h2>
 <p>別に貸す側じゃなくて、ローンでお金を借りる側でも真っ先にお金を使いたいのがローンの返済です！</p>
 <p>100万円を3年間、2.5%の金利でローンを組んだ場合を計算してみました。<br />
-<img src="https://kotalab.com/wp-content/uploads/how-to-use-money_140412_021.jpg" alt="How to use money 140412 02" title="how-to-use-money_140412_02.jpg" border="0" width="548" height="384" /><br />
+<img src="/wp-content/uploads/how-to-use-money_140412_021.jpg" alt="How to use money 140412 02" title="how-to-use-money_140412_02.jpg" border="0" width="548" height="384" /><br />
 そうすると3年間で支払う利息合計は38,524円。</p>
 <p>もし仮に1年後に30万円繰り上げて返済して返済期間も短くなったら、11,928円払う利息が減ることになりました。</p>
 <p>先に30万円払うことで支払いが確実に11,928円減るわけですから、<span class="b">もし同じ30万円をお金を増やす目的で貯金に回すか投資に回すか考えているなら、その考えが間違っている</span>ことに気づくはずです。</p>

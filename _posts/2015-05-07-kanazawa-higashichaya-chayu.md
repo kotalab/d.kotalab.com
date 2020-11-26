@@ -20,23 +20,23 @@ tags:
 - 観光
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_01.jpg" alt="Kanazawa higashichaya chayu 20150507 01" width="780" height ="516" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_01.jpg" alt="Kanazawa higashichaya chayu 20150507 01" width="780" height ="516" class="aligncenter size-large" /></p>
 <p>金沢には金沢城があり、周辺には城下町の名残りがある茶屋街がいくつかあります。<br />
 ひがし茶屋街もそのうちの1つ。</p>
 <p>GWに観光で金沢に行った時にひがし茶屋街で入った、甘味カフェの「茶ゅ」というお店の雰囲気がすごく気に入ったのでご紹介したいと思います。</p>
 <!--more-->
 <h2>お店の雰囲気</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_04.jpg" alt="Kanazawa higashichaya chayu 20150507 04" width="780" height ="516" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_04.jpg" alt="Kanazawa higashichaya chayu 20150507 04" width="780" height ="516" class="aligncenter size-large" /></p>
 <p>1階にはテイクアウト用のアイス、2階はゆったりくつろげる畳10畳ほどのスペースがあります。<br />
 僕たちはその2階で休憩をとることに。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_02.jpg" alt="Kanazawa higashichaya chayu 20150507 02" width="780" height ="516" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_02.jpg" alt="Kanazawa higashichaya chayu 20150507 02" width="780" height ="516" class="aligncenter size-large" /></p>
 <p>店内にはいくつも和を感じるオブジェがあります。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_05.jpg" alt="Kanazawa higashichaya chayu 20150507 05" width="780" height ="516" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_05.jpg" alt="Kanazawa higashichaya chayu 20150507 05" width="780" height ="516" class="aligncenter size-large" /></p>
 <p>ところどころにある折り鶴や</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_03.jpg" alt="Kanazawa higashichaya chayu 20150507 03" width="780" height ="516" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_03.jpg" alt="Kanazawa higashichaya chayu 20150507 03" width="780" height ="516" class="aligncenter size-large" /></p>
 <p>窓際の植物など、眺めているだけでどこか落ち着く、ゆったりできる空間となっています。</p>
 <h2>折り鶴がとっても印象的</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_06.jpg" alt="Kanazawa higashichaya chayu 20150507 06" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_06.jpg" alt="Kanazawa higashichaya chayu 20150507 06" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>注文したのは、アイスとコーヒーのセット。<br />
 お盆の上にちょこんと乗った折り鶴が今でもすごく印象に残っています。</p>
 <p>飲み物はコーヒーの他に抹茶や番茶があって、アイスも数種類のフレーバーから選べるようになっています。<br />

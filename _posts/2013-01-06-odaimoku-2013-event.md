@@ -22,7 +22,7 @@ tags:
 - WBC
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130106124750.png" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20130106124750.png" width="448" height="336" /><br />
 お題目は2013年で注目してるイベントです。@kotala_bです。<br />
 奥野さん(@odaiji)さんが新しくブログを作りました。<br />
 その名もodaimoku.com<br />

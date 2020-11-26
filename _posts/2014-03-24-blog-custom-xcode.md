@@ -36,8 +36,8 @@ comments:
   content: "[&#8230;] こたらさんの記事を参考にさせていただいて、「レスポンシブデザインのiPhoneでの簡易チェックはXcodeのiOSシミュレータでやっちゃおう。Androidはエミュレータなのでちょっとめんどくさ
     [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/blog-custom-xcode_140323_01-546x306.jpg" alt="blog-custom-xcode_140323_01" width="546" height="306" class="alignnone size-large wp-image-11242" /><br />
-先日参加した<a href="https://kotalab.com/blog-analytics-seminar" title="ブログをその場でアクセス解析！ #ブロガー向けアクセス解析セミナー に行ってきた！">ブロガー向けアクセス解析セミナー</a>で、「ブログにアクセスしてきた端末がどんなモノなのかを知る」という機会がありました。<br />
+<p><img src="/wp-content/uploads/blog-custom-xcode_140323_01-546x306.jpg" alt="blog-custom-xcode_140323_01" width="546" height="306" class="alignnone size-large wp-image-11242" /><br />
+先日参加した<a href="/blog-analytics-seminar" title="ブログをその場でアクセス解析！ #ブロガー向けアクセス解析セミナー に行ってきた！">ブロガー向けアクセス解析セミナー</a>で、「ブログにアクセスしてきた端末がどんなモノなのかを知る」という機会がありました。<br />
 このブログのアクセスを見てみると、iPhoneやAndroidのようなモバイルからのアクセスが全体の半分以上でした。</p>
 <p>そこでモバイルから見たときのデザインを変更することを重点的にしていくことにしました。<br />
 この時、変えた内容を確認しながらの作業になります。<br />
@@ -63,25 +63,25 @@ comments:
 <h2>XcodeでiOSシミュレータを起動するまでの流れ</h2>
 <p>Xcodeを起動させてからiOSシミュレータを動かすまでの流れを紹介していきます。<br />
 Xcodeを起動するとこんな画面が出てくるので「Create a new Xcode project」を選びます。<br />
-<img src="https://kotalab.com/wp-content/uploads/blog-custom-xcode_140323_02-546x320.png" alt="blog-custom-xcode_140323_02" width="546" height="320" class="alignnone size-large wp-image-11244" /><br />
+<img src="/wp-content/uploads/blog-custom-xcode_140323_02-546x320.png" alt="blog-custom-xcode_140323_02" width="546" height="320" class="alignnone size-large wp-image-11244" /><br />
 「iOS Application」の中にある「Single View Apprication」を選んで「Next」を押します。<br />
-<img src="https://kotalab.com/wp-content/uploads/blog-custom-xcode_140323_03-546x369.png" alt="blog-custom-xcode_140323_03" width="546" height="369" class="alignnone size-large wp-image-11238" /><br />
+<img src="/wp-content/uploads/blog-custom-xcode_140323_03-546x369.png" alt="blog-custom-xcode_140323_03" width="546" height="369" class="alignnone size-large wp-image-11238" /><br />
 「Choose options for your new project」という画面で必要項目を入力します。<br />
-<img src="https://kotalab.com/wp-content/uploads/blog-custom-xcode_140323_04-546x366.png" alt="blog-custom-xcode_140323_04" width="546" height="366" class="alignnone size-large wp-image-11237" /><br />
+<img src="/wp-content/uploads/blog-custom-xcode_140323_04-546x366.png" alt="blog-custom-xcode_140323_04" width="546" height="366" class="alignnone size-large wp-image-11237" /><br />
 今回はiOSシミュレータを起動させることが目的なので、「Devices」がiPhoneになってれば他の入力内容は適当で構いません。</p>
 <p>「NEXT」を押すと保存先を聞かれるので、保存先を指定します。</p>
 <p>保存先を指定するとXcodeの画面が開きます。<br />
 ここでは左上にある再生ボタンを押します。<br />
-<img src="https://kotalab.com/wp-content/uploads/blog-custom-xcode_140323_05.png" alt="blog-custom-xcode_140323_05" width="398" height="486" class="alignnone size-full wp-image-11240" /><br />
+<img src="/wp-content/uploads/blog-custom-xcode_140323_05.png" alt="blog-custom-xcode_140323_05" width="398" height="486" class="alignnone size-full wp-image-11240" /><br />
 最初は時間がかかるかも知れませんが、少しするとiOSシミュレータが起動して真っ白の画面が表示されるはずです。<br />
-<img src="https://kotalab.com/wp-content/uploads/blog-custom-xcode_140323_06.png" alt="blog-custom-xcode_140323_06" width="320" height="590" class="alignnone size-full wp-image-11239" /><br />
+<img src="/wp-content/uploads/blog-custom-xcode_140323_06.png" alt="blog-custom-xcode_140323_06" width="320" height="590" class="alignnone size-full wp-image-11239" /><br />
 真っ白の画面が出てきても焦らないで大丈夫！落ち着いて、画面上のメニューバの「ハードウェア」にある「ホーム」を押します。<br />
-<img src="https://kotalab.com/wp-content/uploads/blog-custom-xcode_140323_07-546x272.png" alt="blog-custom-xcode_140323_07" width="546" height="272" class="alignnone size-large wp-image-11236" /><br />
+<img src="/wp-content/uploads/blog-custom-xcode_140323_07-546x272.png" alt="blog-custom-xcode_140323_07" width="546" height="272" class="alignnone size-large wp-image-11236" /><br />
 するとiPhoneぽい画面が表示されDockの位置にはSafariがあるはずです。<br />
-<img src="https://kotalab.com/wp-content/uploads/blog-custom-xcode_140323_08.png" alt="blog-custom-xcode_140323_08" width="320" height="590" class="alignnone size-full wp-image-11243" /><br />
+<img src="/wp-content/uploads/blog-custom-xcode_140323_08.png" alt="blog-custom-xcode_140323_08" width="320" height="590" class="alignnone size-full wp-image-11243" /><br />
 あとはSafariを起動して普段iPhoneでやるようにブログを表示させてあげれば完了になります！</p>
 <h3>ブログカスタマイズがスゴく捗る！</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/blog-custom-xcode_140323_09-546x297.png" alt="blog-custom-xcode_140323_09" width="546" height="297" class="alignnone size-large wp-image-11241" /><br />
+<p><img src="/wp-content/uploads/blog-custom-xcode_140323_09-546x297.png" alt="blog-custom-xcode_140323_09" width="546" height="297" class="alignnone size-large wp-image-11241" /><br />
 僕はこれまでずっとMacBook AirのSafariでユーザーエージェントを変更したり、手元のiPhoneから自分のブログがどう見えているか確認してました。<br />
 MacBook Airからだと実際の見え方とは若干違うし、iPhoneからだといちいちロック解除してSafariを開かなきゃいけませんでした。</p>
 <p><strong>iOSシミュレータを使えば、そんなわずらわしさも解消！<br />

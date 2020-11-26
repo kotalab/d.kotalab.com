@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/taskchutecustom_121126.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/taskchutecustom_121126-448x298.jpg" alt="" title="taskchutecustom_121126" width="448" height="298" class="alignnone size-large wp-image-4415" /></a><br />
+<p><a href="/wp-content/uploads/taskchutecustom_121126.jpg" target="_blank"><img src="/wp-content/uploads/taskchutecustom_121126-448x298.jpg" alt="" title="taskchutecustom_121126" width="448" height="298" class="alignnone size-large wp-image-4415" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/pennuja/5364124040/" target="_blank">Multi Tools</a> / pennuja</span><br />
 Taskchute2を使い始めて1週間が経ちました。@kotala_bです。<br />
 以前使っていたTaskchuteでは様々なカスタマイズを行っていました。<br />
@@ -56,8 +56,8 @@ Taskchuteに標準で入っているのは実績時間の分単位のものに�
 1日の空き時間というのは「次の日の理想の起床時間ー睡眠時間＝今日の寝る時間」として今日の寝る時間と今日のタスク終了時間の差がどれくらいあるのかを表示させたものです。<br />
 自分が寝たい時間までに空き時間がどれくらいあるのかということが一目でわかります。<br />
 導入方法はこちら<br />
-<a href="https://kotalab.com/taskchute-wakeup-clock" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/okidokei_120621_02.jpg" alt="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/taskchute-wakeup-clock" target="_blank">思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/taskchute-gyakusan" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/risoujikan_120622_01.jpg" alt="Taskchuteはこんなことも出来る！理想の起床時間から今日の空いてる時間を逆算する方法！！ | kotala's note" width="150" /></a><a href="https://kotalab.com/taskchute-gyakusan" target="_blank">Taskchuteはこんなことも出来る！理想の起床時間から今日の空いてる時間を逆算する方法！！ | kotala's note</a><br style="clear:both;" />以前このブログで紹介した方法です。<br />
+<a href="/taskchute-wakeup-clock" target="_blank"><img  class="alignleft" src="/wp-content/uploads/okidokei_120621_02.jpg" alt="思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！ | kotala's note" width="150" /></a><a href="/taskchute-wakeup-clock" target="_blank">思い立ったらすぐ行動！Taskchuteに起き時計を入れてみた！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/taskchute-gyakusan" target="_blank"><img  class="alignleft" src="/wp-content/uploads/risoujikan_120622_01.jpg" alt="Taskchuteはこんなことも出来る！理想の起床時間から今日の空いてる時間を逆算する方法！！ | kotala's note" width="150" /></a><a href="/taskchute-gyakusan" target="_blank">Taskchuteはこんなことも出来る！理想の起床時間から今日の空いてる時間を逆算する方法！！ | kotala's note</a><br style="clear:both;" />以前このブログで紹介した方法です。<br />
 以前使っていたTaskchuteにも入れていて、今回新たにTaskchute2に入れるのに自分のブログを参考に同じ物を入れました。</p>
 <h2>最後に</h2>
 <p>Taskchuteのカスタマイズのご紹介でした。<br />

@@ -23,7 +23,7 @@ tags:
 - 行動
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="728" class="aligncenter size-full wp-image-10753" /><br />
+<p><img src="/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="728" class="aligncenter size-full wp-image-10753" /><br />
 僕の周りにはサラリーマンもいるし、フリーで働いている人も数多くいます。</p>
 <p>周りの彼らを見比べると、ひとつの決定的な違いがありました。<br />
 それは仕事に対する考え方です。<br />

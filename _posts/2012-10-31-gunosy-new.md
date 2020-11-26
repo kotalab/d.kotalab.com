@@ -20,7 +20,7 @@ tags:
 - Gunosy
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/gunosy_121031.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/gunosy_121031.jpg" alt="" title="gunosy_121031" width="448" height="297" class="alignnone size-full wp-image-3826" /></a><br />
+<p><a href="/wp-content/uploads/gunosy_121031.jpg" target="_blank"><img src="/wp-content/uploads/gunosy_121031.jpg" alt="" title="gunosy_121031" width="448" height="297" class="alignnone size-full wp-image-3826" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/yourdon/3475417696/" target="_blank">Bryant Park, late Apr 2009 - 21</a> / Ed Yourdon</span><br />
 僕はRSSとTwitterで情報収集しています。@kotala_bです。<br />
 他にもFacebookやはてブ、Google+など人によって様々なサービスで情報収集していると思います。<br />
@@ -56,7 +56,7 @@ comments: []
 <p>では実際に登録して使ってみたいと思います。<br />
 まずは<a href="http://gunosy.com/" target="_blank">Gunosy（グノシー）</a>にアクセスしてTwitterまたはFacebookアカウントからログインします。<br />
 ▼アカウント情報を登録していくとこのような画面になります。<br />
-<a href="https://kotalab.com/wp-content/uploads/gunosy_121031_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/gunosy_121031_01.png" alt="" title="gunosy_121031_01" width="448" height="336" class="alignnone size-full wp-image-3827" /></a><br />
+<a href="/wp-content/uploads/gunosy_121031_01.png" target="_blank"><img src="/wp-content/uploads/gunosy_121031_01.png" alt="" title="gunosy_121031_01" width="448" height="336" class="alignnone size-full wp-image-3827" /></a><br />
 ここでメールアドレスを登録し時間と記事数を設定しておくと、指定した通りにメールが送られてきます。<br />
 最初の1回目だけは登録後2,3時間して送られてきます。<br />
 あとは特に設定いらずで自動的に毎日送られてくるようになります。<br />

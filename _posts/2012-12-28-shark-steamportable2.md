@@ -21,10 +21,10 @@ tags:
 - 掃除
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/steamportabl_121228.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228-448x336.jpg" alt="steamportabl_121228" width="448" height="336" class="alignnone size-large wp-image-5120" /></a><br />
+<p><a href="/wp-content/uploads/steamportabl_121228.jpg" target="_blank"><img src="/wp-content/uploads/steamportabl_121228-448x336.jpg" alt="steamportabl_121228" width="448" height="336" class="alignnone size-large wp-image-5120" /></a><br />
 先日からシャークスチームポータブルが家にあります。@kotala_bです。<br />
 買った時はこちらでお伝えしました。<br />
-<a href="https://kotalab.com/shark-steam-portable" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121221161734.png" alt="シャーク スチームポータブルが超お買い得！コストコでなんと9800円！ | kotala's note" width="150" /></a><a href="https://kotalab.com/shark-steam-portable" target="_blank">シャーク スチームポータブルが超お買い得！コストコでなんと9800円！ | kotala's note</a><br style="clear:both;" />年末の大掃除に向けて効果のほどを確かめるべく使ってみました！<br />
+<a href="/shark-steam-portable" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20121221161734.png" alt="シャーク スチームポータブルが超お買い得！コストコでなんと9800円！ | kotala's note" width="150" /></a><a href="/shark-steam-portable" target="_blank">シャーク スチームポータブルが超お買い得！コストコでなんと9800円！ | kotala's note</a><br style="clear:both;" />年末の大掃除に向けて効果のほどを確かめるべく使ってみました！<br />
 今回はシャークスチームポータブルの使用感をご紹介したいと思います！</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0045OVAQU/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41WPlNUmhFL._SL160_.jpg" style="border: none;" /></a></div>
@@ -44,23 +44,23 @@ comments: []
 <h2>使う前の準備</h2>
 <p>まずは本体にホースとヘッドを取り付けます。<br />
 ▼今回は拭き取り用の大きいヘッドを使用しました。<br />
-<a href="https://kotalab.com/wp-content/uploads/steamportabl_121228_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228_01-448x336.jpg" alt="steamportabl_121228_01" width="448" height="336" class="alignnone size-large wp-image-5121" /></a><br />
+<a href="/wp-content/uploads/steamportabl_121228_01.jpg" target="_blank"><img src="/wp-content/uploads/steamportabl_121228_01-448x336.jpg" alt="steamportabl_121228_01" width="448" height="336" class="alignnone size-large wp-image-5121" /></a><br />
 本体には水を注ぎ込みます。<br />
 ▼本体の脇についてる吸水口から水を専用の水差しを使っていれます。<br />
-<a href="https://kotalab.com/wp-content/uploads/steamportabl_121228_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228_03-448x336.jpg" alt="steamportabl_121228_03" width="448" height="336" class="alignnone size-large wp-image-5123" /></a><br />
+<a href="/wp-content/uploads/steamportabl_121228_03.jpg" target="_blank"><img src="/wp-content/uploads/steamportabl_121228_03-448x336.jpg" alt="steamportabl_121228_03" width="448" height="336" class="alignnone size-large wp-image-5123" /></a><br />
 ▼本体にホースをつける前に装着口につまりがないか専用の針金でチェックします。<br />
-<a href="https://kotalab.com/wp-content/uploads/steamportabl_121228_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228_04-448x336.jpg" alt="steamportabl_121228_04" width="448" height="336" class="alignnone size-large wp-image-5124" /></a><br />
+<a href="/wp-content/uploads/steamportabl_121228_04.jpg" target="_blank"><img src="/wp-content/uploads/steamportabl_121228_04-448x336.jpg" alt="steamportabl_121228_04" width="448" height="336" class="alignnone size-large wp-image-5124" /></a><br />
 これで準備完了！<br />
 ▼コンセントにプラグを指すと青いランプが点灯！<br />
-<a href="https://kotalab.com/wp-content/uploads/steamportabl_121228_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228_05-448x336.jpg" alt="steamportabl_121228_05" width="448" height="336" class="alignnone size-large wp-image-5125" /></a><br />
+<a href="/wp-content/uploads/steamportabl_121228_05.jpg" target="_blank"><img src="/wp-content/uploads/steamportabl_121228_05-448x336.jpg" alt="steamportabl_121228_05" width="448" height="336" class="alignnone size-large wp-image-5125" /></a><br />
 コンセントに指して1分くらいすると水が高温になりスチームが使えるようになります！<br />
-<a href="https://kotalab.com/wp-content/uploads/steamportabl_121228_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228_02-448x336.jpg" alt="steamportabl_121228_02" width="448" height="336" class="alignnone size-large wp-image-5122" /></a></p>
+<a href="/wp-content/uploads/steamportabl_121228_02.jpg" target="_blank"><img src="/wp-content/uploads/steamportabl_121228_02-448x336.jpg" alt="steamportabl_121228_02" width="448" height="336" class="alignnone size-large wp-image-5122" /></a></p>
 <h2>家具にこびりついた汚れを拭き取ってみた</h2>
 <p>家具についた汚れに使ってみました。<br />
 ▼ビフォー<br />
-<a href="https://kotalab.com/wp-content/uploads/steamportabl_121228_06.jpg"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228_06-448x336.jpg" alt="steamportabl_121228_06" width="448" height="336" class="alignnone size-large wp-image-5126" /></a><br />
+<a href="/wp-content/uploads/steamportabl_121228_06.jpg"><img src="/wp-content/uploads/steamportabl_121228_06-448x336.jpg" alt="steamportabl_121228_06" width="448" height="336" class="alignnone size-large wp-image-5126" /></a><br />
 ▼アフター<br />
-<a href="https://kotalab.com/wp-content/uploads/steamportabl_121228_07.jpg"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228_07-448x336.jpg" alt="steamportabl_121228_07" width="448" height="336" class="alignnone size-large wp-image-5127" /></a><br />
+<a href="/wp-content/uploads/steamportabl_121228_07.jpg"><img src="/wp-content/uploads/steamportabl_121228_07-448x336.jpg" alt="steamportabl_121228_07" width="448" height="336" class="alignnone size-large wp-image-5127" /></a><br />
 モップが汚れて拭き取れていました。<br />
 <strong>思ってたよりはあまりキレイにならなかったです。<br />
 想像してたのは「買った時と同じピッカピカ」の状態だったので、期待し過ぎたのかも知れません。</strong></p>
@@ -69,9 +69,9 @@ comments: []
 油汚れといえばガスコンロです！<br />
 一番小さい吹き付けようのノズルを使い、スチームのあとに雑巾で拭き取ります。<br />
 ▼ビフォー<br />
-<a href="https://kotalab.com/wp-content/uploads/steamportabl_121228_08.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228_08-448x336.jpg" alt="steamportabl_121228_08" width="448" height="336" class="alignnone size-large wp-image-5128" /></a><br />
+<a href="/wp-content/uploads/steamportabl_121228_08.jpg" target="_blank"><img src="/wp-content/uploads/steamportabl_121228_08-448x336.jpg" alt="steamportabl_121228_08" width="448" height="336" class="alignnone size-large wp-image-5128" /></a><br />
 ▼アフター<br />
-<a href="https://kotalab.com/wp-content/uploads/steamportabl_121228_09.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/steamportabl_121228_09-448x336.jpg" alt="steamportabl_121228_09" width="448" height="336" class="alignnone size-large wp-image-5129" /></a><br />
+<a href="/wp-content/uploads/steamportabl_121228_09.jpg" target="_blank"><img src="/wp-content/uploads/steamportabl_121228_09-448x336.jpg" alt="steamportabl_121228_09" width="448" height="336" class="alignnone size-large wp-image-5129" /></a><br />
 <strong>雑巾で強くこする必要もなく、意外とあっさり汚れが落ちました！<br />
 コンロの一角で試してみたところ、先ほどとは違っていい感じ！</strong></p>
 <h2>最後に</h2>

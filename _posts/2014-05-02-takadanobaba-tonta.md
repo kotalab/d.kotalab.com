@@ -22,20 +22,20 @@ tags:
 - とん太
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502070709.jpg" width="500" height="500" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140502070709.jpg" width="500" height="500" class="slooProImg" /><br />
 JR山手線の高田馬場駅から徒歩5分くらいの場所に、ランチタイムにはお店の前に行列がよくできてる「とん太」というお店があります。</p>
 <p>たまたますぐ入れそうな日があったので、行列に並んで入ってみました！<br />
 </p>
 <!--more-->
 <h2>「とん太」のランチ定食</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502070712.jpg" width="500" height="500" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140502070712.jpg" width="500" height="500" class="slooProImg" /><br />
 とん太の定食はランチタイムが1020円から、他の時間帯は1550円からとなっています。</p>
 <p>並んでから数分、ようやくお店の中に入ると小さいすり鉢に入ったゴマを渡されます。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502070707.jpg" width="548" height="411" class="slooProImg" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20140502070707.jpg" width="548" height="411" class="slooProImg" /><br />
 どうやらこのすり鉢ですったゴマとソースを混ぜて食べるようです。</p>
 <p>ゴマをすってるとあっという間にカツが運ばれてきました！</p>
 <p>僕が頼んだのはロースカツ定食(1020円)<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502070710.jpg" width="500" height="500" class="slooProImg" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20140502070710.jpg" width="500" height="500" class="slooProImg" /><br />
 衣はふわっふわ。</p>
 <p>カツの食感て普通はサクサクじゃないですか？<br />
 でもこのお店「とん太」のカツはふわふわ！<br />

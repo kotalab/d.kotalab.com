@@ -22,7 +22,7 @@ tags:
 - iPadmini
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="" title="ipadmini_121027" width="448" height="336" class="alignnone size-full wp-image-3744" /></a><br />
+<p><a href="/wp-content/uploads/ipadmini_121027.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini_121027.jpg" alt="" title="ipadmini_121027" width="448" height="336" class="alignnone size-full wp-image-3744" /></a><br />
 iPadminiが気になって仕方がありません。@kotala_bです。<br />
 ついに今日iPadminiが発売になりました！<br />
 </p>

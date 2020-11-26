@@ -22,7 +22,7 @@ tags:
 - 書き初め
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/kakizome130102.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kakizome130102-448x336.jpg" alt="kakizome130102" width="448" height="336" class="alignnone size-large wp-image-5181" /></a><br />
+<p><a href="/wp-content/uploads/kakizome130102.jpg" target="_blank"><img src="/wp-content/uploads/kakizome130102-448x336.jpg" alt="kakizome130102" width="448" height="336" class="alignnone size-large wp-image-5181" /></a><br />
 書き初めはおそらく小学生以来です。@kotala_bです。<br />
 1月2日は書き初めの日だってご存知でしょうか！？<br />
 僕は知りませんでした！<br />
@@ -34,7 +34,7 @@ comments: []
 <h2>iPadminiでの書き初め</h2>
 <p>使ったアプリはじーにーさん（@Genie09）と同じくZenBrushです！<br />
 去年の最後の記事で書いた、今年の抱負を書いてみました。<br />
-<a href="https://kotalab.com/next-year" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/yokohama_121021_06.jpg" alt="来年の抱負とか | kotala's note" width="150" /></a><a href="https://kotalab.com/next-year" target="_blank">来年の抱負とか | kotala's note</a><br style="clear:both;" />書いた内容は「ブログ更新500回」「美味しい物を沢山食べる」「読書60冊」「デジイチを始める」ということでそれぞれ書いてみました！</p>
+<a href="/next-year" target="_blank"><img  class="alignleft" src="/wp-content/uploads/yokohama_121021_06.jpg" alt="来年の抱負とか | kotala's note" width="150" /></a><a href="/next-year" target="_blank">来年の抱負とか | kotala's note</a><br style="clear:both;" />書いた内容は「ブログ更新500回」「美味しい物を沢山食べる」「読書60冊」「デジイチを始める」ということでそれぞれ書いてみました！</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fzen-brush%252Fid382200873%253Fmt%253D8%2526uo%253D4"><img src="http://a156.phobos.apple.com/us/r1000/105/Purple/v4/f5/af/68/f5af6879-f9a6-3fc3-8481-c4c1f4e53983/temp..xbgwtqcb.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fzen-brush%252Fid382200873%253Fmt%253D8%2526uo%253D4">Zen Brush</span></div>
@@ -46,19 +46,19 @@ comments: []
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>指でもスラスラ書けて面白い！</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/kakizome130102.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kakizome130102-448x336.jpg" alt="kakizome130102" width="448" height="336" class="alignnone size-large wp-image-5181" /></a><br />
+<p><a href="/wp-content/uploads/kakizome130102.jpg" target="_blank"><img src="/wp-content/uploads/kakizome130102-448x336.jpg" alt="kakizome130102" width="448" height="336" class="alignnone size-large wp-image-5181" /></a><br />
 ▼白以外にも背景が選べたので変えてみました<br />
-<a href="https://kotalab.com/wp-content/uploads/kakizome130102_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kakizome130102_01-448x597.jpg" alt="kakizome130102_01" width="448" height="597" class="alignnone size-large wp-image-5182" /></a><br />
+<a href="/wp-content/uploads/kakizome130102_01.jpg" target="_blank"><img src="/wp-content/uploads/kakizome130102_01-448x597.jpg" alt="kakizome130102_01" width="448" height="597" class="alignnone size-large wp-image-5182" /></a><br />
 背景を変えただけで雰囲気が出てきます！<br />
-<a href="https://kotalab.com/wp-content/uploads/kakizome130102_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kakizome130102_02-448x597.jpg" alt="kakizome130102_02" width="448" height="597" class="alignnone size-large wp-image-5183" /></a><br />
-<a href="https://kotalab.com/wp-content/uploads/kakizome130102_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kakizome130102_03-448x597.jpg" alt="kakizome130102_03" width="448" height="597" class="alignnone size-large wp-image-5184" /></a><br />
+<a href="/wp-content/uploads/kakizome130102_02.jpg" target="_blank"><img src="/wp-content/uploads/kakizome130102_02-448x597.jpg" alt="kakizome130102_02" width="448" height="597" class="alignnone size-large wp-image-5183" /></a><br />
+<a href="/wp-content/uploads/kakizome130102_03.jpg" target="_blank"><img src="/wp-content/uploads/kakizome130102_03-448x597.jpg" alt="kakizome130102_03" width="448" height="597" class="alignnone size-large wp-image-5184" /></a><br />
 書き始めてみると楽しくなってきて<br />
 ▼10秒で思いついたサインを書いてみちゃったり<br />
-<a href="https://kotalab.com/wp-content/uploads/kakizome130102_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kakizome130102_05-448x597.jpg" alt="kakizome130102_05" width="448" height="597" class="alignnone size-large wp-image-5186" /></a><br />
+<a href="/wp-content/uploads/kakizome130102_05.jpg" target="_blank"><img src="/wp-content/uploads/kakizome130102_05-448x597.jpg" alt="kakizome130102_05" width="448" height="597" class="alignnone size-large wp-image-5186" /></a><br />
 ▼すぐにもう1つ思い浮かんで、今度は横向きにして書いてみたり<br />
-<a href="https://kotalab.com/wp-content/uploads/kakizome130102_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kakizome130102_06-448x336.jpg" alt="kakizome130102_06" width="448" height="336" class="alignnone size-large wp-image-5187" /></a></p>
+<a href="/wp-content/uploads/kakizome130102_06.jpg" target="_blank"><img src="/wp-content/uploads/kakizome130102_06-448x336.jpg" alt="kakizome130102_06" width="448" height="336" class="alignnone size-large wp-image-5187" /></a></p>
 <h2>最後に</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/kakizome130102_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kakizome130102_04-448x597.jpg" alt="kakizome130102_04" width="448" height="597" class="alignnone size-large wp-image-5185" /></a><br />
+<p><a href="/wp-content/uploads/kakizome130102_04.jpg" target="_blank"><img src="/wp-content/uploads/kakizome130102_04-448x597.jpg" alt="kakizome130102_04" width="448" height="597" class="alignnone size-large wp-image-5185" /></a><br />
 <strong>いざやってみると小学生の頃の気分を思い出して楽しかったです！<br />
 当時は墨汁や半紙を用意して使ったら洗ってと面倒くささもありましたが、iPadには手軽に書ける素晴らしさがありました！</strong><br />
 ちょっとスタライスペンが欲しくなった1月2日でした。</p>

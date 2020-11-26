@@ -22,7 +22,7 @@ tags:
 - マイル
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/credit_120706.jpg" align="left" target="_blank"><img src="https://kotalab.com/wp-content/uploads/credit_120706.jpg" alt="" title="credit_120706" width="448" height="336" class="alignnone size-full wp-image-1292" /></a><br />
+<p><a href="/wp-content/uploads/credit_120706.jpg" align="left" target="_blank"><img src="/wp-content/uploads/credit_120706.jpg" alt="" title="credit_120706" width="448" height="336" class="alignnone size-full wp-image-1292" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/68751915@N05/6355848263/" target="_blank">Credit Cards</a> / 401K 2012</span><br />
 クレジットカードを作ろうか検討中です。@kotala_bです。<br />
 普段の買い物にクレジットカードを利用してマイルを貯めて海外旅行もイイナなんて思うわけです。<br />

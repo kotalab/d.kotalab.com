@@ -21,7 +21,7 @@ tags:
 - やってみる
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/lets-give-it-a-try-anyway_20150522_01.jpg" alt="Lets give it a try anyway 20150522 01" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/lets-give-it-a-try-anyway_20150522_01.jpg" alt="Lets give it a try anyway 20150522 01" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>このブログのテーマは「とにかくやってみよう！」です。</p>
 <p>このブログテーマが決まるまで、ブログを書こうと決めてから3年以上かかりました。</p>
 <p>ブログを始める前の僕は、周りに流されるままただ漠然と生きていました。</p>
@@ -50,7 +50,7 @@ comments: []
 <p>やりたいこと・興味のあることはとっても時間がかかることかもしれません。<br />
 でもそのための準備なら、今すぐにできることが何かあるはずです。</p>
 <h2>さいごに</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/lets-give-it-a-try-anyway_20150522_02.jpg" alt="Lets give it a try anyway 20150522 02" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/lets-give-it-a-try-anyway_20150522_02.jpg" alt="Lets give it a try anyway 20150522 02" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>今日できないことは明日も明後日も、何年経ってもできない。<br />
 これはついさっき、会社帰りの電車の中でFacebookのタイムラインで見かけた言葉です。</p>
 <p>その言葉をみてとにかくブログのテーマについて書こうと、この記事の下書きをiPhoneで始め、スタバによってこの記事を書いています。</p>

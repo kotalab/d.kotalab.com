@@ -19,7 +19,7 @@ tags:
 - AppleWatch
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/04/buy-myself_20150428.jpg" alt="Buy myself 20150428" width="546" height ="409" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/04/buy-myself_20150428.jpg" alt="Buy myself 20150428" width="546" height ="409" class="aligncenter size-large" /></p>
 <p>AppleWatchが発売されて周りの人が持っていると、欲しいというか何か気になったりします。<br />
 決して欲しくないわけじゃないけど、すごく欲しいかといえばそこまでじゃない。<br />
 でもちょっと気になるモノ。</p>
@@ -49,7 +49,7 @@ via:<a href="https://www.amazon.co.jp/exec/obidos/asin/B00IUE8QRC/same-22/" rel=
 </p></blockquote>
 <p>自分が欲しいのか周りの影響で欲しいのかわからない時は、モノに対する熱い思いを語れるかどうかで考えてみること。</p>
 <h2>モノを買う基準を持つ</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/id4_120627_03.jpg" alt="id4_120627_03" width="780" class="aligncenter size-large wp-image-7650" /></p>
+<p><img src="/wp-content/uploads/id4_120627_03.jpg" alt="id4_120627_03" width="780" class="aligncenter size-large wp-image-7650" /></p>
 <p>周りに流されないようにするには、自分基準を持つこと。<br />
 基準に合うモノだけをピックアップできるようになれば、周りがどう言おうと関係ありません。</p>
 <p>調べれば色々な情報が手に入ります。<br />

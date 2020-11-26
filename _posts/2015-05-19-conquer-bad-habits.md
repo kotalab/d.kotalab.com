@@ -19,7 +19,7 @@ tags:
 - 三日坊主
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-bus-around_20150510_08-780x516.jpg" alt="kanazawa-bus-around_20150510_08.JPG" width="780" height="516" class="aligncenter size-large wp-image-14315" /></p>
+<p><img src="/wp-content/uploads/2015/05/kanazawa-bus-around_20150510_08-780x516.jpg" alt="kanazawa-bus-around_20150510_08.JPG" width="780" height="516" class="aligncenter size-large wp-image-14315" /></p>
 <p>三日坊主という言葉があるように、新しいことを始めてもなかなか思うように続けるのは難しいことです。<br />
 誰でも簡単に続けられるなら、そもそも三日坊主という言葉は存在していなかったでしょう。</p>
 <p>新しいことを始めようと思っても続かない理由のひとつは、1日は24時間しかないってことを忘れているからです。</p>
@@ -41,7 +41,7 @@ comments: []
 それも<strong>できるだけ重要じゃない時間</strong>です。</p>
 <p><strong>一番無駄だと感じている時間を、一番重要だと感じる新しいことをやる時間に書き換えるのです。</strong></p>
 <h2>さいごに</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/amazon-water_140810_01-546x363.jpg" alt="amazon-water_140810_01.jpg" width="546" height="363" class="aligncenter size-large wp-image-13363" /></p>
+<p><img src="/wp-content/uploads/amazon-water_140810_01-546x363.jpg" alt="amazon-water_140810_01.jpg" width="546" height="363" class="aligncenter size-large wp-image-13363" /></p>
 <p>時間は一杯のコップに入った水とよく似ています。</p>
 <p>コップの中に時間という水は24時間分、もう満杯に入っています。<br />
 新しい水（重要な時間）を注いでも、水（時間）はコップからあふれるだけ。<br />

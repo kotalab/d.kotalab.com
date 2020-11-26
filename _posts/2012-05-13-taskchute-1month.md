@@ -17,7 +17,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/cal.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cal.jpg" alt="" title="cal" width="448" height="448" class="alignnone size-full wp-image-656" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/busbong/5345325898/" title="カレンダーをめくりました。" target="_blank">カレンダーをめくりました。</a> / senov</span><br />
+<p><a href="/wp-content/uploads/cal.jpg" target="_blank"><img src="/wp-content/uploads/cal.jpg" alt="" title="cal" width="448" height="448" class="alignnone size-full wp-image-656" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/busbong/5345325898/" title="カレンダーをめくりました。" target="_blank">カレンダーをめくりました。</a> / senov</span><br />
 4月11日からTaslchuteを始めて1ヶ月経ちました、@kotala_bです。<br />
 </p>
 <!--more-->

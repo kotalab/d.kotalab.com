@@ -22,7 +22,7 @@ tags:
 - セブンイレブン
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_01-546x409.jpg" alt="tukemenhaku_131012_01" width="546" height="409" class="alignnone size-large wp-image-9897" /><br />
+<p><img src="/wp-content/uploads/tukemenhaku_131012_01-546x409.jpg" alt="tukemenhaku_131012_01" width="546" height="409" class="alignnone size-large wp-image-9897" /><br />
 大つけ麺博に行ってきました。こたら（@kotala_b）です。<br />
 大つけ麺博は日本一おいしいつけ麺を決める大イベント！<br />
 計24店舗が日本一おいしいつけ麺の名をかけた大つけ麺博日本一決定戦！<br />
@@ -30,40 +30,40 @@ comments: []
 </p>
 <!--more-->
 <h2>2013年の大つけ麺博は新宿歌舞伎町で開催</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_02-546x409.jpg" alt="tukemenhaku_131012_02" width="546" height="409" class="alignnone size-large wp-image-9894" /><br />
+<p><img src="/wp-content/uploads/tukemenhaku_131012_02-546x409.jpg" alt="tukemenhaku_131012_02" width="546" height="409" class="alignnone size-large wp-image-9894" /><br />
 場所を新宿に移し開催されてる大つけ麺博。<br />
 開催期間は10月10日から11月6日までの4週間。<br />
 1週間ごとに6つのお店が出店し、4週間で日本全国から23店舗、海外からも1店舗が出店し計24店舗が日本一おいしいつけ麺の座をかけた大イベント！<br />
-<img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_06-546x409.jpg" alt="tukemenhaku_131012_06" width="546" height="409" class="alignnone size-large wp-image-9899" /><br />
+<img src="/wp-content/uploads/tukemenhaku_131012_06-546x409.jpg" alt="tukemenhaku_131012_06" width="546" height="409" class="alignnone size-large wp-image-9899" /><br />
 1週目はこの6店舗！<br />
-<img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_03-546x409.jpg" alt="tukemenhaku_131012_03" width="546" height="409" class="alignnone size-large wp-image-9896" /><br />
+<img src="/wp-content/uploads/tukemenhaku_131012_03-546x409.jpg" alt="tukemenhaku_131012_03" width="546" height="409" class="alignnone size-large wp-image-9896" /><br />
 全店舗の詳細は公式サイトでご覧ください。<br />
 <a href="http://dai-tsukemen-haku.com/" target="_blank">大つけ麺博 日本一決定戦2</a></p>
 <h3>大つけ麺博への行き方</h3>
 <p>去年までの浜松町から場所を新宿に移しての開催。<br />
 場所は新宿歌舞伎町2丁目、大久保公園。<br />
-<img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_07-546x288.jpg" alt="tukemenhaku_131012_07" width="546" height="288" class="alignnone size-large wp-image-9900" /><br />
+<img src="/wp-content/uploads/tukemenhaku_131012_07-546x288.jpg" alt="tukemenhaku_131012_07" width="546" height="288" class="alignnone size-large wp-image-9900" /><br />
 新宿駅からは徒歩15分。<br />
-<img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_09-546x934.jpg" alt="tukemenhaku_131012_09" width="546" height="934" class="alignnone size-large wp-image-9898" /><br />
+<img src="/wp-content/uploads/tukemenhaku_131012_09-546x934.jpg" alt="tukemenhaku_131012_09" width="546" height="934" class="alignnone size-large wp-image-9898" /><br />
 山手線新大久保駅から徒歩7分という場所です。<br />
-<img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_08-546x934.jpg" alt="tukemenhaku_131012_08" width="546" height="934" class="alignnone size-large wp-image-9895" /><br />
+<img src="/wp-content/uploads/tukemenhaku_131012_08-546x934.jpg" alt="tukemenhaku_131012_08" width="546" height="934" class="alignnone size-large wp-image-9895" /><br />
 実は新大久保駅からの方が近いので、山手線を利用する方はそっちからの方がいいかも！</p>
 <h2>大つけ麺博のお得な情報</h2>
 <p>大つけ麺博は食券制。<br />
 会場で売ってる食券は一般が850円、麺が少なめの女子盛りが750円。<br />
-<img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_04-546x409.jpg" alt="tukemenhaku_131012_04" width="546" height="409" class="alignnone size-large wp-image-9901" /><br />
+<img src="/wp-content/uploads/tukemenhaku_131012_04-546x409.jpg" alt="tukemenhaku_131012_04" width="546" height="409" class="alignnone size-large wp-image-9901" /><br />
 実はセブンイレブンでも食券が売ってて、それぞれ50円引きで買えちゃいます！<br />
 新宿駅から行っても新大久保駅から行っても、行く途中にセブンイレブンがあるので忘れずに食券を買いましょう！<br />
 どのお店も同じ値段でつけ麺が食べられるので、食券を買ってから食べるお店を決めて大丈夫！<br />
 食券にはコイン引換券がついてるので食べ終わったら投票所へ行くのも忘れずに。<br />
-<img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_05-546x409.jpg" alt="tukemenhaku_131012_05" width="546" height="409" class="alignnone size-large wp-image-9902" /><br />
+<img src="/wp-content/uploads/tukemenhaku_131012_05-546x409.jpg" alt="tukemenhaku_131012_05" width="546" height="409" class="alignnone size-large wp-image-9902" /><br />
 この投票数と売上杯数でおいしさ満足度を計り、日本一のつけ麺が決定されます。<br />
 参考：<a href="http://dai-tsukemen-haku.com/about" target="_blank">大つけ麺博 日本一決定戦2</a></p>
 <h3>並ばずに買えるファストチケット</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_10-546x284.jpg" alt="tukemenhaku_131012_10" width="546" height="284" class="alignnone size-large wp-image-9907" /><br />
+<p><img src="/wp-content/uploads/tukemenhaku_131012_10-546x284.jpg" alt="tukemenhaku_131012_10" width="546" height="284" class="alignnone size-large wp-image-9907" /><br />
 スマホから大つけ麺博のサイトを見ると、ファストチケットというのが買えます。<br />
 このファストチケットはスマホ限定！<br />
-<img src="https://kotalab.com/wp-content/uploads/tukemenhaku_131012_11-300x513.jpg" alt="tukemenhaku_131012_11" width="300" height="513" class="alignnone size-medium wp-image-9908" /><br />
+<img src="/wp-content/uploads/tukemenhaku_131012_11-300x513.jpg" alt="tukemenhaku_131012_11" width="300" height="513" class="alignnone size-medium wp-image-9908" /><br />
 料金は通常の850円ですが、行列に並ばずに買えるという優れもの！<br />
 連休中は混雑が予想されるのでファストチケットをうまく利用しましょう！<br />
 参考：<a href="http://dai-tsukemen-haku.com/" target="_blank">大つけ麺博 日本一決定戦2</a></p>

@@ -24,7 +24,7 @@ tags:
 - デザリング
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/iphone5Tethering_120914.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5Tethering_120914.jpg" alt="" title="iphone5Tethering_120914" width="448" height="597" class="alignnone size-full wp-image-2752" /></a><br />
+<p><a href="/wp-content/uploads/iphone5Tethering_120914.jpg" target="_blank"><img src="/wp-content/uploads/iphone5Tethering_120914.jpg" alt="" title="iphone5Tethering_120914" width="448" height="597" class="alignnone size-full wp-image-2752" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/paul_irish/3656734759/" target="_blank">iPhone -> eee pc tether.</a> / paul_irish</span><br />
 iPhone5が待ち遠しいです。@kotala_bです。<br />
 iPhone5ではauが<strong>デザリング</strong>に対応するということで話題になっています。<br />

@@ -20,7 +20,7 @@ tags:
 - 消費税
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/beforetaxup_131002-546x364.jpg" alt="beforetaxup_131002" width="546" height="364" class="alignnone size-large wp-image-9745" /><br />
+<p><img src="/wp-content/uploads/beforetaxup_131002-546x364.jpg" alt="beforetaxup_131002" width="546" height="364" class="alignnone size-large wp-image-9745" /><br />
 消費税増税が決まりましたね。こたら（@kotala_b）です。<br />
 10月1日に消費税増税が安倍首相から正式に発表されました。<br />
 テレビではニュース速報が流れ報道されました。<br />

@@ -24,7 +24,7 @@ tags:
 - アイコン
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/iconimage_121819.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iconimage_121819-448x336.jpg" alt="iconimage_121819" width="448" height="336" class="alignnone size-large wp-image-4951" /></a><br />
+<p><a href="/wp-content/uploads/iconimage_121819.jpg" target="_blank"><img src="/wp-content/uploads/iconimage_121819-448x336.jpg" alt="iconimage_121819" width="448" height="336" class="alignnone size-large wp-image-4951" /></a><br />
 <span style="font-size:10px"><a href="https://www.flickr.com/photos/theju/266076561/" target="_blank">Stream</a> / Thejaswi</span><br />
 思わずブログを書きたくなりました。@kotala_bです。<br />
 書きたくなったのは気になる記事を見つけたから。<br />
@@ -50,15 +50,15 @@ comments: []
 </div>
 <p>僕はかん吉さん（@kankichi）のポチレバを作って作成してます。<br />
 ▼ポチレバの紹介、使い方はこちら<br />
-<a href="https://kotalab.com/pochireba-start" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/potireba_120809.png" alt="ヨメレバ・カエレバに続く第3弾！iTunesの商品を紹介できるポチレバが登場！ | kotala's note" width="150" /></a><a href="https://kotalab.com/pochireba-start" target="_blank">ヨメレバ・カエレバに続く第3弾！iTunesの商品を紹介できるポチレバが登場！ | kotala's note</a><br style="clear:both" />画像を</p>
+<a href="/pochireba-start" target="_blank"><img class="alignleft" src="/wp-content/uploads/potireba_120809.png" alt="ヨメレバ・カエレバに続く第3弾！iTunesの商品を紹介できるポチレバが登場！ | kotala's note" width="150" /></a><a href="/pochireba-start" target="_blank">ヨメレバ・カエレバに続く第3弾！iTunesの商品を紹介できるポチレバが登場！ | kotala's note</a><br style="clear:both" />画像を</p>
 <h2>プレビュー画面で紹介用リンクの画像を保存</h2>
 <p>ポチレバでアプリ紹介用のリンクを作成し本文に貼付けたら、プレビュー画面を開きます。<br />
 ▼ここで紹介用リンクにある画像を右クリックして別名で保存。<br />
-<a href="https://kotalab.com/wp-content/uploads/iconimage_121219_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iconimage_121219_01-448x337.jpg" alt="iconimage_121219_01" width="448" height="337" class="alignnone size-large wp-image-4945" /></a><br />
+<a href="/wp-content/uploads/iconimage_121219_01.jpg" target="_blank"><img src="/wp-content/uploads/iconimage_121219_01-448x337.jpg" alt="iconimage_121219_01" width="448" height="337" class="alignnone size-large wp-image-4945" /></a><br />
 <strong>おそらくポチレバで使っている画像は全て「1024x1024」</strong>なので、ブログに貼付けるときにサイズを指定するなりリサイズしてアップロードすれば望み通りの大きさになります。</p>
 <h2>最後に</h2>
 <p>▼上記以外にもポチレバから下書きにタグをコピペした段階でこのように画像URLをコピーしてから、画像を直接開いて保存することも出来ます。<br />
-<a href="https://kotalab.com/wp-content/uploads/iconimage_121819_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iconimage_121819_02-448x158.jpg" alt="iconimage_121819_02" width="448" height="158" class="alignnone size-large wp-image-4946" /></a><br />
+<a href="/wp-content/uploads/iconimage_121819_02.jpg" target="_blank"><img src="/wp-content/uploads/iconimage_121819_02-448x158.jpg" alt="iconimage_121819_02" width="448" height="158" class="alignnone size-large wp-image-4946" /></a><br />
 <strong>ただ僕がプレビュー画面から保存するには訳があって、プレビューはただ単に画像を保存する為に開いているわけじゃないということです。<br />
 プレビューから画像を保存することで、「アプリのリンクを貼る＞プレビューで全体を確認する＞アプリの画像を保存する＞保存した画像をアイキャッチに入れる」という自然な流れを作って効率化をはかっています。</strong><br />
 よかったらやってみてください！とっても簡単です！</p>

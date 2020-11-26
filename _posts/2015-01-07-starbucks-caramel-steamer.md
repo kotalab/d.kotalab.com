@@ -22,7 +22,7 @@ tags:
 - キャラメルスチーマー
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20150107130037.jpg" width="720" height="405" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20150107130037.jpg" width="720" height="405" class="slooProImg" /><br />
 つい最近、スタバのキャラメルスチーマーを初めて飲んでみました。</p>
 <p>飲んでみたら寒い今の時期にぴったりだなーと思ったのでご紹介したいと思います。<br />
 </p>
@@ -39,6 +39,6 @@ comments: []
 <p>甘いのが飲みたいときはキャラメルソースを多めにしたり、ホワイトモカシロップを追加してしてみたり。</p>
 <p>フォームミルクを多めにしてもらうのもオススメです。</p>
 <h3>心安らぐひと時を</h3>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20150107130035.jpg" width="720" height="405" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20150107130035.jpg" width="720" height="405" class="slooProImg" /><br />
 マグカップで飲むと雰囲気も◎</p>
 <p>「疲れちゃったな」という時にはキャラメルスチーマーで心安らぐひと時をいかがですか？</p>

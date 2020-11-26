@@ -23,7 +23,7 @@ tags:
 - 働き方
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-new-workstyle_140119-546x361.jpg" alt="books-new-workstyle_140119" width="546" height="361" class="alignnone size-large wp-image-10601" /><br />
+<p><img src="/wp-content/uploads/books-new-workstyle_140119-546x361.jpg" alt="books-new-workstyle_140119" width="546" height="361" class="alignnone size-large wp-image-10601" /><br />
 あたらしい働き方はもう始まっている。<br />
 1日6時間労働、壁のない会議室、40万円払うから辞めて欲しいと新入社員に言う会社。<br />
 一昔前では考えられない働き方をしている会社が沢山でてきている。<br />

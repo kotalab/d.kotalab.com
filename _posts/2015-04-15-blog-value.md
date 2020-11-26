@@ -21,7 +21,7 @@ tags:
 - フォーカルポイント
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/insurancecannotfeelrelieved_131126_02.jpg" alt="insurancecannotfeelrelieved_131126_02" width="780" class="aligncenter wp-image-10245" /><br />
+<p><img src="/wp-content/uploads/insurancecannotfeelrelieved_131126_02.jpg" alt="insurancecannotfeelrelieved_131126_02" width="780" class="aligncenter wp-image-10245" /><br />
 価値あることだと断言できます。<br />
 ここ何日か更新を続けていて、やっぱりブログを書くことっていいなって思いました。</p>
 <p>なんとなく頭の中でぼんやり浮かんでいることを文章にするっていう行為が、自分自身を整理することができる。<br />

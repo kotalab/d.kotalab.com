@@ -21,7 +21,7 @@ tags:
 - CellMemo
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iphone-evernote-cellmemo_140711_01-546x339.jpg" alt="iphone-evernote-cellmemo_140711_01" width="546" height="339" class="alignnone size-large wp-image-13325" /><br />
+<p><img src="/wp-content/uploads/iphone-evernote-cellmemo_140711_01-546x339.jpg" alt="iphone-evernote-cellmemo_140711_01" width="546" height="339" class="alignnone size-large wp-image-13325" /><br />
 僕はいつもメモをiPhoneに書き込んでいます。iPhoneはどこへ出かける時も片時も離さず持ち歩いているので、とっさに思いついたことをメモするのに最適です。<br />
 ノートとペンをわざわざ持ち歩く必要がありません。</p>
 <p>iPhoneで書いたメモは自宅のMacBook Airで振り返ったりするんですが、別の端末だということを意識しないでいられるのは、Evernoteというメモアプリの存在があるからでしょう。</p>
@@ -50,7 +50,7 @@ comments: []
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/cellmemo-evernoteni-su-zaokumemo/id888319137?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h3>自分が使いたいアプリを作りたい</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/iphone-evernote-cellmemo_140711-546x364.jpg" alt="iphone-evernote-cellmemo_140711" width="546" height="364" class="alignnone size-large wp-image-13323" /></p>
+<p><img src="/wp-content/uploads/iphone-evernote-cellmemo_140711-546x364.jpg" alt="iphone-evernote-cellmemo_140711" width="546" height="364" class="alignnone size-large wp-image-13323" /></p>
 <blockquote><p>CellMemoは「自分が使いたいEvernoteアプリ」として開発し、リリースしました。<br />
 via:<span class="removed_link" title="egg-is-world.com/archives/1004900108.html">Evernoteに写真を含んだメモを取れるiPhoneアプリ「CellMemo」をリリースしました : 卵は世界である</span></p></blockquote>
 <p>とCellMemo開発者のあきおさん(<a href="https://twitter.com/akio0911/" target="_blank">@akio0911</a>)が言っていました。</p>

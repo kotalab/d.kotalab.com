@@ -22,7 +22,7 @@ tags:
 - MNP
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/platinum_120727.jpg"><img src="https://kotalab.com/wp-content/uploads/platinum_120727.jpg" alt="" title="platinum_120727" width="448" height="336" class="alignnone size-full wp-image-1681" /></a><br />
+<p><a href="/wp-content/uploads/platinum_120727.jpg"><img src="/wp-content/uploads/platinum_120727.jpg" alt="" title="platinum_120727" width="448" height="336" class="alignnone size-full wp-image-1681" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/mujitra/4808589278/" target="_blank">SoftBank.</a> / MJ/TR (&acute;･&omega;･)</span><br />
 iPhoneに変えて約1ヶ月です。@kotala_bです。<br />
 つい先日<strong>SoftBank</strong>から、キャンペーンのメールが2通届きました。<br />

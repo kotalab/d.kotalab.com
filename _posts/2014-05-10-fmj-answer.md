@@ -24,7 +24,7 @@ tags:
 - 資産運用
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/fmj-answer_140510.png" alt="Fmj answer 140510" title="fmj-answer_140510.png" border="0" width="548" height="204" /><br />
+<p><img src="/wp-content/uploads/fmj-answer_140510.png" alt="Fmj answer 140510" title="fmj-answer_140510.png" border="0" width="548" height="204" /><br />
 <a href="http://fmj-jp.info/?page_id=2471" target="_blank">ファミリーマネージメントジャーナル</a>さんというところで、3日間に渡り家計のお悩みについてお答えしてきました。</p>
 <p>3日間の質問に対して補足というか付け足すカタチで、僕が考えていることを書いてみました。<br />
 </p>
@@ -80,7 +80,7 @@ comments: []
 2は家計を見直した方がいいご家庭。<br><br />
 3は理想的というかこれが普通であって欲しいご家庭です。</p>
 <p>3の場合、将来の万が一に備えるなら貯金よりも住宅ローンの繰り上げ返済をオススメします。<br />
-詳しくは「<a href="https://kotalab.com/how-to-use-money" target="_blank">貯金よりも投資よりも効率のいいお金の使い方</a>」というエントリーを読んで欲しいのですが、<span class="b">繰り上げ返済にはこのエントリーの内容以外にもう一つ理由があります</span>。</p>
+詳しくは「<a href="/how-to-use-money" target="_blank">貯金よりも投資よりも効率のいいお金の使い方</a>」というエントリーを読んで欲しいのですが、<span class="b">繰り上げ返済にはこのエントリーの内容以外にもう一つ理由があります</span>。</p>
 <p>住宅ローンを組んでいない方に万が一のことがあった場合、残された家族は「収入は減るけど住宅ローンが残る」という自体に陥ってしまいます。<br><br />
 このリスクを避けるためには、<strong>共働きでお金に余裕があるうちにできるだけ繰り上げ返済しておく</strong>ことが重要なのです。</p>
 <h3>質問に答えてみて</h3>

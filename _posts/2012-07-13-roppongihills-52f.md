@@ -20,7 +20,7 @@ tags:
 - photo
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/hills_120712_05.jpg"><img src="https://kotalab.com/wp-content/uploads/hills_120712_05.jpg" alt="" title="hills_120712_05" width="448" height="336" class="alignnone size-full wp-image-1396" /></a><br />
+<p><a href="/wp-content/uploads/hills_120712_05.jpg"><img src="/wp-content/uploads/hills_120712_05.jpg" alt="" title="hills_120712_05" width="448" height="336" class="alignnone size-full wp-image-1396" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/31029865@N06/6806490153/" target="_blank">Tokyo City View</a> / Dick Thomas Johnson</span><br />
 初めて六本木ヒルズの展望台に行ってきました。@kotala_bです。<br />
 近くを通ったりすることはあっても中まで入って行ったのは初めてでした。<br />
@@ -28,12 +28,12 @@ comments: []
 <!--more-->
 <h2>写真を撮ってみた</h2>
 <p>見上げるといつもより近くに感じる雲<br />
-<a href="https://kotalab.com/wp-content/uploads/hills_120712_02.jpg"><img src="https://kotalab.com/wp-content/uploads/hills_120712_02.jpg" alt="" title="hills_120712_02" width="448" height="336" class="alignnone size-full wp-image-1393" /></a><br />
+<a href="/wp-content/uploads/hills_120712_02.jpg"><img src="/wp-content/uploads/hills_120712_02.jpg" alt="" title="hills_120712_02" width="448" height="336" class="alignnone size-full wp-image-1393" /></a><br />
 正面を見ると東京タワー<br />
-<a href="https://kotalab.com/wp-content/uploads/hills_120712_03.jpg"><img src="https://kotalab.com/wp-content/uploads/hills_120712_03.jpg" alt="" title="hills_120712_03" width="448" height="336" class="alignnone size-full wp-image-1394" /></a><br />
+<a href="/wp-content/uploads/hills_120712_03.jpg"><img src="/wp-content/uploads/hills_120712_03.jpg" alt="" title="hills_120712_03" width="448" height="336" class="alignnone size-full wp-image-1394" /></a><br />
 少し引いてみると左の奥にツカイツリーが並んで見える<br />
-<a href="https://kotalab.com/wp-content/uploads/hills_120712.jpg"><img src="https://kotalab.com/wp-content/uploads/hills_120712.jpg" alt="" title="hills_120712" width="448" height="336" class="alignnone size-full wp-image-1391" /></a><br />
+<a href="/wp-content/uploads/hills_120712.jpg"><img src="/wp-content/uploads/hills_120712.jpg" alt="" title="hills_120712" width="448" height="336" class="alignnone size-full wp-image-1391" /></a><br />
 東京タワーとお台場<br />
-<a href="https://kotalab.com/wp-content/uploads/hills_120712_01.jpg"><img src="https://kotalab.com/wp-content/uploads/hills_120712_01.jpg" alt="" title="hills_120712_01" width="448" height="336" class="alignnone size-full wp-image-1392" /></a><br />
+<a href="/wp-content/uploads/hills_120712_01.jpg"><img src="/wp-content/uploads/hills_120712_01.jpg" alt="" title="hills_120712_01" width="448" height="336" class="alignnone size-full wp-image-1392" /></a><br />
 真下を見たら足がすくみました<br />
-<a href="https://kotalab.com/wp-content/uploads/hills_120712_04.jpg"><img src="https://kotalab.com/wp-content/uploads/hills_120712_04.jpg" alt="" title="hills_120712_04" width="448" height="336" class="alignnone size-full wp-image-1395" /></a></p>
+<a href="/wp-content/uploads/hills_120712_04.jpg"><img src="/wp-content/uploads/hills_120712_04.jpg" alt="" title="hills_120712_04" width="448" height="336" class="alignnone size-full wp-image-1395" /></a></p>

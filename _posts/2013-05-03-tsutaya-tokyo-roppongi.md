@@ -21,19 +21,19 @@ tags:
 - Starbucks
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/tsutaya_130503-448x336.jpg" alt="tsutaya_130503" width="448" height="336" class="alignnone size-large wp-image-6988" /><br />
+<p><img src="/wp-content/uploads/tsutaya_130503-448x336.jpg" alt="tsutaya_130503" width="448" height="336" class="alignnone size-large wp-image-6988" /><br />
 六本木のTSUTAYAに行きました。@kotala_bです。<br />
 そこは@jmatsuzakiさんのブログを読んでいつか行きたいと思っていた場所です。<br />
 <a href="https://jmatsuzaki.com/archives/8350" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://jmatsuzaki.com/archives/8350" alt="本は無料で読み放題！コーヒーと共に優雅なひと時を味わえる六本木のブックカフェ「TSUTAYA TOKYO ROPPONGI」に行って来ました | jMatsuzaki" width="150" height="130" /></a><a href="https://jmatsuzaki.com/archives/8350" target="_blank">本は無料で読み放題！コーヒーと共に優雅なひと時を味わえる六本木のブックカフェ「TSUTAYA TOKYO ROPPONGI」に行って来ました | jMatsuzaki</a><a href="https://b.hatena.ne.jp/entry/https://jmatsuzaki.com/archives/8350" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://jmatsuzaki.com/archives/8350" alt="" /></a><br style="clear:both;" />行ってみたらスゴく良かったのでご紹介したいと思います。<br />
 </p>
 <!--more-->
 <h2>本が読み放題！</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/starbucks_130427_01-448x447.jpg" alt="starbucks_130427_01" width="448" height="447" class="alignnone size-large wp-image-6930" /><br />
+<p><img src="/wp-content/uploads/starbucks_130427_01-448x447.jpg" alt="starbucks_130427_01" width="448" height="447" class="alignnone size-large wp-image-6930" /><br />
 2階建ての店内は1階が本の販売とスタバ、2回がCD・DVDのレンタルフロアとなっています。<br />
 なんと1階に置いてある本は全て併設されているスタバの席で読み放題！<br />
 大型書店のような広さはありませんが、十分な量の本があります。</p>
 <h2>2階もスゴイ！</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/tsutaya_130503_01-448x448.jpg" alt="tsutaya_130503_01" width="448" height="448" class="alignnone size-large wp-image-6987" /><br />
+<p><img src="/wp-content/uploads/tsutaya_130503_01-448x448.jpg" alt="tsutaya_130503_01" width="448" height="448" class="alignnone size-large wp-image-6987" /><br />
 2階ではCDの視聴コーナーがありました。<br />
 2階のCD・DVDフロアにも座席が用意されていて、1階は満席だったので僕は2階の席に座りました。<br />
 2階の席からはキレイな街並が眺められました。</p>
@@ -52,4 +52,4 @@ comments: []
 通勤途中にこういうお店があったら毎日通いたくなる。<br />
 そんなお店。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/white-tiramisu-fra" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/starbucks_130427-448x336.jpg" alt="スタバの新作！『ホワイト ティラミス フラペチーノ』は飲むスイーツだった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/white-tiramisu-fra" target="_blank">スタバの新作！『ホワイト ティラミス フラペチーノ』は飲むスイーツだった！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/white-tiramisu-fra" target="_blank"><img  class="alignleft" src="/wp-content/uploads/starbucks_130427-448x336.jpg" alt="スタバの新作！『ホワイト ティラミス フラペチーノ』は飲むスイーツだった！ | kotala's note" width="150" /></a><a href="/white-tiramisu-fra" target="_blank">スタバの新作！『ホワイト ティラミス フラペチーノ』は飲むスイーツだった！ | kotala's note</a><br style="clear:both;" /></p>

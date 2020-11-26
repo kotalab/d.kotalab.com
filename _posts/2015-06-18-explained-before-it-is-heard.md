@@ -19,7 +19,7 @@ tags:
 - 質問
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/explained-before-it-is-heard_20150618.jpg" alt="Explained before it is heard 20150618" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/06/explained-before-it-is-heard_20150618.jpg" alt="Explained before it is heard 20150618" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>人から何かを聞かれてもすぐに答えられなくて困ることがあります。<br />
 相手が何を聞きたいのか、何がわからないのかがわからないのです。</p>
 <p>人に何かを聞く時に逆に質問されて困ることがあります。<br />
@@ -65,5 +65,5 @@ comments: []
 ・ビタミンC<br />
 水曜<br />
 ・飯田内科</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

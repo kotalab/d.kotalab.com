@@ -24,7 +24,7 @@ tags:
 - 本田直之
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/nomadlife_121217.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/nomadlife_121217-448x336.jpg" alt="nomadlife_121217" width="448" height="336" class="alignnone size-large wp-image-4920" /></a><br />
+<p><a href="/wp-content/uploads/nomadlife_121217.jpg" target="_blank"><img src="/wp-content/uploads/nomadlife_121217-448x336.jpg" alt="nomadlife_121217" width="448" height="336" class="alignnone size-large wp-image-4920" /></a><br />
 本田直之さんの著書「ノマドライフ」を読みました。@kotala_bです。<br />
 本来「遊牧民」という意味がある「ノマド」<br />
 <strong>ノマドと言えば、オフィスを持たずに色々な場所で仕事をする人、というイメージが一般的かも知れません。</strong><br />

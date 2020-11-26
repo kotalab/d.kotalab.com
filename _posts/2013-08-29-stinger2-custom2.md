@@ -36,9 +36,9 @@ comments:
 <h2>スマホかPCどちらかだけで表示したいときの設定方法</h2>
 <p>「Stinger2」をお使いのあなたは、スマホとPC表示のヘッダーを見比べるとメニューバーが違うのにお気づきでしょうか？<br />
 スマホ表示では折り畳まれていて、<br />
-<img src="https://kotalab.com/wp-content/uploads/stingercustom_130829_02.jpg" alt="stingercustom_130829_02" width="416" height="329" class="alignnone size-full wp-image-8297" /><br />
+<img src="/wp-content/uploads/stingercustom_130829_02.jpg" alt="stingercustom_130829_02" width="416" height="329" class="alignnone size-full wp-image-8297" /><br />
 PCではそのまま表示されています。<br />
-<img src="https://kotalab.com/wp-content/uploads/stingercustom_130829_01-448x89.jpg" alt="stingercustom_130829_01" width="448" height="89" class="alignnone size-large wp-image-8296" /><br />
+<img src="/wp-content/uploads/stingercustom_130829_01-448x89.jpg" alt="stingercustom_130829_01" width="448" height="89" class="alignnone size-large wp-image-8296" /><br />
 元々コードには2種類のメニューバーが記述されています。<br />
 スマホで見たときは折り畳まれていないメニューバーが非表示になるように設定されていて、PCで見たときは折り畳まれたメニューバーを非表示になるよう設定されているのです。<br />
 CSSに1行追加（削除）するだけでこのように非表示（表示）に変えることができます。</p>
@@ -52,7 +52,7 @@ CSSに1行追加（削除）するだけでこのように非表示（表示）�
 }<br />
 [/css]<br />
 この部分を削除するとPCでも折り畳みメニューバーが表示されます。<br />
-<img src="https://kotalab.com/wp-content/uploads/stingercustom_130829_03-448x88.jpg" alt="stingercustom_130829_03" width="448" height="88" class="alignnone size-large wp-image-8298" /></p>
+<img src="/wp-content/uploads/stingercustom_130829_03-448x88.jpg" alt="stingercustom_130829_03" width="448" height="88" class="alignnone size-large wp-image-8298" /></p>
 <h3>表示非表示の切替えはお好みで！</h3>
 <p><strong>「display:none;」</strong>をCSSに追加することで非表示にできます。<br />
 PC用とスマホ用の2つのCSSを用意している方はデザインに合わせて表示・非表示を切替えてみてはいかがでしょう？</p>

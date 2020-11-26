@@ -30,14 +30,14 @@ comments:
   date_gmt: '2013-03-06 13:53:56 +0900'
   content: "[...] （ via むねさだブログ ） ◆ ブログを300日間書き続けて「ブログを書くこと」を色々な人にすすめた... [...]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/300days_130304-448x383.jpg" alt="300days_130304" width="448" height="383" class="alignnone size-large wp-image-6402" /><br />
+<p><img src="/wp-content/uploads/300days_130304-448x383.jpg" alt="300days_130304" width="448" height="383" class="alignnone size-large wp-image-6402" /><br />
 毎日ブログを書いています。@kotala_bです。<br />
 去年の5月9日にスタートしてから毎日更新し続け、今日でちょうど300日目になりました。<br />
 300日間続けて来たブログ更新で得たモノを考えてみたら、ブログを書くことを色んな人にオススメしたいと思い、今回の記事にしました。<br />
 </p>
 <!--more-->
 <h2>自分の好きなことがより明確になった</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/slooProImg_20130117025701.jpg" alt="slooProImg_20130117025701.jpg" width="448" height="448" class="alignnone size-full wp-image-5740" /><br />
+<p><img src="/wp-content/uploads/slooProImg_20130117025701.jpg" alt="slooProImg_20130117025701.jpg" width="448" height="448" class="alignnone size-full wp-image-5740" /><br />
 ブログを書く上で必要なのがネタです。<br />
 数日ならまだしも300日となると膨大なネタの量が必要になります。<br />
 好きでもないネタを300日間も書くというのは苦痛なので、自然と自分の好きなこと興味のあることにネタが偏ります。<br />
@@ -46,13 +46,13 @@ iPhoneなどのApple製品をはじめとした便利なモノたち、食べる
 この3つが今までより明確になった僕の好きなことです。<br />
 そしてこれからもブログを書くことで、その時その時の自分が好きだったことや興味があったことを<strong>後で振り返って過去の自分を見ることが出来るというのがブログのいいところです。</strong></p>
 <h2>色々な人に会うことが出来た</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/id2_130228_03-448x336.jpg" alt="id2_130228_03" width="448" height="336" class="alignnone size-large wp-image-6360" /><br />
+<p><img src="/wp-content/uploads/id2_130228_03-448x336.jpg" alt="id2_130228_03" width="448" height="336" class="alignnone size-large wp-image-6360" /><br />
 ブログを始めたことでインプット量が増え、セミナーやイベントの情報を得られるようになりました。<br />
 そこでは色々な人に会うことが出来ました。<br />
 1年前に立花さんのブログを初めて見た時には、実際に立花さんとお会い出来るとは思いもしませんでした。<br />
-<a href="https://kotalab.com/nsl-8th" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20120923135232.jpg" alt="セミナー初体験！第8回NoSecondLifeセミナーに行ってきた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/nsl-8th" target="_blank">セミナー初体験！第8回NoSecondLifeセミナーに行ってきた！ | kotala's note</a><br style="clear:both;" />つい先日には立花さん主催のトークライブID-2で「媚びない人生」の著者、ジョンキムさんのお話を聞けました。<br />
-<a href="https://kotalab.com/talklive-id-2" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="https://kotalab.com/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" />タスク管理をする上ですごく影響を受けた本「クラウド自体のタスク管理術」の著者、佐々木正悟さんとはnslセミナーで直接お話する機会もありました。<br />
-<a href="https://kotalab.com/nsl-11th" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nsl11_20121118_01-448x336.jpg" alt="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note" width="150" /></a><a href="https://kotalab.com/nsl-11th" target="_blank">第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note</a><br style="clear:both;" /><strong>著者の方の話を目の前で聞ける、自分の質問に答えて貰えるという経験は本を読む以上の素晴らしい経験になりました。</strong></p>
+<a href="/nsl-8th" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20120923135232.jpg" alt="セミナー初体験！第8回NoSecondLifeセミナーに行ってきた！ | kotala's note" width="150" /></a><a href="/nsl-8th" target="_blank">セミナー初体験！第8回NoSecondLifeセミナーに行ってきた！ | kotala's note</a><br style="clear:both;" />つい先日には立花さん主催のトークライブID-2で「媚びない人生」の著者、ジョンキムさんのお話を聞けました。<br />
+<a href="/talklive-id-2" target="_blank"><img  class="alignleft" src="/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" />タスク管理をする上ですごく影響を受けた本「クラウド自体のタスク管理術」の著者、佐々木正悟さんとはnslセミナーで直接お話する機会もありました。<br />
+<a href="/nsl-11th" target="_blank"><img  class="alignleft" src="/wp-content/uploads/nsl11_20121118_01-448x336.jpg" alt="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note" width="150" /></a><a href="/nsl-11th" target="_blank">第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11 | kotala's note</a><br style="clear:both;" /><strong>著者の方の話を目の前で聞ける、自分の質問に答えて貰えるという経験は本を読む以上の素晴らしい経験になりました。</strong></p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492044620/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51Ry0S21KyL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
@@ -99,7 +99,7 @@ iPhoneなどのApple製品をはじめとした便利なモノたち、食べる
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2>継続することで自信がついた</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/300days_130304_01-300x431.jpg" alt="300days_130304_01" width="300" height="431" class="alignnone size-medium wp-image-6401" /><br />
+<p><img src="/wp-content/uploads/300days_130304_01-300x431.jpg" alt="300days_130304_01" width="300" height="431" class="alignnone size-medium wp-image-6401" /><br />
 元々は面倒くさがりで飽きっぽいところがあり、幼い頃の習い事から始まり部活など継続して何かを成し遂げたという記憶はありません。<br />
 そんな僕でも300日間ブログだけは毎日更新することが出来ました。<br />
 ブログを10日間、30日間、1ヶ月間と日々更新し続けていくうちに、<strong>やれば出来るという自信が少しずつついてきました。</strong></p>
@@ -120,7 +120,7 @@ iPhoneなどのApple製品をはじめとした便利なモノたち、食べる
 ブログを始めようか迷っている方は是非とも始めてみてください！<br />
 <strong>ブログを始めるコツは考えてるだけじゃなく、まず行動してみることです！</strong></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/entry-100" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/hushime100_120808.jpg" alt="ブログ始めてから100記事達成！その中で感じた習慣を続けるのに大切なこと | kotala's note" width="150" /></a><a href="https://kotalab.com/entry-100" target="_blank">ブログ始めてから100記事達成！その中で感じた習慣を続けるのに大切なこと | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/remember-4month" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/review_121001.jpg" alt="PV数が一気に増えた！独自ドメイン取得からの約4ヶ月間を振り返る！ | kotala's note" width="150" /></a><a href="https://kotalab.com/remember-4month" target="_blank">PV数が一気に増えた！独自ドメイン取得からの約4ヶ月間を振り返る！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/keep-writing-200" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/blog200days_121124-448x299.jpg" alt="連続更新200日達成！僕が毎日ブログを書き続けることが出来た理由 | kotala's note" width="150" /></a><a href="https://kotalab.com/keep-writing-200" target="_blank">連続更新200日達成！僕が毎日ブログを書き続けることが出来た理由 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/i-can-do-it" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121226063946.jpg" alt="今年の目標を達成！「やれば出来る」を体感した1年でした！ | kotala's note" width="150" /></a><a href="https://kotalab.com/i-can-do-it" target="_blank">今年の目標を達成！「やれば出来る」を体感した1年でした！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/entry-100" target="_blank"><img  class="alignleft" src="/wp-content/uploads/hushime100_120808.jpg" alt="ブログ始めてから100記事達成！その中で感じた習慣を続けるのに大切なこと | kotala's note" width="150" /></a><a href="/entry-100" target="_blank">ブログ始めてから100記事達成！その中で感じた習慣を続けるのに大切なこと | kotala's note</a><br style="clear:both;" /><br />
+<a href="/remember-4month" target="_blank"><img  class="alignleft" src="/wp-content/uploads/review_121001.jpg" alt="PV数が一気に増えた！独自ドメイン取得からの約4ヶ月間を振り返る！ | kotala's note" width="150" /></a><a href="/remember-4month" target="_blank">PV数が一気に増えた！独自ドメイン取得からの約4ヶ月間を振り返る！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/keep-writing-200" target="_blank"><img  class="alignleft" src="/wp-content/uploads/blog200days_121124-448x299.jpg" alt="連続更新200日達成！僕が毎日ブログを書き続けることが出来た理由 | kotala's note" width="150" /></a><a href="/keep-writing-200" target="_blank">連続更新200日達成！僕が毎日ブログを書き続けることが出来た理由 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/i-can-do-it" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20121226063946.jpg" alt="今年の目標を達成！「やれば出来る」を体感した1年でした！ | kotala's note" width="150" /></a><a href="/i-can-do-it" target="_blank">今年の目標を達成！「やれば出来る」を体感した1年でした！ | kotala's note</a><br style="clear:both;" /></p>

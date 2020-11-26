@@ -24,7 +24,7 @@ tags:
 - つけ方
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/give-way-of-household-account-book_20141130-780x585.jpg" alt="give-way-of-household-account-book_20141130" width="780" height="585" class="aligncenter size-large wp-image-13644" /><br />
+<p><img src="/wp-content/uploads/give-way-of-household-account-book_20141130-780x585.jpg" alt="give-way-of-household-account-book_20141130" width="780" height="585" class="aligncenter size-large wp-image-13644" /><br />
 家計簿をつけるからには「家計を見直したい」「無駄遣いをなくしたい」とか何かしらの目的があると思います。<br />
 ちょっと振り返ってみて欲しいのですが、家計簿をつけるようになってからその目的は達成できましたか？</p>
 <p>今この文章を読んでいる時点で達成できてない人は、このまま家計簿をつけ続けてもいつまでたっても何も変わらないかもしれません。<br />

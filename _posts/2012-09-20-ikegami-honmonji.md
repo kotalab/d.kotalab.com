@@ -20,7 +20,7 @@ tags:
 - 池上本門寺
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153641.jpg" alt="slooProImg_20120919153641.jpg" width="548" class="alignnone size-full wp-image-2871" /><br />
+<p><img src="/wp-content/uploads/slooProImg_20120919153641.jpg" alt="slooProImg_20120919153641.jpg" width="548" class="alignnone size-full wp-image-2871" /><br />
 お墓参りに行ってきました。@kotala_bです。<br />
 年に3回（春と秋のお彼岸、夏のお盆）はなるべくお墓参りに行くようにしています。<br />
 お墓は東京都大田区の池上にあります。<br />
@@ -29,37 +29,37 @@ comments: []
 </p>
 <!--more-->
 <p>▼入口には案内板があり<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153657.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153657.jpg" width="448" height="336" /><br />
 ▼掲示板の前では猫が我が物顔で昼寝していました。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153655.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153655.jpg" width="448" height="336" /><br />
 ▼入口から入ってすぐのところには此経難持坂（しきょうなんじざか）という階段のある坂道があります。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153646.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153646.jpg" width="448" height="336" /><br />
 ▼坂の下から見上げてみた。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153653.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153653.jpg" width="448" height="336" /><br />
 かなり急な階段です。<br />
 ▼坂の上から見下ろして見た。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153648.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153648.jpg" width="448" height="336" /><br />
 ▼階段の先に見えた風景<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153650.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153650.jpg" width="448" height="336" /><br />
 手前に仁王門がありその奥に大堂がかすかに見えます。<br />
 ▼仁王門<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153641.jpg" width="448" height="336" /><br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153636.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153641.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153636.jpg" width="448" height="336" /><br />
 ▼仁王門をくぐり抜けると大堂が見えてきます。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153631.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153631.jpg" width="448" height="336" /><br />
 ▼大きな香炉<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153547.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153547.jpg" width="448" height="336" /><br />
 煙を浴びる方がよくいますが、これを香炉と言うそうです。<br />
 ▼香炉を支えるオニ<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153545.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153545.jpg" width="448" height="336" /><br />
 ▼大堂<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153628.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153628.jpg" width="448" height="336" /><br />
 中は撮影禁止となっているので、外からのみです。<br />
 池上本門寺には重要文化財の五重塔があります。<br />
 ▼それがこちら<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153619.jpg" width="448" height="597" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153619.jpg" width="448" height="597" /><br />
 ▼約400年前に建立だそうです。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120919153617.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120919153617.jpg" width="448" height="336" /><br />
 1608年と言うとちょうど江戸時代が始まった初期のころです。</p>
 <h2>次回に続く</h2>
 <p>平日ということもあり、人も少なくゆっくりとした時間を過ごせました。<br />

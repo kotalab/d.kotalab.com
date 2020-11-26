@@ -22,7 +22,7 @@ tags:
 - iPadアプリ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/penultimate_130202-448x448.png" alt="penultimate_130202" width="448" height="448" class="alignnone size-large wp-image-5996" /><br />
+<p><img src="/wp-content/uploads/penultimate_130202-448x448.png" alt="penultimate_130202" width="448" height="448" class="alignnone size-large wp-image-5996" /><br />
 Evernoteが大好きです。@kotala_bです。<br />
 Evernoteにはメモをなんでも放り込んでます。<br />
 そんなEvernoteと連携する、iPad用の手書きのメモアプリPenultimateをご紹介します。<br />
@@ -35,7 +35,7 @@ Evernoteにはメモをなんでも放り込んでます。<br />
 Evernoteの公式アプリとしてリリースされているのでEvernoteとの連携がとてもスムーズ！<br />
 PenultimateからEvernoteのアカウントにログインをするとEvernoteのノートに「Penultimate」というノートが作成されます。<br />
 ▼Penultimateで作成したノートはひとつのノートブックとしてEvernote上で表示されます<br />
-<img src="https://kotalab.com/wp-content/uploads/penultimate_130202_01-448x303.jpg" alt="penultimate_130202_01" width="448" height="303" class="alignnone size-large wp-image-5994" /></p>
+<img src="/wp-content/uploads/penultimate_130202_01-448x303.jpg" alt="penultimate_130202_01" width="448" height="303" class="alignnone size-large wp-image-5994" /></p>
 <h2>最後に</h2>
 <p>スタライスペンが欲しくなりました！<br />
 買っちゃおうかな！</p>

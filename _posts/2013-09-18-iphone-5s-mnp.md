@@ -26,7 +26,7 @@ tags:
 - iPhone 5c
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iphone5smnp_130918-546x284.png" alt="iphone5smnp_130918" width="546" height="284" class="alignnone size-large wp-image-9329" /><br />
+<p><img src="/wp-content/uploads/iphone5smnp_130918-546x284.png" alt="iphone5smnp_130918" width="546" height="284" class="alignnone size-large wp-image-9329" /><br />
 iPhone 5sを買う予定です。こたら（@kotala_b）です。<br />
 iPhone 5s、iPhone 5cの発売まであと2日となりました。<br />
 もしMNPで機種変することを考えているならMNPする前にやっておきたいことがあります。<br />
@@ -46,16 +46,16 @@ MNP予約番号の有効期限は予約当日を含めた15日間。<br />
 もうiPhone 5sをMNPで買うということが決まっているなら、事前にMNP予約番号の取得をしておけばMNPがスムーズ。<br />
 ただし、<strong>MNP予約番号の期限内にiPhone 5sが手に入るか微妙なときは予約番号の取得は待った方がいいかもしれません。</strong></p>
 <h3>キャリアメールからGmailへ移行する</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />
+<p><img src="/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />
 MNPで厄介なのは電話番号は同じでもメアドが変わること。<br />
 そこで僕は<strong>Gmailをメインのメアドとして使うことをオススメします！</strong><br />
 Gmailを普段からメインのメアドとして使うようにしておけば、これから何回MNPしようがずっと同じメアドを使い続けられます。<br />
 GmailならPCでもタブレットでも同じメアドが使えるのもオススメする理由のひとつです。<br />
 参考：<br />
-<a href="https://kotalab.com/abandoning-carrier-mail" target="_blank">脱キャリアメールのすすめ。MNPがおトクすぎる今だからこそ</a><br />
-<a href="https://kotalab.com/gmail-main-mail" target="_blank">MNPするならメールはGmailを使うと断然便利！Gmailをメインのメアドとして使う方法</a></p>
+<a href="/abandoning-carrier-mail" target="_blank">脱キャリアメールのすすめ。MNPがおトクすぎる今だからこそ</a><br />
+<a href="/gmail-main-mail" target="_blank">MNPするならメールはGmailを使うと断然便利！Gmailをメインのメアドとして使う方法</a></p>
 <h3>データをバックアップしてスムーズな移行！</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/iphonebackup_130912_07-546x407.jpg" alt="iphonebackup_130912_07" width="546" height="407" class="alignnone size-large wp-image-9088" /><br />
+<p><img src="/wp-content/uploads/iphonebackup_130912_07-546x407.jpg" alt="iphonebackup_130912_07" width="546" height="407" class="alignnone size-large wp-image-9088" /><br />
 スムーズな移行にはデータのバックアップも重要！<br />
 買ってすぐ使えるかどうかは必要なデータが新しい端末ですぐ使えるかどうかにかかっているからです。<br />
 <strong>特に注意が必要なのはアプリ内データの移行に関してです。</strong><br />
@@ -63,8 +63,8 @@ GmailならPCでもタブレットでも同じメアドが使えるのもオス�
 AndroidからAndroidへの機種変時はできてもAndroidからiPhoneへの機種変ではできなかったり。<br />
 アプリによって対応がまちまちです。もし大切なデータがどうなるか気になる場合は、<strong>各アプリのサポートへ直接連絡・確認するのが一番有効</strong>です。<br />
 参考：<br />
-<a href="https://kotalab.com/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
-<a href="https://kotalab.com/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
+<a href="/iphone-backup" target="_blank">iPhone 5s、iPhone 5cを買う前の準備！iPhoneのデータをバックアップ、移行する方法とその注意点</a><br />
+<a href="/from-android-to-iphone-5s-iphone-5c" target="_blank">AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点</a></p>
 <h3>MNPは面倒くさくない</h3>
 <p>ドコモからSoftBank、SoftBankからauへとMNPしてきましたが、キャリアメールを使っていなければ機種変とやることは変わりません。<br />
 キャリアメールに縛られているからMNPが大変で面倒くさいってことに気づきました。<br />

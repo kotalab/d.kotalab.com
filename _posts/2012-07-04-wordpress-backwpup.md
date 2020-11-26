@@ -20,7 +20,7 @@ tags:
 - バックアップ
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/backUp_120602.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/backUp_120602.jpg" alt="" title="backUp_120602" width="448" height="307" class="alignnone size-full wp-image-1237" /></a><br />
+<p><a href="/wp-content/uploads/backUp_120602.jpg" target="_blank"><img src="/wp-content/uploads/backUp_120602.jpg" alt="" title="backUp_120602" width="448" height="307" class="alignnone size-full wp-image-1237" /></a><br />
 ブログのバックアップを取りました。@kotala_bです。<br />
 バックアップにはプラグインの「BackWPup」を使用しました。<br />
 <a href="https://blog.quusookagaku.com/wordpress/6876/" target="_blank"><img title="自分のWordPressブログを守るために出来る３つのこと*frasm" src="https://capture.heartrails.com/150x130/1341345039037?https://blog.quusookagaku.com/wordpress/6876/" alt="https://blog.quusookagaku.com/wordpress/6876/" width="150" height="130" align="left" /></a><a href="https://blog.quusookagaku.com/wordpress/6876/" title="自分のWordPressブログを守るために出来る３つのこと*frasm" target="_blank">自分のWordPressブログを守るために出来る３つのこと*frasm</a><br style="clear:both;" /><br />
@@ -33,7 +33,7 @@ comments: []
 毎日午前6時にDropboxへバックアップを自動で取るように設定しました。</p>
 <h2>2重でバックアップ</h2>
 <p>僕はDropbox自体もSugarSyncでバックアップしています。<br />
-<a href="https://kotalab.com/dropbox-backup" target="_blank"><img title="これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note" src="https://capture.heartrails.com/150x130?https://kotalab.com/dropbox-backup" alt="https://kotalab.com/archives/513" width="150" height="130" align="left" /></a><a href="https://kotalab.com/dropbox-backup" title="これで一安心！Dropboxを丸ごとバックアップ！" target="_blank">これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note</a><br style="clear:both;" />やり方はこちらの記事で紹介してます。</p>
+<a href="/dropbox-backup" target="_blank"><img title="これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note" src="https://capture.heartrails.com/150x130?https://kotalab.com/dropbox-backup" alt="https://kotalab.com/archives/513" width="150" height="130" align="left" /></a><a href="/dropbox-backup" title="これで一安心！Dropboxを丸ごとバックアップ！" target="_blank">これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note</a><br style="clear:both;" />やり方はこちらの記事で紹介してます。</p>
 <h2>バックアップ</h2>
 <p>万が一の時のために取るバックアップ。<br />
 頻繁にバックアップを取るには手動だとどうしても面倒なので、やるなら自動で行ってくれるものを選びましょう。<br />

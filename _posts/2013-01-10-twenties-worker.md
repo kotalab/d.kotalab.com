@@ -22,7 +22,7 @@ tags:
 - 本田直之
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/kaisyadehukou130110.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kaisyadehukou130110-448x300.jpg" alt="kaisyadehukou130110" width="448" height="300" class="alignnone size-large wp-image-5597" /></a><br />
+<p><a href="/wp-content/uploads/kaisyadehukou130110.jpg" target="_blank"><img src="/wp-content/uploads/kaisyadehukou130110-448x300.jpg" alt="kaisyadehukou130110" width="448" height="300" class="alignnone size-large wp-image-5597" /></a><br />
 本田直之さんの著書「会社で不幸になる人、ならない人」を読みました。@kotala_bです。<br />
 あなたは会社で不幸になっていませんか？<br />
 <strong>会社員で不幸になる人とならない人には決定的な違いがあります。<br />

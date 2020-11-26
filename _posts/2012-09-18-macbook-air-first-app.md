@@ -23,9 +23,9 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/slooProImg_20120917123717.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20120917123717.jpg" alt="" title="slooProImg_20120917123717.jpg" width="448" height="336" class="alignnone size-full wp-image-2803" /></a><br />
+<p><a href="/wp-content/uploads/slooProImg_20120917123717.jpg" target="_blank"><img src="/wp-content/uploads/slooProImg_20120917123717.jpg" alt="" title="slooProImg_20120917123717.jpg" width="448" height="336" class="alignnone size-full wp-image-2803" /></a><br />
 初めてのMacに徐々に慣れてきました。@kotala_bです。<br />
-<a href="https://kotalab.com/macbook-air-24hours" title="圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！" target="_blank">昨日お伝え</a>した通りMacBookAirが届いて、windowsから移行をしている真っ最中です。<br />
+<a href="/macbook-air-24hours" title="圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！" target="_blank">昨日お伝え</a>した通りMacBookAirが届いて、windowsから移行をしている真っ最中です。<br />
 そんな僕がMacBookAirに真っ先に入れたアプリをご紹介します。<br />
 </p>
 <!--more-->
@@ -49,9 +49,9 @@ comments: []
 <p>クラウドサービスの代名詞的存在のDropBoxです。<br />
 Evernoteと同様に複数の端末からアクセス出来る素晴らしいサービスです。<br />
 DropBoxにはブログを自動でバックアップしています。<br />
-<a href="https://kotalab.com/wordpress-backwpup" target="_blank">WordPressブログを自動でバックアップ！ | kotala's note</a><br />
+<a href="/wordpress-backwpup" target="_blank">WordPressブログを自動でバックアップ！ | kotala's note</a><br />
 またDropBox自体をバックアップすることでもしもの時のリスクを抑えられます。<br />
-<a href="https://kotalab.com/dropbox-backup" target="_blank">これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note</a><br />
+<a href="/dropbox-backup" target="_blank">これで一安心！Dropboxを丸ごとバックアップ！ | kotala's note</a><br />
 ダウンロード先：<a href="https://www.dropbox.com/" title="dropbox" target="_blank">ダウンロード</a><br />
 こちらからDropboxを登録して頂くと、僕とあなたは250MBの追加容量を得ることが出来ます：<a href="https://db.tt/BXcySQmO" title="dropboxに登録" target="_blank">Dropbox</a></p>
 <h2>3.KeepassX</h2>

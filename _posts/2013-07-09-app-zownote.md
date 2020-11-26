@@ -23,7 +23,7 @@ tags:
 - 読書メモ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/zownote_130709-448x173.jpg" alt="zownote_130709" width="448" height="173" class="alignnone size-large wp-image-7785" /><br />
+<p><img src="/wp-content/uploads/zownote_130709-448x173.jpg" alt="zownote_130709" width="448" height="173" class="alignnone size-large wp-image-7785" /><br />
 読書が好きです。こたら（@kotala_b）です。<br />
 読んだ本をそのままにしておくのは勿体ない。<br />
 そんな思いから読んだ本について読書メモを書くようにしています。<br />
@@ -64,7 +64,7 @@ Zownoteは「==ZOENOTE==」というタグがついたノートだけを同期�
 <h3>3.前回読んだのがいつだかわかる</h3>
 <p><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fzownote-for-evernote%252Fid543468336%253Fmt%253D8%2526uo%253D4">ZowNote</span>では前回アプリ内で開いたノートがどれくらい前に開いたのかがわかるのです。<br />
 ▼<span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fzownote-for-evernote%252Fid543468336%253Fmt%253D8%2526uo%253D4">ZowNote</span>を開くとこのように表示されます。<br />
-<img src="https://kotalab.com/wp-content/uploads/zownote_130709_01-448x247.jpg" alt="zownote_130709_01" width="448" height="247" class="alignnone size-large wp-image-7784" /><br />
+<img src="/wp-content/uploads/zownote_130709_01-448x247.jpg" alt="zownote_130709_01" width="448" height="247" class="alignnone size-large wp-image-7784" /><br />
 右端の数字が何日前に読んだモノなのかという数字です。<br />
 本田直之さんの「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4023310573%2Fref%3Dnosim" rel="nofollow" name="booklink" target="_blank">ノマドライフ</a>」と「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4492042695%2Fref%3Dnosim" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>」は35日前に読書メモを振り返ったということがわかります。<br />
 これがわかると、偏ることなく満遍なく読書メモの振り返りができます。<br />
@@ -112,4 +112,4 @@ Zownoteは「==ZOENOTE==」というタグがついたノートだけを同期�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/iphone-home-201304" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/home_130403-448x246.jpg" alt="iPhone5のホーム画面 2013年4月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone-home-201304" target="_blank">iPhone5のホーム画面 2013年4月版 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/iphone-home-201304" target="_blank"><img  class="alignleft" src="/wp-content/uploads/home_130403-448x246.jpg" alt="iPhone5のホーム画面 2013年4月版 | kotala's note" width="150" /></a><a href="/iphone-home-201304" target="_blank">iPhone5のホーム画面 2013年4月版 | kotala's note</a><br style="clear:both;" /></p>

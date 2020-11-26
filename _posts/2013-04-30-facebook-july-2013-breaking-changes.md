@@ -21,7 +21,7 @@ tags:
 - facebook
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/facebook_130204-448x448.png" alt="facebook_130204" width="448" height="448" class="alignnone size-large wp-image-6032" /><br />
+<p><img src="/wp-content/uploads/facebook_130204-448x448.png" alt="facebook_130204" width="448" height="448" class="alignnone size-large wp-image-6032" /><br />
 Facebookページにメッセージが届きました。@kotala_bです。<br />
 Facebook Developer Roadmapによると、2月から4月にかけてあったFacebookの「Breaking Changes」が7月10日にもあるようです。<br />
 7月10日に行われる「Breaking Changes」を前にFacebookページの設定を有効化しておく必要があります。<br />
@@ -29,13 +29,13 @@ Facebook Developer Roadmapによると、2月から4月にかけてあったFace
 <!--more-->
 <h2>「July 2013 Breaking Changes」と表示された時の対処法</h2>
 <p>▼2月にも書きました。<br />
-<a href="https://kotalab.com/facebook-error-feb" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/facebook_130204-448x448.png" alt="Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note" width="150" /></a><a href="https://kotalab.com/facebook-error-feb" target="_blank">Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note</a><br style="clear:both;" />これと同様のことをしていきます。<br />
+<a href="/facebook-error-feb" target="_blank"><img  class="alignleft" src="/wp-content/uploads/facebook_130204-448x448.png" alt="Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note" width="150" /></a><a href="/facebook-error-feb" target="_blank">Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note</a><br style="clear:both;" />これと同様のことをしていきます。<br />
 ▼詳細設定から「July 2013 Breaking Changes」の項目を有効にします。<br />
-<img src="https://kotalab.com/wp-content/uploads/facebookdev_130430_01-448x294.jpg" alt="facebookdev_130430_01" width="448" height="294" class="alignnone size-large wp-image-6965" /><br />
+<img src="/wp-content/uploads/facebookdev_130430_01-448x294.jpg" alt="facebookdev_130430_01" width="448" height="294" class="alignnone size-large wp-image-6965" /><br />
 ▼有効にするとメッセージが届き、対応が完了したことを知らせてくれます。<br />
-<img src="https://kotalab.com/wp-content/uploads/facebookdev_130430_02-448x271.jpg" alt="facebookdev_130430_02" width="448" height="271" class="alignnone size-large wp-image-6964" /></p>
+<img src="/wp-content/uploads/facebookdev_130430_02-448x271.jpg" alt="facebookdev_130430_02" width="448" height="271" class="alignnone size-large wp-image-6964" /></p>
 <h2>最後に</h2>
 <p>Facebook Developersによると「Breaking Changes」が行われる約3ヶ月前から告知を行うそうです。<br />
 猶予があるといっても、忘れないうちに早めの対処をしておきましょう。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/facebook-error-feb" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/facebook_130204-448x448.png" alt="Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note" width="150" /></a><a href="https://kotalab.com/facebook-error-feb" target="_blank">Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/facebook-error-feb" target="_blank"><img  class="alignleft" src="/wp-content/uploads/facebook_130204-448x448.png" alt="Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note" width="150" /></a><a href="/facebook-error-feb" target="_blank">Facebookで「February 2013 Breaking Changes」と表示された時の対処法 | kotala's note</a><br style="clear:both;" /></p>

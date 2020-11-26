@@ -22,7 +22,7 @@ tags:
 - NoteCube
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/appnotecube_130927_01-300x300.png" alt="appnotecube_130927_01" width="300" height="300" class="alignnone size-medium wp-image-9706" /><br />
+<p><img src="/wp-content/uploads/appnotecube_130927_01-300x300.png" alt="appnotecube_130927_01" width="300" height="300" class="alignnone size-medium wp-image-9706" /><br />
 こんなアプリが欲しかった。こたら（@kotala_b）です。<br />
 NoteCubeがスゴくシンプルで使いやすくていい感じ！<br />
 1ヶ月くらい使ってますが、かなりオススメのメモアプリです！<br />
@@ -40,27 +40,27 @@ NoteCubeはタイトルもタグも使わないシンプルなメモアプリ。
 <h3>グリッドとタイムライン、2つの表示切替えができる</h3>
 <p>表示形式はグリッドとタイムラインという2つから選択可能。<br />
 グリッド表示では複数のメモを俯瞰できて<br />
-<img src="https://kotalab.com/wp-content/uploads/appnotecube_130927_02-300x513.jpg" alt="appnotecube_130927_02" width="300" height="513" class="alignnone size-medium wp-image-9712" /><br />
+<img src="/wp-content/uploads/appnotecube_130927_02-300x513.jpg" alt="appnotecube_130927_02" width="300" height="513" class="alignnone size-medium wp-image-9712" /><br />
 タイムライン表示ではメモした日時がわかります。<br />
-<img src="https://kotalab.com/wp-content/uploads/appnotecube_130927_03-300x513.jpg" alt="appnotecube_130927_03" width="300" height="513" class="alignnone size-medium wp-image-9711" /><br />
+<img src="/wp-content/uploads/appnotecube_130927_03-300x513.jpg" alt="appnotecube_130927_03" width="300" height="513" class="alignnone size-medium wp-image-9711" /><br />
 検索機能が使えるのはタイムライン表示のときだけ。<br />
 検索機能が優れもので写真の中の文字も読み取れちゃいます！</p>
 <h3>NoteCubeはEvernoteにメモを保存できる</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/appnotecube_130927_05-546x415.jpg" alt="appnotecube_130927_05" width="546" height="415" class="alignnone size-large wp-image-9707" /><br />
+<p><img src="/wp-content/uploads/appnotecube_130927_05-546x415.jpg" alt="appnotecube_130927_05" width="546" height="415" class="alignnone size-large wp-image-9707" /><br />
 NoteCubeはEvernoteと連携していますが、あくまでも補助機能という位置づけ。<br />
 Evernote内のノートを同期することもないし、タグもつけられない。<br />
 「NoteCubeのメモ内容をEvernoteにも保存しときます」くらいの感覚。<br />
 Evernoteで消した内容もNoteCubeでは残り続けます。</p>
 <h3>NoteCubeで書いたメモはSNSやメールで送れる</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/appnotecube_130927_04-300x513.jpg" alt="appnotecube_130927_04" width="300" height="513" class="alignnone size-medium wp-image-9709" /><br />
+<p><img src="/wp-content/uploads/appnotecube_130927_04-300x513.jpg" alt="appnotecube_130927_04" width="300" height="513" class="alignnone size-medium wp-image-9709" /><br />
 NoteCubeで書いた内容はTwitterやFacebook、メールで送信することができます。<br />
 iOS7のAirDropにも対応したらもっとよさそう！</p>
 <h3>NoteCubeはスゴくシンプル</h3>
 <p>「メモを残す」ということにスゴくシンプルなメモアプリ「NoteCube」<br />
 少し贅沢を言えばタイムスタンプがあったり、チェックリストにも使えたらもっといいなと思います。<br />
 「メモを書く」ための入力部分がFasteverみたいだったら！<br />
-<img src="https://kotalab.com/wp-content/uploads/appnotecube_130927_07-546x369.jpg" alt="appnotecube_130927_07" width="546" height="369" class="alignnone size-large wp-image-9710" /><br />
-<img src="https://kotalab.com/wp-content/uploads/appnotecube_130927_06-546x420.jpg" alt="appnotecube_130927_06" width="546" height="420" class="alignnone size-large wp-image-9708" /><br />
+<img src="/wp-content/uploads/appnotecube_130927_07-546x369.jpg" alt="appnotecube_130927_07" width="546" height="369" class="alignnone size-large wp-image-9710" /><br />
+<img src="/wp-content/uploads/appnotecube_130927_06-546x420.jpg" alt="appnotecube_130927_06" width="546" height="420" class="alignnone size-large wp-image-9708" /><br />
 そういう機能がつくとシンプルじゃなくなっちゃうからダメなのかとも思ったり。<br />
 とにかくシンプルなメモアプリ、NoteCubeオススメです！</p>
 <div class="applink">

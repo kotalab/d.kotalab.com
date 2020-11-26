@@ -21,7 +21,7 @@ tags:
 - 貯金
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/kosodate_140328_02-546x363.jpg" alt="kosodate_140328_02" width="546" height="363" class="aligncenter size-large wp-image-11277" /><br />
+<p><img src="/wp-content/uploads/kosodate_140328_02-546x363.jpg" alt="kosodate_140328_02" width="546" height="363" class="aligncenter size-large wp-image-11277" /><br />
 <span class="ss">via:onigiri-kun</span><br />
 あなたが生命保険に入る（入ろうと思っている）理由は何ですか？</p>
 <ul>

@@ -21,24 +21,24 @@ tags:
 - AnalyticsTiles
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/app-analytics-tiles_140403_01-546x307.jpg" alt="app-analytics-tiles_140403_01" width="546" height="307" class="alignnone size-large wp-image-11336" /><br />
+<p><img src="/wp-content/uploads/app-analytics-tiles_140403_01-546x307.jpg" alt="app-analytics-tiles_140403_01" width="546" height="307" class="alignnone size-large wp-image-11336" /><br />
 GoogleAnalyticsがiPhoneでもiPadでも見れるアプリ「AnalyticsTiles」</p>
 <p>エラーでログインできなくなり、ある日突然AppStoreから消えていたアプリ。<br />
-そして<a href="https://kotalab.com/app-analytics-tiles" title="AnalyticsTilesのアップデートがきた！また元通り使えるようになってるよ！">今日のアップデートでまた使えるようになった</a>最近なにかとお騒がせ？なAnalyticsTilesがAppStoreに戻ってきました！<br />
+そして<a href="/app-analytics-tiles" title="AnalyticsTilesのアップデートがきた！また元通り使えるようになってるよ！">今日のアップデートでまた使えるようになった</a>最近なにかとお騒がせ？なAnalyticsTilesがAppStoreに戻ってきました！<br />
 </p>
 <!--more-->
 <h2>AnalyticsTilesが戻ってきた！</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/back-analytics-tiles_140403_01-546x407.png" alt="back-analytics-tiles_140403_01" width="546" height="407" class="alignnone size-large wp-image-11345" /><br />
+<p><img src="/wp-content/uploads/back-analytics-tiles_140403_01-546x407.png" alt="back-analytics-tiles_140403_01" width="546" height="407" class="alignnone size-large wp-image-11345" /><br />
 ブロガーに大人気のAnalyticsTilesがようやくAppStoreに並びました！<br />
 今朝見た時には、アップデートだけあってAppStoreを探しても無かったんですよね。</p>
 <p>家に帰って見てみたら今度はちゃんとAppStoreに並んでました！</p>
 <h3>AnalyticsTilesが無料になってる！</h3>
-<p><a href="https://kotalab.com/app-analytics-tiles" title="AnalyticsTilesのアップデートがきた！また元通り使えるようになってるよ！">今朝書いた時点</a>ではAppStoreになかったんでリンクが貼れなかったんです。</p>
+<p><a href="/app-analytics-tiles" title="AnalyticsTilesのアップデートがきた！また元通り使えるようになってるよ！">今朝書いた時点</a>ではAppStoreになかったんでリンクが貼れなかったんです。</p>
 <p>帰ってきてリンク貼ろうとしたらビックリ！無料アプリになってました！<br />
 ▼元有料版<br />
-<img src="https://kotalab.com/wp-content/uploads/back-analytics-tiles_140403_03.png" alt="back-analytics-tiles_140403_03" width="426" height="183" class="alignnone size-full wp-image-11347" /><br />
+<img src="/wp-content/uploads/back-analytics-tiles_140403_03.png" alt="back-analytics-tiles_140403_03" width="426" height="183" class="alignnone size-full wp-image-11347" /><br />
 ▼元無料版<br />
-<img src="https://kotalab.com/wp-content/uploads/back-analytics-tiles_140403_02.png" alt="back-analytics-tiles_140403_02" width="426" height="183" class="alignnone size-full wp-image-11346" /><br />
+<img src="/wp-content/uploads/back-analytics-tiles_140403_02.png" alt="back-analytics-tiles_140403_02" width="426" height="183" class="alignnone size-full wp-image-11346" /><br />
 今までは広告付きの無料版と広告無しの有料版に分かれてたんです。<br />
 でも今日見たら広告無しの方も無料になってました！</p>
 <h3>2種類公開されてるってことは？</h3>

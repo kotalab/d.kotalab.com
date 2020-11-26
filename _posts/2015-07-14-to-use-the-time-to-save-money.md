@@ -23,7 +23,7 @@ tags:
 - ファイナンシャルプランナー
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/07/to-use-the-time-to-save-money_20150714.jpg" alt="To use the time to save money 20150714" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/07/to-use-the-time-to-save-money_20150714.jpg" alt="To use the time to save money 20150714" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>ファイナンシャルプランナーのぼくは<br />
 「お金を貯めるには入ってきたお金(給料)を先に貯金するといい。」<br />
 とよく アドバイスします。</p>
@@ -64,5 +64,5 @@ comments: []
 ・町田街道をクロスバイクで北上<br />
 月曜<br />
 ・AppleForum</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

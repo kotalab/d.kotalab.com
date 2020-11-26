@@ -22,28 +22,28 @@ tags:
 - 町田大勝軒
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904172617.jpg" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20120904172617.jpg" width="448" height="336" /><br />
 今日はつけ麺にしました。@kotala_bです。<br />
-<a href="https://kotalab.com/machida-taishoken" target="_blank">前回</a>は油そばを食べましたが、今回はつけ麺です！<br />
+<a href="/machida-taishoken" target="_blank">前回</a>は油そばを食べましたが、今回はつけ麺です！<br />
 </p>
 <!--more-->
 <p>今回は全部入りのつけ麺並(950円)を頼みました。<br />
 ▼通されたのは一番奥の席<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904171536.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120904171536.jpg" width="448" height="336" /><br />
 2時半ごろに行ったのですいてました。<br />
 ▼全部入りのつけ麺スープ<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904171534.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120904171534.jpg" width="448" height="336" /><br />
 ▼並の麺(2玉)<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904171533.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120904171533.jpg" width="448" height="336" /><br />
 ここ町田大勝軒では並で2玉！<br />
 ▼全体をみると結構な量があります<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904171531.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120904171531.jpg" width="448" height="336" /><br />
 ▼麺は太麺<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904171529.jpg" width="448" height="598" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120904171529.jpg" width="448" height="598" /><br />
 ▼チャーシューは4枚入ってました！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904171527.jpg" width="448" height="598" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120904171527.jpg" width="448" height="598" /><br />
 ▼黙々と食べ続け完食！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20120904171523.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20120904171523.jpg" width="448" height="336" /><br />
 おいしかったです！<br />
 ごちそうさまでした！</p>
 <h2>町田大勝軒さんの情報</h2>

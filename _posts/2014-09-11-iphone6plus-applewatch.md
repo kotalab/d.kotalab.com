@@ -21,7 +21,7 @@ tags:
 - AppleWatch
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iPhone6plus-applewatch_20140910-780x465.png" alt="iPhone6plus-applewatch_20140910" width="780" height="465" class="aligncenter size-large wp-image-13426" /><br />
+<p><img src="/wp-content/uploads/iPhone6plus-applewatch_20140910-780x465.png" alt="iPhone6plus-applewatch_20140910" width="780" height="465" class="aligncenter size-large wp-image-13426" /><br />
 via:<a href="https://www.apple.com/" target="_blank">Apple</a><br />
 とうとうiPhone6が発表されましたね！<br />
 iPhone6とiPhone6Plusが9月19日に発売予定となりました。</p>
@@ -36,7 +36,7 @@ iPhone6とiPhone6Plusが9月19日に発売予定となりました。</p>
 <h2>iPhone6plusは横向きに持ってみる？</h2>
 <p>個人的にすごく気になってるのが横向きのiPhone6Plus。</p>
 <p>「iPhone 6plus landscape」でGoogleの画像検索してみたんですけど<br />
-<img src="https://kotalab.com/wp-content/uploads/iPhone6plus-applewatch_20140910_01-780x307.png" alt="iPhone6plus-applewatch_20140910_01" width="780" height="307" class="aligncenter size-large wp-image-13427" /></p>
+<img src="/wp-content/uploads/iPhone6plus-applewatch_20140910_01-780x307.png" alt="iPhone6plus-applewatch_20140910_01" width="780" height="307" class="aligncenter size-large wp-image-13427" /></p>
 <p>なんか良さそうじゃないですか？</p>
 <p>横向きにもって左右にボタンつけたらPSvitaみたいになっちゃいそうだけど。<br />
 横に向けたらホーム画面もドックも横向きになるみたいだし<strong>Appleが「こうやって使ってもいいよ」って用意してくれた感じ</strong>がします。</p>
@@ -45,7 +45,7 @@ iPhone6とiPhone6Plusが9月19日に発売予定となりました。</p>
 <p>iPhoneがデカくなったらポケットに入んない！とか目にしますけど、あの大きさはカバンに入れて持ち歩く感じですよね。</p>
 <p>「カバンに入れてると電話とかLINE、メールの着信に気づかない！」</p>
 <p>そんな時のためにAppleWatchなんじゃないかなーなんて。<br />
-<img src="https://kotalab.com/wp-content/uploads/iPhone6plus-applewatch_20140910_02-780x390.png" alt="iPhone6plus-applewatch_20140910_02" width="780" height="390" class="aligncenter size-large wp-image-13428" /><br />
+<img src="/wp-content/uploads/iPhone6plus-applewatch_20140910_02-780x390.png" alt="iPhone6plus-applewatch_20140910_02" width="780" height="390" class="aligncenter size-large wp-image-13428" /><br />
 AppleWatchがあれば電話も出れるしメールチェックもできる。<br />
 AppleWatchが出る頃にはFacebookとかLINEも対応アプリをだしてそうだし、移動中はわざわざiPhoneをポケットにしまっておく必要がなくなる。</p>
 <p>「AppleWatchじゃ画面が小さくてキツイ！」って時にカバンからiPhoneをサッと取り出す。<br />

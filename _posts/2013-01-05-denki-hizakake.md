@@ -23,7 +23,7 @@ tags:
 - 電気膝掛け
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/hizakake130105_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/hizakake130105_02-448x336.jpg" alt="hizakake130105_02" width="448" height="336" class="alignnone size-large wp-image-5511" /></a><br />
+<p><a href="/wp-content/uploads/hizakake130105_02.jpg" target="_blank"><img src="/wp-content/uploads/hizakake130105_02-448x336.jpg" alt="hizakake130105_02" width="448" height="336" class="alignnone size-large wp-image-5511" /></a><br />
 電気膝掛けを年末あたりから使っています。@kotala_bです。<br />
 ちきりんさん（@InsideCHIKIRIN）のブログで11月に紹介されていて、気にはなっていたんです。<br />
 <a href="https://d.hatena.ne.jp/Chikirin+personal/20121111#p1" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://d.hatena.ne.jp/Chikirin+personal/20121111#p1" alt="2012-11-11 - ちきりんパーソナル" width="150" height="130" /></a><a href="https://d.hatena.ne.jp/Chikirin+personal/20121111#p1" target="_blank">2012-11-11 - ちきりんパーソナル</a><a href="https://b.hatena.ne.jp/entry/https://d.hatena.ne.jp/Chikirin+personal/20121111#p1" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://d.hatena.ne.jp/Chikirin+personal/20121111#p1" alt="" /></a><br style="clear:both;" />気にはなっていたんですが、なかなか購入するには至らずにいました。<br />
@@ -74,11 +74,11 @@ comments: []
 <h2>電気膝掛けをご紹介！</h2>
 <p>25日に注文して27日に届きました！<br />
 ▼箱の隅には日本製の文字！<br />
-<a href="https://kotalab.com/wp-content/uploads/hizakake130105.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/hizakake130105-448x336.jpg" alt="hizakake130105" width="448" height="336" class="alignnone size-large wp-image-5512" /></a><br />
+<a href="/wp-content/uploads/hizakake130105.jpg" target="_blank"><img src="/wp-content/uploads/hizakake130105-448x336.jpg" alt="hizakake130105" width="448" height="336" class="alignnone size-large wp-image-5512" /></a><br />
 ▼ふたを開けると説明書と一緒に膝掛け！<br />
-<a href="https://kotalab.com/wp-content/uploads/hizakake130105_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/hizakake130105_01-448x336.jpg" alt="hizakake130105_01" width="448" height="336" class="alignnone size-large wp-image-5510" /></a><br />
+<a href="/wp-content/uploads/hizakake130105_01.jpg" target="_blank"><img src="/wp-content/uploads/hizakake130105_01-448x336.jpg" alt="hizakake130105_01" width="448" height="336" class="alignnone size-large wp-image-5510" /></a><br />
 ▼リモコンのメモリには弱、中、強、ダニ退治があります。<br />
-<a href="https://kotalab.com/wp-content/uploads/hizakake130105_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/hizakake130105_02-448x336.jpg" alt="hizakake130105_02" width="448" height="336" class="alignnone size-large wp-image-5511" /></a><br />
+<a href="/wp-content/uploads/hizakake130105_02.jpg" target="_blank"><img src="/wp-content/uploads/hizakake130105_02-448x336.jpg" alt="hizakake130105_02" width="448" height="336" class="alignnone size-large wp-image-5511" /></a><br />
 普段は中で使っていて、朝起きてすぐは強にしています。<br />
 すぐに暖まるので朝は本当に重宝してます。<br />
 また、"電気"膝掛けなのに丸洗い出来るのがスゴイところ。<br />

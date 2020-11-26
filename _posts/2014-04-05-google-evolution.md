@@ -44,7 +44,7 @@ comments:
   date_gmt: '2014-07-09 21:15:20 +0900'
   content: "[&#8230;] https://kotalab.com/google-evolution [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/Google-evolution_140405-546x292.png" alt="Google-evolution_140405" width="546" height="292" class="alignnone size-large wp-image-12398" /><br />
+<p><img src="/wp-content/uploads/Google-evolution_140405-546x292.png" alt="Google-evolution_140405" width="546" height="292" class="alignnone size-large wp-image-12398" /><br />
 ブログを書くときのタイトルの文字数って何文字がいいとかっていう話を見たり聞いたりするので多少は気にしてました。</p>
 <p>Web制作会社LIGのブログにはこんなことが書いてあります。</p>
 <blockquote><p>
@@ -62,10 +62,10 @@ via:<a href="http://liginc.co.jp/web/seo/30932" target="_blank">アクセス増�
 そしたら同じページなのに表示されるタイトルが違くてビックリ！</p>
 <h2>同じ記事の2つの異なる表示結果</h2>
 <p>「コストコ　消費税」って検索したときは「消費税前に買い込むならこれだ！コストコでオススメの・・・」<br />
-<img src="https://kotalab.com/wp-content/uploads/Google-evolution_140405_02-546x195.png" alt="Google-evolution_140405_02" width="546" height="195" class="alignnone size-large wp-image-12397" /><br />
+<img src="/wp-content/uploads/Google-evolution_140405_02-546x195.png" alt="Google-evolution_140405_02" width="546" height="195" class="alignnone size-large wp-image-12397" /><br />
 <span class="b">後半部分が省略されて表示</span>されます。</p>
 <p>「コストコ　おすすめ　洗剤」って検索すると今度は「コストコでオススメの5つのアイテム！」<br />
-<img src="https://kotalab.com/wp-content/uploads/Google-evolution_140405_01-546x287.png" alt="Google-evolution_140405_01" width="546" height="287" class="alignnone size-large wp-image-12396" /><br />
+<img src="/wp-content/uploads/Google-evolution_140405_01-546x287.png" alt="Google-evolution_140405_01" width="546" height="287" class="alignnone size-large wp-image-12396" /><br />
 こんどは前半部分がなくなって<span class="b">後半部分だけが表示</span>されました。</p>
 <p>この2つの検索結果で表示されるページは同じURLの全くの同一記事です。<br />
 [article include="10739"]<br />

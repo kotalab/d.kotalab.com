@@ -21,7 +21,7 @@ tags:
 - "#DR講座"
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/influence_130211-448x383.jpg" alt="influence_130211" width="448" height="383" class="alignnone size-large wp-image-6105" /><br />
+<p><img src="/wp-content/uploads/influence_130211-448x383.jpg" alt="influence_130211" width="448" height="383" class="alignnone size-large wp-image-6105" /><br />
 僕には見習いたい人が沢山います。@kotala_bです。<br />
 ブロガーとして、上司として、親として、いろいろな役割ごとに尊敬する人見習いたい人がいます。<br />
 </p>
@@ -30,12 +30,12 @@ comments: []
 <p>自分で大切にしたい役割が僕の中には存在します。<br />
 ブロガーとして、社会人として、家族として、その役割は人生の大切な柱として自分の中に存在しています。<br />
 1月の大雪の日に参加したした夢見るリアリスト講座では、1つの役割について考えました。<br />
-<a href="https://kotalab.com/dr-kouza" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/dr_130116-448x336.jpg" alt="大雪の日に夢見るリアリスト講座に参加して得たことは「モチベーションは自分の中に持つ」ということ！ #DR講座 | kotala's note" width="150" /></a><a href="https://kotalab.com/dr-kouza" target="_blank">大雪の日に夢見るリアリスト講座に参加して得たことは「モチベーションは自分の中に持つ」ということ！ #DR講座 | kotala's note</a><br style="clear:both;" />講座では役割について改めて考えるいい機会になりました。</p>
+<a href="/dr-kouza" target="_blank"><img  class="alignleft" src="/wp-content/uploads/dr_130116-448x336.jpg" alt="大雪の日に夢見るリアリスト講座に参加して得たことは「モチベーションは自分の中に持つ」ということ！ #DR講座 | kotala's note" width="150" /></a><a href="/dr-kouza" target="_blank">大雪の日に夢見るリアリスト講座に参加して得たことは「モチベーションは自分の中に持つ」ということ！ #DR講座 | kotala's note</a><br style="clear:both;" />講座では役割について改めて考えるいい機会になりました。</p>
 <h2>役割として見習いたい存在</h2>
 <p>ブロガーとしてはあの人やこの人、というように一つの役割に対して複数人の見習いたい人が存在しています。<br />
 その人の全てをというよりも、いい部分や共感できる部分を自分の中にも取り入れたいと思っています。</p>
 <h2>よく観察し相手のことを考えることでいい部分を自分に感染させる</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/slooProImg_20130208152334-448x336.jpg" alt="slooProImg_20130208152334.jpg" width="448" height="336" class="alignnone size-large wp-image-6066" /><br />
+<p><img src="/wp-content/uploads/slooProImg_20130208152334-448x336.jpg" alt="slooProImg_20130208152334.jpg" width="448" height="336" class="alignnone size-large wp-image-6066" /><br />
 <a href="https://www.amazon.co.jp/exec/obidos/asin/4479793631/same-22/" rel="nofollow" name="booklink" target="_blank">スタンフォードの自分を変える教室</a>には「意思力の強い人のことを考えると、自分自身の意思力も強くなることが研究によって明らかになっている」とありました。<br />
 また@jMatsuzakiさんは「連れ小便」や「夢見るリアリスト病」という言葉を使い、「夢の実現に向けて好きなことを諦めずに没頭すること」を感染させようとしています。</p>
 <h2>最後に</h2>
@@ -58,8 +58,8 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ | kotala's note</a><br />
-<a href="https://kotalab.com/dont-giveup-think" target="_blank">習慣が続かない理由は続く理由に変えられる！諦める前に考えてみよう！ | kotala's note</a><br />
-<a href="https://kotalab.com/dr-kouza" target="_blank">大雪の日に夢見るリアリスト講座に参加して得たことは「モチベーションは自分の中に持つ」ということ！ #DR講座 | kotala's note</a><br />
-<a href="https://kotalab.com/the-art-of-non‐conformity" target="_blank">人生で本当に望むものを明確にする3つの方法。「常識からはみ出す生き方」 | kotala's note</a><br />
-<a href="https://kotalab.com/device-not-to-forget" target="_blank">今の思いを忘れない為のたったひとつの工夫！ | kotala's note</a></p>
+<p><a href="/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ | kotala's note</a><br />
+<a href="/dont-giveup-think" target="_blank">習慣が続かない理由は続く理由に変えられる！諦める前に考えてみよう！ | kotala's note</a><br />
+<a href="/dr-kouza" target="_blank">大雪の日に夢見るリアリスト講座に参加して得たことは「モチベーションは自分の中に持つ」ということ！ #DR講座 | kotala's note</a><br />
+<a href="/the-art-of-non‐conformity" target="_blank">人生で本当に望むものを明確にする3つの方法。「常識からはみ出す生き方」 | kotala's note</a><br />
+<a href="/device-not-to-forget" target="_blank">今の思いを忘れない為のたったひとつの工夫！ | kotala's note</a></p>

@@ -23,7 +23,7 @@ tags:
 - ライフプランニング
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/kakei_130716-448x336.jpg" alt="kakei_130716" width="448" height="336" class="alignnone size-large wp-image-7870" /><br />
+<p><img src="/wp-content/uploads/kakei_130716-448x336.jpg" alt="kakei_130716" width="448" height="336" class="alignnone size-large wp-image-7870" /><br />
 新米ファイナンシャルプランナー。こたら（@kotala_b）です。<br />
 「あんなことをやりたいこんなこともやりたい。でもお金が足りない。」なんてことありませんか？<br />
 そんな時は普段の生活費やなんとなく使っているお金など、家計の見直しが必要になります。<br />

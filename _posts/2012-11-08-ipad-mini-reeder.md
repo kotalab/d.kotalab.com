@@ -23,7 +23,7 @@ tags:
 - Reeder
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/reeder_121108.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/reeder_121108.png" alt="" title="reeder_121108" width="448" height="448" class="alignnone size-full wp-image-4041" /></a><br />
+<p><a href="/wp-content/uploads/reeder_121108.png" target="_blank"><img src="/wp-content/uploads/reeder_121108.png" alt="" title="reeder_121108" width="448" height="448" class="alignnone size-full wp-image-4041" /></a><br />
 RSS購読にはiPadminiが欠かせません。@kotala_bです。<br />
 今まではiPhone5で読んでいたRSSですが、iPadminiを買ってからはiPadminiを使うようになりました。<br />
 iPhone5では「<span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder%252Fid325502379%253Fmt%253D8%2526uo%253D4">Reeder</span>」、iPadminiでは「<span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder-for-ipad%252Fid375661689%253Fmt%253D8%2526uo%253D4">Reeder for iPad</span>」を使っています。</p>
@@ -51,34 +51,34 @@ iPhone5では「<span class="removed_link" title="click.linksynergy.com/fs-bin/c
 <h2>ReederのiPhone版とiPad版の違い</h2>
 <p>まず一覧画面での表示数が違います。<br />
 ▼iPadmini<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121108001649.jpg" width="448" height="586" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121108001649.jpg" width="448" height="586" /><br />
 ▼iPhone5<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121108001644.jpg" width="300" height="500" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121108001644.jpg" width="300" height="500" /><br />
 iPhone5が5なのに対してiPadminiは7つの記事が表示されています。<br />
 画面が縦に伸びたiPhone5といえど、iPadminiの画面サイズにはかないません。<br />
 次は記事本文の見え方を比べてみます。<br />
 ▼iPadmini<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121108001647.jpg" width="448" height="586" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121108001647.jpg" width="448" height="586" /><br />
 ▼iPhone5<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121108001642.jpg" width="300" height="500" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121108001642.jpg" width="300" height="500" /><br />
 iPadminiでは冒頭の全文が表示されるのに対して、iPhone5では見える文章が半分以下になっているので全文読むにはスライドして読む必要があります。<br />
 ▼またiPadminiでは横に持って表示させることで、一覧画面と個別記事という見え方になり一覧性が上がります。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121108001645.jpg" width="448" height="327" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121108001645.jpg" width="448" height="327" /><br />
 そしてブラウザで表示させたときも表示が大きく異なります。<br />
 ▼iPadmini<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121108001646.jpg" width="448" height="586" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121108001646.jpg" width="448" height="586" /><br />
 ▼iPhone5<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121108001641.jpg" width="300" height="500" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121108001641.jpg" width="300" height="500" /><br />
 iPadminiでは通常のページが見れるのに対して、iPhone5ではモバイル用の画面に切り替わります。<br />
 iPhone5の画面で見た方が文字が見やすく、iPadminiの画面で通常のwebページをそのまま見ると若干読みづらいページもあるのが事実です。<br />
 ▼ですが実際には自分で見やすい大きさに変えられて、このように快適に見ることが出来るので全く問題がありません。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121108002950.jpg" width="448" height="586" /></p>
+<img alt="" src="/wp-content/uploads/slooProImg_20121108002950.jpg" width="448" height="586" /></p>
 <h2>片手でも操作しやすい</h2>
 <p>ボタンが画面の端にあるので画面が大きいことでボタンを押すのに指を伸ばすのが大変なことがあります。<br />
 しかし<span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Freeder-for-ipad%252Fid375661689%253Fmt%253D8%2526uo%253D4">Reeder for iPad</span>には片手でも便利に使える機能があります。<br />
 個別記事を表示させていると一覧画面へ戻るボタンは左上の方にあるので押しにくいのですが、スワイプすることで記事一覧へ戻ることが出来ます。<br />
 また個別記事のまま上下へスワイプさせることで、前後の記事へと移動出来ます。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121108010415.jpg" width="448" height="586" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121108010415.jpg" width="448" height="586" /><br />
 このおかげで片手だけでも十分操作が可能です！</p>
 <h2>最後に</h2>
 <p>画面が大きいことで文章を読見やすいという利点があります。<br />

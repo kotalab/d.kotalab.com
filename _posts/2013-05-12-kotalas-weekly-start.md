@@ -27,7 +27,7 @@ tags:
 - ランニング
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/slooProImg_20130509203804.jpg" alt="slooProImg_20130509203804.jpg" width="448" height="448" class="alignnone size-full wp-image-7073" /><br />
+<p><img src="/wp-content/uploads/slooProImg_20130509203804.jpg" alt="slooProImg_20130509203804.jpg" width="448" height="448" class="alignnone size-full wp-image-7073" /><br />
 週記をスタートします。こたら（@kotala_b）です。<br />
 先週までは『今週の「食べたい！」写真』というエントリーを毎週日曜日に書いていました。<br />
 miilへの投稿を振り返るモノだったんですが、もっと色々な出来事を書きたいと思うようになり、今回からは週次レビューを兼ねるつもりで「kotala's weekly」をスタートすることにしました。<br />
@@ -45,15 +45,15 @@ miilへの投稿を振り返るモノだったんですが、もっと色々な�
 <h2>オリジナルシューズを作った！</h2>
 <p>以前から作りたいと思っていたNIKEiDでオリジナルシューズを注文しました。<br />
 個別にエントリーも書きました。<br />
-<a href="https://kotalab.com/nike-id-my-shoes" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nike_130511-448x336.jpg" alt="NIKEiDで自分だけのオリジナルシューズを作った話 | kotala's note" width="150" /></a><a href="https://kotalab.com/nike-id-my-shoes" target="_blank">NIKEiDで自分だけのオリジナルシューズを作った話 | kotala's note</a><br style="clear:both;" />今から届くのが本当に楽しみです！</p>
+<a href="/nike-id-my-shoes" target="_blank"><img  class="alignleft" src="/wp-content/uploads/nike_130511-448x336.jpg" alt="NIKEiDで自分だけのオリジナルシューズを作った話 | kotala's note" width="150" /></a><a href="/nike-id-my-shoes" target="_blank">NIKEiDで自分だけのオリジナルシューズを作った話 | kotala's note</a><br style="clear:both;" />今から届くのが本当に楽しみです！</p>
 <h2>Pohoto</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/slooProImg_20130509203804.jpg" alt="slooProImg_20130509203804.jpg" width="448" height="448" class="alignnone size-full wp-image-7073" /><br />
+<p><img src="/wp-content/uploads/slooProImg_20130509203804.jpg" alt="slooProImg_20130509203804.jpg" width="448" height="448" class="alignnone size-full wp-image-7073" /><br />
 アイキャッチにも使用しているこの写真は、初めてのランニング中にiPhone5で撮った1枚です。<br />
 近所にある都立桜ヶ丘公園で撮りました。<br />
 あることは知っていたんですが、行ったのは初めて。<br />
 意外と広いようなので、今度ゆっくり散歩してみようと思ってます。<br />
 ▼miilに投稿した中で一番食べたいが多かった写真<br />
-<img src="https://kotalab.com/wp-content/uploads/weekly_130512_01.jpg" alt="weekly_130512_01" width="448" height="448" class="alignnone size-full wp-image-7113" /><br />
+<img src="/wp-content/uploads/weekly_130512_01.jpg" alt="weekly_130512_01" width="448" height="448" class="alignnone size-full wp-image-7113" /><br />
 サーモンとほうれん草のパスタ。</p>
 <h2>今やりたいこと</h2>
 <p>今考えてるのはサーバー移転、ブログデザインの変更、アイコンの変更。<br />

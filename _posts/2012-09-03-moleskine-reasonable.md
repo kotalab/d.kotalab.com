@@ -21,9 +21,9 @@ tags:
 - モレスキン
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/moleskine_120903.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/moleskine_120903.jpg" alt="" title="moleskine_120903" width="448" height="336" class="alignnone size-full wp-image-2473" /></a><br />
+<p><a href="/wp-content/uploads/moleskine_120903.jpg" target="_blank"><img src="/wp-content/uploads/moleskine_120903.jpg" alt="" title="moleskine_120903" width="448" height="336" class="alignnone size-full wp-image-2473" /></a><br />
 amazonで売ってる洋書版のモレスキンが安いことに気づきました。@kotala_bです。<br />
-<a href="https://kotalab.com/digital-analog-note" title="最近見えてきた！アナログノートとデジタルノートの使い分け" target="_blank">ひとつ前の記事</a>を書いてる最中にモレスキンのamazonリンクを作る時に見つけました！<br />
+<a href="/digital-analog-note" title="最近見えてきた！アナログノートとデジタルノートの使い分け" target="_blank">ひとつ前の記事</a>を書いてる最中にモレスキンのamazonリンクを作る時に見つけました！<br />
 </p>
 <!--more-->
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
@@ -55,7 +55,7 @@ amazonで売ってる洋書版のモレスキンが安いことに気づきま�
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2>amazonの洋書版モレスキンが安い！</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/moleskine_120903_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/moleskine_120903_01.jpg" alt="" title="moleskine_120903_01" width="448" height="336" class="alignnone size-full wp-image-2471" /></a><br />
+<p><a href="/wp-content/uploads/moleskine_120903_01.jpg" target="_blank"><img src="/wp-content/uploads/moleskine_120903_01.jpg" alt="" title="moleskine_120903_01" width="448" height="336" class="alignnone size-full wp-image-2471" /></a><br />
 画像をクリックして拡大して頂くとわかりますが、<strong>モレスキンが900円</strong>で売っています。<br />
 日本で一般的に売られているモレスキンは1890円なのでその約半額！<br />
 これは安い！普通に<strong>1冊買う値段でamazonなら2冊</strong>買えます！</p>

@@ -21,7 +21,7 @@ tags:
 - 自分らしさ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/c-d-notebook_20141117_03-780x585.jpg" alt="c-d-notebook_20141117_03" width="780" height="585" class="aligncenter size-large wp-image-13599" /><br />
+<p><img src="/wp-content/uploads/c-d-notebook_20141117_03-780x585.jpg" alt="c-d-notebook_20141117_03" width="780" height="585" class="aligncenter size-large wp-image-13599" /><br />
 <span class="b">「知ってる」と「やってる」は違う</span><br />
 って本とかによく書いてあるけど、ほんとその通りだと思う。</p>
 <p>本を読んで情報を仕入れても知ったつもりになってるだけのことがすごく多い。<br />
@@ -41,7 +41,7 @@ comments: []
 <p><strong>でも「やってる」だけじゃまだまだ足りなくて、自分の身になってるっていう実感があんまりない。</strong></p>
 <p>「あれ？これってもしかして、もっと先がある？」ってことに気づいた。</p>
 <h2>「やってる」の先にあるもの</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/c-d-notebook_20141117_04-780x585.jpg" alt="c-d-notebook_20141117_04" width="780" height="585" class="aligncenter size-large wp-image-13597" /><br />
+<p><img src="/wp-content/uploads/c-d-notebook_20141117_04-780x585.jpg" alt="c-d-notebook_20141117_04" width="780" height="585" class="aligncenter size-large wp-image-13597" /><br />
 それは本に書いてあったことを自分に合うように、自分らしさをプラスしてやること。</p>
 <p>そして実際にやってみて自分なりに気づいたことを付け足して、「人に教える」こと。<br />
 人に教えることってやってみるとすごく大変だけど、自分の言葉として発することで理解がすごく深まるのを感じる。</p>

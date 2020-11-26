@@ -36,10 +36,10 @@ comments:
   date_gmt: '2014-11-09 06:38:25 +0900'
   content: "[&#8230;] 引用元 : AppleStore銀座でアプリ道場のイベントにアプリ開発者として参加してきたよ！ #アプリ道場演武会  [&#8230;]"
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20141025132813.jpg" width="720" height="479" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20141025132813.jpg" width="720" height="479" class="slooProImg" /><br />
 10月18日、AppleStore銀座のシアタールームで行われたアプリ道場のイベントにアプリ開発者として参加してきました！</p>
 <p>アプリ道場というのは2011年から<a href="https://freedom-univ.com/lecture/app_developmen.html" target="_blank">自由大学で行われているiOSを作るための講座</a>で、これまでに200人以上の人が受講した講座です。<br />
-僕も今年の<a href="https://kotalab.com/category/ios-developer/app-dojo" target="_blank">4月から5月にかけて開催された第19期</a>に通いました。</p>
+僕も今年の<a href="/category/ios-developer/app-dojo" target="_blank">4月から5月にかけて開催された第19期</a>に通いました。</p>
 <p>追記：<br />
 2016年からは自由大学での講座はなくなったそうです。<br />
 アプリ道場自体はまだまだ続けていくそうなので、興味ある方はこちらからどうぞ！<br />
@@ -49,12 +49,12 @@ comments:
 </p>
 <!--more-->
 <h2>イベント会場はあのスティーブ・ジョブズも立った場所</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20141025132812.jpg" width="720" height="479" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20141025132812.jpg" width="720" height="479" class="slooProImg" /><br />
 今回のイベント会場となったのはAppleStore銀座の3階シアターです！<br />
 なんとここは過去にあのスティーブ・ジョブズが登壇をした場所です。<br />
 まさか自分がそんな場所に立って発表する日が来るとは。</p>
 <h2>アプリ道場卒業生たちみんなのおもい</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20141025132811.jpg" width="720" height="540" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20141025132811.jpg" width="720" height="540" class="slooProImg" /><br />
 67歳にしてまだまだやりたいことがいっぱいあるという人。<br />
 アプリ開発が好きで好きでアプリ開発を仕事に変えた人。<br />
 過去の苦い体験をアプリ開発に活かす人。<br />
@@ -70,7 +70,7 @@ comments:
 <p>発表者長尾さんのレポート<br />
 <a href="http://between-a-point-and-point.blogspot.jp/2014/10/blog-post.html?m=1" target="_blank">点と点の間: 「アプリケーションクリエイター道場　演武会」に参加してきた(発表者側で)ー前編ー</a><a href="https://b.hatena.ne.jp/entry/http://between-a-point-and-point.blogspot.jp/2014/10/blog-post.html?m=1" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://between-a-point-and-point.blogspot.jp/2014/10/blog-post.html?m=1" alt="" /></a></p>
 <h3>アプリ道場イベントを振り返ってみて</h3>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20141025132810.jpg" width="720" height="479" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20141025132810.jpg" width="720" height="479" class="slooProImg" /><br />
 とにかく楽しくてすごくあっという間の1日でした。</p>
 <p>もう1回やりたい！<br />
 できることならまたもう一度あそこで！</p>

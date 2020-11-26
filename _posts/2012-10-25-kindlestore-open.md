@@ -21,7 +21,7 @@ tags:
 - kindle
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/kindleapp_121025.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/kindleapp_121025.png" alt="" title="kindleapp_121025" width="448" height="448" class="alignnone size-full wp-image-3690" /></a><br />
+<p><a href="/wp-content/uploads/kindleapp_121025.png" target="_blank"><img src="/wp-content/uploads/kindleapp_121025.png" alt="" title="kindleapp_121025" width="448" height="448" class="alignnone size-full wp-image-3690" /></a><br />
 Kindleストアで早速本を買ってみようと思います。@kotala_bです。<br />
 僕はAmazonの欲しい物リストに読みたい本を入れて管理しています。<br />
 Kindleストアがオープンしたので欲しいものリストから本を選んでみました！<br />
@@ -38,7 +38,7 @@ Kindle版ページでは書籍版との価格の違い一目で分かるよう�
 <h2>無料サンプルをKindleアプリで開く！</h2>
 <p>ダウンロードしたサンプルをKindleアプリで開いてみます！<br />
 ▼灰色で表示されてすぐに消えてしまいます。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121025141753.jpg" width="300" height="512" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121025141753.jpg" width="300" height="512" /><br />
 読めない！<br />
 まだ初日ということで不具合もあるんでしょう。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
@@ -57,13 +57,13 @@ Kindle版ページでは書籍版との価格の違い一目で分かるよう�
 <h2>ONEPIECEでも試してみた！</h2>
 <p>他の本ではどうかと思い、マンガのONEPIECEでサンプルを試してみました！<br />
 ▼レバレッジリーディングと同じように灰色で表示されます。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121025141747.jpg" width="300" height="512" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121025141747.jpg" width="300" height="512" /><br />
 ▼少し待つと今度はカラーに！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121025141752.jpg" width="300" height="512" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121025141752.jpg" width="300" height="512" /><br />
 ▼カラーの表紙をタップすると使い方の表示が！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121025141751.jpg" width="300" height="532" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121025141751.jpg" width="300" height="532" /><br />
 ▼読めた！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121025141749.jpg" width="300" height="532" /></p>
+<img alt="" src="/wp-content/uploads/slooProImg_20121025141749.jpg" width="300" height="532" /></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/kindle/id302584613?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a65.phobos.apple.com/us/r30/Purple/v4/4a/36/b6/4a36b6f3-05dd-f098-93fc-7c08bc8303fd/mzl.zzhztkih.png" width="80" /></a></div>
 <div class="applinktext">

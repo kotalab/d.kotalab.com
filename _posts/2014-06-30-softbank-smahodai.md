@@ -23,7 +23,7 @@ tags:
 - スマホ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/softbank-smahodai_140626_01.png" alt="Softbank smahodai 140626 01" title="softbank-smahodai_140626_01.png" border="0" width="548" height="296" /><br />
+<p><img src="/wp-content/uploads/softbank-smahodai_140626_01.png" alt="Softbank smahodai 140626 01" title="softbank-smahodai_140626_01.png" border="0" width="548" height="296" /><br />
 家族2人でSoftBankのiPhoneを使っています。<br />
 そんな僕達がSoftBankの新料金プラン「スマ放題」に切替えると料金的にお得なのか試算してみました！<br />
 </p>

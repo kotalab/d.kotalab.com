@@ -22,14 +22,14 @@ tags:
 - Xcode
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/app-creator-3day_140514_01.jpg" alt="App creator 3day 140514 01" title="app-creator-3day_140514_01.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/app-creator-3day_140514_01.jpg" alt="App creator 3day 140514 01" title="app-creator-3day_140514_01.jpg" border="0" width="548" height="365" /><br />
 4月20日から通ってる「アプリクリエイター道場 開発塾」も最終日になりました。</p>
 <p>アプリ道場最終日は「アイコン等のアプリ内で使う画像の解説」、「宿題発表」、「グループワーク」、「ゆこびん先生のデザイン講義」、「これからの進め方」という内容でした。</p>
 <p>講義の詳しい内容はほどほどに、3日間計15時間の講義を受けてみてどうだったかを書いてみたいと思います。<br />
 </p>
 <!--more-->
 <h2>アプリ道場のよかったところ</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/app-creator-3day_140514_03.jpg" alt="App creator 3day 140514 03" title="app-creator-3day_140514_03.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/app-creator-3day_140514_03.jpg" alt="App creator 3day 140514 03" title="app-creator-3day_140514_03.jpg" border="0" width="548" height="365" /><br />
 講師のあきおさんはすごく効率を考えている方のようで、講義の内容にもあらわれています。</p>
 <h3>講義よりも充実する実習時間</h3>
 <p>プログラミングというのは講義を聞いても実際に動かしてみないとなかなか覚えられないものです。<br><br />
@@ -47,7 +47,7 @@ comments: []
 <p>それと、最終日にはみんなで打ち上げしておいしいお酒と料理を堪能できました！<br />
 <strong>これも独学にはない良さ！</strong></p>
 <h2>アプリ道場を受ける最重要ポイント</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/app-creator-3day_140514_02.jpg" alt="App creator 3day 140514 02" title="app-creator-3day_140514_02.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/app-creator-3day_140514_02.jpg" alt="App creator 3day 140514 02" title="app-creator-3day_140514_02.jpg" border="0" width="548" height="365" /><br />
 僕がアプリ道場で一番濃い時間が過ごせるなと思ったのは、宿題発表の時です。<br><br />
 そして、アプリ道場をこれから<strong>受講したいって人にオススメしておきたいのが宿題への取り組み方</strong>です！</p>
 <p>宿題は1日目、2日目と毎回出るのですが必ず終わらせていく必要はありません。<br />
@@ -69,7 +69,7 @@ comments: []
 12人で受付を締め切り、8人以上だとアシスタントが増えるそうなので心配もいりませんね！</span></p>
 <p>フォロー体制がやっぱりしっかりしてるので、受けてよかったです！</p>
 <h2>アプリ道場を受講してみて</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/app-creator-3day_140514_04.jpg" alt="App creator 3day 140514 04" title="app-creator-3day_140514_04.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/app-creator-3day_140514_04.jpg" alt="App creator 3day 140514 04" title="app-creator-3day_140514_04.jpg" border="0" width="548" height="365" /><br />
 3日間で5講義、計15時間という内容で、最初はどこまでできるようになるのか不安な部分もありました。</p>
 <p>でも今は「こんなにできるようになってる！」という実感がすごくあります！</p>
 <p>それもこれも一緒に受講してきた同期の皆さんと、講師のあきおさん、キュレーターの田中さんのおかげです！</p>

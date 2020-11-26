@@ -21,7 +21,7 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/macbookair_120917.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/macbookair_120917.jpg" alt="" title="macbookair_120917" width="448" height="299" class="alignnone size-full wp-image-2790" /></a><br />
+<p><a href="/wp-content/uploads/macbookair_120917.jpg" target="_blank"><img src="/wp-content/uploads/macbookair_120917.jpg" alt="" title="macbookair_120917" width="448" height="299" class="alignnone size-full wp-image-2790" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/67088558@N05/6339421190/" target="_blank">Sunrise, reflected in the West</a> / Calm Vistas</span><br />
 4年半程前に買ったデスクトップPCを使ってます。@kotala_bです。<br />
 突然電源がつかなくなったりグラボが壊れたりと色々なことがありながらも、4年以上使ってきました。<br />
@@ -36,9 +36,9 @@ comments: []
 慣れ親しんだwindowsに別れを告げMacBookAirを買うことに決めました。</p>
 <h2>配達が早い！</h2>
 <p>昨日の午前中に注文し、送られてきたメールの配送状況を見たところ今日届く予定に！<br />
-<a href="https://kotalab.com/wp-content/uploads/macbookair_120917_01.jpg"><img src="https://kotalab.com/wp-content/uploads/macbookair_120917_01.jpg" alt="" title="macbookair_120917_01" width="448" height="336" class="alignnone size-full wp-image-2793" /></a><br />
+<a href="/wp-content/uploads/macbookair_120917_01.jpg"><img src="/wp-content/uploads/macbookair_120917_01.jpg" alt="" title="macbookair_120917_01" width="448" height="336" class="alignnone size-full wp-image-2793" /></a><br />
 この早さには驚きです！</p>
 <h2>まとめ</h2>
 <p>注文から配達までの流れの速さに驚きました！<br />
 新しいモノが届くまでのこのワクワク感はたまりません。<br />
-週末にはiPhone5が手に入る予定なので早めにMacBookAirに慣れ、<a href="https://kotalab.com/from-iphone-to-iphone" title="iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！" target="_blank">iPhoneのデータの移行</a>をスムーズに済ませたいと思います。</p>
+週末にはiPhone5が手に入る予定なので早めにMacBookAirに慣れ、<a href="/from-iphone-to-iphone" title="iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！" target="_blank">iPhoneのデータの移行</a>をスムーズに済ませたいと思います。</p>

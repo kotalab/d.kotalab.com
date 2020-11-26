@@ -22,7 +22,7 @@ tags:
 - 衣替え
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/koromogae_121006.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/koromogae_121006.jpg" alt="" title="koromogae_121006" width="448" height="300" class="alignnone size-full wp-image-3200" /></a><br />
+<p><a href="/wp-content/uploads/koromogae_121006.jpg" target="_blank"><img src="/wp-content/uploads/koromogae_121006.jpg" alt="" title="koromogae_121006" width="448" height="300" class="alignnone size-full wp-image-3200" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/perry-moore-photography/3586146431/" target="_blank">clothes</a> / Thing Three</span><br />
 9月はほとんど半袖で過ごしました。@kotala_bです。<br />
 10月に入ってからようやく涼しくなり、過ごしやすくなってきました。<br />
@@ -54,10 +54,10 @@ comments: []
 </div>
 <h2>3つに分ける</h2>
 <p>まずはタンスから全部出してきます。<br />
-<a href="https://kotalab.com/wp-content/uploads/koromogae_121006_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/koromogae_121006_01.png" alt="" title="koromogae_121006_01" width="448" height="336" class="alignnone size-full wp-image-3197" /></a><br />
+<a href="/wp-content/uploads/koromogae_121006_01.png" target="_blank"><img src="/wp-content/uploads/koromogae_121006_01.png" alt="" title="koromogae_121006_01" width="448" height="336" class="alignnone size-full wp-image-3197" /></a><br />
 この洋服を3つに仕分けです。<br />
 よく着た洋服、たまに着た洋服、全く着なかった洋服の3つに分けていきます。<br />
-<a href="https://kotalab.com/wp-content/uploads/koromogae_121006_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/koromogae_121006_02.png" alt="" title="koromogae_121006_02" width="448" height="336" class="alignnone size-full wp-image-3198" /></a><br />
+<a href="/wp-content/uploads/koromogae_121006_02.png" target="_blank"><img src="/wp-content/uploads/koromogae_121006_02.png" alt="" title="koromogae_121006_02" width="448" height="336" class="alignnone size-full wp-image-3198" /></a><br />
 この中で<strong>断捨離</strong>の候補にあがるのは全く着なかった洋服とよく着た洋服になります。<br />
 全く着なかった洋服は問答無用で今年限りで僕の部屋を出て行きます。<br />
 何故？と思うかも知れませんがよく着た洋服も断捨離の候補になります。<br />

@@ -21,10 +21,10 @@ tags:
 - iPadmini
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/slooProImg_20121102132952.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20121102132952.jpg" alt="" title="slooProImg_20121102132952.jpg" width="448" height="598" class="alignnone size-full wp-image-3904" /></a><br />
+<p><a href="/wp-content/uploads/slooProImg_20121102132952.jpg" target="_blank"><img src="/wp-content/uploads/slooProImg_20121102132952.jpg" alt="" title="slooProImg_20121102132952.jpg" width="448" height="598" class="alignnone size-full wp-image-3904" /></a><br />
 発売日にiPadminiを思わぬカタチで買うことが出来ました。@kotala_bです。<br />
 AppleOnlineStoreだと予約開始から早い段階で初回出荷分がなくなっていたようなので、まさか店頭で買えるとは思いませんでした。<br />
-昨日は<a href="https://kotalab.com/ipad-mini-machida-ydobashi" title="iPadmini購入！ヨドバシ町田に行ったら当日分があった！" target="_blank">iPadminiを買ってから</a>仕事に行ったわけですが、その帰りに電車の中でiPadminiを使ってみました。<br />
+昨日は<a href="/ipad-mini-machida-ydobashi" title="iPadmini購入！ヨドバシ町田に行ったら当日分があった！" target="_blank">iPadminiを買ってから</a>仕事に行ったわけですが、その帰りに電車の中でiPadminiを使ってみました。<br />
 </p>
 <!--more-->
 <h2>iPadminiを電車の中で使ってみた</h2>
@@ -33,13 +33,13 @@ AppleOnlineStoreだと予約開始から早い段階で初回出荷分がなく�
 使った状況はいわゆる通勤電車という感じではなく、座席は満席だけど立っている人はまばらな状態の電車内です。<br />
 まずサイズなんですがビジネス書のサイズとほぼ同じ大きさなので、ビジネス書を開いて読めるような状況なら確実にiPadminiが使えます。<br />
 ▼上にビジネス書を置いてみた<br />
-<a href="https://kotalab.com/wp-content/uploads/ipadmini_121103_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121103_01.jpg" alt="" title="ipadmini_121103_01" width="448" height="336" class="alignnone size-full wp-image-3931" /></a><br />
+<a href="/wp-content/uploads/ipadmini_121103_01.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini_121103_01.jpg" alt="" title="ipadmini_121103_01" width="448" height="336" class="alignnone size-full wp-image-3931" /></a><br />
 ほぼ同じサイズなので下にiPadminiを置くとほぼ隠れました。<br />
 ▼横から見るとこんな感じ<br />
-<a href="https://kotalab.com/wp-content/uploads/ipadmini_121103_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121103_02.jpg" alt="" title="ipadmini_121103_02" width="448" height="336" class="alignnone size-full wp-image-3932" /></a><br />
+<a href="/wp-content/uploads/ipadmini_121103_02.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini_121103_02.jpg" alt="" title="ipadmini_121103_02" width="448" height="336" class="alignnone size-full wp-image-3932" /></a><br />
 ほんの少しだけiPadminiの方が大きいです。<br />
 重さに関してもこうやって片手で10分以上持っていても、重いのが気になるようなことはありませんでした。<br />
-<a href="https://kotalab.com/wp-content/uploads/ipadmini_121103_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121103_03.jpg" alt="" title="ipadmini_121103_03" width="448" height="598" class="alignnone size-full wp-image-3933" /></a></p>
+<a href="/wp-content/uploads/ipadmini_121103_03.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini_121103_03.jpg" alt="" title="ipadmini_121103_03" width="448" height="598" class="alignnone size-full wp-image-3933" /></a></p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41Uk63c9VWL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
@@ -85,7 +85,7 @@ Retinaディスプレイかどうかは僕の使用用途では今のところ�
 それが片手で持ち運べるiPadminiなら、カバンにしまわずに移動出来るのでこのサイズで良かったと改めて思いました。<br />
 もう一つ思わぬ収穫がありました！<br />
 アウターの胸ポケットに収まるちょうどいいサイズでした！<br />
-<a href="https://kotalab.com/wp-content/uploads/ipadmini_121103_04.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121103_04.png" alt="" title="ipadmini_121103_04" width="448" height="336" class="alignnone size-full wp-image-3934" /></a></p>
+<a href="/wp-content/uploads/ipadmini_121103_04.png" target="_blank"><img src="/wp-content/uploads/ipadmini_121103_04.png" alt="" title="ipadmini_121103_04" width="448" height="336" class="alignnone size-full wp-image-3934" /></a></p>
 <h2>iPhone5がいつもより小さく感じた</h2>
 <p>iPadminiからiPhone5に持ち替えたときにiPhone5の小ささに驚きました。<br />
 iPhoneが急に小さく感じたのです。<br />
@@ -94,7 +94,7 @@ iPhoneが急に小さく感じたのです。<br />
 <p>iPadminiをまだ2時間くらいしか使っていませんがその使い心地にはとても満足しています。<br />
 iPadminiを実際に使ってみたら、タブレット端末としてというよりもiPhoneが見やすい画面サイズになってより便利に使えるようになったという印象がとても強いです。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/ipadmini-10days" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini10days_20121114.jpg" alt="iPadmini購入から10日間。使ってみてよかった部分悪かった部分 | kotala's note" width="150" /></a><a href="https://kotalab.com/ipadmini-10days" target="_blank">iPadmini購入から10日間。使ってみてよかった部分悪かった部分 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/ipadmini-datatraffic" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadminiwifi_121202-448x336.jpg" alt="iPadminiを1ヶ月使ってみて、iPhone5と合わせてどれくらいの通信量かざっくり調べてみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipadmini-datatraffic" target="_blank">iPadminiを1ヶ月使ってみて、iPhone5と合わせてどれくらいの通信量かざっくり調べてみた！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/ipad-mini-before-after" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-before-after" target="_blank">iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/ipad-app30" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/ipadmini-10days" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini10days_20121114.jpg" alt="iPadmini購入から10日間。使ってみてよかった部分悪かった部分 | kotala's note" width="150" /></a><a href="/ipadmini-10days" target="_blank">iPadmini購入から10日間。使ってみてよかった部分悪かった部分 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/ipadmini-datatraffic" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadminiwifi_121202-448x336.jpg" alt="iPadminiを1ヶ月使ってみて、iPhone5と合わせてどれくらいの通信量かざっくり調べてみた！ | kotala's note" width="150" /></a><a href="/ipadmini-datatraffic" target="_blank">iPadminiを1ヶ月使ってみて、iPhone5と合わせてどれくらいの通信量かざっくり調べてみた！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/ipad-mini-before-after" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note" width="150" /></a><a href="/ipad-mini-before-after" target="_blank">iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note</a><br style="clear:both;" /></p>

@@ -21,7 +21,7 @@ tags:
 - ロマンスカー
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/04/romancecar-good-experience_20150429_01.jpg" alt="Romancecar good experience 20150429 01" width="546" height ="364" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/04/romancecar-good-experience_20150429_01.jpg" alt="Romancecar good experience 20150429 01" width="546" height ="364" class="aligncenter size-large" /></p>
 <p>町田から新宿までロマンスカーで約30分、急行だとしても40分はかからない。</p>
 <p>たった10分しか変わらないのだけど、ロマンスカーに乗るには特急券が必要で、町田新宿間は410円。<br />
 特急に乗らずに急行だと切符代は370円。<br />
@@ -31,7 +31,7 @@ comments: []
 <p>今日はいつもよりちょっと贅沢をして、ロマンスカーで町田から新宿まで行ってみることにした。</p>
 <!--more-->
 <h2>快適なロマンスカー</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/04/romancecar-good-experience_20150429_02.jpg" alt="Romancecar good experience 20150429 02" width="546" height ="364" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/04/romancecar-good-experience_20150429_02.jpg" alt="Romancecar good experience 20150429 02" width="546" height ="364" class="aligncenter size-large" /></p>
 <p>ロマンスカーに乗ると全席指定席なので、必ず座れるというメリットがある。<br />
 乗ってみて気づいたのだけど、ただ座れるだけじゃなくて「自分のスペース」が与えられるのだ。</p>
 <p>窓側専用のサイドデーブルは少し小さいけど、ないよりは全然いい。<br />
@@ -43,14 +43,14 @@ comments: []
 <p>今回ロマンスカーに乗るまでは「町田から新宿までロマンスカー使うなんてどんなこと考えてるんだ？」なんて思ってたのに、<strong>実際に使ってみて自分の中にある考えは一変した。</strong><br />
 <span class="b">ロマンスカーはもっと使ったほうがいい。</span></p>
 <h2>通勤時間こそ使うべき</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/04/romancecar-good-experience_20150429_03.jpg" alt="Romancecar good experience 20150429 03" width="546" height ="364" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/04/romancecar-good-experience_20150429_03.jpg" alt="Romancecar good experience 20150429 03" width="546" height ="364" class="aligncenter size-large" /></p>
 <p>今回僕は、休日の昼間にあえてロマンスカーを使ってみたのだが、これもしかしたら通勤時間に使ったらすごくいいんじゃないかと思った。</p>
 <p>なんせ、あの通勤時間帯の小田急線ときたら半端ない。<br />
 調べてないので通勤時間帯に走るロマンスカーがどれくらいあるのかわからないが、もしあればまた是非使ってみたい。</p>
 <p><span class="b">他のサラリーマンたちはぎゅうぎゅう詰めの満員電車に乗る中、ロマンスカーではゆったりとした空間が得られる。</span></p>
 <p>通勤時間にこの快適な空間が手に入ることを考えたら、毎日は難しくても週に1回くらいはロマンスカーで出勤する日を作ってもいいかもしれないと思った。</p>
 <h2>やってみなきゃわからないことはたくさんある</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/04/romancecar-good-experience_20150429_04.jpg" alt="Romancecar good experience 20150429 04" width="546" height ="364" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/04/romancecar-good-experience_20150429_04.jpg" alt="Romancecar good experience 20150429 04" width="546" height ="364" class="aligncenter size-large" /></p>
 <p>なんとなく普段から気になっていた、町田からロマンスカーに乗る人たちのこと。<br />
 たった一駅で乗車時間もたいして変わらないのに、なんで乗るんだろうと。</p>
 <p>町田から新宿までのロマンスカーを体験した今、<br />

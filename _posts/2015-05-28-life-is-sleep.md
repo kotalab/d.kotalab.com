@@ -19,7 +19,7 @@ tags:
 - 睡眠時間
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/lets-try_140901.jpg" alt="lets-try_140901" width="780" class="aligncenter size-large wp-image-13393" /></p>
+<p><img src="/wp-content/uploads/lets-try_140901.jpg" alt="lets-try_140901" width="780" class="aligncenter size-large wp-image-13393" /></p>
 <p>仕事でミスをしたり、何か悪いことが立て続けに起こるとき。<br />
 寝不足気味の日が続いているときに限ってそういうことがよく起こるように感じる。</p>
 <p>そう感じるようになってからは、なるべく遅くまで起きていないようにしている。</p>

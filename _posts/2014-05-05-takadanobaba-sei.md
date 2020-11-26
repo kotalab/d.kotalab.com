@@ -21,19 +21,19 @@ tags:
 - ランチ
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140505104507.jpg" width="500" height="500" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140505104507.jpg" width="500" height="500" class="slooProImg" /><br />
 「NATURAL STYLE 清」は昼はヘルシーなランチ、夜は食材にこだわったおいしいコースが食べられるお店！</p>
 <p>そんな「NATURAL STYLE 清」にランチを食べに行ってきました！<br />
 </p>
 <!--more-->
 <h2>神田川沿いにあるお店「NATURAL STYLE 清」</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140505104513.jpg" width="548" height="366" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140505104513.jpg" width="548" height="366" class="slooProImg" /><br />
 赤い和傘が目印の「NATURAL STYLE 清」は、有機野菜や新鮮な魚などが食べられる、オシャレな和食のお店です。</p>
 <p>「NATURAL STYLE 清」のランチを食べに行ってきました！</p>
 <h2>「NATURAL STYLE 清」のランチ</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140505104511.jpg" width="548" height="366" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140505104511.jpg" width="548" height="366" class="slooProImg" /><br />
 この日の日替りメニューは「若鶏のオーブン焼き〜和風マスタードソース〜」</p>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140505104510.jpg" width="500" height="500" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140505104510.jpg" width="500" height="500" class="slooProImg" /><br />
 ランチメニューのご飯は白米か雑穀米を選べるので、雑穀米にしてみました！</p>
 <p>ランチタイムは白米と雑穀米のお代わりが自由となっていて、最初に雑穀米を選んで2杯目は白米ということもできます。</p>
 <p>また、席には生卵も置いてあるので卵かけご飯も食べられます！</p>

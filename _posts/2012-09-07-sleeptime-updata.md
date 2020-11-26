@@ -22,7 +22,7 @@ tags:
 - アップデート
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/sleeptime_120907.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120907.jpg" alt="" title="sleeptime_120907" width="448" height="448" class="alignnone size-full wp-image-2553" /></a><br />
+<p><a href="/wp-content/uploads/sleeptime_120907.jpg" target="_blank"><img src="/wp-content/uploads/sleeptime_120907.jpg" alt="" title="sleeptime_120907" width="448" height="448" class="alignnone size-full wp-image-2553" /></a><br />
 睡眠ログはライフログに欠かせないものになってきてます。@kotala_bです。<br />
 寝る前に起動して起きたら止めるだけなので簡単に習慣化が出来るのも続けられるコツです。<br />
 僕はSleepTimeというアプリを使って睡眠ログを取っていますが、そのSleepTimeがバージョン2.0にアップデートされたのでアップデート内容を紹介していきます。<br />
@@ -30,7 +30,7 @@ comments: []
 <!--more-->
 <h2>アップデート内容</h2>
 <p>一番最初に目についたのはアイコンの変更でした。<br />
-<a href="https://kotalab.com/wp-content/uploads/sleeptime_120907_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120907_01.jpg" alt="" title="sleeptime_120907_01" width="448" height="224" class="alignnone size-full wp-image-2562" /></a><br />
+<a href="/wp-content/uploads/sleeptime_120907_01.jpg" target="_blank"><img src="/wp-content/uploads/sleeptime_120907_01.jpg" alt="" title="sleeptime_120907_01" width="448" height="224" class="alignnone size-full wp-image-2562" /></a><br />
 SleepTime2.0のアップデート内容をAppStoreから抜粋。</p>
 <blockquote><p>- soundscapes/white noise, you asked for it and we added it :)<br />
 - backup/restore/sync of your sleep data<br />
@@ -45,23 +45,23 @@ email us for suggestions/comments/feedback. We love to hear from our users.</p><
 <h2>サウンドスケープとホワイトノイズ</h2>
 <p>サウンドスケープとホワイトノイズはおそらく眠るための心地よい音楽ということでしょう。<br />
 ▼Soundscapeという項目が追加されています。<br />
-<a href="https://kotalab.com/wp-content/uploads/sleeptime_120907_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120907_02.png" alt="" title="sleeptime_120907_02" width="300" height="450" class="alignnone size-full wp-image-2563" /></a><br />
+<a href="/wp-content/uploads/sleeptime_120907_02.png" target="_blank"><img src="/wp-content/uploads/sleeptime_120907_02.png" alt="" title="sleeptime_120907_02" width="300" height="450" class="alignnone size-full wp-image-2563" /></a><br />
 Startを押した時に流れる音楽をこの中の4種類、もしくはiPhoneに入っている音楽の中から選ぶことが出来ます。<br />
 ▼音楽はStartの右にくっついた♪マークでon/offを切り替えることが出来ます。<br />
-<a href="https://kotalab.com/wp-content/uploads/sleeptime_120907_06.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120907_06.png" alt="" title="sleeptime_120907_06" width="300" height="450" class="alignnone size-full wp-image-2571" /></a><br />
+<a href="/wp-content/uploads/sleeptime_120907_06.png" target="_blank"><img src="/wp-content/uploads/sleeptime_120907_06.png" alt="" title="sleeptime_120907_06" width="300" height="450" class="alignnone size-full wp-image-2571" /></a><br />
 試しに流してみましたが、僕の場合慣れないせいもあるのか音楽が耳障りに感じ逆効果でした。</p>
 <h2>バックアップ機能</h2>
 <p>▼アカウント画面<br />
-<a href="https://kotalab.com/wp-content/uploads/sleeptime_120907_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120907_03.png" alt="" title="sleeptime_120907_03" width="300" height="450" class="alignnone size-full wp-image-2564" /></a><br />
+<a href="/wp-content/uploads/sleeptime_120907_03.png" target="_blank"><img src="/wp-content/uploads/sleeptime_120907_03.png" alt="" title="sleeptime_120907_03" width="300" height="450" class="alignnone size-full wp-image-2564" /></a><br />
 azumioのアカウントを取ることでバックアップ・復元・同期といった機能が使えるようです。<br />
 ▼azumioのアカウントはFacebookやTwitterのアカウントからも作ることが出来るようです。<br />
-<a href="https://kotalab.com/wp-content/uploads/sleeptime_120907_05.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120907_05.png" alt="" title="sleeptime_120907_05" width="300" height="450" class="alignnone size-full wp-image-2561" /></a><br />
+<a href="/wp-content/uploads/sleeptime_120907_05.png" target="_blank"><img src="/wp-content/uploads/sleeptime_120907_05.png" alt="" title="sleeptime_120907_05" width="300" height="450" class="alignnone size-full wp-image-2561" /></a><br />
 ▼Twitterの認証をしたんですがうまくいったのかわかりませんでした。<br />
-<a href="https://kotalab.com/wp-content/uploads/sleeptime_120907_04.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120907_04.png" alt="" title="sleeptime_120907_04" width="300" height="450" class="alignnone size-full wp-image-2567" /></a></p>
+<a href="/wp-content/uploads/sleeptime_120907_04.png" target="_blank"><img src="/wp-content/uploads/sleeptime_120907_04.png" alt="" title="sleeptime_120907_04" width="300" height="450" class="alignnone size-full wp-image-2567" /></a></p>
 <h2>グラフ表示</h2>
 <p>以前にはなかったグラフ表示です。<br />
 ▼1週間分の表示<br />
-<a href="https://kotalab.com/wp-content/uploads/sleeptime_120907_07.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/sleeptime_120907_07.png" alt="" title="sleeptime_120907_07" width="300" height="450" class="alignnone size-full wp-image-2570" /></a><br />
+<a href="/wp-content/uploads/sleeptime_120907_07.png" target="_blank"><img src="/wp-content/uploads/sleeptime_120907_07.png" alt="" title="sleeptime_120907_07" width="300" height="450" class="alignnone size-full wp-image-2570" /></a><br />
 BedTimeを選ぶと寝た時間から起きた時間までの眠りの質が色分けされて棒グラフとして表示されます。<br />
 Durationでは睡眠の合計時間。<br />
 Efficiencyでは眠り全体に対するLightSleepとDeepSleepの合計のパーセンテージが棒グラフとして表示されます。</p>

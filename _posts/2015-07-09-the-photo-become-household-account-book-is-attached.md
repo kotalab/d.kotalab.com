@@ -21,7 +21,7 @@ tags:
 - 家計簿
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/07/the-photo-become-household-account-book-is-attached_20150709.jpg" alt="The photo become household account book is attached 20150709" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/07/the-photo-become-household-account-book-is-attached_20150709.jpg" alt="The photo become household account book is attached 20150709" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>いつの間にかお金がなくってるなんてことはありえないのですが、お金に無頓着でいると<br />
 「給料日までまだ何日もあるのに財布に小銭しかない」<br />
 みたいなことがありえます。</p>
@@ -39,7 +39,7 @@ comments: []
 <p>なのでもっと簡単にできて毎日でも続けられることがいいです。</p>
 <p>「財布の中身を写真に撮る」というのならどうでしょう？</p>
 <h2>財布の中身を写真に撮ってみる</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/07/the-photo-become-household-account-book-is-attached_20150709.jpg" alt="The photo become household account book is attached 20150709" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/07/the-photo-become-household-account-book-is-attached_20150709.jpg" alt="The photo become household account book is attached 20150709" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>上の写真はたった今iPhoneで撮った、僕の財布の中身です。</p>
 <p>スマホで撮った写真には撮った日時が自動で入れられるようなアプリもあるので<br />
 「7月9日の7時35分に10,306円財布の中にあった」<br />
@@ -76,5 +76,5 @@ comments: []
 </div>
 <p>[dailynew]<br />
 ・Todoist</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

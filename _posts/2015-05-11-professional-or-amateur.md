@@ -22,7 +22,7 @@ tags:
 - 情報発信・ブランディング講座
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/professional-or-amateur_20150511_01.jpg" alt="Professional or amateur 20150511 01" width="780" height ="516" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/professional-or-amateur_20150511_01.jpg" alt="Professional or amateur 20150511 01" width="780" height ="516" class="aligncenter size-large" /></p>
 <p>プロとアマチュアの違い。<br />
 技術的な違いはもちろんあるし、他にもGoogleに聞けばたくさんの答えが返ってくる。</p>
 <p>仕事をしてお金を貰っていればそれだけでプロかというとそうじゃない。<br />
@@ -43,7 +43,7 @@ comments: []
 <p>お金を払ってスポーツ観戦に行ったのに、試合時間になっても選手が会場にまだいなかったとしたら、僕はもうその選手の試合を2度と見たいとは思わなくなる。</p>
 <p>プロになるというのはそういうことなのだろう。</p>
 <h2>さいごに</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/professional-or-amateur_20150511_02.jpg" alt="Professional or amateur 20150511 02" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/professional-or-amateur_20150511_02.jpg" alt="Professional or amateur 20150511 02" width="780" height ="585" class="aligncenter size-large" /></p>
 <p><span class="b">技術的な面も大切だけど、技術的な面だけじゃ本当のプロにはなれないのだと思います。</span></p>
 <p>サラリーマンから独立し、現在はプロとして活躍されている<a href="https://twitter.com/ttachi">立花岳志さん</a>と<a href="https://twitter.com/jmatsuzaki">松崎純一さん</a>から、上記のようなプロとしてのあり方を教えてもらう機会がありました。</p>
 <p>立花岳志さんが主催する「情報発信・ブランディング講座」では、お昼休みや懇親会を含め午前10時から午後8時まで熱くて濃い内容の、<strong>ブログを主軸にした活動に関するお話</strong>を聞くことができました。</p>

@@ -22,7 +22,7 @@ tags:
 - アップデート
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/ios6_120919.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ios6_120919.jpg" alt="" title="ios6_120919" width="448" height="280" class="alignnone size-full wp-image-2883" /></a><br />
+<p><a href="/wp-content/uploads/ios6_120919.jpg" target="_blank"><img src="/wp-content/uploads/ios6_120919.jpg" alt="" title="ios6_120919" width="448" height="280" class="alignnone size-full wp-image-2883" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/sachin_sandhu/3370137558/" target="_blank">I think...........................</a> / .sandhu</span><br />
 初めてのiOSアップデートになります。@kotala_bです。<br />
 9月19日にアップデート予定のiOS6公開があと僅かとなりました。<br />

@@ -20,20 +20,20 @@ tags:
 - 関連記事表示
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/link_120708.jpg"><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
+<p><a href="/wp-content/uploads/link_120708.jpg"><img src="/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 プラグインはあまり好きじゃありません。@kotala_bです。<br />
 これまでに＠anywhereplusやシェアボタンの変更を行ってきました。<br />
-<a href="https://kotalab.com/social-botton" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/social_120630_03.jpg" alt="＠knk_nさんの記事を見てソーシャルボタンを設置したら意外と簡単にできた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/social-botton" target="_blank">＠knk_nさんの記事を見てソーシャルボタンを設置したら意外と簡単にできた！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/wordpress-twitter" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="＠Anywhereが終了する前に移行させましょう！＠AnywhereなしでTwitterアカウント名に自動でリンクを貼る方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/wordpress-twitter" target="_blank">＠Anywhereが終了する前に移行させましょう！＠AnywhereなしでTwitterアカウント名に自動でリンクを貼る方法！ | kotala's note</a><br style="clear:both;" />今回は、今まで手動でやっていた関連記事の挿入を、プラグイン等を使わずに自動で表示出来るように設定してみました！<br />
+<a href="/social-botton" target="_blank"><img  class="alignleft" src="/wp-content/uploads/social_120630_03.jpg" alt="＠knk_nさんの記事を見てソーシャルボタンを設置したら意外と簡単にできた！ | kotala's note" width="150" /></a><a href="/social-botton" target="_blank">＠knk_nさんの記事を見てソーシャルボタンを設置したら意外と簡単にできた！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/wordpress-twitter" target="_blank"><img  class="alignleft" src="/wp-content/uploads/link_120708.jpg" alt="＠Anywhereが終了する前に移行させましょう！＠AnywhereなしでTwitterアカウント名に自動でリンクを貼る方法！ | kotala's note" width="150" /></a><a href="/wordpress-twitter" target="_blank">＠Anywhereが終了する前に移行させましょう！＠AnywhereなしでTwitterアカウント名に自動でリンクを貼る方法！ | kotala's note</a><br style="clear:both;" />今回は、今まで手動でやっていた関連記事の挿入を、プラグイン等を使わずに自動で表示出来るように設定してみました！<br />
 </p>
 <!--more-->
 <h2>before-after</h2>
 <p>▼before<br />
-<a href="https://kotalab.com/wp-content/uploads/kanrenkiji_121216_01.jpg"><img src="https://kotalab.com/wp-content/uploads/kanrenkiji_121216_01.jpg" alt="kanrenkiji_121216_01" width="447" height="374" class="alignnone size-full wp-image-4900" /></a><br />
+<a href="/wp-content/uploads/kanrenkiji_121216_01.jpg"><img src="/wp-content/uploads/kanrenkiji_121216_01.jpg" alt="kanrenkiji_121216_01" width="447" height="374" class="alignnone size-full wp-image-4900" /></a><br />
 今までは関連記事を自分で選んでSharehtmlを使って挿入していました。<br />
 ▼after<br />
-<a href="https://kotalab.com/wp-content/uploads/kanrenkiji_121216_02.jpg"><img src="https://kotalab.com/wp-content/uploads/kanrenkiji_121216_02.jpg" alt="kanrenkiji_121216_02" width="446" height="291" class="alignnone size-full wp-image-4901" /></a><br />
+<a href="/wp-content/uploads/kanrenkiji_121216_02.jpg"><img src="/wp-content/uploads/kanrenkiji_121216_02.jpg" alt="kanrenkiji_121216_02" width="446" height="291" class="alignnone size-full wp-image-4901" /></a><br />
 現在は記事を書くだけでこのように自動表示されます。</p>
 <h2>参考サイト</h2>
 <p>僕はPHPに関する知識はほぼゼロですが、<strong>参考サイトさんでは丁寧にわかりやすく解説されていることが多いので「参考記事を見ながらコードをコピペして自分のブログに合うように多少手を加える」ということなら出来ます。</strong><br />

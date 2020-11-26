@@ -22,7 +22,7 @@ tags:
 - 睡眠時間
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/money-education-vol1_140425.jpg" alt="money-education-vol1_140425.jpg" width="548" height="411" class="aligncenter size-full wp-image-12637" /><br />
+<p><img src="/wp-content/uploads/money-education-vol1_140425.jpg" alt="money-education-vol1_140425.jpg" width="548" height="411" class="aligncenter size-full wp-image-12637" /><br />
 朝なのに、起きて1時間以上経ってるのにまだ眠い。<br />
 これは最悪の状態です。</p>
 <p>起きてすぐの時間は一番体が疲れてなくて、一番パフォーマンスが良い状態なはずなのに。<br />

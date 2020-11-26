@@ -22,7 +22,7 @@ tags:
 - iPad Air
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/ipadairwificellular_131025-546x358.png" alt="ipadairwificellular_131025" width="546" height="358" class="alignnone size-large wp-image-10034" /><br />
+<p><img src="/wp-content/uploads/ipadairwificellular_131025-546x358.png" alt="ipadairwificellular_131025" width="546" height="358" class="alignnone size-large wp-image-10034" /><br />
 iPad Airを購入予定です。こたら（@kotala_b）です。<br />
 iPad AirにはWi-Fi版とセルラー版の2種類があります。<br />
 どっちが自分に合ったiPad Airなのか、それぞれのメリットデメリットを比べて確かめてみようと思います。<br />

@@ -24,7 +24,7 @@ tags:
 - リマインダー
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/dont-forget-plan-with-iphone_140104_01.jpg" alt="dont-forget-plan-with-iphone_140104_01" width="322" height="344" class="alignnone size-full wp-image-10395" /><br />
+<p><img src="/wp-content/uploads/dont-forget-plan-with-iphone_140104_01.jpg" alt="dont-forget-plan-with-iphone_140104_01" width="322" height="344" class="alignnone size-full wp-image-10395" /><br />
 今年の目標は365日ブログを更新することです。こたら（@kotala_b）です。<br />
 せっかくお正月に1年間の目標をたてても忘れてしまってはもったいない！<br />
 そう思って僕は立てた目標を毎日繰り返しみるようにしています。<br />
@@ -44,16 +44,16 @@ comments: []
 <p>まずはSmaetEverに表示させたいノートに「SmartEver」タグをつけます。<br />
 SmartEverを開くと「SmartEver」タグがついたノートだけが表示されるので、その中から目標を書いたノートを選択します。<br />
 SmartEverからノートを開いたら画面したの「i」マークを開き<br />
-<img src="https://kotalab.com/wp-content/uploads/dont-forget-plan-with-iphone_140104_02-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_02" width="300" height="513" class="alignnone size-medium wp-image-10392" /><br />
+<img src="/wp-content/uploads/dont-forget-plan-with-iphone_140104_02-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_02" width="300" height="513" class="alignnone size-medium wp-image-10392" /><br />
 URLスキームと書かれたところをコピーします。<br />
-<img src="https://kotalab.com/wp-content/uploads/dont-forget-plan-with-iphone_140104_03-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_03" width="300" height="513" class="alignnone size-medium wp-image-10394" /><br />
+<img src="/wp-content/uploads/dont-forget-plan-with-iphone_140104_03-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_03" width="300" height="513" class="alignnone size-medium wp-image-10394" /><br />
 次はDueを開きリマインダーを新規作成。<br />
 タイトルにコピーした内容を貼付けて<br />
-<img src="https://kotalab.com/wp-content/uploads/dont-forget-plan-with-iphone_140104_04-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_04" width="300" height="513" class="alignnone size-medium wp-image-10391" /><br />
+<img src="/wp-content/uploads/dont-forget-plan-with-iphone_140104_04-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_04" width="300" height="513" class="alignnone size-medium wp-image-10391" /><br />
 繰り返し設定を毎日にして保存。<br />
-<img src="https://kotalab.com/wp-content/uploads/dont-forget-plan-with-iphone_140104_05-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_05" width="300" height="513" class="alignnone size-medium wp-image-10396" /><br />
+<img src="/wp-content/uploads/dont-forget-plan-with-iphone_140104_05-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_05" width="300" height="513" class="alignnone size-medium wp-image-10396" /><br />
 これで設定した時間に毎日Dueがなるようになり、リマインダーを止めるとSmartEverでURLスキームを取得したノートが開くようになります。<br />
-<img src="https://kotalab.com/wp-content/uploads/dont-forget-plan-with-iphone_140104_06-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_06" width="300" height="513" class="alignnone size-medium wp-image-10393" /><br />
+<img src="/wp-content/uploads/dont-forget-plan-with-iphone_140104_06-300x513.jpg" alt="dont-forget-plan-with-iphone_140104_06" width="300" height="513" class="alignnone size-medium wp-image-10393" /><br />
 これでiPhoneを使った目標を忘れない仕組みづくりができました。</p>
 <h3>人間は忘れる生き物です</h3>
 <p>どんなに素敵な目標を立てても忘れちゃってはもったいない！<br />
@@ -114,10 +114,10 @@ URLスキームと書かれたところをコピーします。<br />
 </div>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/plan-next-action" target="_blank"><img src="https://kotalab.com/wp-content/uploads/taskstart_20121005.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/plan-next-action" target="_blank">お正月に立て目標はそのままじゃもったいない！次にすることは「小分けにする」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/plan-next-action"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/plan-next-action" alt="" /></span></div>
+<div class="shhtimg"><a href="/plan-next-action" target="_blank"><img src="/wp-content/uploads/taskstart_20121005.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/plan-next-action" target="_blank">お正月に立て目標はそのままじゃもったいない！次にすることは「小分けにする」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/plan-next-action"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/plan-next-action" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/happy-new-year-2014" target="_blank"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20140101105533.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/happy-new-year-2014" target="_blank">新年明けましておめでとうございます！今年の目標とテーマを決めました！</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/happy-new-year-2014"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/happy-new-year-2014" alt="" /></span></div>
+<div class="shhtimg"><a href="/happy-new-year-2014" target="_blank"><img src="/wp-content/uploads/slooProImg_20140101105533.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/happy-new-year-2014" target="_blank">新年明けましておめでとうございます！今年の目標とテーマを決めました！</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/happy-new-year-2014"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/happy-new-year-2014" alt="" /></span></div>
 </div>

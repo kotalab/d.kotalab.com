@@ -22,9 +22,9 @@ tags:
 - アプリ道場
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-readable-code_20141230-780x520.jpg" alt="books-readable-code_20141230" width="780" height="520" class="aligncenter size-large wp-image-13702" /><br />
+<p><img src="/wp-content/uploads/books-readable-code_20141230-780x520.jpg" alt="books-readable-code_20141230" width="780" height="520" class="aligncenter size-large wp-image-13702" /><br />
 アプリ開発を始めて1年目の僕はまだまだ経験も浅く、コードの書き方はわかってもどんなコードがいいコードなのかわからない。</p>
-<p>どんなコードがいいコードなのか、どんなコードを書くのがいいのかを知りたかった僕は、<a href="https://kotalab.com/category/ios-developer/app-dojo">アプリ道場</a>の忘年会で知った「<a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a>」という本を読んでみた。</p>
+<p>どんなコードがいいコードなのか、どんなコードを書くのがいいのかを知りたかった僕は、<a href="/category/ios-developer/app-dojo">アプリ道場</a>の忘年会で知った「<a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a>」という本を読んでみた。</p>
 <p>リーダブルコードにはこのようなことが最初に書いてある。</p>
 <blockquote><p>コードは理解しやすくなければならない。<br />
 via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4873115655/same-22/" rel="nofollow" target="_blank">リーダブルコード</a> P.2</p></blockquote>

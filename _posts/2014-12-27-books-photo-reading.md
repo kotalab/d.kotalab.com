@@ -21,7 +21,7 @@ tags:
 - フォトリーディング
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-photo-reading_20141227-780x585.jpg" alt="books-photo-reading_20141227" width="780" height="585" class="aligncenter size-large wp-image-13674" /><br />
+<p><img src="/wp-content/uploads/books-photo-reading_20141227-780x585.jpg" alt="books-photo-reading_20141227" width="780" height="585" class="aligncenter size-large wp-image-13674" /><br />
 フォトリーディングという言葉は耳にしたことはあっても実際にどんなものなのか、僕は何も知らなかった。<br />
 ただなんとなく速読術のようなものという先入観があったただけだ。</p>
 <blockquote><p>

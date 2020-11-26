@@ -19,7 +19,7 @@ tags:
 - ヴァンパイア
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/darkShadow_120601.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/darkShadow_120601.jpg" alt="" title="darkShadow_120601" width="400" height="300" class="alignnone size-full wp-image-1235" /></a><br />
+<p><a href="/wp-content/uploads/darkShadow_120601.jpg" target="_blank"><img src="/wp-content/uploads/darkShadow_120601.jpg" alt="" title="darkShadow_120601" width="400" height="300" class="alignnone size-full wp-image-1235" /></a><br />
 3ヶ月ぶりに映画を観てきました。@kotala_bです。<br />
 休みの日に横浜のワールドポーターズでジョニーデップの映画<strong>ダークシャドウ</strong>を観ました。<br />
 </p>

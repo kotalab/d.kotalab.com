@@ -21,11 +21,11 @@ tags:
 - iPadアプリ
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130105114920.jpg" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20130105114920.jpg" width="448" height="336" /><br />
 化学の授業が好きでした。@kotala_bです。<br />
 好きといってもテストで点数が良かったとかそういうわけじゃありません。<br />
 ▼化学の授業で使っていた補助教材のこの本をただ眺めているのが好きでした。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130105114908.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130105114908.jpg" width="448" height="336" /><br />
 高校の時の教科書は全て捨てたのですが、唯一この本だけが家の本棚に残っています。<br />
 なんでこれだけ残したのか、なぜ好きなのか説明出来ませんが、何故か好きなのです。<br />
 そんな僕が今回紹介するのは元素図鑑TheElementsというアプリです。<br />
@@ -58,20 +58,20 @@ comments: []
 </div>
 <h2>元素図鑑TheElementsがすごい！</h2>
 <p>▼アプリを起動するとこんな画面で始まります<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130105114918.jpg" width="448" height="598" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130105114918.jpg" width="448" height="598" /><br />
 ▼聞いたこともない元素周期表の歌がスタート<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130105114917.jpg" width="448" height="598" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130105114917.jpg" width="448" height="598" /><br />
 はじめは英語で流れていましたが、日本語にも切り替えられました。<br />
 ▼全部の元素記号を言い終わると歌も終わります。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130105114916.jpg" width="448" height="598" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130105114916.jpg" width="448" height="598" /><br />
 「歌を歌って遊びながら元素記号を覚えよう！」という感じの宣伝文句がありそうな歌です。<br />
 歌が終わったので元素を見てます。<br />
 ▼炭素Cの項目にはダイヤモンド！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130105114915.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130105114915.jpg" width="448" height="336" /><br />
 ▼元素の説明もバッチリのっています。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130105114912.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130105114912.jpg" width="448" height="336" /><br />
 ▼説明文に載ってる図をタップすると拡大表示されました！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130105114911.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130105114911.jpg" width="448" height="336" /><br />
 水素から順に全ての元素が紹介されています。<br />
 中には名前以外はまだ未知の元素もありました。</p>
 <h2>最後に</h2>

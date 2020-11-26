@@ -22,8 +22,8 @@ tags:
 - 情報収集
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/gunosy_20121109.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/gunosy_20121109.png" alt="" title="gunosy_20121109" width="326" height="100" class="alignnone size-full wp-image-4050" /></a><br />
-<a href="https://kotalab.com/rss-10read" title="基準は「本当に読みたいモノ」！RSS登録を整理して購読数を10に減らしました！" target="_blank">RSSを先日整理</a>しました。@kotala_bです。<br />
+<p><a href="/wp-content/uploads/gunosy_20121109.png" target="_blank"><img src="/wp-content/uploads/gunosy_20121109.png" alt="" title="gunosy_20121109" width="326" height="100" class="alignnone size-full wp-image-4050" /></a><br />
+<a href="/rss-10read" title="基準は「本当に読みたいモノ」！RSS登録を整理して購読数を10に減らしました！" target="_blank">RSSを先日整理</a>しました。@kotala_bです。<br />
 RSSには「本当に読みたいモノ」というフィルターをかけることで、それ以外のモノは積極的に読まないという方針です。<br />
 RSS以外にもGunosyやTwitter、Facebookなどのおかげでお気に入りサイトの更新情報は自然と目にするので、RSSの登録数を絞れたとも言えます。<br />
 その中で一番影響が大きかったのは<strong>Gunosy</strong>の存在でした。</p>
@@ -40,7 +40,7 @@ RSS以外にもGunosyやTwitter、Facebookなどのおかげでお気に入り�
 <!--more-->
 <h2>Gunosyとは</h2>
 <p>Gunosyというのは、<strong>自分にマッチした情報</strong>を毎日定期的に配信してくれるサービスです。<br />
-<a href="https://kotalab.com/gunosy-new" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/gunosy_121031.jpg" alt="新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note" width="150" /></a><a href="https://kotalab.com/gunosy-new" target="_blank">新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note</a><br style="clear:both;" /><strong>日経新聞</strong>や<strong>はてブ記事</strong>から、今まで見たことがなかったブログまで幅広く<strong>自分にマッチした情報</strong>が届きます。</p>
+<a href="/gunosy-new" target="_blank"><img  class="alignleft" src="/wp-content/uploads/gunosy_121031.jpg" alt="新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note" width="150" /></a><a href="/gunosy-new" target="_blank">新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note</a><br style="clear:both;" /><strong>日経新聞</strong>や<strong>はてブ記事</strong>から、今まで見たことがなかったブログまで幅広く<strong>自分にマッチした情報</strong>が届きます。</p>
 <h2>RSSと被る</h2>
 <p>RSS整理をするまでは自分が気になる記事を多く書くブログはRSS登録をして読んでいたわけなんですが、Gunosyを使い始めると<strong>GunosyからもRSS登録してるサイトの記事が送られてくる</strong>ようになりました。<br />
 <strong>頻度もそれなりに多く</strong>て、RSS登録をしているブログが<strong>必ず2つ以上、毎日</strong>送られてきている状態でした。<br />
@@ -55,4 +55,4 @@ RSSをチェックしなくてもGunosyで拾ってきてくれるので、<stro
 ▼登録はこちら<br />
 <a href="http://gunosy.com/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://gunosy.com/" alt="Gunosy（グノシー）" width="150" height="130" /></a><a href="http://gunosy.com/" target="_blank">Gunosy（グノシー）</a><a href="https://b.hatena.ne.jp/entry/http://gunosy.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://gunosy.com/" alt="" /></a><br style="clear:both;" /><br />
 ▼登録方法はこちら<br />
-<a href="https://kotalab.com/gunosy-new" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/gunosy_121031.jpg" alt="新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note" width="150" /></a><a href="https://kotalab.com/gunosy-new" target="_blank">新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note</a><br style="clear:both;" />まだ使ったことがない方は是非使ってみてください！オススメです！</p>
+<a href="/gunosy-new" target="_blank"><img  class="alignleft" src="/wp-content/uploads/gunosy_121031.jpg" alt="新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note" width="150" /></a><a href="/gunosy-new" target="_blank">新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note</a><br style="clear:both;" />まだ使ったことがない方は是非使ってみてください！オススメです！</p>

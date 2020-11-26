@@ -20,7 +20,7 @@ tags:
 - sharehtml
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/sharehtml_121005.jpg"><img src="https://kotalab.com/wp-content/uploads/sharehtml_121005.jpg" alt="" title="sharehtml_121005" width="448" height="298" class="alignnone size-full wp-image-3165" /></a><br />
+<p><a href="/wp-content/uploads/sharehtml_121005.jpg"><img src="/wp-content/uploads/sharehtml_121005.jpg" alt="" title="sharehtml_121005" width="448" height="298" class="alignnone size-full wp-image-3165" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/yourdon/3088582622/" target="_blank">Sharing music, Roman style</a> / Ed Yourdon</span><br />
 記事のリンクにはSharehtmlが欠かせません。@kotala_bです。<br />
 Sharehtmlに関することが昨日2つのブログに取り上げられていました。<br />
@@ -33,8 +33,8 @@ Sharehtmlに関することが昨日2つのブログに取り上げられてい�
 <a href="http://delaymania.com/201210/blog/sharehtml_ozpa/" target="_blank"><img src="https://capture.heartrails.com/150x130?http://delaymania.com/201210/blog/sharehtml_ozpa/" alt="http://delaymania.com/201210/blog/sharehtml_ozpa/" width="150" height="130" align="left" /></a><a href="http://delaymania.com/201210/blog/sharehtml_ozpa/" target="_blank">OZPAの表4の記事を読んでShareHTMLをさらに改良しました | delaymania.com</a><br style="clear:both;" /><br />
 僕は全部を任意の画像に変えることはせず、自分のブログ内のリンクにだけそのページのアイキャッチ画像を表示させるように変えてみます。<br />
 今までこうだったのが<br />
-<a href="https://kotalab.com/task-management-reason" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/3121" alt="https://kotalab.com/archives/3121" width="150" height="130" align="left" /></a><a href="https://kotalab.com/task-management-reason" target="_blank">僕がタスク管理をする理由 | kotala's note</a><br style="clear:both;" />こういう風に変わりました。<br />
-<a href="https://kotalab.com/task-management-reason" target="_blank"><img src="https://kotalab.com/wp-content/uploads/taskstart_20121005.jpg" alt="https://kotalab.com/archives/3121" width="150" align="left" /></a><a href="https://kotalab.com/task-management-reason" target="_blank">僕がタスク管理をする理由 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/task-management-reason" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/3121" alt="https://kotalab.com/archives/3121" width="150" height="130" align="left" /></a><a href="/task-management-reason" target="_blank">僕がタスク管理をする理由 | kotala's note</a><br style="clear:both;" />こういう風に変わりました。<br />
+<a href="/task-management-reason" target="_blank"><img src="/wp-content/uploads/taskstart_20121005.jpg" alt="https://kotalab.com/archives/3121" width="150" align="left" /></a><a href="/task-management-reason" target="_blank">僕がタスク管理をする理由 | kotala's note</a><br style="clear:both;" /><br />
 何か見たことあるなーと思ったらすぐ横のサイドバーに似たモノを発見！</p>
 <h2>よく見たら似てた</h2>
 <p>よく見たらサイドバーで使ってる「<strong>PopularPosts</strong>」と似てる！<br />

@@ -20,7 +20,7 @@ tags:
 - 自由大学
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/app-creator-546x409.png" alt="app-creator" width="546" height="409" class="alignnone size-large wp-image-11196" /><br />
+<p><img src="/wp-content/uploads/app-creator-546x409.png" alt="app-creator" width="546" height="409" class="alignnone size-large wp-image-11196" /><br />
 <a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a>のアキオさんが講師を務める、「<a href="https://freedom-univ.com/lecture/app_developmen.html" target="_blank">アプリクリエイター道場　開発塾」</a>に申込んでみました！</p>
 <p><strong>「iPhoneアプリを作ってみたい、自分が使いたいアプリを作ってみたい」「でもどこから手をつけていいかがわからない」</strong>そこで僕は今回の受講に踏み切りました。<br />
 </p>

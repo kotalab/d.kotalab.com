@@ -23,7 +23,7 @@ tags:
 - ストレスフリー
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/yuruku_121129.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yuruku_121129-448x336.jpg" alt="" title="yuruku_121129" width="448" height="336" class="alignnone size-large wp-image-4438" /></a><br />
+<p><a href="/wp-content/uploads/yuruku_121129.jpg" target="_blank"><img src="/wp-content/uploads/yuruku_121129-448x336.jpg" alt="" title="yuruku_121129" width="448" height="336" class="alignnone size-large wp-image-4438" /></a><br />
 本に関するエントリーは1ヶ月ぶりです。@kotala_bです。<br />
 今回紹介する本は"おちゃらけ社会派"ブロガーのちきりんさん（@InsideCHIKIRIN）の最初の本「<a href="https://www.amazon.co.jp/exec/obidos/asin/4781605176/same-22/" rel="nofollow" name="booklink" target="_blank">ゆるく考えよう</a>」です。<br />
 ちきりんさんの本は現在までに3冊出ていて、今回紹介する本の他に「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478017034/same-22/" rel="nofollow" name="booklink" target="_blank">自分のアタマで考えよう</a>」や「<a href="https://www.amazon.co.jp/exec/obidos/asin/4479793488/same-22/" rel="nofollow" name="booklink" target="_blank">社会派ちきりんの世界を歩いて考えよう!</a>」という本があり、どの本も<strong>考えよう</strong>というテーマで書かれています。<br />
@@ -126,12 +126,12 @@ P.207</p></blockquote>
 気になった方は是非読んでみてください！オススメです！</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/books-kuroneko" target="_blank"><img src="https://kotalab.com/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/books-kuroneko" target="_blank">ストレスフリーな自分の作り方 &ndash; 人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと 金光サリィ著</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-kuroneko"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-kuroneko" alt="" /></span></div>
+<div class="shhtimg"><a href="/books-kuroneko" target="_blank"><img src="/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/books-kuroneko" target="_blank">ストレスフリーな自分の作り方 &ndash; 人の目を気にせずラクに生きるために黒猫が教えてくれた9つのこと 金光サリィ著</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-kuroneko"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-kuroneko" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/books-cloud-task" target="_blank"><img src="https://kotalab.com/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/books-cloud-task" target="_blank">頭の中でタスク管理しないストレスフリーなタスク管理術 &ndash; クラウド時代のタスク管理の技術　佐々木正悟著</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/books-cloud-task" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-cloud-task" alt="" /></a></div>
+<div class="shhtimg"><a href="/books-cloud-task" target="_blank"><img src="/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/books-cloud-task" target="_blank">頭の中でタスク管理しないストレスフリーなタスク管理術 &ndash; クラウド時代のタスク管理の技術　佐々木正悟著</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/books-cloud-task" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-cloud-task" alt="" /></a></div>
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">

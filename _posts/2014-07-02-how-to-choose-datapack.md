@@ -27,7 +27,7 @@ tags:
 - デジラ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/how-to-choose-datapack_140702-546x361.jpg" alt="how-to-choose-datapack_140702" width="546" height="361" class="alignnone size-large wp-image-13304" /><br />
+<p><img src="/wp-content/uploads/how-to-choose-datapack_140702-546x361.jpg" alt="how-to-choose-datapack_140702" width="546" height="361" class="alignnone size-large wp-image-13304" /><br />
 docomoのパケあえる、SoftBankのスマ放題、auのデジラという新料金プランが発表され、携帯キャリア3社が一斉にパケット料金のプランを変更してきました。</p>
 <p>今までだとパケット料金は7GBの使用量で約5000円の料金で固定されていましたが、新しいプランでは自分のデータ使用量に合わせてプランを選べるようになります。</p>
 <p>新しいプランでは今までの7GBという選択肢がなくなり、2GBや5GBの少なめの通信量だったり10GB以上の大容量が選べるようになっています。</p>
@@ -39,14 +39,14 @@ docomoのパケあえる、SoftBankのスマ放題、auのデジラという新�
 まずはデータ使用量を確認してみましょう。</p>
 <h3>docomoのデータ使用量の確認方法</h3>
 <p><a href="https://www.nttdocomo.co.jp/mydocomo/" target="_blank">My docomo</a>からログインして、「ご利用料金の確認」から<br />
-<img src="https://kotalab.com/wp-content/uploads/how-to-choose-datapack_140702_01.png" alt="How to choose datapack 140702 01" title="how-to-choose-datapack_140702_01.png" border="0" width="548" height="244" /></p>
+<img src="/wp-content/uploads/how-to-choose-datapack_140702_01.png" alt="How to choose datapack 140702 01" title="how-to-choose-datapack_140702_01.png" border="0" width="548" height="244" /></p>
 <p>毎月の利用料金の詳細がわかる「利用内訳」を見てみると、その中に1ヶ月分の通信量がわかります。<br />
-<img src="https://kotalab.com/wp-content/uploads/how-to-choose-datapack_140702_02.png" alt="How to choose datapack 140702 02" title="how-to-choose-datapack_140702_02.png" border="0" width="548" height="279" /></p>
+<img src="/wp-content/uploads/how-to-choose-datapack_140702_02.png" alt="How to choose datapack 140702 02" title="how-to-choose-datapack_140702_02.png" border="0" width="548" height="279" /></p>
 <h3>SoftBankのデータ使用量の確認方法</h3>
 <p><a href="https://my.softbank.jp/msb/d/top" target="_blank">My SoftBank</a>からログインして、確定した料金の「内訳を見る」から<br />
-<img src="https://kotalab.com/wp-content/uploads/how-to-choose-datapack_140702_03.png" alt="How to choose datapack 140702 03" title="how-to-choose-datapack_140702_03.png" border="0" width="548" height="190" /></p>
+<img src="/wp-content/uploads/how-to-choose-datapack_140702_03.png" alt="How to choose datapack 140702 03" title="how-to-choose-datapack_140702_03.png" border="0" width="548" height="190" /></p>
 <p>1ヶ月分の通信量がわかります。<br />
-<img src="https://kotalab.com/wp-content/uploads/how-to-choose-datapack_140702_04.png" alt="How to choose datapack 140702 04" title="how-to-choose-datapack_140702_04.png" border="0" width="548" height="103" /></p>
+<img src="/wp-content/uploads/how-to-choose-datapack_140702_04.png" alt="How to choose datapack 140702 04" title="how-to-choose-datapack_140702_04.png" border="0" width="548" height="103" /></p>
 <h3>auのデータ使用量の確認方法</h3>
 <p><a href="https://cs.kddi.com/" target="_blank">auお客さまサポート</a>からログインして、料金の確認の「詳しく確認する」から1ヶ月分の通信量がわかります。</p>
 <p>auだけIDがなくてログインできなかったので、<a href="https://cs.kddi.com/support/waribiki/kakunin/riyou_kakunin.html" target="_blank">こちらを参考に</a></p>

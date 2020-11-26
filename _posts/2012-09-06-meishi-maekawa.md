@@ -21,7 +21,7 @@ tags:
 - 前川企画印刷
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/meisi_120906.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/meisi_120906.jpg" alt="" title="meisi_120906" width="448" height="298" class="alignnone size-full wp-image-2526" /></a><br />
+<p><a href="/wp-content/uploads/meisi_120906.jpg" target="_blank"><img src="/wp-content/uploads/meisi_120906.jpg" alt="" title="meisi_120906" width="448" height="298" class="alignnone size-full wp-image-2526" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/47514124@N02/6950951840/" target="_blank">ErinBerzelPhotography-4432 / Walnut Studiolo</span><br />
 オフ会やセミナーにはまだ行ったことありません。@kotala_bです。<br />
 そんな僕ですが、名刺を作ることに決めました！<br />

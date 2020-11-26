@@ -24,7 +24,7 @@ tags:
 - アベノミクス
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/risk-of-bank-deposits_140330-546x409.jpg" alt="risk-of-bank-deposits_140330" width="546" height="409" class="alignnone size-large wp-image-11306" /><br />
+<p><img src="/wp-content/uploads/risk-of-bank-deposits_140330-546x409.jpg" alt="risk-of-bank-deposits_140330" width="546" height="409" class="alignnone size-large wp-image-11306" /><br />
 アベノミクスの金融政策の中で「物価上昇率2％を目標にする」というふうに言われています。<br />
 安倍内閣では「物価つまり物やサービスの価格を1年間で2％上げていきたい」と思ってるわけです。<br />
 「物やサービスの価格を上げる」というのは、いわゆるインフレというやつです。</p>

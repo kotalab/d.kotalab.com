@@ -21,7 +21,7 @@ tags:
 - 電気シェーバー
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/mobileshavem90_131015_01-546x361.jpg" alt="mobileshavem90_131015_01" width="546" height="361" class="alignnone size-large wp-image-9931" /><br />
+<p><img src="/wp-content/uploads/mobileshavem90_131015_01-546x361.jpg" alt="mobileshavem90_131015_01" width="546" height="361" class="alignnone size-large wp-image-9931" /><br />
 最近はずっと電気シェーバーを使ってます。こたら（@kotala_b）です。<br />
 以前はT字カミソリを使ってましたが、この電気シェーバーを手に入れてからはこれしか使わなくなりました。<br />
 その電気シェーバーがブラウンの「モバイルシェーブ M-90」というモノ。<br />
@@ -29,13 +29,13 @@ comments: []
 </p>
 <!--more-->
 <h2>モバイルシェーブ M-90</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/mobileshavem90_131015_02-546x361.jpg" alt="mobileshavem90_131015_02" width="546" height="361" class="alignnone size-large wp-image-9932" /><br />
+<p><img src="/wp-content/uploads/mobileshavem90_131015_02-546x361.jpg" alt="mobileshavem90_131015_02" width="546" height="361" class="alignnone size-large wp-image-9932" /><br />
 モバイルシェーブ M-90のいいところはコンパクトなところ。<br />
 充電式じゃなく乾電池式なのも気に入ってます。<br />
 値段も電気シェーバーにしては安い方。<br />
 だからといって剃り味が極端に悪いということはないし、髭剃りはこれで十分だと感じてます。</p>
 <h3>コンパクトだから旅行におすすめ</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/mobileshavem90_131015_03-546x361.jpg" alt="mobileshavem90_131015_03" width="546" height="361" class="alignnone size-large wp-image-9933" /><br />
+<p><img src="/wp-content/uploads/mobileshavem90_131015_03-546x361.jpg" alt="mobileshavem90_131015_03" width="546" height="361" class="alignnone size-large wp-image-9933" /><br />
 モバイルシェーブ M-90は本体の重さが120グラムでとってもコンパクト。<br />
 カバーが一体式なのでなくす心配もなし。<br />
 またカバーを外した状態じゃないと電源が入らないので、カバンの中で動き出すようなことはなくて安心。<br />
@@ -43,13 +43,13 @@ comments: []
 水洗いできるので手軽に洗えるのもいいところ！<br />
 旅行にもおすすめのシェーバーです。</p>
 <h3>乾電池式だからエネループが使える</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/mobileshavem90_131015_05-546x361.jpg" alt="mobileshavem90_131015_05" width="546" height="361" class="alignnone size-large wp-image-9935" /><br />
+<p><img src="/wp-content/uploads/mobileshavem90_131015_05-546x361.jpg" alt="mobileshavem90_131015_05" width="546" height="361" class="alignnone size-large wp-image-9935" /><br />
 僕が気に入ってるのは乾電池式なところ。<br />
 充電器が必要ないので旅行の時に充電器ごと持ち運ぶ必要なし。<br />
 何かと使えて便利なエネループをいつも持ち歩いてるので、余計な荷物が増えることもなし。<br />
 内蔵の充電池がへたってきたから変えなきゃいけないということもありません。</p>
 <h3>替え刃よりも安い</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/mobileshavem90_131015_04-546x361.jpg" alt="mobileshavem90_131015_04" width="546" height="361" class="alignnone size-large wp-image-9934" /><br />
+<p><img src="/wp-content/uploads/mobileshavem90_131015_04-546x361.jpg" alt="mobileshavem90_131015_04" width="546" height="361" class="alignnone size-large wp-image-9934" /><br />
 電気シェーバーの替え刃の値段て知ってますか？<br />
 安いモノで3000円くらいから高いモノだと1万円を超えるモノもあります。<br />
 モバイルシェーブ M-90は本体価格が3000円以下。<br />

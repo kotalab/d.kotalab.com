@@ -27,7 +27,7 @@ tags:
 - 所得税
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/medical-deduction_20150103_01-780x585.jpg" alt="medical-deduction_20150103_01" width="780" height="585" class="aligncenter size-large wp-image-13724" /><br />
+<p><img src="/wp-content/uploads/medical-deduction_20150103_01-780x585.jpg" alt="medical-deduction_20150103_01" width="780" height="585" class="aligncenter size-large wp-image-13724" /><br />
 1年間で医療費を多く払っている人は支払ったお金の一部が戻ってくる可能性があります。</p>
 <p>医療費控除という制度を利用することで、医療費に沢山お金がかかった人は所得税の還付や住民税の減額を受けられるのです。<br />
 医療費控除の対象となる費用やいくら返ってくるかなど、ぜひ知っておいて欲しいことについて書いていこうと思います。<br />
@@ -76,7 +76,7 @@ via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1124.htm" target="_blank">N
 住民税は全国一律10%なので、住民税額は1万円減額となります。</p>
 <p><span class="b">これらを合わせると2万円の節税となります。</span></p>
 <h3>医療費控除を受けるには確定申告を忘れずに！</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/medical-deduction_20150103_02-780x585.jpg" alt="medical-deduction_20150103_02" width="780" height="585" class="aligncenter size-large wp-image-13725" /><br />
+<p><img src="/wp-content/uploads/medical-deduction_20150103_02-780x585.jpg" alt="medical-deduction_20150103_02" width="780" height="585" class="aligncenter size-large wp-image-13725" /><br />
 医療費控除を受けるためには「医療費にこれだけかかりました」ということを確定申告で税務署に申告しなくてはいけません。<br />
 申告しなかった場合には医療費控除は受けられないので注意してください。</p>
 <p>また、申告には医療費の領収書も必要となります。<br />

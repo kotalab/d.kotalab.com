@@ -21,7 +21,7 @@ tags:
 - 書評
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-never-killed-by-doctor_140306-546x546.jpg" alt="books-never-killed-by-doctor_140306" width="546" height="546" class="alignnone size-large wp-image-11078" /><br />
+<p><img src="/wp-content/uploads/books-never-killed-by-doctor_140306-546x546.jpg" alt="books-never-killed-by-doctor_140306" width="546" height="546" class="alignnone size-large wp-image-11078" /><br />
 僕たちは病院で貰う薬のことをどれだけ知っているでしょうか。<br />
 「ガスター、ロキソニンは何か？」と聞かれれば、それが薬であることくらいはわかります。<br />
 でも「スタチン、ピボキシル、フルイトランは何か？」と聞かれても、それが薬の名前であることすらわかりません。<br />

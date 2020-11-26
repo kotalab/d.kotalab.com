@@ -21,7 +21,7 @@ tags:
 - iPhone 5s
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/lightningcablereel130923_01-546x409.jpg" alt="lightningcablereel130923_01" width="546" height="409" class="alignnone size-large wp-image-9594" /><br />
+<p><img src="/wp-content/uploads/lightningcablereel130923_01-546x409.jpg" alt="lightningcablereel130923_01" width="546" height="409" class="alignnone size-large wp-image-9594" /><br />
 巻き取り式ケーブルが大好きです。こたら（@kotala_b）です。<br />
 長いケーブルだとカバンの中にいれたときにケーブルが絡まるし、かさ張るから邪魔。<br />
 巻き取り式だとその心配もないので安心です。<br />
@@ -29,12 +29,12 @@ comments: []
 </p>
 <!--more-->
 <h2>激安LightningケーブルはAmazonで見つけた！</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/lightningcablereel130923_02-546x409.jpg" alt="lightningcablereel130923_02" width="546" height="409" class="alignnone size-large wp-image-9593" /><br />
+<p><img src="/wp-content/uploads/lightningcablereel130923_02-546x409.jpg" alt="lightningcablereel130923_02" width="546" height="409" class="alignnone size-large wp-image-9593" /><br />
 純正のLightningケーブルは持ち運びにはちょっと不便。<br />
 巻き取り式をAmazonで探してみると150円くらいのがいくつか見つかりました！<br />
 これくらいの値段なら使えなかったりすぐ壊れてもいいかなと思って買ってみました。</p>
 <h3>iPhone 5sで使える巻き取り式Lightningケーブル</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/lightningcablereel130923_03-546x409.jpg" alt="lightningcablereel130923_03" width="546" height="409" class="alignnone size-large wp-image-9592" /><br />
+<p><img src="/wp-content/uploads/lightningcablereel130923_03-546x409.jpg" alt="lightningcablereel130923_03" width="546" height="409" class="alignnone size-large wp-image-9592" /><br />
 iPhone 5で使えても、もしかしたらiPhone 5sじゃ使えなくなるかも。<br />
 そんな心配もありましたが問題なく充電できました！</p>
 <h3>安いから妥協できる</h3>

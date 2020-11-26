@@ -24,7 +24,7 @@ tags:
 - AF-S 35mm
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/disnysea_130529_09-448x297.jpg" alt="disnysea_130529_09" width="448" height="297" class="alignnone size-large wp-image-7300" /><br />
+<p><img src="/wp-content/uploads/disnysea_130529_09-448x297.jpg" alt="disnysea_130529_09" width="448" height="297" class="alignnone size-large wp-image-7300" /><br />
 ディズニーシーで写真をいっぱい撮ってきました。こたら（@kotala_b）です。<br />
 持って行ったのはNikonD7000と単焦点レンズAF-S 35mm/1.8f。<br />
 ズームレンズは持たずに単焦点レンズ1本だけ持って行きました。</p>
@@ -58,20 +58,20 @@ comments: []
 </div>
 <!--more-->
 <h2>撮った写真</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/disnysea_130528-448x297.jpg" alt="disnysea_130528" width="448" height="297" class="alignnone size-large wp-image-7284" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_11-448x297.jpg" alt="disnysea_130529_11" width="448" height="297" class="alignnone size-large wp-image-7309" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_12-448x297.jpg" alt="disnysea_130529_12" width="448" height="297" class="alignnone size-large wp-image-7298" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_07-448x297.jpg" alt="disnysea_130529_07" width="448" height="297" class="alignnone size-large wp-image-7313" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_02-448x297.jpg" alt="disnysea_130529_02" width="448" height="297" class="alignnone size-large wp-image-7311" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_06-448x297.jpg" alt="disnysea_130529_06" width="448" height="297" class="alignnone size-large wp-image-7312" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_10-448x297.jpg" alt="disnysea_130529_10" width="448" height="297" class="alignnone size-large wp-image-7299" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_09-448x297.jpg" alt="disnysea_130529_09" width="448" height="297" class="alignnone size-large wp-image-7300" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_08-448x297.jpg" alt="disnysea_130529_08" width="448" height="297" class="alignnone size-large wp-image-7301" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_01-448x297.jpg" alt="disnysea_130529_01" width="448" height="297" class="alignnone size-large wp-image-7308" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_03-448x297.jpg" alt="disnysea_130529_03" width="448" height="297" class="alignnone size-large wp-image-7305" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_04-448x297.jpg" alt="disnysea_130529_04" width="448" height="297" class="alignnone size-large wp-image-7306" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_05-448x297.jpg" alt="disnysea_130529_05" width="448" height="297" class="alignnone size-large wp-image-7304" /><br />
-<img src="https://kotalab.com/wp-content/uploads/disnysea_130529_13-448x297.jpg" alt="disnysea_130529_13" width="448" height="297" class="alignnone size-large wp-image-7297" /></p>
+<p><img src="/wp-content/uploads/disnysea_130528-448x297.jpg" alt="disnysea_130528" width="448" height="297" class="alignnone size-large wp-image-7284" /><br />
+<img src="/wp-content/uploads/disnysea_130529_11-448x297.jpg" alt="disnysea_130529_11" width="448" height="297" class="alignnone size-large wp-image-7309" /><br />
+<img src="/wp-content/uploads/disnysea_130529_12-448x297.jpg" alt="disnysea_130529_12" width="448" height="297" class="alignnone size-large wp-image-7298" /><br />
+<img src="/wp-content/uploads/disnysea_130529_07-448x297.jpg" alt="disnysea_130529_07" width="448" height="297" class="alignnone size-large wp-image-7313" /><br />
+<img src="/wp-content/uploads/disnysea_130529_02-448x297.jpg" alt="disnysea_130529_02" width="448" height="297" class="alignnone size-large wp-image-7311" /><br />
+<img src="/wp-content/uploads/disnysea_130529_06-448x297.jpg" alt="disnysea_130529_06" width="448" height="297" class="alignnone size-large wp-image-7312" /><br />
+<img src="/wp-content/uploads/disnysea_130529_10-448x297.jpg" alt="disnysea_130529_10" width="448" height="297" class="alignnone size-large wp-image-7299" /><br />
+<img src="/wp-content/uploads/disnysea_130529_09-448x297.jpg" alt="disnysea_130529_09" width="448" height="297" class="alignnone size-large wp-image-7300" /><br />
+<img src="/wp-content/uploads/disnysea_130529_08-448x297.jpg" alt="disnysea_130529_08" width="448" height="297" class="alignnone size-large wp-image-7301" /><br />
+<img src="/wp-content/uploads/disnysea_130529_01-448x297.jpg" alt="disnysea_130529_01" width="448" height="297" class="alignnone size-large wp-image-7308" /><br />
+<img src="/wp-content/uploads/disnysea_130529_03-448x297.jpg" alt="disnysea_130529_03" width="448" height="297" class="alignnone size-large wp-image-7305" /><br />
+<img src="/wp-content/uploads/disnysea_130529_04-448x297.jpg" alt="disnysea_130529_04" width="448" height="297" class="alignnone size-large wp-image-7306" /><br />
+<img src="/wp-content/uploads/disnysea_130529_05-448x297.jpg" alt="disnysea_130529_05" width="448" height="297" class="alignnone size-large wp-image-7304" /><br />
+<img src="/wp-content/uploads/disnysea_130529_13-448x297.jpg" alt="disnysea_130529_13" width="448" height="297" class="alignnone size-large wp-image-7297" /></p>
 <h2>撮ってみて</h2>
 <p>1日中持つのにズームレンズは重いしいらないかなと思って1本だけ持って行ったんですが失敗。<br />
 上の写真の後半のショーや風景を撮るときは、ズームレンズがあったらどんな風に撮れていたんだろうと思ってしまいました。<br />
@@ -134,5 +134,5 @@ Eye-FiからダイレクトモードでiPadminiに写真を転送しているの
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/digicame-ipad-mini" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/eyefi_130525-448x297.jpg" alt="デジカメの液晶が見にくいから、外で撮った写真はiPadminiで確認する。 | kotala's note" width="150" /></a><a href="https://kotalab.com/digicame-ipad-mini" target="_blank">デジカメの液晶が見にくいから、外で撮った写真はiPadminiで確認する。 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/disnysea-eat-walk" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/disnysea_130528-448x297.jpg" alt="東京ディズニーシーでワゴンのスナックを食べ歩き。 | kotala's note" width="150" /></a><a href="https://kotalab.com/disnysea-eat-walk" target="_blank">東京ディズニーシーでワゴンのスナックを食べ歩き。 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/digicame-ipad-mini" target="_blank"><img  class="alignleft" src="/wp-content/uploads/eyefi_130525-448x297.jpg" alt="デジカメの液晶が見にくいから、外で撮った写真はiPadminiで確認する。 | kotala's note" width="150" /></a><a href="/digicame-ipad-mini" target="_blank">デジカメの液晶が見にくいから、外で撮った写真はiPadminiで確認する。 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/disnysea-eat-walk" target="_blank"><img  class="alignleft" src="/wp-content/uploads/disnysea_130528-448x297.jpg" alt="東京ディズニーシーでワゴンのスナックを食べ歩き。 | kotala's note" width="150" /></a><a href="/disnysea-eat-walk" target="_blank">東京ディズニーシーでワゴンのスナックを食べ歩き。 | kotala's note</a><br style="clear:both;" /></p>

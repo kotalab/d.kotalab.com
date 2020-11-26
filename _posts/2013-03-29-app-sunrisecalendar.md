@@ -22,7 +22,7 @@ tags:
 - facebook
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/sunrisecal_130329-448x448.jpg" alt="sunrisecal_130329" width="448" height="448" class="alignnone size-large wp-image-6656" /><br />
+<p><img src="/wp-content/uploads/sunrisecal_130329-448x448.jpg" alt="sunrisecal_130329" width="448" height="448" class="alignnone size-large wp-image-6656" /><br />
 デフォルトのカレンダーアプリを使っていました。@kotala_bです。<br />
 Googleカレンダーと同期させていたのですが、すぐに反映されないこともしょっちゅう。<br />
 Googleカレンダーとすぐに同期出来て見た目もキレイなカレンダーアプリを探していました。<br />
@@ -43,9 +43,9 @@ Googleカレンダーとすぐに同期出来て見た目もキレイなカレ�
 アプリ起動時に自動同期してくれるので、毎回最新の情報に更新されます。<br />
 UIはとってもシンプルで簡単なスワイプ操作で週間と月間表示を変更出来ます。<br />
 ▼週間表示<br />
-<img src="https://kotalab.com/wp-content/uploads/sunrisecal_130329_01-300x513.jpg" alt="sunrisecal_130329_01" width="300" height="513" class="alignnone size-medium wp-image-6654" /><br />
+<img src="/wp-content/uploads/sunrisecal_130329_01-300x513.jpg" alt="sunrisecal_130329_01" width="300" height="513" class="alignnone size-medium wp-image-6654" /><br />
 ▼表示されるのはGoogleカレンダーだけでなく、Facebookのイベントや誕生日その日の天気といったモノも表示されます。<br />
-<img src="https://kotalab.com/wp-content/uploads/sunrisecal_130329_02-300x513.jpg" alt="sunrisecal_130329_02" width="300" height="513" class="alignnone size-medium wp-image-6655" /></p>
+<img src="/wp-content/uploads/sunrisecal_130329_02-300x513.jpg" alt="sunrisecal_130329_02" width="300" height="513" class="alignnone size-medium wp-image-6655" /></p>
 <h2>最後に</h2>
 <p>決して安っぽくない、なのに無料のカレンダーアプリ「SunriseCalendar」のご紹介でした。<br />
 無料アプリなのでお気軽にお試しください！</p>
@@ -60,5 +60,5 @@ UIはとってもシンプルで簡単なスワイプ操作で週間と月間表
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/count-down-cal" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/countdowncal_121125-448x448.png" alt="予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！ | kotala's note" width="150" /></a><a href="https://kotalab.com/count-down-cal" target="_blank">予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/iphone5-first10app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone5-first10app" target="_blank">iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/count-down-cal" target="_blank"><img  class="alignleft" src="/wp-content/uploads/countdowncal_121125-448x448.png" alt="予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！ | kotala's note" width="150" /></a><a href="/count-down-cal" target="_blank">予定の時刻をカウントダウンしてくれるアプリ「カウントダウンカレンダー」がスゴく便利！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/iphone5-first10app" target="_blank"><img  class="alignleft" src="/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note" width="150" /></a><a href="/iphone5-first10app" target="_blank">iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note</a><br style="clear:both;" /></p>

@@ -21,19 +21,19 @@ tags:
 - 前川企画印刷
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/blogermeishi_120921_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/blogermeishi_120921_03.jpg" alt="" title="blogermeishi_120921_03" width="448" height="336" class="alignnone size-full wp-image-2918" /></a><br />
+<p><a href="/wp-content/uploads/blogermeishi_120921_03.jpg" target="_blank"><img src="/wp-content/uploads/blogermeishi_120921_03.jpg" alt="" title="blogermeishi_120921_03" width="448" height="336" class="alignnone size-full wp-image-2918" /></a><br />
 iPhone5発売日に小包が届きました。@kotala_bです。<br />
-送り先は<a href="https://kotalab.com/meishi-maekawa" title="前川企画印刷さんでブロガー名刺を作ってみる！" target="_blank">あの</a>前川企画印刷さんです！<br />
+送り先は<a href="/meishi-maekawa" title="前川企画印刷さんでブロガー名刺を作ってみる！" target="_blank">あの</a>前川企画印刷さんです！<br />
 ついに名刺が完成し手元に届きました！<br />
 </p>
 <!--more-->
 <h2>早速開封！</h2>
 <p>中には封筒が同封されていてメッセージもついていました！<br />
-<a href="https://kotalab.com/wp-content/uploads/blogermeishi_120921_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/blogermeishi_120921_02.jpg" alt="" title="blogermeishi_120921_02" width="448" height="336 class="alignnone size-full wp-image-2917" /></a><br />
+<a href="/wp-content/uploads/blogermeishi_120921_02.jpg" target="_blank"><img src="/wp-content/uploads/blogermeishi_120921_02.jpg" alt="" title="blogermeishi_120921_02" width="448" height="336 class="alignnone size-full wp-image-2917" /></a><br />
 ありがとうございます！<br />
 予約はしましたが発売初日にはまだiPhoneを手に入れてません！<br />
 もう一つ小さな箱が！<br />
-<a href="https://kotalab.com/wp-content/uploads/blogermeishi_120921_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/blogermeishi_120921_01.jpg" alt="" title="blogermeishi_120921_01" width="448" height="336" class="alignnone size-full wp-image-2916" /></a><br />
+<a href="/wp-content/uploads/blogermeishi_120921_01.jpg" target="_blank"><img src="/wp-content/uploads/blogermeishi_120921_01.jpg" alt="" title="blogermeishi_120921_01" width="448" height="336" class="alignnone size-full wp-image-2916" /></a><br />
 中には名刺が100枚入っていました！<br />
 オリジナルのデザインで作ってもらえてとても嬉しかったです！<br />
 ありがとうございました！</p>

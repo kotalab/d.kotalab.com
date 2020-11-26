@@ -21,7 +21,7 @@ tags:
 - 健康
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/aojiru_120826_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/aojiru_120826_01.jpg" alt="" title="aojiru_120826_01" width="448" height="336" class="alignnone size-full wp-image-2331" /></a><br />
+<p><a href="/wp-content/uploads/aojiru_120826_01.jpg" target="_blank"><img src="/wp-content/uploads/aojiru_120826_01.jpg" alt="" title="aojiru_120826_01" width="448" height="336" class="alignnone size-full wp-image-2331" /></a><br />
 初めて青汁を飲みました。@kotala_bです。<br />
 大麦若葉100%の青汁を飲みました。<br />
 </p>
@@ -55,11 +55,11 @@ comments: []
 <h2>今度は自分から</h2>
 <p>勧められた次の日の朝（今朝）は自分で作って飲んでみました。<br />
 ▼青汁が入った箱がこちら。「野菜不足・野菜嫌い・食生活が不規則な方に」<br />
-<a href="https://kotalab.com/wp-content/uploads/aojiru_120826_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/aojiru_120826_02.jpg" alt="" title="aojiru_120826_02" width="448" height="336" class="alignnone size-full wp-image-2332" /></a><br />
+<a href="/wp-content/uploads/aojiru_120826_02.jpg" target="_blank"><img src="/wp-content/uploads/aojiru_120826_02.jpg" alt="" title="aojiru_120826_02" width="448" height="336" class="alignnone size-full wp-image-2332" /></a><br />
 ▼1杯分ずつ小分けにされて箱に入っています。<br />
-<a href="https://kotalab.com/wp-content/uploads/aojiru_120826_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/aojiru_120826_03.jpg" alt="" title="aojiru_120826_03" width="448" height="336" class="alignnone size-full wp-image-2333" /></a><br />
+<a href="/wp-content/uploads/aojiru_120826_03.jpg" target="_blank"><img src="/wp-content/uploads/aojiru_120826_03.jpg" alt="" title="aojiru_120826_03" width="448" height="336" class="alignnone size-full wp-image-2333" /></a><br />
 ▼1袋分をコップに入れ水を入れてかき混ぜれば完成。<br />
-<a href="https://kotalab.com/wp-content/uploads/aojiru_120826_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/aojiru_120826_04.jpg" alt="" title="aojiru_120826_04" width="448" height="336" class="alignnone size-full wp-image-2330" /></a></p>
+<a href="/wp-content/uploads/aojiru_120826_04.jpg" target="_blank"><img src="/wp-content/uploads/aojiru_120826_04.jpg" alt="" title="aojiru_120826_04" width="448" height="336" class="alignnone size-full wp-image-2330" /></a></p>
 <h2>まとめ</h2>
 <p>イメージが先行しててなかなか飲むことがなかった青汁。<br />
 実際に飲んでみたら緑茶に似てておいしかったです！<br />

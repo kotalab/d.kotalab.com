@@ -24,7 +24,7 @@ tags:
 - 障害年金
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/money-nenkin_140208-546x361.jpg" alt="money-nenkin_140208" width="546" height="361" class="alignnone size-large wp-image-10785" /><br />
+<p><img src="/wp-content/uploads/money-nenkin_140208-546x361.jpg" alt="money-nenkin_140208" width="546" height="361" class="alignnone size-large wp-image-10785" /><br />
 日本人の誰もが20歳になると加入する国民年金。<br />
 国民年金に加入することは国民の義務として法律に定められています。<br />
 国民年金て20歳から59歳まで加入して、その後に年金を受け取るだけじゃないのを知ってましたか？<br />
@@ -57,14 +57,14 @@ comments: []
 それでも足りなければ、足りない分だけ保険に入りましょう。</strong></p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/syunyu-hosho-hoken" target="_blank"><img src="https://kotalab.com/wp-content/uploads/syunyu-hosho-hoken_20140202_04-546x162.png" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/syunyu-hosho-hoken" target="_blank">生命保険に入る前に知っておきたい収入保障保険という選択肢</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/syunyu-hosho-hoken"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/syunyu-hosho-hoken" alt="" /></span></div>
+<div class="shhtimg"><a href="/syunyu-hosho-hoken" target="_blank"><img src="/wp-content/uploads/syunyu-hosho-hoken_20140202_04-546x162.png" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/syunyu-hosho-hoken" target="_blank">生命保険に入る前に知っておきたい収入保障保険という選択肢</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/syunyu-hosho-hoken"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/syunyu-hosho-hoken" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank"><img src="https://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/money-kougakuryoyohi"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/money-kougakuryoyohi" alt="" /></span></div>
+<div class="shhtimg"><a href="/money-kougakuryoyohi" target="_blank"><img src="/wp-content/uploads/money_130719-448x336.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/money-kougakuryoyohi" target="_blank">知らないと損するお金のこと「高額療養費」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/money-kougakuryoyohi"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/money-kougakuryoyohi" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/whats-nenkin" target="_blank"><img src="https://kotalab.com/wp-content/uploads/whats-nenkin_140207-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/whats-nenkin" target="_blank">あなたは知ってますか？年金の支払い期間と受取り金額</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/whats-nenkin"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/whats-nenkin" alt="" /></span></div>
+<div class="shhtimg"><a href="/whats-nenkin" target="_blank"><img src="/wp-content/uploads/whats-nenkin_140207-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/whats-nenkin" target="_blank">あなたは知ってますか？年金の支払い期間と受取り金額</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/whats-nenkin"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/whats-nenkin" alt="" /></span></div>
 </div>

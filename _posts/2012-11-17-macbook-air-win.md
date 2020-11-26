@@ -22,14 +22,14 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/zakki_20121117.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/zakki_20121117-448x297.jpg" alt="" title="zakki_20121117" width="448" height="297" class="alignnone size-large wp-image-4278" /></a><br />
+<p><a href="/wp-content/uploads/zakki_20121117.jpg" target="_blank"><img src="/wp-content/uploads/zakki_20121117-448x297.jpg" alt="" title="zakki_20121117" width="448" height="297" class="alignnone size-large wp-image-4278" /></a><br />
 <span style="font-size:10px;"><a href="http://www.ashinari.com/2012/09/27-370780.php" target="_blank">写真素材 足成：見詰める</a></span><br />
 WindowsPCが動かなくなりました。@kotala_bです。<br />
 MacBookAirをメインに変えてからは週1でしか使ってなかったのでそれほど大きな影響はありません。<br />
 大きくはないんですが困ったことがありました。<br />
 windowsでしか動かないソフトの存在です。<br />
 僕が週1で使っていたのはWindowsでしか動かない弥生の会計ソフトだったのです。<br />
-そこで<a href="https://kotalab.com/macbook-air-dual-diysplay" title="MacBookAirでもデュアルディスプレイにしてみたらかなり快適だった！一番よく使う画面は大きい方がいい！" target="_blank">デュアルディスプレイ化する時</a>に一緒にUSBSurperDriveを購入しBootCampからWindowsを入れることにしました。</p>
+そこで<a href="/macbook-air-dual-diysplay" title="MacBookAirでもデュアルディスプレイにしてみたらかなり快適だった！一番よく使う画面は大きい方がいい！" target="_blank">デュアルディスプレイ化する時</a>に一緒にUSBSurperDriveを購入しBootCampからWindowsを入れることにしました。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0062DEZBO/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51mac1s104L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
@@ -85,4 +85,4 @@ Google先生に聞いたところMountainLion(OSX10.8)のBootcamp4.0からはWin
 <p>仮想化ソフトは何がいいんだろうという疑問もあり現在ストップしてしまっております。<br />
 今月頭からWindowsPCが完全に動かなくなって以来、なかなか進まなくなってしまっているので現状を記事にしてみました。<br />
 さあどうしよう。<br />
-2012/11/19追記：VMwareFusion5を使ってWindowsXPを入れることに決めました。<a href="https://kotalab.com/macbook-air-winxp" target="_blank">MacBookAirにWindowsXPをインストール！これでTaskchuteを再開出来る！ | kotala's note</a></p>
+2012/11/19追記：VMwareFusion5を使ってWindowsXPを入れることに決めました。<a href="/macbook-air-winxp" target="_blank">MacBookAirにWindowsXPをインストール！これでTaskchuteを再開出来る！ | kotala's note</a></p>

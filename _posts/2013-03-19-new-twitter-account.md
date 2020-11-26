@@ -22,7 +22,7 @@ tags:
 - googleリーダー
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/Twitter_130319.jpg" alt="Twitter_130319" width="448" height="280" class="alignnone size-full wp-image-6548" /><br />
+<p><img src="/wp-content/uploads/Twitter_130319.jpg" alt="Twitter_130319" width="448" height="280" class="alignnone size-full wp-image-6548" /><br />
 ブログのTwitter公式アカウントを作りました。@kotala_bです。<br />
 更新情報専用のTwitterアカウントは@kotalab_comです。<br />
 </p>
@@ -37,5 +37,5 @@ comments: []
 Googleリーダーの終了を受けての新たな試みです！<br />
 FacebookやRSSで情報収集している方はこのページの下の方にボタンがありますので、そちらから登録をお願いします！</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/change-rss" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/rss_130315-448x409.jpg" alt="RSSに変わる更新情報の配信方法 | kotala's note" width="150" /></a><a href="https://kotalab.com/change-rss" target="_blank">RSSに変わる更新情報の配信方法 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/googlereader-end" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/googlereader_130314-448x336.jpg" alt="2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note" width="150" /></a><a href="https://kotalab.com/googlereader-end" target="_blank">2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/change-rss" target="_blank"><img  class="alignleft" src="/wp-content/uploads/rss_130315-448x409.jpg" alt="RSSに変わる更新情報の配信方法 | kotala's note" width="150" /></a><a href="/change-rss" target="_blank">RSSに変わる更新情報の配信方法 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/googlereader-end" target="_blank"><img  class="alignleft" src="/wp-content/uploads/googlereader_130314-448x336.jpg" alt="2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note" width="150" /></a><a href="/googlereader-end" target="_blank">2013年7月1日にgoogleリーダーが終了！代替サービスとこれから | kotala's note</a><br style="clear:both;" /></p>

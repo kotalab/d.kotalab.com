@@ -17,7 +17,7 @@ category:
 tags: []
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/insurancecannotfeelrelieved_131126_02-546x361.jpg" alt="insurancecannotfeelrelieved_131126_02" width="546" height="361" class="aligncenter size-large wp-image-10245" /></p>
+<p><img src="/wp-content/uploads/insurancecannotfeelrelieved_131126_02-546x361.jpg" alt="insurancecannotfeelrelieved_131126_02" width="546" height="361" class="aligncenter size-large wp-image-10245" /></p>
 <p>同じ場面で2人の人に同じことを教えても、成長できる人と成長できない人がいます。<br />
 その2人の違いがどこにあるのか気になったので、2人を観察してみました。<br />
 観察といっても普段よりも違いを気にして接する意識を変えた程度のものですが、それでもわかったことがあります。</p>
@@ -40,5 +40,5 @@ comments: []
 <p>とにかくやってみよう！</p>
 <p>[dailynew]<br />
 ・ApplicationLoaderからアップロード</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

@@ -24,9 +24,9 @@ tags:
 - AppStoreHelper
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/appstorehelper_130822_01-448x336.jpg" alt="appstorehelper_130822_01" width="448" height="336" class="alignnone size-large wp-image-8149" /><br />
+<p><img src="/wp-content/uploads/appstorehelper_130822_01-448x336.jpg" alt="appstorehelper_130822_01" width="448" height="336" class="alignnone size-large wp-image-8149" /><br />
 PHGへの登録を済ませました。こたら（@kotala_b）です。<br />
-<a href="https://kotalab.com/lnkshare-phg" title="LinkShareからPHGへ！PHGでiTunesStoreのアフィリエイトリンクを貼る方法" target="_blank">先日ご紹介したように</a>iTunesStoreのアフィリエイト提携先がLinkShareからPerformance Horizon Group（PHG）へ変更になります。<br />
+<a href="/lnkshare-phg" title="LinkShareからPHGへ！PHGでiTunesStoreのアフィリエイトリンクを貼る方法" target="_blank">先日ご紹介したように</a>iTunesStoreのアフィリエイト提携先がLinkShareからPerformance Horizon Group（PHG）へ変更になります。<br />
 アプリの紹介には今まで「<a href="https://pochireba.com" title="ポチレバ" target="_blank">ポチレバ</a>」というかん吉さん（@kankichi）のツールを使ってアフィリエイトリンクを作成していました。<br />
 今現在、「<a href="https://pochireba.com" title="ポチレバ" target="_blank">ポチレバ</a>」はPHGへの対応がされていないのでPHGに対応済みの「AppStoreHelper」を使ってみることにしました。<br />
 </p>
@@ -38,16 +38,16 @@ PHGに対応しているのは最新の「Ver.0.64alpha(人柱版)」という�
 ダウンロードしたら「AppStoreHelper.app」をアプリケーションフォルダに入れてインストール完了。</p>
 <h3>PHG対応済みAppStoreHelperの最初の設定</h3>
 <p>アプリを開いたら「command」+「,」で初期設定を行います。<br />
-<img src="https://kotalab.com/wp-content/uploads/appstorehelper_130822_02.jpg" alt="appstorehelper_130822_02" width="230" height="189" class="alignnone size-full wp-image-8151" /><br />
+<img src="/wp-content/uploads/appstorehelper_130822_02.jpg" alt="appstorehelper_130822_02" width="230" height="189" class="alignnone size-full wp-image-8151" /><br />
 最上部にあるアフィリエイトIDのところにPHGで取得したアフィリエイトIDを入力し保存。<br />
-<img src="https://kotalab.com/wp-content/uploads/appstorehelper_130822_03-448x411.jpg" alt="appstorehelper_130822_03" width="448" height="411" class="alignnone size-large wp-image-8152" /><br />
+<img src="/wp-content/uploads/appstorehelper_130822_03-448x411.jpg" alt="appstorehelper_130822_03" width="448" height="411" class="alignnone size-large wp-image-8152" /><br />
 あとはお好みで書式設定を行い設定終了です。</p>
 <h3>PHG対応済みAppStoreHelperでリンクを作ってみた</h3>
 <p>「AppStoreHelper」を使って早速リンクを作ってみました！<br />
 みんな大好きEvernoteを検索<br />
-<img src="https://kotalab.com/wp-content/uploads/appstorehelper_130822_04-448x424.jpg" alt="appstorehelper_130822_04" width="448" height="424" class="alignnone size-large wp-image-8150" /><br />
+<img src="/wp-content/uploads/appstorehelper_130822_04-448x424.jpg" alt="appstorehelper_130822_04" width="448" height="424" class="alignnone size-large wp-image-8150" /><br />
 アプリを選択した状態で「タグコピー」<br />
-<img src="https://kotalab.com/wp-content/uploads/appstorehelper_130822_05-448x424.jpg" alt="appstorehelper_130822_05" width="448" height="424" class="alignnone size-large wp-image-8148" /><br />
+<img src="/wp-content/uploads/appstorehelper_130822_05-448x424.jpg" alt="appstorehelper_130822_05" width="448" height="424" class="alignnone size-large wp-image-8148" /><br />
 挿入したい部分にペーストしたら出来上がり！<br />
 試しに作ってみたのが下のリンクです<br />
 <a href="https://itunes.apple.com/jp/app/evernote/id281796108?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img align="left" hspace="6" src="http://a246.phobos.apple.com/us/r1000/022/Purple4/v4/1f/85/87/1f858720-cd9a-e525-9ec5-75f56fd68522/icon-57.png" width="75" style="margin-right: 6px;" /><b>Evernote</b> <img alt="App" src="http://ax.phobos.apple.com.edgesuite.net/ja_jp/images/web/linkmaker/badge_appstore-sm.gif" style="vertical-align: text-bottom;" /></b><br />

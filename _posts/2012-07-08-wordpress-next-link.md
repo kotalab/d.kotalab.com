@@ -20,7 +20,7 @@ tags:
 - 自動でリンク
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/link_120708.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
+<p><a href="/wp-content/uploads/link_120708.jpg" target="_blank"><img src="/wp-content/uploads/link_120708.jpg" alt="" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 最近ブログの細かいところに手を加えています。@kotala_bです。<br />
 ブログを弄っていて気づいたのですが、当ブログ「<a href="https://kotalab.com" title="トップページへ" target="_blank">kotala's note</a>」には前後の記事へのリンクがない！<br />

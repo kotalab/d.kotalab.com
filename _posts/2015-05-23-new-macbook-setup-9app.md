@@ -28,7 +28,7 @@ tags:
 - Xcode
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/new-macbook-setup-9app_20150523_01.jpg" alt="New macbook setup 9app 20150523 01" width="780" height ="520" class="aligncenter size-large" /><br />
+<p><img src="/wp-content/uploads/2015/05/new-macbook-setup-9app_20150523_01.jpg" alt="New macbook setup 9app 20150523 01" width="780" height ="520" class="aligncenter size-large" /><br />
 MacBook Pro Retina15インチモデルを買いました！</p>
 <p>まだMacBook Airの方で書いていますが、セットアップが終わり次第新しいMacBook Proの方で書いていきます。</p>
 <p>隣でセットアップ中にアプリを入れていってる最中なのですが、何よりも先に入れた9つのアプリをご紹介します！</p>
@@ -134,7 +134,7 @@ Illustratorと違って課金制じゃなく、買ったらずっと使えます
 今はWindows版の1passwordもあるみたいですが、その当時はまだMac版だけでした。</p>
 <p><a href="https://www.keepassx.org" title="keepassX" target="_blank">KeepassX</a></p>
 <h2>さいごに</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/new-macbook-setup-9app_20150523_02.png" alt="New macbook setup 9app 20150523 02" width="780" height ="487" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/new-macbook-setup-9app_20150523_02.png" alt="New macbook setup 9app 20150523 02" width="780" height ="487" class="aligncenter size-large" /></p>
 <p>もう少し入れるアプリは増えそうですけど、使ってないアプリはこの機会に断捨離！</p>
 <p>主要なアプリは入れたのでこれからアプリ内の設定をしていきます。<br />
 新しいマシンを買ったときのこういう作業が結構好きです。</p>

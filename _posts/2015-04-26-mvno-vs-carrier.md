@@ -25,7 +25,7 @@ tags:
 - 格安SIM
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/02/slooProImg_20150227103006.jpg" alt="slooProImg_20150227103006.jpg" width="720" height="540" class="aligncenter size-full wp-image-13993" /><br />
+<p><img src="/wp-content/uploads/2015/02/slooProImg_20150227103006.jpg" alt="slooProImg_20150227103006.jpg" width="720" height="540" class="aligncenter size-full wp-image-13993" /><br />
 MMD研究所が発表した「<a href="https://mmdlabo.jp/investigation/detail_1429.html" target="_blank">22015年4月格安スマホ通信速度調査</a>」によると、MVNO10社とdocomo、au、SoftBankのキャリアでは昼間の時間帯に通信速度の差が大きくなることがわかりました。</p>
 <blockquote><p>
 トラフィックが集中すると言われている12時～13時のお昼の時間帯は、顕著に通信キャリアと格安スマホでダウンロード平均スピードに差が出ており、docomo、au、SoftBankの3キャリア平均が27.6Mbpsだったのに対し、調査対象格安スマホ全体の平均は1.8Mbpsと速度低下が見られた。<br />
@@ -55,5 +55,5 @@ via:<a href="https://mmdlabo.jp/investigation/detail_1429.html" target="_blank">
 <p>キャリアに高い通信料を払っていても、MVNOと同じような回線速度ではキャリアを使うメリットはないし、キャリア側もそれをわかっているのでしょう。</p>
 <h2>最後に</h2>
 <p>MVNOは「安さ」で選ばれるようになってきたのですが、ここへきて「質」という問題点があることが明らかになってきました。<br />
-僕自身、<a href="https://kotalab.com/dmmmobile-sim-speed" title="DMMMobileの格安SIMで速度を測ってみたよ！モバイルルーターで使うとイマイチかも">MVNOのSIMをモバイルルーターで利用したこと</a>があるのですが、思ったよりも通信速度が出ず<span class="b">1ヶ月で解約</span>してしまいました。</p>
+僕自身、<a href="/dmmmobile-sim-speed" title="DMMMobileの格安SIMで速度を測ってみたよ！モバイルルーターで使うとイマイチかも">MVNOのSIMをモバイルルーターで利用したこと</a>があるのですが、思ったよりも通信速度が出ず<span class="b">1ヶ月で解約</span>してしまいました。</p>
 <p>これからMVNOで契約を考えている場合は、その<strong>「質」も判断材料にしたほうがいいのかも知れません。</strong></p>

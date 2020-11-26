@@ -21,7 +21,7 @@ tags:
 - オーブントースター
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130325192549.jpg" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20130325192549.jpg" width="448" height="336" /><br />
 久しぶりにトーストを食べました。@kotala_bです。<br />
 引っ越してトースターがなかったので、オーブントースターを買いました。<br />
 買ったのはTWINBIRDの食パンが4枚も同時に焼けるミラーガラスのオーブントースターです！</p>
@@ -42,18 +42,18 @@ comments: []
 <!--more-->
 <h2>TWINBIRD ミラーガラスオーブントースター</h2>
 <p>▼正面はミラーガラスになっていて、写真を撮るとしっかり映り込みます！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130325192547.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130325192547.jpg" width="448" height="336" /><br />
 ▼開けたところ<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130325192545.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130325192545.jpg" width="448" height="336" /><br />
 ▼食パンが4枚も焼けるという大きさのトレー<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130325192543.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130325192543.jpg" width="448" height="336" /><br />
 本当に4枚も焼けるのか試してみました！<br />
 ▼置くことは可能！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130325192541.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130325192541.jpg" width="448" height="336" /><br />
 ▼焼いてる途中はミラーガラスが透けて中が見えました！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130325192538.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130325192538.jpg" width="448" height="336" /><br />
 ▼出来上がり！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130325192540.jpg" width="448" height="448" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20130325192540.jpg" width="448" height="448" /><br />
 美味しそうにこんがり焼けました！</p>
 <h2>最後に</h2>
 <p>ちょっとおしゃれなオーブントースターのご紹介でした。<br />

@@ -24,7 +24,7 @@ tags:
 - MacBook Air
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215103625.jpg" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20121215103625.jpg" width="448" height="336" /><br />
 iPadmini用のスタンドを購入しました。@kotala_bです。<br />
 ▼購入したのはこちら</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
@@ -49,39 +49,39 @@ Amazonから届いたので早速ご紹介していきます！<br />
 <!--more-->
 <h2>開封！</h2>
 <p>▼パッケージにはスタンドの説明書きが英語で書いてあります。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215103623.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215103623.jpg" width="448" height="336" /><br />
 絵が書いてあるので英語が読めなくても大丈夫！<br />
 ▼パッケージを開封<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215103622.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215103622.jpg" width="448" height="336" /><br />
 専用ポーチに入った状態で中に入っていました。<br />
 ▼ポーチから取り出すとこんな感じ。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102802.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102802.jpg" width="448" height="336" /><br />
 ▼スタンドの大きさはiPadminiよりも若干長めです。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102842.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102842.jpg" width="448" height="336" /><br />
 二つ折りの状態になっているので脚を開いて使います。<br />
 ▼シルバーのボタンを押すとロックが外れて脚が開きます。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102843.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102843.jpg" width="448" height="336" /><br />
 ボタンがちょっとかため。<br />
 脚を持ちながら両手の親指を押すと簡単に開きました。<br />
 ▼脚を広げたらiPadminiをのせる突起を引っ張りだします。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102838.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102838.jpg" width="448" height="336" /><br />
 ▼後はiPadminiをのせるだけ<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102808.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102808.jpg" width="448" height="336" /><br />
 この乗せる部分には滑り止めつきなので安心してiPadminiを置くことが出来ます。<br />
 ▼拡大<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102811.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102811.jpg" width="448" height="336" /><br />
 iPadminiの場合、縦置きするとこの台に乗りません。<br />
 ▼若干横幅が合わない！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102821.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102821.jpg" width="448" height="336" /><br />
 ▼縦置きする時は少しだけ脚を閉じる<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102819.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102819.jpg" width="448" height="336" /><br />
 これで縦置きも可能です。<br />
 また、このスタンドは充電しながらの使用も可能です！<br />
 縦置きの場合はまた少し工夫が必要になります。<br />
 ▼そのまま置くとLightningケーブルが曲がってしまうので<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102817.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102817.jpg" width="448" height="336" /><br />
 ▼上下を逆にして置きます。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102814.jpg" width="448" height="336" /></p>
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102814.jpg" width="448" height="336" /></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Flcd-clock-hd%252Fid364744542%253Fmt%253D8%2526uo%253D4"><img src="http://a107.phobos.apple.com/us/r1000/106/Purple/v4/3e/67/60/3e676009-b50c-a63d-f387-119f69ae9231/mzm.xhjzovqh.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Flcd-clock-hd%252Fid364744542%253Fmt%253D8%2526uo%253D4">LCD Clock HD</span></div>
@@ -96,25 +96,25 @@ iPadminiの場合、縦置きするとこの台に乗りません。<br />
 <p>iPadのみならずMacBook Airの台にもなるというので試しに乗せてみました！<br />
 そのままでも置けましたが、より安定させる為に脚を伸ばします。<br />
 ▼脚を矢印の方向にひっぱると伸びます！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102836.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102836.jpg" width="448" height="336" /><br />
 ▼伸びた！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102834.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102834.jpg" width="448" height="336" /><br />
 ▼ちなみに脚を伸ばした状態だとiPadminiは置けませんでした。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102831.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102831.jpg" width="448" height="336" /><br />
 ▼MacBook Airを置いてみました。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102827.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102827.jpg" width="448" height="336" /><br />
 ばっちり！<br />
 ▼開いて置くことも可能です。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102825.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102825.jpg" width="448" height="336" /><br />
 ▼横からみたところ<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102823.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102823.jpg" width="448" height="336" /><br />
 MacBook Airを置いても安定感ばっちりです！</p>
 <h2>7段階の可変式！</h2>
 <p>このスタンドは細かい角度の調節が可能です！<br />
 ▼こんな角度から<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102806.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102806.jpg" width="448" height="336" /><br />
 ▼ほぼ垂直のこんな角度まで！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215102804.jpg" width="448" height="336" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121215102804.jpg" width="448" height="336" /><br />
 7段階の調節が可能！</p>
 <h2>最後に</h2>
 <p>iPad用スタンドの紹介でした！<br />

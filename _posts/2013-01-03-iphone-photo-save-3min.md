@@ -25,7 +25,7 @@ tags:
 - カメラロール
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/cameraroll130103.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cameraroll130103-448x305.jpg" alt="cameraroll130103" width="448" height="305" class="alignnone size-large wp-image-5203" /></a><br />
+<p><a href="/wp-content/uploads/cameraroll130103.jpg" target="_blank"><img src="/wp-content/uploads/cameraroll130103-448x305.jpg" alt="cameraroll130103" width="448" height="305" class="alignnone size-large wp-image-5203" /></a><br />
 前日の写真を毎朝保存しています。@kotala_bです。<br />
 <strong>撮った写真は外付けHDDとPicasaそしてEvernoteの3ヶ所に保存しています。<br />
 保存するための時間はたったの3分です。</strong><br />
@@ -37,7 +37,7 @@ comments: []
 PictShareにはあらかじめEvernoteのアカウントを登録しておきます。<br />
 PictShareを立ち上げ、保存したいアルバムを選択<br />
 ▼日付けごとに別れているので、日付けの周辺をタップすると1日分全てが選択されます<br />
-<a href="https://kotalab.com/wp-content/uploads/cameraroll130103_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cameraroll130103_01-300x513.png" alt="cameraroll130103_01" width="300" height="513" class="alignnone size-medium wp-image-5198" /></a><br />
+<a href="/wp-content/uploads/cameraroll130103_01.png" target="_blank"><img src="/wp-content/uploads/cameraroll130103_01-300x513.png" alt="cameraroll130103_01" width="300" height="513" class="alignnone size-medium wp-image-5198" /></a><br />
 これで1日に何枚の写真があっても1タップで1日分の写真を選択出来ます！<br />
 あとは設定しておいたEvernoteのノートブックに送信するだけ！<br />
 これだけなら毎朝1分で出来ます！</p>
@@ -53,10 +53,10 @@ PictShareを立ち上げ、保存したいアルバムを選択<br />
 </div>
 <h2>外付けHDDへ保存する</h2>
 <p>▼後で見返した時にわかりやすいよう、1日分の写真を1つのフォルダにまとめています。<br />
-<a href="https://kotalab.com/wp-content/uploads/cameraroll130103_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cameraroll130103_03-448x198.jpg" alt="cameraroll130103_03" width="448" height="198" class="alignnone size-large wp-image-5200" /></a><br />
+<a href="/wp-content/uploads/cameraroll130103_03.jpg" target="_blank"><img src="/wp-content/uploads/cameraroll130103_03-448x198.jpg" alt="cameraroll130103_03" width="448" height="198" class="alignnone size-large wp-image-5200" /></a><br />
 僕はMacBook Airを使っているので、フォトストリームでiPhoneやiPadminiで撮った写真を全て共有出来ます。<br />
 ▼フォトストリームで1日分を選択し<br />
-<a href="https://kotalab.com/wp-content/uploads/cameraroll130103_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cameraroll130103_02-448x341.jpg" alt="cameraroll130103_02" width="448" height="341" class="alignnone size-large wp-image-5199" /></a><br />
+<a href="/wp-content/uploads/cameraroll130103_02.jpg" target="_blank"><img src="/wp-content/uploads/cameraroll130103_02-448x341.jpg" alt="cameraroll130103_02" width="448" height="341" class="alignnone size-large wp-image-5199" /></a><br />
 保存先のフォルダへドラッグ！<br />
 これもたったの1分です！</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
@@ -76,10 +76,10 @@ PictShareを立ち上げ、保存したいアルバムを選択<br />
 <h2>Picasaへ保存する</h2>
 <p>Picasaへの保存はwebアップロードではなく、MacBook Airに入れたPicasaアプリからアップロードをしています。<br />
 ▼Picasaの設定で外付けHDDのフォルダをあらかじめ常時スキャンにしておきます<br />
-<a href="https://kotalab.com/wp-content/uploads/cameraroll_131303_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cameraroll_131303_04-448x371.jpg" alt="cameraroll_131303_04" width="448" height="371" class="alignnone size-large wp-image-5201" /></a><br />
+<a href="/wp-content/uploads/cameraroll_131303_04.jpg" target="_blank"><img src="/wp-content/uploads/cameraroll_131303_04-448x371.jpg" alt="cameraroll_131303_04" width="448" height="371" class="alignnone size-large wp-image-5201" /></a><br />
 <strong>こうしておくと外付けHDDへ保存すると同時に、自動でPicasaが読み取ってくれます。</strong><br />
 ▼共有先をなしにしてアップロードすれば自分だけが閲覧可能<br />
-<a href="https://kotalab.com/wp-content/uploads/cameraroll130103_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/cameraroll130103_05-448x412.jpg" alt="cameraroll130103_05" width="448" height="412" class="alignnone size-large wp-image-5202" /></a><br />
+<a href="/wp-content/uploads/cameraroll130103_05.jpg" target="_blank"><img src="/wp-content/uploads/cameraroll130103_05-448x412.jpg" alt="cameraroll130103_05" width="448" height="412" class="alignnone size-large wp-image-5202" /></a><br />
 共有ボタンを押して完了です！<br />
 これもたったの1分！</p>
 <h2>順番も大切</h2>

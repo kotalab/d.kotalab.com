@@ -22,7 +22,7 @@ tags:
 - ゲリラ豪雨
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140811084430.jpg" width="548" height="411" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140811084430.jpg" width="548" height="411" class="slooProImg" /><br />
 朝天気予報を確認して家を出ても、最近はなかなか安心できなくなってきました。</p>
 <p>それもそのはず。<br />
 ここ数年で局所的な大雨(ゲリラ豪雨)がすごく増えているからです。<br />
@@ -37,11 +37,11 @@ comments: []
 参考:<a href="http://www.river.go.jp/xbandradar/" target="_blank">ＸＲＡＩＮ雨量情報 地域選択</a><a href="https://b.hatena.ne.jp/entry/http://www.river.go.jp/xbandradar/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.river.go.jp/xbandradar/" alt="" /></a></p>
 <h2>そら案内でXバンドMPレーダーが見られた！</h2>
 <p>僕は普段、iPhoneアプリのそら案内というアプリで1日の天気を確認しているんですが、そのそら案内のアプリからとっても見やすいXバンドMPレーダーの様子がわかることを昨日知りました！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140811084431.jpg" width="548" height="411" class="slooProImg" /></p>
+<img alt="" src="/wp-content/uploads/slooProImg_20140811084431.jpg" width="548" height="411" class="slooProImg" /></p>
 <p>画像はiPad版のものですが、iPhoneからも同じように見ることができました。<br />
 そら案内にはAndroid版もあるのですが、昨日の時点(2014年8月10日)ではまだ未対応のようです。</p>
 <h3>最近の天気予報</h3>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140811084432.jpg" width="300" height="513" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140811084432.jpg" width="300" height="513" class="slooProImg" /><br />
 朝天気予報を確認しても、ゲリラ豪雨だなんだで最近は天気予報があまり当てにならなくなってるように感じていました。</p>
 <p>でも、いつも持ち歩いてるiPhoneでこんな簡単に天気がわかるようになってるなんて！</p>
 <p>XバンドMPレーダーが簡単に見られることもわかったし、iPhoneがますます活躍しそうです！</p>

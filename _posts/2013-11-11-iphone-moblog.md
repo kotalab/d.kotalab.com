@@ -32,7 +32,7 @@ comments:
   content: "[&#8230;] ◆ iPhoneでここまでできる！イチから始めるiPhoneでブログ更新する方法まとめ （ via kotala&#8217;s
     note ） [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iphonemoblog_131111-546x448.jpg" alt="iphonemoblog_131111" width="546" height="448" class="alignnone size-large wp-image-10142" /><br />
+<p><img src="/wp-content/uploads/iphonemoblog_131111-546x448.jpg" alt="iphonemoblog_131111" width="546" height="448" class="alignnone size-large wp-image-10142" /><br />
 たまにはiPhoneでもブログを書きたい。こたら（@kotala_b）です。<br />
 ここ半年くらいはずっとMacBook Airでブログを書いてるような気がします。<br />
 それまではちょくちょくiPhoneからも書いて投稿してたんですが、Kindleアプリで本を読んでることが多くなってiPhoneからは書いてませんでした。<br />

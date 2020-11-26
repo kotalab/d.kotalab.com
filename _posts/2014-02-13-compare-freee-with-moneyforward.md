@@ -33,12 +33,12 @@ comments: []
 </p>
 <!--more-->
 <h2>freeeとマネーフォワード</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-freee-with-moneyforward_140213_01-546x286.png" alt="compare-freee-with-moneyforward_140213_01" width="546" height="286" class="alignnone size-large wp-image-10823" /><br />
+<p><img src="/wp-content/uploads/compare-freee-with-moneyforward_140213_01-546x286.png" alt="compare-freee-with-moneyforward_140213_01" width="546" height="286" class="alignnone size-large wp-image-10823" /><br />
 僕が調べたのは「freee」と「マネーフォワード」というソフトです。<br />
 マネーフォワードは家計簿アプリとしても有名ですが、青色申告に対応した「マネーフォワード for BUSINESS」を正式リリースしたのは1月27日です。<br />
 それに比べるとfreeeの方が先駆け的存在です。</p>
 <h2>クラウド型会計ソフトの特徴</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/compare-freee-with-moneyforward_140213_02-546x286.png" alt="compare-freee-with-moneyforward_140213_02" width="546" height="286" class="alignnone size-large wp-image-10824" /><br />
+<p><img src="/wp-content/uploads/compare-freee-with-moneyforward_140213_02-546x286.png" alt="compare-freee-with-moneyforward_140213_02" width="546" height="286" class="alignnone size-large wp-image-10824" /><br />
 まずはこの二つに共通する特徴からみていきます。<br />
 制限はあるものの無料プランが用意されています。<br />
 クラウド型なのでインストール不要。<br />

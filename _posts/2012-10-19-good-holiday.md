@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/holiday_121019.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/holiday_121019.jpg" alt="" title="holiday_121019" width="448" height="336" class="alignnone size-full wp-image-3501" /></a><br />
+<p><a href="/wp-content/uploads/holiday_121019.jpg" target="_blank"><img src="/wp-content/uploads/holiday_121019.jpg" alt="" title="holiday_121019" width="448" height="336" class="alignnone size-full wp-image-3501" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/merfam/7317894094/" target="_blank">Myrtle Beach 2012</a> / merfam</span><br />
 仕事が休みの日はよく外出します。@kotala_bです。<br />
 やりたいことがあっても平日はなかなかまとまった時間が取れません。<br />

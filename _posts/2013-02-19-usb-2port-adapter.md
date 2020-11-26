@@ -23,7 +23,7 @@ tags:
 - USBアダプタ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/usbadpt_130219-448x336.jpg" alt="usbadpt_130219" width="448" height="336" class="alignnone size-large wp-image-6250" /><br />
+<p><img src="/wp-content/uploads/usbadpt_130219-448x336.jpg" alt="usbadpt_130219" width="448" height="336" class="alignnone size-large wp-image-6250" /><br />
 2ポートUSBアダプタを買いました。@kotala_bです。<br />
 買ったのは<strong>プラネックスのWUCHG03-W</strong>です。<br />
 プラネックスから出ているUSBアダプタはこの他に3種類ありました。<br />
@@ -72,21 +72,21 @@ comments: []
 <!--more-->
 <h2>WUCHG03-Wの外観</h2>
 <p>▼コンパクトなパッケージ<br />
-<img src="https://kotalab.com/wp-content/uploads/usbadpt_130219_01-448x336.jpg" alt="usbadpt_130219_01" width="448" height="336" class="alignnone size-large wp-image-6249" /><br />
+<img src="/wp-content/uploads/usbadpt_130219_01-448x336.jpg" alt="usbadpt_130219_01" width="448" height="336" class="alignnone size-large wp-image-6249" /><br />
 ▼プラグは可動式なので持ち運びにも便利！<br />
-<img src="https://kotalab.com/wp-content/uploads/usbadpt_130219_02-448x336.jpg" alt="usbadpt_130219_02" width="448" height="336" class="alignnone size-large wp-image-6246" /><br />
+<img src="/wp-content/uploads/usbadpt_130219_02-448x336.jpg" alt="usbadpt_130219_02" width="448" height="336" class="alignnone size-large wp-image-6246" /><br />
 ▼2ポート並んでいます<br />
-<img src="https://kotalab.com/wp-content/uploads/usbadpt_130219_03-448x336.jpg" alt="usbadpt_130219_03" width="448" height="336" class="alignnone size-large wp-image-6247" /><br />
+<img src="/wp-content/uploads/usbadpt_130219_03-448x336.jpg" alt="usbadpt_130219_03" width="448" height="336" class="alignnone size-large wp-image-6247" /><br />
 ▼Appleの純正アダプタと並べてみました<br />
-<img src="https://kotalab.com/wp-content/uploads/usbadpt_130219_04-448x336.jpg" alt="usbadpt_130219_04" width="448" height="336" class="alignnone size-large wp-image-6248" /><br />
+<img src="/wp-content/uploads/usbadpt_130219_04-448x336.jpg" alt="usbadpt_130219_04" width="448" height="336" class="alignnone size-large wp-image-6248" /><br />
 ▼真横から<br />
-<img src="https://kotalab.com/wp-content/uploads/usbadpt_130219_05-448x336.jpg" alt="usbadpt_130219_05" width="448" height="336" class="alignnone size-large wp-image-6244" /><br />
+<img src="/wp-content/uploads/usbadpt_130219_05-448x336.jpg" alt="usbadpt_130219_05" width="448" height="336" class="alignnone size-large wp-image-6244" /><br />
 ▼斜め上から見ると大きさの違いがはっきり<br />
-<img src="https://kotalab.com/wp-content/uploads/usbadpt_130219_06-448x336.jpg" alt="usbadpt_130219_06" width="448" height="336" class="alignnone size-large wp-image-6245" /><br />
+<img src="/wp-content/uploads/usbadpt_130219_06-448x336.jpg" alt="usbadpt_130219_06" width="448" height="336" class="alignnone size-large wp-image-6245" /><br />
 ▼Appleの純正アダプタを2つ並べてみました<br />
-<img src="https://kotalab.com/wp-content/uploads/usbadpt_130219_07-448x336.jpg" alt="usbadpt_130219_07" width="448" height="336" class="alignnone size-large wp-image-6242" /><br />
+<img src="/wp-content/uploads/usbadpt_130219_07-448x336.jpg" alt="usbadpt_130219_07" width="448" height="336" class="alignnone size-large wp-image-6242" /><br />
 ▼プラグ側<br />
-<img src="https://kotalab.com/wp-content/uploads/usbadpt_130219_08-448x336.jpg" alt="usbadpt_130219_08" width="448" height="336" class="alignnone size-large wp-image-6243" /></p>
+<img src="/wp-content/uploads/usbadpt_130219_08-448x336.jpg" alt="usbadpt_130219_08" width="448" height="336" class="alignnone size-large wp-image-6243" /></p>
 <h2>最後に</h2>
 <p>この2ポートアダプタは外出用に持ち歩こうと買いました。<br />
 外出先だとどうしても電源の数が限られてくるので、1つの電源で2台を同時充電出来るこのアダプターはとっても便利！<br />
@@ -105,6 +105,6 @@ iPhone5とPocketWifiの同時充電もしっかり出来ました！</p>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/cheero-power-plus" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" alt="大容量なのに安い！あのcheeroPowerPlusを購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/cheero-power-plus" target="_blank">大容量なのに安い！あのcheeroPowerPlusを購入！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/gl04p-update" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/gl04pupdate_121205-448x336.jpg" alt="EMOBILEのPocketwifi「GL04P」をアップデートする方法！ファームウェアアップデートで接続時間を伸ばそう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/gl04p-update" target="_blank">EMOBILEのPocketwifi「GL04P」をアップデートする方法！ファームウェアアップデートで接続時間を伸ばそう！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/gl04p-battery" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20120926062036.jpg" alt="EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/gl04p-battery" target="_blank">EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/cheero-power-plus" target="_blank"><img  class="alignleft" src="/wp-content/uploads/cheero_121014_01.jpg" alt="大容量なのに安い！あのcheeroPowerPlusを購入！ | kotala's note" width="150" /></a><a href="/cheero-power-plus" target="_blank">大容量なのに安い！あのcheeroPowerPlusを購入！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/gl04p-update" target="_blank"><img  class="alignleft" src="/wp-content/uploads/gl04pupdate_121205-448x336.jpg" alt="EMOBILEのPocketwifi「GL04P」をアップデートする方法！ファームウェアアップデートで接続時間を伸ばそう！ | kotala's note" width="150" /></a><a href="/gl04p-update" target="_blank">EMOBILEのPocketwifi「GL04P」をアップデートする方法！ファームウェアアップデートで接続時間を伸ばそう！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/gl04p-battery" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20120926062036.jpg" alt="EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！ | kotala's note" width="150" /></a><a href="/gl04p-battery" target="_blank">EMOBILE「GL04P」を購入！どれくらい電池が持つか確かめてみた！ | kotala's note</a><br style="clear:both;" /></p>

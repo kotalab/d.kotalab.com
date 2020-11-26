@@ -23,7 +23,7 @@ tags:
 - 日用品
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/amazonteikibin_130410-448x336.jpg" alt="amazonteikibin_130410" width="448" height="336" class="alignnone size-large wp-image-6776" /><br />
+<p><img src="/wp-content/uploads/amazonteikibin_130410-448x336.jpg" alt="amazonteikibin_130410" width="448" height="336" class="alignnone size-large wp-image-6776" /><br />
 Amazonの定期おトク便を使うようになりました。@kotala_bです。<br />
 定期おトク便はAmazonで通常購入するよりも割引で買えて、定期的に送ってくれるというサービスです。<br />
 ボディーソープがもうすぐなくなりそうなので、Amazonで探していると特定の商品を定期おトク便で買うと更に割引があることを知りました！</p>
@@ -103,5 +103,5 @@ Amazonの定期おトク便を使うようになりました。@kotala_bです�
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/umbrella" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/umbrella_130326-448x336.jpg" alt="まるでワインボトル！雨の日がちょっと楽しみになる折りたたみ傘！ | kotala's note" width="150" /></a><a href="https://kotalab.com/umbrella" target="_blank">まるでワインボトル！雨の日がちょっと楽しみになる折りたたみ傘！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/twinbird-ts-d017pb" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130325192549.jpg" alt="ミラーガラスのオーブントースター！TWINBIRDの「TS-D017PB」で焼いたトーストがこんがり焼けて美味しかった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/twinbird-ts-d017pb" target="_blank">ミラーガラスのオーブントースター！TWINBIRDの「TS-D017PB」で焼いたトーストがこんがり焼けて美味しかった！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/umbrella" target="_blank"><img  class="alignleft" src="/wp-content/uploads/umbrella_130326-448x336.jpg" alt="まるでワインボトル！雨の日がちょっと楽しみになる折りたたみ傘！ | kotala's note" width="150" /></a><a href="/umbrella" target="_blank">まるでワインボトル！雨の日がちょっと楽しみになる折りたたみ傘！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/twinbird-ts-d017pb" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130325192549.jpg" alt="ミラーガラスのオーブントースター！TWINBIRDの「TS-D017PB」で焼いたトーストがこんがり焼けて美味しかった！ | kotala's note" width="150" /></a><a href="/twinbird-ts-d017pb" target="_blank">ミラーガラスのオーブントースター！TWINBIRDの「TS-D017PB」で焼いたトーストがこんがり焼けて美味しかった！ | kotala's note</a><br style="clear:both;" /></p>

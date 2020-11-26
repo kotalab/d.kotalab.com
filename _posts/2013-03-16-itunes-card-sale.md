@@ -25,7 +25,7 @@ tags:
 - セブンイレブン
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/itunescard_130316-448x336.jpg" alt="itunescard_130316" width="448" height="336" class="alignnone size-large wp-image-6521" /><br />
+<p><img src="/wp-content/uploads/itunescard_130316-448x336.jpg" alt="itunescard_130316" width="448" height="336" class="alignnone size-large wp-image-6521" /><br />
 <span style="font-size:10px;">Itunes Gift Cards</a> / FOTOSHO-TO</span><br />
 iPhoneアプリはだいたい25％オフで買ってます。@kotala_bです。<br />
 AppStoreやiTunesStoreを利用する場合、買うモノを表示価格よりも安い値段で買う方法があります。<br />
@@ -52,6 +52,6 @@ AppStoreやiTunesStoreを利用する場合、買うモノを表示価格より�
 ▼iTunesカードの割引販売情報はこちらが便利です。<br />
 <a href="http://itc.rakucheki.com/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://itc.rakucheki.com/" alt="アイチューンズカード割引販売速報 - 今やっているiTunes Cardの割引・ポイント還元キャンペーンをお知らせします" width="150" height="130" /></a><a href="http://itc.rakucheki.com/" target="_blank">アイチューンズカード割引販売速報 - 今やっているiTunes Cardの割引・ポイント還元キャンペーンをお知らせします</a><a href="https://b.hatena.ne.jp/entry/http://itc.rakucheki.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://itc.rakucheki.com/" alt="" /></a><br style="clear:both;" />セール開始前の情報もあるのでおすすめです！</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/mnp-march" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iphoneandroid_120720.jpg" alt="MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note" width="150" /></a><a href="https://kotalab.com/mnp-march" target="_blank">MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/iBookstore-compare-kindlestore" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ibooks_130306-448x448.png" alt="iBookstoreから日本語版電子書籍がダウンロード可能に！KindleStoreと比べたiBookstoreの良さと残念なところ | kotala's note" width="150" /></a><a href="https://kotalab.com/iBookstore-compare-kindlestore" target="_blank">iBookstoreから日本語版電子書籍がダウンロード可能に！KindleStoreと比べたiBookstoreの良さと残念なところ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/money-app-good-habits" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/bookeep_130301-448x448.png" alt="資産管理や家計簿アプリを続けやすくする為にする、始める時のたった1つのコツ | kotala's note" width="150" /></a><a href="https://kotalab.com/money-app-good-habits" target="_blank">資産管理や家計簿アプリを続けやすくする為にする、始める時のたった1つのコツ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/mnp-march" target="_blank"><img  class="alignleft" src="/wp-content/uploads/iphoneandroid_120720.jpg" alt="MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note" width="150" /></a><a href="/mnp-march" target="_blank">MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/iBookstore-compare-kindlestore" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ibooks_130306-448x448.png" alt="iBookstoreから日本語版電子書籍がダウンロード可能に！KindleStoreと比べたiBookstoreの良さと残念なところ | kotala's note" width="150" /></a><a href="/iBookstore-compare-kindlestore" target="_blank">iBookstoreから日本語版電子書籍がダウンロード可能に！KindleStoreと比べたiBookstoreの良さと残念なところ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/money-app-good-habits" target="_blank"><img  class="alignleft" src="/wp-content/uploads/bookeep_130301-448x448.png" alt="資産管理や家計簿アプリを続けやすくする為にする、始める時のたった1つのコツ | kotala's note" width="150" /></a><a href="/money-app-good-habits" target="_blank">資産管理や家計簿アプリを続けやすくする為にする、始める時のたった1つのコツ | kotala's note</a><br style="clear:both;" /></p>

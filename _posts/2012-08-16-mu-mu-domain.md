@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/domain_120816.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/domain_120816.jpg" alt="" title="domain_120816" width="448" height="287" class="alignnone size-full wp-image-2154" /></a><br />
+<p><a href="/wp-content/uploads/domain_120816.jpg" target="_blank"><img src="/wp-content/uploads/domain_120816.jpg" alt="" title="domain_120816" width="448" height="287" class="alignnone size-full wp-image-2154" /></a><br />
 <span style="font-size:10px;">Domain Name Extensions</a> / The Booklight</span><br />
 ドメインはムームードメインで取得しました。@kotala_bです。<br />
 そのムームードメインが今だけ最大70%オフのキャンペーンを実施中です！<br />

@@ -23,7 +23,7 @@ tags:
 - ダイレクトメッセージ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/google-mentions_140516_01-546x236.png" alt="google-mentions_140516_01" width="546" height="236" class="alignnone size-large wp-image-13179" /><br />
+<p><img src="/wp-content/uploads/google-mentions_140516_01-546x236.png" alt="google-mentions_140516_01" width="546" height="236" class="alignnone size-large wp-image-13179" /><br />
 Google+でもTwitterのようにメンションを送る方法があります。</p>
 <p>特定の人だけに限定した投稿では、相手のタイムライン上では「限定公開」としか表示されたいのでイマイチ伝わりづらいかも知れません。</p>
 <p>特定の人に向けてどうしても伝えたいことがある時はメンションを送ってみましょう。<br />
@@ -32,19 +32,19 @@ Google+でもTwitterのようにメンションを送る方法があります。
 <h2>Google+でメンションを送る方法</h2>
 <p>メンションを送るには<span class="b">「+」を先頭につけて相手のユーザーネームを入れて</span>いきます。<br />
 「+」をつけると補完機能でユーザーネームが出てくるので、送りたい相手をさがしましょう。<br />
-<img src="https://kotalab.com/wp-content/uploads/google-mentions_140516_04-300x532.jpg" alt="google-mentions_140516_04" width="300" height="532" class="alignnone size-medium wp-image-13182" /><br />
+<img src="/wp-content/uploads/google-mentions_140516_04-300x532.jpg" alt="google-mentions_140516_04" width="300" height="532" class="alignnone size-medium wp-image-13182" /><br />
 例えば「+tetsuya」と入力してみると、色々な「+tetsuya」さんが出てきます。<br />
 更に「+tetsuya kota」と入力してみると<br />
 僕のユーザーネームが出てきました。<br />
 こうやって<span class="b">補完機能を使うと簡単に相手のユーザーネームが見つかります</span>。<br />
-<img src="https://kotalab.com/wp-content/uploads/google-mentions_140516_03-300x532.jpg" alt="google-mentions_140516_03" width="300" height="532" class="alignnone size-medium wp-image-13181" /><br />
+<img src="/wp-content/uploads/google-mentions_140516_03-300x532.jpg" alt="google-mentions_140516_03" width="300" height="532" class="alignnone size-medium wp-image-13181" /><br />
 見つけたユーザーネームを選ぶと、入力欄に青字でユーザーネームが入ります。<br />
-<img src="https://kotalab.com/wp-content/uploads/google-mentions_140516_05-300x532.jpg" alt="google-mentions_140516_05" width="300" height="532" class="alignnone size-medium wp-image-13183" /><br />
+<img src="/wp-content/uploads/google-mentions_140516_05-300x532.jpg" alt="google-mentions_140516_05" width="300" height="532" class="alignnone size-medium wp-image-13183" /><br />
 ちなみに、「+」以外にもTwitterのように「@」を付けてもメンションが送れるようです。<br />
-<img src="https://kotalab.com/wp-content/uploads/google-mentions_140516_02-300x532.jpg" alt="google-mentions_140516_02" width="300" height="532" class="alignnone size-medium wp-image-13180" /></p>
+<img src="/wp-content/uploads/google-mentions_140516_02-300x532.jpg" alt="google-mentions_140516_02" width="300" height="532" class="alignnone size-medium wp-image-13180" /></p>
 <h2>相手への伝わり方</h2>
 <p>相手のユーザーネームを入れて投稿すると、その人にはこんな通知が届きます。<br />
-<img src="https://kotalab.com/wp-content/uploads/google-mentions_140516_06-300x532.jpg" alt="google-mentions_140516_06" width="300" height="532" class="alignnone size-medium wp-image-13191" /><br />
+<img src="/wp-content/uploads/google-mentions_140516_06-300x532.jpg" alt="google-mentions_140516_06" width="300" height="532" class="alignnone size-medium wp-image-13191" /><br />
 相手にもちゃんと伝わっているのがわかりました。</p>
 <h3>特定の相手だけに見せたい時</h3>
 <p>メンションを応用すればTwitterでいうダイレクトメッセージ(DM)のような使い方もできます。<br />

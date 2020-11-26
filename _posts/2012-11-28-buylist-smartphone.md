@@ -21,7 +21,7 @@ tags:
 - メモ
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121128142244.jpg" width="448" height="251" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20121128142244.jpg" width="448" height="251" /><br />
 買い物へ行ったのに何を買うか忘れることがよくあった。@kotala_bです。<br />
 そんな僕ですがすごく簡単な方法で買い忘れをなくすことが出来るようになりました。<br />
 </p>
@@ -54,7 +54,7 @@ iPhoneでもAndroidでも使えます。<br />
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <p>▼Evernoteにはこのようにチェックリストとして買い物のリストを作ることができます。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121128142245.jpg" width="448" height="418" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121128142245.jpg" width="448" height="418" /><br />
 買ったものにチェックをしていけば買い忘れは防げます。<br />
 いつも持ってるスマホで出来るのでメモをした紙を忘れたり、買ったものをチェックする為だけにペンを持ち歩かなくて済みます。</p>
 <h2>最後に</h2>

@@ -20,19 +20,19 @@ tags:
 - こたらの1週間
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/weekly_120703.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/weekly_120703.jpg" alt="" title="weekly_120703" width="448" height="336" class="alignnone size-full wp-image-1221" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/wespeck/4574733303/" target="_blank">Life</a> / gfpeck</span><br />
+<p><a href="/wp-content/uploads/weekly_120703.jpg" target="_blank"><img src="/wp-content/uploads/weekly_120703.jpg" alt="" title="weekly_120703" width="448" height="336" class="alignnone size-full wp-image-1221" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/wespeck/4574733303/" target="_blank">Life</a> / gfpeck</span><br />
 こたらの1週間第5号です。<br />
 もう水曜日ですが先週1週間を振り返ります。<br />
 </p>
 <!--more-->
 <h2>先週の出来事</h2>
 <h3>鉄板焼き食べた！</h3>
-<p><a href="https://kotalab.com/wp-content/uploads/weekly_120712.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/weekly_120712.jpg" alt="" title="weekly_120712" width="448" height="336" class="alignnone size-full wp-image-1377" /></a><br />
+<p><a href="/wp-content/uploads/weekly_120712.jpg" target="_blank"><img src="/wp-content/uploads/weekly_120712.jpg" alt="" title="weekly_120712" width="448" height="336" class="alignnone size-full wp-image-1377" /></a><br />
 会社の近くに出来た鉄板焼き屋さんに行ってきました！<br />
 お好み焼きやもんじゃから牡蠣やホタテなどの海鮮やサイコロステーキなどの肉もあって品ぞろえが豊富でした！<br />
 食べ放題で2500円～というリーズナブルな価格設定で料理もおいしかったです！</p>
 <h3>フレンチのランチに行った！</h3>
-<p><a href="https://kotalab.com/mile-credit" target="_blank"><img title="【食】大学キャンパス内にあるフレンチレストランで1000円のランチ！ | kotala's note" src="https://capture.heartrails.com/150x130/1341926978088?https://kotalab.com/mile-credit" alt="https://kotalab.com/archives/1257" width="150" height="130" align="left" /></a><a href="https://kotalab.com/mile-credit" title="【食】大学キャンパス内にあるフレンチレストランで1000円のランチ！" target="_blank">【食】大学キャンパス内にあるフレンチレストランで1000円のランチ！ | kotala's note</a><br style="clear:both;" /><br />
+<p><a href="/mile-credit" target="_blank"><img title="【食】大学キャンパス内にあるフレンチレストランで1000円のランチ！ | kotala's note" src="https://capture.heartrails.com/150x130/1341926978088?https://kotalab.com/mile-credit" alt="https://kotalab.com/archives/1257" width="150" height="130" align="left" /></a><a href="/mile-credit" title="【食】大学キャンパス内にあるフレンチレストランで1000円のランチ！" target="_blank">【食】大学キャンパス内にあるフレンチレストランで1000円のランチ！ | kotala's note</a><br style="clear:both;" /><br />
 南大沢のアウトレットに行った時に近くの大学内にあるフレンチレストランでランチを食べました！</p>
 <h2>今週読んだ本</h2>
 <h3>サバイバル時代の海外旅行術</h3>

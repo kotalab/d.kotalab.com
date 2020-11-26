@@ -23,7 +23,7 @@ tags:
 - ダイエット
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/squat_120908.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/squat_120908.jpg" alt="" title="squat_120908" width="448" height="336" class="alignnone size-full wp-image-2640" /></a><br />
+<p><a href="/wp-content/uploads/squat_120908.jpg" target="_blank"><img src="/wp-content/uploads/squat_120908.jpg" alt="" title="squat_120908" width="448" height="336" class="alignnone size-full wp-image-2640" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/82376679@N04/7730354448/" target="_blank">Squat Twist</a> / Sarahsvati #1</span><br />
 筋トレは毎日欠かしません。@kotala_bです。<br />
 筋トレの中でもスクワットは誰もが取りいれた方がいいと言われているそうです。<br />

@@ -21,7 +21,7 @@ tags:
 - やってみる
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/mistake-in-habit_20150516-780x520.jpg" alt="mistake-in-habit_20150516.JPG" width="780" height="520" class="aligncenter size-large wp-image-14369" /><br />
+<p><img src="/wp-content/uploads/2015/05/mistake-in-habit_20150516-780x520.jpg" alt="mistake-in-habit_20150516.JPG" width="780" height="520" class="aligncenter size-large wp-image-14369" /><br />
 それは毎日書こうとすることです。</p>
 <p>とにかくやってみるしかありません。<br />
 途中まで書いて時間切れで終わっても、何も書かないより全然いいです。</p>

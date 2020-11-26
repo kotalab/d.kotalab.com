@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/01/bloggers-worries_20150117-780x438.jpg" alt="bloggers-worries_20150117" width="780" height="438" class="aligncenter size-large wp-image-13846" /><br />
+<p><img src="/wp-content/uploads/2015/01/bloggers-worries_20150117-780x438.jpg" alt="bloggers-worries_20150117" width="780" height="438" class="aligncenter size-large wp-image-13846" /><br />
 最初に答えを書きますが、<br />
 それはとにかくなんでもいいから書いて投稿ボタンを押すことです。</p>
 <p>悩みすぎて何も書けないくらいなら、どんなことでもいいから書いて投稿ボタンを「えいやっ」って押しちゃいましょう。<br />

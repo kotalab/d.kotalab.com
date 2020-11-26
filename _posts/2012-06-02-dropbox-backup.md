@@ -18,7 +18,7 @@ tags:
 - Dropbox
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/backUp_120602.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/backUp_120602.jpg" alt="" title="backUp_120602" width="448" height="307" class="alignnone size-full wp-image-1237" /></a><br />
+<p><a href="/wp-content/uploads/backUp_120602.jpg" target="_blank"><img src="/wp-content/uploads/backUp_120602.jpg" alt="" title="backUp_120602" width="448" height="307" class="alignnone size-full wp-image-1237" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/jm3/330155936/" target="_blank">i have always been a security</a> / backup freak / jm3</span><br />
 本当に必要なものだけはバックアップしてます。@kotala_bです。<br />
 誰もが利用する程、便利で盛んになってきているクラウドサービス。<br />

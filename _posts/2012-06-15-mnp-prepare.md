@@ -41,4 +41,4 @@ MNP予約番号の有効期限は当日を含んだ<strong>15日間</strong>。<
 <p>今のうちあらかじめ準備出来るのは、期間契約で途中解約すると解約金のかかるものを<strong>解約金のかからないタイミングで解約しておくこと</strong>。<br />
 あとはかかる費用を貯めておくくらいでした。<br />
 <strong>2012/09/06追記：MNPに関するまとめ記事を書きました。</strong><br />
-<a href="https://kotalab.com/mnp-todobetter" target="_blank">MNPの前後でやったこと、やっておいた方がいいこと | kotala's note</a></p>
+<a href="/mnp-todobetter" target="_blank">MNPの前後でやったこと、やっておいた方がいいこと | kotala's note</a></p>

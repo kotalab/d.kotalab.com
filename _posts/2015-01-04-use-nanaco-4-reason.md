@@ -24,7 +24,7 @@ tags:
 - nanaco
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/use-nanaco-4-reason_20150104_01-780x438.jpg" alt="use-nanaco-4-reason_20150104_01" width="780" height="438" class="aligncenter size-large wp-image-13747" /><br />
+<p><img src="/wp-content/uploads/use-nanaco-4-reason_20150104_01-780x438.jpg" alt="use-nanaco-4-reason_20150104_01" width="780" height="438" class="aligncenter size-large wp-image-13747" /><br />
 元々、小銭を持ち歩くのがあまり好きじゃないので、普段からできるだけICカードやクレジットカードで支払うようにしています。<br />
 ただnanacoを使い始めたのはここ数ヶ月で、それまでは別のICカードを使っていました。</p>
 <p>そんな僕が今nanacoを使っている理由をご紹介します。<br />
@@ -35,13 +35,13 @@ comments: []
 それに会社の近くにあるコンビニもセブンイレブンです。</p>
 <p><span class="b">生活圏内にあるコンビニがセブンイレブンだったというのはnanacoを頻繁に使うようになった理由です。</span><br />
 ちなみにセブンイレブンでよく買うのは1番はコーヒーで次にガトーショコラだと思います。</p>
-<p>自宅近くにあるスーパーはイトーヨーカドーじゃなくて西友なので、<a href="https://kotalab.com/credit-card" title="買い物をする時に一番お得なクレジットカードは">そっちではウォルマートカードをよく使っています。</a></p>
+<p>自宅近くにあるスーパーはイトーヨーカドーじゃなくて西友なので、<a href="/credit-card" title="買い物をする時に一番お得なクレジットカードは">そっちではウォルマートカードをよく使っています。</a></p>
 <h2>2.nanacoはチャージでクレジットカードのポイントが貯まる</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/use-nanaco-4-reason_20150104_02-780x438.jpg" alt="use-nanaco-4-reason_20150104_02" width="780" height="438" class="aligncenter size-large wp-image-13746" /><br />
+<p><img src="/wp-content/uploads/use-nanaco-4-reason_20150104_02-780x438.jpg" alt="use-nanaco-4-reason_20150104_02" width="780" height="438" class="aligncenter size-large wp-image-13746" /><br />
 nanacoにチャージするのにクレジットカードからチャージできるのですが、チャージしたときにクレジットカードのポイントが貯まるようになっています。</p>
 <p>ポイントが貯まるクレジットカードは限られているのですが、僕が使っている<a href="http://click.j-a-net.jp/1534705/244311/" target="_blank">漢方スタイルクラブカード<img src="http://text.j-a-net.jp/1534705/244311/" height="1" width="1" border="0"></a>では<del datetime="2015-02-08T01:40:38+00:00">2000円のチャージごとにつき1.75%分のポイントが加算されます</del>。</p>
 <p><span class="bred">2015/02/08追記：漢方スタイルクラブカードでは2015年6月1日から2000円チャージにつき0.25%分のポイントしか加算されないように変更されてしまいました。</span><br />
-<a href="https://kotalab.com/kanpostyle-change-pointsystem" target="_blank">nanacoクレジットチャージのポイント還元が変更！漢方スタイルカードの還元率が1.75%&rarr;0.25%に改悪！</a></p>
+<a href="/kanpostyle-change-pointsystem" target="_blank">nanacoクレジットチャージのポイント還元が変更！漢方スタイルカードの還元率が1.75%&rarr;0.25%に改悪！</a></p>
 <p>nanacoにチャージできるクレジットカードはこちら：<br />
 <a href="http://www.nanaco-net.jp/service/crecha_cards.html" target="_blank">電子マネー nanaco 【公式サイト】 ： ご登録いただけるクレジットカード</a><a href="https://b.hatena.ne.jp/entry/http://www.nanaco-net.jp/service/crecha_cards.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.nanaco-net.jp/service/crecha_cards.html" alt="" /></a></p>
 <h2>3.iTunesカードなどのプリペイドカードが買える</h2>
@@ -55,7 +55,7 @@ nanacoにチャージするのにクレジットカードからチャージで�
 QUOカードが使えるお店はこちら：<br />
 <a href="http://www.quocard.com/member/" target="_blank">加盟店情報(QUOカードが使えるお店) | ギフト券（商品券）ならQUOカード</a><a href="https://b.hatena.ne.jp/entry/http://www.quocard.com/member/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.quocard.com/member/" alt="" /></a></p>
 <h2>4.nanacoは公共料金の支払いに使える</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/use-nanaco-4-reason_20150104_03-780x438.jpg" alt="use-nanaco-4-reason_20150104_03" width="780" height="438" class="aligncenter size-large wp-image-13745" /><br />
+<p><img src="/wp-content/uploads/use-nanaco-4-reason_20150104_03-780x438.jpg" alt="use-nanaco-4-reason_20150104_03" width="780" height="438" class="aligncenter size-large wp-image-13745" /><br />
 公共料金や税金の支払いをコンビニでしている方も多いと思うんですが、セブンイレブンでももちろん公共料金の支払いができます。<br />
 セブンイレブンでは公共料金の支払いにnanacoが使えるので、<span class="b">通常はクレジットカードが使えないような場合でも、クレジットカードでチャージしたnanacoでなら支払うことができます。</span></p>
 <p>公共料金の支払いではクレジットカードのポイントってなかなかつかないと思うんですが、クレジットカードでチャージしたnanacoで支払えば<span class="b">チャージしたときのクレジットカードのポイントが貯まります。</span></p>

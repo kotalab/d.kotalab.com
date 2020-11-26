@@ -22,7 +22,7 @@ tags:
 - googleリーダー
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/googlereader_130314-448x336.jpg" alt="googlereader_130314" width="448" height="336" class="alignnone size-large wp-image-6507" /><br />
+<p><img src="/wp-content/uploads/googlereader_130314-448x336.jpg" alt="googlereader_130314" width="448" height="336" class="alignnone size-large wp-image-6507" /><br />
 <span style="font-size:10px;"><span class="removed_link" title="https://www.flickr.com/photos/tetrad/4661564129/">Google Reader Badge</span> / tetradtx</span><br />
 googleの発表に驚きました。@kotala_bです。<br />
 googleの公式ブログで7月1日にgoogleリーダーの終了が発表されました。<br />

@@ -25,7 +25,7 @@ tags:
 - Apple
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/02/applestore-campaign-20150313-780x434.png" alt="applestore-campaign-20150313" width="780" height="434" class="aligncenter size-large wp-image-13959" /><br />
+<p><img src="/wp-content/uploads/2015/02/applestore-campaign-20150313-780x434.png" alt="applestore-campaign-20150313" width="780" height="434" class="aligncenter size-large wp-image-13959" /><br />
 <span style="font-size:10px;">via:<a href="http://store.apple.com/jp/browse/finance/loan" target="_blank">Appleローン 分割金利0%キャンペーン - Apple Store（日本）</a></span><br />
 AppleStoreやAppleOnlineStoreで3万円以上の買い物をした場合、分割金利が0%になるキャンペーンを実施中です。<br />
 2015年3月13日までの期間限定！</p>

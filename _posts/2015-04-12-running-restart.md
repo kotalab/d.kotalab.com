@@ -22,11 +22,11 @@ tags:
 - ヘルスケア
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/04/running-restart_20150412-780x439.png" alt="running-restart_20150412" width="780" height="439" class="aligncenter size-large wp-image-14089" /><br />
+<p><img src="/wp-content/uploads/2015/04/running-restart_20150412-780x439.png" alt="running-restart_20150412" width="780" height="439" class="aligncenter size-large wp-image-14089" /><br />
 先週の土曜からランニングを再開しました。<br />
 ランニングアプリのログを見返してみたら、2013年の8月18日ぶりでした。</p>
 <p>その時は、無理したせいなのか走ってる途中に腰が痛くなるようになって、そのうち普段歩いてるときにも痛みが出るようになって結局走らなくなっちゃいました。<br />
-<a href="https://kotalab.com/weekly-130609">習慣は本当に人生を変えられるのか？[kotala&rsquo;s weekly]</a><br />
+<a href="/weekly-130609">習慣は本当に人生を変えられるのか？[kotala&rsquo;s weekly]</a><br />
 今はもう当時のように腰が痛くなるようなことはないし、また体を動かしたくなってきたので先週くらいからまた少しずつ走るようにしました。<br />
 </p>
 <!--more-->
@@ -58,7 +58,7 @@ comments: []
 <img src="http://im.uniqlo.com/images/jp/pc/goods/261832/item/09_261832.jpg" width="300" /><br />
 速乾性があって運動するのにもってこい。<br />
 ちなみに上下で1580円でした。安い！半袖だけだとまだ寒いんでロンTも一緒に購入。</p>
-<p><a href="https://kotalab.com/gravis-tarmac-hi-cut-mns">普段履いてるスニーカー</a>で走ってたんですけど、やっぱりランニングシューズも揃えようと思って、値段重視のチョイスで4000円くらいの安めのシューズを選びました。</p>
+<p><a href="/gravis-tarmac-hi-cut-mns">普段履いてるスニーカー</a>で走ってたんですけど、やっぱりランニングシューズも揃えようと思って、値段重視のチョイスで4000円くらいの安めのシューズを選びました。</p>
 <div class="kaerebalink-box">
 <div class="kaerebalink-image"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00JUD0Z80/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41T9kM3Iq4L._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info">

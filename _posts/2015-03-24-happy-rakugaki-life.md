@@ -20,14 +20,14 @@ tags:
 - ラクガキ
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/03/slooProImg_20150322131245.jpg" width="720" height="405" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/03/slooProImg_20150322131245.jpg" width="720" height="405" /><br />
 3月15日、東京の五反田で開催された「ハッピーラクガキライフ」という講座に行ってきました。</p>
 <p>講座のコンセプトは「絵を描くこと=楽しいこと」と思うようになってもらうことで、主催者のタムカイさん(<a href="https://twitter.com/tamkai" target="_blank">@tamkai</a>)の言葉で言うと<span class="b">「人生をたのしくするラクガキ力講座」</span>です。</p>
 <p>僕自身、絵はすごく苦手だと思っていて、この講座をきっかけに少しでも上手になれたらいいなーと思って受講することにしました。<br />
 </p>
 <!--more-->
 <h2>絵心は誰にでもある</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/03/slooProImg_20150322131249.jpg" width="720" height="540" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/03/slooProImg_20150322131249.jpg" width="720" height="540" /><br />
 僕自身「自分には絵心がない」「絵は下手だから描けない」と思いながら、講座を受け始めました。</p>
 <p>でも講座の初めに「<span class="b">絵は誰にでもかける！絵心は誰にでもある！</span>」とキッパリ言い切るタムカイさん。</p>
 <p>お話を聞きながら僕が今まで勘違いしていたことに気づきました。</p>
@@ -38,7 +38,7 @@ comments: []
 <p>それにタムカイさんやアプリ道場で知り合った友達のゆこびん(<a href="https://twitter.com/yucovin" target="_blank">@yucovin</a>)の絵を見て「楽しそうに書いてるな」って思うことも。</p>
 <p><span class="b">無いと思っていたけど、振り返ってみると僕にも絵心はありました。</span></p>
 <h2>そっくりに描くことがいいこと？</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/03/slooProImg_20150322131247.jpg" width="720" height="540" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/03/slooProImg_20150322131247.jpg" width="720" height="540" /><br />
 絵が上手いというのは一般的に、見たものをそのまま描くことが上手いとされています。</p>
 <p>でも絵って上手い人だけに描くことが許されてるわけじゃないし、絵を描くってことは見たままそっくりを真似て描くことだけじゃないのです。</p>
 <p>小さい頃は好き勝手に描いて、画用紙からはみ出しておこられたり。<br />
@@ -46,9 +46,9 @@ comments: []
 <p>タムカイさんの話を聞いて、<span class="b">絵を楽しく描くってことは、小さい頃の気持ちを取り戻して描くってことなのかなって思いました。</span></p>
 <h2>ただの線なのに「キレイな線」に見える不思議な感覚</h2>
 <p>昔のことを思い出しながらタムカイさんの話を聞いていると、実際に手を動かして絵を描く時間に！</p>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/03/slooProImg_20150322131248.jpg" width="720" height="540" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/03/slooProImg_20150322131248.jpg" width="720" height="540" /><br />
 A4用紙を4つに折って真っ直ぐな線をひいて、見せ合ったり</p>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/03/slooProImg_20150322131250.jpg" width="720" height="540" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/03/slooProImg_20150322131250.jpg" width="720" height="540" /><br />
 円を書いて黒く塗ったり。</p>
 <p>線や円を描くたびに、同じテーブルに座った4人で見せ合います。</p>
 <p>描いたものを見せ合うと不思議な感覚がわいてきます。</p>
@@ -67,32 +67,32 @@ A4用紙を4つに折って真っ直ぐな線をひいて、見せ合ったり</
 「よし描いてみよう！」「これがざらざらな線かな！」<br />
 ってなるんです。</p>
 <p>講座受講前の時点からは想像もつかない世界でした。</p>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/03/slooProImg_201503221312451.jpg" width="720" height="540" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/03/slooProImg_201503221312451.jpg" width="720" height="540" /><br />
 描いた後はもちろんみんなで見せ合い。</p>
 <p>同じお題でも、みんな違う線を描きます。<br />
 見せ合って自分のと比べたりすることで、なぜかお互いが描いた線を納得しあえるのでした。</p>
 <h2>14個のパーツを組み合わせて100の表情を作る</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/03/happy-rakugaki-life_20150323_01-780x585.jpg" alt="happy-rakugaki-life_20150323_01" width="780" height="585" class="aligncenter size-large wp-image-14052" /></p>
+<p><img src="/wp-content/uploads/2015/03/happy-rakugaki-life_20150323_01-780x585.jpg" alt="happy-rakugaki-life_20150323_01" width="780" height="585" class="aligncenter size-large wp-image-14052" /></p>
 <p>お次は<br />
 <a href="http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank">絵心がないと悩む人でも一瞬で100の表情が描けるようになるラクガキテクニックとちょっとしたコツ</a><a href="https://b.hatena.ne.jp/entry/http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://tamkaism.com/2015/03/rakugaki100faces/" alt="" /></a><br />
 の実践。</p>
 <blockquote><p>人の顔を構成するパーツは様々あるのですが、表情に関わるのは「口、目、眉」のたった3つなのです。これをそれぞれ5個、5個、4個使うことで表情を描こうというのがこのテクニックのキモです。<br />
 via:<a href="http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank">絵心がないと悩む人でも一瞬で100の表情が描けるようになるラクガキテクニックとちょっとしたコツ</a><a href="https://b.hatena.ne.jp/entry/http://tamkaism.com/2015/03/rakugaki100faces/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://tamkaism.com/2015/03/rakugaki100faces/" alt="" /></a></p></blockquote>
 <p>円を描いてそこに「口、目、眉」の3つのパーツを描くというものなんですが、このテクニックを使うだけで絵が下手な僕でも「うれしい」とか「かなしい」表情を絵で描くことができました。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/03/happy-rakugaki-life_20150323_02-780x585.jpg" alt="happy-rakugaki-life_20150323_02" width="780" height="585" class="aligncenter size-large wp-image-14051" /><br />
+<p><img src="/wp-content/uploads/2015/03/happy-rakugaki-life_20150323_02-780x585.jpg" alt="happy-rakugaki-life_20150323_02" width="780" height="585" class="aligncenter size-large wp-image-14051" /><br />
 描いた表情に吹き出しをつければもう完璧です。<br />
 誰が見ても「楽しい！」と思っている表情ですよね？</p>
 <h2>最後は「自分から見た伊右衛門」を描く</h2>
 <p>講座の最後は、机に1人1本ずつ置かれていた伊右衛門をそれぞれの視点で描くというもの。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/03/slooProImg_20150322131244.jpg" alt="slooProImg_20150322131244.jpg" width="720" height="480" class="aligncenter size-full wp-image-14037" /><br />
+<p><img src="/wp-content/uploads/2015/03/slooProImg_20150322131244.jpg" alt="slooProImg_20150322131244.jpg" width="720" height="480" class="aligncenter size-full wp-image-14037" /><br />
 僕は冒頭にあったこの写真のように、紙の上に伊右衛門を置いてペットボトルのフチをなぞってみました。</p>
 <p>フチをなぞってる時に伊右衛門のペットボトルより、ペットボトルを置くことでできた影に気を取られて影だけを描いてみました。<br />
 ジッと見てると影って濃い部分と薄い部分があって、それをなんとかこの講座の中で習ったことで表現してみたいなーと思ったのです。</p>
 <p>伊右衛門を描いてって言われてるのに伊右衛門自体は何も描かずに、影だけを描いてました。</p>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/03/slooProImg_201503221312491.jpg" width="720" height="537" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/03/slooProImg_201503221312491.jpg" width="720" height="537" /><br />
 描き終わったみんなの伊右衛門をホワイトボードに並べたのがこちら</p>
 <h2>もっと気楽に楽しく描こう！</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/03/slooProImg_20150322131246.jpg" width="720" height="480" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/03/slooProImg_20150322131246.jpg" width="720" height="480" /><br />
 ハッピーラクガキライフの受講前後で特別絵が上手くなったとかそういうことはありません。<br />
 変わったことは絵に対する気持ちというか心持ちの部分がすごく大きく変わりました。<br />
 変わったというより変わり始めてるっていうのが正しいかもしれません。</p>

@@ -30,7 +30,7 @@ comments:
   date_gmt: '2014-03-21 22:00:33 +0900'
   content: "[&#8230;]  [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/blog-analytics-seminar_140314_01-546x274.jpg" alt="blog-analytics-seminar_140314_01" width="546" height="274" class="alignnone size-large wp-image-11127" /><br />
+<p><img src="/wp-content/uploads/blog-analytics-seminar_140314_01-546x274.jpg" alt="blog-analytics-seminar_140314_01" width="546" height="274" class="alignnone size-large wp-image-11127" /><br />
 <a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a><a href="https://b.hatena.ne.jp/entry/http://akio0911.net/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://akio0911.net/" alt="" /></a>のアキオさんが主催する「ブロガー向けアクセス解析セミナー」に行ってきました！<br />
 Twitterで「ブロガー向けアクセス解析セミナー」の告知をたまたまみつけて、気になる内容だったので解析希望枠で即応募！たぶん一番乗り！</p>
 <p>今回のセミナーの感想をスゴく簡単にいうと<br />
@@ -55,9 +55,9 @@ Googleなどの検索エンジンから来た「検索トラフィック」、�
 <p>この3つをGoogle Analyticsでは簡単に調べることができます。<br />
 Google Analyticsのメイン画面中央にあるグラフは「すべての訪問」になっています。<br />
 「すべての訪問」と書いてある部分の左側を押すとメニューが開くので、そこから「検索トラフィック」「参照トラフィック」「ノーリファラー」を選択。<br />
-<img src="https://kotalab.com/wp-content/uploads/blog-analytics-seminar_140314_03-546x300.jpg" alt="blog-analytics-seminar_140314_03" width="546" height="300" class="alignnone size-large wp-image-11126" /><br />
+<img src="/wp-content/uploads/blog-analytics-seminar_140314_03-546x300.jpg" alt="blog-analytics-seminar_140314_03" width="546" height="300" class="alignnone size-large wp-image-11126" /><br />
 メニューを閉じるとそれぞれの項目がグラフで表示されるようになります！<br />
-<img src="https://kotalab.com/wp-content/uploads/blog-analytics-seminar_140314_02-546x218.jpg" alt="blog-analytics-seminar_140314_02" width="546" height="218" class="alignnone size-large wp-image-11128" /><br />
+<img src="/wp-content/uploads/blog-analytics-seminar_140314_02-546x218.jpg" alt="blog-analytics-seminar_140314_02" width="546" height="218" class="alignnone size-large wp-image-11128" /><br />
 3つのトラフィックを見てわかったのが、このブログは検索トラフィックが全体の80％近くということです。<br />
 これには少し問題があって、検索エンジンに嫌われたらその分が一気にアクセスが減ることになります。<br />
 要はGoogleに生かされてる状態。これはまずい。</p>

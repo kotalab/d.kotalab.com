@@ -20,7 +20,7 @@ tags:
 - 習慣
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/ichiro.jpg"><img src="https://kotalab.com/wp-content/uploads/ichiro.jpg" alt="" title="ichiro" width="448" height="336" class="alignnone size-full wp-image-1149" /></a><br />
+<p><a href="/wp-content/uploads/ichiro.jpg"><img src="/wp-content/uploads/ichiro.jpg" alt="" title="ichiro" width="448" height="336" class="alignnone size-full wp-image-1149" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/midorisyu/3921290687/" target="_blank">Shibuya night 13 祝イチロー</a> / midorisyu</span><br />
 Taskchuteを見返すとほとんどがルーチンです。@kotala_bです。<br />
 ルーチンの繰り返しばかりだけど、果たしてこのままで本当にいいのか。<br />

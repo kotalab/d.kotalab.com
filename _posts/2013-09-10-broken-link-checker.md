@@ -33,17 +33,17 @@ LinkShareへのリンクは9月いっぱいまで。10月1日からはリンク�
 <h3>「Broken Link Checker」をリンク張り替えに活かす！</h3>
 <p>管理画面の「ツール」から「リンクエラーをチェック」へ進みます。<br />
 ここの画面右端にある「検索」というボタンを押します。<br />
-<img src="https://kotalab.com/wp-content/uploads/brokenlinkchecker_130910_01-546x191.jpg" alt="brokenlinkchecker_130910_01" width="546" height="191" class="alignnone size-large wp-image-8589" /><br />
+<img src="/wp-content/uploads/brokenlinkchecker_130910_01-546x191.jpg" alt="brokenlinkchecker_130910_01" width="546" height="191" class="alignnone size-large wp-image-8589" /><br />
 すると検索ボックスが開き、ブログに貼ってある全てのリンクを対象とした検索ができます！<br />
 検索ボックスのURLに「https://click.linksynergy.com」と入力するとLinkShareへのリンクを全てみることができます。<br />
-<img src="https://kotalab.com/wp-content/uploads/brokenlinkchecker_130910_02.jpg" alt="brokenlinkchecker_130910_02" width="346" height="392" class="alignnone size-full wp-image-8586" /><br />
+<img src="/wp-content/uploads/brokenlinkchecker_130910_02.jpg" alt="brokenlinkchecker_130910_02" width="346" height="392" class="alignnone size-full wp-image-8586" /><br />
 検索すると「URL」の他に「リンクタイトル」と「リンクが貼ってあるページ」が表示されます。<br />
-<img src="https://kotalab.com/wp-content/uploads/brokenlinkchecker_130910_03-546x240.jpg" alt="brokenlinkchecker_130910_03" width="546" height="240" class="alignnone size-large wp-image-8587" /></p>
+<img src="/wp-content/uploads/brokenlinkchecker_130910_03-546x240.jpg" alt="brokenlinkchecker_130910_03" width="546" height="240" class="alignnone size-large wp-image-8587" /></p>
 <h3>検索フィルターを保存して繰り返し検索する手間を省く！</h3>
 <p>こうしてリンクを検索すると、検索ボタンの横に「この検索フィルターとして保存する」というボタンが追加されます。<br />
-<img src="https://kotalab.com/wp-content/uploads/brokenlinkchecker_130910_04-546x214.jpg" alt="brokenlinkchecker_130910_04" width="546" height="214" class="alignnone size-large wp-image-8590" /><br />
+<img src="/wp-content/uploads/brokenlinkchecker_130910_04-546x214.jpg" alt="brokenlinkchecker_130910_04" width="546" height="214" class="alignnone size-large wp-image-8590" /><br />
 名前つきで検索条件を保存でき、<strong>後から何度でも</strong>同じ条件で検索することができます。<br />
-<img src="https://kotalab.com/wp-content/uploads/brokenlinkchecker_130910_05.jpg" alt="brokenlinkchecker_130910_05" width="426" height="183" class="alignnone size-full wp-image-8588" /></p>
+<img src="/wp-content/uploads/brokenlinkchecker_130910_05.jpg" alt="brokenlinkchecker_130910_05" width="426" height="183" class="alignnone size-full wp-image-8588" /></p>
 <h3>「Broken Link Checker」でLinkShareからPHGへ！</h3>
 <p>手動でリンク張り替えしてる人はこれを使いながらまだ変更してない部分を探す！<br />
 自動でリンク張り替えをした人は「Broken Link Checker」でリンク張り替えの抜けがないか最終チェックができる！<br />

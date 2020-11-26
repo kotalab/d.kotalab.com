@@ -31,7 +31,7 @@ comments:
   content: "[...] ◆ デジカメの液晶が見にくいから、外で撮った写真はiPadminiで確認する。 （ via kotala&#8217;s note
     ） ◆ iPhone歴5年のわたしがやっているバッテリーを長持ちさせる方法 （ via ナナショク ）  [...]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/eyefi_130525-448x297.jpg" alt="eyefi_130525" width="448" height="297" class="alignnone size-large wp-image-7245" /><br />
+<p><img src="/wp-content/uploads/eyefi_130525-448x297.jpg" alt="eyefi_130525" width="448" height="297" class="alignnone size-large wp-image-7245" /><br />
 つい先日デジタル一眼レフを買いました。こたら（@kotala_b）です。<br />
 休日に近所の都立桜ヶ丘公園へ早速写真を撮りに行きました。<br />
 目の前を通ることがあっても、中を散策することは初めて。<br />
@@ -46,13 +46,13 @@ comments:
 これはデジカメだけでなくケータイなどでも同じこと。<br />
 でも撮った写真はその場で確認したい。</p>
 <h2>外でも見にくくない液晶</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/d7000_130521_01-448x296.jpg" alt="d7000_130521_01" width="448" height="296" class="alignnone size-large wp-image-7212" /><br />
+<p><img src="/wp-content/uploads/d7000_130521_01-448x296.jpg" alt="d7000_130521_01" width="448" height="296" class="alignnone size-large wp-image-7212" /><br />
 他の液晶に比べたら外でも比較的見やすい液晶がすぐ身近に存在していました。<br />
 iPhoneです。<br />
 iPhoneなら日差しの強い日も関係なく外で使っているのを思い出しました。<br />
 じゃあどうやってiPhoneで、デジカメで撮った写真を確認するのか。</p>
 <h2>Eye-FiでiPadminiに写真を送る</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/eyefi130106_01-448x336.jpg" alt="eyefi130106_01" width="448" height="336" class="alignnone size-large wp-image-5533" /><br />
+<p><img src="/wp-content/uploads/eyefi130106_01-448x336.jpg" alt="eyefi130106_01" width="448" height="336" class="alignnone size-large wp-image-5533" /><br />
 Eye-FiというSDカードを使います。<br />
 Eye-FiはWi-Fi内蔵のSDカードで、デジカメで撮った写真をiPhoneなどのモバイル端末やPCへ送信してくれるという優れもの。<br />
 僕はiPhoneの他にiPadminiも持っています。<br />
@@ -101,7 +101,7 @@ Eye-Fiを使ってiPadminiに送信するように設定しました。</p>
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2>最後に</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/eyefi130106_02-448x300.jpg" alt="eyefi130106_02" width="448" height="300" class="alignnone size-large wp-image-5539" /><br />
+<p><img src="/wp-content/uploads/eyefi130106_02-448x300.jpg" alt="eyefi130106_02" width="448" height="300" class="alignnone size-large wp-image-5539" /><br />
 Eye-Fiの設定はEye-Fiの公式本を見て行いました。<br />
 現在は、初期設定部分が掲載された第1章と第2章が無料配信されています。<br />
 <a href="http://eyefi.co.jp/topics/2012/02/22/eye-fipdfdl.html" target="_blank">【お知らせ】Eye-Fi公式本、冒頭（初期設定）部分のpdf無料DL開始しました！ << 最新情報 << Eye-Fi Japan</a><br />
@@ -122,5 +122,5 @@ Eye-Fiの設定はEye-Fiの公式本を見て行いました。<br />
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/af-s-dx-nikkor-35mm" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/d7000_130521-448x336.jpg" alt="単焦点レンズ「AF-S DX NIKKOR 35mm f/1.8G」が到着！D7000に装着して初心者が撮ってみた。 | kotala's note" width="150" /></a><a href="https://kotalab.com/af-s-dx-nikkor-35mm" target="_blank">単焦点レンズ「AF-S DX NIKKOR 35mm f/1.8G」が到着！D7000に装着して初心者が撮ってみた。 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/photo-cloud" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/cloud_130523-448x297.jpg" alt="無料のフォトクラウドサービスを使うならどこ？Flickrの無料プランが変更になって大本命に | kotala's note" width="150" /></a><a href="https://kotalab.com/photo-cloud" target="_blank">無料のフォトクラウドサービスを使うならどこ？Flickrの無料プランが変更になって大本命に | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/af-s-dx-nikkor-35mm" target="_blank"><img  class="alignleft" src="/wp-content/uploads/d7000_130521-448x336.jpg" alt="単焦点レンズ「AF-S DX NIKKOR 35mm f/1.8G」が到着！D7000に装着して初心者が撮ってみた。 | kotala's note" width="150" /></a><a href="/af-s-dx-nikkor-35mm" target="_blank">単焦点レンズ「AF-S DX NIKKOR 35mm f/1.8G」が到着！D7000に装着して初心者が撮ってみた。 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/photo-cloud" target="_blank"><img  class="alignleft" src="/wp-content/uploads/cloud_130523-448x297.jpg" alt="無料のフォトクラウドサービスを使うならどこ？Flickrの無料プランが変更になって大本命に | kotala's note" width="150" /></a><a href="/photo-cloud" target="_blank">無料のフォトクラウドサービスを使うならどこ？Flickrの無料プランが変更になって大本命に | kotala's note</a><br style="clear:both;" /></p>

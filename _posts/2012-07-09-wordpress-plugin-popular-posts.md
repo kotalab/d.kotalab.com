@@ -20,7 +20,7 @@ tags:
 - PopularPosts
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/link_120708.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
+<p><a href="/wp-content/uploads/link_120708.jpg" target="_blank"><img src="/wp-content/uploads/link_120708.jpg" alt="" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 まだまだWordpressを使いこなせてない@kotala_bです。<br />
 プラグインを入れても、入れるだけで満足して初期設定のまま使っているものが結構ありました。<br />
@@ -44,7 +44,7 @@ comments: []
 Wordpressダッシュボードから外観＞ウェジットと進んで、<strong>WordPressPopularPosts</strong>の設定変更をします。<br />
 <strong>Thumbnailsettings</strong>のチェックボックスにチェックを入れサムネイル表示をしました。<br />
 チェックを入れただけだと何も変わりませんが、一度保存を押すとサムネイルのサイズを入力出来るようになります。<br />
-<a href="https://kotalab.com/wp-content/uploads/PopularPosts_120709_01.jpg"><img src="https://kotalab.com/wp-content/uploads/PopularPosts_120709_01.jpg" alt="" title="PopularPosts_120709_01" width="448" height="107" class="alignnone size-full wp-image-1341" /></a><br />
+<a href="/wp-content/uploads/PopularPosts_120709_01.jpg"><img src="/wp-content/uploads/PopularPosts_120709_01.jpg" alt="" title="PopularPosts_120709_01" width="448" height="107" class="alignnone size-full wp-image-1341" /></a><br />
 次は<strong>UsecustomHTMLMarkup</strong>にチェックを入れタグを編集します。<br />
 ここではタグにclassを設定しcssでスタイルを変更しました。<br />
 以上で設定完了です。</p>

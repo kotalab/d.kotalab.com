@@ -21,7 +21,7 @@ tags:
 - iPadmini
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ipadmini_121027.jpg" alt="" title="ipadmini_121027" width="448" height="336" class="alignnone size-full wp-image-3744" /></a><br />
+<p><a href="/wp-content/uploads/ipadmini_121027.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini_121027.jpg" alt="" title="ipadmini_121027" width="448" height="336" class="alignnone size-full wp-image-3744" /></a><br />
 iPadminiの予約はしてません。@kotala_bです。<br />
 実際に製品を触ってみてから、最終的に購入するかどうか決めようと思ってます。<br />
 タブレット端末は他にもGoogleのNexus7やAmazonのKindleがありますが、僕が欲しいと思ったのはiPadminiただ一つでした。<br />
@@ -67,7 +67,7 @@ iPadminiが欲しい理由は使いたい用途がはっきりしているから
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/surupuro-for-ios-buroguedita/id436676299?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/denshi-ipadmini" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121028.jpg" alt="電子書籍リーダーとしてのiPadmini | kotala's note" width="150" /></a><a href="https://kotalab.com/denshi-ipadmini" target="_blank">電子書籍リーダーとしてのiPadmini | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/ipadmini-train" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121102132952.jpg" alt="iPadminiを通勤途中に使ってみた！実際に使ってみないとわからなかったこと！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipadmini-train" target="_blank">iPadminiを通勤途中に使ってみた！実際に使ってみないとわからなかったこと！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/ipadmini-settings" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini130108-448x300.jpg" alt="アプリの切り替えが楽になる！iPadminiがほんの少し使いやすくなる設定！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipadmini-settings" target="_blank">アプリの切り替えが楽になる！iPadminiがほんの少し使いやすくなる設定！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/ipad-app30" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/denshi-ipadmini" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini_121028.jpg" alt="電子書籍リーダーとしてのiPadmini | kotala's note" width="150" /></a><a href="/denshi-ipadmini" target="_blank">電子書籍リーダーとしてのiPadmini | kotala's note</a><br style="clear:both;" /><br />
+<a href="/ipadmini-train" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20121102132952.jpg" alt="iPadminiを通勤途中に使ってみた！実際に使ってみないとわからなかったこと！ | kotala's note" width="150" /></a><a href="/ipadmini-train" target="_blank">iPadminiを通勤途中に使ってみた！実際に使ってみないとわからなかったこと！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/ipadmini-settings" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini130108-448x300.jpg" alt="アプリの切り替えが楽になる！iPadminiがほんの少し使いやすくなる設定！ | kotala's note" width="150" /></a><a href="/ipadmini-settings" target="_blank">アプリの切り替えが楽になる！iPadminiがほんの少し使いやすくなる設定！ | kotala's note</a><br style="clear:both;" /></p>

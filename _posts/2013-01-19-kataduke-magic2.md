@@ -22,10 +22,10 @@ tags:
 - 近藤麻理恵
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/katazuke2_130119.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/katazuke2_130119-448x336.png" alt="katazuke2_130119" width="448" height="336" class="alignnone size-large wp-image-5797" /></a><br />
+<p><a href="/wp-content/uploads/katazuke2_130119.png" target="_blank"><img src="/wp-content/uploads/katazuke2_130119-448x336.png" alt="katazuke2_130119" width="448" height="336" class="alignnone size-large wp-image-5797" /></a><br />
 人生をときめかせたいと思っています。@kotala_bです。<br />
 年末に「人生がときめく片づけの魔法」という本をご紹介しました。<br />
-<a href="https://kotalab.com/books-kataduke-magic" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kataduke_121226-448x335.jpg" alt="人生の限られた時間と情熱をかけるべき「自分がときめくこと」は片づけをすることで見えてくる「人生がときめく片づけの魔法」 | kotala's note" width="150" /></a><a href="https://kotalab.com/books-kataduke-magic" target="_blank">人生の限られた時間と情熱をかけるべき「自分がときめくこと」は片づけをすることで見えてくる「人生がときめく片づけの魔法」 | kotala's note</a><br style="clear:both;" />その続編である「人生がときめく片づけの魔法2」を今回はご紹介します。<br />
+<a href="/books-kataduke-magic" target="_blank"><img  class="alignleft" src="/wp-content/uploads/kataduke_121226-448x335.jpg" alt="人生の限られた時間と情熱をかけるべき「自分がときめくこと」は片づけをすることで見えてくる「人生がときめく片づけの魔法」 | kotala's note" width="150" /></a><a href="/books-kataduke-magic" target="_blank">人生の限られた時間と情熱をかけるべき「自分がときめくこと」は片づけをすることで見えてくる「人生がときめく片づけの魔法」 | kotala's note</a><br style="clear:both;" />その続編である「人生がときめく片づけの魔法2」を今回はご紹介します。<br />
 自分自身と向き合い、人生の中で時間と情熱をかけるべき心底ときめく使命を見つけるためにするのが片づけでした。<br />
 「片づける気持ちはあるけれど、まだ片づけを終えてない人」に「片づけを完璧に終わらせる方法」を伝える為に書いたものが「人生がときめく片づけの魔法2」なのです。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">

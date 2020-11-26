@@ -21,7 +21,7 @@ tags:
 - 情報発信・ブランディング講座
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_03-780x516.jpg" alt="kanazawa-higashichaya-chayu_20150507_03.jpg" width="780" height="516" class="aligncenter size-large wp-image-14286" /></p>
+<p><img src="/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_03-780x516.jpg" alt="kanazawa-higashichaya-chayu_20150507_03.jpg" width="780" height="516" class="aligncenter size-large wp-image-14286" /></p>
 <p>僕の好きな言葉にこんな言葉があります。</p>
 <blockquote><p>
 時間を使うとは命を削ること<br />
@@ -46,7 +46,7 @@ via:<a href="https://www.amazon.co.jp/exec/obidos/asin/4478016445/same-22/" rel=
 </blockquote>
 <p>昨日、風呂のなかで読んだ「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478016445/same-22/" rel="nofollow" target="_blank">ザ・ミッション</a>」という本のなかにこんなことが書かれていました。</p>
 <h2>「この退屈な時間が早く過ぎてほしい。そんなこと思うなんてなんてバカげているんだ。」</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/time-is-life_20150512_01.jpg" alt="Time is life 20150512 01" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/time-is-life_20150512_01.jpg" alt="Time is life 20150512 01" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>最近できた好きな言葉がこれです。<br /><a href="https://twitter.com/jmatsuzaki" target="_blank">jMatsuzaki</a>こと松崎純一さんが、「<a href="https://www.ttcbn.net/no_second_life/archives/49501" target="_blank">情報発信・ブランディング講座</a>」の中で放った一言です。</p>
 <p>「人生の中で時間は何よりも貴重なはずなのに、その時間が早く過ぎればいいなんて間違っている」<br />
 この言葉にはそんな想いが込められています。</p>

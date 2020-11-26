@@ -22,7 +22,7 @@ tags:
 - 僕の来た道
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/due_120912.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="" title="due_120912" width="448" height="448" class="alignnone size-full wp-image-2689" /></a><br />
+<p><a href="/wp-content/uploads/due_120912.jpg" target="_blank"><img src="/wp-content/uploads/due_120912.jpg" alt="" title="due_120912" width="448" height="448" class="alignnone size-full wp-image-2689" /></a><br />
 日々忘れることだらけです。@kotala_bです。<br />
 そんな僕ですが忘れちゃいけないことは必ずメモして思い出せるようにしています。<br />
 特に忘れやすいのは新しい習慣を始めたばかりの時です。<br />
@@ -54,9 +54,9 @@ Dueではこの繰り返し設定がとにかく細かいのです。</p>
 <h2>Dueの繰り返し設定</h2>
 <p>毎日、毎週、毎月の繰り返し設定はもちろんのこと。<br />
 ▼「3週おきに水曜日と金曜日の午後3時」であったり、<br />
-<a href="https://kotalab.com/wp-content/uploads/due_120912_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/due_120912_01.png" alt="" title="due_120912_01" width="300" height="450" class="alignnone size-full wp-image-2692" /></a><br />
+<a href="/wp-content/uploads/due_120912_01.png" target="_blank"><img src="/wp-content/uploads/due_120912_01.png" alt="" title="due_120912_01" width="300" height="450" class="alignnone size-full wp-image-2692" /></a><br />
 ▼「3ヶ月おきに12日の午前10時」という細かい設定まで可能です。<br />
-<a href="https://kotalab.com/wp-content/uploads/due_120912_02.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/due_120912_02.png" alt="" title="due_120912_02" width="300" height="450" class="alignnone size-full wp-image-2693" /></a><br />
+<a href="/wp-content/uploads/due_120912_02.png" target="_blank"><img src="/wp-content/uploads/due_120912_02.png" alt="" title="due_120912_02" width="300" height="450" class="alignnone size-full wp-image-2693" /></a><br />
 例えば、隔週である古紙回収の日の前夜に「明日は古紙回収」というリマインダーをDueで設定。<br />
 この通知が来たら古紙をまとめて玄関に置いておけば、古紙回収の日に出し忘れることはありません。<br />
 Dueはそういう細かい設定が可能なのです。</p>
@@ -64,7 +64,7 @@ Dueはそういう細かい設定が可能なのです。</p>
 <p>Dueのもう一つのウリはしつこさです。<br />
 止めるまでしつこく何度でも通知されます。<br />
 ▼止めないでいるとこんな風に。<br />
-<a href="https://kotalab.com/wp-content/uploads/due_120912_04.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/due_120912_04.png" alt="" title="due_120912_04" width="300" height="450" class="alignnone size-full wp-image-2696" /></a><br />
+<a href="/wp-content/uploads/due_120912_04.png" target="_blank"><img src="/wp-content/uploads/due_120912_04.png" alt="" title="due_120912_04" width="300" height="450" class="alignnone size-full wp-image-2696" /></a><br />
 このしつこさには今やってる作業をやめざるをえません。</p>
 <h2>DueはURLスキームを使えば更に便利！</h2>
 <p>Dueは項目にURLが含まれているとチェックした時にURLへアクセスされるボタンが表示されます。<br />
@@ -78,7 +78,7 @@ MomentoのURLスキームは「momento://」ですが、後ろに文字列が必
 <p><strong>URLスキーム「***://」の後に何か文字を入れる！</strong><br />
 僕はこれを使って僕の来た道の開始と終了をDueに設定しました。<br />
 ▼僕の来た道のURLスキームは「yjbokumichi://」なのでDueには「yjbokumichi://a」と入力！<br />
-<a href="https://kotalab.com/wp-content/uploads/due_120912_03.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/due_120912_03.png" alt="" title="due_120912_03" width="300" height="450" class="alignnone size-full wp-image-2694" /></a><br />
+<a href="/wp-content/uploads/due_120912_03.png" target="_blank"><img src="/wp-content/uploads/due_120912_03.png" alt="" title="due_120912_03" width="300" height="450" class="alignnone size-full wp-image-2694" /></a><br />
 これでもう忘れることはありません！</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/puno-laita-dao/id536059062?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a547.phobos.apple.com/us/r1000/105/Purple/v4/d5/a3/65/d5a3653c-3ecd-34f6-821b-ac7439700a0b/Icon.png" width="80" /></a></div>

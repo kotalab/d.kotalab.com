@@ -23,7 +23,7 @@ tags:
 - 簿記
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/cloud-accounting-software_140212-546x409.jpg" alt="cloud-accounting-software_140212" width="546" height="409" class="alignnone size-large wp-image-10818" /><br />
+<p><img src="/wp-content/uploads/cloud-accounting-software_140212-546x409.jpg" alt="cloud-accounting-software_140212" width="546" height="409" class="alignnone size-large wp-image-10818" /><br />
 もうすぐ確定申告の時期ですね。みなさん準備は大丈夫ですか？<br />
 僕は「<a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00FOBPYM4/same-22/ref=nosim/" rel="nofollow" target="_blank">やよいの青色申告</a>」を使って確定申告の準備をしています。<br />
 最近はこの確定申告に使える会計ソフトもクラウド化されてきているようで。<br />

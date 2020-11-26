@@ -21,7 +21,7 @@ tags:
 - 電卓
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iphoneappcalculator_131030_01-546x288.jpg" alt="iphoneappcalculator_131030_01" width="546" height="288" class="alignnone size-large wp-image-10078" /><br />
+<p><img src="/wp-content/uploads/iphoneappcalculator_131030_01-546x288.jpg" alt="iphoneappcalculator_131030_01" width="546" height="288" class="alignnone size-large wp-image-10078" /><br />
 今朝衝撃の発見をしました。こたら（@kotala_b）です。<br />
 アイキャッチにもなってるトップの画像を見たことありますか？<br />
 僕は今朝初めて見ました。<br />
@@ -30,9 +30,9 @@ comments: []
 <!--more-->
 <h2>iPhoneの電卓</h2>
 <p>良く目にするのは縦画面のこれです。<br />
-<img src="https://kotalab.com/wp-content/uploads/iphoneappcalculator_131030_02-300x513.jpg" alt="iphoneappcalculator_131030_02" width="300" height="513" class="alignnone size-medium wp-image-10079" /><br />
+<img src="/wp-content/uploads/iphoneappcalculator_131030_02-300x513.jpg" alt="iphoneappcalculator_131030_02" width="300" height="513" class="alignnone size-medium wp-image-10079" /><br />
 今朝ふとした拍子に電卓起動中のiPhoneを横にしたらこんなのが出てきたんです。<br />
-<img src="https://kotalab.com/wp-content/uploads/iphoneappcalculator_131030_01-546x288.jpg" alt="iphoneappcalculator_131030_01" width="546" height="288" class="alignnone size-large wp-image-10078" /><br />
+<img src="/wp-content/uploads/iphoneappcalculator_131030_01-546x288.jpg" alt="iphoneappcalculator_131030_01" width="546" height="288" class="alignnone size-large wp-image-10078" /><br />
 縦画面の電卓しかないものだとばっかり思ってたんでビックリ！<br />
 見慣れない記号もあったのでどんな計算なのかちょっと気になります。</p>
 <h3>iPhoneの電卓でできる機能</h3>
@@ -40,7 +40,7 @@ comments: []
 関数電卓と言われる科学や工学の分野で使われる機能が備わってます。<br />
 高校のときやったなーと懐かしくなった、&pi;とか三角関数などもあります。<br />
 &pi;を押すと円周率が小数点第15位まででてきたりして、こんなのいつ使うんだかと思っちゃうような電卓です。<br />
-<img src="https://kotalab.com/wp-content/uploads/iphoneappcalculator_131030_03-546x288.jpg" alt="iphoneappcalculator_131030_03" width="546" height="288" class="alignnone size-large wp-image-10083" /><br />
+<img src="/wp-content/uploads/iphoneappcalculator_131030_03-546x288.jpg" alt="iphoneappcalculator_131030_03" width="546" height="288" class="alignnone size-large wp-image-10083" /><br />
 学生の時以来使った記憶はないけど、知ってればいざって時に使えるかも？！</p>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="kaerebalink-box">

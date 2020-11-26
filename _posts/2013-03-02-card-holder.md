@@ -21,7 +21,7 @@ tags:
 - ストレスフリー
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/novita_130302-448x336.jpg" alt="novita_130302" width="448" height="336" class="alignnone size-large wp-image-6384" /><br />
+<p><img src="/wp-content/uploads/novita_130302-448x336.jpg" alt="novita_130302" width="448" height="336" class="alignnone size-large wp-image-6384" /><br />
 カードホルダを買いました。@kotala_bです。<br />
 買ったのはコクヨのノビータです！<br />
 @jun1logさんの紹介記事を見て欲しくなって買いました！<br />
@@ -45,10 +45,10 @@ comments: []
 <p>今回買ったのはグリーン！<br />
 他にもブルーやクリアなど全5色！<br />
 ▼何も入れていない状態<br />
-<img src="https://kotalab.com/wp-content/uploads/novita_130302_01-448x336.jpg" alt="novita_130302_01" width="448" height="336" class="alignnone size-large wp-image-6382" /><br />
+<img src="/wp-content/uploads/novita_130302_01-448x336.jpg" alt="novita_130302_01" width="448" height="336" class="alignnone size-large wp-image-6382" /><br />
 薄くてかさばらないのがイイ！<br />
 ▼カードを入れた状態<br />
-<img src="https://kotalab.com/wp-content/uploads/novita_130302_02-448x336.jpg" alt="novita_130302_02" width="448" height="336" class="alignnone size-large wp-image-6383" /><br />
+<img src="/wp-content/uploads/novita_130302_02-448x336.jpg" alt="novita_130302_02" width="448" height="336" class="alignnone size-large wp-image-6383" /><br />
 バンドがあるので逆さまにしても滑り落ちる心配がありません！</p>
 <h2>最後に</h2>
 <p>財布に普段入れていないポイントカードや診察券をひとまとめにしてスッキリしました！<br />

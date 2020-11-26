@@ -23,11 +23,11 @@ tags:
 - 健康
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/project_120909.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/project_120909.jpg" alt="" title="project_120909" width="448" height="336" class="alignnone size-full wp-image-2654" /></a><br />
+<p><a href="/wp-content/uploads/project_120909.jpg" target="_blank"><img src="/wp-content/uploads/project_120909.jpg" alt="" title="project_120909" width="448" height="336" class="alignnone size-full wp-image-2654" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/smemon/5796748733/" target="_blank">sun rise</a> / Sean MacEntee</span><br />
 年末までの今年1年の目標をプロジェクトとして管理しています。@kotala_bです。<br />
 僕はやりたいことをする為にプロジェクト管理を行っています。<br />
-<a href="https://kotalab.com/want-to-do-project-management" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/project-management2" alt="https://kotalab.com/archives/2362" width="150" height="130" align="left" /></a><a href="https://kotalab.com/want-to-do-project-management" target="_blank">やりたいことをするためにやってることープロジェクト管理ー | kotala's note</a><br style="clear:both;" />また、1年間の目標についてもプロジェクトとして扱ってます。<br />
+<a href="/want-to-do-project-management" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/project-management2" alt="https://kotalab.com/archives/2362" width="150" height="130" align="left" /></a><a href="/want-to-do-project-management" target="_blank">やりたいことをするためにやってることープロジェクト管理ー | kotala's note</a><br style="clear:both;" />また、1年間の目標についてもプロジェクトとして扱ってます。<br />
 </p>
 <!--more-->
 <h2>似てるようで違う目標とやりたいこと</h2>
@@ -36,7 +36,7 @@ comments: []
 <h2>1年間の目標をどうやってプロジェクトにするか</h2>
 <p>1年の目標というくくりにすると項目が多すぎるのでさらに分けて、1年の健康に関する目標というように複数の項目に分けていきます。<br />
 このとき僕が項目として分けるのは人生の柱として自分で考えた7つの項目についてです。<br />
-<a href="https://kotalab.com/life-plan" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/life-plan" alt="https://kotalab.com/archives/1732" width="150" height="130" align="left" /></a><a href="https://kotalab.com/life-plan" target="_blank">自分の人生の柱について考えてみよう | kotala's note</a><br style="clear:both;" />健康を1番に考えました。<br />
+<a href="/life-plan" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/life-plan" alt="https://kotalab.com/archives/1732" width="150" height="130" align="left" /></a><a href="/life-plan" target="_blank">自分の人生の柱について考えてみよう | kotala's note</a><br style="clear:both;" />健康を1番に考えました。<br />
 体が資本なので何よりも健康を大切にしたいと考えます。</p>
 <h2>分類したことの目標を掲げる</h2>
 <p>改善したいこと、維持したいことを書き出します。<br />

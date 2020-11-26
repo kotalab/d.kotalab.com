@@ -33,7 +33,7 @@ comments:
   content: "[...] ◆ シンプルでキレイなUIのライフログアプリ「Momento」が期間限定で無料 （ via kotala&#8217;s note
     ） [...]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/momento_130618-300x300.png" alt="momento_130618" width="300" height="300" class="alignnone size-medium wp-image-7519" /><br />
+<p><img src="/wp-content/uploads/momento_130618-300x300.png" alt="momento_130618" width="300" height="300" class="alignnone size-medium wp-image-7519" /><br />
 ライフログが好きです。こたら（@kotala_b）です。<br />
 あの日はこんな場所へ行ったな、あの時はことがあったな、と取ったログを眺めているあの時間が一番好きです。<br />
 ログを振り返る時間が好きなのには、見ていて飽きのこないシンプルでキレイなUIのiPhoneアプリ「Momento」があるから。<br />
@@ -53,11 +53,11 @@ comments:
 <p>Momentoは複数のSNSを同時に1つのタイムラインで眺めることが出来るアプリ。<br />
 それも各SNSを横断して、時系列ごとに並ぶので眺めるのが楽しいのです。<br />
 Momentoのタイムラインで表示可能なモノは、Twitter、Facebook、Flickr、Instagram、Last.fm、Foursquare、Youtube、Vimeo、RSSフィード。<br />
-<img src="https://kotalab.com/wp-content/uploads/momento_130618_01-300x513.jpg" alt="momento_130618_01" width="300" height="513" class="alignnone size-medium wp-image-7520" /><br />
+<img src="/wp-content/uploads/momento_130618_01-300x513.jpg" alt="momento_130618_01" width="300" height="513" class="alignnone size-medium wp-image-7520" /><br />
 これらのSNS以外に、Momento内で日記を書くことも可能。<br />
 RSSが読み込めるので自分の書いたブログ自体をライフログとして取り込めるのは、ブロガーとして嬉しい限り。</p>
 <h2>最後に</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/momento_130618_02-300x513.jpg" alt="momento_130618_02" width="300" height="513" class="alignnone size-medium wp-image-7521" /><br />
+<p><img src="/wp-content/uploads/momento_130618_02-300x513.jpg" alt="momento_130618_02" width="300" height="513" class="alignnone size-medium wp-image-7521" /><br />
 飽きのこないキレイなUI。<br />
 そして抜群の機能性。<br />
 最初にアカウントの設定を済ませてしまえば、ライフログが自動で取得出来る。<br />
@@ -74,5 +74,5 @@ RSSが読み込めるので自分の書いたブログ自体をライフログ�
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/app-reeder-local-rss" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="https://kotalab.com/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/app-moves" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/moves_130209-448x448.png" alt="ライフログの決定版！iPhoneでライフログを取るなら使いたい無料アプリ「Moves」 | kotala's note" width="150" /></a><a href="https://kotalab.com/app-moves" target="_blank">ライフログの決定版！iPhoneでライフログを取るなら使いたい無料アプリ「Moves」 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/app-reeder-local-rss" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130429125816.jpg" alt="Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note" width="150" /></a><a href="/app-reeder-local-rss" target="_blank">Googleリーダーからの移行先はここに決めた！Reeder単独でRSS購読可能に！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/app-moves" target="_blank"><img  class="alignleft" src="/wp-content/uploads/moves_130209-448x448.png" alt="ライフログの決定版！iPhoneでライフログを取るなら使いたい無料アプリ「Moves」 | kotala's note" width="150" /></a><a href="/app-moves" target="_blank">ライフログの決定版！iPhoneでライフログを取るなら使いたい無料アプリ「Moves」 | kotala's note</a><br style="clear:both;" /></p>

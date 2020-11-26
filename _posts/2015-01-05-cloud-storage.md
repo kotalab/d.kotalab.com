@@ -24,13 +24,13 @@ tags:
 - WebNote
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/cloud-storage_20150106_01-780x438.jpg" alt="cloud-storage_20150106_01" width="780" height="438" class="aligncenter size-large wp-image-13757" /><br />
+<p><img src="/wp-content/uploads/cloud-storage_20150106_01-780x438.jpg" alt="cloud-storage_20150106_01" width="780" height="438" class="aligncenter size-large wp-image-13757" /><br />
 Evernoteなどのクラウドストレージを普段どういう風に使っているのか、ブログを書いたりアプリ開発をしたりFP（ファイナンシャルプランナー）をしている僕なりの使い方をご紹介したいと思います。<br />
 </p>
 <!--more-->
 <h2>僕のEvernoteの使い道</h2>
 <h3>1.自動ログ</h3>
-<p>TwitterやFacebookなどのSNS、<a href="https://kotalab.com/app-moves">Moves</a>やSwarmなどの行動記録、<a href="https://kotalab.com/app-grid-diary">GridDiary</a>の日記や<a href="https://kotalab.com/app-gunosy-release">Gunosy</a>なんかを日々ログとして保存しています。</p>
+<p>TwitterやFacebookなどのSNS、<a href="/app-moves">Moves</a>やSwarmなどの行動記録、<a href="/app-grid-diary">GridDiary</a>の日記や<a href="/app-gunosy-release">Gunosy</a>なんかを日々ログとして保存しています。</p>
 <p>これらほとんどの<span class="b">ログは自動で保存するようにしていて、記録にできるだけ手間をかけないようにしています。</span></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/moves/id509204969?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1112.phobos.apple.com/us/r30/Purple2/v4/19/8e/72/198e72ed-13a2-dea7-dc5e-f930f97585a3/mzl.whvtejgg.png" width="80" /></a></div>
@@ -57,7 +57,7 @@ Evernoteなどのクラウドストレージを普段どういう風に使って
 <h3>2.アイディア・ネタ帳</h3>
 <p>電車の中とかトイレの中とか、ふっとした瞬間に思いつくことがあるのでiPhoneからいつでもメモできるようにしています。</p>
 <p>アプリ開発で参考になりそうなWebページも保存しています。<br />
-<span class="b">メモを取るときはCellMemo、Webページは<a href="https://kotalab.com/webnote-release-1-0-0" title="EvernoteにWebページの情報を送れるiPhoneアプリ「WebNote」をリリースしました！">WebNote</a>を使って保存しています。</span></p>
+<span class="b">メモを取るときはCellMemo、Webページは<a href="/webnote-release-1-0-0" title="EvernoteにWebページの情報を送れるiPhoneアプリ「WebNote」をリリースしました！">WebNote</a>を使って保存しています。</span></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/webnote/id911802747?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a777.phobos.apple.com/us/r30/Purple3/v4/ae/75/b6/ae75b688-4134-0c02-04bd-519636da3b6b/mzl.potfdrgo.png" width="80" /></a></div>
 <div class="applinktext">
@@ -95,7 +95,7 @@ Dropboxを使い始めてからはファイルをメールで添付するよう�
 <h2>Dropboxのいいところ</h2>
 <p>Dropboxには履歴機能があって、誤って消しちゃったファイルを履歴から元に戻せるところも、なんとなく安心感があって気に入っています。</p>
 <h2>どんなクラウドストレージサービスがいいか迷ったら</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/cloud-storage_20150106_02-780x438.jpg" alt="cloud-storage_20150106_02" width="780" height="438" class="aligncenter size-large wp-image-13758" /><br />
+<p><img src="/wp-content/uploads/cloud-storage_20150106_02-780x438.jpg" alt="cloud-storage_20150106_02" width="780" height="438" class="aligncenter size-large wp-image-13758" /><br />
 僕が主に使っているのはEvernoteとDropboxですが、クラウドストレージサービスは他にも沢山あります。</p>
 <p>どれを使ったらいいか分からない時は、とりあえず気になるものを使ってみて合わなければ他のを使ってみればいいんじゃないかと思います。</p>
 <h3>使い方は自由！</h3>

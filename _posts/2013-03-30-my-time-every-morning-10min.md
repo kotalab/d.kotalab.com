@@ -21,12 +21,12 @@ tags:
 - やりたいこと
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/morning10min_130330-448x336.jpg" alt="morning10min_130330" width="448" height="336" class="alignnone size-large wp-image-6662" /><br />
+<p><img src="/wp-content/uploads/morning10min_130330-448x336.jpg" alt="morning10min_130330" width="448" height="336" class="alignnone size-large wp-image-6662" /><br />
 毎朝10分だけやりたいことを書き出しています。@kotala_bです。<br />
 自分のやりたいこととやめたいことの他に、パートナーの為にやりたいことを書いていました。<br />
 これははまさん（@SURF_FISH)のこちらの記事を参考に自分だけでなくパートナーの為にという内容をつけたしました。<br />
 <a href="http://hama73.com/archives/2913" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://hama73.com/archives/2913" alt="2012年に身についた良習慣ベスト7" width="150" height="130" /></a><a href="http://hama73.com/archives/2913" target="_blank">2012年に身についた良習慣ベスト7</a><a href="https://b.hatena.ne.jp/entry/http://hama73.com/archives/2913" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://hama73.com/archives/2913" alt="" /></a><br style="clear:both;" />▼このことはこちらの記事で紹介しました。<br />
-<a href="https://kotalab.com/keep-doing-every-morning" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130305112246.jpg" alt="毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note" width="150" /></a><a href="https://kotalab.com/keep-doing-every-morning" target="_blank">毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note</a><br style="clear:both;" />そこからもう少し手を加えて、「今抱えている問題点について考えること」もするようになりました。<br />
+<a href="/keep-doing-every-morning" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130305112246.jpg" alt="毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note" width="150" /></a><a href="/keep-doing-every-morning" target="_blank">毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note</a><br style="clear:both;" />そこからもう少し手を加えて、「今抱えている問題点について考えること」もするようになりました。<br />
 </p>
 <!--more-->
 <h2></h2>
@@ -49,6 +49,6 @@ Evernoteの共有ノートとして公開しています。</p>
 <p>毎朝起きてすぐの時間を使うことで、後回しにせず習慣として続けられるようになります。<br />
 毎日続けたい良習慣は毎朝起きてすぐやることが毎日続けられるコツです。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/the-order-of-priority" target="_blank"><img class="alignleft" src="https://kotalab.com/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="時間は作るもの！物事に優先順位をつけて行動しよう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/the-order-of-priority" target="_blank">時間は作るもの！物事に優先順位をつけて行動しよう！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/dont-giveup-think" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/syukan_130120-300x431.png" alt="習慣が続かない理由は続く理由に変えられる！諦める前に考えてみよう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/dont-giveup-think" target="_blank">習慣が続かない理由は続く理由に変えられる！諦める前に考えてみよう！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/good-five-habits" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/syuukan5_121229-448x336.jpg" alt="これを習慣にしたら人生が変わった！今年身につけた5つの良習慣！ | kotala's note" width="150" /></a><a href="https://kotalab.com/good-five-habits" target="_blank">これを習慣にしたら人生が変わった！今年身につけた5つの良習慣！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/the-order-of-priority" target="_blank"><img class="alignleft" src="/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="時間は作るもの！物事に優先順位をつけて行動しよう！ | kotala's note" width="150" /></a><a href="/the-order-of-priority" target="_blank">時間は作るもの！物事に優先順位をつけて行動しよう！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/dont-giveup-think" target="_blank"><img  class="alignleft" src="/wp-content/uploads/syukan_130120-300x431.png" alt="習慣が続かない理由は続く理由に変えられる！諦める前に考えてみよう！ | kotala's note" width="150" /></a><a href="/dont-giveup-think" target="_blank">習慣が続かない理由は続く理由に変えられる！諦める前に考えてみよう！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/good-five-habits" target="_blank"><img  class="alignleft" src="/wp-content/uploads/syuukan5_121229-448x336.jpg" alt="これを習慣にしたら人生が変わった！今年身につけた5つの良習慣！ | kotala's note" width="150" /></a><a href="/good-five-habits" target="_blank">これを習慣にしたら人生が変わった！今年身につけた5つの良習慣！ | kotala's note</a><br style="clear:both;" /></p>

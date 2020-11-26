@@ -23,7 +23,7 @@ tags:
 - やりたいこと
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/habit_130405-448x336.jpg" alt="habit_130405" width="448" height="336" class="alignnone size-large wp-image-6735" /><br />
+<p><img src="/wp-content/uploads/habit_130405-448x336.jpg" alt="habit_130405" width="448" height="336" class="alignnone size-large wp-image-6735" /><br />
 今年で29になります。@kotala_bです。<br />
 定期券を買うのに出来る行列やリクルートスーツの集団を見かけるとなんだか懐かしく感じます。<br />
 「もしあの頃の自分に戻れるなら何をしよう？」とふと思い浮かびました。<br />
@@ -56,12 +56,12 @@ comments: []
 去年の健康診断では高脂血症と言われてしまいます。<br />
 それから健康について気にするようになり、去年の4月から今年の2月半ば頃までは毎朝自分の体重と体脂肪を計り記録していました。<br />
 そのおかげで去年4月から11月までの約8ヶ月間で8キロ痩せることが出来ました。<br />
-<a href="https://kotalab.com/diet-8kg" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/diet_121122_03-448x336.png" alt="習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note" width="150" /></a><a href="https://kotalab.com/diet-8kg" target="_blank">習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note</a><br style="clear:both;" />何事もカラダが資本になります。<br />
+<a href="/diet-8kg" target="_blank"><img  class="alignleft" src="/wp-content/uploads/diet_121122_03-448x336.png" alt="習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note" width="150" /></a><a href="/diet-8kg" target="_blank">習慣を変えたら8キロ痩せた！僕が痩せる為にしたこと | kotala's note</a><br style="clear:both;" />何事もカラダが資本になります。<br />
 <strong>健康なカラダがあってこそ、自分のやりたいことが出来るのです。</strong></p>
 <h2>最後に</h2>
 <p>誰もが平等に持っていて、<strong>最も貴重なのが「時間」</strong>です。<br />
 時間は何もしなくても刻一刻と過ぎてしまいます。<br />
 <strong>人生の大切な時間を無駄にしないために、何かいいなと思ったことがあれば思うだけで終わらずに是非取り入れてみてください！</strong></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/good-five-habits" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/syuukan5_121229-448x336.jpg" alt="これを習慣にしたら人生が変わった！今年身につけた5つの良習慣！ | kotala's note" width="150" /></a><a href="https://kotalab.com/good-five-habits" target="_blank">これを習慣にしたら人生が変わった！今年身につけた5つの良習慣！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/my-time-every-morning-10min" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/morning10min_130330-448x336.jpg" alt="毎朝10分で出来る！問題解決の為の自分時間！ | kotala's note" width="150" /></a><a href="https://kotalab.com/my-time-every-morning-10min" target="_blank">毎朝10分で出来る！問題解決の為の自分時間！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/good-five-habits" target="_blank"><img  class="alignleft" src="/wp-content/uploads/syuukan5_121229-448x336.jpg" alt="これを習慣にしたら人生が変わった！今年身につけた5つの良習慣！ | kotala's note" width="150" /></a><a href="/good-five-habits" target="_blank">これを習慣にしたら人生が変わった！今年身につけた5つの良習慣！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/my-time-every-morning-10min" target="_blank"><img  class="alignleft" src="/wp-content/uploads/morning10min_130330-448x336.jpg" alt="毎朝10分で出来る！問題解決の為の自分時間！ | kotala's note" width="150" /></a><a href="/my-time-every-morning-10min" target="_blank">毎朝10分で出来る！問題解決の為の自分時間！ | kotala's note</a><br style="clear:both;" /></p>

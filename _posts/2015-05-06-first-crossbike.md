@@ -21,8 +21,8 @@ tags:
 - ESCAPE R3
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/first-crossbike_20150505_01.jpg" alt="First crossbike 20150505 01" width="780" height ="585" class="aligncenter size-large" /></p>
-<p>このGW、<a href="https://kotalab.com/category/burari/trip/kanazawa">北陸新幹線を利用して初めて金沢へ行った</a>のですが、初めての出来事がもう1つあります。<br />
+<p><img src="/wp-content/uploads/2015/05/first-crossbike_20150505_01.jpg" alt="First crossbike 20150505 01" width="780" height ="585" class="aligncenter size-large" /></p>
+<p>このGW、<a href="/category/burari/trip/kanazawa">北陸新幹線を利用して初めて金沢へ行った</a>のですが、初めての出来事がもう1つあります。<br />
 それはクロスバイクを購入したこと。</p>
 <p>クロスバイクというのは自転車の種類の1つで、ママチャリとは違うスポーツタイプの自転車です。<br />
 全体的な重さやタイヤの幅が軽くて細い、よりスピードが出るような作りになっています。</p>
@@ -31,13 +31,13 @@ comments: []
 僕がクロスバイクを買ったときに、お店で一緒に買い揃えた最低限のオプションを紹介します。</p>
 <!--more-->
 <h2>1.LEDライト</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/first-crossbike_20150505_04.jpg" alt="First crossbike 20150505 04" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/first-crossbike_20150505_04.jpg" alt="First crossbike 20150505 04" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>乗るのが昼間だけならライトを取り付ける必要はないそうですが、夜間走る時はライトをつけないとダメです。</p>
 <p>昼間だけしか使わないつもりでも、帰りが少し遅くなったり冬場だと日が暮れるのも早いのでライトはつけておきました。</p>
 <p>選んだのはUSBで充電できるLEDライト。<br />
 本体が小さい割に強い光。昼間でもこれだけ光って見えます。<br />
 お店の人に聞いたら、電池タイプよりも光が強いということでした。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/first-crossbike_20150505_05.jpg" alt="First crossbike 20150505 05" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/first-crossbike_20150505_05.jpg" alt="First crossbike 20150505 05" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>簡単に取り外し可能で、自転車に乗るとき以外も暗いところで使えそう。<br />
 ただし、自転車を止めるて置くときはライトを外しておかないと盗難されることもあるらしいので注意が必要。</p>
 <p>&darr;僕が買ったのとは少し違いますが、AmazonにはLEDが5つついてるタイプもありました。</p>
@@ -53,10 +53,10 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2>2.ワイヤーロック</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/first-crossbike_20150505_02.jpg" alt="First crossbike 20150505 02" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/first-crossbike_20150505_02.jpg" alt="First crossbike 20150505 02" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>クロスバイクを止めて置くときに必要なワイヤーロック。<br />
 太さ18mmで簡単には切れないものをチョイス。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/first-crossbike_20150505_03.jpg" alt="First crossbike 20150505 03" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/first-crossbike_20150505_03.jpg" alt="First crossbike 20150505 03" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>長さ1.2mあるので、車体とタイヤと街中の支柱とをいっぺんに通すことができます。</p>
 <p>クロスバイクは軽いので（僕が買ったのは約10キロ）、鍵をかけても鍵をつけたまま持って行かれるそう。<br />
 切られたら意味はありませんが、支柱に通しておけるサイズにしました。</p>
@@ -74,7 +74,7 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2>3.スタンド</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/first-crossbike_20150505_06.jpg" alt="First crossbike 20150505 06" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/05/first-crossbike_20150505_06.jpg" alt="First crossbike 20150505 06" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>クロスバイクは普通の自転車と違って、スタンドがついていないものがほとんど。<br />
 僕が買ったGIANTのESCAPE R3というモデルも例外ではありません。</p>
 <div class="kaerebalink-box">

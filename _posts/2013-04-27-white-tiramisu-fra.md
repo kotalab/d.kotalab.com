@@ -23,7 +23,7 @@ tags:
 - Starbucks
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/starbucks_130427-448x336.jpg" alt="starbucks_130427" width="448" height="336" class="alignnone size-large wp-image-6931" /><br />
+<p><img src="/wp-content/uploads/starbucks_130427-448x336.jpg" alt="starbucks_130427" width="448" height="336" class="alignnone size-large wp-image-6931" /><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/marcopako/206911985/" target="_blank">Starbucks</a> / marcopako </span><br />
 久しぶりにスタバに行きました。@kotala_bです。<br />
 新作が出ていたので注文しました！<br />
@@ -32,7 +32,7 @@ comments: []
 </p>
 <!--more-->
 <h2>ホワイト ティラミス フラペチーノ</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/starbucks_130427_01-448x447.jpg" alt="starbucks_130427_01" width="448" height="447" class="alignnone size-large wp-image-6930" /><br />
+<p><img src="/wp-content/uploads/starbucks_130427_01-448x447.jpg" alt="starbucks_130427_01" width="448" height="447" class="alignnone size-large wp-image-6930" /><br />
 ▼スタバの商品説明から抜粋</p>
 <blockquote><p>ティラミスをイメージし、真っ白に仕上げたノンコーヒーのフラペチーノ&reg;<br />
 キャラメルソースとチーズムースクリームとが融合して、甘い香り漂うデザートフラペチーノ&reg;です。<br />
@@ -73,5 +73,5 @@ Tall \590 Grande \630 Venti&reg; \670(すべて税込)<br />
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/how-to-miil" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/miil_20121116-448x350.png" alt="面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note" width="150" /></a><a href="https://kotalab.com/how-to-miil" target="_blank">面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/akari-cafe" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/akaricafe_130215-448x336.jpg" alt="昭和記念公園すぐ近くのカフェ「akari cafe」がとってもよかった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/akari-cafe" target="_blank">昭和記念公園すぐ近くのカフェ「akari cafe」がとってもよかった！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/how-to-miil" target="_blank"><img  class="alignleft" src="/wp-content/uploads/miil_20121116-448x350.png" alt="面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note" width="150" /></a><a href="/how-to-miil" target="_blank">面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/akari-cafe" target="_blank"><img  class="alignleft" src="/wp-content/uploads/akaricafe_130215-448x336.jpg" alt="昭和記念公園すぐ近くのカフェ「akari cafe」がとってもよかった！ | kotala's note" width="150" /></a><a href="/akari-cafe" target="_blank">昭和記念公園すぐ近くのカフェ「akari cafe」がとってもよかった！ | kotala's note</a><br style="clear:both;" /></p>

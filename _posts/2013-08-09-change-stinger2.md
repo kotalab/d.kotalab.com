@@ -20,7 +20,7 @@ tags:
 - stinger2
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/stinger2-448x294.jpg" alt="stinger2" width="448" height="294" class="alignnone size-large wp-image-8015" /><br />
+<p><img src="/wp-content/uploads/stinger2-448x294.jpg" alt="stinger2" width="448" height="294" class="alignnone size-large wp-image-8015" /><br />
 ブログテーマを変更しました。こたら（@kotala_b）です。<br />
 これまで使っていた「Diary/Notebook」というテーマから「Stinger2」というテーマに変更しました。<br />
 <a href="http://demo.s5themes.com/diary/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://demo.s5themes.com/diary/" alt="Diary/Notebook | Free Premium Wordpress Theme by Site5" width="150" height="130" /></a><a href="http://demo.s5themes.com/diary/" target="_blank">Diary/Notebook | Free Premium Wordpress Theme by Site5</a><a href="https://b.hatena.ne.jp/entry/http://demo.s5themes.com/diary/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://demo.s5themes.com/diary/" alt="" /></a><br style="clear:both;" />ノートっぽい背景が気に入っていましたが、カスタマイズしようと思ったときにその画像があるせいでカスタマイズしにくくいつか変えたいと思っていました。<br />

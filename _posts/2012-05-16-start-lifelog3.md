@@ -40,7 +40,7 @@ comments:
 実績として投稿出来る内容は、使った教材・学習時間・学習量(ページ数)・それについての内容や感想等のメモです。<br />
 またその勉強内容をtwitter・facebook・mixiに投稿することも可能です。</p>
 <h2>実績の振返り</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/studynote.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/studynote.jpg" alt="" title="studynote" width="448" height="310" class="alignnone size-full wp-image-1116" /></a><br />
+<p><a href="/wp-content/uploads/studynote.jpg" target="_blank"><img src="/wp-content/uploads/studynote.jpg" alt="" title="studynote" width="448" height="310" class="alignnone size-full wp-image-1116" /></a><br />
 投稿した内容は振返って見ることが出来ます。<br />
 教材ごと・総計と切り替えることが出来、期間も日・週・月から選べます。<br />
 勉強の記録としてだけではなく、「何」を「どれくらいの時間」で「どれくらいの量」読んだかといった読書の記録としても活用出来ます。<br />

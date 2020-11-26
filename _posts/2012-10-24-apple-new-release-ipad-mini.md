@@ -22,7 +22,7 @@ tags:
 - iPadmini
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121024124605.jpg" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20121024124605.jpg" width="448" height="336" /><br />
 今回の発表は欲しい物がいっぱいです。@kotala_bです。<br />
 日本時間24日未明にあったAppleの新製品発表会でiPadやiMacなどの新製品が続々と発表されました！<br />
 クリスマス商戦のラインナップとされるだけに今回の発表は魅力的な商品が盛りだくさんでした！<br />
@@ -37,8 +37,8 @@ comments: []
 もちろん薄くなったiMacや13インチのMacBookProRetinaモデルもとっても魅力的ですがやはり一番はiPadminiです！</p>
 <h2>今使っているモノ</h2>
 <p>僕が今使っているのはiPhone5とMacBookAir13インチです。<br />
-参考:<a href="https://kotalab.com/from-iphone4s-to-iphone5" target="_blank">iPhone5購入！iPhone4Sからの移行が想像以上に簡単で驚いた！ | kotala's note</a><br />
-参考:<a href="https://kotalab.com/macbook-air-24hours" target="_blank">圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！ | kotala's note</a><br />
+参考:<a href="/from-iphone4s-to-iphone5" target="_blank">iPhone5購入！iPhone4Sからの移行が想像以上に簡単で驚いた！ | kotala's note</a><br />
+参考:<a href="/macbook-air-24hours" target="_blank">圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！ | kotala's note</a><br />
 常に持ち歩いてるiPhone5はおいといて、MacBook Airはほとんど家に置いてあるという実情。<br />
 外でMacBookAirを使うとしても仕事の休みの日に1人で出かけた時にブログを書くのに使う程度。</p>
 <h2>iPadminiが欲しい！</h2>

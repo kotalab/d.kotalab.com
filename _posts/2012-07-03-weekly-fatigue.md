@@ -20,16 +20,16 @@ tags:
 - こたらの1週間
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/weekly_120703.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/weekly_120703.jpg" alt="" title="weekly_120703" width="448" height="336" class="alignnone size-full wp-image-1221" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/wespeck/4574733303/" target="_blank">Life</a> / gfpeck</span><br />
+<p><a href="/wp-content/uploads/weekly_120703.jpg" target="_blank"><img src="/wp-content/uploads/weekly_120703.jpg" alt="" title="weekly_120703" width="448" height="336" class="alignnone size-full wp-image-1221" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/wespeck/4574733303/" target="_blank">Life</a> / gfpeck</span><br />
 こたらの1週間第4号です。<br />
 先週1週間を振り返ります。<br />
 </p>
 <!--more-->
 <h2>先週の出来事</h2>
 <h3>つけ麺食べた！</h3>
-<p><a href="https://kotalab.com/ramen-santoka" target="_blank"><img title="【食】噛み応えのある太麺！「山頭火」さんのつけ麺 | kotala's note" src="https://capture.heartrails.com/150x130/1341292888406?https://kotalab.com/archives/ramen-santoka" alt="https://kotalab.com/archives/1066" width="150" height="130" align="left" /></a><a href="https://kotalab.com/ramen-santoka" title="【食】噛み応えのある太麺！「山頭火」さんのつけ麺" target="_blank">【食】噛み応えのある太麺！「山頭火」さんのつけ麺 | kotala's note</a><br style="clear:both;" />新百合ヶ丘にある「山頭火」さんでつけ麺を食べました！</p>
+<p><a href="/ramen-santoka" target="_blank"><img title="【食】噛み応えのある太麺！「山頭火」さんのつけ麺 | kotala's note" src="https://capture.heartrails.com/150x130/1341292888406?https://kotalab.com/archives/ramen-santoka" alt="https://kotalab.com/archives/1066" width="150" height="130" align="left" /></a><a href="/ramen-santoka" title="【食】噛み応えのある太麺！「山頭火」さんのつけ麺" target="_blank">【食】噛み応えのある太麺！「山頭火」さんのつけ麺 | kotala's note</a><br style="clear:both;" />新百合ヶ丘にある「山頭火」さんでつけ麺を食べました！</p>
 <h3>パスタ作った！</h3>
-<p><a href="https://kotalab.com/pasta-nametake-oroshi" target="_blank"><img title="なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！ | kotala's note" src="https://capture.heartrails.com/150x130/1341292878845?https://kotalab.com/pasta-nametake-oroshi" alt="https://kotalab.com/archives/1092" width="150" height="130" align="left" /></a><a href="https://kotalab.com/pasta-nametake-oroshi" title="なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！" target="_blank">なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！ | kotala's note</a><br style="clear:both;" />この時期にうってつけのさっぱりしたパスタを作りました！</p>
+<p><a href="/pasta-nametake-oroshi" target="_blank"><img title="なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！ | kotala's note" src="https://capture.heartrails.com/150x130/1341292878845?https://kotalab.com/pasta-nametake-oroshi" alt="https://kotalab.com/archives/1092" width="150" height="130" align="left" /></a><a href="/pasta-nametake-oroshi" title="なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！" target="_blank">なめたけと大根おろしをあえてのせるだけ！簡単に作れる和風パスタ！ | kotala's note</a><br style="clear:both;" />この時期にうってつけのさっぱりしたパスタを作りました！</p>
 <h2>今週読んだ本</h2>
 <h3>30代を後悔しない50のリスト</h3>
 <p>今週は1冊読み終えました。<br />

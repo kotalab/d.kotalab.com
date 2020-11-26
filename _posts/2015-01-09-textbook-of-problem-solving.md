@@ -21,7 +21,7 @@ tags:
 - マッキンゼー
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/textbook-of-problem-solving_20150109-780x438.jpg" alt="textbook-of-problem-solving_20150109" width="780" height="438" class="aligncenter size-large wp-image-13786" /><br />
+<p><img src="/wp-content/uploads/textbook-of-problem-solving_20150109-780x438.jpg" alt="textbook-of-problem-solving_20150109" width="780" height="438" class="aligncenter size-large wp-image-13786" /><br />
 人は皆、大小問わず様々な問題を抱えて生きている。問題を抱えていない人などいないだろう。</p>
 <p>僕たちが抱えている問題を解決するための手法が紹介されているのが「<a href="https://www.amazon.co.jp/exec/obidos/asin/4797369531/same-22/" rel="nofollow" target="_blank">マッキンゼー流 入社1年目問題解決の教科書</a>」だ。<br />
 本書の中から問題解決に役立つ5つの基本プロセスを紹介したい。<br />
@@ -59,7 +59,7 @@ comments: []
 <p>なぜなら問題というのは理想としていたことがうまくいっていないことがために起こるからだ。<br />
 理想と現実のギャップこそが本来解決すべき問題なのである。</p>
 <h3>まとめ</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/textbook-of-problem-solving_20150109-780x438.jpg" alt="textbook-of-problem-solving_20150109" width="780" height="438" class="aligncenter size-large wp-image-13786" /><br />
+<p><img src="/wp-content/uploads/textbook-of-problem-solving_20150109-780x438.jpg" alt="textbook-of-problem-solving_20150109" width="780" height="438" class="aligncenter size-large wp-image-13786" /><br />
 マッキンゼー流入社1年目問題解決の教科書に書かれている事例を見るとビジネス寄りの内容となっている。<br />
 だが問題というのは、ビジネスだけでなく僕たち個人個人にも沢山起こっていることだ。</p>
 <p>だからこの問題解決の手法自体はビジネスだけでなく個人的な問題解決にも役に立つことだろう。</p>

@@ -21,7 +21,7 @@ tags:
 - iPadアプリ
 comments: []
 ---
-<p><img alt="ipadmini10app" src="https://kotalab.com/wp-content/uploads/slooProImg_20121104102440.jpg" width="448" height="292" /><br />
+<p><img alt="ipadmini10app" src="/wp-content/uploads/slooProImg_20121104102440.jpg" width="448" height="292" /><br />
 iPadminiはブログ更新が主な使用目的です。@kotala_bです。<br />
 そんな僕がiPadminiを買って真っ先に入れた10のアプリを紹介します！<br />
 </p>
@@ -45,7 +45,7 @@ iPadminiを買った理由のひとつがブログを更新したいからとい
 <hr>
 <p>追記<br />
 するぷろforiPhoneがアップデートしてiPadに対応しました！<br />
-<a href="https://kotalab.com/slpro-update-2" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slpro_130214-448x448.jpg" alt="待ちに待った！するぷろが2.0にアップデートでついにiPad対応！ | kotala's note" width="150" /></a><a href="https://kotalab.com/slpro-update-2" target="_blank">待ちに待った！するぷろが2.0にアップデートでついにiPad対応！ | kotala's note</a><br style="clear:both;" />iPad用のするぷろは現在ダウンロード不可なのでバージョンアップしたするぷろforiOSをお使いください！</p>
+<a href="/slpro-update-2" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slpro_130214-448x448.jpg" alt="待ちに待った！するぷろが2.0にアップデートでついにiPad対応！ | kotala's note" width="150" /></a><a href="/slpro-update-2" target="_blank">待ちに待った！するぷろが2.0にアップデートでついにiPad対応！ | kotala's note</a><br style="clear:both;" />iPad用のするぷろは現在ダウンロード不可なのでバージョンアップしたするぷろforiOSをお使いください！</p>
 <hr>
 <h3>Skitch</h3>
 <p>Evernoteとの連携が便利な画像編集アプリです。<br />
@@ -66,7 +66,7 @@ iPadminiを買った理由のひとつがブログを更新したいからとい
 iPhoneの同アプリと同期が出来て大変便利です！<br />
 主にiPhoneでブログのネタになりそうなことを書いておいて、iPadminiで開いてするぷろへという流れで使っています。<br />
 DraftPadの便利な使い方は以前にも書きました。<br />
-<a href="https://kotalab.com/draftpad-free" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/draftpad_120907.jpg" alt="DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note" width="150" /></a><a href="https://kotalab.com/draftpad-free" target="_blank">DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note</a><br style="clear:both;" />iPadminiとiPhone5の連携で更に便利に使えそうです！</p>
+<a href="/draftpad-free" target="_blank"><img  class="alignleft" src="/wp-content/uploads/draftpad_120907.jpg" alt="DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note" width="150" /></a><a href="/draftpad-free" target="_blank">DraftPadを使ってみたら便利すぎた！このアプリが無料なんて信じられない！ | kotala's note</a><br style="clear:both;" />iPadminiとiPhone5の連携で更に便利に使えそうです！</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/draftpad/id358067114?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a772.phobos.apple.com/us/r1000/084/Purple/v4/7e/46/5d/7e465d97-57da-51d9-a245-6f1fdd83b11a/Icon.png" width="80" /></a></div>
 <div class="applinktext">
@@ -98,7 +98,7 @@ MacBookAir、iPhone5、iPadminiと僕が使ってる全ての端末で使って�
 <p>パスワード管理アプリ「KeePass」のiOS版です。<br />
 パスワードが入ったデータベースファイルさえ開ければKeePassはMacやwindows、iPhoneやAndroidとどの端末でもパスワードを同期して使える便利なアプリです！<br />
 同期には次に紹介するDropboxにファイルをいれておくだけ！<br />
-<a href="https://kotalab.com/macbook-air-first-app" title="これがなくては始まらない！MacBookAirを購入して真っ先に入れた3つのアプリ！" target="_blank">以前紹介したMacBookAirに真っ先に入れた3つのアプリ</a>の1つです。</p>
+<a href="/macbook-air-first-app" title="これがなくては始まらない！MacBookAirを購入して真っ先に入れた3つのアプリ！" target="_blank">以前紹介したMacBookAirに真っ先に入れた3つのアプリ</a>の1つです。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/minikeepass-secure-password/id451661808?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1388.phobos.apple.com/us/r1000/101/Purple2/v4/80/c7/88/80c788c1-74cd-a5da-6691-4a68fd2ca799/icon.png" width="80" /></a></div>
 <div class="applinktext">
@@ -113,7 +113,7 @@ MacBookAir、iPhone5、iPadminiと僕が使ってる全ての端末で使って�
 <h3>Dropbox</h3>
 <p>オンラインストレージの代表的なソフト。<br />
 webや様々な端末からアクセスできる便利なソフト。<br />
-<a href="https://kotalab.com/macbook-air-first-app" title="これがなくては始まらない！MacBookAirを購入して真っ先に入れた3つのアプリ！" target="_blank">以前紹介したMacBookAirに真っ先に入れた3つのアプリ</a>の1つです。</p>
+<a href="/macbook-air-first-app" title="これがなくては始まらない！MacBookAirを購入して真っ先に入れた3つのアプリ！" target="_blank">以前紹介したMacBookAirに真っ先に入れた3つのアプリ</a>の1つです。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/dropbox/id327630330?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1567.phobos.apple.com/us/r1000/007/Purple6/v4/5e/f2/cd/5ef2cde3-9cef-b6eb-004a-e8142a2a9496/Icon.png" width="80" /></a></div>
 <div class="applinktext">
@@ -128,7 +128,7 @@ webや様々な端末からアクセスできる便利なソフト。<br />
 <h3>Evernote</h3>
 <p>なんでも入るメモアプリの決定版！<br />
 単なるメモから写真、pdf、webクリップやメールまで何でもいれておけます！<br />
-<a href="https://kotalab.com/macbook-air-first-app" title="これがなくては始まらない！MacBookAirを購入して真っ先に入れた3つのアプリ！" target="_blank">以前紹介したMacBookAirに真っ先に入れた3つのアプリ</a>の1つです。</p>
+<a href="/macbook-air-first-app" title="これがなくては始まらない！MacBookAirを購入して真っ先に入れた3つのアプリ！" target="_blank">以前紹介したMacBookAirに真っ先に入れた3つのアプリ</a>の1つです。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/evernote/id281796108?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a246.phobos.apple.com/us/r1000/022/Purple4/v4/1f/85/87/1f858720-cd9a-e525-9ec5-75f56fd68522/icon-57.png" width="80" /></a></div>
 <div class="applinktext">
@@ -180,9 +180,9 @@ iPadminiで電子書籍を読んでみようと思い入れてみました！</p
 <div class="appstorelink"><a href="https://itunes.apple.com/jp/app/kindle/id302584613?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">AppStore</a></div>
 </div>
 <h2>最後に</h2>
-<p><a href="https://kotalab.com/macbook-air-first-app" title="これがなくては始まらない！MacBookAirを購入して真っ先に入れた3つのアプリ！" target="_blank">以前紹介したMacBookAirに真っ先に入れた3つのアプリ</a>に加えて、iPadminiにはブログ更新に関するアプリをまず最初に入れました！<br />
+<p><a href="/macbook-air-first-app" title="これがなくては始まらない！MacBookAirを購入して真っ先に入れた3つのアプリ！" target="_blank">以前紹介したMacBookAirに真っ先に入れた3つのアプリ</a>に加えて、iPadminiにはブログ更新に関するアプリをまず最初に入れました！<br />
 書き出してみるとiPhone5でも使ってる見慣れたアプリばかりなので目新しい感じはしませんが、使ってみるとiPhone5よりも画面が大きいというだけでまた違った印象を受けるアプリが多かったです。<br />
 iPhone5よりも大きいディスプレイサイズのおかげで使い心地もいいです！</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/iphone5-first10app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone5-first10app" target="_blank">iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/ipad-app30" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/iphone5-first10app" target="_blank"><img  class="alignleft" src="/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note" width="150" /></a><a href="/iphone5-first10app" target="_blank">iPhone5を買ったら真っ先に入れたいアプリ10！2013年3月版 | kotala's note</a><br style="clear:both;" /></p>

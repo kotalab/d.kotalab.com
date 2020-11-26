@@ -24,7 +24,7 @@ tags:
 - アナと雪の女王
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721.jpg" alt="Anayuki movienex ipad 140721" title="anayuki-movienex-ipad_140721.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/anayuki-movienex-ipad_140721.jpg" alt="Anayuki movienex ipad 140721" title="anayuki-movienex-ipad_140721.jpg" border="0" width="548" height="365" /><br />
 アナと雪の女王はMovieNEXという、DVD・ブルーレイ・デジタルコピーが全部入ったパッケージが販売されています。</p>
 <p>MovieNEXのデジタルコピーをiPad Airから観られるようにダウンロードしてみました。<br />
 ダウンロードしてから見るまでの流れをご紹介したいと思います。<br />
@@ -32,35 +32,35 @@ comments: []
 <!--more-->
 <h2>MovieNEX CLUBへアクセス</h2>
 <p>まずはパッケージに書かれてる<a href="http://disney-studio.jp/movienexclub/world.jsp?id=ANAYUKI" target="_blank">MovieNEX CLUB</a>へアクセスします。<br />
-<img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_01.png" alt="Anayuki movienex ipad 140721 01" title="anayuki-movienex-ipad_140721_01.png" border="0" width="548" height="265" /><br />
+<img src="/wp-content/uploads/anayuki-movienex-ipad_140721_01.png" alt="Anayuki movienex ipad 140721 01" title="anayuki-movienex-ipad_140721_01.png" border="0" width="548" height="265" /><br />
 DisnyJPのアカウントを持っている人はIDとパスワードを入力してログイン、初めての人は新規登録を選びます。</p>
 <p>次の画面で年齢確認があるので僕は18才以上を選択。<br />
 ここでログインIDとパスワードを決めるんだと思って入力したんですが、実際には次の画面で登録となります。<br />
 この画面では何も入力しないで年齢を選択するだけ。<br />
-<img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_02.png" alt="Anayuki movienex ipad 140721 02" title="anayuki-movienex-ipad_140721_02.png" border="0" width="548" height="379" /><br />
+<img src="/wp-content/uploads/anayuki-movienex-ipad_140721_02.png" alt="Anayuki movienex ipad 140721 02" title="anayuki-movienex-ipad_140721_02.png" border="0" width="548" height="379" /><br />
 IDとパスワードを決めると今度はメールマガジンへの登録画面に。<br />
 メールマガジンの設定は何も受信しないようにしてIDとパスワードの登録を終わらせました。</p>
 <h2>MovieNEX CLUBのマイワールド</h2>
 <p>今作ったIDとパスワードを入力してMovieNEX CLUBへログインします。</p>
 <p>ログインしたらマイワールドが開くようになるので、そこの右上から<span class="b">アナと雪の女王のMagicコード</span>を入力します。<br />
-<img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_03.png" alt="Anayuki movienex ipad 140721 03" title="anayuki-movienex-ipad_140721_03.png" border="0" width="548" height="282" /><br />
+<img src="/wp-content/uploads/anayuki-movienex-ipad_140721_03.png" alt="Anayuki movienex ipad 140721 03" title="anayuki-movienex-ipad_140721_03.png" border="0" width="548" height="282" /><br />
 「登録ありがとうございました！」という画面が出れば登録完了！<br />
-<img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_04.png" alt="Anayuki movienex ipad 140721 04" title="anayuki-movienex-ipad_140721_04.png" border="0" width="548" height="347" /><br />
+<img src="/wp-content/uploads/anayuki-movienex-ipad_140721_04.png" alt="Anayuki movienex ipad 140721 04" title="anayuki-movienex-ipad_140721_04.png" border="0" width="548" height="347" /><br />
 もう1度マイワールドを開くと、アナと雪の女王関連の一覧が一番上に表示されるようになります。<br />
-<img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_05.png" alt="Anayuki movienex ipad 140721 05" title="anayuki-movienex-ipad_140721_05.png" border="0" width="548" height="238" /><br />
+<img src="/wp-content/uploads/anayuki-movienex-ipad_140721_05.png" alt="Anayuki movienex ipad 140721 05" title="anayuki-movienex-ipad_140721_05.png" border="0" width="548" height="238" /><br />
 デジタルコピーを選び本編の取得に進みます。</p>
 <h2>アナと雪の女王のデジタルコピーを観る方法</h2>
 <p>ここまで進んだらあと少し！<br />
-<img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_06.png" alt="Anayuki movienex ipad 140721 06" title="anayuki-movienex-ipad_140721_06.png" border="0" width="548" height="346" /><br />
+<img src="/wp-content/uploads/anayuki-movienex-ipad_140721_06.png" alt="Anayuki movienex ipad 140721 06" title="anayuki-movienex-ipad_140721_06.png" border="0" width="548" height="346" /><br />
 デジタルコピーを観るためのプラットフォームを選びます。<br />
 選べるプラットフォームはiTunes・GooglePlay・niconicoの3つ。<br />
 ただし作品によって選べるプラットフォームの制限もあります。<br />
 <strong>アナと雪の女王の場合は、GooglePlayかniconicoのどちらかしか選べませんでした。</strong><br />
-<img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_07.png" alt="Anayuki movienex ipad 140721 07" title="anayuki-movienex-ipad_140721_07.png" border="0" width="548" height="307" /><br />
+<img src="/wp-content/uploads/anayuki-movienex-ipad_140721_07.png" alt="Anayuki movienex ipad 140721 07" title="anayuki-movienex-ipad_140721_07.png" border="0" width="548" height="307" /><br />
 僕はGooglePlayを選びました。<br />
-<img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_09.png" alt="Anayuki movienex ipad 140721 09" title="anayuki-movienex-ipad_140721_09.png" border="0" width="548" height="384" /><br />
+<img src="/wp-content/uploads/anayuki-movienex-ipad_140721_09.png" alt="Anayuki movienex ipad 140721 09" title="anayuki-movienex-ipad_140721_09.png" border="0" width="548" height="384" /><br />
 画面の流れに沿って進むとGooglePlayの「映画&amp;テレビ」というところにアナと雪の女王が登録されます！<br />
-<img src="https://kotalab.com/wp-content/uploads/anayuki-movienex-ipad_140721_10.png" alt="Anayuki movienex ipad 140721 10" title="anayuki-movienex-ipad_140721_10.png" border="0" width="548" height="274" /><br />
+<img src="/wp-content/uploads/anayuki-movienex-ipad_140721_10.png" alt="Anayuki movienex ipad 140721 10" title="anayuki-movienex-ipad_140721_10.png" border="0" width="548" height="274" /><br />
 PCでの操作はここまで。<br />
 ここからは実際に観る方の端末で操作します。</p>
 <p>GooglePlayからは動画は観れないので、今度はYoutubeにアクセス。<br />

@@ -23,7 +23,7 @@ tags:
 - bluetoothキーボード
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114-448x300.jpg" alt="bluetoothkeyboard_130114" width="448" height="300" class="alignnone size-large wp-image-5683" /></a><br />
+<p><a href="/wp-content/uploads/bluetoothkeyboard_130114.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114-448x300.jpg" alt="bluetoothkeyboard_130114" width="448" height="300" class="alignnone size-large wp-image-5683" /></a><br />
 Bluetoothキーボードを購入しました。@kotala_bです。<br />
 ▼買ったのはこちら</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;overflow: hidden">
@@ -106,30 +106,30 @@ Bluetoothキーボードを購入しました。@kotala_bです。<br />
 なので、4つの中から1番安いモノを選びました！</p>
 <h2>早速開封！</h2>
 <p>▼裏面<br />
-<a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_01-448x300.jpg" alt="bluetoothkeyboard_130114_01" width="448" height="300" class="alignnone size-large wp-image-5673" /></a><br />
+<a href="/wp-content/uploads/bluetoothkeyboard_130114_01.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_01-448x300.jpg" alt="bluetoothkeyboard_130114_01" width="448" height="300" class="alignnone size-large wp-image-5673" /></a><br />
 ▼表面<br />
-<a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_03-448x300.jpg" alt="bluetoothkeyboard_130114_03" width="448" height="300" class="alignnone size-large wp-image-5675" /></a><br />
+<a href="/wp-content/uploads/bluetoothkeyboard_130114_03.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_03-448x300.jpg" alt="bluetoothkeyboard_130114_03" width="448" height="300" class="alignnone size-large wp-image-5675" /></a><br />
 ▼iPadminiと並べて<br />
-<a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_02-448x300.jpg" alt="bluetoothkeyboard_130114_02" width="448" height="300" class="alignnone size-large wp-image-5674" /></a><br />
+<a href="/wp-content/uploads/bluetoothkeyboard_130114_02.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_02-448x300.jpg" alt="bluetoothkeyboard_130114_02" width="448" height="300" class="alignnone size-large wp-image-5674" /></a><br />
 ▼iPadminiと厚さ比較<br />
-<a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_04-448x300.jpg" alt="bluetoothkeyboard_130114_04" width="448" height="300" class="alignnone size-large wp-image-5676" /></a><br />
+<a href="/wp-content/uploads/bluetoothkeyboard_130114_04.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_04-448x300.jpg" alt="bluetoothkeyboard_130114_04" width="448" height="300" class="alignnone size-large wp-image-5676" /></a><br />
 iPadminiの方が若干薄い！<br />
 ▼スタンドに立てかけてみるとノートパソコンみたい！<br />
-<a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_05-448x300.jpg" alt="bluetoothkeyboard_130114_05" width="448" height="300" class="alignnone size-large wp-image-5677" /></a><br />
+<a href="/wp-content/uploads/bluetoothkeyboard_130114_05.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_05-448x300.jpg" alt="bluetoothkeyboard_130114_05" width="448" height="300" class="alignnone size-large wp-image-5677" /></a><br />
 ▼MacBook Airと比較<br />
-<a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_06-448x300.jpg" alt="bluetoothkeyboard_130114_06" width="448" height="300" class="alignnone size-large wp-image-5678" /></a><br />
+<a href="/wp-content/uploads/bluetoothkeyboard_130114_06.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_06-448x300.jpg" alt="bluetoothkeyboard_130114_06" width="448" height="300" class="alignnone size-large wp-image-5678" /></a><br />
 まるで親子みたい！<br />
 カバーとして使ってみるとキーボードの爪が引っかかり、iPadminiの塗装がほんの少しはげてしまいました。<br />
 今後はおそらくカバーとしては使わないでしょう。</p>
 <h2>iPadminiとのBluetooth接続のやり方</h2>
 <p>▼キーボードとiPadminiのBluetooth接続をオンにします。<br />
-<a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_07.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_07-448x327.jpg" alt="bluetoothkeyboard_130114_07" width="448" height="327" class="alignnone size-large wp-image-5679" /></a><br />
+<a href="/wp-content/uploads/bluetoothkeyboard_130114_07.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_07-448x327.jpg" alt="bluetoothkeyboard_130114_07" width="448" height="327" class="alignnone size-large wp-image-5679" /></a><br />
 ▼キーボード側の「connect」というボタンを押すとiPadminiにメッセージが表示されます。<br />
-<a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_08.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_08-448x327.jpg" alt="bluetoothkeyboard_130114_08" width="448" height="327" class="alignnone size-large wp-image-5680" /></a><br />
+<a href="/wp-content/uploads/bluetoothkeyboard_130114_08.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_08-448x327.jpg" alt="bluetoothkeyboard_130114_08" width="448" height="327" class="alignnone size-large wp-image-5680" /></a><br />
 ▼メッセージ通りキーボードで入力すれば接続完了！<br />
-<a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_09.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_09-448x327.jpg" alt="bluetoothkeyboard_130114_09" width="448" height="327" class="alignnone size-large wp-image-5681" /></a></p>
+<a href="/wp-content/uploads/bluetoothkeyboard_130114_09.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_09-448x327.jpg" alt="bluetoothkeyboard_130114_09" width="448" height="327" class="alignnone size-large wp-image-5681" /></a></p>
 <h2>最後に</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_10.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/bluetoothkeyboard_130114_10-448x327.jpg" alt="bluetoothkeyboard_130114_10" width="448" height="327" class="alignnone size-large wp-image-5682" /></a><br />
+<p><a href="/wp-content/uploads/bluetoothkeyboard_130114_10.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114_10-448x327.jpg" alt="bluetoothkeyboard_130114_10" width="448" height="327" class="alignnone size-large wp-image-5682" /></a><br />
 文字を試しに入力してみました。<br />
 キーピッチが狭いので誤字が多いです。<br />
 普通に使えるようになったらいいなと思います。</p>

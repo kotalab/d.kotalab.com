@@ -25,7 +25,7 @@ tags:
 - ねんきんネット
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/whats-nenkin_140207-546x361.jpg" alt="whats-nenkin_140207" width="546" height="361" class="alignnone size-large wp-image-10790" /><br />
+<p><img src="/wp-content/uploads/whats-nenkin_140207-546x361.jpg" alt="whats-nenkin_140207" width="546" height="361" class="alignnone size-large wp-image-10790" /><br />
 あなたは自分の受取年金額がいくらになるかわかりますか？<br />
 年金を貰うためには条件もあります。<br />
 知ってる人はもちろん、なんとなくわかってるつもりの人も参考にしてみてください。<br />
@@ -49,8 +49,8 @@ via:<a href="http://s.news.mynavi.jp/news/2014/02/03/146/" target="_blank">「�
 いつでも自分の加入状況を確認できるねんきんネットがおすすめです。<br />
 ねんきんネットへの登録はこちらを参考にしてください。</p>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/stop-nenkin-teikibin" target="_blank"><img src="https://kotalab.com/wp-content/uploads/nenkin_130123.png" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/stop-nenkin-teikibin" target="_blank">税金の無駄遣いを嘆く前にやっておこう！毎年誕生月に送られてくる「ねんきん定期便」の郵送を止める方法！</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/stop-nenkin-teikibin"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/stop-nenkin-teikibin" alt="" /></span></div>
+<div class="shhtimg"><a href="/stop-nenkin-teikibin" target="_blank"><img src="/wp-content/uploads/nenkin_130123.png" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/stop-nenkin-teikibin" target="_blank">税金の無駄遣いを嘆く前にやっておこう！毎年誕生月に送られてくる「ねんきん定期便」の郵送を止める方法！</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/stop-nenkin-teikibin"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/stop-nenkin-teikibin" alt="" /></span></div>
 </div>
 <h2>年金をもらうための条件</h2>
 <p>別に満額じゃなくても年金をもらえればいいって人もいると思います。<br />
@@ -78,16 +78,16 @@ via:<a href="http://www.nenkin.go.jp/n/www/service/detail.jsp?id=6221" target="_
 とはいえ将来のことだからといって、今何もできないわけではありません。<br />
 将来何があっても大丈夫なように、今の自分にできることを考えてやっていきましょう！</p>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/books-majimenowana" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?https://kotalab.com/books-majimenowana" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/books-majimenowana" target="_blank">「まじめ」という言葉に隠された罠 &ndash; まじめの罠 勝間和代著</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-majimenowana"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-majimenowana" alt="" /></span></div>
+<div class="shhtimg"><a href="/books-majimenowana" target="_blank"><img src="https://capture.heartrails.com/150x130/shadow?https://kotalab.com/books-majimenowana" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/books-majimenowana" target="_blank">「まじめ」という言葉に隠された罠 &ndash; まじめの罠 勝間和代著</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-majimenowana"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-majimenowana" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/books-thinking" target="_blank"><img src="https://kotalab.com/wp-content/uploads/yuruku_121129.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-thinking"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-thinking" alt="" /></span></div>
+<div class="shhtimg"><a href="/books-thinking" target="_blank"><img src="/wp-content/uploads/yuruku_121129.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/books-thinking" target="_blank">ストレスフリーな生活をするための思考法「ゆるく考えよう」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-thinking"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-thinking" alt="" /></span></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/money-nenkin" target="_blank"><img src="https://kotalab.com/wp-content/uploads/money-nenkin_140208-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/money-nenkin" target="_blank">知らないと損するお金のこと「国民年金」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/money-nenkin"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/money-nenkin" alt="" /></span></div>
+<div class="shhtimg"><a href="/money-nenkin" target="_blank"><img src="/wp-content/uploads/money-nenkin_140208-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/money-nenkin" target="_blank">知らないと損するお金のこと「国民年金」</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/money-nenkin"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/money-nenkin" alt="" /></span></div>
 </div>
 <div class="clear"></div>
 <p>iPad Airから<a href="https://itunes.apple.com/jp/app/surupuro-for-ios-buroguedita/id436676299?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">するぷろ for iOS</a>を使って更新しました！</p>

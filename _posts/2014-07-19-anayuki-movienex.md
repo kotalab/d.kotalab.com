@@ -23,7 +23,7 @@ tags:
 - アナと雪の女王
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/anayuki-movienex_140719.png" alt="Anayuki movienex 140719" title="anayuki-movienex_140719.png" border="0" width="548" height="321" /><br />
+<p><img src="/wp-content/uploads/anayuki-movienex_140719.png" alt="Anayuki movienex 140719" title="anayuki-movienex_140719.png" border="0" width="548" height="321" /><br />
 話題の映画「アナと雪の女王」のパッケージ版が早くも発売開始されましたね！<br />
 みなさんはもう観ましたか？<br />
 僕はこれからです！</p>

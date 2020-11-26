@@ -21,7 +21,7 @@ tags:
 - 浜松町
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/tukemenhaku_121018.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tukemenhaku_121018.jpg" alt="" title="tukemenhaku_121018" width="448" height="336" class="alignnone size-full wp-image-3482" /></a><br />
+<p><a href="/wp-content/uploads/tukemenhaku_121018.jpg" target="_blank"><img src="/wp-content/uploads/tukemenhaku_121018.jpg" alt="" title="tukemenhaku_121018" width="448" height="336" class="alignnone size-full wp-image-3482" /></a><br />
 ラーメンもつけ麺も大好きです。@kotala_bです。<br />
 9月27日から行われていた、「大つけ麺博日本一決定戦!!」もついに昨日（10月17日）最終日を迎えました。<br />
 <a href="http://dai-tsukemen-haku.com/" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://dai-tsukemen-haku.com/" alt="大つけ麺博日本一決定戦!! 2012 OFFICIAL WEBSITE！" width="150" height="130" /></a><a href="http://dai-tsukemen-haku.com/" target="_blank">大つけ麺博日本一決定戦!! 2012 OFFICIAL WEBSITE！</a><a href="https://b.hatena.ne.jp/entry/http://dai-tsukemen-haku.com/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://dai-tsukemen-haku.com/" alt="" /></a><br style="clear:both;" />僕は第二陣と第三陣の1日ずつ行くことが出来ました！<br />

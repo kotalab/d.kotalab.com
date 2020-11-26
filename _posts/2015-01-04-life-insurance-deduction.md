@@ -24,7 +24,7 @@ tags:
 - 所得税
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/life-insurance-deduction_20150104_01-780x585.jpg" alt="life-insurance-deduction_20150104_01" width="780" height="585" class="aligncenter size-large wp-image-13740" /><br />
+<p><img src="/wp-content/uploads/life-insurance-deduction_20150104_01-780x585.jpg" alt="life-insurance-deduction_20150104_01" width="780" height="585" class="aligncenter size-large wp-image-13740" /><br />
 <a href="https://ja.wikipedia.org/wiki/%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A" target="_blank">確定申告</a>では税務署が所得税の計算を行うのですが、計算対象となる所得から対象外として引かれる所得控除というものがあります。</p>
 <p>所得控除には基礎控除や配偶者控除、医療費控除など様々な控除があるのですが、生命保険料控除も所得控除の1つとなっています。<br />
 生命保険料控除では支払った生命保険料や介護医療保険料、個人年金保険料の中から一定の割合で控除を受けることができます。</p>
@@ -131,7 +131,7 @@ via:<a href="https://www.nta.go.jp/taxanswer/shotoku/1141.htm" target="_blank">N
 住民税の控除では一律28,000円となっていますが、新生命保険料控除・介護保険料控除・新個人年金保険料控除の合計では最大で70,000円となります。<br />
 旧契約の場合は一律35,000円、最大70,000円になっています。</p>
 <h2>生命保険料控除でいくら戻って来るの？</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/life-insurance-deduction_20150104_02-780x585.jpg" alt="life-insurance-deduction_20150104_02" width="780" height="585" class="aligncenter size-large wp-image-13741" /><br />
+<p><img src="/wp-content/uploads/life-insurance-deduction_20150104_02-780x585.jpg" alt="life-insurance-deduction_20150104_02" width="780" height="585" class="aligncenter size-large wp-image-13741" /><br />
 新契約の生命保険料が年間で8万円だった場合には、所得税控除額が4万円、住民税控除額が2万8千円となります。<br />
 ただし、控除額はそのままそっくり4万円還付されるわけじゃありません。</p>
 <p>戻ってくる金額は<br />

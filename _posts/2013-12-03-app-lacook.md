@@ -21,7 +21,7 @@ tags:
 - 料理
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/applacook_131203-546x409.jpg" alt="applacook_131203" width="546" height="409" class="alignnone size-large wp-image-10261" /><br />
+<p><img src="/wp-content/uploads/applacook_131203-546x409.jpg" alt="applacook_131203" width="546" height="409" class="alignnone size-large wp-image-10261" /><br />
 休みの日は料理をします。こたら（@kotala_b）です。<br />
 そんな僕の強い味方がクックパッド！<br />
 クックパッドにはあらゆる料理のレシピが載っててとっても便利。<br />
@@ -52,7 +52,7 @@ ccとかmlは「容量」でグラムは「重量」ということで、水と�
 <p>いちいちサイトを開くのが面倒だからiPhoneアプリであったら便利そうですよね。<br />
 というわけで調べてみたらApp Storeにありました！<br />
 その名も「laCook」<br />
-<img src="https://kotalab.com/wp-content/uploads/applacook_131203.png" alt="applacook_131203" width="270" height="459" class="alignnone size-full wp-image-10259" /><br />
+<img src="/wp-content/uploads/applacook_131203.png" alt="applacook_131203" width="270" height="459" class="alignnone size-full wp-image-10259" /><br />
 リストから品目を選んで、グラム数を入力すると換算結果が出てくるというアプリ！<br />
 これで僕の料理も捗りそうです！</p>
 <h4 class="app">記事の中に出てきたアプリ</h4>

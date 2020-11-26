@@ -23,7 +23,7 @@ tags:
 - たすくま
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/01/app-taskma-habit_20150112.jpg" alt="app-taskma-habit_20150112" width="1024" height="724" class="aligncenter size-full wp-image-13825" /><br />
+<p><img src="/wp-content/uploads/2015/01/app-taskma-habit_20150112.jpg" alt="app-taskma-habit_20150112" width="1024" height="724" class="aligncenter size-full wp-image-13825" /><br />
 僕は毎日たすくまというタスク管理アプリをiPhoneで使っています。</p>
 <p>僕が毎日使うほど便利だと思う理由の1つは、たすくまから別のアプリを起動できることです。</p>
 <p>たすくまから別のアプリを起動させる方法をご紹介します。</p>
@@ -34,11 +34,11 @@ comments: []
 <p>まず起動用のURLスキームをたすくまに登録してあるタスクのチェックリストに追加しておきます。<br />
 そしてチェックリストをダブルタップしてチェックをつけると、登録してあるアプリが起動するようになります。</p>
 <h2>僕のたすくまの使い方</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/01/slooProImg_20150114125205.jpg" width="720" height="288" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/01/slooProImg_20150114125205.jpg" width="720" height="288" /><br />
 「家計簿をつける」というタスクに、家計簿アプリを起動できるように設定しています。</p>
 <p>他のタスクと背景が違うのは、このタスクにはチェックリストがあることをあらわしています。</p>
 <p>僕がこのタスクをする時には、まずタスク名の左横にある再生ボタンを押してタスクをスタートさせます。</p>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/2015/01/slooProImg_20150114125204.jpg" width="720" height="313" /><br />
+<p><img alt="" src="/wp-content/uploads/2015/01/slooProImg_20150114125204.jpg" width="720" height="313" /><br />
 次にリスト表示からタスク名をダブルタップし、チェックリストを表示させます。</p>
 <p>表示されたチェック項目をダブルタップすると、チェックがつきURLスキームで指定したアプリが開きます。</p>
 <p>僕がやっていることは<br />

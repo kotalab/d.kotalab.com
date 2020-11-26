@@ -20,7 +20,7 @@ tags:
 - 熱中症対策
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/nettyusho_130808-448x336.jpg" alt="nettyusho_130808" width="448" height="336" class="alignnone size-large wp-image-8011" /><br />
+<p><img src="/wp-content/uploads/nettyusho_130808-448x336.jpg" alt="nettyusho_130808" width="448" height="336" class="alignnone size-large wp-image-8011" /><br />
 エアコンがかかせません。こたら（@kotala_b）です。<br />
 毎日暑い日が続きますね。<br />
 天気予報によるとこれから1週間くらいはこれまで以上に暑いそうです。<br />

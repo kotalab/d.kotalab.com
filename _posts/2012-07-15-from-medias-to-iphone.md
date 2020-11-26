@@ -24,18 +24,18 @@ tags:
 - MNP
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/iphone_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone_01.jpg" alt="" title="iphone_01" width="448" height="336" class="alignnone size-full wp-image-1430" /></a><br />
+<p><a href="/wp-content/uploads/iphone_01.jpg" target="_blank"><img src="/wp-content/uploads/iphone_01.jpg" alt="" title="iphone_01" width="448" height="336" class="alignnone size-full wp-image-1430" /></a><br />
 2014/01/25 追記：<br />
 別エントリーにiPhoneへの電話帳データの移行方法をまとめました。<br />
 よかったらそちらも参考にしてみてください。</p>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank">ガラケーからもスマホからもできる！iPhoneへの電話帳移行方法</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/transfer-data-for-ketai-to-iphone" alt="" /></a></div>
+<div class="shhtimg"><a href="/transfer-data-for-ketai-to-iphone" target="_blank"><img src="/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/transfer-data-for-ketai-to-iphone" target="_blank">ガラケーからもスマホからもできる！iPhoneへの電話帳移行方法</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/transfer-data-for-ketai-to-iphone" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/transfer-data-for-ketai-to-iphone" alt="" /></a></div>
 </div>
 <p>追記終わり</p>
 <hr>
 <p>電話帳を移すのに数日かかりました。@kotala_bです。<br />
-<a href="https://kotalab.com/iphone4s32gb-0yen" title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！" target="_blank">つい先日iPhoneを購入</a>してその時に、電話帳コピーはソフトバンクショップで行ってくださいと言われ翌日ソフトバンクショップに行ってきました。<br />
+<a href="/iphone4s32gb-0yen" title="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！" target="_blank">つい先日iPhoneを購入</a>してその時に、電話帳コピーはソフトバンクショップで行ってくださいと言われ翌日ソフトバンクショップに行ってきました。<br />
 </p>
 <!--more-->
 <h2>ソフトバンクショップへ</h2>
@@ -59,11 +59,11 @@ comments: []
 mediasWP(n-06c)の連絡先から「その他&rarr;インポート/エクスポート&rarr;SDカードにエクスポート」。<br />
 すると連絡先リストを「/sdcard/PIM/00001.vcfにエクスポートしますか」というメッセージが出るのでOKを選択。<br />
 「00001.vcf」というファイルを直接選択し、Androidの便利な共有機能を使ってEvernoteに送信。<br />
-<a href="https://kotalab.com/wp-content/uploads/backup_120715_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/backup_120715_01.png" alt="" title="backup_120715_01" width="448" height="672" class="alignnone size-full wp-image-1506" /></a><br />
+<a href="/wp-content/uploads/backup_120715_01.png" target="_blank"><img src="/wp-content/uploads/backup_120715_01.png" alt="" title="backup_120715_01" width="448" height="672" class="alignnone size-full wp-image-1506" /></a><br />
 Evernoteに送っておけばいざという時にまた使えるのでバックアップの意味も込めてEvernoteに送りました。<br />
 このファイルをiPhoneのEvernote上で開くと連絡先を追加出来ます。</p>
 <h2>別の方法</h2>
 <p>電話帳コピーにはiTunesを利用したやり方もありました。<br />
 <a href="https://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" target="_blank"><img title="iPhone 4S / 4：メモリ移行について | ソフトバンクモバイル" src="https://capture.heartrails.com/150x130/1342323828550?http://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" alt="https://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" width="150" height="130" align="left" /></a><a href="https://mb.softbank.jp/mb/iphone/service/app/pdc/sync_memory.html" title="iPhone 4S / 4：メモリ移行について | ソフトバンクモバイル" target="_blank">iPhone 4S / 4：メモリ移行について | ソフトバンクモバイル</a><br style="clear:both;" />ソフトバンクが提供している「電話帳かんたんコピー」を利用出来ない人向けにiTunesでの操作方法や設定方法が載っています。<br />
 <strong>2012/09/06追記：MNPに関するまとめ記事を書きました。</strong><br />
-<a href="https://kotalab.com/mnp-todobetter" target="_blank">MNPの前後でやったこと、やっておいた方がいいこと | kotala's note</a></p>
+<a href="/mnp-todobetter" target="_blank">MNPの前後でやったこと、やっておいた方がいいこと | kotala's note</a></p>

@@ -21,7 +21,7 @@ tags:
 - bookeep
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/bookeep_130301-448x448.png" alt="bookeep_130301" width="448" height="448" class="alignnone size-large wp-image-6372" /><br />
+<p><img src="/wp-content/uploads/bookeep_130301-448x448.png" alt="bookeep_130301" width="448" height="448" class="alignnone size-large wp-image-6372" /><br />
 お金の管理に家計簿をつけています。@kotala_bです。<br />
 家計簿といっても手書きではなくiPhoneを使って、お金を使ったらすぐに使った金額を入力出来るようにしています。<br />
 iPhoneでやるお金の管理にはbookeepというwebサービスを利用しています。<br />
@@ -88,5 +88,5 @@ bookeepに最初の入力をした後はiComptaはもう使いません。<br />
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/books-how-rich-people-think" target="_blank">金持ちになるための3つの考え方 | kotala's note</a><br />
-<a href="https://kotalab.com/books-who-save-money" target="_blank">【Books】是非マネしたい！「なぜかお金が貯まる人」がやっていること | kotala's note</a></p>
+<p><a href="/books-how-rich-people-think" target="_blank">金持ちになるための3つの考え方 | kotala's note</a><br />
+<a href="/books-who-save-money" target="_blank">【Books】是非マネしたい！「なぜかお金が貯まる人」がやっていること | kotala's note</a></p>

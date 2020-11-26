@@ -24,7 +24,7 @@ tags:
 - 家計簿
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-sakiokurisezuni_140116-546x409.jpg" alt="books-sakiokurisezuni_140116" width="546" height="409" class="alignnone size-large wp-image-10577" /><br />
+<p><img src="/wp-content/uploads/books-sakiokurisezuni_140116-546x409.jpg" alt="books-sakiokurisezuni_140116" width="546" height="409" class="alignnone size-large wp-image-10577" /><br />
 素晴らしい本を読んでも読みっぱなし。<br />
 勉強をして新しい知識を仕入れてもそのまま。<br />
 あなたもそんな経験がありませんか？<br />

@@ -21,7 +21,7 @@ tags:
 - 引越し
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/key_130227-448x336.jpg" alt="key_130227" width="448" height="336" class="alignnone size-large wp-image-6353" /><br />
+<p><img src="/wp-content/uploads/key_130227-448x336.jpg" alt="key_130227" width="448" height="336" class="alignnone size-large wp-image-6353" /><br />
 部屋の合鍵を作りました。@kotala_bです。<br />
 これから引越しシーズンに入り、合鍵を作りに行く方も増えることでしょう。<br />
 そこで今日は、鍵屋のおじさんから聞いたちょっと為になる話をご紹介します！<br />

@@ -22,7 +22,7 @@ tags:
 - TVCM
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/cat-ykkap-cm_20150103-780x451.jpg" alt="cat-ykkap-cm_20150103" width="780" height="451" class="aligncenter size-large wp-image-13731" /><br />
+<p><img src="/wp-content/uploads/cat-ykkap-cm_20150103-780x451.jpg" alt="cat-ykkap-cm_20150103" width="780" height="451" class="aligncenter size-large wp-image-13731" /><br />
 お正月にテレビを見ていて、思わず何のCMだろうと見入っちゃうCMがありました。<br />
 思わず見入ってしまうようなCMってなかなかないと思うんですよね。</p>
 <p>ネットで探してみたら動画があったのでご紹介したいと思います。<br />

@@ -22,16 +22,16 @@ tags:
 - Xcode
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/app-creator-1day_140421_05.jpg" alt="App creator 1day 140421 05" title="app-creator-1day_140421_05.JPG" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/app-creator-1day_140421_05.jpg" alt="App creator 1day 140421 05" title="app-creator-1day_140421_05.JPG" border="0" width="548" height="365" /><br />
 自分のiOSアプリを作りたい！<br />
-そんな気持ちで<a href="https://kotalab.com/app-creator">受講を決めた</a>「アプリクリエイター道場　開発塾」ですが、ようやくその日を迎えました！</p>
+そんな気持ちで<a href="/app-creator">受講を決めた</a>「アプリクリエイター道場　開発塾」ですが、ようやくその日を迎えました！</p>
 <p>場所は渋谷や代官山の近くにある「みどり荘」</p>
 <p>建物自体がみどりで覆われていて、外観からすぐわかりました！</p>
-<p><img src="https://kotalab.com/wp-content/uploads/app-creator-1day_140421_01.jpg" alt="App creator 1day 140421 01" title="app-creator-1day_140421_01.JPG" border="0" width="548" height="365" />が、入り口が「ほんとにここでいいのかな？」ってちょっと不安になるような建物。<br />
+<p><img src="/wp-content/uploads/app-creator-1day_140421_01.jpg" alt="App creator 1day 140421 01" title="app-creator-1day_140421_01.JPG" border="0" width="548" height="365" />が、入り口が「ほんとにここでいいのかな？」ってちょっと不安になるような建物。<br />
 </p>
 <!--more-->
 <h2>「アプリクリエイター道場　開発塾19期」1日目</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/app-creator-1day_140421_02.jpg" alt="App creator 1day 140421 02" title="app-creator-1day_140421_02.JPG" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/app-creator-1day_140421_02.jpg" alt="App creator 1day 140421 02" title="app-creator-1day_140421_02.JPG" border="0" width="548" height="365" /><br />
 <a href="http://akio0911.net/" target="_blank">拡張現実ライフ</a><a href="https://b.hatena.ne.jp/entry/http://akio0911.net/" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://akio0911.net/" alt="" /></a>のアキオさんが講師を務める、「アプリクリエイター道場　開発塾」の1日目が始まりました！<br />
 アプリクリエイター道場の1日目は午前と午後に講義が1つずつ。<br><br />
 自己紹介から始まって、実際にXcodeでプログラムを書くところまでやりました。</p>
@@ -55,10 +55,10 @@ comments: []
 <h2>1日目が終わってみて</h2>
 <p>計15時間の講義のうち、6時間が終了しました。<br><br />
 午前中はボタンやラベルの作り方など、基本的なことをアキオさんの説明を聞きながらXcodeを動かしました。<br />
-<img src="https://kotalab.com/wp-content/uploads/app-creator-1day_140421_03.png" alt="App creator 1day 140421 03" title="app-creator-1day_140421_03.png" border="0" width="548" height="345" /><br />
+<img src="/wp-content/uploads/app-creator-1day_140421_03.png" alt="App creator 1day 140421 03" title="app-creator-1day_140421_03.png" border="0" width="548" height="345" /><br />
 午後からは実際に自分でコーディングしていきます。<br><br />
 ▼僕が1から作った、ボタンを押すと表示してある画像が切り替わるアプリ<br />
-<img src="https://kotalab.com/wp-content/uploads/app-creator-1day_140421_04.png" alt="App creator 1day 140421 04" title="app-creator-1day_140421_04.png" border="0" width="548" height="342" /></p>
+<img src="/wp-content/uploads/app-creator-1day_140421_04.png" alt="App creator 1day 140421 04" title="app-creator-1day_140421_04.png" border="0" width="548" height="342" /></p>
 <p>「ボタンを押すと表示が切り替わる」ってすごく基本的なことだと思います。<br><br />
 朝の時点ではそれすらもできなかったんですが、午後になって実際にコードを書き始めてみると出来ました！<br><br />
 確実に朝よりも成長しているのがわかりました。</p>

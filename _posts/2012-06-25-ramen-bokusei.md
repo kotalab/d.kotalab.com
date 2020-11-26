@@ -21,18 +21,18 @@ tags:
 - 下北沢
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/ramen_120625_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ramen_120625_05.jpg" alt="" title="ramen_120625_05" width="448" height="336" class="alignnone size-full wp-image-999" /></a><br />
+<p><a href="/wp-content/uploads/ramen_120625_05.jpg" target="_blank"><img src="/wp-content/uploads/ramen_120625_05.jpg" alt="" title="ramen_120625_05" width="448" height="336" class="alignnone size-full wp-image-999" /></a><br />
 下北沢で醤油ラーメン食べました。@kotala_bです。<br />
 行ったお店は「麺やぼくせいさん」です。<br />
 <!--more--><br />
-<a href="https://kotalab.com/wp-content/uploads/ramen_120625_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ramen_120625_01.jpg" alt="" title="ramen_120625_01" width="448" height="336" class="alignnone size-full wp-image-995" /></a><br />
+<a href="/wp-content/uploads/ramen_120625_01.jpg" target="_blank"><img src="/wp-content/uploads/ramen_120625_01.jpg" alt="" title="ramen_120625_01" width="448" height="336" class="alignnone size-full wp-image-995" /></a><br />
 お店は下北沢の南口を出て徒歩3分。<br />
 井の頭線の高架線をくぐらずに右の小道に入ったところにあります。<br />
-<a href="https://kotalab.com/wp-content/uploads/ramen_120625_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ramen_120625_02.jpg" alt="" title="ramen_120625_02" width="448" height="249" class="alignnone size-full wp-image-996" /></a><br />
+<a href="/wp-content/uploads/ramen_120625_02.jpg" target="_blank"><img src="/wp-content/uploads/ramen_120625_02.jpg" alt="" title="ramen_120625_02" width="448" height="249" class="alignnone size-full wp-image-996" /></a><br />
 今回は醤油ラーメンの中細麺に全部のせのトッピングです。<br />
 他には塩ラーメン・旨辛もやしラーメン・もやしおラーメン・つけ麺があります。<br />
 醤油だけ麺の太さが選べます。<br />
-<a href="https://kotalab.com/wp-content/uploads/ramen_120625_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ramen_120625_03.jpg" alt="" title="ramen_120625_03" width="448" height="249" class="alignnone size-full wp-image-997" /></a><br />
+<a href="/wp-content/uploads/ramen_120625_03.jpg" target="_blank"><img src="/wp-content/uploads/ramen_120625_03.jpg" alt="" title="ramen_120625_03" width="448" height="249" class="alignnone size-full wp-image-997" /></a><br />
 注文してから数分。<br />
 出てきました！<br />
 全部のせ醤油ラーメン！<br />
@@ -40,7 +40,7 @@ comments: []
 キャベツの上にはカツオダレが乗っていて、これをスープに溶かすと別の味わいになるというもの。<br />
 もともとカツオの風味が効いた魚介系のスープですが、これを溶かすと更に魚介のうまみがましておいしかったです！<br />
 どんぶりの底には刻んだしいたけが入っていて、スープのうまみを引き立てていました。<br />
-<a href="https://kotalab.com/wp-content/uploads/ramen_120625_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/ramen_120625_04.jpg" alt="" title="ramen_120625_04" width="448" height="249" class="alignnone size-full wp-image-994" /></a><br />
+<a href="/wp-content/uploads/ramen_120625_04.jpg" target="_blank"><img src="/wp-content/uploads/ramen_120625_04.jpg" alt="" title="ramen_120625_04" width="448" height="249" class="alignnone size-full wp-image-994" /></a><br />
 おいしかったです！ご馳走様でした！</p>
 <h2>麺やぼくせいさんの情報</h2>
 <p>TEL：03-5430-1616<br />

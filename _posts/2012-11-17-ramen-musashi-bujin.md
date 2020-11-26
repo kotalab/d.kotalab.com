@@ -21,7 +21,7 @@ tags:
 - 麺屋武蔵武仁
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_01-448x336.jpg" alt="" title="akibamusasi_20121117_01" width="448" height="336" class="alignnone size-large wp-image-4285" /></a><br />
+<p><a href="/wp-content/uploads/akibamusasi_20121117_01.jpg" target="_blank"><img src="/wp-content/uploads/akibamusasi_20121117_01-448x336.jpg" alt="" title="akibamusasi_20121117_01" width="448" height="336" class="alignnone size-large wp-image-4285" /></a><br />
 秋葉原でラーメンを食べました。@kotala_bです。<br />
 今回行ったお店は昭和通り口から出てすぐ、駅前の交差点を渡って左へ曲がりすぐのところにある麺屋武蔵武仁です。<br />
 </p>
@@ -29,25 +29,25 @@ comments: []
 <p>今回頼んだのは武人ラーメン(1000円)<br />
 麺の量を並盛り、中盛り、大盛りから選べて今回は中盛りを注文。<br />
 ▼カウンターには辛味にんにくが置いてありました。<br />
-<a href="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_02-448x336.jpg" alt="" title="akibamusasi_20121117_02" width="448" height="336" class="alignnone size-large wp-image-4286" /></a><br />
+<a href="/wp-content/uploads/akibamusasi_20121117_02.jpg" target="_blank"><img src="/wp-content/uploads/akibamusasi_20121117_02-448x336.jpg" alt="" title="akibamusasi_20121117_02" width="448" height="336" class="alignnone size-large wp-image-4286" /></a><br />
 ▼土曜の12時半ぐらいに行ったんですが、そんなに待つことなくラーメンが運ばれてきました！<br />
-<a href="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_03-448x447.jpg" alt="" title="akibamusasi_20121117_03" width="448" height="447" class="alignnone size-large wp-image-4287" /></a><br />
+<a href="/wp-content/uploads/akibamusasi_20121117_03.jpg" target="_blank"><img src="/wp-content/uploads/akibamusasi_20121117_03-448x447.jpg" alt="" title="akibamusasi_20121117_03" width="448" height="447" class="alignnone size-large wp-image-4287" /></a><br />
 武仁ラーメンにはチャーシュー、メンマ、煮たまごが乗っています。<br />
 ▼その中でひと際目を引いたのがこの肉の塊！<br />
-<a href="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_04-448x448.jpg" alt="" title="akibamusasi_20121117_04" width="448" height="448" class="alignnone size-large wp-image-4288" /></a><br />
+<a href="/wp-content/uploads/akibamusasi_20121117_04.jpg" target="_blank"><img src="/wp-content/uploads/akibamusasi_20121117_04-448x448.jpg" alt="" title="akibamusasi_20121117_04" width="448" height="448" class="alignnone size-large wp-image-4288" /></a><br />
 食べてみたら見た目のインパクトとは違って意外と柔らかく食べやすい！<br />
 味もしっかりついていておいしいです。<br />
 後から気づいたんですが特製のタレの中に入れられていてそこで味がしっかりつけられてるようでした。<br />
-<a href="https://kotalab.com/wp-content/uploads/akibamusashi_20121117_09.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusashi_20121117_09-448x336.png" alt="" title="akibamusashi_20121117_09" width="448" height="336" class="alignnone size-large wp-image-4294" /></a><br />
+<a href="/wp-content/uploads/akibamusashi_20121117_09.png" target="_blank"><img src="/wp-content/uploads/akibamusashi_20121117_09-448x336.png" alt="" title="akibamusashi_20121117_09" width="448" height="336" class="alignnone size-large wp-image-4294" /></a><br />
 麺は太めでとんこつ系のスープがしっかり絡んでおいしかったです。<br />
-<a href="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_05-448x448.jpg" alt="" title="akibamusasi_20121117_05" width="448" height="448" class="alignnone size-large wp-image-4289" /></a><br />
+<a href="/wp-content/uploads/akibamusasi_20121117_05.jpg" target="_blank"><img src="/wp-content/uploads/akibamusasi_20121117_05-448x448.jpg" alt="" title="akibamusasi_20121117_05" width="448" height="448" class="alignnone size-large wp-image-4289" /></a><br />
 ▼半分くらい食べてから気になってた辛味にんにくをいれてみました。<br />
-<a href="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_06-448x448.jpg" alt="" title="akibamusasi_20121117_06" width="448" height="448" class="alignnone size-large wp-image-4290" /></a><br />
+<a href="/wp-content/uploads/akibamusasi_20121117_06.jpg" target="_blank"><img src="/wp-content/uploads/akibamusasi_20121117_06-448x448.jpg" alt="" title="akibamusasi_20121117_06" width="448" height="448" class="alignnone size-large wp-image-4290" /></a><br />
 ▼おそるおそる一杯。<br />
-<a href="https://kotalab.com/wp-content/uploads/akibamusashi_20121117_10.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusashi_20121117_10-448x448.png" alt="" title="akibamusashi_20121117_10" width="448" height="448" class="alignnone size-large wp-image-4295" /></a><br />
+<a href="/wp-content/uploads/akibamusashi_20121117_10.png" target="_blank"><img src="/wp-content/uploads/akibamusashi_20121117_10-448x448.png" alt="" title="akibamusashi_20121117_10" width="448" height="448" class="alignnone size-large wp-image-4295" /></a><br />
 この量だと辛さはそこまできつくありませんでしたが、口の中ににんにくが広がるのが分かる程にんにくが効いていました。<br />
 おいしかったです！ごちそうさまでした！<br />
-<a href="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_08.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/akibamusasi_20121117_08-448x448.jpg" alt="" title="akibamusasi_20121117_08" width="448" height="448" class="alignnone size-large wp-image-4292" /></a></p>
+<a href="/wp-content/uploads/akibamusasi_20121117_08.jpg" target="_blank"><img src="/wp-content/uploads/akibamusasi_20121117_08-448x448.jpg" alt="" title="akibamusasi_20121117_08" width="448" height="448" class="alignnone size-large wp-image-4292" /></a></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fonecam-jing-yin-lian-xie-jiotagu%252Fid422845617%253Fmt%253D8%2526uo%253D4"><img src="http://a1465.phobos.apple.com/us/r1000/073/Purple/v4/a4/85/24/a485243c-4b08-4662-e53d-a977191707e4/mzm.jycfbavq.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fonecam-jing-yin-lian-xie-jiotagu%252Fid422845617%253Fmt%253D8%2526uo%253D4">OneCam(静音, 連写, ジオタグ)</span></div>

@@ -21,7 +21,7 @@ tags:
 - オーディオブック
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/audiobook_130717-448x276.jpg" alt="audiobook_130717" width="448" height="276" class="alignnone size-large wp-image-7875" /><br />
+<p><img src="/wp-content/uploads/audiobook_130717-448x276.jpg" alt="audiobook_130717" width="448" height="276" class="alignnone size-large wp-image-7875" /><br />
 オーディオブックを聞き始めました。こたら（@kotala_b）です。<br />
 最近読んだ本「<a href="http://c.af.moshimo.com/af/c/click?a_id=374940&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4887597460%2Fref%3Dnosim" rel="nofollow" name="booklink" target="_blank">フォーカル・ポイント</a>」の中で、成長し続けるための鍵のひとつとしてオーディオブックが紹介されていました。<br />
 毎日無駄にしていた時間にオーディオブックを聞くことが日々の成長に繋がるといいます。</p>
@@ -135,4 +135,4 @@ iTunesStoreにもわずかながらオーディオブックはありますが、
 <a href="http://www.febe.jp/affiliate/landing/IYVAYY3FfObzJBIZ-1/top" target="_blank">Febeの無料登録はこちらから</a><br />
 <a href="http://www.febe.jp/affiliate/landing/IYVAYY3FfObzJBIZ-1/top"><img src="http://www.febe.jp/images/affiliate/bana1.jpg" alt="FeBe" style="border:0px;"></a></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/i-want-to-be-6things" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130208152334.jpg" alt="なりたい自分になるための6つのコツ | kotala's note" width="150" /></a><a href="https://kotalab.com/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/i-want-to-be-6things" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130208152334.jpg" alt="なりたい自分になるための6つのコツ | kotala's note" width="150" /></a><a href="/i-want-to-be-6things" target="_blank">なりたい自分になるための6つのコツ | kotala's note</a><br style="clear:both;" /></p>

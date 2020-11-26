@@ -23,9 +23,9 @@ tags:
 - 便利グッズ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/6waytools_130220-448x336.jpg" alt="6waytools_130220" width="448" height="336" class="alignnone size-large wp-image-6259" /><br />
+<p><img src="/wp-content/uploads/6waytools_130220-448x336.jpg" alt="6waytools_130220" width="448" height="336" class="alignnone size-large wp-image-6259" /><br />
 高城剛さんのライフパッキングに影響されてます。@kotala_bです。<br />
-<a href="https://kotalab.com/books-lifepacking" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="https://kotalab.com/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" />ライフパッキングの1DAYに登場したマルチツールを購入したのでご紹介！</p>
+<a href="/books-lifepacking" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" />ライフパッキングの1DAYに登場したマルチツールを購入したのでご紹介！</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B001V7HYC8/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/31tYy9hV9aL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
@@ -42,11 +42,11 @@ comments: []
 <!--more-->
 <h2>栓抜き型ツールキーホルダー</h2>
 <p>▼パッケージ<br />
-<img src="https://kotalab.com/wp-content/uploads/6waytools_130220_01-448x336.jpg" alt="6waytools_130220_01" width="448" height="336" class="alignnone size-large wp-image-6256" /><br />
+<img src="/wp-content/uploads/6waytools_130220_01-448x336.jpg" alt="6waytools_130220_01" width="448" height="336" class="alignnone size-large wp-image-6256" /><br />
 ▼取り出すとこんな感じ<br />
-<img src="https://kotalab.com/wp-content/uploads/6waytools_130220_02-448x336.jpg" alt="6waytools_130220_02" width="448" height="336" class="alignnone size-large wp-image-6257" /><br />
+<img src="/wp-content/uploads/6waytools_130220_02-448x336.jpg" alt="6waytools_130220_02" width="448" height="336" class="alignnone size-large wp-image-6257" /><br />
 ▼大きさはカギと同じサイズ<br />
-<img src="https://kotalab.com/wp-content/uploads/6waytools_130220_03-448x336.jpg" alt="6waytools_130220_03" width="448" height="336" class="alignnone size-large wp-image-6258" /></p>
+<img src="/wp-content/uploads/6waytools_130220_03-448x336.jpg" alt="6waytools_130220_03" width="448" height="336" class="alignnone size-large wp-image-6258" /></p>
 <h2>最後に</h2>
 <p>使い道は6通りあり、ドライバーや栓抜きをはじめ缶のふたを開けるのにも使えます。<br />
 爪の長い女性には缶のふた開けがオススメ！<br />
@@ -96,9 +96,9 @@ comments: []
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/books-lifepacking" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="https://kotalab.com/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/solarbattery" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/solarbattery_130220-448x336.jpg" alt="電源がなくても充電出来る！ソーラータイプのモバイルバッテリーを購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/solarbattery" target="_blank">電源がなくても充電出来る！ソーラータイプのモバイルバッテリーを購入！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/abitax-taglight" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/abitax_130222-448x336.jpg" alt="小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/abitax-taglight" target="_blank">小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/usb-2port-adapter" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/usbadpt_130219-448x336.jpg" alt="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/usb-2port-adapter" target="_blank">1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/muji-baginbag" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/baginbag_120919_02.jpg" alt="無印良品でバッグインバッグを購入！タテにもヨコにも使えて便利！ | kotala's note" width="150" /></a><a href="https://kotalab.com/muji-baginbag" target="_blank">無印良品でバッグインバッグを購入！タテにもヨコにも使えて便利！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/mysarasi-due" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/jotpro_130214-448x336.jpg" alt="初めてのスタライスペンはこれで決まり！iPadmini用にJotProを購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/mysarasi-due" target="_blank">初めてのスタライスペンはこれで決まり！iPadmini用にJotProを購入！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/books-lifepacking" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" /><br />
+<a href="/solarbattery" target="_blank"><img  class="alignleft" src="/wp-content/uploads/solarbattery_130220-448x336.jpg" alt="電源がなくても充電出来る！ソーラータイプのモバイルバッテリーを購入！ | kotala's note" width="150" /></a><a href="/solarbattery" target="_blank">電源がなくても充電出来る！ソーラータイプのモバイルバッテリーを購入！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/abitax-taglight" target="_blank"><img  class="alignleft" src="/wp-content/uploads/abitax_130222-448x336.jpg" alt="小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note" width="150" /></a><a href="/abitax-taglight" target="_blank">小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/usb-2port-adapter" target="_blank"><img  class="alignleft" src="/wp-content/uploads/usbadpt_130219-448x336.jpg" alt="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！ | kotala's note" width="150" /></a><a href="/usb-2port-adapter" target="_blank">1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/muji-baginbag" target="_blank"><img  class="alignleft" src="/wp-content/uploads/baginbag_120919_02.jpg" alt="無印良品でバッグインバッグを購入！タテにもヨコにも使えて便利！ | kotala's note" width="150" /></a><a href="/muji-baginbag" target="_blank">無印良品でバッグインバッグを購入！タテにもヨコにも使えて便利！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/mysarasi-due" target="_blank"><img  class="alignleft" src="/wp-content/uploads/jotpro_130214-448x336.jpg" alt="初めてのスタライスペンはこれで決まり！iPadmini用にJotProを購入！ | kotala's note" width="150" /></a><a href="/mysarasi-due" target="_blank">初めてのスタライスペンはこれで決まり！iPadmini用にJotProを購入！ | kotala's note</a><br style="clear:both;" /></p>

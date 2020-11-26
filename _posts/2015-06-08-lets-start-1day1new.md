@@ -19,7 +19,7 @@ tags:
 - やってみる
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/lets-start-1day1new_20150608_01.jpg" alt="Lets start 1day1new 20150608 01" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/06/lets-start-1day1new_20150608_01.jpg" alt="Lets start 1day1new 20150608 01" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>好きなことがみつからない。<br />
 やりたいことがみつからない。</p>
 <p>それなら毎日新しいことをやってみよう。</p>
@@ -62,16 +62,16 @@ via:<a href="http://www.ex-it-blog.com/131219-1day1new" target="_blank">初日�
 <h2>さいごに</h2>
 <p>もしまだやったことがなければ、ブログを始めてみることをおすすめします。</p>
 <p>僕はこのブログを通して、人生が大きく変わり始めていると感じるようになりました。<br />
-参考：<a href="https://kotalab.com/blog-new-start">ブログがもっと好きになるために</a></p>
+参考：<a href="/blog-new-start">ブログがもっと好きになるために</a></p>
 <p>何かを変えたい<br />
 やりたいことを探したい<br />
 好きなことを探したい<br />
 強みを見つけたい</p>
 <p>そういう人にブログはおすすめです。<br />
 それもできるだけ毎日更新することをおすすめします。</p>
-<p>始めたいけどよくわからないという方は<a href="https://kotalab.com/blog-consultation">ご相談にのります</a>。</p>
+<p>始めたいけどよくわからないという方は<a href="/blog-consultation">ご相談にのります</a>。</p>
 <p>[dailynew]<br />
 ・六本木、豚組しゃぶ庵のコース料理<br />
 ・広島からきた奥さんのお父さんをおもてなし</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

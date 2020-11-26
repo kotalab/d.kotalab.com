@@ -24,7 +24,7 @@ tags:
 - リンダ・グラットン
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-work-shift_140222-546x409.jpg" alt="books-work-shift_140222" width="546" height="409" class="alignnone size-large wp-image-10952" /><br />
+<p><img src="/wp-content/uploads/books-work-shift_140222-546x409.jpg" alt="books-work-shift_140222" width="546" height="409" class="alignnone size-large wp-image-10952" /><br />
 僕たちが生きる現代は、急激な変化をとげている。<br />
 テクノロジーはスゴい勢いで進化を続けているし、そのおかげでグローバル化も進んでいる。<br />
 寿命が伸び、世界的には人口も増え続けている。<br />
@@ -65,8 +65,8 @@ comments: []
 自分がどういう人と人間関係を築いていきたいかが大切になる。<br />
 そしてその人たちと<span class="b">うわべだけの付き合いじゃなく、強い人間関係を築いていくことだ</span>。</p>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/books-leverage-personal-connections"><img src="https://kotalab.com/wp-content/uploads/slooProImg_20140214083545.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/books-leverage-personal-connections">人脈は短期ではつくれない &ndash; レバレッジ人脈術 本田直之著</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-leverage-personal-connections"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-leverage-personal-connections" alt="" /></span></div>
+<div class="shhtimg"><a href="/books-leverage-personal-connections"><img src="/wp-content/uploads/slooProImg_20140214083545.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/books-leverage-personal-connections">人脈は短期ではつくれない &ndash; レバレッジ人脈術 本田直之著</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/books-leverage-personal-connections"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/books-leverage-personal-connections" alt="" /></span></div>
 </div>
 <h2>3つ目の「ワークシフト」</h2>
 <p>これまでは「お金を稼ぐために働き、そのお金で消費すること」が幸せとされてきた。<br />

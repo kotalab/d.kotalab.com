@@ -22,7 +22,7 @@ tags:
 - 引越し
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/move-house-task_140520_01.jpg" alt="Move house task 140520 01" title="move-house-task_140520_01.jpg" border="0" width="548" height="364" /><br />
+<p><img src="/wp-content/uploads/move-house-task_140520_01.jpg" alt="Move house task 140520 01" title="move-house-task_140520_01.jpg" border="0" width="548" height="364" /><br />
 新居へ引越しすることになりました！</p>
 <p>今年の2月に結婚したものの、今はまだ奥さんが独身時代に住んでいたマンションに一緒に住んでいます。</p>
 <p>結婚と同時の引越しも考えたんですが、引越しシーズンが一段落してからがいいなと思いゴールデンウィークが明けてから部屋探しを始めました。</p>
@@ -33,7 +33,7 @@ comments: []
 <!--more-->
 <h2>引越しはやらなきゃいけないことが沢山ある</h2>
 <p>引越しをするのにやらなきゃいけないことを数分で書き出してみました。<br />
-<img src="https://kotalab.com/wp-content/uploads/move-house-task_140520_02.jpg" alt="Move house task 140520 02" title="move-house-task_140520_02.jpg" border="0" width="350" height="600" /><br />
+<img src="/wp-content/uploads/move-house-task_140520_02.jpg" alt="Move house task 140520 02" title="move-house-task_140520_02.jpg" border="0" width="350" height="600" /><br />
 すぐに思いつくだけで31個もありました。<br />
 引越しが近づくにつれて、やるべきことはもっと増えていくはずです。</p>
 <p>もしこの全部を頭の中だけで管理しようと思ったら、<span class="b">少なくとも5つ下手したら10以上やり忘れる</span>自信があります。</p>

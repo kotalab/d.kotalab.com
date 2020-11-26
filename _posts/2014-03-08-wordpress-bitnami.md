@@ -22,7 +22,7 @@ tags:
 - Bitnami
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/wordpress-bitnami_140308_01-546x393.png" alt="wordpress-bitnami_140308_01" width="546" height="393" class="alignnone size-large wp-image-11095" /><br />
+<p><img src="/wp-content/uploads/wordpress-bitnami_140308_01-546x393.png" alt="wordpress-bitnami_140308_01" width="546" height="393" class="alignnone size-large wp-image-11095" /><br />
 ネットで見つけたWordPressのコードをコピペしただけなのに画面が真っ白になった。<br />
 WordPressのfunctions.phpをいじったことがある人ならそういう経験もあるはず。</p>
 <p>htmlならデザインが崩れて「あれっ？」ってなる場面でも、functions.phpだと「画面が真っ白」。<br />
@@ -33,7 +33,7 @@ WordPressのfunctions.phpをいじったことがある人ならそういう経�
 functions.phpなど、WordPressの中にあるphpファイルは同じようにはいきません。<br />
 ローカルでWordPressが動く環境を作ってあげる必要があります。</p>
 <h2>ローカルでWordPressが動くBitnami</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/wordpress-bitnami_140308_02-546x300.png" alt="wordpress-bitnami_140308_02" width="546" height="300" class="alignnone size-large wp-image-11096" /><br />
+<p><img src="/wp-content/uploads/wordpress-bitnami_140308_02-546x300.png" alt="wordpress-bitnami_140308_02" width="546" height="300" class="alignnone size-large wp-image-11096" /><br />
 Bitnamiというアプリを使えばWordPressがローカルで動くようになります。<br />
 Windows、Mac OSそれぞれ向けにありますので、お使いのOSに合わせてダウンロードしてください。<br />
 <a href="http://bitnami.com/stack/wordpress" target="_blank">Bitmaniをダウンロード</a></p>

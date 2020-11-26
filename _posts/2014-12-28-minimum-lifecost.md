@@ -21,7 +21,7 @@ tags:
 - 転職
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/minimum-lifecost_20141228-780x585.jpg" alt="minimum-lifecost_20141228" width="780" height="585" class="aligncenter size-large wp-image-13680" /><br />
+<p><img src="/wp-content/uploads/minimum-lifecost_20141228-780x585.jpg" alt="minimum-lifecost_20141228" width="780" height="585" class="aligncenter size-large wp-image-13680" /><br />
 僕は去年、アプリ開発を始めるために当時働いていた会社を辞めることを決めました。<br />
 今年の1月から、プログラミング未経験の状態から新しい職場で働くようになりました。</p>
 <p>ざっくりいうと</p>

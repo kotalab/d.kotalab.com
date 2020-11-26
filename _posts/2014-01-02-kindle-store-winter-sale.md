@@ -23,7 +23,7 @@ tags:
 - Kindleストア
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/kindle-store-winter-sale_140102-546x360.png" alt="kindle-store-winter-sale_140102" width="546" height="360" class="alignnone size-large wp-image-10366" /><br />
+<p><img src="/wp-content/uploads/kindle-store-winter-sale_140102-546x360.png" alt="kindle-store-winter-sale_140102" width="546" height="360" class="alignnone size-large wp-image-10366" /><br />
 本が大好き。こたら（@kotala_b）です。<br />
 Kindleで読める電子書籍が2014年1月5日までの期間限定で冬のセールを開催中！<br />
 <a target="_blank" href="https://www.amazon.co.jp/b/?_encoding=UTF8&camp=247&creative=7399&linkCode=ur2&node=2846241051&pf_rd_i=2275256051&pf_rd_m=AN1VRQENFRJN5&pf_rd_p=154213929&pf_rd_r=1B3CAHGT421HFWSY2ASE&pf_rd_s=center-banner&pf_rd_t=101&tag=same-22">Kindleストア</a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=same-22&l=ur2&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />がスゴいです！<br />

@@ -22,11 +22,11 @@ tags:
 - 四角大輔
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130612202044.jpg" width="448" height="297" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20130612202044.jpg" width="448" height="297" /><br />
 6月25日のトークライブ「ID-4」に参加します。こたら（@kotala_b）です。<br />
 立花さん(@ttachi)主催のトークライブ「ID-4」に参加するのは今回で2回目。<br />
 前回はジョンキムさんがゲストの回に参加しました。<br />
-<a href="https://kotalab.com/talklive-id-2" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="https://kotalab.com/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" />今回のゲストは四角大輔さん。<br />
+<a href="/talklive-id-2" target="_blank"><img  class="alignleft" src="/wp-content/uploads/id2_130228_03-448x336.jpg" alt="立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note" width="150" /></a><a href="/talklive-id-2" target="_blank">立花岳志さんとジョンキムさんのトークライブ「ID-2」に参加してきました！ | kotala's note</a><br style="clear:both;" />今回のゲストは四角大輔さん。<br />
 四角大輔さんの本「<a href="https://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" rel="nofollow" name="booklink" target="_blank">自由であり続けるために 20代で捨てるべき50のこと </a>」を去年の夏に読んでいました。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4861139716/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41ZG9kjLQGL._SL160_.jpg" style="border: none;" /></a></div>
@@ -46,7 +46,7 @@ comments: []
 </div>
 <!--more-->
 <h2>「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のことを振り返ってみる</h2>
-<p><a href="https://kotalab.com/want-to-do-twenties" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/jiyuude_120815.jpg" alt="【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note" width="150" /></a><a href="https://kotalab.com/want-to-do-twenties" target="_blank">【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note</a><br style="clear:both;" />実践したくなった10のことをこのブログでご紹介しました。<br />
+<p><a href="/want-to-do-twenties" target="_blank"><img  class="alignleft" src="/wp-content/uploads/jiyuude_120815.jpg" alt="【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note" width="150" /></a><a href="/want-to-do-twenties" target="_blank">【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note</a><br style="clear:both;" />実践したくなった10のことをこのブログでご紹介しました。<br />
 それから10ヶ月が経ち、どれくらい自分で実践できているのか振り返ってみようと思います。<br />
 何をどれくらい捨てられたのか、それとも捨てられていないのか。</p>
 <h3>1.ストックという概念</h3>
@@ -107,4 +107,4 @@ Kindleなどの電子書籍によって、わざわざ自分でやらなくて�
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/want-to-do-twenties" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/jiyuude_120815.jpg" alt="【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note" width="150" /></a><a href="https://kotalab.com/want-to-do-twenties" target="_blank">【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/want-to-do-twenties" target="_blank"><img  class="alignleft" src="/wp-content/uploads/jiyuude_120815.jpg" alt="【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note" width="150" /></a><a href="/want-to-do-twenties" target="_blank">【Books】「自由であり続けるために 20代で捨てるべき50のこと」から実践したくなった10のこと | kotala's note</a><br style="clear:both;" /></p>

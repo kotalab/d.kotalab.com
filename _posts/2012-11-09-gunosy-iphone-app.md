@@ -21,11 +21,11 @@ tags:
 - Gunosy
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/gunosy_20121109.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/gunosy_20121109.png" alt="" title="gunosy_20121109" width="326" height="100" class="alignnone size-full wp-image-4050" /></a><br />
+<p><a href="/wp-content/uploads/gunosy_20121109.png" target="_blank"><img src="/wp-content/uploads/gunosy_20121109.png" alt="" title="gunosy_20121109" width="326" height="100" class="alignnone size-full wp-image-4050" /></a><br />
 毎日Gunosyを見てます。@kotala_bです。<br />
 Gunosyについては以前紹介しました。<br />
 こちらを参考にしてください。<br />
-<a href="https://kotalab.com/gunosy-new" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/gunosy_121031.jpg" alt="新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note" width="150" /></a><a href="https://kotalab.com/gunosy-new" target="_blank">新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note</a><br style="clear:both;" />このGunosyに待望のiPhoneアプリが登場するそうです！<br />
+<a href="/gunosy-new" target="_blank"><img  class="alignleft" src="/wp-content/uploads/gunosy_121031.jpg" alt="新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note" width="150" /></a><a href="/gunosy-new" target="_blank">新しい情報収集のカタチ！あなたに知恵を届けるスマートなパーソナルマガジン「Gunosy」 | kotala's note</a><br style="clear:both;" />このGunosyに待望のiPhoneアプリが登場するそうです！<br />
 </p>
 <!--more-->
 <h2>GunosyのiPhoneアプリが出る！</h2>

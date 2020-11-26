@@ -24,20 +24,20 @@ tags:
 - 観光
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/hiroshimaonedaypass_131011_01-546x361.jpg" alt="hiroshimaonedaypass_131011_01" width="546" height="361" class="alignnone size-large wp-image-9887" /><br />
+<p><img src="/wp-content/uploads/hiroshimaonedaypass_131011_01-546x361.jpg" alt="hiroshimaonedaypass_131011_01" width="546" height="361" class="alignnone size-large wp-image-9887" /><br />
 広島に5日間行ってました。こたら（@kotala_b）です。<br />
 広島には原爆ドームや宮島などの観光スポットを巡るのに便利な路面電車が走ってます。<br />
 広島滞在中は毎日、路面電車に乗って出かけてました。<br />
 </p>
 <!--more-->
 <h2>広島のおすすめ観光スポットを結ぶ路面電車</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/hiroshimaonedaypass_131011_02-546x386.png" alt="hiroshimaonedaypass_131011_02" width="546" height="386" class="alignnone size-large wp-image-9889" /><br />
+<p><img src="/wp-content/uploads/hiroshimaonedaypass_131011_02-546x386.png" alt="hiroshimaonedaypass_131011_02" width="546" height="386" class="alignnone size-large wp-image-9889" /><br />
 <a href="http://www.hiroden.co.jp/train/rosenzu/map/lines.pdf" title="広電路線図" target="_blank">路線図</a><br />
 広島の路面電車は新幹線の止まる広島駅から宮島行きのフェリー乗り場がある宮島口まで。<br />
 JRが通ってない広島市の中心街、本通りにも線路が通ってるのでとっても便利！<br />
 街中の風景を見るのにも、観光スポットを巡るにも路面電車がおすすめです！</p>
 <h2>広島の路面電車は1日乗車券でもっとお得</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_02-546x361.jpg" alt="atomicbombdome_131004_02" width="546" height="361" class="alignnone size-large wp-image-9763" /><br />
+<p><img src="/wp-content/uploads/atomicbombdome_131004_02-546x361.jpg" alt="atomicbombdome_131004_02" width="546" height="361" class="alignnone size-large wp-image-9763" /><br />
 宮島線を除き運賃が150円均一。とっても安い！<br />
 普通の運賃でもいいんですが、おすすめなのが1日乗車券！<br />
 なんと1日乗り放題で600円！<br />
@@ -47,7 +47,7 @@ JRが通ってない広島市の中心街、本通りにも線路が通ってる
 街の風景を見ながら気になった場所で気軽に降りれるし、歩き疲れたら電車にまた乗ればいい！<br />
 ぶらり旅が好きな人は是非！</p>
 <h3>今度行ったら宮島フリーパスで宮島を堪能したい！</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/hiroshimaonedaypass_131011_03-546x361.jpg" alt="hiroshimaonedaypass_131011_03" width="546" height="361" class="alignnone size-large wp-image-9888" /><br />
+<p><img src="/wp-content/uploads/hiroshimaonedaypass_131011_03-546x361.jpg" alt="hiroshimaonedaypass_131011_03" width="546" height="361" class="alignnone size-large wp-image-9888" /><br />
 今回の広島滞在中は宮島にある山、弥山が工事中だったので弥山には登りませんでした。<br />
 今度行ったときはロープウェイを使って弥山に登ってみようと思います！<br />
 その時はもちろん宮島フリーパスで！</p>

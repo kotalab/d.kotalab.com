@@ -24,7 +24,7 @@ tags:
 - 本田健
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-30dai-to-do-17-things_140201-546x361.jpg" alt="books-30dai-to-do-17-things_140201" width="546" height="361" class="alignnone size-large wp-image-10727" /><br />
+<p><img src="/wp-content/uploads/books-30dai-to-do-17-things_140201-546x361.jpg" alt="books-30dai-to-do-17-things_140201" width="546" height="361" class="alignnone size-large wp-image-10727" /><br />
 僕は今年で20代の10年間を終えて30歳になる。<br />
 これからの10年間を後悔のない最高の10年間にするために一冊の本を読んだ。<br />
 今回紹介する、本田健さんの「<a href="https://www.amazon.co.jp/exec/obidos/asin/B00EXODB6E/same-22/" rel="nofollow" target="_blank">30代にしておきたい17のこと</a>」だ。<br />

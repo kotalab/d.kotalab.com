@@ -22,7 +22,7 @@ tags:
 - フォーカルポイント
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/sakurasaku-yoyogi_140402_02.jpg" alt="sakurasaku-yoyogi_140402_02" width="780"  class="aligncenter wp-image-11324" /><br />
+<p><img src="/wp-content/uploads/sakurasaku-yoyogi_140402_02.jpg" alt="sakurasaku-yoyogi_140402_02" width="780"  class="aligncenter wp-image-11324" /><br />
 自分にとって価値ある行動にかける時間をとにかく増やすこと。<br />
 自分にとって大切なことをする時間をとにかく大切にすることだとも言える。</p>
 <p>「<strong>大切なことをする時間を大切にする</strong>」</p>

@@ -21,11 +21,11 @@ tags:
 - Fusion5
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/fusion5_20121119.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/fusion5_20121119-448x336.jpg" alt="" title="fusion5_20121119" width="448" height="336" class="alignnone size-large wp-image-4314" /></a><br />
+<p><a href="/wp-content/uploads/fusion5_20121119.jpg" target="_blank"><img src="/wp-content/uploads/fusion5_20121119-448x336.jpg" alt="" title="fusion5_20121119" width="448" height="336" class="alignnone size-large wp-image-4314" /></a><br />
 MacBookAirにwindowsを入れる方法を探してました。@kotala_bです。<br />
 そのことについて前回書いた記事はこちら<br />
-<a href="https://kotalab.com/macbook-air-win" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/zakki_20121117-448x297.jpg" alt="MacBookAirにWindowsをインストールするならどの方法？考えれば考えるほど先送りな現状 | kotala's note" width="150" /></a><a href="https://kotalab.com/macbook-air-win" target="_blank">MacBookAirにWindowsをインストールするならどの方法？考えれば考えるほど先送りな現状 | kotala's note</a><br style="clear:both;" />どの方法で入れるか悩んでいるという内容でした。<br />
-悩んでいるさなか、<a href="https://kotalab.com/nsl-11th" title="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11" target="_blank">NSLセミナーに参加</a>し再びTaskchuteを始めてみようという思いが強くなりました。<br />
+<a href="/macbook-air-win" target="_blank"><img  class="alignleft" src="/wp-content/uploads/zakki_20121117-448x297.jpg" alt="MacBookAirにWindowsをインストールするならどの方法？考えれば考えるほど先送りな現状 | kotala's note" width="150" /></a><a href="/macbook-air-win" target="_blank">MacBookAirにWindowsをインストールするならどの方法？考えれば考えるほど先送りな現状 | kotala's note</a><br style="clear:both;" />どの方法で入れるか悩んでいるという内容でした。<br />
+悩んでいるさなか、<a href="/nsl-11th" title="第11回NSLセミナーに参加！得られることが沢山ありました！#nsl11" target="_blank">NSLセミナーに参加</a>し再びTaskchuteを始めてみようという思いが強くなりました。<br />
 </p>
 <!--more-->
 <h2>Fusion5を購入！</h2>

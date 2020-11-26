@@ -20,7 +20,7 @@ tags:
 - 貯金
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/07/the-reason-for-save-money_20150727.jpg" alt="The reason for save money 20150727" width="780" height ="585" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/07/the-reason-for-save-money_20150727.jpg" alt="The reason for save money 20150727" width="780" height ="585" class="aligncenter size-large" /></p>
 <p>あなたはなぜお金を貯めるのですか？</p>
 <p>欲しい洋服を買うため、彼女と結婚するため、家族と旅行に行くため、家を買うため、子供の教育費のため、老後のため。</p>
 <p>いろいろな理由があると思いますが結局はお金を使うためだと思います。</p>
@@ -41,7 +41,7 @@ comments: []
 <p>この2つをはっきりさせるとお金は貯まりやすくなります。</p>
 <p>[dailynew]<br />
 ・カタヤマ</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>
 <h2 class="ama">オススメのお金の本</h2>
 <div class="booklink-box">

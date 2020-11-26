@@ -27,11 +27,11 @@ tags:
 - Kindleストア
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/IMG_0050.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/IMG_0050-448x309.png" alt="" title="IMG_0050" width="448" height="309" class="alignnone size-large wp-image-4595" /></a><br />
+<p><a href="/wp-content/uploads/IMG_0050.png" target="_blank"><img src="/wp-content/uploads/IMG_0050-448x309.png" alt="" title="IMG_0050" width="448" height="309" class="alignnone size-large wp-image-4595" /></a><br />
 Kindleアプリでようやく電子書籍を読みました。@kotala_bです。<br />
 iPadminiを買った直後は積読本があったので、新たに電子書籍を購入するにはちょっと気が引けてしまっていたのでした。<br />
 やっと積読本から解放されそうになったので、Kindleストアから電子書籍を購入してみました。<br />
-購入した本は<a href="https://kotalab.com/books-levareage-reeding" title="読書に対する意識が変わる本！多読のススメ「レバレッジリーディング」" target="_blank">昨日お伝え</a>した、本田直之さんの著書<a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>です！<br />
+購入した本は<a href="/books-levareage-reeding" title="読書に対する意識が変わる本！多読のススメ「レバレッジリーディング」" target="_blank">昨日お伝え</a>した、本田直之さんの著書<a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" rel="nofollow" name="booklink" target="_blank">レバレッジ・リーディング</a>です！<br />
 この本を実際にiPadminiで読んでみました。</p>
 <div class="booklink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="booklink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/asin/4492042695/same-22/" name="booklink" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51BE1142H2L._SL160_.jpg" style="border: none;" /></a></div>

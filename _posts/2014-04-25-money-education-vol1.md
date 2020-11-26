@@ -24,7 +24,7 @@ tags:
 - サラリーマン
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/money-education-vol1_140425.jpg" alt="Money education vol1 140425" title="money-education-vol1_140425.jpg" border="0" width="548" height="411" /><br />
+<p><img src="/wp-content/uploads/money-education-vol1_140425.jpg" alt="Money education vol1 140425" title="money-education-vol1_140425.jpg" border="0" width="548" height="411" /><br />
 今日から「学校では教わらなかったお金の教養」という連載を始めることにしました。</p>
 <p>僕は今年で30歳になるファイナンシャルプランナーです。<br><br />
 ファイナンシャルプランナーの勉強をしていく中で「もっと早く知っておきたかった」「なんでこのことを学校では教えてくれないのか」と思ったことが結構ありました。<br />

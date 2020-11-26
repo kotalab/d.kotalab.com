@@ -22,34 +22,34 @@ tags:
 - イベント
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/tomoya_121012.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012.jpg" alt="" title="tomoya_121012" width="448" height="336" class="alignnone size-full wp-image-3366" /></a><br />
+<p><a href="/wp-content/uploads/tomoya_121012.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012.jpg" alt="" title="tomoya_121012" width="448" height="336" class="alignnone size-full wp-image-3366" /></a><br />
 大つけ麺博で2杯のつけ麺を食べました。@kotala_bです。<br />
-<a href="https://kotalab.com/hakatashinpu" title="大つけ麺博2012で博多新風の濃厚なつけ麺を食べた！" target="_blank">1杯目は博多新風さん</a>。2杯目は三重県のMenkouともやさんです！<br />
+<a href="/hakatashinpu" title="大つけ麺博2012で博多新風の濃厚なつけ麺を食べた！" target="_blank">1杯目は博多新風さん</a>。2杯目は三重県のMenkouともやさんです！<br />
 あさりが入ったあっさりスープのつけ麺です！<br />
 あさり入りは初体験！<br />
 </p>
 <!--more-->
-<p><a href="https://kotalab.com/wp-content/uploads/tomoya_121012_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_01.jpg" alt="" title="tomoya_121012_01" width="448" height="1066" class="alignnone size-full wp-image-3369" /></a><br />
+<p><a href="/wp-content/uploads/tomoya_121012_01.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012_01.jpg" alt="" title="tomoya_121012_01" width="448" height="1066" class="alignnone size-full wp-image-3369" /></a><br />
 ▼こちらが店構え<br />
-<a href="https://kotalab.com/wp-content/uploads/tomoya_121012_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_02.jpg" alt="" title="tomoya_121012_02" width="448" height="336" class="alignnone size-full wp-image-3368" /></a><br />
+<a href="/wp-content/uploads/tomoya_121012_02.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012_02.jpg" alt="" title="tomoya_121012_02" width="448" height="336" class="alignnone size-full wp-image-3368" /></a><br />
 ▼なんとトッピングが全部半額！<br />
-<a href="https://kotalab.com/wp-content/uploads/tomoya_121012_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_03.jpg" alt="" title="tomoya_121012_03" width="448" height="336" class="alignnone size-full wp-image-3367" /></a><br />
+<a href="/wp-content/uploads/tomoya_121012_03.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012_03.jpg" alt="" title="tomoya_121012_03" width="448" height="336" class="alignnone size-full wp-image-3367" /></a><br />
 ▼頼んだのはもちろん全部のせです！<br />
-<a href="https://kotalab.com/wp-content/uploads/tomoya_121012_04.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_04.jpg" alt="" title="tomoya_121012_04" width="448" height="336" class="alignnone size-full wp-image-3365" /></a><br />
+<a href="/wp-content/uploads/tomoya_121012_04.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012_04.jpg" alt="" title="tomoya_121012_04" width="448" height="336" class="alignnone size-full wp-image-3365" /></a><br />
 最終日の終盤ということもあってか、店員さんが南部地鶏を本当は5枚のところをおまけで増やしてくれました！太っ腹！<br />
 ▼まずはあさりから！<br />
-<a href="https://kotalab.com/wp-content/uploads/tomoya_121012_05.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_05.jpg" alt="" title="tomoya_121012_05" width="448" height="336" class="alignnone size-full wp-image-3364" /></a><br />
+<a href="/wp-content/uploads/tomoya_121012_05.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012_05.jpg" alt="" title="tomoya_121012_05" width="448" height="336" class="alignnone size-full wp-image-3364" /></a><br />
 ▼次は南部地鶏！<br />
-<a href="https://kotalab.com/wp-content/uploads/tomoya_121012_06.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_06.jpg" alt="" title="tomoya_121012_06" width="448" height="336" class="alignnone size-full wp-image-3363" /></a><br />
+<a href="/wp-content/uploads/tomoya_121012_06.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012_06.jpg" alt="" title="tomoya_121012_06" width="448" height="336" class="alignnone size-full wp-image-3363" /></a><br />
 ▼そして麺！<br />
-<a href="https://kotalab.com/wp-content/uploads/tomoya_121012_07.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_07.jpg" alt="" title="tomoya_121012_07" width="448" height="336" class="alignnone size-full wp-image-3362" /></a><br />
+<a href="/wp-content/uploads/tomoya_121012_07.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012_07.jpg" alt="" title="tomoya_121012_07" width="448" height="336" class="alignnone size-full wp-image-3362" /></a><br />
 ▼2杯目も完食！<br />
-<a href="https://kotalab.com/wp-content/uploads/tomoya_121012_08.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_08.jpg" alt="" title="tomoya_121012_08" width="448" height="336" class="alignnone size-full wp-image-3361" /></a><br />
+<a href="/wp-content/uploads/tomoya_121012_08.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012_08.jpg" alt="" title="tomoya_121012_08" width="448" height="336" class="alignnone size-full wp-image-3361" /></a><br />
 つけ麺といえば絡みやすい濃いめのスープが王道ですが、あっさりしたスープもアリでした！<br />
 おろし生姜が添えられていて、それをスープに入れるとまたひと味違っておいしく食べられました！<br />
 甘めのあっさりスープにあさりのダシが出ておいしかったです！ごちそうさまでした！<br />
 ▼体脂肪が気になる僕はもちろん黒烏龍茶も一緒に飲みました！<br />
-<a href="https://kotalab.com/wp-content/uploads/tomoya_121012_09.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/tomoya_121012_09.jpg" alt="" title="tomoya_121012_09" width="448" height="336" class="alignnone size-full wp-image-3360" /></a></p>
+<a href="/wp-content/uploads/tomoya_121012_09.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012_09.jpg" alt="" title="tomoya_121012_09" width="448" height="336" class="alignnone size-full wp-image-3360" /></a></p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B000FZDZJS/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41eYTDGn-aL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">

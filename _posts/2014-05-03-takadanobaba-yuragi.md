@@ -23,20 +23,20 @@ tags:
 - ゆらぎ
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502181601.jpg" width="548" height="366" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140502181601.jpg" width="548" height="366" class="slooProImg" /><br />
 カレーといえば何色を思い浮かべますか？</p>
 <p>白は絶対に思い浮かばないですよね。</p>
 <p>でも世の中には白いカレーも存在してするのです。</p>
 <p>高田馬場駅近くを流れる神田川沿いに白いカレーが食べられるお店があります。</p>
 <!--more-->
 <h2>白いカレーが食べられるお店「ゆらぎ」</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502181557.jpg" width="548" height="366" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140502181557.jpg" width="548" height="366" class="slooProImg" /><br />
 看板には白カレーと書いてありますが、看板の写真はどうみてもクリームシチューです。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502181604.jpg" width="548" height="366" class="slooProImg" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20140502181604.jpg" width="548" height="366" class="slooProImg" /><br />
 入口は1階の奥の方。</p>
 <p>白いカレーが気になってランチタイムお店に入ってみました。</p>
 <h2>本当にカレーだった！</h2>
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140502181605.jpg" width="500" height="500" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140502181605.jpg" width="500" height="500" class="slooProImg" /><br />
 白いウインナー入りのカレーという、なんとも不思議な感じのカレー頼みました。</p>
 <p>目の前に運ばれてきても、まだシチュー。<br />
 でも一口食べてみると味はカレーそのもの。</p>

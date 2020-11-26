@@ -20,7 +20,7 @@ tags:
 - Twitter＠AnywherePlus
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/link_120708.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
+<p><a href="/wp-content/uploads/link_120708.jpg" target="_blank"><img src="/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 wordpressのプラグイン＠anywhereplusを使っていました。@kotala_bです。<br />
 ところが9月にこんなニュースがあり、プラグインを削除していたのでした。<br />
@@ -34,4 +34,4 @@ Hovercardsというポップアップが表示されますし、プラグイン�
 <p>プラグイン自体はそのまま使えても、wordpressのアップデートや他のプラグインとの相性などで、＠anywhereplusが入ってることで何か不具合が生じる可能性もあります。<br />
 サービスの終了を発表しているだけに、早いうちに対応していきましょう！<br />
 このブログではTwitterアカウント名に自動でリンクを貼る方法を導入しました！<br />
-<a href="https://kotalab.com/wordpress-twitter" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="＠Anywhereが終了する前に移行させましょう！＠AnywhereなしでTwitterアカウント名に自動でリンクを貼る方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/wordpress-twitter" target="_blank">＠Anywhereが終了する前に移行させましょう！＠AnywhereなしでTwitterアカウント名に自動でリンクを貼る方法！ | kotala's note</a><br style="clear:both;" />よかったら参考にしてください！</p>
+<a href="/wordpress-twitter" target="_blank"><img  class="alignleft" src="/wp-content/uploads/link_120708.jpg" alt="＠Anywhereが終了する前に移行させましょう！＠AnywhereなしでTwitterアカウント名に自動でリンクを貼る方法！ | kotala's note" width="150" /></a><a href="/wordpress-twitter" target="_blank">＠Anywhereが終了する前に移行させましょう！＠AnywhereなしでTwitterアカウント名に自動でリンクを貼る方法！ | kotala's note</a><br style="clear:both;" />よかったら参考にしてください！</p>

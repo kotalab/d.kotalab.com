@@ -23,7 +23,7 @@ tags:
 - WebNoteアップデート情報
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/app-release_140824.jpg" alt="app-release_140824" width="780" height="585" class="aligncenter size-full wp-image-13380" /><br />
+<p><img src="/wp-content/uploads/app-release_140824.jpg" alt="app-release_140824" width="780" height="585" class="aligncenter size-full wp-image-13380" /><br />
 僕が開発・販売しているiPhoneアプリ、WebNoteのアップデートを行いました。</p>
 <p>今回のアップデートではタグ一覧画面の検索機能を追加しました。<br />
 </p>
@@ -32,7 +32,7 @@ comments: []
 <p>WebNoteはEvernoteと連携して、ネットで見ていたページにメモを書き加えてEvernoteへ送るアプリです。<br />
 WebNoteの最大の特徴はネットで<span class="b">見ていたページのタイトルとURLを自動で付け加えてくれる機能</span>です。</p>
 <p>Evernoteへ送るノートのタイトルは自動でWebページのタイトルになり、ノート本文の先頭にはページのURLが自動で入ります。<br />
-さらに詳しい内容は<a href="https://kotalab.com/webnote-release-1-0-0" title="EvernoteにWebページの情報を送れるiPhoneアプリ「WebNote」をリリースしました！">こちらから</a>ご確認ください。</p>
+さらに詳しい内容は<a href="/webnote-release-1-0-0" title="EvernoteにWebページの情報を送れるiPhoneアプリ「WebNote」をリリースしました！">こちらから</a>ご確認ください。</p>
 <h2>WebNoteはこんな人にオススメ！</h2>
 <p>Evernoteの公式アプリでもSafariから直接Evernoteへ送信できます。<br />
 ただし、公式アプリの場合はWebクリップとなってしまい、ページ全体がEvernoteへ送られてしまうのです。</p>
@@ -44,12 +44,12 @@ WebNoteの最大の特徴はネットで<span class="b">見ていたページの
 Evernoteに登録してあるタグが沢山ありすぎて、タグをいちいち探し出すのが面倒なのです。<br />
 そこで検索機能を追加し素早くタグ付けをできるようにしました。</p>
 <h3>タグ一覧検索</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/01/webnote-update-110_20150126_03-300x533.jpg" alt="webnote-update-110_20150126_03" width="300" height="533" class="aligncenter size-medium wp-image-13892" /><br />
+<p><img src="/wp-content/uploads/2015/01/webnote-update-110_20150126_03-300x533.jpg" alt="webnote-update-110_20150126_03" width="300" height="533" class="aligncenter size-medium wp-image-13892" /><br />
 僕が使っているタグの一覧です。<br />
 ここで検索バーに「s」と入力。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/01/webnote-update-110_20150126_04-300x533.jpg" alt="webnote-update-110_20150126_04" width="300" height="533" class="aligncenter size-medium wp-image-13893" /><br />
+<p><img src="/wp-content/uploads/2015/01/webnote-update-110_20150126_04-300x533.jpg" alt="webnote-update-110_20150126_04" width="300" height="533" class="aligncenter size-medium wp-image-13893" /><br />
 するとタグ名に「s」が含まれているものだけに絞った表示となります。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/01/webnote-update-110_20150126_02-300x533.jpg" alt="webnote-update-110_20150126_02" width="300" height="533" class="aligncenter size-medium wp-image-13891" /><br />
+<p><img src="/wp-content/uploads/2015/01/webnote-update-110_20150126_02-300x533.jpg" alt="webnote-update-110_20150126_02" width="300" height="533" class="aligncenter size-medium wp-image-13891" /><br />
 「本」と入力してみました。</p>
 <p>入力した文字が先頭でも末尾でも、タグ名の途中にあっても検索結果に表示されます。</p>
 <h2>次期アップデート予定</h2>

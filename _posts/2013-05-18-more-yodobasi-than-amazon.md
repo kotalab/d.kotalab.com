@@ -23,7 +23,7 @@ tags:
 - デジイチ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/Amazonyodobasi_130518-448x336.jpg" alt="Amazonyodobasi_130518" width="448" height="336" class="alignnone size-large wp-image-7174" /><br />
+<p><img src="/wp-content/uploads/Amazonyodobasi_130518-448x336.jpg" alt="Amazonyodobasi_130518" width="448" height="336" class="alignnone size-large wp-image-7174" /><br />
 ヨドバシカメラでデジイチを買いました。こたら（@kotala_b）です。<br />
 4種類の候補が有り、手に取って重さなどを確かめたいので家電量販店へ行くことにしました。<br />
 何故ヨドバシに行ったのかというと、元々よく使っていたから。<br />
@@ -33,7 +33,7 @@ comments: []
 </p>
 <!--more-->
 <h2>ヨドバシ店頭で価格交渉をしてみた</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/Amazonyodobasi_130518_01-448x337.jpg" alt="Amazonyodobasi_130518_01" width="448" height="337" class="alignnone size-large wp-image-7175" /><br />
+<p><img src="/wp-content/uploads/Amazonyodobasi_130518_01-448x337.jpg" alt="Amazonyodobasi_130518_01" width="448" height="337" class="alignnone size-large wp-image-7175" /><br />
 ヨドバシの店頭価格はAmazonよりも若干高めの設定のモノが多かったです。<br />
 そこで価格交渉したらAmazonより安くなるのかと実際に店員さんに価格交渉をしてみました。<br />
 D7000というNikonのデジイチがヨドバシの店頭では71500円。<br />
@@ -57,4 +57,4 @@ iPhoneでAmazonの商品ページを表示させながら店員さんにその�
 そこでいいモノが見つかればAmazonと同じ価格になるよう交渉出来て、その場で買える。<br />
 ヨドバシの店頭にわざわざ買いに行く理由が出来ました。</strong></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/want-digicame" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note" width="150" /></a><a href="https://kotalab.com/want-digicame" target="_blank">「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/want-digicame" target="_blank"><img  class="alignleft" src="/wp-content/uploads/nextyear_121231-448x448.jpg" alt="「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note" width="150" /></a><a href="/want-digicame" target="_blank">「デジタル一眼レフが欲しい。でもどれにしよう」と迷った時に調べてみたこと。 | kotala's note</a><br style="clear:both;" /></p>

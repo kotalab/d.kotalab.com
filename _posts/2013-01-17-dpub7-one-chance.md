@@ -29,7 +29,7 @@ comments:
   content: "[...]  先行予約分が13分で満席！「Dpub7」に参加します | delaymania  Dpub7の申込みが遂にスタート！募集は3回でも個人的にはチャンスは1回しか...
     \ 行くぞ東京！待ってろDpub7！！ #dpub7 | Feelingplace  [...]"
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/dpub_130117.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dpub_130117-300x76.jpg" alt="dpub_130117" width="300" height="76" class="alignnone size-medium wp-image-5754" /></a><br />
+<p><a href="/wp-content/uploads/dpub_130117.jpg" target="_blank"><img src="/wp-content/uploads/dpub_130117-300x76.jpg" alt="dpub_130117" width="300" height="76" class="alignnone size-medium wp-image-5754" /></a><br />
 Dpubに行ってみたいです。@kotala_bです。<br />
 Dpubというのは立花さん（@ttachi）の主催するiPhoneとTwitterが好きな人が集まるイベントです。<br />
 <a href="https://www.ttcbn.net/no_second_life/archives/30900" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?https://www.ttcbn.net/no_second_life/archives/30900" alt="Dpub 7 in 東京を2月2日に開催します！受付予告と変更点などのお知らせ！！ | No Second Life" width="150" height="130" /></a><a href="https://www.ttcbn.net/no_second_life/archives/30900" target="_blank">Dpub 7 in 東京を2月2日に開催します！受付予告と変更点などのお知らせ！！ | No Second Life</a><a href="https://b.hatena.ne.jp/entry/https://www.ttcbn.net/no_second_life/archives/30900" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://www.ttcbn.net/no_second_life/archives/30900" alt="" /></a><br style="clear:both;" />Dpubとは</p>
@@ -46,7 +46,7 @@ DpubのBはBloggerブロガー<br />
 <h2>行ってみたいイベント</h2>
 <p><a href="http://odaimoku.com" title="odaimoku.com" target="_blank">odaimoku.com</a>のお題で書きましたが、今年注目している一度は行ってみたいイベント。<br />
 それが僕にとってのDpubです。<br />
-<a href="https://kotalab.com/odaimoku-2013-event" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130106124750.png" alt="2013年で注目しているイベント！ #odaimoku_2013_Event | kotala's note" width="150" /></a><a href="https://kotalab.com/odaimoku-2013-event" target="_blank">2013年で注目しているイベント！ #odaimoku_2013_Event | kotala's note</a><br style="clear:both;" />そんなDpubの第7回目の先行募集が始まりました。<br />
+<a href="/odaimoku-2013-event" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130106124750.png" alt="2013年で注目しているイベント！ #odaimoku_2013_Event | kotala's note" width="150" /></a><a href="/odaimoku-2013-event" target="_blank">2013年で注目しているイベント！ #odaimoku_2013_Event | kotala's note</a><br style="clear:both;" />そんなDpubの第7回目の先行募集が始まりました。<br />
 先行募集は今までに参加された方達しか応募が出来ないので、僕は次の一般募集から応募が出来ます。<br />
 ちなみに先行予約は14分で満席だそうです！</p>
 <blockquote class="twitter-tweet" lang="ja"><p>Dpub7の第1回一般募集は本日21時から開始します。本日の募集枠は60名様です。昨日の先行予約は60名様枠が13分で埋まりました。今日もかなりの速度になりそうですので、ご参加希望の方はご注意ください。お待ちしております！ <a href="https://twitter.com/search/%23dpub7">#dpub7</a></p>
@@ -60,7 +60,7 @@ DpubのBはBloggerブロガー<br />
 僕は仕事の都合上20日の募集にはおそらく応募出来ないのでチャンスはたった1回のみ！<br />
 今夜が勝負！<br />
 15分前にリマインダーをセットしてパソコンの前で準備を整えておきます！<br />
-<a href="https://kotalab.com/wp-content/uploads/dpub_130117_01.png" target="_blank"><img src="https://kotalab.com/wp-content/uploads/dpub_130117_01-300x513.png" alt="dpub_130117_01" width="300" height="513" class="alignnone size-medium wp-image-5761" /></a></p>
+<a href="/wp-content/uploads/dpub_130117_01.png" target="_blank"><img src="/wp-content/uploads/dpub_130117_01-300x513.png" alt="dpub_130117_01" width="300" height="513" class="alignnone size-medium wp-image-5761" /></a></p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4"><img src="http://a1127.phobos.apple.com/us/r1000/083/Purple/v4/09/e8/6c/09e86c7f-acc1-f73d-7198-f1dc29e5d99b/mzm.sivkbxum.png" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdue-rimainda-taima-aramu%252Fid390017969%253Fmt%253D8%2526uo%253D4">Due 〜 リマインダー、タイマー、アラーム</span></div>

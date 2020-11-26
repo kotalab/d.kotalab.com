@@ -22,9 +22,9 @@ tags:
 - ジーニアスバー
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/macbookairbatterychange_131119_01-546x409.jpg" alt="macbookairbatterychange_131119_01" width="546" height="409" class="alignnone size-large wp-image-10205" /><br />
+<p><img src="/wp-content/uploads/macbookairbatterychange_131119_01-546x409.jpg" alt="macbookairbatterychange_131119_01" width="546" height="409" class="alignnone size-large wp-image-10205" /><br />
 MacBook Airをメインに使ってます。こたら（@kotala_b）です。<br />
-以前はWindowsのデスクトップを使ってましたが、<a href="https://kotalab.com/macbook-air-24hours" title="圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！">去年MacBook Airを買ってから</a>はこれがメインのパソコンになりました。<br />
+以前はWindowsのデスクトップを使ってましたが、<a href="/macbook-air-24hours" title="圧倒的な早さに驚いた！MacBook Airが注文から25時間後には届いた！">去年MacBook Airを買ってから</a>はこれがメインのパソコンになりました。<br />
 買ってから1年2ヶ月ずっと使ってきたMacBook Airが不調の兆し。<br />
 </p>
 <!--more-->
@@ -33,15 +33,15 @@ MacBook Airをメインに使ってます。こたら（@kotala_b）です。<br
 外で使っている時にバッテリーの減りが早くなったような感じがありました。<br />
 その時はあまり気にしなかったんですが、今朝バッテリーの表示をみてビックリ！<br />
 【バッテリーの交換修理】という警告が出てました。<br />
-<img src="https://kotalab.com/wp-content/uploads/macbookairbatterychange_131119_02.jpg" alt="macbookairbatterychange_131119_02" width="306" height="188" class="alignnone size-full wp-image-10206" /></p>
+<img src="/wp-content/uploads/macbookairbatterychange_131119_02.jpg" alt="macbookairbatterychange_131119_02" width="306" height="188" class="alignnone size-full wp-image-10206" /></p>
 <h2>MacBook Airのバッテリーを交換修理しなくても大丈夫！？</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/macbookairbatterychange_131119_03-546x251.jpg" alt="macbookairbatterychange_131119_03" width="546" height="251" class="alignnone size-large wp-image-10207" /><br />
+<p><img src="/wp-content/uploads/macbookairbatterychange_131119_03-546x251.jpg" alt="macbookairbatterychange_131119_03" width="546" height="251" class="alignnone size-large wp-image-10207" /><br />
 いきなり交換修理か！？と思いつつヘルプを読み進めてみるとこう書いてありました。</p>
 <blockquote><p>バッテリーの交換修理：バッテリーは正常に機能していませんが、ユーザがバッテリーの動作や充電可能量の変化に気付かない場合があります。お使いのコンピュータの点検修理を依頼してください。検査を受ける前でも、コンピュータに損傷を与えることなく、引き続きバッテリーを使用できます。</p></blockquote>
 <p>修理が必要だけどそのままでも使えるのかな？ちょっと文章がわかりにくい。</p>
 <h2>Battery Healthで調べてみた</h2>
 <p>気になるのでMacアプリの<a href="https://itunes.apple.com/jp/app/battery-health/id490192174?mt=12&uo=4&at=10l4yU" rel="nofollow" target="_blank">Battery Health</a>を使って調べてみました。<br />
-<img src="https://kotalab.com/wp-content/uploads/macbookairbatterychange_131119_04.jpg" alt="macbookairbatterychange_131119_04" width="264" height="606" class="alignnone size-full wp-image-10208" /><br />
+<img src="/wp-content/uploads/macbookairbatterychange_131119_04.jpg" alt="macbookairbatterychange_131119_04" width="264" height="606" class="alignnone size-full wp-image-10208" /><br />
 バッテリー容量が80％以下までへたってる。<br />
 1年2ヶ月も使えばこんなもんなのか？それでもやっぱりなんか気になります。</p>
 <h3>ジーニアスバーに行ってきます</h3>

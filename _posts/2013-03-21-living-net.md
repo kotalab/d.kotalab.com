@@ -24,7 +24,7 @@ tags:
 - 使い道
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/ipadminiseeq_130321-448x270.jpg" alt="ipadminiseeq_130321" width="448" height="270" class="alignnone size-large wp-image-6564" /><br />
+<p><img src="/wp-content/uploads/ipadminiseeq_130321-448x270.jpg" alt="ipadminiseeq_130321" width="448" height="270" class="alignnone size-large wp-image-6564" /><br />
 家の中でもiPadminiを使うことが多くなってきました。@kotala_bです。<br />
 iPadminiの居場所はテレビの横です。<br />
 </p>
@@ -79,6 +79,6 @@ Seeqは1つのキーワードに対して、Amazon内の商品検索や価格com
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/seeq-is-search-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/seeq_20121110-300x300.png" alt="検索するときはこのアプリ！検索をひとまとめにしてストレスフリー！ | kotala's note" width="150" /></a><a href="https://kotalab.com/seeq-is-search-app" target="_blank">検索するときはこのアプリ！検索をひとまとめにしてストレスフリー！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/ipad-mini-stand" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20121215103625.jpg" alt="iPadmini用にスタンドを購入！Amazonで75％オフと超お買い得！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-stand" target="_blank">iPadmini用にスタンドを購入！Amazonで75％オフと超お買い得！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/seeq-is-search-app" target="_blank"><img  class="alignleft" src="/wp-content/uploads/seeq_20121110-300x300.png" alt="検索するときはこのアプリ！検索をひとまとめにしてストレスフリー！ | kotala's note" width="150" /></a><a href="/seeq-is-search-app" target="_blank">検索するときはこのアプリ！検索をひとまとめにしてストレスフリー！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/ipad-app30" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/ipad-mini-stand" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20121215103625.jpg" alt="iPadmini用にスタンドを購入！Amazonで75％オフと超お買い得！ | kotala's note" width="150" /></a><a href="/ipad-mini-stand" target="_blank">iPadmini用にスタンドを購入！Amazonで75％オフと超お買い得！ | kotala's note</a><br style="clear:both;" /></p>

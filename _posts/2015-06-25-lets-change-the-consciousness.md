@@ -20,9 +20,9 @@ tags:
 - 無意識
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/lets-change-the-consciousness_20150625_01.jpg" alt="Lets change the consciousness 20150625 01" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/06/lets-change-the-consciousness_20150625_01.jpg" alt="Lets change the consciousness 20150625 01" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>同じことをやるとしても、立場や見方を変えれば全然違ったとらえ方ができます。<br />
-<a href="https://kotalab.com/explained-before-it-is-heard">「わかりません教えて下さい。」と聞く前に</a>という記事の中で書いたのですが、質問をする側される側、両方の立場になってようやくわかることがありました。</p>
+<a href="/explained-before-it-is-heard">「わかりません教えて下さい。」と聞く前に</a>という記事の中で書いたのですが、質問をする側される側、両方の立場になってようやくわかることがありました。</p>
 <p>立場や見方じゃなく、自分自身の意識をほんの少し変えるだけでも全然違います。</p>
 <blockquote><p>「キツかったら手伝うよー」という<span class="b">上から目線スタンス</span>ではなく、「私がやります。はい。私の仕事です！！！」<br />
 ということにしました。これ、カミさんの実務的な負担が減るだけではなく、ほかにもかなりメリットがあるんです。<br />
@@ -47,12 +47,12 @@ via:via:<a href="http://kentaro-jp.com/archives/7337" target="_blank">洗い物�
 <p>魅力的に見られたくて自分から進んでやったっていいし、自分で進んでやったら結果的に魅力的に見られるようになったっていいし、<br />
 どっちにしたって自分も相手も悪い気はしないはず。</p>
 <h2>さいごに</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/06/lets-change-the-consciousness_20150625_02.jpg" alt="Lets change the consciousness 20150625 02" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/06/lets-change-the-consciousness_20150625_02.jpg" alt="Lets change the consciousness 20150625 02" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>実際にやってることは同じなのに、やってる自分が感じる感じ方もそれを見た人の感じ方も違います。</p>
 <p>もしそれだけの違いで自分も周りもhappyになるなら、「自分から進んでやってる！」と言い切りたいし言い切ってほしい。</p>
 <p>自分の魅力が上がればいいことだって沢山あるはずだし！</p>
 <p>[dailynew]<br />
 ・隣のビルのカフェ<br />
 ・大手町から二重橋前まで歩いてみた</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

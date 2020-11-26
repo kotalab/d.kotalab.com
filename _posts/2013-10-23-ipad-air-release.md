@@ -21,13 +21,13 @@ tags:
 - iPad Air
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/ipadair_131023_01-546x299.png" alt="ipadair_131023_01" width="546" height="299" class="alignnone size-large wp-image-10020" /><br />
+<p><img src="/wp-content/uploads/ipadair_131023_01-546x299.png" alt="ipadair_131023_01" width="546" height="299" class="alignnone size-large wp-image-10020" /><br />
 新型は「iPad Air」！こたら（@kotala_b）です。<br />
 深夜から早朝にかけて、Appleの新製品発表会があり新型のiPad AirとiPad mini Retina displayが発表されました！<br />
 </p>
 <!--more-->
 <h2>軽々とパワフルになったiPad Air</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/ipadair_131023_02-546x331.png" alt="ipadair_131023_02" width="546" height="331" class="alignnone size-large wp-image-10018" /><br />
+<p><img src="/wp-content/uploads/ipadair_131023_02-546x331.png" alt="ipadair_131023_02" width="546" height="331" class="alignnone size-large wp-image-10018" /><br />
 iPadの新型、iPad Airはディスプレイサイズはこれまでの9.7インチのまま、小さく軽くなりました。<br />
 薄さは同じく発表されたiPad mini Retinaディスプレイモデルと同じ7.5ミリ。<br />
 iPhone 5sが7.6ミリですからほぼ同じ薄さ！<br />
@@ -35,7 +35,7 @@ iPhone 5sが7.6ミリですからほぼ同じ薄さ！<br />
 発売日は11月1日！<br />
 <a href="https://www.apple.com/jp/ipad-air/" target="_blank">アップル - iPad Air</a></p>
 <h2>小さい、でも万能なiPad mini Retinaディスプレイモデル</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/ipadair_131023_03-546x309.png" alt="ipadair_131023_03" width="546" height="309" class="alignnone size-large wp-image-10019" /><br />
+<p><img src="/wp-content/uploads/ipadair_131023_03-546x309.png" alt="ipadair_131023_03" width="546" height="309" class="alignnone size-large wp-image-10019" /><br />
 iPad miniが待望のRetina displayを搭載し発売になります！<br />
 Retina displayを搭載したiPad miniは従来より約30グラム重くなります。<br />
 それでも重さはWi-Fiモデルで331グラムととっても軽い！<br />

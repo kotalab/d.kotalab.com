@@ -23,7 +23,7 @@ tags:
 - おすすめ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/beforetaxup_131002-546x364.jpg" alt="beforetaxup_131002" width="546" height="364" class="alignnone size-large wp-image-9745" /><br />
+<p><img src="/wp-content/uploads/beforetaxup_131002-546x364.jpg" alt="beforetaxup_131002" width="546" height="364" class="alignnone size-large wp-image-9745" /><br />
 ブログ連続更新5日目。こたら（@kotala_b）です。<br />
 2014年1月1日から365日連続更新を目標にしてます。<br />
 3日坊主を乗り越え、5日目まで来ました。<br />
@@ -44,7 +44,7 @@ comments: []
 <a href="https://www.amazon.co.jp/exec/obidos/asin/4492580948/same-22/" rel="nofollow" target="_blank">クラウド時代のタスク管理の技術</a>-P.66</p></blockquote>
 <p>一番やる気があって集中力が高い時間帯に一番優先順位の高い行動をすることが3日坊主を防ぐコツです。</p>
 <h3>2.他の習慣と結びつける</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/keep-habits-5-hints_140105_01-546x364.jpg" alt="keep-habits-5-hints_140105_01" width="546" height="364" class="alignnone size-large wp-image-10408" /><br />
+<p><img src="/wp-content/uploads/keep-habits-5-hints_140105_01-546x364.jpg" alt="keep-habits-5-hints_140105_01" width="546" height="364" class="alignnone size-large wp-image-10408" /><br />
 例えば歯磨きや風呂、通勤もあなたの習慣です。<br />
 これらはやろうと思わなくても無意識のうちに行っている、すでに習慣化された行動です。<br />
 この習慣化された行動に新たに習慣化したいことを結びつけると身につきやすいです。<br />
@@ -52,7 +52,7 @@ comments: []
 同時にできないことでも「朝ごはんを食べたらブログを書く」とか「朝起きて歯を磨いたらランニングウェアに着替えて走りにいく」というようにしてもいいでしょう。<br />
 無意識に習慣化されている行動と意識的に習慣化したい行動を何か結びつけてみてください。</p>
 <h3>3.記録をつける</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/habit_130722_01-300x431.jpg" alt="habit_130722_01" width="300" height="431" class="alignnone size-medium wp-image-7894" /><br />
+<p><img src="/wp-content/uploads/habit_130722_01-300x431.jpg" alt="habit_130722_01" width="300" height="431" class="alignnone size-medium wp-image-7894" /><br />
 物事を継続し続けるには「やったぞ！」ということの見える化が大切です。<br />
 自分がいつからどれくらい続けているのかといことがわからなければ、続けていくのは難しいのです。<br />
 マラソンを走ることを例にあげるとわかりやすいかも知れません。<br />
@@ -62,7 +62,7 @@ comments: []
 そうならないためにはやったことの記録をつけることが大切なのです。<br />
 iPhoneには習慣を続けるのに最適なアプリが沢山あります。<br />
 僕は<a href="https://itunes.apple.com/jp/app/streaks-motivational-calendar/id345184462?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">Streaks</a>というアプリを使ってカレンダーにチェックを入れています。<br />
-<img src="https://kotalab.com/wp-content/uploads/keep-habits-5-hints_140105_03-300x513.jpg" alt="keep-habits-5-hints_140105_03" width="300" height="513" class="alignnone size-medium wp-image-10412" /><br />
+<img src="/wp-content/uploads/keep-habits-5-hints_140105_03-300x513.jpg" alt="keep-habits-5-hints_140105_03" width="300" height="513" class="alignnone size-medium wp-image-10412" /><br />
 他にも習慣化に役立ちそうなアプリは沢山あります。<br />
 こちらを参考にしてみてください。</p>
 <div class="shht">
@@ -70,7 +70,7 @@ iPhoneには習慣を続けるのに最適なアプリが沢山あります。<b
 <div class="shhttext"><a href="http://clockworkapple.me/?p=8119" target="_blank">コツコツ継続！習慣化を助けてくれる６つの厳選アプリ。 | CLOCK LIFE*</a><a href="https://b.hatena.ne.jp/entry/http://clockworkapple.me/?p=8119" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://clockworkapple.me/?p=8119" alt="" /></a></div>
 </div>
 <h3>4.周りの人に宣言する</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/keep-habits-5-hints_140105_02-546x335.jpg" alt="keep-habits-5-hints_140105_02" width="546" height="335" class="alignnone size-large wp-image-10409" /><br />
+<p><img src="/wp-content/uploads/keep-habits-5-hints_140105_02-546x335.jpg" alt="keep-habits-5-hints_140105_02" width="546" height="335" class="alignnone size-large wp-image-10409" /><br />
 立てた目標を自分だけじゃなく周りの人に宣言することもおすすめです。</p>
 <blockquote><p>目標を立てたら、なるべく周りの人に宣言することをお勧めします。<br />
 <a href="http://news.livedoor.com/article/detail/8400335/" target="_blank">三日坊主を防ぐ3つのコツ - Peachy - ライブドアニュース</a><span class="removed_link" title="b.hatena.ne.jp/entry/http://news.livedoor.com/article/detail/8400335/"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://news.livedoor.com/article/detail/8400335/" alt="" /></span></p></blockquote>

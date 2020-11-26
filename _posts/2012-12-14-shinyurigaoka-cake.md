@@ -22,7 +22,7 @@ tags:
 - チーズスフレ
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121213153245.jpg" width="448" height="448" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20121213153245.jpg" width="448" height="448" /><br />
 窯蒸しチーズスフレを食べました。@kotala_bです。<br />
 食べたのは小田急線新百合ケ丘駅前のお店「<strong>パティスリージロー</strong>」の「<strong>窯蒸しチーズスフレ</strong>」です！<br />
 </p>
@@ -30,28 +30,28 @@ comments: []
 <h2>駅前のお店</h2>
 <p>お店の場所は本当に駅すぐ！<br />
 ▼パノラマで撮るとこんな感じ<br />
-<a href="https://kotalab.com/wp-content/uploads/patisserieGiraud_121214.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/patisserieGiraud_121214-448x202.jpg" alt="" title="patisserieGiraud_121214" width="448" height="202" class="alignnone size-large wp-image-4728" /></a><br />
+<a href="/wp-content/uploads/patisserieGiraud_121214.jpg" target="_blank"><img src="/wp-content/uploads/patisserieGiraud_121214-448x202.jpg" alt="" title="patisserieGiraud_121214" width="448" height="202" class="alignnone size-large wp-image-4728" /></a><br />
 改札を出て数秒の場所にお店はあります！<br />
 ▼焼きたてのチーズスフレの販売開始時間<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121214175604.jpg" width="448" height="325" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121214175604.jpg" width="448" height="325" /><br />
 焼きたてのチーズスフレを1日に5回販売しています！<br />
 12月1日から販売開始らしく、それ以来お店の前を通るたびにこの看板が気になっていました！<br />
 仕事帰りの時間だとお店はもうすでに閉店していることが多くなかなか買えなかったんですが、つい先日早く帰った日に買うことが出来ました！<br />
 家に帰って早速食べてみました！</p>
 <h2>開封！</h2>
 <p>▼外箱<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121213153249.jpg" width="448" height="448" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121213153249.jpg" width="448" height="448" /><br />
 ▼外箱の横にはパティスリージローの文字<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121213153248.jpg" width="448" height="448" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121213153248.jpg" width="448" height="448" /><br />
 ▼反対側の面にはチーズスフレの文字！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121213153241.jpg" width="448" height="448" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121213153241.jpg" width="448" height="448" /><br />
 ▼箱を開けるとまるいチーズスフレがお目見え！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121213153246.jpg" width="448" height="448" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121213153246.jpg" width="448" height="448" /><br />
 ▼断面<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121213153245.jpg" width="448" height="448" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121213153245.jpg" width="448" height="448" /><br />
 切ってみると弾力のあるやわらかさがあって、プリンとまではいきませんが「ふるふる」っとした感触があります。<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121213153244.jpg" width="448" height="448" /><br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121213153243.jpg" width="448" height="448" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121213153244.jpg" width="448" height="448" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121213153243.jpg" width="448" height="448" /><br />
 食べてみるととっても柔らかくてしっとり。<br />
 ふるふるっとした食感です。<br />
 とても美味しかったです！</p>

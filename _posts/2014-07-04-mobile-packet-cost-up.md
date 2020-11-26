@@ -28,7 +28,7 @@ tags:
 - デジラ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/mobile-packet-cost-up_140704-546x361.jpg" alt="mobile-packet-cost-up_140704" width="546" height="361" class="alignnone size-large wp-image-13311" /><br />
+<p><img src="/wp-content/uploads/mobile-packet-cost-up_140704-546x361.jpg" alt="mobile-packet-cost-up_140704" width="546" height="361" class="alignnone size-large wp-image-13311" /><br />
 通話かけ放題+パケット定額の料金プランが携帯キャリア3社から発表されていますが、パケット定額にどこか割高感を感じました。</p>
 <p>そこで1GB当たりでいくらくらいになっているのか、従来のパケ放題フラットとまとめて計算してみました。</p>
 <p>計算してみると思っていた通り割高な結果となりました。<br />
@@ -144,7 +144,7 @@ comments: []
 <p>5GBまではdocomo、SoftBankと同じ単価ですが、10GBではauのほうが安くなっています。<br />
 とは言っても、従来のパケ放題フラットに比べると13GB以外は値上がりしているのがわかります。</p>
 <h3>通話かけ放題の影でパケット料金が値上がりしていた</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/mobile-packet-cost-up_140704-546x361.jpg" alt="mobile-packet-cost-up_140704" width="546" height="361" class="alignnone size-large wp-image-13311" /><br />
+<p><img src="/wp-content/uploads/mobile-packet-cost-up_140704-546x361.jpg" alt="mobile-packet-cost-up_140704" width="546" height="361" class="alignnone size-large wp-image-13311" /><br />
 新料金プランは通話かけ放題ということに大きく焦点が当てられていますが、データパックの方を見てみると従来のパケ放題フラットから随分と単価が上がっていることがわかりました。</p>
 <p>7GB固定だった従来のプランと比べると選択肢が増えたので、あまり使っていなかった人にとっては支払う額は下がることにはなりますが、割高感が残ります。</p>
 <p>通話はガラケー、メールやネットはSIMフリースマホという時代になるのかも知れませんね。</p>

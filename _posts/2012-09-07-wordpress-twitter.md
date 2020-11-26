@@ -21,7 +21,7 @@ tags:
 - プラグインなし
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/link_120708.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/link_120708.jpg" alt="" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
+<p><a href="/wp-content/uploads/link_120708.jpg" target="_blank"><img src="/wp-content/uploads/link_120708.jpg" alt="" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/stickergiant/3769771267/" target="_blank">WordPress Stickers Everywhere</a> / teamstickergiant</span><br />
 ブログ内のツイッターアカウントのリンク表示としてwordpressプラグインの「<strong>Twitter  Plus</strong>」を使っていました。@kotala_bです。<br />
 Twitterアカウントの上にマウスを置くと「Hovercards」と言われるカードが表示されるのが気に入ってこのブログではずっと使っていました。<br />
@@ -36,13 +36,13 @@ Twitterアカウントの上にマウスを置くと「Hovercards」と言われ
 <p>まずはプラグインの停止から。<br />
 「<strong>Twitter ＠Anywhere Plus</strong>」を停止させます。<br />
 ▼「インストール済みプラグイン」の一覧から「<strong>Twitter ＠Anywhere Plus</strong>」を停止させます。<br />
-<a href="https://kotalab.com/wp-content/uploads/twitterLink_120905_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/twitterLink_120905_02.jpg" alt="" title="twitterLink_120905_02" width="448" height="200" class="alignnone size-full wp-image-2591" /></a><br />
+<a href="/wp-content/uploads/twitterLink_120905_02.jpg" target="_blank"><img src="/wp-content/uploads/twitterLink_120905_02.jpg" alt="" title="twitterLink_120905_02" width="448" height="200" class="alignnone size-full wp-image-2591" /></a><br />
 停止させたら次は<strong>functions.php</strong>にコードを追記します。<br />
 ▼<strong>functions.php</strong>はテーマ編集画面に進み、右側にある「テーマのための関数」という場所です。<br />
-<a href="https://kotalab.com/wp-content/uploads/twitterLink_120905_03.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/twitterLink_120905_03.jpg" alt="" title="twitterLink_120905_03" width="224" height="300" class="alignnone size-full wp-image-2589" /></a><br />
+<a href="/wp-content/uploads/twitterLink_120905_03.jpg" target="_blank"><img src="/wp-content/uploads/twitterLink_120905_03.jpg" alt="" title="twitterLink_120905_03" width="224" height="300" class="alignnone size-full wp-image-2589" /></a><br />
 <strong>functions.php</strong>を開くとコードがズラッと書かれています。<br />
 ▼一番下までスクロールし、「<strong>？＞</strong>」という部分の手前にコードを貼りつけていきます。<br />
-<a href="https://kotalab.com/wp-content/uploads/twitterLink_120905_01.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/twitterLink_120905_01.jpg" alt="" title="twitterLink_120905_01" width="448" height="336" class="alignnone size-full wp-image-2590" /></a><br />
+<a href="/wp-content/uploads/twitterLink_120905_01.jpg" target="_blank"><img src="/wp-content/uploads/twitterLink_120905_01.jpg" alt="" title="twitterLink_120905_01" width="448" height="336" class="alignnone size-full wp-image-2590" /></a><br />
 わかりづらい方は画像をクリックすると拡大しますので、そちらをご覧ください。</p>
 <h2>付けたし</h2>
 <p>記述するコードですが、僕は<a href="http://kachibito.net/wordpress/automatically-link-twitter.html" target="_blank">かちびと.net</a>さんで書かれているコードに少しだけ付けたしをしました。<br />

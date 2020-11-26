@@ -41,7 +41,7 @@ comments:
   content: "[&#8230;] 初めてのiPhoneアプリがリリース間近！今年の1月にプログラミング言語を初めて触った僕がiPhoneアプリを作れたわけ
     #ブロフェス2014―こたらずのーと [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/app-release_140824-546x409.jpg" alt="app-release_140824" width="546" height="409" class="alignnone size-large wp-image-13380" /><br />
+<p><img src="/wp-content/uploads/app-release_140824-546x409.jpg" alt="app-release_140824" width="546" height="409" class="alignnone size-large wp-image-13380" /><br />
 今年の4月から5月にかけて通っていたアプリ道場のおかげで、ようやくiPhoneアプリをリリースすることができそうです！<br />
 「できそう」というのはiPhoneアプリを「Appleに提出した状態」なので、あとは審査が通ればリリースという段階です。</p>
 <p>早ければ今月中にもApp Storeに並ぶ予定になっています！<br />
@@ -50,27 +50,27 @@ comments:
 </p>
 <!--more-->
 <h2>なんでiPhoneアプリが作れたのか</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/app-release_140824_01-546x409.jpg" alt="app-release_140824_01" width="546" height="409" class="alignnone size-large wp-image-13381" /><br />
+<p><img src="/wp-content/uploads/app-release_140824_01-546x409.jpg" alt="app-release_140824_01" width="546" height="409" class="alignnone size-large wp-image-13381" /><br />
 僕はiPhoneアプリをいつか作ってみたいと思っていました。<br />
 2013年の2月に開催された<a href="https://www.ttcbn.net/no_second_life/archives/31515" target="_blank">Dpubという大規模な飲み会</a>で、FastEverというiPhoneアプリの開発者<a href="https://twitter.com/frnk" target="_blank">@frnk</a>さんやOneCamというカメラアプリの開発者<a href="https://twitter.com/AppleWalker" target="_blank">@AppleWalker</a>さんと出会ってお話を聞いているうちに、いつかアプリを作ってみたいなと思ったのが最初のきっかけです。</p>
 <p>その当時はiPhoneアプリ開発言語の「Objective-C」という単語すら聞いたこともない、JavaとJavaScriptの違いもわからないような頃でした。</p>
-<p>いつかはiPhoneアプリ作ってみたいなーなんて思って1年くらい経ったある日「<a href="https://kotalab.com/bloger-app-event" title="iPhoneアプリ開発の第一歩！？ブロガー向けiPhoneアプリ開発体験会に行ってきたよ！ #アプリ開発体験会" target="_blank">ブロガー向けiPhoneアプリ開発体験会</a>」というイベントに参加したことがきっかけで、自由大学でアプリ道場というiPhoneアプリの開発講座を主催している<a href="https://twitter.com/akio0911" target="_blank">@akio0911</a>さんと知り合い、4月からアプリ道場に参加することになりました。</p>
+<p>いつかはiPhoneアプリ作ってみたいなーなんて思って1年くらい経ったある日「<a href="/bloger-app-event" title="iPhoneアプリ開発の第一歩！？ブロガー向けiPhoneアプリ開発体験会に行ってきたよ！ #アプリ開発体験会" target="_blank">ブロガー向けiPhoneアプリ開発体験会</a>」というイベントに参加したことがきっかけで、自由大学でアプリ道場というiPhoneアプリの開発講座を主催している<a href="https://twitter.com/akio0911" target="_blank">@akio0911</a>さんと知り合い、4月からアプリ道場に参加することになりました。</p>
 <p>そしてアプリ道場のFacebookグループの影響もあったりして、ようやく「iPhoneアプリをリリースできそう！」という段階までこれました。</p>
 <h2>とにかくやってみた</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/app-release_140824_02-546x364.jpg" alt="app-release_140824_02" width="546" height="364" class="alignnone size-large wp-image-13382" /><br />
+<p><img src="/wp-content/uploads/app-release_140824_02-546x364.jpg" alt="app-release_140824_02" width="546" height="364" class="alignnone size-large wp-image-13382" /><br />
 僕が「iPhoneアプリをリリースできそう！」なのはたまたまそこで出会った人たちに恵まれたからなのもあります。<br />
 が、<strong>そこから一歩踏み込んで行動に移したから今があるんだと僕は思っています</strong>。</p>
 <p>僕はそれまで働いていた会社を辞めて今年の1月にシステム開発の会社に転職したんですが、それも「iPhoneアプリを作ってみたい」という気持ちからでした。「プログラムを書く仕事に就けば今よりは前進するだろう」と。</p>
 <p>今考えるとiPhoneアプリ開発と僕の勤め先の業務内容はだいぶ違うんですが、今年の1月からプログラミング言語に初めて触れるようになりました。<br />
 仕事はJavaがほとんどでiPhoneアプリで使われているObjective-Cは全く触る機会はないんですけど、それでも今の仕事に転職したおかげでiPhoneアプリを開発するのに役立ったことが沢山あります。</p>
 <h2>やったもん勝ち！？</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/app-release_140824_03-546x364.jpg" alt="app-release_140824_03" width="546" height="364" class="alignnone size-large wp-image-13383" /><br />
+<p><img src="/wp-content/uploads/app-release_140824_03-546x364.jpg" alt="app-release_140824_03" width="546" height="364" class="alignnone size-large wp-image-13383" /><br />
 8月23日に開催されたブロガーズフェスティバルの中で、セッションで話してた<a href="https://twitter.com/akio0911" target="_blank">@akio0911</a>さんや<a href="https://twitter.com/tamkai" target="_blank">@tamkai</a>さん、LTで話してた<a href="https://twitter.com/Max_Ezaki" target="_blank">@Max_Ezaki</a>さんの話にもあったけど「とにかくやってみよう」というお話はほんとグサグサ刺さる内容で「そうだよなー」と頷いて聞いていました。</p>
 <p>「やったもん勝ち！」じゃないけど<strong>とにかくやってみることがほんと大切</strong>だと思います。<br />
 <strong>やってみるとそこで、やってみてからじゃないとわからなかったことが沢山あって、最初にやってみた結果はどうであれやってみてよかったなーと思うことばっかり。<br />
 やらなかったことに対しては「あの時やっておけばよかったなー」ってことはあるけど、やったことに対しては「あの時やらなきゃよかったなー」なんてことはほとんどないと思う。</strong></p>
 <h2>次の一歩！</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/sanpo_121013_05.jpg" alt="sanpo_121013_05" width="546" height="410" class="alignnone size-full wp-image-3391" /><br />
+<p><img src="/wp-content/uploads/sanpo_121013_05.jpg" alt="sanpo_121013_05" width="546" height="410" class="alignnone size-full wp-image-3391" /><br />
 そして次の一歩ということで、AppleStore銀座の3階シアターで行われる「アプリ道場 演武会」というイベントで登壇します！<br />
 まさかAppleStore銀座で自分が話をする機会がくるなんて思ってもいなかったんですが、アプリ道場のイベントでチャンスがあったので飛び込んでみました！</p>
 <p>正式にはまだリリースもしてない「WebNote」ですが、参加することを先に決めました。</p>

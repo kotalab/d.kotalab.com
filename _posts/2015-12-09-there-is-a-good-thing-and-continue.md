@@ -19,7 +19,7 @@ tags:
 - やりたいこと
 - アプリ開発
 comments: []
-thumbnail: https://kotalab.com/wp-content/uploads/2015/12/there-is-a-good-thing-and-continue_20151209-780x585.jpg
+thumbnail: /wp-content/uploads/2015/12/there-is-a-good-thing-and-continue_20151209-780x585.jpg
 ---
 <p>6月の後半くらいから個人でiPhoneアプリを作っていました。<br><br />
 つい先日、Appleの審査へ提出したので、何も問題なければ年内にリリースできそうです。<br />
@@ -29,7 +29,7 @@ thumbnail: https://kotalab.com/wp-content/uploads/2015/12/there-is-a-good-thing-
 <!--more-->
 <h2>やったらやったことが残る</h2>
 <p>このブログを始めてから3年半くらい以上経ちましたが、ブログを400日以上毎日書いていた時期がありました。<br><br />
-<a href="https://kotalab.com/second-anivarsary">2年前にこんなことを書いたのですが</a>、ブログを続けて書いているうちに「<strong>なんか知らないけど毎日続けているといいことがある</strong>」みたいに思うようになりました。<br><br />
+<a href="/second-anivarsary">2年前にこんなことを書いたのですが</a>、ブログを続けて書いているうちに「<strong>なんか知らないけど毎日続けているといいことがある</strong>」みたいに思うようになりました。<br><br />
 このことはブログを書くことだけじゃなくて、アプリを作ることでも同じなんじゃないかなって思ってとにかく淡々ともくもくと毎日続けていました。  </p>
 <p>自分の好きなこととかやりたいこととかならなんでも同じなんじゃないかなって感じています。<br><br />
 例えそれが後から別にやりたいことじゃなかったって思っても、間違ってたって気づけただけプラスになるはず。</p>

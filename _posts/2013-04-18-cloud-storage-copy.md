@@ -22,7 +22,7 @@ tags:
 - クラウド
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/copy_130418-448x198.jpg" alt="copy_130418" width="448" height="198" class="alignnone size-large wp-image-6862" /><br />
+<p><img src="/wp-content/uploads/copy_130418-448x198.jpg" alt="copy_130418" width="448" height="198" class="alignnone size-large wp-image-6862" /><br />
 無料という言葉に弱い。@kotala_bです。<br />
 無料スタートでいきなり12GBも貰えるクラウドサービスが開始されたようです。<br />
 ▼はまさん（@SURF_FISH）や大谷さん（@delaymania）が紹介していました。<br />
@@ -34,7 +34,7 @@ comments: []
 上記リンクから登録頂くと、copyの容量が5GB増量します！<br />
 DropboxやSugarsyncだと招待時の容量増加は0.5GBなので、<strong>なんと10倍の増加量</strong>！<br />
 ▼リンクを開くとこのような画面が開くので、登録します。<br />
-<a href="https://copy.com?r=8xSUVD" title="5GB増量登録" target="_blank"><img src="https://kotalab.com/wp-content/uploads/copy_130418_01.jpg" alt="copy_130418_01" width="321" height="489" class="alignnone size-full wp-image-6863" /></a><br />
+<a href="https://copy.com?r=8xSUVD" title="5GB増量登録" target="_blank"><img src="/wp-content/uploads/copy_130418_01.jpg" alt="copy_130418_01" width="321" height="489" class="alignnone size-full wp-image-6863" /></a><br />
 登録後にデスクトップ版のアプリをインストールしたら5GBの容量が追加されていました。</p>
 <h2>Twitterでつぶやくと2GB増量</h2>
 <p>更にTwitterと連携してつぶやくと2GBの容量が追加されてあっという間に12GBになります！<br />
@@ -43,7 +43,7 @@ DropboxやSugarsyncだと招待時の容量増加は0.5GBなので、<strong>な
 <p>&mdash; こたらさん (@kotala_b) <a href="https://twitter.com/kotala_b/status/324698556369870850">2013年4月18日</a></p></blockquote>
 <p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br />
 ▼この流れで一気に12GBになりました！<br />
-<img src="https://kotalab.com/wp-content/uploads/copy_130418_02.jpg" alt="copy_130418_02" width="254" height="45" class="alignnone size-full wp-image-6864" /><br />
+<img src="/wp-content/uploads/copy_130418_02.jpg" alt="copy_130418_02" width="254" height="45" class="alignnone size-full wp-image-6864" /><br />
 ものの3分くらいでしょうか。<br />
 ほんとあっという間に12GBになりました。</p>
 <h2>更にスゴい！</h2>

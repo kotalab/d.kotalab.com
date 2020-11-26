@@ -22,7 +22,7 @@ tags:
 - 引越し
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/credit-card_140525.jpg" alt="Credit card 140525" title="credit-card_140525.jpg" border="0" width="548" height="365" />行列のできてるATMに並んでまでお金をおろすというのが好きではありません。</p>
+<p><img src="/wp-content/uploads/credit-card_140525.jpg" alt="Credit card 140525" title="credit-card_140525.jpg" border="0" width="548" height="365" />行列のできてるATMに並んでまでお金をおろすというのが好きではありません。</p>
 <p>最近はクレジットカードか電子マネーが使えるお店がすごく多いので、現金を持ち歩かなくてもなんとかなっていまうことがほとんどです。<br />
 スーパーで1000円にもならないような買い物でもクレジットカードを使っています。</p>
 <p>クレジットカードをよく使うようになると気になるのがクレジットカードのポイント還元率だったりします。<br />

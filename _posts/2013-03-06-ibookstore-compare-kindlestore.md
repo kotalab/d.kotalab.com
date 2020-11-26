@@ -33,7 +33,7 @@ comments:
   content: "[...] （ via ポジろし ） ◆ iBookstoreから日本語版電子書籍がダウンロード可能に！KindleStoreと比べた...
     [...]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/ibooks_130306-448x448.png" alt="ibooks_130306" width="448" height="448" class="alignnone size-large wp-image-6417" /><br />
+<p><img src="/wp-content/uploads/ibooks_130306-448x448.png" alt="ibooks_130306" width="448" height="448" class="alignnone size-large wp-image-6417" /><br />
 電子書籍はKindleStore一筋でした。@kotala_bです。<br />
 KindleStore一筋でしたが、アップデートによってAppleのiBookstoreから日本語版の書籍が読めるようになりiBooksも気になる存在になってきました。<br />
 <strong>iBookStoreとKindleStoreではどっちがいいのか、どんな違いがあるのかを考えてみました。</strong></p>
@@ -110,6 +110,6 @@ MagicReaderのように顔認識をして手を使わずに読めるといった
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/one-reason-buy-kindlestore" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/kindle_130111-448x327.jpg" alt="Kindleストアで電子書籍を買うたった一つの理由 | kotala's note" width="150" /></a><a href="https://kotalab.com/one-reason-buy-kindlestore" target="_blank">Kindleストアで電子書籍を買うたった一つの理由 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/ipad-mini-before-after" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-mini-before-after" target="_blank">iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/denshi-ipadmini" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121028.jpg" alt="電子書籍リーダーとしてのiPadmini | kotala's note" width="150" /></a><a href="https://kotalab.com/denshi-ipadmini" target="_blank">電子書籍リーダーとしてのiPadmini | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/one-reason-buy-kindlestore" target="_blank"><img  class="alignleft" src="/wp-content/uploads/kindle_130111-448x327.jpg" alt="Kindleストアで電子書籍を買うたった一つの理由 | kotala's note" width="150" /></a><a href="/one-reason-buy-kindlestore" target="_blank">Kindleストアで電子書籍を買うたった一つの理由 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/ipad-mini-before-after" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note" width="150" /></a><a href="/ipad-mini-before-after" target="_blank">iPadminiを買う前に考えていたことと実際に使ってみてからのこと！想定通りじゃなくてもiPadminiには大満足！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/denshi-ipadmini" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini_121028.jpg" alt="電子書籍リーダーとしてのiPadmini | kotala's note" width="150" /></a><a href="/denshi-ipadmini" target="_blank">電子書籍リーダーとしてのiPadmini | kotala's note</a><br style="clear:both;" /></p>

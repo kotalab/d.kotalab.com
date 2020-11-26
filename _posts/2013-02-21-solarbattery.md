@@ -54,10 +54,10 @@ comments:
   date_gmt: '2013-04-15 08:06:44 +0900'
   content: "なるほどやはりそうですか。\r\nちょっと調子が悪いようなのでAmazonに変えてもらいました！\r\n\r\nありがとうございます。"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/solarbattery_130220-448x336.jpg" alt="solarbattery_130220" width="448" height="336" class="alignnone size-large wp-image-6264" /><br />
+<p><img src="/wp-content/uploads/solarbattery_130220-448x336.jpg" alt="solarbattery_130220" width="448" height="336" class="alignnone size-large wp-image-6264" /><br />
 3台目のモバイルバッテリーを購入しました。@kotala_bです。<br />
 今回買ったのはライフパッキングで紹介されていたソーラータイプのモバイルバッテリーです！<br />
-<a href="https://kotalab.com/books-lifepacking" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="https://kotalab.com/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" />▼本で紹介されていたモノと同じかどうかは不明ですがこのモバイルバッテリーを購入しました。</p>
+<a href="/books-lifepacking" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" />▼本で紹介されていたモノと同じかどうかは不明ですがこのモバイルバッテリーを購入しました。</p>
 <div class="kaerebalink-box" style="text-align:left;padding-bottom:20px;font-size:small;/zoom: 1;overflow: hidden;">
 <div class="kaerebalink-image" style="float:left;margin:0 15px 10px 0;"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B0056DD99U/same-22/ref=nosim/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/41yuvmBlTXL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="kaerebalink-info" style="line-height:120%;/zoom: 1;overflow: hidden;">
@@ -90,17 +90,17 @@ comments:
 <!--more-->
 <h2>ソーラータイプのモバイルバッテリー</h2>
 <p>▼パッケージを開封すると短いUSBケーブルが2種類はいっていました。<br />
-<img src="https://kotalab.com/wp-content/uploads/solarbattery_130220_01-448x336.jpg" alt="solarbattery_130220_01" width="448" height="336" class="alignnone size-large wp-image-6260" /><br />
+<img src="/wp-content/uploads/solarbattery_130220_01-448x336.jpg" alt="solarbattery_130220_01" width="448" height="336" class="alignnone size-large wp-image-6260" /><br />
 MiniUSBとMicroUSBケーブルです。<br />
 ソーラーパネル以外にも、このMiniUSBを使った充電が可能です。<br />
 ▼大きさをiPhone5と比較<br />
-<img src="https://kotalab.com/wp-content/uploads/solarbattery_130220_02-448x334.jpg" alt="solarbattery_130220_02" width="448" height="334" class="alignnone size-large wp-image-6261" /><br />
+<img src="/wp-content/uploads/solarbattery_130220_02-448x334.jpg" alt="solarbattery_130220_02" width="448" height="334" class="alignnone size-large wp-image-6261" /><br />
 ▼厚みは若干iPhone5より厚め<br />
-<img src="https://kotalab.com/wp-content/uploads/solarbattery_130220_03-448x334.jpg" alt="solarbattery_130220_03" width="448" height="334" class="alignnone size-large wp-image-6262" /><br />
+<img src="/wp-content/uploads/solarbattery_130220_03-448x334.jpg" alt="solarbattery_130220_03" width="448" height="334" class="alignnone size-large wp-image-6262" /><br />
 重さはたったの50g！<br />
 普段CheeroPowerPlusを持ち歩いているので、その軽さを手にして「おもちゃかな」と思うほど驚きの軽さでした。<br />
 ▼試しにiPadminiを充電させたところ、しっかり充電出来ました！<br />
-<img src="https://kotalab.com/wp-content/uploads/solarbattery_130220_04-448x336.jpg" alt="solarbattery_130220_04" width="448" height="336" class="alignnone size-large wp-image-6263" /></p>
+<img src="/wp-content/uploads/solarbattery_130220_04-448x336.jpg" alt="solarbattery_130220_04" width="448" height="336" class="alignnone size-large wp-image-6263" /></p>
 <h2>最後に</h2>
 <p>CheeroPowerPlusのような大容量モデルに慣れていると容量の少なさが気になるところではありますが、1日出かけるのであればこの容量でもiPhone1台の充電には困りませんでした。<br />
 太陽と電気どちらでも充電が出来るので、天気が悪くても予め充電しておけるのがいいところ！<br />
@@ -135,11 +135,11 @@ MiniUSBとMicroUSBケーブルです。<br />
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/books-lifepacking" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="https://kotalab.com/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/multi-tool" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/6waytools_130220-448x336.jpg" alt="爪が長い女性にもオススメの一品！超小型栓抜き型ツールキーホルダー！ | kotala's note" width="150" /></a><a href="https://kotalab.com/multi-tool" target="_blank">爪が長い女性にもオススメの一品！超小型栓抜き型ツールキーホルダー！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/abitax-taglight" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/abitax_130222-448x336.jpg" alt="小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/abitax-taglight" target="_blank">小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/usb-2port-adapter" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/usbadpt_130219-448x336.jpg" alt="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/usb-2port-adapter" target="_blank">1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/cheero-power-plus" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/cheero_121014_01.jpg" alt="大容量なのに安い！あのcheeroPowerPlusを購入！ | kotala's note" width="150" /></a><a href="https://kotalab.com/cheero-power-plus" target="_blank">大容量なのに安い！あのcheeroPowerPlusを購入！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/books-lifepacking" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130217061655.jpg" alt="物欲を刺激しすぎる本ライフパッキング | kotala's note" width="150" /></a><a href="/books-lifepacking" target="_blank">物欲を刺激しすぎる本ライフパッキング | kotala's note</a><br style="clear:both;" /><br />
+<a href="/multi-tool" target="_blank"><img  class="alignleft" src="/wp-content/uploads/6waytools_130220-448x336.jpg" alt="爪が長い女性にもオススメの一品！超小型栓抜き型ツールキーホルダー！ | kotala's note" width="150" /></a><a href="/multi-tool" target="_blank">爪が長い女性にもオススメの一品！超小型栓抜き型ツールキーホルダー！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/abitax-taglight" target="_blank"><img  class="alignleft" src="/wp-content/uploads/abitax_130222-448x336.jpg" alt="小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note" width="150" /></a><a href="/abitax-taglight" target="_blank">小さいのにスゴい明るい！停電や災害時にも使える小型ライト「ABITAX 0510TagLight」を購入！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/usb-2port-adapter" target="_blank"><img  class="alignleft" src="/wp-content/uploads/usbadpt_130219-448x336.jpg" alt="1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！ | kotala's note" width="150" /></a><a href="/usb-2port-adapter" target="_blank">1つのコンセントから2台を同時充電！外出時に便利な2ポートUSBアダプタを購入！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/cheero-power-plus" target="_blank"><img  class="alignleft" src="/wp-content/uploads/cheero_121014_01.jpg" alt="大容量なのに安い！あのcheeroPowerPlusを購入！ | kotala's note" width="150" /></a><a href="/cheero-power-plus" target="_blank">大容量なのに安い！あのcheeroPowerPlusを購入！ | kotala's note</a><br style="clear:both;" /></p>
 <hr>
 <p>このアプリを使って更新しました！</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fsurupuro-for-iphone%252Fid436676299%253Fmt%253D8%2526uo%253D4"><img src="http://a1.mzstatic.com/us/r1000/065/Purple/v4/4c/c6/a8/4cc6a855-cc5c-34ed-0436-36e219eafb81/mzl.xejvrijs.jpg" width="75" height="75" style="float:left;margin:0 15px 0 0;" class="pochi_img" ></span>

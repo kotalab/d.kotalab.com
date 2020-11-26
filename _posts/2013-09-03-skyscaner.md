@@ -33,7 +33,7 @@ comments:
   content: "[&#8230;] ◆ 安い航空券を探すならスカイスキャナーがスゴイ便利！iPhoneからも簡単に探せる！ （ via kotala&#8217;s
     note ） [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_01-546x362.jpg" alt="skyscanner_130903_01" width="546" height="362" class="alignnone size-large wp-image-8321" /><br />
+<p><img src="/wp-content/uploads/skyscanner_130903_01-546x362.jpg" alt="skyscanner_130903_01" width="546" height="362" class="alignnone size-large wp-image-8321" /><br />
 来月広島へ行きます。こたら（@kotala_b）です。<br />
 東京から広島までの交通手段の選択肢は2つ。新幹線か飛行機か。<br />
 新幹線は簡単に探せたんですが安い航空券を探すのに一苦労。<br />
@@ -42,7 +42,7 @@ comments:
 <!--more-->
 <h2>新幹線で東京から広島へ</h2>
 <p>Yahoo!乗換案内で新幹線を使った場合の交通費と時間を調べてみました。<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_02-300x513.jpg" alt="skyscanner_130903_02" width="300" height="513" class="alignnone size-medium wp-image-8325" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_02-300x513.jpg" alt="skyscanner_130903_02" width="300" height="513" class="alignnone size-medium wp-image-8325" /><br />
 新幹線を使った場合、片道約5時間。交通費は約18000円。<br />
 往復だと10時間の36000円という感じ。</p>
 <h2>飛行機で東京から広島へ</h2>
@@ -68,11 +68,11 @@ Yahoo!乗換案内で調べても高い航空券しか出てこないし。<br /
 </div>
 <h3>スカイスキャナーで安い航空券を探してみた</h3>
 <p><a href="http://www.skyscanner.jp" title="スカイスキャナー" target="_blank">スカイスキャナー</a>を開き、トップページで検索条件を入力。<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_03-546x214.jpg" alt="skyscanner_130903_03" width="546" height="214" class="alignnone size-large wp-image-8329" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_03-546x214.jpg" alt="skyscanner_130903_03" width="546" height="214" class="alignnone size-large wp-image-8329" /><br />
 検索してみたら各便の料金がずらっと表示されました！<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_04-546x512.jpg" alt="skyscanner_130903_04" width="546" height="512" class="alignnone size-large wp-image-8328" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_04-546x512.jpg" alt="skyscanner_130903_04" width="546" height="512" class="alignnone size-large wp-image-8328" /><br />
 乗る便を選んで「次へ」を押すと航空会社のサイトへ移動してくれます！<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_05-546x448.jpg" alt="skyscanner_130903_05" width="546" height="448" class="alignnone size-large wp-image-8327" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_05-546x448.jpg" alt="skyscanner_130903_05" width="546" height="448" class="alignnone size-large wp-image-8327" /><br />
 これスゴイ便利！！</p>
 <h2>スカイスキャナーの検索機能がスゴイ便利！</h2>
 <blockquote><p>スカイスキャナーを利用すれば、1,000社以上の航空会社を比較して、格安航空券をすばやく見つけ簡単に飛行機の予約ができます。<br />
@@ -80,25 +80,25 @@ Yahoo!乗換案内で調べても高い航空券しか出てこないし。<br /
 <p>サイトにこう書いてある通りスゴイ便利！<br />
 検索条件は出発地、目的地、出発日をいじるだけ！<br />
 出発地、目的地は空港を指定する以外にも、「日本」という指定や「東京」という指定で検索することもできます！<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_06-546x181.jpg" alt="skyscanner_130903_06" width="546" height="181" class="alignnone size-large wp-image-8331" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_06-546x181.jpg" alt="skyscanner_130903_06" width="546" height="181" class="alignnone size-large wp-image-8331" /><br />
 例えば出発地を「東京」目的地を「空欄」で検索すると東京から各地への料金が表示され<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_07-546x521.jpg" alt="skyscanner_130903_07" width="546" height="521" class="alignnone size-large wp-image-8330" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_07-546x521.jpg" alt="skyscanner_130903_07" width="546" height="521" class="alignnone size-large wp-image-8330" /><br />
 出発地を「東京」目的地を「アメリカ」で検索すると東京からアメリカの各空港への料金が表示されます！<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_08-546x531.jpg" alt="skyscanner_130903_08" width="546" height="531" class="alignnone size-large wp-image-8326" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_08-546x531.jpg" alt="skyscanner_130903_08" width="546" height="531" class="alignnone size-large wp-image-8326" /><br />
 出発日の設定は「今日」や「明日」の他に「1ヶ月間」「1年間」といった指定で安い航空便を探すこともできちゃいます！<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_09-546x424.jpg" alt="skyscanner_130903_09" width="546" height="424" class="alignnone size-large wp-image-8320" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_09-546x424.jpg" alt="skyscanner_130903_09" width="546" height="424" class="alignnone size-large wp-image-8320" /><br />
 漠然と「来年中にアメリカに行きたいなー」って思った時、「いつどこの空港へいくのが安いのか？」ということも調べられるわけです！<br />
 スカイスキャナーで安い航空券を探してからいく時期を決めるのもいいかもしれません。</p>
 <h3>スカイスキャナーのiPhoneアプリも便利！</h3>
 <p>スカイスキャナーのiPhoneアプリでもWebと同様の検索機能が使えます！<br />
 iPhoneアプリではGPSを利用して近くにある空港を勝手に探してくれちゃいます。<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_10-300x513.jpg" alt="skyscanner_130903_10" width="300" height="513" class="alignnone size-medium wp-image-8332" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_10-300x513.jpg" alt="skyscanner_130903_10" width="300" height="513" class="alignnone size-medium wp-image-8332" /><br />
 iPhoneアプリには「地図で検索」という検索方法もあります！<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_11-300x513.jpg" alt="skyscanner_130903_11" width="300" height="513" class="alignnone size-medium wp-image-8324" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_11-300x513.jpg" alt="skyscanner_130903_11" width="300" height="513" class="alignnone size-medium wp-image-8324" /><br />
 「地図で検索」を使うと色々な場所への航空券料金が地図上に表示されます。<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_12-300x513.jpg" alt="skyscanner_130903_12" width="300" height="513" class="alignnone size-medium wp-image-8323" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_12-300x513.jpg" alt="skyscanner_130903_12" width="300" height="513" class="alignnone size-medium wp-image-8323" /><br />
 この地図は1本指で場所の移動、2本指で拡大縮小ができ<br />
-<img src="https://kotalab.com/wp-content/uploads/skyscanner_130903_13-300x513.jpg" alt="skyscanner_130903_13" width="300" height="513" class="alignnone size-medium wp-image-8322" /><br />
+<img src="/wp-content/uploads/skyscanner_130903_13-300x513.jpg" alt="skyscanner_130903_13" width="300" height="513" class="alignnone size-medium wp-image-8322" /><br />
 画面を弄らずにそのままにしておくと地図がクルクルと回りだします。</p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/skyscannerdeitsudemodokodemo/id415458524?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a534.phobos.apple.com/us/r1000/091/Purple2/v4/c2/e2/a3/c2e2a383-96e1-79e8-1391-e9310048ade6/Icon.png" width="80" /></a></div>

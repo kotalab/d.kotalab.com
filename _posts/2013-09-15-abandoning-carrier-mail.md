@@ -25,7 +25,7 @@ tags:
 - Gmail
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />
+<p><img src="/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />
 キャリアメールは使ってません。こたら（@kotala_b）です。<br />
 キャリアメールというのは末尾が「ezweb.ne.jp」「docomo.ne.jp」「i.softbank.jp」とつく、各キャリアが用意しているメールサービスです。<br />
 ケータイを契約すると好きなメアドを取得できます。<br />
@@ -44,7 +44,7 @@ MNPで契約すると端末代金は0円、キャッシュバックも貰えて�
 いちいち番号が変わったことを友人・知人に知らせなくてもよくなったかわりに、メアドだけは相変わらず変更を知らせなければなりません。<br />
 キャリアメールを使わなければこの問題は解決できます！</p>
 <h2>Gmailを使えば問題ない！</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />
+<p><img src="/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />
 ガラケーではキャリアメールが必須でした。<br />
 キャリアメールを使わないならメールができない？スマホならそんなことありません。<br />
 キャリアメールを使わなくてもメールは今まで通り使えます。<br />
@@ -115,12 +115,12 @@ Androidは必ずGoogleアカウントの設定が必要なので、<strong>Andro
 ケータイキャリアに縛られることなく、身軽になる為に勇気を持って脱キャリアメールしてみませんか？</p>
 <h4 class="rel">関連記事</h4>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/iphone5s-iphone5c-zeroyen" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_01-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/iphone5s-iphone5c-zeroyen" target="_blank">iPhone 5sとiPhone 5cが一括0円のお店続々！ドコモなら3円運用可能に！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/iphone5s-iphone5c-zeroyen" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/iphone5s-iphone5c-zeroyen" alt="" /></a></div>
+<div class="shhtimg"><a href="/iphone5s-iphone5c-zeroyen" target="_blank"><img src="/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_01-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/iphone5s-iphone5c-zeroyen" target="_blank">iPhone 5sとiPhone 5cが一括0円のお店続々！ドコモなら3円運用可能に！</a><a href="https://b.hatena.ne.jp/entry/https://kotalab.com/iphone5s-iphone5c-zeroyen" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/iphone5s-iphone5c-zeroyen" alt="" /></a></div>
 </div>
 <div class="shht">
-<div class="shhtimg"><a href="https://kotalab.com/mnp-cost" target="_blank"><img src="https://kotalab.com/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_02-546x361.jpg" alt="" width="150" height="130" /></a></div>
-<div class="shhttext"><a href="https://kotalab.com/mnp-cost" target="_blank">得するMNP契約をするために知っておきたいMNPに関する費用まとめ</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/mnp-cost"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/mnp-cost" alt="" /></span></div>
+<div class="shhtimg"><a href="/mnp-cost" target="_blank"><img src="/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_02-546x361.jpg" alt="" width="150" height="130" /></a></div>
+<div class="shhttext"><a href="/mnp-cost" target="_blank">得するMNP契約をするために知っておきたいMNPに関する費用まとめ</a><span class="removed_link" title="b.hatena.ne.jp/entry/https://kotalab.com/mnp-cost"><img border="0" src="https://b.hatena.ne.jp/entry/image/https://kotalab.com/mnp-cost" alt="" /></span></div>
 </div>
 <h4 class="aam">Amazonのオススメ！</h4>
 <div class="booklink-box">

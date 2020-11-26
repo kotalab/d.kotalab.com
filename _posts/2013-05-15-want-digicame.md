@@ -24,7 +24,7 @@ tags:
 - canon
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/nextyear_121231-448x448.jpg" alt="nextyear_121231" width="448" height="448" class="alignnone size-large wp-image-5164" /><br />
+<p><img src="/wp-content/uploads/nextyear_121231-448x448.jpg" alt="nextyear_121231" width="448" height="448" class="alignnone size-large wp-image-5164" /><br />
 デジタル一眼レフが欲しい。こたら（@kotala_b）です。<br />
 これまでNikonのD80というデジタル一眼レフを何回か使ったことがありました。<br />
 借り物だったのでいずれは自分のデジタル一眼レフを欲しいと思っていました。<br />
@@ -118,5 +118,5 @@ comments: []
 <p>この4つに絞られました。<br />
 あとは店頭で重さや操作性を実際に確かめてみようと思います。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/go-to-jindaiji" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/jindaiji_130112_07-448x300.jpg" alt="深大寺へ初詣に行ってきた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/go-to-jindaiji" target="_blank">深大寺へ初詣に行ってきた！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/digicame-walk-showakoen" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/showa_130216-448x336.jpg" alt="デジイチを持って昭和記念公園に行ってきた！ | kotala's note" width="150" /></a><a href="https://kotalab.com/digicame-walk-showakoen" target="_blank">デジイチを持って昭和記念公園に行ってきた！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/go-to-jindaiji" target="_blank"><img  class="alignleft" src="/wp-content/uploads/jindaiji_130112_07-448x300.jpg" alt="深大寺へ初詣に行ってきた！ | kotala's note" width="150" /></a><a href="/go-to-jindaiji" target="_blank">深大寺へ初詣に行ってきた！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/digicame-walk-showakoen" target="_blank"><img  class="alignleft" src="/wp-content/uploads/showa_130216-448x336.jpg" alt="デジイチを持って昭和記念公園に行ってきた！ | kotala's note" width="150" /></a><a href="/digicame-walk-showakoen" target="_blank">デジイチを持って昭和記念公園に行ってきた！ | kotala's note</a><br style="clear:both;" /></p>

@@ -21,7 +21,7 @@ tags:
 - 麺堂稲葉
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/tukemenhakuinaba_131013_01-546x409.jpg" alt="tukemenhakuinaba_131013_01" width="546" height="409" class="alignnone size-large wp-image-9911" /><br />
+<p><img src="/wp-content/uploads/tukemenhakuinaba_131013_01-546x409.jpg" alt="tukemenhakuinaba_131013_01" width="546" height="409" class="alignnone size-large wp-image-9911" /><br />
 大つけ麺博の2日目に行ってきました。こたら（@kotala_b）です。<br />
 新宿で開催中の2013年の大つけ麺博。<br />
 第1陣で6店舗が出店する中、僕が気になったのは麺堂稲葉というお店。<br />
@@ -35,12 +35,12 @@ comments: []
 <blockquote><p>鶏のみを使用した、激しく鶏を感じる&rdquo;超濃厚激鶏白湯&rdquo;のスープ</p></blockquote>
 <p>大つけ麺博の会場では一番左端にあり、B'zの「ultra soul」がずっと流れてるのが特徴のお店です。</p>
 <h3>麺堂稲葉のつけ麺はスープが超濃厚</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/tukemenhakuinaba_131013_02-546x409.jpg" alt="tukemenhakuinaba_131013_02" width="546" height="409" class="alignnone size-large wp-image-9920" /><br />
+<p><img src="/wp-content/uploads/tukemenhakuinaba_131013_02-546x409.jpg" alt="tukemenhakuinaba_131013_02" width="546" height="409" class="alignnone size-large wp-image-9920" /><br />
 鶏白湯スープが気になり麺堂稲葉を食べてみることにしました。<br />
 スープの上には青ネギが乗り、鶏ももの塩焼きとメンマがついてきます。これで850円。<br />
 お店に並ぶ時に追加トッピングが可能で、鶏チャーシューと味玉がついた全部のせが300円で頼めます。<br />
 僕は何もトッピングを頼まないでそのままのつけ麺を食べました。<br />
-<img src="https://kotalab.com/wp-content/uploads/tukemenhakuinaba_131013_03-546x409.jpg" alt="tukemenhakuinaba_131013_03" width="546" height="409" class="alignnone size-large wp-image-9912" /><br />
+<img src="/wp-content/uploads/tukemenhakuinaba_131013_03-546x409.jpg" alt="tukemenhakuinaba_131013_03" width="546" height="409" class="alignnone size-large wp-image-9912" /><br />
 つけ麺を一口食べてみるとスゴい濃厚！<br />
 鶏のダシがよく出た濃厚なスープが麺に良く絡みます。<br />
 濃いめのドロドロッとしたスープなので好き嫌いが別れそうなスープではあります。<br />

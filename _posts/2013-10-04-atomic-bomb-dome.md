@@ -28,7 +28,7 @@ tags:
 - 観光
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_14-546x361.jpg" alt="atomicbombdome_131004_14" width="546" height="361" class="alignnone size-large wp-image-9765" /><br />
+<p><img src="/wp-content/uploads/atomicbombdome_131004_14-546x361.jpg" alt="atomicbombdome_131004_14" width="546" height="361" class="alignnone size-large wp-image-9765" /><br />
 広島滞在2日目です。こたら（@kotala_b）です。<br />
 広島1日目の昨日は午後3時頃広島に到着。<br />
 予約してあったホテルのチェックインを済ませてブラブラ広島市内をお散歩してきました。<br />
@@ -37,23 +37,23 @@ comments: []
 </p>
 <!--more-->
 <h2>原爆ドーム周辺の写真</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_01-546x361.jpg" alt="atomicbombdome_131004_01" width="546" height="361" class="alignnone size-large wp-image-9767" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_02-546x361.jpg" alt="atomicbombdome_131004_02" width="546" height="361" class="alignnone size-large wp-image-9763" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_03-546x361.jpg" alt="atomicbombdome_131004_03" width="546" height="361" class="alignnone size-large wp-image-9760" /></p>
+<p><img src="/wp-content/uploads/atomicbombdome_131004_01-546x361.jpg" alt="atomicbombdome_131004_01" width="546" height="361" class="alignnone size-large wp-image-9767" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_02-546x361.jpg" alt="atomicbombdome_131004_02" width="546" height="361" class="alignnone size-large wp-image-9763" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_03-546x361.jpg" alt="atomicbombdome_131004_03" width="546" height="361" class="alignnone size-large wp-image-9760" /></p>
 <h2>原爆ドーム</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_04-546x361.jpg" alt="atomicbombdome_131004_04" width="546" height="361" class="alignnone size-large wp-image-9771" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_05-546x361.jpg" alt="atomicbombdome_131004_05" width="546" height="361" class="alignnone size-large wp-image-9768" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_06-546x361.jpg" alt="atomicbombdome_131004_06" width="546" height="361" class="alignnone size-large wp-image-9766" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_07-546x361.jpg" alt="atomicbombdome_131004_07" width="546" height="361" class="alignnone size-large wp-image-9772" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_08-546x361.jpg" alt="atomicbombdome_131004_08" width="546" height="361" class="alignnone size-large wp-image-9762" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_09-546x361.jpg" alt="atomicbombdome_131004_09" width="546" height="361" class="alignnone size-large wp-image-9764" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_10-546x361.jpg" alt="atomicbombdome_131004_10" width="546" height="361" class="alignnone size-large wp-image-9769" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_11-546x361.jpg" alt="atomicbombdome_131004_11" width="546" height="361" class="alignnone size-large wp-image-9761" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_12-546x361.jpg" alt="atomicbombdome_131004_12" width="546" height="361" class="alignnone size-large wp-image-9773" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_13-546x361.jpg" alt="atomicbombdome_131004_13" width="546" height="361" class="alignnone size-large wp-image-9770" /><br />
-<img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_14-546x361.jpg" alt="atomicbombdome_131004_14" width="546" height="361" class="alignnone size-large wp-image-9765" /></p>
+<p><img src="/wp-content/uploads/atomicbombdome_131004_04-546x361.jpg" alt="atomicbombdome_131004_04" width="546" height="361" class="alignnone size-large wp-image-9771" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_05-546x361.jpg" alt="atomicbombdome_131004_05" width="546" height="361" class="alignnone size-large wp-image-9768" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_06-546x361.jpg" alt="atomicbombdome_131004_06" width="546" height="361" class="alignnone size-large wp-image-9766" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_07-546x361.jpg" alt="atomicbombdome_131004_07" width="546" height="361" class="alignnone size-large wp-image-9772" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_08-546x361.jpg" alt="atomicbombdome_131004_08" width="546" height="361" class="alignnone size-large wp-image-9762" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_09-546x361.jpg" alt="atomicbombdome_131004_09" width="546" height="361" class="alignnone size-large wp-image-9764" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_10-546x361.jpg" alt="atomicbombdome_131004_10" width="546" height="361" class="alignnone size-large wp-image-9769" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_11-546x361.jpg" alt="atomicbombdome_131004_11" width="546" height="361" class="alignnone size-large wp-image-9761" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_12-546x361.jpg" alt="atomicbombdome_131004_12" width="546" height="361" class="alignnone size-large wp-image-9773" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_13-546x361.jpg" alt="atomicbombdome_131004_13" width="546" height="361" class="alignnone size-large wp-image-9770" /><br />
+<img src="/wp-content/uploads/atomicbombdome_131004_14-546x361.jpg" alt="atomicbombdome_131004_14" width="546" height="361" class="alignnone size-large wp-image-9765" /></p>
 <h3>原爆ドームを前にして</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/atomicbombdome_131004_15-546x361.jpg" alt="atomicbombdome_131004_15" width="546" height="361" class="alignnone size-large wp-image-9759" /><br />
+<p><img src="/wp-content/uploads/atomicbombdome_131004_15-546x361.jpg" alt="atomicbombdome_131004_15" width="546" height="361" class="alignnone size-large wp-image-9759" /><br />
 原爆ドーム周辺には川が流れ、路面電車が走る。<br />
 1945年8月6日この町に原爆が投下された。<br />
 それから68年。この悲惨な事実を僕たちは忙しい日常生活に追われ忘れてしまいがちだ。<br />

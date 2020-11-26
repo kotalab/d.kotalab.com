@@ -21,7 +21,7 @@ tags:
 - 住信SBIネット銀行
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/bank_130425-448x336.jpg" alt="bank_130425" width="448" height="336" class="alignnone size-large wp-image-6915" /><br />
+<p><img src="/wp-content/uploads/bank_130425-448x336.jpg" alt="bank_130425" width="448" height="336" class="alignnone size-large wp-image-6915" /><br />
 メインバンクとして住信SBIネット銀行を5年以上使っています。こたら（@kotala_b）です。<br />
 メインバンクとして使う大きな理由あるからです。<br />
 </p>
@@ -35,7 +35,7 @@ comments: []
 住信SBIネット銀行を使えばその分の金額が無料となるわけです。</strong><br />
 1万円前後のお金が振込手数料に消えていると考えたら勿体なさすぎます。</p>
 <h2>セブン銀行のATMが手数料無料で使える</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/sbibank_130624-448x201.jpg" alt="sbibank_130624" width="448" height="201" class="alignnone size-large wp-image-7658" /><br />
+<p><img src="/wp-content/uploads/sbibank_130624-448x201.jpg" alt="sbibank_130624" width="448" height="201" class="alignnone size-large wp-image-7658" /><br />
 窓口のないネット銀行なので現金の出し入れにはATMを利用するしかありません。<br />
 ATMの中でもセブンイレブンやイトーヨーカドーに置いてある、セブン銀行のATMを利用する場合手数料無料で出し入れが可能です。<br />
 都市銀行では早朝や18時以降、土日祝日にATMを利用すると時間外利用手数料がかかってしまいます。<br />
@@ -54,4 +54,4 @@ ATMの中でもセブンイレブンやイトーヨーカドーに置いてあ�
 ゾッとするような金額が出たら住信SBIネット銀行をおすすめします。<br />
 <a href="http://ad2.trafficgate.net/mt/s/1/4478/193863_317871/">住信SBIネット銀行の口座開設はこちら</A></p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/bank-account" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/bank_130425-448x336.jpg" alt="銀行口座の使い分け！用途ごとに分けて自分でわかりやすくする！ | kotala's note" width="150" /></a><a href="https://kotalab.com/bank-account" target="_blank">銀行口座の使い分け！用途ごとに分けて自分でわかりやすくする！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/bank-account" target="_blank"><img  class="alignleft" src="/wp-content/uploads/bank_130425-448x336.jpg" alt="銀行口座の使い分け！用途ごとに分けて自分でわかりやすくする！ | kotala's note" width="150" /></a><a href="/bank-account" target="_blank">銀行口座の使い分け！用途ごとに分けて自分でわかりやすくする！ | kotala's note</a><br style="clear:both;" /></p>

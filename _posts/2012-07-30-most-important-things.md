@@ -19,7 +19,7 @@ category:
 tags: []
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/mission_120730.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/mission_120730.jpg" alt="" title="mission_120730" width="448" height="336" class="alignnone size-full wp-image-1728" /></a><br />
+<p><a href="/wp-content/uploads/mission_120730.jpg" target="_blank"><img src="/wp-content/uploads/mission_120730.jpg" alt="" title="mission_120730" width="448" height="336" class="alignnone size-full wp-image-1728" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/ezakicoo/1178383190/" target="_blank">20070604_155730_P6040259</a> / くーさん</span><br />
 オリンピックを見ながら寝落ちしてました。@kotala_bです。<br />
 オリンピック選手を見るとこの日の為に大変な思いをして頑張ってたんだろうなとふと考えることがありました。<br />
@@ -62,6 +62,6 @@ comments: []
 <section id="rele">
 <h2>関連記事</h2>
 <p>こちらの記事もいかがですか？<br />
-<a href="https://kotalab.com/books-how-rich-people-think" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/738" alt="https://kotalab.com/archives/738" width="150" height="130" align="left" /></a><a href="https://kotalab.com/books-how-rich-people-think" target="_blank">金持ちになるための3つの考え方 | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/20gene-to-do" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/603" alt="https://kotalab.com/archives/603" width="150" height="130" align="left" /></a><a href="https://kotalab.com/20gene-to-do" target="_blank">上司に認められるようになる為にすること | kotala's note</a><br style="clear:both;" /><br />
+<a href="/books-how-rich-people-think" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/738" alt="https://kotalab.com/archives/738" width="150" height="130" align="left" /></a><a href="/books-how-rich-people-think" target="_blank">金持ちになるための3つの考え方 | kotala's note</a><br style="clear:both;" /><br />
+<a href="/20gene-to-do" target="_blank"><img src="https://capture.heartrails.com/150x130?https://kotalab.com/archives/603" alt="https://kotalab.com/archives/603" width="150" height="130" align="left" /></a><a href="/20gene-to-do" target="_blank">上司に認められるようになる為にすること | kotala's note</a><br style="clear:both;" /><br />
 </section>

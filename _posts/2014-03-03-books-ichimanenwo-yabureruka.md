@@ -22,7 +22,7 @@ tags:
 - 苫米地英人
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20140303065646.jpg" width="548" height="411" class="slooProImg" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20140303065646.jpg" width="548" height="411" class="slooProImg" /><br />
 「君は1万円札を破れるか？」というタイトルはとても強烈だ。<br />
 本の内容は、僕たちが「お金」というモノにいかに洗脳されているのか、はっきりさせられるものとなっている。</p>
 <p>目の前の1万円札はただの紙切れだ。ただの紙切れには物質的な価値はほとんどない。<br />

@@ -23,7 +23,7 @@ tags:
 - 消費税
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/threeusesofmoney_131228-546x409.jpg" /><br />
+<p><img src="/wp-content/uploads/threeusesofmoney_131228-546x409.jpg" /><br />
 消費税も上がることだし、節約できるところは節約していきたいですよね。<br />
 生活費を節約するコツは予算を決めること。食費も日用品などを買うお金もガソリン代も全部予算を決める。<br />
 たったそれだけです。</p>

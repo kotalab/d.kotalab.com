@@ -21,7 +21,7 @@ tags:
 - やりたいこと
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="780" class="aligncenter wp-image-10753" /><br />
+<p><img src="/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="780" class="aligncenter wp-image-10753" /><br />
 何かやりたいことがあるとき、それを実行するなら朝一番でやるべきです。<br />
 毎日続けたい習慣なら尚更です。</p>
 <p>ブログを更新することの優先度をあげて、とにかく書こうと決めました。<br />

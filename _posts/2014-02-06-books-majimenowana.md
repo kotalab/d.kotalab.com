@@ -23,7 +23,7 @@ tags:
 - 勝間和代
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/books-majimenowana_140206-546x361.jpg" alt="books-majimenowana_140206" width="546" height="361" class="alignnone size-large wp-image-10787" /><br />
+<p><img src="/wp-content/uploads/books-majimenowana_140206-546x361.jpg" alt="books-majimenowana_140206" width="546" height="361" class="alignnone size-large wp-image-10787" /><br />
 日本では「まじめ」というのは褒め言葉になっている。<br />
 まじめな人は誠実で、言われたことはしっかりやる。<br />
 まじめな人はいつも一生懸命に物事をこなしていく。<br />

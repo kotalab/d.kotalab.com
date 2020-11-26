@@ -21,7 +21,7 @@ tags:
 - AnalyticsTiles
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/app-analytics-tiles_140403_01-546x307.jpg" alt="app-analytics-tiles_140403_01" width="546" height="307" class="alignnone size-large wp-image-11336" /><br />
+<p><img src="/wp-content/uploads/app-analytics-tiles_140403_01-546x307.jpg" alt="app-analytics-tiles_140403_01" width="546" height="307" class="alignnone size-large wp-image-11336" /><br />
 GoogleAnalyticsがiPhoneから見れるアプリ「AnalyticsTiles」</p>
 <p>先月の始めくらいからログインエラーが出てずっと使えませんでした。<br />
 いつの間にかAppStoreからも消えてたみたい。</p>
@@ -30,7 +30,7 @@ GoogleAnalyticsがiPhoneから見れるアプリ「AnalyticsTiles」</p>
 </p>
 <!--more-->
 <h2>AnalyticsTilesのアップデート内容</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/app-analytics-tiles_140403_02-546x435.jpg" alt="app-analytics-tiles_140403_02" width="546" height="435" class="alignnone size-large wp-image-11337" /><br />
+<p><img src="/wp-content/uploads/app-analytics-tiles_140403_02-546x435.jpg" alt="app-analytics-tiles_140403_02" width="546" height="435" class="alignnone size-large wp-image-11337" /><br />
 アップデート内容は「iOS7に対応、それに合わせてインターフェースも変えましたよ。バグも治したよ。」<br />
 みたいな感じです。</p>
 <blockquote><p>
@@ -46,13 +46,13 @@ Version 2.4 is an important update, please update to continue using Analytics Ti
 - Addressed floating point resolution for results that contain percents<br />
 via:<a href="http://www.analyticstilesapp.com/release" target="_blank">Nothing found for Release</a></p></blockquote>
 <h2>AnalyticsTilesが元に戻った！</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/app-analytics-tiles_140403_01-546x307.jpg" alt="app-analytics-tiles_140403_01" width="546" height="307" class="alignnone size-large wp-image-11336" /><br />
+<p><img src="/wp-content/uploads/app-analytics-tiles_140403_01-546x307.jpg" alt="app-analytics-tiles_140403_01" width="546" height="307" class="alignnone size-large wp-image-11336" /><br />
 アプリを起動してGoogleログインを済ませると今までの画面が見えました！</p>
 <p>最初はグラフに何も表示されてなくて「あれ？」って思ったんですけど、設定をしたら元に戻りました！</p>
 <p>右上の歯車から「Organize Websites」を開いてブログ名を選択するだけです！<br />
-<img src="https://kotalab.com/wp-content/uploads/app-analytics-tiles_140403_03-546x307.jpg" alt="app-analytics-tiles_140403_03" width="546" height="307" class="alignnone size-large wp-image-11338" /></p>
+<img src="/wp-content/uploads/app-analytics-tiles_140403_03-546x307.jpg" alt="app-analytics-tiles_140403_03" width="546" height="307" class="alignnone size-large wp-image-11338" /></p>
 <p><del datetime="2014-04-03T10:45:15+00:00">AppStoreで探してみたらまだ（4月3日午前5時現在）見つからなかったので再ダウンロードする場合はこちらを参考にどうぞ！</del><br />
-<a href="https://kotalab.com/back-analytics-tiles" title="AnalyticsTilesがAppStoreに戻ってきた！しかも無料で！！">家に帰ってくる頃には無事公開されてました！</a></p>
+<a href="/back-analytics-tiles" title="AnalyticsTilesがAppStoreに戻ってきた！しかも無料で！！">家に帰ってくる頃には無事公開されてました！</a></p>
 <h3>なくなってわかる大切さ</h3>
 <p>なんとなくで使ってたんですけど、なくなってみるとわかるあなたの大切さ。<br />
 大切なものってなくなってみないとわかんないものですね。</p>

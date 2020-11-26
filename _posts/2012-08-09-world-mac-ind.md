@@ -22,14 +22,14 @@ tags:
 - ゴールドマサラ
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" target="_blank"><img src="https://kotalab.com/wp-content/uploads/legrand_120718_02.jpg" alt="" title="legrand_120718_02" width="448" height="336" class="alignnone size-full wp-image-1539" /></a><br />
+<p><a href="/wp-content/uploads/legrand_120718_02.jpg" target="_blank"><img src="/wp-content/uploads/legrand_120718_02.jpg" alt="" title="legrand_120718_02" width="448" height="336" class="alignnone size-full wp-image-1539" /></a><br />
 <span style="font-size:10px;"><a href="http://www.igosso.net/flk/6914750483.html" target="_blank">Enseigne McDonald&rsquo;s</a> / zigazou76</span><br />
 ルグランはソーセージを食べました。@kotala_bです。<br />
 明日からいよいよ「<strong>世界の★★★マック</strong>」第2弾のゴールドマサラがスタートします！<br />
 </p>
 <!--more-->
 <h2>第2弾はインド！</h2>
-<p><a href="https://kotalab.com/wp-content/uploads/goldmasara_120809.jpg"><img src="https://kotalab.com/wp-content/uploads/goldmasara_120809.jpg" alt="" title="goldmasara_120809" width="448" height="495" class="alignnone size-full wp-image-2019" /></a><br />
+<p><a href="/wp-content/uploads/goldmasara_120809.jpg"><img src="/wp-content/uploads/goldmasara_120809.jpg" alt="" title="goldmasara_120809" width="448" height="495" class="alignnone size-full wp-image-2019" /></a><br />
 フランス・インド・オーストラリアと続く「<strong>世界の★★★マック</strong>」の第2弾、インドの<strong>ホットゴールドマサラ</strong>と<strong>マイルドゴールドマサラ</strong>がいよいよ明日、8月10日からスタートします！<br />
 インドと言えばカレー！<br />
 ゴールドマサラはカレーソースが入ったまさにインドのハンバーガーです！<br />

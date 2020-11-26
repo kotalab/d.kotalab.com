@@ -21,7 +21,7 @@ tags:
 - 意識
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/07/change-the-non-consciousness_20150722.jpg" alt="Change the non consciousness 20150722" width="780" height ="520" class="aligncenter size-large" /></p>
+<p><img src="/wp-content/uploads/2015/07/change-the-non-consciousness_20150722.jpg" alt="Change the non consciousness 20150722" width="780" height ="520" class="aligncenter size-large" /></p>
 <p>やめたいと思ってもやめられないこと。</p>
 <p>続けたいと思っても続けられないこと。</p>
 <p>この2つの違いはなんだろう？</p>
@@ -57,5 +57,5 @@ comments: []
 火曜<br />
 ・豊洲のタリーズ<br />
 ・イカステーキ</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

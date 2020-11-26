@@ -22,7 +22,7 @@ tags:
 - 健康保険
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/money_130719-448x336.jpg" alt="money_130719" width="448" height="336" class="alignnone size-large wp-image-7885" /><br />
+<p><img src="/wp-content/uploads/money_130719-448x336.jpg" alt="money_130719" width="448" height="336" class="alignnone size-large wp-image-7885" /><br />
 新米ファイナンシャルプランナー。こたら（@kotala_b）です。<br />
 ファイナンシャルプランナーとして勉強してた「これは知らないと損だな」と思ったことをこのブログを通してシェアしていきたいと思います。<br />
 今回は「高額療養費」について書いていきます。<br />

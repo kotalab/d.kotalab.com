@@ -22,20 +22,20 @@ tags:
 - 香味徳
 comments: []
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121026183926.jpg" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20121026183926.jpg" width="448" height="336" /><br />
 初めて牛骨スープを食べました。@kotala_bです。<br />
 東京ラーメンショーで食べた2杯目のラーメンで牛骨スープを食べました！<br />
 </p>
 <!--more-->
 <p>▼チャーシューのせをたのみました！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121026183925.jpg" width="448" height="448" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121026183925.jpg" width="448" height="448" /><br />
 ▼ブラックペッパーが効いて香ばしい風味のチャーシュー<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121026183923.jpg" width="448" height="597" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121026183923.jpg" width="448" height="597" /><br />
 ▼麺は細麺でした！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121026183921.jpg" width="448" height="597" /><br />
+<img alt="" src="/wp-content/uploads/slooProImg_20121026183921.jpg" width="448" height="597" /><br />
 初めての牛骨スープはあっさりしていておいしかったです！<br />
 ごちそうさまでした！<br />
-<img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20121026183919.jpg" width="448" height="336" /></p>
+<img alt="" src="/wp-content/uploads/slooProImg_20121026183919.jpg" width="448" height="336" /></p>
 <hr>
 <p>このアプリを使って更新しました！</p>
 <div class="applink">

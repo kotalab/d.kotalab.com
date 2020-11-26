@@ -30,7 +30,7 @@ comments:
   date_gmt: '2013-04-18 10:00:55 +0900'
   content: "[...]  [...]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/airlib_130417-448x448.png" alt="airlib_130417" width="448" height="448" class="alignnone size-large wp-image-6856" /><br />
+<p><img src="/wp-content/uploads/airlib_130417-448x448.png" alt="airlib_130417" width="448" height="448" class="alignnone size-large wp-image-6856" /><br />
 iPhone5で撮った写真はiPhoto経由でMacから見ています。@kotala_bです。<br />
 逆にMacで撮ったスクリーンショットをiPhoneで見るのはちょっと大変でした。<br />
 僕はiPhoneアプリでよく画像編集をしていて、自分で用意した画像にコピーライト表示をつけてからこのブログにアップしています。<br />
@@ -52,7 +52,7 @@ iPhone5で撮った写真はiPhoto経由でMacから見ています。@kotala_b�
 <a href="http://feedtailor.jp/wp/?p=11580" target="_blank"><img  class="alignleft" src="https://capture.heartrails.com/150x130?http://feedtailor.jp/wp/?p=11580" alt="新作！iPhoneのカメラロールをブラウザからアクセス出来るようにするアプリ「AirLib」を公開します | 関西/大阪のiPhone・iPadアプリ開発 feedtailor Inc. 社長ブログ" width="150" height="130" /></a><a href="http://feedtailor.jp/wp/?p=11580" target="_blank">新作！iPhoneのカメラロールをブラウザからアクセス出来るようにするアプリ「AirLib」を公開します | 関西/大阪のiPhone・iPadアプリ開発 feedtailor Inc. 社長ブログ</a><a href="https://b.hatena.ne.jp/entry/http://feedtailor.jp/wp/?p=11580" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://feedtailor.jp/wp/?p=11580" alt="" /></a><br style="clear:both;" />開発者さんのページなので使い方が詳しく載っています！</p>
 <h2>WiFi回線内で画像を共有するAirLib</h2>
 <p>▼同一WiFi回線内であればカメラロールの共有が出来るということなので早速試してみました。<br />
-<img src="https://kotalab.com/wp-content/uploads/airlib_130417_01-448x262.jpg" alt="airlib_130417_01" width="448" height="262" class="alignnone size-large wp-image-6852" /><br />
+<img src="/wp-content/uploads/airlib_130417_01-448x262.jpg" alt="airlib_130417_01" width="448" height="262" class="alignnone size-large wp-image-6852" /><br />
 簡単に出来た！<br />
 MacにはiPhotoがあるのでこの機能は驚くようなことじゃないんですが、WindowsでもAndroidでも使えるというのがスゴイ！</p>
 <blockquote><p> もちろんブラウザであれば何でもokですので、Androidでもokですね<br />
@@ -60,11 +60,11 @@ by開発者さん</p></blockquote>
 <p>僕がやりたかったのはiPhoneのカメラロールを見るんじゃなくて、iPhoneのカメラロールに送る機能！</p>
 <h2>iPhoneのカメラロールにPCのスクリーンショットを送る方法</h2>
 <p>▼AirLibの設定からアップロードをオンにします！<br />
-<img src="https://kotalab.com/wp-content/uploads/airlib_130417_02-300x513.jpg" alt="airlib_130417_02" width="300" height="513" class="alignnone size-medium wp-image-6853" /><br />
+<img src="/wp-content/uploads/airlib_130417_02-300x513.jpg" alt="airlib_130417_02" width="300" height="513" class="alignnone size-medium wp-image-6853" /><br />
 ▼AirLibをMacで開き、アップロードタブにスクリーンショットをドラッグするだけ！<br />
-<img src="https://kotalab.com/wp-content/uploads/airlib_130417_03-448x260.jpg" alt="airlib_130417_03" width="448" height="260" class="alignnone size-large wp-image-6854" /><br />
+<img src="/wp-content/uploads/airlib_130417_03-448x260.jpg" alt="airlib_130417_03" width="448" height="260" class="alignnone size-large wp-image-6854" /><br />
 ▼すぐにiPhoneのカメラロールに保存されました！<br />
-<img src="https://kotalab.com/wp-content/uploads/airlib_130417_04-300x513.jpg" alt="airlib_130417_04" width="300" height="513" class="alignnone size-medium wp-image-6855" /><br />
+<img src="/wp-content/uploads/airlib_130417_04-300x513.jpg" alt="airlib_130417_04" width="300" height="513" class="alignnone size-medium wp-image-6855" /><br />
 これは便利！</p>
 <h2>最後に</h2>
 <p>iPhoneとPCの連携が便利になるアプリのご紹介でした！<br />
@@ -80,5 +80,5 @@ by開発者さん</p></blockquote>
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/draftpad-reason" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/draftpad_130416-448x448.png" alt="イチオシのメモアプリ！僕がDraftPadを愛用する理由！ | kotala's note" width="150" /></a><a href="https://kotalab.com/draftpad-reason" target="_blank">イチオシのメモアプリ！僕がDraftPadを愛用する理由！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/iphone-home-201304" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/home_130403-448x246.jpg" alt="iPhone5のホーム画面 2013年4月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone-home-201304" target="_blank">iPhone5のホーム画面 2013年4月版 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/draftpad-reason" target="_blank"><img  class="alignleft" src="/wp-content/uploads/draftpad_130416-448x448.png" alt="イチオシのメモアプリ！僕がDraftPadを愛用する理由！ | kotala's note" width="150" /></a><a href="/draftpad-reason" target="_blank">イチオシのメモアプリ！僕がDraftPadを愛用する理由！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/iphone-home-201304" target="_blank"><img  class="alignleft" src="/wp-content/uploads/home_130403-448x246.jpg" alt="iPhone5のホーム画面 2013年4月版 | kotala's note" width="150" /></a><a href="/iphone-home-201304" target="_blank">iPhone5のホーム画面 2013年4月版 | kotala's note</a><br style="clear:both;" /></p>

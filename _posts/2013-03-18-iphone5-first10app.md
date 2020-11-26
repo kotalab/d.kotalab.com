@@ -22,10 +22,10 @@ tags:
 - iphone 5
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5app_130318" width="448" height="250" class="alignnone size-large wp-image-6537" /><br />
+<p><img src="/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5app_130318" width="448" height="250" class="alignnone size-large wp-image-6537" /><br />
 iPhone使用歴8ヶ月です。@kotala_bです。<br />
 僕が最初に買ったiPhone4Sは一括0円でした。<br />
-<a href="https://kotalab.com/iphone4s32gb-0yen" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/mnp_20120712_06.jpg" alt="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone4s32gb-0yen" target="_blank">念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note</a><br style="clear:both;" />決算期ということで今はiPhone5がお買い得に買えるお店も出てきてます。<br />
+<a href="/iphone4s32gb-0yen" target="_blank"><img  class="alignleft" src="/wp-content/uploads/mnp_20120712_06.jpg" alt="念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note" width="150" /></a><a href="/iphone4s32gb-0yen" target="_blank">念願のiPhone購入！思いがけない展開でiPhone4S32GBが一括0円になった！ | kotala's note</a><br style="clear:both;" />決算期ということで今はiPhone5がお買い得に買えるお店も出てきてます。<br />
 この週末にiPhone5を手に入れた方も多いんじゃないでしょうか。<br />
 そんな方の為にiPhone5を買ったら真っ先に入れたいアプリを10個ご紹介します！<br />
 </p>
@@ -86,7 +86,7 @@ AndroidやPCで使っていた方でも使いやすいのがこのGoogle純正�
 </div>
 <p>しつこさがウリのリマインダーアプリ！<br />
 デフォルトアプリにはない細かな設定が気に入ってます！<br />
-<a href="https://kotalab.com/due-urlscheme" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note" width="150" /></a><a href="https://kotalab.com/due-urlscheme" target="_blank">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note</a><br style="clear:both;" />URLスキームをリマインダーにセットして他のアプリとの連携もばっちり！</p>
+<a href="/due-urlscheme" target="_blank"><img  class="alignleft" src="/wp-content/uploads/due_120912.jpg" alt="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note" width="150" /></a><a href="/due-urlscheme" target="_blank">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note</a><br style="clear:both;" />URLスキームをリマインダーにセットして他のアプリとの連携もばっちり！</p>
 <h2>OneCam</h2>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/onecam-mana-lian-xie-furikkude/id422845617?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://a1001.phobos.apple.com/us/r1000/019/Purple6/v4/78/8a/4d/788a4dd0-2b71-2b03-1dd7-34c2ebf875e9/OneCam.png" width="80" /></a></div>
@@ -185,8 +185,8 @@ AndroidやPCで使っていた方でも使いやすいのがこのGoogle純正�
 <p>iPhone5を買ったら真っ先に入れたいアプリを10個ご紹介しました。<br />
 他にも沢山入れたいアプリはありますが、1度に入れすぎても何がなんだかわからなくなってしまいます。<br />
 まずはこの10個のアプリを入れてみてください！<br />
-<a href="https://kotalab.com/ipad-app30" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="https://kotalab.com/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both" />iPadを買ったら入れたいアプリも以前書きました。</p>
+<a href="/ipad-app30" target="_blank"><img  class="alignleft" src="/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note" width="150" /></a><a href="/ipad-app30" target="_blank">iPadやiPadminiを買ったら真っ先に入れておきたいアプリ30！2013年2月版 | kotala's note</a><br style="clear:both" />iPadを買ったら入れたいアプリも以前書きました。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/mnp-march" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iphoneandroid_120720.jpg" alt="MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note" width="150" /></a><a href="https://kotalab.com/mnp-march" target="_blank">MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/from-iphone-to-iphone" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/iphone_120911.jpg" alt="iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note" width="150" /></a><a href="https://kotalab.com/from-iphone-to-iphone" target="_blank">iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/mnp-todobetter" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/mnp_20120712_06.jpg" alt="MNPの前後でやったこと、やっておいた方がいいこと | kotala's note" width="150" /></a><a href="https://kotalab.com/mnp-todobetter" target="_blank">MNPの前後でやったこと、やっておいた方がいいこと | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/mnp-march" target="_blank"><img  class="alignleft" src="/wp-content/uploads/iphoneandroid_120720.jpg" alt="MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note" width="150" /></a><a href="/mnp-march" target="_blank">MNPするなら3月がチャンス！iPhone5が一括0円なら毎月3円で維持することも可能！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/from-iphone-to-iphone" target="_blank"><img  class="alignleft" src="/wp-content/uploads/iphone_120911.jpg" alt="iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note" width="150" /></a><a href="/from-iphone-to-iphone" target="_blank">iPhone5を買ったらすぐ使えるようにしよう！iPhoneから別のiPhoneへデータを移行する方法！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/mnp-todobetter" target="_blank"><img  class="alignleft" src="/wp-content/uploads/mnp_20120712_06.jpg" alt="MNPの前後でやったこと、やっておいた方がいいこと | kotala's note" width="150" /></a><a href="/mnp-todobetter" target="_blank">MNPの前後でやったこと、やっておいた方がいいこと | kotala's note</a><br style="clear:both;" /></p>

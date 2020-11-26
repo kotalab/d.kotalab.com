@@ -24,7 +24,7 @@ tags:
 - きっぷ
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/ic-ticket-price_140514_01.jpg" alt="Ic ticket price 140514 01" title="ic-ticket-price_140514_01.JPG" border="0" width="548" height="411" /><br />
+<p><img src="/wp-content/uploads/ic-ticket-price_140514_01.jpg" alt="Ic ticket price 140514 01" title="ic-ticket-price_140514_01.JPG" border="0" width="548" height="411" /><br />
 消費税増税から1ヶ月半が経ちました。あなたはもう8%には慣れましたか？<br><br />
 僕はようやく、表示価格からさらに8%支払うことに慣れてきました。</p>
 <p>そういえば消費税と一緒に電車賃も値上がって、ICカードでは1円単位の料金になりましたね。<br />
@@ -37,13 +37,13 @@ ICカードの料金がもとになって、きっぷ料金が決まるように
 <h2>おかしな電車料金</h2>
 <p>まずはこちらをご覧ください。<br />
 千葉駅から西千葉駅と東千葉駅に行った場合のICカードでの料金です。<br />
-<img src="https://kotalab.com/wp-content/uploads/ic-ticket-price_140514_02.jpg" alt="Ic ticket price 140514 02" title="ic-ticket-price_140514_02.JPG" border="0" width="548" height="437" /><br />
+<img src="/wp-content/uploads/ic-ticket-price_140514_02.jpg" alt="Ic ticket price 140514 02" title="ic-ticket-price_140514_02.JPG" border="0" width="548" height="437" /><br />
 次にこちらをご覧ください。<br />
 今度は同じ区間をきっぷで乗った時の料金です。<br />
-<img src="https://kotalab.com/wp-content/uploads/ic-ticket-price_140514_03.jpg" alt="Ic ticket price 140514 03" title="ic-ticket-price_140514_03.JPG" border="0" width="548" height="436" /><br />
+<img src="/wp-content/uploads/ic-ticket-price_140514_03.jpg" alt="Ic ticket price 140514 03" title="ic-ticket-price_140514_03.JPG" border="0" width="548" height="436" /><br />
 JRの総武線と総武本線という違いはありますが、どちらも千葉駅から1つ隣の駅です。</p>
 <h2>おかしな料金の仕組み</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/trainfareriseinprice_131221-546x356.png" alt="trainfareriseinprice_131221" width="546" height="356" class="alignnone size-large wp-image-10324" /><br />
+<p><img src="/wp-content/uploads/trainfareriseinprice_131221-546x356.png" alt="trainfareriseinprice_131221" width="546" height="356" class="alignnone size-large wp-image-10324" /><br />
 via:<a href="http://www.jreast.co.jp/press/2013/20131209.pdf" target="_blank">JR東日本</a><br />
 ICカードだと11円の差額があるのに、きっぷだと同じ料金です。<br />
 このおかしな料金の仕組みはJR東日本が定める、電車特定区間と幹線という2つのエリアの違いによるものなのです。</p>

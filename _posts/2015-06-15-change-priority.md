@@ -18,7 +18,7 @@ tags:
 - やりたいこと
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/macbook-pro-retina_20150526-780x520.jpg" alt="macbook-pro-retina_20150526.jpg" width="780" height="520" class="aligncenter size-large wp-image-14451" /></p>
+<p><img src="/wp-content/uploads/2015/05/macbook-pro-retina_20150526-780x520.jpg" alt="macbook-pro-retina_20150526.jpg" width="780" height="520" class="aligncenter size-large wp-image-14451" /></p>
 <p>新しいことを始めても続けられないのは、優先順位が低いからです。</p>
 <p>優先順位が低いことは後回しにされ、時間が余ったらやろうとする。<br />
 結局、時間は余らないのでできないのです。</p>
@@ -58,5 +58,5 @@ comments: []
 日曜<br />
 ・タリーズのグレープフルーツセパレートティー<br />
 ・エアフォースワンを洗う</p>
-<p><a href="https://kotalab.com/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
+<p><a href="/lets-start-1day1new" title="昨日の新しい体験とは？">昨日の新しい体験とは？</a></p>
 <div class="clear"></div>

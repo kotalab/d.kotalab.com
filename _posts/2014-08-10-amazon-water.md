@@ -21,7 +21,7 @@ tags:
 - ミネラルウォーター
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/amazon-water_140810_01.jpg" alt="Amazon water 140810 01" title="amazon-water_140810_01.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/amazon-water_140810_01.jpg" alt="Amazon water 140810 01" title="amazon-water_140810_01.jpg" border="0" width="548" height="365" /><br />
 小さい頃は何も気にせず水道水を飲んでいましたが、マンションに住むようになってからはミネラルウォーターばっか飲んでいます。<br />
 1本ずつ買うのもめんどくさいし、箱買いしても運ぶのが大変なので買うのはいつもAmazon。</p>
 <p>最近はミネラルウォーターを頼むと配送料がかかるようになっているのですが、20キロ以上のミネラルウォーターをお店から家まで運ぶことを考えたら安いものです。<br />
@@ -30,13 +30,13 @@ Amazonプライム会員なら配送料もかかりませんしね。</p>
 </p>
 <!--more-->
 <h2>Amazon限定「TABLE WATER」</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/amazon-water_140810_03.jpg" alt="Amazon water 140810 03" title="amazon-water_140810_03.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/amazon-water_140810_03.jpg" alt="Amazon water 140810 03" title="amazon-water_140810_03.jpg" border="0" width="548" height="365" /><br />
 初めて見るTABLEWATERのパッケージ。</p>
-<p><img src="https://kotalab.com/wp-content/uploads/amazon-water_140810_02.jpg" alt="Amazon water 140810 02" title="amazon-water_140810_02.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/amazon-water_140810_02.jpg" alt="Amazon water 140810 02" title="amazon-water_140810_02.jpg" border="0" width="548" height="365" /><br />
 ミネラルウォーターのパッケージは緑に濃い青。<br />
 なかなか見慣れないパッケージです。</p>
 <h3>リーズナブルなミネラルウォーター</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/amazon-water_140810_04.jpg" alt="Amazon water 140810 04" title="amazon-water_140810_04.jpg" border="0" width="548" height="365" /><br />
+<p><img src="/wp-content/uploads/amazon-water_140810_04.jpg" alt="Amazon water 140810 04" title="amazon-water_140810_04.jpg" border="0" width="548" height="365" /><br />
 他のミネラルウォーターよりも安くて、2リットルが12本入って1000円以下とリーズナブル。</p>
 <p>僕の場合、ミネラルウォーターに特別こだわりがあるわけじゃないのでこれで十分でした。</p>
 <h4 class="aam">Amazonのオススメ！</h4>

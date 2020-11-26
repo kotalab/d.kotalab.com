@@ -25,7 +25,7 @@ tags:
 - 格安SIM
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/mobile-packet-cost-up_140704.jpg" alt="mobile-packet-cost-up_140704" width="748" class="aligncenter size-full wp-image-13311" /><br />
+<p><img src="/wp-content/uploads/mobile-packet-cost-up_140704.jpg" alt="mobile-packet-cost-up_140704" width="748" class="aligncenter size-full wp-image-13311" /><br />
 ドコモ回線を使っているOCNモバイルONE、IIJmio、b-mobile、BIGLOBEというMVNO4社の通信速度がMMD研究所の発表で明らかになりました。</p>
 <p>この発表の通信速度があまりにも差があったので、本当にそうなのかな？という疑問があります。<br />
 そこで他に速度を測っている人の測定結果も参考にしつつ、各社の通信速度と料金をまとめてみました。</p>
@@ -84,7 +84,7 @@ via:<a href="https://mmdlabo.jp/investigation/detail_1394.html" target="_blank">
 <p>MMD研究所のような通信速度が出ていることもありますが、1Mbps〜3Mbpsという場合も。</p>
 <p>場所や時間帯といった計測条件が違うと速度の差が出ているので「いつ・どこでも安定して速い」というわけじゃないんですね。</p>
 <h2>格安SIMの毎月の利用料</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/02/mvno-quarity-price_20150203-780x323.png" alt="mvno-quarity-price_20150203" width="780" height="323" class="aligncenter size-large wp-image-13916" /><br />
+<p><img src="/wp-content/uploads/2015/02/mvno-quarity-price_20150203-780x323.png" alt="mvno-quarity-price_20150203" width="780" height="323" class="aligncenter size-large wp-image-13916" /><br />
 MMD研究所の調査対象の4社の格安SIMの料金比較をしてみました。</p>
 <p>OCNモバイルONEとIIJmioの格安SIMは安くても<span class="b">1ヶ月1GB当たり400円台</span>から。<br />
 ※OCNの月7GBプランは1GB当たり200円台ですが、通信速度の上限が500kbps。</p>

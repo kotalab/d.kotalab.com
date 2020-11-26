@@ -106,7 +106,7 @@ comments:
   content: "[&#8230;] ◆kotala&#8217;s note ・[wordpress][Stinger2]画面最上部に固定されたメニューバーの作り方
     [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/menubar_130817_01-448x243.jpg" alt="menubar_130817_01" width="448" height="243" class="alignnone size-large wp-image-8074" /><br />
+<p><img src="/wp-content/uploads/menubar_130817_01-448x243.jpg" alt="menubar_130817_01" width="448" height="243" class="alignnone size-large wp-image-8074" /><br />
 テーマをStinger2に変えて1週間が経ちました。こたら（@kotala_b）です。<br />
 テーマの変更と同時に今までやろうと思っていてなかなか手がつけられていなかった部分のカスタマイズも同時に行いました。<br />
 そのうちのひとつが画面最上部に設置した、スクロールしてもついてくるメニューバーです。<br />
@@ -124,7 +124,7 @@ comments:
 </ol>
 <p>という順番で行いました。</p>
 <h3>1.Webフォントをダウンロードし実装する</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/menubar_130817_02.jpg" alt="menubar_130817_02" width="290" height="39" class="alignnone size-full wp-image-8072" /><br />
+<p><img src="/wp-content/uploads/menubar_130817_02.jpg" alt="menubar_130817_02" width="290" height="39" class="alignnone size-full wp-image-8072" /><br />
 アイコンとして使えるWebフォントはこちらで紹介されていました。<br />
 <a href="http://m.designbits.jp/13050114/" target="_blank">使いたいアイコンフォントを選んでWebフォントをカスタマイズ作成できるサービスいろいろ | memobits</a><br />
 僕が使っているアイコンは「<a href="http://icomoon.io/app/" target="_blank">IcoMoon App - Icon Font Generator</a>」から選びました。<br />
@@ -132,7 +132,7 @@ IcoMoonの導入方法はこちらを参考に。<br />
 <a href="http://liginc.co.jp/designer/archives/10334" target="_blank">Retinaでもボケない「シンボルアイコン」を使いこなそう！ | 株式会社LIG</a><br />
 Icomoonからダウンロードしたファイルの中にあるCSSファイルの名前を変更し、CSSファイルごとサーバーへアップロードしました。</p>
 <h3>2.Webフォントを使ってソーシャルアイコンを並べる</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/menubar_130817_02.jpg" alt="menubar_130817_02" width="290" height="39" class="alignnone size-full wp-image-8072" /><br />
+<p><img src="/wp-content/uploads/menubar_130817_02.jpg" alt="menubar_130817_02" width="290" height="39" class="alignnone size-full wp-image-8072" /><br />
 左側のソーシャルアイコンをWebフォントで並べていきます。<br />
 ソーシャルアイコンをWebフォントで表示する方法はこちらを参考にしました。<br />
 <a href="http://weboook.blog22.fc2.com/blog-entry-336.html" target="_blank">ソーシャルアイコンをWebフォントで表示する方法を色々ご紹介｜Webpark</a><br />
@@ -140,7 +140,7 @@ Icomoonからダウンロードしたファイルの中にあるCSSファイル�
 Feedlyアイコンの利用方法はこちら。<br />
 <a href="http://hitoxu.com/02577" target="_blank">最近人気の feedly の登録アイコンを設置してみた | ひとぅブログ</a></p>
 <h3>3.Googleアドセンスの検索ボックスを導入する</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/menubar_130817_03.jpg" alt="menubar_130817_03" width="361" height="33" class="alignnone size-full wp-image-8073" /><br />
+<p><img src="/wp-content/uploads/menubar_130817_03.jpg" alt="menubar_130817_03" width="361" height="33" class="alignnone size-full wp-image-8073" /><br />
 Stinger2には検索ボックスが用意されていますが、僕はGoogleアドセンスで用意されている検索ボックスを使ってみることにしました。<br />
 検索向けAdSenseは公式のヘルプを見ながらコードを作成し貼付けました。<br />
 <a href="https://support.google.com/adsense/answer/9879" target="_blank">検索向け AdSense - AdSense ヘルプ</a></p>
@@ -149,7 +149,7 @@ Stinger2には検索ボックスが用意されていますが、僕はGoogleア
 positionプロパティについてはこちらを参考にしました。<br />
 <a href="http://www.css-lecture.com/log/css/037.html" target="_blank">CSS : positionの「absolute」「relative」「fixed」のリファレンス | CSS Lecture</a></p>
 <h2>画面最上部に固定されたメニューバーのコード</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/menubar_130817_05-448x243.jpg" alt="menubar_130817_05" width="448" height="243" class="alignnone size-large wp-image-8071" /><br />
+<p><img src="/wp-content/uploads/menubar_130817_05-448x243.jpg" alt="menubar_130817_05" width="448" height="243" class="alignnone size-large wp-image-8071" /><br />
 この4ステップで完成したコードがこちら<br />
 [php]<br />
 <!--固定メニューバー--></p>
@@ -160,9 +160,9 @@ positionプロパティについてはこちらを参考にしました。<br />
 <li><a href="https://kotalab.com" class="iconh"></a></li>
 <li><a href="https://twitter.com/kotala_b" class="icont" target="_blank"></a></li>
 <li><a href="https://www.facebook.com/kotalab" class="iconf" target="_blank"></a></li>
-<li><a href="https://kotalab.com/feed" class="iconr" target="_blank"></a></li>
+<li><a href="/feed" class="iconr" target="_blank"></a></li>
 <li style="margin-top: -10px;"><a href="http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fkotalab.com%2Ffeed%2F" target="_blank"><img id="feedlyFollow" src="http://s3.feedly.com/img/follows/feedly-follow-logo-black_2x.png" alt="follow us in feedly" width="28" height="28"></a></li>
-<li><a href="https://kotalab.com/sitemap" class="iconl"></a></li>
+<li><a href="/sitemap" class="iconl"></a></li>
 </ul></div>
 <p><!--googlesearch--></p>
 <div id="gsearch">

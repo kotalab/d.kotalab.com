@@ -28,7 +28,7 @@ comments:
   content: "[...] それでもあなたがブログを毎日更新すべき理由 （ via わかったブログ ） ◆ 300日以上毎日書き続けてわかった毎日ブログを書くためのコツ
     （ via kotala&#8217;s note ） ◆ [...]"
 ---
-<p><img alt="" src="https://kotalab.com/wp-content/uploads/slooProImg_20130402195317.jpg" width="448" height="336" /><br />
+<p><img alt="" src="/wp-content/uploads/slooProImg_20130402195317.jpg" width="448" height="336" /><br />
 ブログを毎日書いてます。@kotala_bです。<br />
 ブログを毎日書いてますと言うと「毎日書いてネタ切れしないの？」とか「どうやって書いてるの？」と聞かれるようになりました。<br />
 初めて聞かれたときに、その場でははっきりとした答えが見つからなかったので考えてみることにしました。<br />
@@ -42,7 +42,7 @@ comments:
 ネタがなければ探すことからスタートする時もあります。<br />
 <strong>気をつけていることは、とにかく朝一番に今日更新する内容に手を付けることです。</strong></p>
 <h2>空き時間はiPhoneで書く</h2>
-<p><a href="https://kotalab.com/blog-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/blogapp_130323-448x403.jpg" alt="僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note" width="150" /></a><a href="https://kotalab.com/blog-app" target="_blank">僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note</a><br style="clear:both;" />朝一で何か書いているので、とっかかりが出来ます。<br />
+<p><a href="/blog-app" target="_blank"><img  class="alignleft" src="/wp-content/uploads/blogapp_130323-448x403.jpg" alt="僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note" width="150" /></a><a href="/blog-app" target="_blank">僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note</a><br style="clear:both;" />朝一で何か書いているので、とっかかりが出来ます。<br />
 とっかかりを作っておくことで、通勤途中などのちょっとした空き時間でもブログを書くことがラクになります。<br />
 2、3分しかない時でも、iPhoneがあれば画像の編集やリンク作成が出来るのです。<br />
 画像やリンクを用意出来るのは、朝の時点で何かしら書いているから出来ることです。<br />
@@ -72,5 +72,5 @@ RSSやTwitter、Gunosyから気になったことを見つける他に、食べ�
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/blog-app" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/blogapp_130323-448x403.jpg" alt="僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note" width="150" /></a><a href="https://kotalab.com/blog-app" target="_blank">僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/the-order-of-priority" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="時間は作るもの！物事に優先順位をつけて行動しよう！ | kotala's note" width="150" /></a><a href="https://kotalab.com/the-order-of-priority" target="_blank">時間は作るもの！物事に優先順位をつけて行動しよう！ | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/blog-app" target="_blank"><img  class="alignleft" src="/wp-content/uploads/blogapp_130323-448x403.jpg" alt="僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note" width="150" /></a><a href="/blog-app" target="_blank">僕が毎日ブログを書き続ける為に使っているiPhoneアプリ達！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/the-order-of-priority" target="_blank"><img  class="alignleft" src="/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="時間は作るもの！物事に優先順位をつけて行動しよう！ | kotala's note" width="150" /></a><a href="/the-order-of-priority" target="_blank">時間は作るもの！物事に優先順位をつけて行動しよう！ | kotala's note</a><br style="clear:both;" /></p>

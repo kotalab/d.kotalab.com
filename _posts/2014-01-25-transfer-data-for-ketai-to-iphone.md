@@ -36,8 +36,8 @@ comments:
   date_gmt: '2014-01-26 22:15:21 +0900'
   content: "[&#8230;] ◆ ガラケーからもスマホからもできる！iPhoneへの電話帳移行方法https://kotalab.com [&#8230;]"
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="transfer-data-for-ketai-to-iphone_01" width="546" height="409" class="alignnone size-large wp-image-10657" /><br />
-<a href="https://kotalab.com/from-android-to-iphone-5s-iphone-5c" title="AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点">過去にAndroidからiPhoneへ電話帳を移行する方法</a>をご紹介しました。<br />
+<p><img src="/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="transfer-data-for-ketai-to-iphone_01" width="546" height="409" class="alignnone size-large wp-image-10657" /><br />
+<a href="/from-android-to-iphone-5s-iphone-5c" title="AndroidからiPhone 5s、iPhone 5cへデータを移行する方法と注意点">過去にAndroidからiPhoneへ電話帳を移行する方法</a>をご紹介しました。<br />
 今回はAndroidだけじゃなくガラケーからでも移行できる方法をご紹介したいと思います。</p>
 <h2>電話帳移行の手順は4ステップ！</h2>
 <p>電話帳移行を4つのステップに分けてご紹介していきます。</p>
@@ -49,7 +49,7 @@ comments:
 </ol>
 <p>では順番にご説明！</p>
 <h2>1.クラウドサービスのアカウントを取得</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_04-546x276.png" alt="transfer-data-for-ketai-to-iphone_04" width="546" height="276" class="alignnone size-large wp-image-10664" /><br />
+<p><img src="/wp-content/uploads/transfer-data-for-ketai-to-iphone_04-546x276.png" alt="transfer-data-for-ketai-to-iphone_04" width="546" height="276" class="alignnone size-large wp-image-10664" /><br />
 電話帳データの移行の最初のステップはデータの保存先を確保することです。<br />
 保存先はクラウドサービスにするのがベター。</p>
 <p>「クラウドサービスって何？」って方に説明しますと、「ネットにつながる環境ならどこからでもデータの保存や読み込みができるサービス」だと思っておいてください。<br />
@@ -67,7 +67,7 @@ comments:
 <p>2番目のステップは持っているスマホ（ガラケー）から電話帳データを外部に保存することです。<br />
 ここではDropboxを例に説明していきます。</p>
 <h3>スマホの場合はアプリを使ってDropboxに保存！</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_05-546x409.jpg" alt="transfer-data-for-ketai-to-iphone_05" width="546" height="409" class="alignnone size-large wp-image-10663" /><br />
+<p><img src="/wp-content/uploads/transfer-data-for-ketai-to-iphone_05-546x409.jpg" alt="transfer-data-for-ketai-to-iphone_05" width="546" height="409" class="alignnone size-large wp-image-10663" /><br />
 スマホの場合は「電話帳アプリ」を開き、設定メニューから「エクスポート」でDropboxアプリへ電話帳データを保存！<br />
 スマホから電話帳を移す場合は「Playストア」からDropboxアプリをダウンロードしておきましょう。<br />
 <a href="https://play.google.com/store/apps/details?id=com.dropbox.android&hl=ja" target="_blank">Dropbox - Google Play の Android アプリ</a><br />
@@ -75,12 +75,12 @@ comments:
 iPhoneのテザリングの使い方はこちらを参考にしてみてください。<br />
 <a href="http://www.ipodwave.com/iphone/howto/tethering.html" target="_blank">【au/Softbank/docomo】iPhone 5/5s/5cでのテザリングの設定方法と使い方 | iPhone Wave</a><a href="https://b.hatena.ne.jp/entry/http://www.ipodwave.com/iphone/howto/tethering.html" target="_blank"><img border="0" src="https://b.hatena.ne.jp/entry/image/http://www.ipodwave.com/iphone/howto/tethering.html" alt="" /></a></p>
 <h3>ガラケーの場合はmicroSDカードを使う！</h3>
-<p><img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="transfer-data-for-ketai-to-iphone_01" width="546" height="409" class="alignnone size-large wp-image-10657" /><br />
+<p><img src="/wp-content/uploads/transfer-data-for-ketai-to-iphone_01-546x409.jpg" alt="transfer-data-for-ketai-to-iphone_01" width="546" height="409" class="alignnone size-large wp-image-10657" /><br />
 ガラケーの場合はmicroSDカードに電話帳データを一度保存します。<br />
 ガラケーに刺さってるSDをパソコンで読み込み、パソコンを使ってDropboxへ移します。<br />
 ここまで済めば次からはiPhoneでの操作となります。</p>
 <h2>3.iPhoneでAppleIDの取得</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/applespevent_130911_01-546x425.jpg" alt="applespevent_130911_01" width="546" height="425" class="alignnone size-large wp-image-8593" /><br />
+<p><img src="/wp-content/uploads/applespevent_130911_01-546x425.jpg" alt="applespevent_130911_01" width="546" height="425" class="alignnone size-large wp-image-8593" /><br />
 iPhoneのアプリをダウンロードするにはAppleIDというApple専用のアカウントが必要です。<br />
 iPhoneを買ってまずすることはiPhoneにAppleIDを設定することになります。<br />
 iPhoneから初めてアプリをダウンロードする際にアカウント作成できます。<br />
@@ -89,12 +89,12 @@ DropboxアプリのダウンロードついでにAppleIDを取得しましょう
 <p>Dropboxをダウンロードできたらあともう少し！<br />
 残すはDropboxアプリから電話帳データを保存するだけです。</p>
 <p>Dropboxアプリを開いてアカウントを入力しましょう。<br />
-<img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_02-300x513.jpg" alt="transfer-data-for-ketai-to-iphone_02" width="300" height="513" class="alignnone size-medium wp-image-10658" /><br />
+<img src="/wp-content/uploads/transfer-data-for-ketai-to-iphone_02-300x513.jpg" alt="transfer-data-for-ketai-to-iphone_02" width="300" height="513" class="alignnone size-medium wp-image-10658" /><br />
 ここに入力するのはDropboxのアカウントになります。Appleアカウントと間違えないように！<br />
-<img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_03-300x513.jpg" alt="transfer-data-for-ketai-to-iphone_03" width="300" height="513" class="alignnone size-medium wp-image-10659" /><br />
+<img src="/wp-content/uploads/transfer-data-for-ketai-to-iphone_03-300x513.jpg" alt="transfer-data-for-ketai-to-iphone_03" width="300" height="513" class="alignnone size-medium wp-image-10659" /><br />
 他に何も保存してなければ、iPhoneからアプリを開くとすぐの場所に保存した電話帳データがあると思います。<br />
 そのデータを選択し左下のボタンをタップ。<br />
-<img src="https://kotalab.com/wp-content/uploads/transfer-data-for-ketai-to-iphone_04-300x513.jpg" alt="transfer-data-for-ketai-to-iphone_04" width="300" height="513" class="alignnone size-medium wp-image-10656" /><br />
+<img src="/wp-content/uploads/transfer-data-for-ketai-to-iphone_04-300x513.jpg" alt="transfer-data-for-ketai-to-iphone_04" width="300" height="513" class="alignnone size-medium wp-image-10656" /><br />
 「このアプリで開く」という項目を選択し、連絡先アプリを選んで完了です！<br />
 最後に連絡先アプリを開いて無事移行できてるか確認してみましょう！</p>
 <h3>さいごに</h3>

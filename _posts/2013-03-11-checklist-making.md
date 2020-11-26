@@ -24,7 +24,7 @@ tags:
 - チェックリスト
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/checklist_130311-448x316.jpg" alt="checklist_130311" width="448" height="316" class="alignnone size-large wp-image-6463" /><br />
+<p><img src="/wp-content/uploads/checklist_130311-448x316.jpg" alt="checklist_130311" width="448" height="316" class="alignnone size-large wp-image-6463" /><br />
 チェックリストを使うようになって物忘れが減りました。@kotala_bです。<br />
 繰り返し行うことにはチェックリストを使っています。<br />
 このブログを書く時のチェックリスト、外出時の持ち物のチェックリストなど、繰り返し行うことにチェックリストを作りました。<br />
@@ -74,6 +74,6 @@ domo Todo+というタスク管理アプリです。<br />
 <div class="booklink-footer" style="clear: left"></div>
 </div>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/keep-doing-every-morning" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/slooProImg_20130305112246.jpg" alt="毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note" width="150" /></a><a href="https://kotalab.com/keep-doing-every-morning" target="_blank">毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/due-urlscheme" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note" width="150" /></a><a href="https://kotalab.com/due-urlscheme" target="_blank">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note</a><br style="clear:both;" /><br />
-<a href="https://kotalab.com/mysarasi-due" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/due_120912.jpg" alt="Dueに設定しているリマインダー項目 #MySarashi | kotala's note" width="150" /></a><a href="https://kotalab.com/mysarasi-due" target="_blank">Dueに設定しているリマインダー項目 #MySarashi | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/keep-doing-every-morning" target="_blank"><img  class="alignleft" src="/wp-content/uploads/slooProImg_20130305112246.jpg" alt="毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note" width="150" /></a><a href="/keep-doing-every-morning" target="_blank">毎朝続けていきたい！自分にも大切な人にも為になる良習慣！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/due-urlscheme" target="_blank"><img  class="alignleft" src="/wp-content/uploads/due_120912.jpg" alt="忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note" width="150" /></a><a href="/due-urlscheme" target="_blank">忘れがちな新しい習慣はDueに登録！URLスキームも登録してもう忘れない！ | kotala's note</a><br style="clear:both;" /><br />
+<a href="/mysarasi-due" target="_blank"><img  class="alignleft" src="/wp-content/uploads/due_120912.jpg" alt="Dueに設定しているリマインダー項目 #MySarashi | kotala's note" width="150" /></a><a href="/mysarasi-due" target="_blank">Dueに設定しているリマインダー項目 #MySarashi | kotala's note</a><br style="clear:both;" /></p>

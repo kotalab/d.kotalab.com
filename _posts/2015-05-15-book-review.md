@@ -22,7 +22,7 @@ tags:
 - 情報発信・ブランディング講座
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/2015/01/bloggers-worries_20150117-780x438.jpg" alt="bloggers-worries_20150117" width="780" height="438" class="aligncenter size-large wp-image-13846" /></p>
+<p><img src="/wp-content/uploads/2015/01/bloggers-worries_20150117-780x438.jpg" alt="bloggers-worries_20150117" width="780" height="438" class="aligncenter size-large wp-image-13846" /></p>
 <p>1冊の本を読んで感想を書く。<br />
 20年くらい前、僕が小学生の頃夏休みの宿題として毎年のように出されていた。</p>
 <p>そして今では自分から進んで読書をして、本の感想をこのブログに書いている。</p>
@@ -39,12 +39,12 @@ comments: []
 <blockquote><p>
 値札をみて価値を判断せずに、自分にとっての価値を判断できるようにトレーニングすること。</p>
 <p>このトレーニングは「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478064784/same-22/" rel="nofollow" target="_blank">マーケット感覚を身につけよう</a>」という本に書いてあって、僕が実際にやってみているとてもいいトレーニングだ。<br />
-via:<a href="https://kotalab.com/to-be-free/">サラリーマンのあなたが「自由」になるために、今すぐ始められること</a></p>
+via:<a href="/to-be-free/">サラリーマンのあなたが「自由」になるために、今すぐ始められること</a></p>
 </blockquote>
 <p>「<a href="https://www.amazon.co.jp/exec/obidos/asin/4478064784/same-22/" rel="nofollow" target="_blank">マーケット感覚を身につけよう</a>」を読んで普段の生活の中で実践している。</p>
 <p>本を読んで感想を書いて終わりじゃもったいない。</p>
 <h2>実践する過程を書く</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/04/romancecar-good-experience_20150429_04-780x520.jpg" alt="romancecar-good-experience_20150429_04.jpg" width="780" height="520" class="aligncenter size-large wp-image-14206" /></p>
+<p><img src="/wp-content/uploads/2015/04/romancecar-good-experience_20150429_04-780x520.jpg" alt="romancecar-good-experience_20150429_04.jpg" width="780" height="520" class="aligncenter size-large wp-image-14206" /></p>
 <p>自分のとっての価値を判断するトレーニングでは、今まで気になっていたことを試してみたことがある。</p>
 <p>僕がよく使っている小田急線にはロマンスカーという特急電車があるのだけれど、乗るに通常の乗車券の他に特急券が必要になる。<br />
 住んでる町田駅から新宿駅へロマンスカーで行くには乗車券よりも高い特急券を買い、普段の倍以上の料金を払って乗ることになる。</p>
@@ -55,7 +55,7 @@ via:<a href="https://kotalab.com/to-be-free/">サラリーマンのあなたが�
 お金や移動時間という目に見える基準だけでは到底わからなかったことだ。<br />
 これが自分にとっての価値を判断するいいトレーニングになった。</p>
 <p>そしてそのこともブログに書いてみた。<br />
-参考：<a href="https://kotalab.com/romancecar-good-experience/">町田から新宿までロマンスカーで行ってみた！やっぱ体験してみなきゃわからないことって沢山ある</a></p>
+参考：<a href="/romancecar-good-experience/">町田から新宿までロマンスカーで行ってみた！やっぱ体験してみなきゃわからないことって沢山ある</a></p>
 <div class="booklink-box">
 <div class="booklink-image"><a href="https://www.amazon.co.jp/exec/obidos/asin/4478064784/same-22/" rel="nofollow" target="_blank"><img src="https://images-fe.ssl-images-amazon.com/images/I/51GLVSqdPLL._SL160_.jpg" style="border: none;" /></a></div>
 <div class="booklink-info">
@@ -78,7 +78,7 @@ via:<a href="https://kotalab.com/to-be-free/">サラリーマンのあなたが�
 <p>ここまでできたらただの読書感想文ではなくなるし、読んでいて惹きつけられる何かがあるはずだ。</p>
 <p>僕はここが全然できていない。</p>
 <h2>さいごに</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/05/professional-or-amateur_20150511_02-780x585.jpg" alt="professional-or-amateur_20150511_02.JPG" width="780" height="585" class="aligncenter size-large wp-image-14334" /></p>
+<p><img src="/wp-content/uploads/2015/05/professional-or-amateur_20150511_02-780x585.jpg" alt="professional-or-amateur_20150511_02.JPG" width="780" height="585" class="aligncenter size-large wp-image-14334" /></p>
 <p>本を読んで感想文を書いただけじゃ誰も読んでくれない。<br />
 読まれる記事があるのは、それなりの理由がある。</p>
 <p>書いた書評が沢山の人に読まれているプロブロガーの<a href="https://twitter.com/ttachi">立花岳志さん</a>から、「情報発信・ブランディング講座」でそのことを教えてもらった。</p>

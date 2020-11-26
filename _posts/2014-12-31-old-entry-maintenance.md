@@ -22,7 +22,7 @@ tags:
 - 過去記事
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/old-entry-maintenance_20141231-780x244.png" alt="old-entry-maintenance_20141231" width="780" height="244" class="aligncenter size-large wp-image-13708" /><br />
+<p><img src="/wp-content/uploads/old-entry-maintenance_20141231-780x244.png" alt="old-entry-maintenance_20141231" width="780" height="244" class="aligncenter size-large wp-image-13708" /><br />
 僕はアプリ開発で調べ物があるときによくネットで検索するんですが、たまーに情報が古いことがあります。<br />
 せっかくみつけた情報が古くて、今とは若干違っていたりするとまた調べ直さなきゃいけなかったり。</p>
 <p>他にも「期間限定で何々がお買い得！」みたいなのも、よく見てみてら投稿の日付が1年前の今日で、ちょっとがっかりしたり。</p>
@@ -33,7 +33,7 @@ comments: []
 </p>
 <!--more-->
 <h2>表示させる内容</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/old-entry-maintenance_20141231-780x244.png" alt="old-entry-maintenance_20141231" width="780" height="244" class="aligncenter size-large wp-image-13708" /></p>
+<p><img src="/wp-content/uploads/old-entry-maintenance_20141231-780x244.png" alt="old-entry-maintenance_20141231" width="780" height="244" class="aligncenter size-large wp-image-13708" /></p>
 <p>設置場所はタイトルや投稿日などの下の本文が始まる直前の部分。<br />
 「ご注意」という見出しをつけて、投稿日を目立つよう設置しました。</p>
 <h2>古い記事だけに自動で表示させる方法</h2>

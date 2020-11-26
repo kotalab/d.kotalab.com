@@ -21,14 +21,14 @@ tags:
 - El Capitan
 - 親指シフト
 comments: []
-thumbnail: https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_20151211-780x520.jpg
+thumbnail: /wp-content/uploads/2015/12/setup-oyayubishift_20151211-780x520.jpg
 ---
 <p>親指シフトというローマ字入力に変わる入力方法の練習を最近始めました。<br><br />
 僕が普段使っているのはMacBook ProのJISキーボードモデルなのですが、WindowsではなくMacで親指シフトを始める時の始め方を書こうと思います。<br />
 </p>
 <!--more-->
 <h2>1. ソフトのインストール</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_20151211_02-780x422.png" alt="setup-oyayubishift_20151211_02" width="780" height="422" class="aligncenter size-large wp-image-14954" /></p>
+<p><img src="/wp-content/uploads/2015/12/setup-oyayubishift_20151211_02-780x422.png" alt="setup-oyayubishift_20151211_02" width="780" height="422" class="aligncenter size-large wp-image-14954" /></p>
 <p>Macで親指シフトを始めるには、<a href="https://pqrs.org/osx/karabiner/index.html.ja" target="_blank">Karabiner</a>というキーボードカスタマイズソフトを使います。<br><br />
 インストール方法はリンク先のページに書かれています。<br><br />
 <a href="https://pqrs.org/osx/karabiner/index.html.ja" target="_blank">Karabinerのダウンロードページはこちら</a></p>
@@ -36,7 +36,7 @@ thumbnail: https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_201
 <p>インストールが終わったら、親指シフトができるようにKarabinerの設定をします。<br><br />
 画面上のツールバーからKarabinerのPreferencesを選びます。<br><br />
 設定画面が開くので、検索バーに「oya」と入力  </p>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_20151211_01-780x646.png" alt="setup-oyayubishift_20151211_01" width="780" height="646" class="aligncenter size-large wp-image-14953" /></p>
+<p><img src="/wp-content/uploads/2015/12/setup-oyayubishift_20151211_01-780x646.png" alt="setup-oyayubishift_20151211_01" width="780" height="646" class="aligncenter size-large wp-image-14953" /></p>
 <p>「Oyayubi R1 line Shift」という項目にチェックを入れます。</p>
 <p>これでキーボード入力がローマ字入力から親指シフトに変わります。<br><br />
 ローマ字入力に戻したい時は、チェックを外すと元に戻ります。</p>
@@ -53,7 +53,7 @@ thumbnail: https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_201
 OS X El Capitanから使えるようになった<a href="http://itea40.jp/technic/mac-beginners/os-x-el-capitan/how-to-full-screen-display-two-apps-in-split-view/" target="_blank">SplitViewという機能</a>を使って、画面の左にテキストエディタを表示させて右側にキーレイアウトを表示させています。  </p>
 <p>使っているのはSublimeTextというテキストエディタです。</p>
 <h2>さいごに</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/2015/12/setup-oyayubishift_20151211_03-780x488.png" alt="setup-oyayubishift_20151211_03" width="780" height="488" class="aligncenter size-large wp-image-14955" /></p>
+<p><img src="/wp-content/uploads/2015/12/setup-oyayubishift_20151211_03-780x488.png" alt="setup-oyayubishift_20151211_03" width="780" height="488" class="aligncenter size-large wp-image-14955" /></p>
 <p>このブログを書くときの最初の30分くらいを親指シフトの練習にあてています。<br><br />
 これを毎日続けてたら、前の日よりも親指シフトを使って入力できた量が多くなっていることが実感できそうなので、楽しく続けられそうです。<br />
 親指シフトの練習もできるし、ブログも書けるしで僕の中では気に入っています。</p>

@@ -21,23 +21,23 @@ tags:
 - ホーム画面
 comments: []
 ---
-<p><img src="https://kotalab.com/wp-content/uploads/home_130712-448x249.jpg" alt="home_130712" width="448" height="249" class="alignnone size-large wp-image-7812" /><br />
+<p><img src="/wp-content/uploads/home_130712-448x249.jpg" alt="home_130712" width="448" height="249" class="alignnone size-large wp-image-7812" /><br />
 こたら（@kotala_b）です。<br />
 前編では99アプリのうち57をご紹介しました。<br />
 後編では2画面目のアプリを42個ご紹介していきます！<br />
-<a href="https://kotalab.com/iphone1year-app1" target="_blank">前編はこちら</a><br />
+<a href="/iphone1year-app1" target="_blank">前編はこちら</a><br />
 </p>
 <!--more-->
 <h2>2画面目</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/home_130713-300x513.jpg" alt="home_130713" width="300" height="513" class="alignnone size-medium wp-image-7849" /><br />
+<p><img src="/wp-content/uploads/home_130713-300x513.jpg" alt="home_130713" width="300" height="513" class="alignnone size-medium wp-image-7849" /><br />
 僕のiPhoneはほぼ1画面目で完結しているので、2画面目のアプリはあまり使いません<br />
 ▼1画面目の紹介はこちら<br />
-<a href="https://kotalab.com/iphone1year-app1" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/home_130712-448x249.jpg" alt="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！前編 | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone1year-app1" target="_blank">iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！前編 | kotala's note</a><br style="clear:both;" />▼こんな感じのホーム画面です。<br />
-<img src="https://kotalab.com/wp-content/uploads/home_130712_01-300x617.jpg" alt="home_130712_01" width="300" height="617" class="alignnone size-medium wp-image-7810" /></p>
+<a href="/iphone1year-app1" target="_blank"><img  class="alignleft" src="/wp-content/uploads/home_130712-448x249.jpg" alt="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！前編 | kotala's note" width="150" /></a><a href="/iphone1year-app1" target="_blank">iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！前編 | kotala's note</a><br style="clear:both;" />▼こんな感じのホーム画面です。<br />
+<img src="/wp-content/uploads/home_130712_01-300x617.jpg" alt="home_130712_01" width="300" height="617" class="alignnone size-medium wp-image-7810" /></p>
 <h2>1段目</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/home_130713_01-448x130.jpg" alt="home_130713_01" width="448" height="130" class="alignnone size-large wp-image-7846" /><br />
+<p><img src="/wp-content/uploads/home_130713_01-448x130.jpg" alt="home_130713_01" width="448" height="130" class="alignnone size-large wp-image-7846" /><br />
 ここにAppStoreを置いているのは、バッジでアプリのアップデートが一目でわかるようにするため。<br />
-<a href="https://kotalab.com/only-pocktwifi" title="iPhone5は3G・LTE回線なし。PocketWifiだけで過ごす日々。" target="_blank">僕はパケットプランを契約せずにEMOBILEだけでiPhoneを使っている</a>ので、EMOBILEの端末を見ないでiPhoneだけで電波や通信量の把握が出来るGL06PStatusは欠かせません。<br />
+<a href="/only-pocktwifi" title="iPhone5は3G・LTE回線なし。PocketWifiだけで過ごす日々。" target="_blank">僕はパケットプランを契約せずにEMOBILEだけでiPhoneを使っている</a>ので、EMOBILEの端末を見ないでiPhoneだけで電波や通信量の把握が出来るGL06PStatusは欠かせません。<br />
 各種ID・パスワードの保管場所のMiniKeePass。<br />
 ヨドバシのポイントカードは持ち歩かずにiPhoneに入れています。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgl06pstatus-gl06p-gl04p-gl01p%252Fid518845331%253Fmt%253D8%2526uo%253D4"><img src="http://a1387.phobos.apple.com/us/r1000/028/Purple4/v4/87/82/ff/8782ff35-951f-57af-af2a-8dce060f70dc/mzl.vpwwifsd.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
@@ -71,22 +71,22 @@ comments: []
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>2段目</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/home_130713_02-448x130.jpg" alt="home_130713_02" width="448" height="130" class="alignnone size-large wp-image-7847" /><br />
+<p><img src="/wp-content/uploads/home_130713_02-448x130.jpg" alt="home_130713_02" width="448" height="130" class="alignnone size-large wp-image-7847" /><br />
 2段目にはフォルダが並べられています。<br />
 カメラフォルダの中身はこちら<br />
-<img src="https://kotalab.com/wp-content/uploads/home_130713_03-448x282.jpg" alt="home_130713_03" width="448" height="282" class="alignnone size-large wp-image-7844" /><br />
-本のバーコードを読み取るだけで、その<a href="https://kotalab.com/bookever" title="バーコードから本の情報を素早く読みとれるアプリ「BookEver」これを入れたら本の管理が簡単になった！" target="_blank">本の情報をEvernoteへ送信してくれるBookever。</a><br />
+<img src="/wp-content/uploads/home_130713_03-448x282.jpg" alt="home_130713_03" width="448" height="282" class="alignnone size-large wp-image-7844" /><br />
+本のバーコードを読み取るだけで、その<a href="/bookever" title="バーコードから本の情報を素早く読みとれるアプリ「BookEver」これを入れたら本の管理が簡単になった！" target="_blank">本の情報をEvernoteへ送信してくれるBookever。</a><br />
 他には動画を取る4つのアプリが入っています。<br />
 デフォルトフォルダの中身<br />
-<img src="https://kotalab.com/wp-content/uploads/home_130713_04-448x535.jpg" alt="home_130713_04" width="448" height="535" class="alignnone size-large wp-image-7845" /><br />
+<img src="/wp-content/uploads/home_130713_04-448x535.jpg" alt="home_130713_04" width="448" height="535" class="alignnone size-large wp-image-7845" /><br />
 滅多に使うことのないデフォルトのアプリ達。<br />
 開けないフォルダの中身<br />
-<img src="https://kotalab.com/wp-content/uploads/home_130713_05-448x534.jpg" alt="home_130713_05" width="448" height="534" class="alignnone size-large wp-image-7848" /><br />
+<img src="/wp-content/uploads/home_130713_05-448x534.jpg" alt="home_130713_05" width="448" height="534" class="alignnone size-large wp-image-7848" /><br />
 開けないフォルダにはよく使うアプリが沢山入っていますが、アイコンをタップして開くことはないアプリ達です。<br />
 フォルダの1段目にはSwipemintに登録してある4つのアプリ。<br />
 2段目とSafariはSeeqから起動するアプリ。<br />
 TextExpanderとDropboxは別のアプリから呼び出して使います。<br />
-Camore+とミイルは<a href="https://kotalab.com/how-to-miil" title="面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法" target="_blank">OneCamで撮った写真をミイルへ投稿する一連の流れ</a>で使います。</p>
+Camore+とミイルは<a href="/how-to-miil" title="面倒くさがりでも毎日出来る！miilに美味しそうな写真を簡単に投稿する方法" target="_blank">OneCamで撮った写真をミイルへ投稿する一連の流れ</a>で使います。</p>
 <div class="pochireba" style="text-align:left;font-size:small;padding:20px 0;/zoom: 1;overflow: hidden;"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fbookever%252Fid539150062%253Fmt%253D8%2526uo%253D4"><img src="http://a1690.phobos.apple.com/us/r1000/062/Purple/v4/08/99/32/089932f1-34a4-d1e8-2218-8dc8678dbdf9/mzl.xegqmvbt.png" width="75" height="75" style="float:left;margin:0 15px 0 0;width:75px;height:75px;" class="pochi_img" ></span>
 <div class="pochi_info" style="text-align:left;/zoom: 1;overflow: hidden;">
 <div class="pochi_name"><span class="removed_link" title="click.linksynergy.com/fs-bin/click?id=d2yYUp776R4&amp;subid=&amp;offerid=94348.1&amp;type=3&amp;tmpid=3910&amp;RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fbookever%252Fid539150062%253Fmt%253D8%2526uo%253D4">BookEver</span></div>
@@ -258,7 +258,7 @@ Camore+とミイルは<a href="https://kotalab.com/how-to-miil" title="面倒く
 <div class="pochireba-footer" style="clear: left"></div>
 </div>
 <h2>3段目</h2>
-<p><img src="https://kotalab.com/wp-content/uploads/home_130713_06-448x130.jpg" alt="home_130713_06" width="448" height="130" class="alignnone size-large wp-image-7850" /><br />
+<p><img src="/wp-content/uploads/home_130713_06-448x130.jpg" alt="home_130713_06" width="448" height="130" class="alignnone size-large wp-image-7850" /><br />
 Newsstandより右には入れたばかりのアプリを置いています。<br />
 iPhoneアプリで登場したIFTTT。<br />
 色々な単位の計算が出来るAmount。</p>
@@ -296,4 +296,4 @@ iPhoneアプリで登場したIFTTT。<br />
 <p>iPhone購入から1年後のホーム画面の紹介でした。<br />
 たった2画面に99個ものアプリがあったことが一番の発見でした。</p>
 <h2 class="rele">関連記事</h2>
-<p><a href="https://kotalab.com/iphone1year-app1" target="_blank"><img  class="alignleft" src="https://kotalab.com/wp-content/uploads/home_130712-448x249.jpg" alt="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！前編 | kotala's note" width="150" /></a><a href="https://kotalab.com/iphone1year-app1" target="_blank">iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！前編 | kotala's note</a><br style="clear:both;" /></p>
+<p><a href="/iphone1year-app1" target="_blank"><img  class="alignleft" src="/wp-content/uploads/home_130712-448x249.jpg" alt="iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！前編 | kotala's note" width="150" /></a><a href="/iphone1year-app1" target="_blank">iPhone歴1年！iPhoneに入ってる全99アプリはこれだ！前編 | kotala's note</a><br style="clear:both;" /></p>

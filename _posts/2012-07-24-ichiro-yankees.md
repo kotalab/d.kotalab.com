@@ -20,7 +20,7 @@ tags:
 - イチロー
 comments: []
 ---
-<p><a href="https://kotalab.com/wp-content/uploads/ichiro_120724.jpg"><img src="https://kotalab.com/wp-content/uploads/ichiro_120724.jpg" alt="" title="ichiro_120724" width="448" height="336" class="alignnone size-full wp-image-1645" /></a><br />
+<p><a href="/wp-content/uploads/ichiro_120724.jpg"><img src="/wp-content/uploads/ichiro_120724.jpg" alt="" title="ichiro_120724" width="448" height="336" class="alignnone size-full wp-image-1645" /></a><br />
 <span style="font-size:10px;"><a href="https://www.flickr.com/photos/pleeker/3810148463/" target="_blank">Ichiro!</a> / Matt McGee</span><br />
 いきなりのイチロー移籍のニュースに驚きました。@kotala_bです。<br />
 シーズン途中、シアトルマリナーズに11年半在籍していたイチロー選手が<strong>ニューヨークヤンキースへ移籍</strong>しました。<br />
