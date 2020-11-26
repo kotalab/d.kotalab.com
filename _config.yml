@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ja
-title: こたらずのーと
+title: こたらの日記
 email: info@kotalab.com
 description: >- # this means to ignore newlines until "baseurl:"
   こたらが書く、個人のウェブサイト・ブログです。

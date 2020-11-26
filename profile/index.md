@@ -45,7 +45,7 @@ comments:
 1984年生まれ</p>
 <p>Twitter：<a href="https://twitter.com/kotala_b" title="こたらTwitter" target="_blank">kotala_b</a><br />
 Facebook：<a href="https://www.facebook.com/tetsuyakjma" title="こたらFacebook" target="_blank">https://www.facebook.com/tetsuyakjma</a><br />
-<p>「とにかくやってみよう！」をテーマにこのブログこたらずのーとを書いています。</p>
+<p>「とにかくやってみよう！」をテーマにこのブログこたらの日記を書いています。</p>
 <h2 class="landing">ブログ開設から</h2>
 <h3>2012/5/9 wordpress.comでアカウントを取得しスタート。</h3>
 ブログを始めたきっかけは
