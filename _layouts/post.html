@@ -7,7 +7,7 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       {%- if page.category -%}
-        <a href="{{site.baseurl}}/categories/#{{ page.category|slugize }}">{{ page.category }}</a>
+      <a href="/categories/#{{ page.category|slugize }}">{{ page.category }}</a>
       {%- endif -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
@@ -28,7 +28,7 @@ layout: default
   {%- include post-footer.html -%}
 
   {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
+  {%- include disqus_comments.html -%}
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
