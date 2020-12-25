@@ -17,7 +17,6 @@ date_gmt: '2015-06-08 23:35:17 +0900'
 category: []
 tags: []
 comments: []
-can_advertisement: false
 ---
 <p><img src="/wp-content/uploads/2015/06/consul_for_blog-780x390.jpg" alt="consul_for_blog" width="780" height="390" class="aligncenter size-large wp-image-14692" style="max-width: 100%; height: auto;"/><br />
 ブログを始めたい<br />
