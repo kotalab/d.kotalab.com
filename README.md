@@ -4,8 +4,8 @@ My blog is open source, everyone can contribute :smile:
 
 ## How to run local server?
 ```
-$ git clone https://github.com/kotalab/kotalab.com.git
-$ cd kotalab.com
+$ git clone https://github.com/kotalab/d.kotalab.com.git
+$ cd d.kotalab.com
 $ bundle install
 $ bundle exec jekyll serve
 Open http://127.0.0.1:4000/
