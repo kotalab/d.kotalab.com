@@ -5,7 +5,8 @@ category:
 - 読書
 tags:
 - 習慣
-thumbnail: /wp-content/uploads/2018/book-small-habbit.png
+image: /wp-content/uploads/2018/book-small-habbit.png
+description: 小さな一歩で人生を大きく変えることができる可能性がある。そう思える本を読みました。
 ---
 小さな一歩で人生を大きく変えることができる可能性がある。そう思える本を読みました。
 

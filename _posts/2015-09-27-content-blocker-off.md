@@ -20,7 +20,7 @@ tags:
 - iOS9
 - コンテンツブロッカー
 comments: []
-thumbnail: /wp-content/uploads/2015/09/content-blocker-off_20150927_04.jpg
+image: /wp-content/uploads/2015/09/content-blocker-off_20150927_04.jpg
 ---
 <p>iOS9からiPhoneのSafariに追加されたコンテンツブロッカー。</p>
 <p>コンテンツブロッカーのON/OFFの切り替えにはいちいちiPhoneの設定アプリを開いて設定変更をしなければなりません。</p>

@@ -19,7 +19,7 @@ tags:
 - 時間がもったいない
 - もったいない
 comments: []
-thumbnail: /wp-content/uploads/2015/07/lets-quit-because-time-is-too-good_20150731.jpg
+image: /wp-content/uploads/2015/07/lets-quit-because-time-is-too-good_20150731.jpg
 ---
 <p>今までは運動をほとんどしてなかったけど、スポーツジムの会費を払ったばかりの頃はしょっちゅう通う。<br />
 図書館で借りた本はなかなか読まないけど、本を買った日に最初の10ページくらいは読む。</p>

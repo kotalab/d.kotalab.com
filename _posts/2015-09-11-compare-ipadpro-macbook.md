@@ -20,7 +20,7 @@ tags:
 - iPad Pro
 - MacBook
 comments: []
-thumbnail: /wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911.png
+image: /wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911.png
 ---
 <p><<span style="font-size:14px;">via:<a href="https://www.apple.com/jp/ipad/" target="_blank">https://www.apple.com/jp/ipad/</a></span></p>
 <p>日本時間の9月10日午前2時すぎ開催されたAppleのイベント「September Event2015」でiPadの新型、iPad Proが発表されました。</p>

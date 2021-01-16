@@ -20,10 +20,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   こたらが書く、個人のウェブサイト・ブログです。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://d.kotalab.com"
-twitter_username: kotala_b
 github_username:  kotalab
 facebook_username: tetsuyakjma
 google_analytics: UA-32395633-1
+twitter:
+  username: kotala_b
 
 # Build settings
 markdown: kramdown

@@ -5,8 +5,8 @@
     {%- for post in site.posts -%}
       <div class="latest-post-content">
         <div class="latest-post-content-thumbnail">
-          {% if post.thumbnail %}
-            <a href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}"></a>
+          {% if post.image %}
+            <a href="{{ post.url | relative_url }}"><img src="{{ post.image }}"></a>
           {% else %}
             <a href="{{ post.url | relative_url }}"><img src="{{ "/assets/no_image.png" | relative_url  }}"></a>
           {% endif %}

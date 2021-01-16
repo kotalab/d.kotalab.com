@@ -5,7 +5,8 @@ date: '2021-01-01 21:33:00 +0900'
 date_gmt: '2021-01-01 21:33:00 +0900'
 category: 
 - Swift
-thumbnail: /assets/images/swift-cli-start.jpg
+image: /assets/images/swift-cli-start.jpg
+description: 最近あんまり Swift でプログラムを書いていなかったので、Swift で コマンドラインツール を作り始めました。
 ---
 最近あんまり Swift でプログラムを書いていなかったので、Swift で コマンドラインツール を作り始めました。
 
