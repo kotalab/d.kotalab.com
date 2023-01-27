@@ -49,3 +49,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - .obsidian/
+  - renovate.json
+  - .ruby-version

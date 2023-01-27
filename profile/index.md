@@ -90,4 +90,3 @@ via:<a href="/keep-writing-200">連続更新200日達成！僕が毎日ブログ
 <p>僕はブログを書く人であり、FPでもあり、iPhoneアプリ開発者でもあり、週40時間働くサラリーマンでもあります。<br />
 これらの経験を生かし、お金に関する相談やブログに関する相談をお聞きするお仕事も行っています。<br />
 何か困ったことがあればお気軽にご相談ください。<br />
-<a href="/contact" title="お問い合わせページ" onclick="_gaq.push(['_trackEvent', 'profilepage', 'click', 'goContactFromProfile']);">お問い合わせはこちらから。</a></p>

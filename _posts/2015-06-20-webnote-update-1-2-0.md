@@ -45,7 +45,7 @@ comments: []
 <p>今まではiPhoneを縦に持った状態でしか使えなかったのですが、iPhoneを横向きに持った時も画面が回転するようになります。</p>
 <h2>さいごに</h2>
 <p>次のアップデートではブラウザのパワーアップを考えています。</p>
-<p>不具合や改善要望は<a href="/contact">こちらまで</a>お願いします。</p>
+
 <p><a href="/webnote-update-110">以前のアップデート情報はこちらです</a></p>
 <div class="applink">
 <div class="applinkimg"><a href="https://itunes.apple.com/jp/app/webnote/id911802747?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank"><img hspace="6" src="http://is2.mzstatic.com/image/pf/us/r30/Purple5/v4/03/2a/74/032a7441-60be-9149-7025-d19b7bbf109e/mzl.nqisizax.png" width="80" /></a></div>
