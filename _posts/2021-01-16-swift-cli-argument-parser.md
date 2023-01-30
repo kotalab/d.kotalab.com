@@ -10,7 +10,7 @@ category:
 coverImage: /assets/images/swift-cli-argument-parser.jpg
 ogImage:
   url: /assets/images/swift-cli-argument-parser.jpg
-description: 前回はSwift製コマンドラインツールの始め方について書きました。今回はその続きで、引数の受け取りについて書きます。
+excerpt: 前回はSwift製コマンドラインツールの始め方について書きました。今回はその続きで、引数の受け取りについて書きます。
 ---
 前回は[Swift製コマンドラインツールの始め方](./swift-cli-start)について書きました。
 今回はその続きで、引数の受け取りについて書きます。
