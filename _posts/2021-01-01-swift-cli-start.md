@@ -2,22 +2,24 @@
 layout: post
 title: Swift製コマンドラインツールの始め方
 date: '2021-01-01 21:33:00 +0900'
+author:
+  name: ''
 date_gmt: '2021-01-01 21:33:00 +0900'
-category: 
+category:
 - Swift
 image: /assets/images/swift-cli-start.jpg
 description: 最近あんまり Swift でプログラムを書いていなかったので、Swift で コマンドラインツール を作り始めました。
 ---
 最近あんまり Swift でプログラムを書いていなかったので、Swift で コマンドラインツール を作り始めました。
 
-環境は Swift 5.3.2。  
+環境は Swift 5.3.2。
 Xcode 12.3 についてる Swift です。
 ```
 $ swiftc -v
 Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
 Target: x86_64-apple-darwin20.2.0
 ```
-Swift でコマンドラインツールを作るには、Swift Package Manager(SwiftPM) で作る方法と、Xcode で作る方法があるようです。  
+Swift でコマンドラインツールを作るには、Swift Package Manager(SwiftPM) で作る方法と、Xcode で作る方法があるようです。
 どんな違いがあるか両方で作って違いを確かめてみました。
 
 ## SwiftPM で作るコマンドラインツール
@@ -66,10 +68,10 @@ Test Suite 'All tests' passed at 2021-01-01 00:17:57.995.
 	 Executed 1 test, with 0 failures (0 unexpected) in 0.101 (0.102) seconds
 ```
 ## Xcode から作るコマンドラインツール
-Xcodeのプロジェクト新規作成からCommandLineToolを選択すると、`main.swift`と`.xcodeproj`だけでシンプルすぎるプロジェクトができます。  
+Xcodeのプロジェクト新規作成からCommandLineToolを選択すると、`main.swift`と`.xcodeproj`だけでシンプルすぎるプロジェクトができます。
 Swift-CLIという名前で作成した時のディレクトリ構成は下記。
 ```
-Swift-CLI/main.swift 
+Swift-CLI/main.swift
 Swift-CLI.xcodeproj
 ```
 Xcode から run することはできますが、terminal からの実行は `swift run` も `swift test` もできませんでした。

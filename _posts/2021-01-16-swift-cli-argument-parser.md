@@ -2,13 +2,15 @@
 layout: post
 title: Swift製コマンドラインツールで引数をパースする
 date: '2021-01-16 19:00:00 +0900'
+author:
+  name: ''
 date_gmt: '2021-01-16 19:00:00 +0900'
-category: 
+category:
 - Swift
 image: /assets/images/swift-cli-argument-parser.jpg
 description: 前回はSwift製コマンドラインツールの始め方について書きました。今回はその続きで、引数の受け取りについて書きます。
 ---
-前回は[Swift製コマンドラインツールの始め方](./swift-cli-start)について書きました。  
+前回は[Swift製コマンドラインツールの始め方](./swift-cli-start)について書きました。
 今回はその続きで、引数の受け取りについて書きます。
 
 ## 引数の受け取り方
@@ -104,7 +106,7 @@ $ swift run Swift-CLI "hello world" -c 3 --include-counter
 3: hello world
 ```
 
-swift-argument-parser は propertyWrapper で `@Argument` `@Option` `@Flag` などが定義されているのが特徴で、直感的で使いやすい印象を持ちました。  
+swift-argument-parser は propertyWrapper で `@Argument` `@Option` `@Flag` などが定義されているのが特徴で、直感的で使いやすい印象を持ちました。
 [swift-format](https://github.com/apple/swift-format/pull/154) や [SwiftLint](https://github.com/realm/SwiftLint/commit/fa5550866802dbeddab6f6df1cb9998dd609ed0a) でも swift-argument-parser が使われるようになっているようです。
 
 引数やオプションをパースするのに便利なライブラリは Carthage で使われている [Commandant](https://github.com/Carthage/Commandant) や XcodeGen で使われている [SwiftCLI](https://github.com/jakeheis/SwiftCLI)、他にも [Commander](https://github.com/kylef/Commander) などがあるので、好みで使うのがいいと思います。
