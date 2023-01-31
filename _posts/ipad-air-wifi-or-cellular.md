@@ -20,6 +20,8 @@ tags:
 - SoftBank
 - au
 - iPad Air
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ipadairwificellular_131025-546x358.png" alt="ipadairwificellular_131025" width="546" height="358" class="alignnone size-large wp-image-10034" /><br />

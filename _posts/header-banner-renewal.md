@@ -20,6 +20,8 @@ tags:
 - Photoshop
 - 流れ
 - ランサーズ
+ogImage:
+  url:
 comments:
 - id: 3285
   author: "【ブログ運営】タイトルロゴをテキストではなくロゴ画像にしてみました。"

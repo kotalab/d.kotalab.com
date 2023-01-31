@@ -19,6 +19,8 @@ category:
 tags:
 - 設定
 - Gmail
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/googleplus-comment_140427-546x288.png" alt="googleplus-comment_140427" width="546" height="288" class="alignnone size-large wp-image-12658" /><br />

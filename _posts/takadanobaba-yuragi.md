@@ -21,6 +21,8 @@ tags:
 - ランチ
 - カレー
 - ゆらぎ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140502181601.jpg" width="548" height="366" class="slooProImg" /><br />

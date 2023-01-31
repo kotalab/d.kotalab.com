@@ -21,6 +21,8 @@ tags:
 - OneCam
 - Camore+
 - camera+
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/camore_120823.png" target="_blank"><img src="/wp-content/uploads/camore_120823.png" alt="" title="camore_120823" width="448" height="448" class="alignnone size-full wp-image-2263" /></a><br />

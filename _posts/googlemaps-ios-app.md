@@ -24,6 +24,8 @@ tags:
 - seeq
 - GoogleMaps
 - URLスキーム
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/googlemaps_121213.png" target="_blank"><img src="/wp-content/uploads/googlemaps_121213-448x448.png" alt="" title="googlemaps_121213" width="448" height="448" class="alignnone size-large wp-image-4702" /></a><br />

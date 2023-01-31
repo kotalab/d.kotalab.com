@@ -21,6 +21,8 @@ tags:
 - MNP
 - 移行
 - Gmail
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/gmailmainmail_130916-546x361.jpg" alt="gmailmainmail_130916" width="546" height="361" class="alignnone size-large wp-image-9251" /><br />

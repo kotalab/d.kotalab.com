@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - 電卓
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphoneappcalculator_131030_01-546x288.jpg" alt="iphoneappcalculator_131030_01" width="546" height="288" class="alignnone size-large wp-image-10078" /><br />

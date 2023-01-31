@@ -18,6 +18,8 @@ category:
 - WordPressプラグインの使い方
 tags:
 - googleウェブマスターツール
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/xmlsitemaps_130617-448x336.jpg" alt="xmlsitemaps_130617" width="448" height="336" class="alignnone size-large wp-image-7514" /><br />

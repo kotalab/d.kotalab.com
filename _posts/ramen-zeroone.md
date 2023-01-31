@@ -19,6 +19,8 @@ category:
 tags:
 - 麺屋ZERO1
 - 橋本
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120927155002.jpg" width="448" height="336" /><br />

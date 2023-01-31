@@ -22,6 +22,8 @@ tags:
 - 買った
 - アップルストア
 - iPhone 5s
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphone5scompareiphone5_130920_01-546x409.jpg" alt="iphone5scompareiphone5_130920_01" width="546" height="409" class="alignnone size-large wp-image-9560" /><br />

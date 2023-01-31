@@ -21,6 +21,8 @@ tags:
 - 買い物
 - 使い方
 - 消費税
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/threeusesofmoney_131228-546x409.jpg" /><br />

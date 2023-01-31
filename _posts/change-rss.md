@@ -22,6 +22,8 @@ tags:
 - Reeder
 - RSS
 - googleリーダー
+ogImage:
+  url:
 comments:
 - id: 1233
   author: "[For Blogger] Google Reader がなくなって「RSSが読めなくなる」という大きな誤解と Google Reader がなくなることで私が困ること。そしてみなさんは何を考えているのかまとめ。他

@@ -21,6 +21,8 @@ tags:
 - パスコード
 - iPhone 5s
 - 指紋認証
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iPhone5sfinger_130920-546x519.jpg" alt="iPhone5sfinger_130920" width="546" height="519" class="alignnone size-large wp-image-9573" /><br />

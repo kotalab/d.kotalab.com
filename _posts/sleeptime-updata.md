@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - sleeptime
 - アップデート
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/sleeptime_120907.jpg" target="_blank"><img src="/wp-content/uploads/sleeptime_120907.jpg" alt="" title="sleeptime_120907" width="448" height="448" class="alignnone size-full wp-image-2553" /></a><br />

@@ -24,6 +24,8 @@ tags:
 - 050plus
 - ウィルコム
 - 通話料
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/telephone_130703-448x336.jpg" alt="telephone_130703" width="448" height="336" class="alignnone size-large wp-image-7727" /><br />

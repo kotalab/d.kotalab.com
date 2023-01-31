@@ -22,6 +22,8 @@ tags:
 - iPadアプリ
 - seeq
 - 使い道
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ipadminiseeq_130321-448x270.jpg" alt="ipadminiseeq_130321" width="448" height="270" class="alignnone size-large wp-image-6564" /><br />

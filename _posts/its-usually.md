@@ -16,6 +16,8 @@ category:
 - とにかくやってみよう
 tags:
 - コンフォートゾーン
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/its-usually_20150609-780x517.jpg" alt="its-usually_20150609" width="780" height="517" class="aligncenter size-large wp-image-14580" /><br />

@@ -23,6 +23,8 @@ tags:
 - iPhone6Plus
 - MVNO
 - DMMmobile
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/02/gl04p-simfree-setting_20150223-780x438.jpg" alt="gl04p-simfree-setting_20150223" width="780" height="438" class="aligncenter size-large wp-image-13989" /><br />

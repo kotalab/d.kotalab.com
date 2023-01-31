@@ -22,6 +22,8 @@ tags:
 - 生命保険
 - 遺族年金
 - 障害年金
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/money-nenkin_140208-546x361.jpg" alt="money-nenkin_140208" width="546" height="361" class="alignnone size-large wp-image-10785" /><br />

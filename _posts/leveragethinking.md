@@ -20,6 +20,8 @@ tags:
 - Book
 - 時間術
 - レバレッジ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/leveragethinking_130805-448x336.jpg" alt="leveragethinking_130805" width="448" height="336" class="alignnone size-large wp-image-7979" /><br />

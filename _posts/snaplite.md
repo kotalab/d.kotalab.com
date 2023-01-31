@@ -19,6 +19,8 @@ category:
 tags:
 - cheero
 - PFU
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/snaplite_140529_02.jpg" alt="Snaplite 140529 02" title="snaplite_140529_02.jpg" border="0" width="548" height="362" /><br />

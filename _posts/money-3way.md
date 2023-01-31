@@ -25,6 +25,8 @@ tags:
 - 貯金
 - 金利
 - 行動
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/saving-money-next-step_140527.jpg" alt="saving-money-next-step_140527" width="780" class="aligncenter size-large wp-image-13222" /><br />

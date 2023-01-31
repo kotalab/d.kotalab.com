@@ -22,6 +22,8 @@ tags:
 - 4番サード魚真
 - 渋谷
 - イベント
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/shiblogger_121130.jpg" target="_blank"><img src="/wp-content/uploads/shiblogger_121130-448x336.jpg" alt="" title="shiblogger_121130" width="448" height="336" class="alignnone size-large wp-image-4451" /></a><br />

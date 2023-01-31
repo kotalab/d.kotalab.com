@@ -21,6 +21,8 @@ tags:
 - Google
 - SEO
 - 貯金
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/google-evolution-2_140416.jpg" alt="Google evolution 2 140416" title="google-evolution-2_140416.jpg" border="0" width="548" height="365" /><br />

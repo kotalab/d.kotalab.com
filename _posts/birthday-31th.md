@@ -20,6 +20,8 @@ tags:
 - アプリ開発
 - WebNote
 - アプリ道場
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/04/birthday-31th_20150430.jpg" alt="Birthday 31th 20150430" width="546" height ="409" class="aligncenter size-large" /><br />

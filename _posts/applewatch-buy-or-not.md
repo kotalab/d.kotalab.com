@@ -20,6 +20,8 @@ tags:
 - 考えよう
 - 自分で考える
 - AppleWatch
+ogImage:
+  url:
 comments: []
 ---
 <p>AppleWatchの発売まであと2日。<br />

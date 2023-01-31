@@ -20,6 +20,8 @@ tags:
 - iPhone
 - 買った
 - USBアダプタ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/lightning-micro-usb-adapter_140126_01-546x361.jpg" alt="lightning-micro-usb-adapter_140126_01" width="546" height="361" class="alignnone size-large wp-image-10676" /><br />

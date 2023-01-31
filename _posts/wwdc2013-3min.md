@@ -19,6 +19,8 @@ category:
 tags:
 - MacBook Air
 - WWDC2013
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/wwdc2013_130611_03-448x214.png" alt="wwdc2013_130611_03" width="448" height="214" class="alignnone size-large wp-image-7432" /><br />

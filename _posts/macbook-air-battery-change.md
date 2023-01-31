@@ -20,6 +20,8 @@ tags:
 - 渋谷
 - MacBook Air
 - ジーニアスバー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/macbookairbatterychange_131119_01-546x409.jpg" alt="macbookairbatterychange_131119_01" width="546" height="409" class="alignnone size-large wp-image-10205" /><br />

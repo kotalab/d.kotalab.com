@@ -25,6 +25,8 @@ tags:
 - AF-S 35mm
 - レンズペン
 - レンズクリーナー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/lenspen_130625_01-448x336.jpg" alt="lenspen_130625_01" width="448" height="336" class="alignnone size-large wp-image-7619" /><br />

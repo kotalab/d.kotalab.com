@@ -19,6 +19,8 @@ category:
 tags:
 - チャーハン
 - 料理
+ogImage:
+  url:
 comments: []
 ---
 <p>冷蔵庫の残り物でよくチャーハンを作ります。@kotala_bです。<br />

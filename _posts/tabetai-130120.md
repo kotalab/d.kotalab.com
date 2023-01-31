@@ -21,6 +21,8 @@ tags:
 - OneCam
 - miil
 - 写真
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130127051150.jpg" width="448" height="448" /><br />

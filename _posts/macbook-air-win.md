@@ -20,6 +20,8 @@ tags:
 - Bootcamp
 - Fusion5
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/zakki_20121117.jpg" target="_blank"><img src="/wp-content/uploads/zakki_20121117-448x297.jpg" alt="" title="zakki_20121117" width="448" height="297" class="alignnone size-large wp-image-4278" /></a><br />

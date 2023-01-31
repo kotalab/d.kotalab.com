@@ -19,6 +19,8 @@ category:
 tags:
 - 銀行
 - 住信SBIネット銀行
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/bank_130425-448x336.jpg" alt="bank_130425" width="448" height="336" class="alignnone size-large wp-image-6915" /><br />

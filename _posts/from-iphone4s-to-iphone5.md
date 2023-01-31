@@ -21,6 +21,8 @@ tags:
 - iPhone4S
 - Line
 - iphone 5
+ogImage:
+  url:
 comments:
 - id: 2549
   author: いよいよiPhone5Sの発表！移行準備を今のうちにやっておこう！ | Cross Mode Life

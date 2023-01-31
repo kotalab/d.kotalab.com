@@ -21,6 +21,8 @@ tags:
 - iPhoneアプリ
 - iPadmini
 - kindle
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/kindle_121025.jpg" target="_blank"><img src="/wp-content/uploads/kindle_121025.jpg" alt="" title="kindle_121025" width="448" height="252" class="alignnone size-full wp-image-3677" /></a><br />

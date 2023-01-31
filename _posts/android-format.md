@@ -18,6 +18,8 @@ category:
 - android
 tags:
 - MNP
+ogImage:
+  url:
 comments:
 - id: 233
   author: ''

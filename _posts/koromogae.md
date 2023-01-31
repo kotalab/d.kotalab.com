@@ -20,6 +20,8 @@ tags:
 - Evernote
 - 断捨離
 - 衣替え
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/koromogae_121006.jpg" target="_blank"><img src="/wp-content/uploads/koromogae_121006.jpg" alt="" title="koromogae_121006" width="448" height="300" class="alignnone size-full wp-image-3200" /></a><br />

@@ -18,6 +18,8 @@ category:
 - WordPressカスタマイズ
 tags:
 - パンくずリスト
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/breadcrumb_130613.jpg" alt="breadcrumb_130613" width="448" height="255" class="alignnone size-full wp-image-7464" /><br />

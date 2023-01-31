@@ -22,6 +22,8 @@ tags:
 - 標準報酬月額
 - フリーランス
 - サラリーマン
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/money-education-vol1_140425.jpg" alt="Money education vol1 140425" title="money-education-vol1_140425.jpg" border="0" width="548" height="411" /><br />

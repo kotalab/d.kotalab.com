@@ -23,6 +23,8 @@ tags:
 - 借金
 - ローン
 - Apple
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/02/applestore-campaign-20150313-780x434.png" alt="applestore-campaign-20150313" width="780" height="434" class="aligncenter size-large wp-image-13959" /><br />

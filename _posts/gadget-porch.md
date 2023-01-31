@@ -23,6 +23,8 @@ tags:
 - 急速充電
 - USBアダプタ
 - おすすめ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/gadgetporch_131019_02-546x409.jpg" alt="gadgetporch_131019_02" width="546" height="409" class="alignnone size-large wp-image-9979" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - 書評
 - 近藤誠
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-medical-gan_140220-546x409.jpg" alt="books-medical-gan_140220" width="546" height="409" class="alignnone size-large wp-image-10876" /><br />

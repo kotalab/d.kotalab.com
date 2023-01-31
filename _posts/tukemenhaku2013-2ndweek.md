@@ -19,6 +19,8 @@ category:
 tags:
 - つけ麺
 - 大つけ麺博
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/tukemenhaku20132ndweek_131017_01-546x409.jpg" alt="tukemenhaku20132ndweek_131017_01" width="546" height="409" class="alignnone size-large wp-image-9951" /><br />

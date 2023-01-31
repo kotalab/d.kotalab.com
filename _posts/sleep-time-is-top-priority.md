@@ -20,6 +20,8 @@ tags:
 - 睡眠の法則
 - ヘルスケア
 - 睡眠時間
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/money-education-vol1_140425.jpg" alt="money-education-vol1_140425.jpg" width="548" height="411" class="aligncenter size-full wp-image-12637" /><br />

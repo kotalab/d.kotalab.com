@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - 快眠リズム
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/sleeplog_120813.png" target="_blank"><img src="/wp-content/uploads/sleeplog_120813.png" alt="" title="sleeplog_120813" width="448" height="329" class="alignnone size-full wp-image-2087" /></a><br />

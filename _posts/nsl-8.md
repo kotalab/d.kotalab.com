@@ -20,6 +20,8 @@ tags:
 - nsl8
 - No Second Lifeセミナー
 - セミナー
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/nsl8_120929.jpg" target="_blank"><img src="/wp-content/uploads/nsl8_120929.jpg" alt="" title="nsl8_120929" width="448" height="336" class="alignnone size-full wp-image-3035" /></a><br />

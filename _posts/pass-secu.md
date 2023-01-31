@@ -18,6 +18,8 @@ category:
 - ストレスフリーな生き方
 tags:
 - パスワード管理
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/security_120812.jpg" target="_blank"><img src="/wp-content/uploads/security_120812.jpg" alt="" title="security_120812" width="448" height="298" class="alignnone size-full wp-image-2069" /></a><br />

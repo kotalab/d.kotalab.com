@@ -21,6 +21,8 @@ tags:
 - Starbucks
 - アンケート
 - 伝え方が9割
+ogImage:
+  url:
 comments: []
 ---
 <p>スタバでアンケート付きレシピが当たりました！こたら（@kotala_b）です。<br />

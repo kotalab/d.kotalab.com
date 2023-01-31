@@ -21,6 +21,8 @@ tags:
 - 町田
 - するぷろ
 - 町田大勝軒
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120801155918.jpg" width="448" height="597" /><br />

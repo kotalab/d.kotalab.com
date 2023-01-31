@@ -18,6 +18,8 @@ tags:
 - アプリ開発
 - 転職
 - やってみる
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/never-give-up_20150629_02-780x585.jpg" alt="never-give-up_20150629_02" width="780" height="585" class="aligncenter size-large wp-image-14702" /></p>

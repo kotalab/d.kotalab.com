@@ -24,6 +24,8 @@ tags:
 - 体重計
 - Withings
 - WS-50 Smart Body Analyzer
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ws50_130726-448x296.jpg" alt="ws50_130726" width="448" height="296" class="alignnone size-large wp-image-7914" /><br />

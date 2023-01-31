@@ -18,6 +18,8 @@ category:
 - 自分らしく生きる
 tags:
 - 熱中症対策
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/nettyusho_130808-448x336.jpg" alt="nettyusho_130808" width="448" height="336" class="alignnone size-large wp-image-8011" /><br />

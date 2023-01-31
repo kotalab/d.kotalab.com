@@ -22,6 +22,8 @@ tags:
 - iPhoneアプリ
 - seeq
 - URLスキーム
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/evernote_130121.png" target="_blank"><img src="/wp-content/uploads/evernote_130121-448x326.png" alt="evernote_130121" width="448" height="326" class="alignnone size-large wp-image-5821" /></a><br />

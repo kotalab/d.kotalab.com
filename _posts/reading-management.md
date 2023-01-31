@@ -20,6 +20,8 @@ tags:
 - BookEver
 - MergeEver
 - OneCam
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/bookever_120722.jpg" target="_blank"><img src="/wp-content/uploads/bookever_120722.jpg" alt="" title="bookever_120722" width="448" height="336" class="alignnone size-full wp-image-1612" /></a><br />

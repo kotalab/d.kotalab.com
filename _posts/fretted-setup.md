@@ -20,6 +20,8 @@ tags:
 - MVNO
 - 格安SIM
 - FREETEL
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2016/01/freetel-setup-20160123-780x585.jpg
 ---

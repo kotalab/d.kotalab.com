@@ -20,6 +20,8 @@ tags:
 - Evernote
 - Gunosy
 - IFTTT
+ogImage:
+  url:
 comments:
 - id: 2043
   author: "Gunosy&atilde;\x82\x92&auml;&frac12;&iquest;&atilde;\x81&pound;&atilde;\x81&brvbar;&atilde;\x81&iquest;&atilde;\x82\x8B

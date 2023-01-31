@@ -20,6 +20,8 @@ tags:
 - miil
 - 大つけ麺博
 - イベント
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/tomoya_121012.jpg" target="_blank"><img src="/wp-content/uploads/tomoya_121012.jpg" alt="" title="tomoya_121012" width="448" height="336" class="alignnone size-full wp-image-3366" /></a><br />

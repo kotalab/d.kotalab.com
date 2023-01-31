@@ -23,6 +23,8 @@ tags:
 - ANKER
 - ペンケース
 - LIHITLAB
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/pencase-lihitlab_140227_01-546x361.jpg" alt="pencase-lihitlab_140227_01" width="546" height="361" class="alignnone size-large wp-image-10999" /><br />

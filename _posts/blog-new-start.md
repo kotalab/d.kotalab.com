@@ -22,6 +22,8 @@ tags:
 - ファイナンシャルプランナー
 - 料金
 - アプリ道場
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/second-anivarsary_140509.jpg" alt="second-anivarsary_140509.JPG" width="548" height="365" class="aligncenter size-full wp-image-13142" /><br />

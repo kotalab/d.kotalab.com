@@ -23,6 +23,8 @@ tags:
 - Due
 - URLスキーム
 - リマインダー
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/smareverdue_130122.jpg" target="_blank"><img src="/wp-content/uploads/smareverdue_130122-448x327.jpg" alt="smareverdue_130122" width="448" height="327" class="alignnone size-large wp-image-5838" /></a><br />

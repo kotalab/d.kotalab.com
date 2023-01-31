@@ -21,6 +21,8 @@ tags:
 - 買った
 - レビュー
 - 電気膝掛け
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/hizakake130105_02.jpg" target="_blank"><img src="/wp-content/uploads/hizakake130105_02-448x336.jpg" alt="hizakake130105_02" width="448" height="336" class="alignnone size-large wp-image-5511" /></a><br />

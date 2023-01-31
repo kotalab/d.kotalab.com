@@ -26,6 +26,8 @@ tags:
 - 読書
 - 見直し
 - ライフログ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/keep-habits-5-hints_140105_01-546x364.jpg" alt="keep-habits-5-hints_140105_01" width="546" height="364" class="alignnone size-large wp-image-10408" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - Book
 - オーディオブック
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/audiobook_130717-448x276.jpg" alt="audiobook_130717" width="448" height="276" class="alignnone size-large wp-image-7875" /><br />

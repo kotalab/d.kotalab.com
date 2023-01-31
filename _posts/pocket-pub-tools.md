@@ -18,6 +18,8 @@ category:
 - Pocket
 tags:
 - Pocketパブリッシャーツール
+ogImage:
+  url:
 comments:
 - id: 1574
   author: どんブロ【007：2013/05/16版】 | 覚醒する @CDiP

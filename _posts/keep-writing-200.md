@@ -19,6 +19,8 @@ category:
 tags:
 - 習慣
 - 連続更新
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/blog200days_121124.jpg" target="_blank"><img src="/wp-content/uploads/blog200days_121124-448x299.jpg" alt="" title="blog200days_121124" width="448" height="299" class="alignnone size-large wp-image-4394" /></a><br />

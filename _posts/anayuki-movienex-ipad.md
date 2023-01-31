@@ -22,6 +22,8 @@ tags:
 - 流れ
 - Google
 - アナと雪の女王
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/anayuki-movienex-ipad_140721.jpg" alt="Anayuki movienex ipad 140721" title="anayuki-movienex-ipad_140721.jpg" border="0" width="548" height="365" /><br />

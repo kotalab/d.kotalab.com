@@ -20,6 +20,8 @@ tags:
 - セキュリティ
 - SNS
 - 乗っ取り対策
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/Itwitter-security_20150601_01.png" alt="Twitter security 20150601 01" width="780" height ="595" class="aligncenter size-large" /><br />

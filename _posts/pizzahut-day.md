@@ -20,6 +20,8 @@ tags:
 - ピザハット
 - ドミノピザ
 - お持ち帰りサービス
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/hatday_130308_01-448x447.jpg" alt="hatday_130308_01" width="448" height="447" class="alignnone size-large wp-image-6434" /><br />

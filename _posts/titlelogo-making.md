@@ -16,6 +16,8 @@ category:
 - WordPressカスタマイズ
 tags:
 - Photoshop
+ogImage:
+  url:
 comments: []
 ---
 <p>持ってるPhotshopのバージョンはCS2です。@kotala_bです。<br />

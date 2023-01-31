@@ -18,6 +18,8 @@ tags:
 - iPhoneケース
 - ジャイアント
 - GIANT
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg" alt="Crossbike iphone case 20150517 02" width="780" height ="585" class="aligncenter size-large" /></p>

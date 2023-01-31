@@ -19,6 +19,8 @@ tags:
 - 通勤電車
 - レバレッジ
 - 見直し
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/time-investment_20150624.jpg" alt="Time investment 20150624" width="780" height ="520" class="aligncenter size-large" /></p>

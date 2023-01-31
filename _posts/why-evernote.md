@@ -16,6 +16,8 @@ category:
 - webサービス
 tags:
 - Evernote
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/Evernote_01.gif" target="_blank"><img src="/wp-content/uploads/Evernote_01.gif" alt="" title="Evernote_01" width="228" height="118" class="alignnone size-full wp-image-1166" /></a><br />

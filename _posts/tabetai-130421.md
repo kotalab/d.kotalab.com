@@ -18,6 +18,8 @@ category:
 - miilの写真
 tags:
 - photo
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130428-448x447.jpg" alt="miil_130428" width="448" height="447" class="alignnone size-large wp-image-6940" /><br />

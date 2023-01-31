@@ -20,6 +20,8 @@ tags:
 - iPad Air
 - WWDC
 - Apple
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/07/wwdc2015-ipad_20150708_02.jpg" alt="Wwdc2015 ipad 20150708 02" width="780" height ="438" class="aligncenter size-large" /></p>

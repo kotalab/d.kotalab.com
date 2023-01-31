@@ -16,6 +16,8 @@ date_gmt: '2012-06-05 06:32:20 +0900'
 category:
 - ブログ
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p>ブログ移転しました！@kotala_bです！<br />

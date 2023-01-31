@@ -18,6 +18,8 @@ tags:
 - 習慣
 - やりたいこと
 - アプリ開発
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/12/there-is-a-good-thing-and-continue_20151209-780x585.jpg
 ---

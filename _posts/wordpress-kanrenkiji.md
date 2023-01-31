@@ -18,6 +18,8 @@ category:
 - WordPressカスタマイズ
 tags:
 - 関連記事表示
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/link_120708.jpg"><img src="/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />

@@ -22,6 +22,8 @@ tags:
 - 料理
 - Dpub
 - 写真
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130210-448x447.jpg" alt="miil_130210" width="448" height="447" class="alignnone size-large wp-image-6099" /><br />

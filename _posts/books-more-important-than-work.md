@@ -19,6 +19,8 @@ category:
 tags:
 - 読んだ
 - 書評
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/shigotoyoritaisetu_121029.jpg" target="_blank"><img src="/wp-content/uploads/shigotoyoritaisetu_121029.jpg" alt="" title="shigotoyoritaisetu_121029" width="448" height="336" class="alignnone size-full wp-image-3792" /></a><br />

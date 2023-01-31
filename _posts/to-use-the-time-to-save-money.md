@@ -21,6 +21,8 @@ tags:
 - アプリ開発
 - 貯金
 - ファイナンシャルプランナー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/07/to-use-the-time-to-save-money_20150714.jpg" alt="To use the time to save money 20150714" width="780" height ="520" class="aligncenter size-large" /></p>

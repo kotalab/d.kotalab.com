@@ -27,6 +27,8 @@ tags:
 - クラウド
 - 移行
 - Gmail
+ogImage:
+  url:
 comments:
 - id: 3277
   author: ネオ・どん速 アーカイブ【2014-01-21】 | 覚醒する @CDiP

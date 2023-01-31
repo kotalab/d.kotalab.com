@@ -20,6 +20,8 @@ tags:
 - google Analytics
 - スマホ
 - モバイル比率
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/2015/01/slooProImg_20150112123504.jpg" width="720" height="477" class="slooProImg" /><br />

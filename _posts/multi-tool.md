@@ -21,6 +21,8 @@ tags:
 - 高城剛
 - ライフパッキング
 - 便利グッズ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/6waytools_130220-448x336.jpg" alt="6waytools_130220" width="448" height="336" class="alignnone size-large wp-image-6259" /><br />

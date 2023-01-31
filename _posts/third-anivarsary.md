@@ -15,6 +15,8 @@ date_gmt: '2015-05-09 00:55:05 +0900'
 category:
 - ブログのある生活
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/third-anivarsary_20150509_01.jpg" alt="Third anivarsary 20150509 01" width="780" height ="516" class="aligncenter size-large" /><br />

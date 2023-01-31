@@ -22,6 +22,8 @@ tags:
 - やりたいこと
 - ストレスフリー
 - クラウド
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/plan-next-action_140103-546x409.jpg" alt="plan-next-action_140103" width="546" height="409" class="alignnone size-large wp-image-10381" /><br />

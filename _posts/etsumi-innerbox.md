@@ -22,6 +22,8 @@ tags:
 - デジタル一眼レフカメラ
 - 収納
 - カメラバッグ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/innerbag_130627_01-448x336.jpg" alt="innerbag_130627_01" width="448" height="336" class="alignnone size-large wp-image-7670" /><br />

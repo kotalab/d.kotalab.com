@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - iOS7
+ogImage:
+  url:
 comments:
 - id: 2810
   author: "[どん速 127] docomo.ne.jp が iPhone で使えるようになりました。他 | 覚醒する @CDiP"

@@ -22,6 +22,8 @@ tags:
 - Toodledo
 - 習慣
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/taskchute_121121.jpg" target="_blank"><img src="/wp-content/uploads/taskchute_121121-448x298.jpg" alt="" title="taskchute_121121" width="448" height="298" class="alignnone size-large wp-image-4342" /></a><br />

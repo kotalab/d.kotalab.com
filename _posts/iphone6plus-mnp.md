@@ -23,6 +23,8 @@ tags:
 - 料金
 - iPhone 6
 - iPhone 6Plus
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphone6plus-mnp_20140920_01.png" alt="iphone6plus-mnp_20140920_01" width="1086" height="540" class="aligncenter size-full wp-image-13502" /><br />

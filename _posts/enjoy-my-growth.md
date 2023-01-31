@@ -18,6 +18,8 @@ tags:
 - やりたいこと
 - アプリ開発
 - Swift
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/bloggers-worries_20150117-780x438.jpg" alt="bloggers-worries_20150117" width="780" height="438" class="aligncenter size-large wp-image-13846" /></p>

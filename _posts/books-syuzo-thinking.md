@@ -19,6 +19,8 @@ category:
 tags:
 - 書評
 - 松岡修造
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/shuzo_121209.jpg" target="_blank"><img src="/wp-content/uploads/shuzo_121209-448x336.jpg" alt="" title="shuzo_121209" width="448" height="336" class="alignnone size-large wp-image-4655" /></a><br />

@@ -20,6 +20,8 @@ tags:
 - nsl11
 - No Second Lifeセミナー
 - セミナー
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/nsl11_20121118_01.jpg" target="_blank"><img src="/wp-content/uploads/nsl11_20121118_01-448x336.jpg" alt="" title="nsl11_20121118_01" width="448" height="336" class="alignnone size-large wp-image-4305" /></a><br />

@@ -20,6 +20,8 @@ tags:
 - ブロガー名刺
 - 前川企画印刷
 - Dpub
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/blogermeishi_130123.jpg" target="_blank"><img src="/wp-content/uploads/blogermeishi_130123-448x336.jpg" alt="blogermeishi_130123" width="448" height="336" class="alignnone size-large wp-image-5857" /></a><br />

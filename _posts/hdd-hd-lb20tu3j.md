@@ -19,6 +19,8 @@ category:
 tags:
 - buffalo
 - 外付けhdd
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/hdd_120930.jpg" target="_blank"><img src="/wp-content/uploads/hdd_120930.jpg" alt="" title="hdd_120930" width="448" height="336" class="alignnone size-full wp-image-3044" /></a><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - iphone 5
 - cheero
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/cheero_121014_01.jpg" target="_blank"><img src="/wp-content/uploads/cheero_121014_01.jpg" alt="" title="cheero_121014_01" width="448" height="336" class="alignnone size-full wp-image-3421" /></a><br />

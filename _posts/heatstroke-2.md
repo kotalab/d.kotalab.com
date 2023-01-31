@@ -18,6 +18,8 @@ category:
 - 自分らしく生きる
 tags:
 - 熱中症対策
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/water_120729.jpg" target="_blank"><img src="/wp-content/uploads/water_120729.jpg" alt="" title="water_120729" width="448" height="336" class="alignnone size-full wp-image-1714" /></a><br />

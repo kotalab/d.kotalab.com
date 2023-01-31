@@ -20,6 +20,8 @@ tags:
 - Dpub
 - アプリ開発
 - 三日坊主
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/insurancecannotfeelrelieved_131126_03.jpg" alt="insurancecannotfeelrelieved_131126_03" width="780"　class="aligncenter size-full wp-image-10246" /><br />

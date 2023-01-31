@@ -18,6 +18,8 @@ category:
 - WordPressカスタマイズ
 tags:
 - sharehtml
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/sharehtml_20121006.jpg" target="_blank"><img src="/wp-content/uploads/sharehtml_20121006.jpg" alt="" title="sharehtml_20121006" width="448" height="321" class="alignnone size-full wp-image-3220" /></a><br />

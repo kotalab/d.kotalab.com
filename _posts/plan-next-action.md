@@ -24,6 +24,8 @@ tags:
 - 正月
 - 勉強法
 - FP
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/taskstart_20121005.jpg" alt="" title="taskstart_20121005" width="546" height="348" class="alignnone size-full wp-image-3123" /><br />

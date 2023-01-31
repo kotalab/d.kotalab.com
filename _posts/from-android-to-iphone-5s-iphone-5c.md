@@ -23,6 +23,8 @@ tags:
 - iPhone 5s
 - iPhone 5c
 - パズドラ
+ogImage:
+  url:
 comments:
 - id: 2578
   author: "[どん速 118] iPhone 5s 求める行列ユーザーにこの台風はどうなんだ。他 | 覚醒する @CDiP"

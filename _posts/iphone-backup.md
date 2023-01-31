@@ -21,6 +21,8 @@ tags:
 - 移行
 - iPhone 5s
 - iPhone 5c
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphonebackup_130912_07-546x407.jpg" alt="iphonebackup_130912_07" width="546" height="407" class="alignnone size-large wp-image-9088" /><br />

@@ -20,6 +20,8 @@ tags:
 - 読んだ
 - 書評
 - ジョン・キム
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/kobinai_130408-448x336.jpg" alt="kobinai_130408" width="448" height="336" class="alignnone size-large wp-image-6760" /><br />

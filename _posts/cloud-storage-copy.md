@@ -20,6 +20,8 @@ tags:
 - Dropbox
 - copy
 - クラウド
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/copy_130418-448x198.jpg" alt="copy_130418" width="448" height="198" class="alignnone size-large wp-image-6862" /><br />

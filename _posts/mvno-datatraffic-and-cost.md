@@ -23,6 +23,8 @@ tags:
 - 3G
 - MVNO
 - 格安SIM
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/mobile-packet-cost-up_140704.jpg" alt="mobile-packet-cost-up_140704" width="748" class="aligncenter size-full wp-image-13311" /><br />

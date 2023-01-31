@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - Gunosy
+ogImage:
+  url:
 comments:
 - id: 1051
   author: "[iPhone App Focus] 厳選8本！レシートを撮影して家計簿が付けられたら素敵だと思いませんか？はい、出ました。他 | 覚醒する

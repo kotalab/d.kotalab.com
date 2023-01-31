@@ -20,6 +20,8 @@ tags:
 - 教育費
 - マネープラン
 - 将来設計
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/education-cost_140218.png" alt="education-cost_140218" width="470" height="279" class="alignnone size-full wp-image-10863" /><br />

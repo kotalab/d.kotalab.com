@@ -20,6 +20,8 @@ tags:
 - miil
 - お雑煮
 - 正月
+ogImage:
+  url:
 comments:
 - id: 700
   author: "【正月企画】あなたの家のお雑煮教えてください！ #マイ雑煮 | むねさだブログ"

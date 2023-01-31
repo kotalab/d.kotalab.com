@@ -21,6 +21,8 @@ tags:
 - 習慣
 - 連続更新
 - セミナー
+ogImage:
+  url:
 comments:
 - id: 1205
   author: "[For Blogger] 続ける意味と心構えと最大限の発信力。/ ブロネクは明日開催です。必見。他 | 覚醒する @CDiP"

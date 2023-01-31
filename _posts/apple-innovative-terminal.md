@@ -21,6 +21,8 @@ tags:
 - iPad
 - 革新的
 - G-SHOCCK
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/apple_130211-448x300.jpg" alt="apple_130211" width="448" height="300" class="alignnone size-large wp-image-6113" /><br />

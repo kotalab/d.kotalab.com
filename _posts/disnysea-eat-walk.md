@@ -20,6 +20,8 @@ tags:
 - photo
 - 写真
 - ディズニーシー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/disnysea_130528-448x297.jpg" alt="disnysea_130528" width="448" height="297" class="alignnone size-large wp-image-7284" /><br />

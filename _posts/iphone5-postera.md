@@ -17,6 +17,8 @@ date_gmt: '2012-09-09 05:26:42 +0900'
 category:
 - iPhoneニュース
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120909142633.jpg" width="448" height="598" /><br />

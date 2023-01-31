@@ -18,6 +18,8 @@ tags:
 - costco
 - 作った
 - 料理
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/clamChowder.jpg" target="_blank"><img src="/wp-content/uploads/clamChowder.jpg" alt="" title="clamChowder" width="400" height="300" class="alignnone size-full wp-image-1225" /></a><br />

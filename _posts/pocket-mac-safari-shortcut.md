@@ -18,6 +18,8 @@ category:
 - Pocketの使い方
 tags:
 - Safari
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/pocketsafari_130508_01-448x302.jpg" alt="pocketsafari_130508_01" width="448" height="302" class="alignnone size-large wp-image-7055" /><br />

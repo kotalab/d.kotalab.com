@@ -23,6 +23,8 @@ tags:
 - 料金
 - スマホ
 - 格安SIM
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/02/slooProImg_20150227103006.jpg" alt="slooProImg_20150227103006.jpg" width="720" height="540" class="aligncenter size-full wp-image-13993" /><br />

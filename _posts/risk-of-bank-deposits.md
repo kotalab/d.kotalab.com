@@ -22,6 +22,8 @@ tags:
 - 勝間和代
 - インフレ
 - アベノミクス
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/risk-of-bank-deposits_140330-546x409.jpg" alt="risk-of-bank-deposits_140330" width="546" height="409" class="alignnone size-large wp-image-11306" /><br />

@@ -22,6 +22,8 @@ tags:
 - 子育て支援
 - 児童手当
 - 給付金
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/kosodate_140328_02-546x363.jpg" alt="kosodate_140328_02" width="546" height="363" class="alignnone size-large wp-image-11277" /><span class="ss">via:onigiri-kun</span></p>

@@ -19,6 +19,8 @@ category:
 tags:
 - iPhone
 - iphone 5
+ogImage:
+  url:
 comments: []
 ---
 <p>iPhone6での注意点はこちら&rarr;[article include="13480"]<br />

@@ -19,6 +19,8 @@ category:
 tags:
 - 習慣
 - 金光サリィ
+ogImage:
+  url:
 comments:
 - id: 3279
   author: あなたへおすすめ！新しいことを始める前に読みたい記事を6つご紹介 | 書きどき.com

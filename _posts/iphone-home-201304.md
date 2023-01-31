@@ -21,6 +21,8 @@ tags:
 - DraftPad
 - iphone 5
 - ホーム画面
+ogImage:
+  url:
 comments:
 - id: 1465
   author: 厳選9本！痛烈なアップデートの「Google Chrome」もいいが、やっぱり「速Calendar」でしょう。他 。[iPhone App Links]

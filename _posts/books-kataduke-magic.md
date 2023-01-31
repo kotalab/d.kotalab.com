@@ -20,6 +20,8 @@ tags:
 - 読んだ
 - 書評
 - 近藤麻理恵
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/kataduke_121226.jpg" target="_blank"><img src="/wp-content/uploads/kataduke_121226-448x335.jpg" alt="kataduke_121226" width="448" height="335" class="alignnone size-large wp-image-5104" /></a><br />

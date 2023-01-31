@@ -15,6 +15,8 @@ date_gmt: '2012-05-17 07:00:58 +0900'
 category:
 - 自分らしく生きる
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p>夕食の時にテレビを思わず見入ってしまいました。@kotala_bです。<br />

@@ -20,6 +20,8 @@ tags:
 - Book
 - 習慣
 - 書評
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130208152334.jpg" width="448" height="336" /><br />

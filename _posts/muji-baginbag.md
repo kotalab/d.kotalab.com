@@ -20,6 +20,8 @@ tags:
 - 買った
 - バッグインバッグ
 - 無印良品
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/baginbag_120919_02.jpg" target="_blank"><img src="/wp-content/uploads/baginbag_120919_02.jpg" alt="" title="baginbag_120919_02" width="448" height="336" class="alignnone size-full wp-image-2826" /></a><br />

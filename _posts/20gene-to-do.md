@@ -18,6 +18,8 @@ category:
 - タスク管理・仕事術の本
 tags:
 - 読んだ
+ogImage:
+  url:
 comments: []
 ---
 <p>まだギリギリ20代です。@kotala_bです。<br />

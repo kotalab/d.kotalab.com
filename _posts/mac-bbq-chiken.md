@@ -18,6 +18,8 @@ category:
 - ファストフード
 tags:
 - マクドナルド
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130502125650.jpg" width="448" height="448" /><br />

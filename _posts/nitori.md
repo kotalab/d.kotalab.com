@@ -21,6 +21,8 @@ tags:
 - 整理整頓
 - 収納
 - 片づけ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/nitori_130530-448x297.jpg" alt="nitori_130530" width="448" height="297" class="alignnone size-large wp-image-7328" /><br />

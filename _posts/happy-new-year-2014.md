@@ -17,6 +17,8 @@ date_gmt: '2014-01-01 01:55:37 +0900'
 category:
 - ひとりごと
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140101105533.jpg" width="500" height="500" class="slooProImg" /><br />

@@ -18,6 +18,8 @@ tags:
 - iPhone
 - money
 - 意識
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/how-to-use-money_1404122.jpg" alt="how-to-use-money_140412.JPG" width="548" height="548" class="aligncenter size-large wp-image-12518" /><br />

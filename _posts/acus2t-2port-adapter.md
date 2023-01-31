@@ -22,6 +22,8 @@ tags:
 - USBアダプタ
 - iPhone 5s
 - iPad Air
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/acus2t2portadapter_131107_01-546x361.jpg" alt="acus2t2portadapter_131107_01" width="546" height="361" class="alignnone size-large wp-image-10124" /><br />

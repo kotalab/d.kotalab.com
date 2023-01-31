@@ -21,6 +21,8 @@ tags:
 - プロジェクト管理
 - タスク管理
 - Toodledo
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/yaritai_120828.jpg"><img src="/wp-content/uploads/yaritai_120828.jpg" alt="" title="yaritai_120828" width="448" height="336" class="alignnone size-full wp-image-2374" /></a><br />

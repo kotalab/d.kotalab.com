@@ -17,6 +17,8 @@ category:
 tags:
 - 問題解決
 - 質問
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/explained-before-it-is-heard_20150618.jpg" alt="Explained before it is heard 20150618" width="780" height ="585" class="aligncenter size-large" /></p>

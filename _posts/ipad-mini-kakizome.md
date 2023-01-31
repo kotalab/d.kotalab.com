@@ -20,6 +20,8 @@ tags:
 - iPadmini
 - iPadアプリ
 - 書き初め
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/kakizome130102.jpg" target="_blank"><img src="/wp-content/uploads/kakizome130102-448x336.jpg" alt="kakizome130102" width="448" height="336" class="alignnone size-large wp-image-5181" /></a><br />

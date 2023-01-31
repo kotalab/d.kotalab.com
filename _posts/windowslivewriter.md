@@ -16,6 +16,8 @@ category:
 - ブログの書き方
 tags:
 - WindowsLiveWriter
+ogImage:
+  url:
 comments: []
 ---
 <p>WindowsLiveWriter入れてみました。@kotala_bです。<br />

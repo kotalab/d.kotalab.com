@@ -20,6 +20,8 @@ tags:
 - LTE
 - GL04P
 - EMOBILE
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130605170309.jpg" width="448" height="297" /><br />

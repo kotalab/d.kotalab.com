@@ -27,6 +27,8 @@ tags:
 - iPhone6Plus
 - iPhone 6
 - iPhone 6Plus
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphone5scompareiphone5_130920_04.jpg" alt="iphone5scompareiphone5_130920_04" width="1092" height="819" class="aligncenter size-full wp-image-9561" /><br />

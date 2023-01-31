@@ -23,6 +23,8 @@ tags:
 - PictShare
 - Picasa
 - カメラロール
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/cameraroll130103.jpg" target="_blank"><img src="/wp-content/uploads/cameraroll130103-448x305.jpg" alt="cameraroll130103" width="448" height="305" class="alignnone size-large wp-image-5203" /></a><br />

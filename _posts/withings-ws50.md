@@ -24,6 +24,8 @@ tags:
 - 体重計
 - wthings
 - Withings
+ogImage:
+  url:
 comments:
 - id: 2046
   author: 空気の質を測定するAirBoxLab, 表示はスマートフォン（iOS, Android）へ | TechCrunch Japan

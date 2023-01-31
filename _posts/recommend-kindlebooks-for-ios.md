@@ -20,6 +20,8 @@ tags:
 - アプリ開発
 - Xcode
 - Swift
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/recommend-kindlebooks-for-ios_20150531_05-780x368.png" alt="recommend-kindlebooks-for-ios_20150531_05" width="780" height="368" class="aligncenter size-large wp-image-14498" /><br />

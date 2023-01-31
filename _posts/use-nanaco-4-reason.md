@@ -22,6 +22,8 @@ tags:
 - セブンイレブン
 - ICカード
 - nanaco
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/use-nanaco-4-reason_20150104_01-780x438.jpg" alt="use-nanaco-4-reason_20150104_01" width="780" height="438" class="aligncenter size-large wp-image-13747" /><br />

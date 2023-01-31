@@ -18,6 +18,8 @@ category:
 - ブログ企画
 tags:
 - photo
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/amaphoto_120707_05.jpg" target="_blank"><img src="/wp-content/uploads/amaphoto_120707_05.jpg" alt="" title="amaphoto_120707_05" width="448" height="331" class="alignnone size-full wp-image-1309" /></a><br />

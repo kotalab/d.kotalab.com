@@ -22,6 +22,8 @@ tags:
 - MNP
 - iphone 5
 - au
+ogImage:
+  url:
 comments:
 - id: 1458
   author: iPhone NEWS Links 001 &#8211; 20130409版 | 覚醒する @CDiP

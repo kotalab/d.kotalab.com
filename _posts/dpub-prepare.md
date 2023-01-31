@@ -20,6 +20,8 @@ tags:
 - Due
 - Dpub
 - 準備
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/dpub_130117.jpg" target="_blank"><img src="/wp-content/uploads/dpub_130117-448x114.jpg" alt="dpub_130117" width="448" height="114" class="alignnone size-large wp-image-5754" /></a><br />

@@ -21,6 +21,8 @@ tags:
 - 飲んだ
 - スタバ
 - Starbucks
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/starbucks_130427-448x336.jpg" alt="starbucks_130427" width="448" height="336" class="alignnone size-large wp-image-6931" /><br />

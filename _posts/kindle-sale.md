@@ -21,6 +21,8 @@ tags:
 - Book
 - kindle
 - セール
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/Kindle_130708.jpg" alt="Kindle_130708" width="369" height="207" class="alignnone size-full wp-image-7779" /><br />

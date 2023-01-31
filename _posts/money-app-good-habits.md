@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - bookeep
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/bookeep_130301-448x448.png" alt="bookeep_130301" width="448" height="448" class="alignnone size-large wp-image-6372" /><br />

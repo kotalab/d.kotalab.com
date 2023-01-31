@@ -22,6 +22,8 @@ tags:
 - SoftBank
 - iphone 5
 - ホワイトプランR
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/whiteplan_120928_01.jpg"><img src="/wp-content/uploads/whiteplan_120928_01.jpg" alt="" title="whiteplan_120928_01" width="448" height="336" class="alignnone size-full wp-image-3012" /></a><br />

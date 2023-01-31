@@ -30,6 +30,8 @@ tags:
 - seeq
 - カウントダウンカレンダー
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/kamiapp_121203.jpg" target="_blank"><img src="/wp-content/uploads/kamiapp_121203-448x319.jpg" alt="" title="kamiapp_121203" width="448" height="319" class="alignnone size-large wp-image-4521" /></a><br />

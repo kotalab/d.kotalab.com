@@ -20,6 +20,8 @@ tags:
 - Evernote
 - iPad
 - iPadアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/penultimate_130202-448x448.png" alt="penultimate_130202" width="448" height="448" class="alignnone size-large wp-image-5996" /><br />

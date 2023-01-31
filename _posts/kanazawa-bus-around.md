@@ -19,6 +19,8 @@ tags:
 - 近江町市場
 - 周遊バス
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/kanazawa-bus-around_20150510_10.jpg" alt="Kanazawa bus around 20150510 10" width="780" height ="585" class="aligncenter size-large" /><br />

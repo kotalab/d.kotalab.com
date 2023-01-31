@@ -23,6 +23,8 @@ tags:
 - kindle
 - 電子書籍
 - iPad
+ogImage:
+  url:
 comments:
 - id: 1207
   author: "[iPhone NEWS] アップル、日本語版 iBookstore をついにオープン。〜 関連記事と便利情報総まとめ。 | 覚醒する @CDiP"

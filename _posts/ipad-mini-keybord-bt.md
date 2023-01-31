@@ -21,6 +21,8 @@ tags:
 - 買った
 - iPadmini
 - bluetoothキーボード
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/bluetoothkeyboard_130114.jpg" target="_blank"><img src="/wp-content/uploads/bluetoothkeyboard_130114-448x300.jpg" alt="bluetoothkeyboard_130114" width="448" height="300" class="alignnone size-large wp-image-5683" /></a><br />

@@ -18,6 +18,8 @@ category:
 - ストレスフリーな本
 tags:
 - 読んだ
+ogImage:
+  url:
 comments: []
 ---
 <p>海外旅行に興味があります。@kotala_bです。<br />

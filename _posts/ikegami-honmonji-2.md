@@ -18,6 +18,8 @@ category:
 - おでかけ・散歩
 tags:
 - 池上本門寺
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/slooProImg_20120919153641.jpg" target="_blank"><img src="/wp-content/uploads/slooProImg_20120919153641.jpg" alt="" title="slooProImg_20120919153641.jpg" width="448" height="336" class="alignnone size-full wp-image-2871" /></a><br />

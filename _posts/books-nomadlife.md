@@ -22,6 +22,8 @@ tags:
 - ノマド
 - ノマドライフ
 - 本田直之
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/nomadlife_121217.jpg" target="_blank"><img src="/wp-content/uploads/nomadlife_121217-448x336.jpg" alt="nomadlife_121217" width="448" height="336" class="alignnone size-large wp-image-4920" /></a><br />

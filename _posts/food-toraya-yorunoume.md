@@ -18,6 +18,8 @@ category:
 - スイーツ
 tags:
 - 虎屋の羊羹
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/toraya_121026.jpg" target="_blank"><img src="/wp-content/uploads/toraya_121026.jpg" alt="" title="toraya_121026" width="448" height="336" class="alignnone size-full wp-image-3699" /></a><br />

@@ -25,6 +25,8 @@ tags:
 - iPadアプリ
 - Kindleアプリ
 - Kindleストア
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/IMG_0050.png" target="_blank"><img src="/wp-content/uploads/IMG_0050-448x309.png" alt="" title="IMG_0050" width="448" height="309" class="alignnone size-large wp-image-4595" /></a><br />

@@ -21,6 +21,8 @@ tags:
 - Chromecast
 - AppleTV
 - アナと雪の女王
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/anayuki-movienex_140719.png" alt="Anayuki movienex 140719" title="anayuki-movienex_140719.png" border="0" width="548" height="321" /><br />

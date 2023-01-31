@@ -19,6 +19,8 @@ tags:
 - Dpub
 - 風邪
 - 六本木
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/dpub11_20150622_01.jpg" alt="Dpub11 20150622 01" width="780" height ="520" class="aligncenter size-large" /></p>

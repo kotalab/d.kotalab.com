@@ -19,6 +19,8 @@ category:
 tags:
 - 書評
 - コミュニケーション
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/books-killerquestion_20150128-780x438.jpg" alt="books-killerquestion_20150128" width="780" height="438" class="aligncenter size-large wp-image-13906" /><br />

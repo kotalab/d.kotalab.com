@@ -24,6 +24,8 @@ tags:
 - MacBook Air
 - 読書
 - iPad Air
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ipadairoripadmini_1311051-546x361.jpg" alt="ipadairoripadmini_131105" width="546" height="361" class="alignnone size-large wp-image-10112" /><br />

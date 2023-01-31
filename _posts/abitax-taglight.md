@@ -21,6 +21,8 @@ tags:
 - ライフパッキング
 - 小型ライト
 - ABITAX
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/abitax_130222-448x336.jpg" alt="abitax_130222" width="448" height="336" class="alignnone size-large wp-image-6286" /><br />

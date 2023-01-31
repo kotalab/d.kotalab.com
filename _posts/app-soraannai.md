@@ -20,6 +20,8 @@ tags:
 - XバンドMPレーダー
 - そら案内
 - ゲリラ豪雨
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140811084430.jpg" width="548" height="411" class="slooProImg" /><br />

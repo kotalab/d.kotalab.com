@@ -20,6 +20,8 @@ tags:
 - 町田
 - つけ麺
 - 町田大勝軒
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120904172617.jpg" width="448" height="336" /><br />

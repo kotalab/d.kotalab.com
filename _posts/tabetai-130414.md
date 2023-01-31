@@ -19,6 +19,8 @@ category:
 tags:
 - photo
 - 料理
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130421_04-448x447.jpg" alt="miil_130421_04" width="448" height="447" class="alignnone size-large wp-image-6890" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - 生命保険
 - 見直し
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/Review-timing-of-the-insurance_140128-546x361.jpg" alt="Review timing of the insurance_140128" width="546" height="361" class="alignnone size-large wp-image-10689" /><br />

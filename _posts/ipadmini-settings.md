@@ -21,6 +21,8 @@ tags:
 - iPad
 - 4本指
 - 使い方
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ipadmini130108.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini130108-448x300.jpg" alt="ipadmini130108" width="448" height="300" class="alignnone size-large wp-image-5573" /></a><br />

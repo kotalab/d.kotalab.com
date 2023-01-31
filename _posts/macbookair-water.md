@@ -21,6 +21,8 @@ tags:
 - 外付けhdd
 - MacBook Air
 - 水没
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/suibotsu_130415-448x336.jpg" alt="suibotsu_130415" width="448" height="336" class="alignnone size-large wp-image-6825" /><br />

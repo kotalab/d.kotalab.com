@@ -19,6 +19,8 @@ category:
 tags:
 - Q.
 - ゲームアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/app-q_20150113-780x438.jpg" alt="app-q_20150113" width="780" height="438" class="aligncenter size-large wp-image-13830" /><br />

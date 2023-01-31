@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - Due
 - 僕の来た道
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/due_120912.jpg" target="_blank"><img src="/wp-content/uploads/due_120912.jpg" alt="" title="due_120912" width="448" height="448" class="alignnone size-full wp-image-2689" /></a><br />

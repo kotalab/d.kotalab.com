@@ -19,6 +19,8 @@ category:
 tags:
 - 銀行
 - 貯金
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/the-reason-for-saving-money_140415.jpg" alt="The reason for saving money 140415" title="the-reason-for-saving-money_140415.jpg" border="0" width="548" height="411" /><br />

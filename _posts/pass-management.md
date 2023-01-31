@@ -15,6 +15,8 @@ date_gmt: '2012-05-10 17:17:24 +0900'
 category:
 - ストレスフリーな生き方
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p>不安定な天気の中行きも帰りも傘を差さずに通勤出来てラッキーな@kotala_bです。<br />

@@ -22,6 +22,8 @@ tags:
 - SoftBank
 - 設定
 - 開封
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/mimamori_120720_01.jpg" target="_blank"><img src="/wp-content/uploads/mimamori_120720_01.jpg" alt="" title="mimamori_120720_01" width="448" height="336" class="alignnone size-full wp-image-1582" /></a><br />

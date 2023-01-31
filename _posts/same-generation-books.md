@@ -18,6 +18,8 @@ category:
 - ブロガーの本
 tags:
 - 読んだ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/blogbook_120825.jpg" target="_blank"><img src="/wp-content/uploads/blogbook_120825.jpg" alt="" title="blogbook_120825" width="448" height="336" class="alignnone size-full wp-image-2322" /></a><br />

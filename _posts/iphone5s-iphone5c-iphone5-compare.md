@@ -20,6 +20,8 @@ tags:
 - docomo
 - iPhone 5s
 - iPhone 5c
+ogImage:
+  url:
 comments:
 - id: 2558
   author: "[どん速 117] LCD Clock の ForYouInc. が設立10周年なんだそうですよ！他 | 覚醒する @CDiP"

@@ -20,6 +20,8 @@ tags:
 - 読んだ
 - 書評
 - 伊賀泰代
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140127080614.jpg" width="546" height="409" class="slooProImg" /><br />

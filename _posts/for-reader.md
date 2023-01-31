@@ -19,6 +19,8 @@ tags:
 - RSS
 - facebook
 - Feedly
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/04/as-if_20150424-780x520.jpg" alt="as-if_20150424" width="780" height="520" class="aligncenter size-large wp-image-14177" /></p>

@@ -24,6 +24,8 @@ tags:
 - docomo
 - MNP
 - iphone 5
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/mnp_20120712_06.jpg"><img src="/wp-content/uploads/mnp_20120712_06.jpg" alt="" title="mnp_20120712_06" width="448" height="336" class="alignnone size-full wp-image-1403" /></a><br />

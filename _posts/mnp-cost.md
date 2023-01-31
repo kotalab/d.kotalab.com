@@ -22,6 +22,8 @@ tags:
 - MNP
 - au
 - 一括0円
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphone5s-iphone5c-zeroyen_140120_02-546x361.jpg" alt="iphone5s-iphone5c-zeroyen_140120_02" width="546" height="361" class="alignnone size-large wp-image-10612" /><br />

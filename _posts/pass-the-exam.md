@@ -22,6 +22,8 @@ tags:
 - 2級ファイナンシャル･プランニング技能士
 - FP
 - 2級
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/passtheexam_131115_01-546x361.png" alt="passtheexam_131115_01" width="546" height="361" class="alignnone size-large wp-image-10185" /><br />

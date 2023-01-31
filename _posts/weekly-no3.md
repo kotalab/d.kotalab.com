@@ -18,6 +18,8 @@ category:
 - kotala's Weekly
 tags:
 - こたらの1週間
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/weekly_120625_02.jpg" target="_blank"><img src="/wp-content/uploads/weekly_120625_02.jpg" alt="" title="weekly_120625_02" width="448" height="299" class="alignnone size-full wp-image-1027" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/jeffk/62725240/" target="_blank">Dinner</a> / jeffk</span><br />

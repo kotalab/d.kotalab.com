@@ -21,6 +21,8 @@ tags:
 - iphone 5
 - au
 - iPhone 5s
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/aucant3yen_130921_01-546x384.png" alt="aucant3yen_130921_01" width="546" height="384" class="alignnone size-large wp-image-9582" /><br />

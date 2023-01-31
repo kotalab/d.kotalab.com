@@ -18,6 +18,8 @@ category:
 - WordPressカスタマイズ
 tags:
 - シェアボタン
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/social_120630_03.jpg" target="_blank"><img src="/wp-content/uploads/social_120630_03.jpg" alt="" title="social_120630_03" width="448" height="373" class="alignnone size-full wp-image-1138" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/info_grrl/5084920323/" target="_blank">Social Media Small Plates</a> - Just Try 1 or 2! (or 3 or 4!) / The Daring Librarian</span><br />

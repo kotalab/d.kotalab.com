@@ -19,6 +19,8 @@ category:
 tags:
 - Macアプリ
 - MarsEdit
+ogImage:
+  url:
 comments:
 - id: 2800
   author: "[どん速 126] 「和室Mac」が復活してます。他 | 覚醒する @CDiP"

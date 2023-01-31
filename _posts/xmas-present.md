@@ -23,6 +23,8 @@ tags:
 - Rowline
 - スマートアルバム
 - 顔文字登録 MySmiley
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/appsale_121224.png" target="_blank"><img src="/wp-content/uploads/appsale_121224-448x320.png" alt="appsale_121224" width="448" height="320" class="alignnone size-large wp-image-5079" /></a><br />

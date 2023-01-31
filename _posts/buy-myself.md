@@ -17,6 +17,8 @@ category:
 tags:
 - 四角大輔
 - AppleWatch
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/04/buy-myself_20150428.jpg" alt="Buy myself 20150428" width="546" height ="409" class="aligncenter size-large" /></p>

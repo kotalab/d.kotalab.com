@@ -20,6 +20,8 @@ tags:
 - サラリーマン
 - 立花岳志
 - 情報発信・ブランディング講座
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/professional-or-amateur_20150511_01.jpg" alt="Professional or amateur 20150511 01" width="780" height ="516" class="aligncenter size-large" /></p>

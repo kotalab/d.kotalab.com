@@ -21,6 +21,8 @@ tags:
 - 準備
 - サラリーマン
 - 行動
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="728" class="aligncenter size-full wp-image-10753" /><br />

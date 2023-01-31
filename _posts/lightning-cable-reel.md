@@ -19,6 +19,8 @@ category:
 tags:
 - 買った
 - iPhone 5s
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/lightningcablereel130923_01-546x409.jpg" alt="lightningcablereel130923_01" width="546" height="409" class="alignnone size-large wp-image-9594" /><br />

@@ -18,6 +18,8 @@ tags:
 - スマホ
 - アイスコーヒー
 - R.O.STAR
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/07/Lets-stop-dare-because-it-is-free_20150729.jpg
 ---

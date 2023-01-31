@@ -22,6 +22,8 @@ tags:
 - 旅行
 - 広島
 - 福岡
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/to-do-by-dpub_140114-546x409.jpg" alt="to-do-by-dpub_140114" width="546" height="409" class="alignnone size-large wp-image-10549" /><br />

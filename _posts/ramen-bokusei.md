@@ -19,6 +19,8 @@ category:
 tags:
 - 麺やぼくせい
 - 下北沢
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ramen_120625_05.jpg" target="_blank"><img src="/wp-content/uploads/ramen_120625_05.jpg" alt="" title="ramen_120625_05" width="448" height="336" class="alignnone size-full wp-image-999" /></a><br />

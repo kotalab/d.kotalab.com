@@ -21,6 +21,8 @@ tags:
 - 使い方
 - SMARTalk
 - 通話料
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/smartalk_130704-300x300.png" alt="smartalk_130704" width="300" height="300" class="alignnone size-medium wp-image-7745" /><br />

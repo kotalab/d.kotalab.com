@@ -25,6 +25,8 @@ tags:
 - 広島
 - 宮島
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p>宮島へ行ってきました。こたら（@kotala_b）です。<br />

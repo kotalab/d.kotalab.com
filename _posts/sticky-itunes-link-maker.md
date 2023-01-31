@@ -17,6 +17,8 @@ date_gmt: '2012-07-14 23:57:20 +0900'
 category:
 - WordPressカスタマイズ
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/stickyLinkMaker_120715_03.png" target="_blank"><img src="/wp-content/uploads/stickyLinkMaker_120715_03.png" alt="" title="stickyLinkMaker_120715_03" width="185" height="50" class="alignnone size-full wp-image-1502" /></a><br />

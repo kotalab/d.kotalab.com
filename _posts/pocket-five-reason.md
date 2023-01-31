@@ -21,6 +21,8 @@ tags:
 - iPadmini
 - RSS
 - Safari
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/pocket_130513.jpg" alt="pocket_130513" width="448" height="336" class="alignnone size-full wp-image-7124" /><br />

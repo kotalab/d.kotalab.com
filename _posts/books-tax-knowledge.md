@@ -23,6 +23,8 @@ tags:
 - 確定申告
 - 経費
 - 大村大次郎
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-tax-knowledge_140124-546x409.jpg" alt="books-tax- knowledge_140124" width="546" height="409" class="alignnone size-large wp-image-10642" /><br />

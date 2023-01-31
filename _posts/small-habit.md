@@ -20,6 +20,8 @@ tags:
 - 習慣
 - 行動
 - フォーカルポイント
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/sakurasaku-yoyogi_140402_02.jpg" alt="sakurasaku-yoyogi_140402_02" width="780"  class="aligncenter wp-image-11324" /><br />

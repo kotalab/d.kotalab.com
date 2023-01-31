@@ -21,6 +21,8 @@ tags:
 - iPhone
 - iPhone4S
 - mediasWP
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/iphoneandroid_120720.jpg" target="_blank"><img src="/wp-content/uploads/iphoneandroid_120720.jpg" alt="" title="iphoneandroid_120720" width="448" height="336" class="alignnone size-full wp-image-1569" /></a><br />

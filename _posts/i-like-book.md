@@ -18,6 +18,8 @@ category:
 - 自分らしく生きる
 tags:
 - 読書
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-20dai-to-do-17-things_140129-546x361.jpg" alt="books-20dai-to-do-17-things_140129" width="546" height="361" class="alignnone size-large wp-image-10698" /><br />

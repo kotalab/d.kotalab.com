@@ -17,6 +17,8 @@ category:
 tags:
 - ジョニーデップ
 - ヴァンパイア
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/darkShadow_120601.jpg" target="_blank"><img src="/wp-content/uploads/darkShadow_120601.jpg" alt="" title="darkShadow_120601" width="400" height="300" class="alignnone size-full wp-image-1235" /></a><br />

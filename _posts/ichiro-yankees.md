@@ -18,6 +18,8 @@ category:
 - 自分らしく生きる
 tags:
 - イチロー
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ichiro_120724.jpg"><img src="/wp-content/uploads/ichiro_120724.jpg" alt="" title="ichiro_120724" width="448" height="336" class="alignnone size-full wp-image-1645" /></a><br />

@@ -20,6 +20,8 @@ tags:
 - wordpress
 - カスタマイズ
 - 過去記事
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/old-entry-maintenance_20141231-780x244.png" alt="old-entry-maintenance_20141231" width="780" height="244" class="aligncenter size-large wp-image-13708" /><br />

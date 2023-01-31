@@ -22,6 +22,8 @@ tags:
 - miil
 - 散歩
 - ロコモコ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130330-448x336.jpg" alt="miil_130330" width="448" height="336" class="alignnone size-large wp-image-6672" /><br />

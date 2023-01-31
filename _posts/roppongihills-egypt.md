@@ -21,6 +21,8 @@ tags:
 - 六本木
 - 六本木ヒルズ
 - 古代エジプト
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/egypt_120714_01.jpg" target="_blank"><img src="/wp-content/uploads/egypt_120714_01.jpg" alt="" title="egypt_120714_01" width="448" height="336" class="alignnone size-full wp-image-1446" /></a><br />

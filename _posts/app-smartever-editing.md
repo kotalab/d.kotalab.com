@@ -20,6 +20,8 @@ tags:
 - Evernote
 - SmartEver
 - iPhoneアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/smartever_120822.jpg" target="_blank"><img src="/wp-content/uploads/smartever_120822.jpg" alt="" title="smartever_120822" width="448" height="336" class="alignnone size-full wp-image-2256" /></a><br />

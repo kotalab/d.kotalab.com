@@ -20,6 +20,8 @@ tags:
 - 府中
 - 長浜や
 - とんこつラーメン
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/nagahamaya_130608-448x336.jpg" alt="nagahamaya_130608" width="448" height="336" class="alignnone size-large wp-image-7402" /><br />

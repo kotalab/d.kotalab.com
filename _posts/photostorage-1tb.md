@@ -24,6 +24,8 @@ tags:
 - デジタル一眼レフカメラ
 - D7000
 - Flickr
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/photo_130524-448x297.jpg" alt="photo_130524" width="448" height="297" class="alignnone size-large wp-image-7237" /><br />

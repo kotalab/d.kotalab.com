@@ -19,6 +19,8 @@ category:
 tags:
 - Evernote
 - メモ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121128142244.jpg" width="448" height="251" /><br />

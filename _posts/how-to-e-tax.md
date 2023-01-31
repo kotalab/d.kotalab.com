@@ -21,6 +21,8 @@ tags:
 - 準備
 - 確定申告
 - e-Tax
+ogImage:
+  url:
 comments:
 - id: 1113
   author: "[For Blogger] 「熱い」って私はいいと思います！他 | 覚醒する @CDiP"

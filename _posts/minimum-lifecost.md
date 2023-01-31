@@ -19,6 +19,8 @@ category:
 tags:
 - 四角大輔
 - 転職
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/minimum-lifecost_20141228-780x585.jpg" alt="minimum-lifecost_20141228" width="780" height="585" class="aligncenter size-large wp-image-13680" /><br />

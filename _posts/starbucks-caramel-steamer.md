@@ -20,6 +20,8 @@ tags:
 - カスタマイズ
 - スタバ
 - キャラメルスチーマー
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20150107130037.jpg" width="720" height="405" class="slooProImg" /><br />

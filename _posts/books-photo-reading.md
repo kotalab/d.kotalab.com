@@ -19,6 +19,8 @@ category:
 tags:
 - 勝間和代
 - フォトリーディング
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-photo-reading_20141227-780x585.jpg" alt="books-photo-reading_20141227" width="780" height="585" class="aligncenter size-large wp-image-13674" /><br />

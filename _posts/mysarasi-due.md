@@ -26,6 +26,8 @@ tags:
 - ONE PIECE
 - リマインダー
 - moves
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/due_120912-300x300.jpg" alt="due_120912" width="300" height="300" class="alignnone size-medium wp-image-2689" /><br />

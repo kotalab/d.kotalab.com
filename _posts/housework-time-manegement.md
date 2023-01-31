@@ -19,6 +19,8 @@ category:
 tags:
 - やりたいこと
 - 効率化
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/housework-time-manegement_140223_01-546x409.jpg" alt="housework-time-manegement_140223_01" width="546" height="409" class="alignnone size-large wp-image-10957" /><br />

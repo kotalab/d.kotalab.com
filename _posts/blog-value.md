@@ -19,6 +19,8 @@ category:
 tags:
 - 行動
 - フォーカルポイント
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/insurancecannotfeelrelieved_131126_02.jpg" alt="insurancecannotfeelrelieved_131126_02" width="780" class="aligncenter wp-image-10245" /><br />

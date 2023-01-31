@@ -22,6 +22,8 @@ tags:
 - Kindleアプリ
 - 読書メモ
 - 読書
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/kindlereadingmemo_131016_01-546x307.jpg" alt="kindlereadingmemo_131016_01" width="546" height="307" class="alignnone size-large wp-image-9944" /><br />

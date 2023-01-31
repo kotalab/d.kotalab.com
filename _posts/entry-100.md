@@ -18,6 +18,8 @@ category:
 - ブログのある生活
 tags:
 - Taskchute
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/hushime100_120808.jpg" target="_blank"><img src="/wp-content/uploads/hushime100_120808.jpg" alt="" title="hushime100_120808" width="448" height="299" class="alignnone size-full wp-image-2002" /></a><br />

@@ -22,6 +22,8 @@ tags:
 - docomo
 - au
 - iPhone 5s
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphone5suse2years_130914-546x408.jpg" alt="iphone5suse2years_130914" width="546" height="408" class="alignnone size-large wp-image-9175" /><br />

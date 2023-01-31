@@ -22,6 +22,8 @@ tags:
 - ラーメン
 - photo
 - Book
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/yokohama_121021_06.jpg" target="_blank"><img src="/wp-content/uploads/yokohama_121021_06.jpg" alt="yokohama_121021_06" width="448" height="336" class="alignnone size-full wp-image-3594" /></a><br />

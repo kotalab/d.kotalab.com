@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - ホーム画面
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/home_130712-448x249.jpg" alt="home_130712" width="448" height="249" class="alignnone size-large wp-image-7812" /><br />

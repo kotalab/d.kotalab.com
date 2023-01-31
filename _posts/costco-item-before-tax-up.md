@@ -24,6 +24,8 @@ tags:
 - 日用品
 - 消費税
 - 増税
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/costco-item-before-tax-up_20140203_01-546x409.jpg" alt="costco-item-before-tax-up_20140203_01" width="546" height="409" class="alignnone size-large wp-image-10745" /><br />

@@ -26,6 +26,8 @@ tags:
 - GL04P
 - iPadmini
 - iPad
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ipadminiwifi_121202.jpg" target="_blank"><img src="/wp-content/uploads/ipadminiwifi_121202-448x336.jpg" alt="" title="ipadminiwifi_121202" width="448" height="336" class="alignnone size-large wp-image-4510" /></a><br />

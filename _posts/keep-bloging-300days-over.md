@@ -18,6 +18,8 @@ category:
 - ブログの書き方
 tags:
 - 習慣
+ogImage:
+  url:
 comments:
 - id: 1454
   author: For Blogger Links 002 | 覚醒する @CDiP

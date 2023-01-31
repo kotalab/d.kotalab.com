@@ -19,6 +19,8 @@ category:
 tags:
 - Taskchute
 - バックアップ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/morning-time_140310_01-546x409.jpg" alt="morning-time_140310_01" width="546" height="409" class="alignnone size-large wp-image-11107" /><br />

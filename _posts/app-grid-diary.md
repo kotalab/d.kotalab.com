@@ -23,6 +23,8 @@ tags:
 - チェックリスト
 - Grid Diary
 - 日記
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/app-grid-diary_20140305_01-546x424.jpg" alt="app-grid-diary_20140305_01" width="546" height="424" class="alignnone size-large wp-image-11069" /><br />

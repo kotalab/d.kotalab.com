@@ -19,6 +19,8 @@ category:
 tags:
 - ライフハック
 - 汗対策
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/cooldown_120723.jpg"><img src="/wp-content/uploads/cooldown_120723.jpg" alt="" title="cooldown_120723" width="448" height="336" class="alignnone size-full wp-image-1640" /></a><br />

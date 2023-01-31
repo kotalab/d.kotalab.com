@@ -21,6 +21,8 @@ tags:
 - iPhoneアプリ
 - 振り返り
 - 読書メモ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/zownote_130709-448x173.jpg" alt="zownote_130709" width="448" height="173" class="alignnone size-large wp-image-7785" /><br />

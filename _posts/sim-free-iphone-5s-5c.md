@@ -20,6 +20,8 @@ tags:
 - iPhone 5s
 - iPhone 5c
 - SIMフリー
+ogImage:
+  url:
 comments:
 - id: 3115
   author: iPhone 5s / 5c の SIMフリー版がついに日本でも発売。情報リンクまとめ。 | 覚醒する @CDiP

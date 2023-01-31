@@ -19,6 +19,8 @@ category:
 tags:
 - 買った
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/macbookair_120917.jpg" target="_blank"><img src="/wp-content/uploads/macbookair_120917.jpg" alt="" title="macbookair_120917" width="448" height="299" class="alignnone size-full wp-image-2790" /></a><br />

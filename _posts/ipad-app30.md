@@ -34,6 +34,8 @@ tags:
 - スマートアルバム
 - リマインダー
 - facebook
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="ipadmini_121221" width="448" height="448" class="alignnone size-large wp-image-4980" /><br />

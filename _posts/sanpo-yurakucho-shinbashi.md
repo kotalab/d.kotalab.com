@@ -24,6 +24,8 @@ tags:
 - iPodtouch
 - iPodnano
 - 散歩
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/sanpo_121013_04.jpg"><img src="/wp-content/uploads/sanpo_121013_04.jpg" alt="" title="sanpo_121013_04" width="448" height="336" class="alignnone size-full wp-image-3389" /></a><br />

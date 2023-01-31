@@ -19,6 +19,8 @@ category:
 tags:
 - costco
 - クリスマスケーキ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121224093920.jpg" width="448" height="448" /><br />

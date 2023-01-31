@@ -16,6 +16,8 @@ category:
 - とにかくやってみよう
 tags:
 - やりたいこと
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/macbook-pro-retina_20150526-780x520.jpg" alt="macbook-pro-retina_20150526.jpg" width="780" height="520" class="aligncenter size-large wp-image-14451" /></p>

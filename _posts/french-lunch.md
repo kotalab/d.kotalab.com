@@ -19,6 +19,8 @@ category:
 tags:
 - フレンチ
 - 南大沢
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/french_120705_03.jpg" target="_blank"><img src="/wp-content/uploads/french_120705_03.jpg" alt="" title="french_120705_03" width="448" height="336" class="alignnone size-full wp-image-1261" /></a><br />

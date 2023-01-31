@@ -21,6 +21,8 @@ tags:
 - 連続更新
 - facebook
 - おすすめ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/beforetaxup_131002-546x364.jpg" alt="beforetaxup_131002" width="546" height="364" class="alignnone size-large wp-image-9745" /><br />

@@ -23,6 +23,8 @@ tags:
 - iPadmini
 - USBアダプタ
 - ライフパッキング
+ogImage:
+  url:
 comments:
 - id: 1473
   author: Mahler

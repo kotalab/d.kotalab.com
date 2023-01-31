@@ -18,6 +18,8 @@ category:
 - おでかけ・散歩
 tags:
 - photo
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/hills_120712_05.jpg"><img src="/wp-content/uploads/hills_120712_05.jpg" alt="" title="hills_120712_05" width="448" height="336" class="alignnone size-full wp-image-1396" /></a><br />

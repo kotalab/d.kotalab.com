@@ -21,6 +21,8 @@ tags:
 - 風邪
 - 緑茶
 - インフルエンザ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/cold_130129-448x336.jpg" alt="cold_130129" width="448" height="336" class="alignnone size-large wp-image-5960" /><br />

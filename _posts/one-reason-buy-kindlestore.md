@@ -20,6 +20,8 @@ tags:
 - iPadmini
 - 電子書籍
 - Kindleストア
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/kindle_130111.jpg" target="_blank"><img src="/wp-content/uploads/kindle_130111-448x327.jpg" alt="kindle_130111" width="448" height="327" class="alignnone size-large wp-image-5607" /></a><br />

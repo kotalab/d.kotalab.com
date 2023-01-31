@@ -18,6 +18,8 @@ category:
 - ブログ
 tags:
 - stinger2
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/stinger2-448x294.jpg" alt="stinger2" width="448" height="294" class="alignnone size-large wp-image-8015" /><br />

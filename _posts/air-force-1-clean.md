@@ -18,6 +18,8 @@ tags:
 - NIKEiD
 - エアフォースワン
 - ナイキ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/air-force-1-clean_20150620-780x585.jpg" alt="air-force-1-clean_20150620" width="780" height="585" class="aligncenter size-large wp-image-14637" /><br />

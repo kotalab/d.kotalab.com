@@ -21,6 +21,8 @@ tags:
 - 買った
 - NIKEiD
 - 靴
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/nikeid_130527-448x297.jpg" alt="nikeid_130527" width="448" height="297" class="alignnone size-large wp-image-7265" /><br />

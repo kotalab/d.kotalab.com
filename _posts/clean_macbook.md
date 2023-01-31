@@ -22,6 +22,8 @@ tags:
 - コストコ
 - 掃除
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p>MacBook Airをキレイに掃除しました。こたら（@kotala_b）です。<br />

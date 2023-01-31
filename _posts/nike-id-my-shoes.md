@@ -21,6 +21,8 @@ tags:
 - 誕生日
 - NIKEiD
 - 靴
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/nike_130511-448x336.jpg" alt="nike_130511" width="448" height="336" class="alignnone size-large wp-image-7104" /><br />

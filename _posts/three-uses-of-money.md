@@ -22,6 +22,8 @@ tags:
 - 使い道
 - 使い方
 - money
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/threeusesofmoney_131228-546x409.jpg" alt="threeusesofmoney_131228" width="546" height="409" class="alignnone size-large wp-image-10351" /><br />

@@ -22,6 +22,8 @@ tags:
 - miil
 - 料理
 - 写真
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130324-448x447.jpg" alt="miil_130324" width="448" height="447" class="alignnone size-large wp-image-6598" /><br />

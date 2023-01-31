@@ -17,6 +17,8 @@ date_gmt: '2012-08-16 01:15:11 +0900'
 category:
 - キャンペーン・お買い得情報
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/domain_120816.jpg" target="_blank"><img src="/wp-content/uploads/domain_120816.jpg" alt="" title="domain_120816" width="448" height="287" class="alignnone size-full wp-image-2154" /></a><br />

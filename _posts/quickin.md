@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - foursqare
 - QuickIn
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/quickin_120812.jpg" target="_blank"><img src="/wp-content/uploads/quickin_120812.jpg" alt="" title="quickin_120812" width="448" height="349" class="alignnone size-full wp-image-2059" /></a><br />

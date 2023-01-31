@@ -24,6 +24,8 @@ tags:
 - iPhone 5s
 - iPhone 5c
 - 一括0円
+ogImage:
+  url:
 comments:
 - id: 3271
   author: ''

@@ -23,6 +23,8 @@ tags:
 - セミナー
 - 写真
 - おすすめ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/nsl8_120929.jpg" alt="nsl8_120929" width="546" height="410" class="alignnone size-full wp-image-3035" /><br />

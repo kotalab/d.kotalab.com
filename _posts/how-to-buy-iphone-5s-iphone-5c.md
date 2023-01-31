@@ -24,6 +24,8 @@ tags:
 - アップルストア
 - iPhone 5s
 - iPhone 5c
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/howtobuyiphone5siphone5c_130911-546x242.png" alt="howtobuyiphone5siphone5c_130911" width="546" height="242" class="alignnone size-large wp-image-8676" /><br />

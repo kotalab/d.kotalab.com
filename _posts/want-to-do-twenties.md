@@ -20,6 +20,8 @@ tags:
 - Evernote
 - 読んだ
 - 四角大輔
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/jiyuude_120815.jpg" target="_blank"><img src="/wp-content/uploads/jiyuude_120815.jpg" alt="" title="jiyuude_120815" width="448" height="336" class="alignnone size-full wp-image-2116" /></a><br />

@@ -21,6 +21,8 @@ tags:
 - 買った
 - 急速充電
 - USBアダプタ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/usbadpt_130219-448x336.jpg" alt="usbadpt_130219" width="448" height="336" class="alignnone size-large wp-image-6250" /><br />

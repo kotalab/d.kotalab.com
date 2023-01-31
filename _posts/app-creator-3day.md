@@ -20,6 +20,8 @@ tags:
 - アプリ開発
 - 自由大学
 - Xcode
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/app-creator-3day_140514_01.jpg" alt="App creator 3day 140514 01" title="app-creator-3day_140514_01.jpg" border="0" width="548" height="365" /><br />

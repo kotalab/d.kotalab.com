@@ -20,6 +20,8 @@ tags:
 - iPadmini
 - kindle
 - iPad
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ipad_121029.jpg" target="_blank"><img src="/wp-content/uploads/ipad_121029.jpg" alt="" title="ipad_121029" width="448" height="300" class="alignnone size-full wp-image-3778" /></a><br />

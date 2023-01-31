@@ -22,6 +22,8 @@ tags:
 - 習慣
 - セルフマネジメント
 - 連続更新
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130509203804.jpg" width="448" height="448" /><br />

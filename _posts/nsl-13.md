@@ -19,6 +19,8 @@ category:
 tags:
 - セミナー
 - NSL13
+ogImage:
+  url:
 comments:
 - id: 1455
   author: For Blogger Links 002 | 覚醒する @CDiP

@@ -22,6 +22,8 @@ tags:
 - つけ麺
 - 大つけ麺博
 - おすすめ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/tukemenhaku2013fasticket_131018_01-546x307.jpg" alt="tukemenhaku2013fasticket_131018_01" width="546" height="307" class="alignnone size-large wp-image-9964" /><br />

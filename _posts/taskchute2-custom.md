@@ -17,6 +17,8 @@ date_gmt: '2012-11-26 01:56:50 +0900'
 category:
 - TaskChute
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/taskchutecustom_121126.jpg" target="_blank"><img src="/wp-content/uploads/taskchutecustom_121126-448x298.jpg" alt="" title="taskchutecustom_121126" width="448" height="298" class="alignnone size-large wp-image-4415" /></a><br />

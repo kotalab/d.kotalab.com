@@ -22,6 +22,8 @@ tags:
 - 小さい小銭入れ
 - 薄いマネークリップ
 - abrAsus
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/smallcoincase_131217_03-546x546.jpg" alt="smallcoincase_131217_03" width="546" height="546" class="alignnone size-large wp-image-10301" /><br />

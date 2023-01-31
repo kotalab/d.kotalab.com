@@ -19,6 +19,8 @@ category:
 tags:
 - やってみる
 - 自分らしさ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/c-d-notebook_20141117_03-780x585.jpg" alt="c-d-notebook_20141117_03" width="780" height="585" class="aligncenter size-large wp-image-13599" /><br />

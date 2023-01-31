@@ -19,6 +19,8 @@ category:
 tags:
 - 生命保険
 - 貯金
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/kosodate_140328_02-546x363.jpg" alt="kosodate_140328_02" width="546" height="363" class="aligncenter size-large wp-image-11277" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - 読んだ
 - 立花岳志
+ogImage:
+  url:
 comments: []
 ---
 <p>読むのが楽しくてあっという間に読み終わりました。@kotala_bです。<br />

@@ -21,6 +21,8 @@ tags:
 - Reeder
 - RSS
 - googleリーダー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/reeder_121108.png" alt="reeder_121108" width="448" height="448" class="alignnone size-full wp-image-4041" /><br />

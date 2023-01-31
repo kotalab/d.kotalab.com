@@ -21,6 +21,8 @@ tags:
 - kindle
 - 電子書籍
 - Kindleストア
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/kindle-store-winter-sale_140102-546x360.png" alt="kindle-store-winter-sale_140102" width="546" height="360" class="alignnone size-large wp-image-10366" /><br />

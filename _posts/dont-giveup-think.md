@@ -20,6 +20,8 @@ tags:
 - Taskchute
 - Due
 - 習慣
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/syukan_130120.png" target="_blank"><img src="/wp-content/uploads/syukan_130120-300x431.png" alt="syukan_130120" width="300" height="431" class="alignnone size-medium wp-image-5805" /></a><br />

@@ -18,6 +18,8 @@ category:
 - 読書
 tags:
 - amazon
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/bookStore_120623.jpg" target="_blank"><img src="/wp-content/uploads/bookStore_120623.jpg" alt="Kinokuniya Book Store -Seattle International District" title="bookStore_120623" width="400" height="300" class="alignnone size-full wp-image-963" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/brewbooks/871593870/" target="_blank">Kinokuniya Book Store -Seattle International District</a> / brewbooks</span><br />

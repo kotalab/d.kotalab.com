@@ -18,6 +18,8 @@ tags:
 - 豊洲
 - アイスコーヒー
 - R.O.STAR
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/07/cafe-rostar-toyosu_20150728_01.jpg
 ---

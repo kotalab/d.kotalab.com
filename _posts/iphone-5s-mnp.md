@@ -24,6 +24,8 @@ tags:
 - au
 - iPhone 5s
 - iPhone 5c
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphone5smnp_130918-546x284.png" alt="iphone5smnp_130918" width="546" height="284" class="alignnone size-large wp-image-9329" /><br />

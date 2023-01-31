@@ -19,6 +19,8 @@ category:
 tags:
 - 読んだ
 - 書評
+ogImage:
+  url:
 comments:
 - id: 2055
   author: どん速【45：2013/06/21版】〜 Eye-FI Mobi 悩みましたがポチりました。 | 覚醒する @CDiP

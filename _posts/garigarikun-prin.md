@@ -18,6 +18,8 @@ category:
 - グルメ
 tags:
 - ガリガリ君
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/garigarikun_121022.jpg" target="_blank"><img src="/wp-content/uploads/garigarikun_121022.jpg" alt="" title="garigarikun_121022" width="448" height="336" class="alignnone size-full wp-image-3608" /></a><br />

@@ -20,6 +20,8 @@ tags:
 - 健康
 - ヘルスケア
 - ヘルスキット
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/02/applewatch-can_20150208_01.png" alt="applewatch-can_20150208_01" width="780" height="597" class="aligncenter size-full wp-image-13941" /><br />

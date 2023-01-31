@@ -19,6 +19,8 @@ category:
 tags:
 - iphone 5
 - ホーム画面
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/home_121010.png" target="_blank"><img src="/wp-content/uploads/home_121010.png" alt="" title="home_121010" width="448" height="269" class="alignnone size-full wp-image-3298" /></a><br />

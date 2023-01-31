@@ -19,6 +19,8 @@ category:
 tags:
 - 設定
 - google AdSense
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/adsense_130819_01-448x322.jpg" alt="adsense_130819_01" width="448" height="322" class="alignnone size-large wp-image-8079" /><br />

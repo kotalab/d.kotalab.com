@@ -22,6 +22,8 @@ tags:
 - 見直し
 - 貯金
 - つけ方
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/give-way-of-household-account-book_20141130-780x585.jpg" alt="give-way-of-household-account-book_20141130" width="780" height="585" class="aligncenter size-large wp-image-13644" /><br />

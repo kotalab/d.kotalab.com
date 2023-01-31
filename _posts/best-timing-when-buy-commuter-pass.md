@@ -20,6 +20,8 @@ tags:
 - 消費税
 - 増税
 - 定期券
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/best-timing-when-buy-commuter-pass_140226-546x409.jpg" alt="best-timing-when-buy-commuter-pass_140226" width="546" height="409" class="alignnone size-large wp-image-10986" /><br />

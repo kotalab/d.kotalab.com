@@ -26,6 +26,8 @@ tags:
 - CellMemo
 - WebNote
 - iPhone6Plus
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/iphone6plus-home-app-2015-01_20150111_01.jpg" alt="iphone6plus-home-app-2015-01_20150111_01" width="639" height="458" class="aligncenter size-full wp-image-13802" /><br />

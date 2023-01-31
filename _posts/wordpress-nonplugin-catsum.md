@@ -19,6 +19,8 @@ category:
 tags:
 - プラグインなし
 - カテゴリー一覧
+ogImage:
+  url:
 comments:
 - id: 1797
   author: WordPressカスタマイズメモ | きつね♪の徒然ネット生活

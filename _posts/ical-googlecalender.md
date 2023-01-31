@@ -21,6 +21,8 @@ tags:
 - iCal
 - 移行
 - 同期
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ical_130607-448x275.jpg" alt="ical_130607" width="448" height="275" class="alignnone size-large wp-image-7395" /><br />

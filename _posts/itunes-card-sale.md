@@ -23,6 +23,8 @@ tags:
 - au
 - iPadアプリ
 - セブンイレブン
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/itunescard_130316-448x336.jpg" alt="itunescard_130316" width="448" height="336" class="alignnone size-large wp-image-6521" /><br />

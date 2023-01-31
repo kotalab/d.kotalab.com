@@ -19,6 +19,8 @@ category:
 tags:
 - 習慣
 - "#DR講座"
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/influence_130211-448x383.jpg" alt="influence_130211" width="448" height="383" class="alignnone size-large wp-image-6105" /><br />

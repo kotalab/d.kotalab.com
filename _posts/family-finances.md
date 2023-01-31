@@ -21,6 +21,8 @@ tags:
 - 目標達成
 - 家計
 - ライフプランニング
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/kakei_130716-448x336.jpg" alt="kakei_130716" width="448" height="336" class="alignnone size-large wp-image-7870" /><br />

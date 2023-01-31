@@ -19,6 +19,8 @@ category:
 tags:
 - conecc
 - モニターサービス
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="http://conecc.jp/image/?l=f&i=1276&k=1b8c0d14e518df568ecd30a3a92c69df&f=69.jpg" /><br />

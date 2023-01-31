@@ -21,6 +21,8 @@ tags:
 - 家計簿
 - 将来設計
 - 新婚
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/newly-married-next-step_140407.jpg" alt="Newly married next step 140407" title="newly-married-next-step_140407.jpg" border="0" width="548" height="411" />お互いの両親への挨拶を済ませ「いよいよ結婚！」となると一気に慌ただしくなりますよね。</p>

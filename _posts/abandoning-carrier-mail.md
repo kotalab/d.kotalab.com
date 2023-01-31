@@ -23,6 +23,8 @@ tags:
 - MNP
 - au
 - Gmail
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/abandoningcarriermail_130915-546x409.jpg" alt="abandoningcarriermail_130915" width="546" height="409" class="alignnone size-large wp-image-9207" /><br />

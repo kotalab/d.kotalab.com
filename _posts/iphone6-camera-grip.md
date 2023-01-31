@@ -21,6 +21,8 @@ tags:
 - 写真
 - MosaicCam
 - カメラアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphone6-camera-grip_01-780x585.jpg" alt="iphone6-camera-grip_01" width="780" height="585" class="aligncenter size-large wp-image-13624" /><br />

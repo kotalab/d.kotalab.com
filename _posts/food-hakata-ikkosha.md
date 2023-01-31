@@ -19,6 +19,8 @@ category:
 tags:
 - 博多
 - 博多一幸舎 博多本店
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/food-hakata-ikkosha_03-546x409.jpg" alt="food-hakata-ikkosha_03" width="546" height="409" class="alignnone size-large wp-image-10490" /><br />

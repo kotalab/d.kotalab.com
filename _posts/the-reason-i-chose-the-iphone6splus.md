@@ -22,6 +22,8 @@ tags:
 - iPad Pro
 - iPad mini
 - iPhone 6s Plus
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/09/the-reason-I-chose-the-iPhone6splus_20150915_01.png
 ---

@@ -19,6 +19,8 @@ category:
 tags:
 - iOS7
 - iPhone 5s
+ogImage:
+  url:
 comments:
 - id: 2724
   author: "[どん速 122] そろそろ iOS 7 とか iPhone 5s のつかいこなし記事が増えてきてうれしい限り。他 | 覚醒する @CDiP"

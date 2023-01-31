@@ -22,6 +22,8 @@ tags:
 - seeq
 - するぷろーら
 - URLスキーム
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/seeq_20121110.png" target="_blank"><img src="/wp-content/uploads/seeq_20121110-300x300.png" alt="seeq_20121110" width="300" height="300" class="alignnone size-medium wp-image-4103" /></a><br />

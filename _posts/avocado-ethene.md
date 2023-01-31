@@ -22,6 +22,8 @@ tags:
 - りんご
 - バナナ
 - アボカド
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/poteto_130422-448x336.jpg" alt="poteto_130422" width="448" height="336" class="alignnone size-large wp-image-6896" /><br />

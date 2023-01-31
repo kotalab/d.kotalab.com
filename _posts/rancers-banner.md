@@ -18,6 +18,8 @@ category:
 - WordPressカスタマイズ
 tags:
 - ランサーズ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/lancers_140312-546x221.png" alt="lancers_140312" width="546" height="221" class="alignnone size-large wp-image-11113" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - 映画
 - 観た
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120914214655.jpg" width="448" height="336" /><br />

@@ -25,6 +25,8 @@ tags:
 - iPad Air
 - 成田空港
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/lcc-jetstar-from-narita-to-fukuoka-546x409.jpg" alt="lcc-jetstar-from-narita-to-fukuoka" width="546" height="409" class="alignnone size-large wp-image-10474" /><br />

@@ -21,6 +21,8 @@ tags:
 - 習慣
 - 早起き
 - やりたいこと
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/habit_130405-448x336.jpg" alt="habit_130405" width="448" height="336" class="alignnone size-large wp-image-6735" /><br />

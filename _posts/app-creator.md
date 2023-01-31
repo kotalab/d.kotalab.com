@@ -18,6 +18,8 @@ category:
 - アプリクリエイター道場　開発塾
 tags:
 - 自由大学
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/app-creator-546x409.png" alt="app-creator" width="546" height="409" class="alignnone size-large wp-image-11196" /><br />

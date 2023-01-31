@@ -26,6 +26,8 @@ tags:
 - Rowline
 - チェックリスト
 - copyright
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/blogapp_130323-448x403.jpg" alt="blogapp_130323" width="448" height="403" class="alignnone size-large wp-image-6588" /><br />

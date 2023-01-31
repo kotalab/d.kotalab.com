@@ -18,6 +18,8 @@ category:
 - WordPressプラグインの使い方
 tags:
 - syntaxhighlighter-evolved
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/SyntaxHighlighterEvolved_130615-448x335.jpg" alt="SyntaxHighlighterEvolved_130615" width="448" height="335" class="alignnone size-large wp-image-7495" /><br />

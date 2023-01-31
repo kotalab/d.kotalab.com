@@ -18,6 +18,8 @@ tags:
 - アプリ開発
 - サラリーマン
 - 立花岳志
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/blogfes_131021-546x409.jpg" alt="blogfes_131021" width="546" height="409" class="aligncenter size-large wp-image-10004" /></p>

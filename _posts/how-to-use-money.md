@@ -22,6 +22,8 @@ tags:
 - 貯金
 - 住宅ローン
 - 金利
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/how-to-use-money_1404122.jpg" alt="How to use money 140412" title="how-to-use-money_140412.JPG" border="0" width="548" height="548" /><br />

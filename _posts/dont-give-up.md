@@ -21,6 +21,8 @@ tags:
 - 勉強法
 - 見直し
 - WebNote
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/dontneedinsurance_131128.jpg" alt="dontneedinsurance_131128" width="780" class="aligncenter size-large wp-image-10253" /></p>

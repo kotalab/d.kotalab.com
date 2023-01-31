@@ -22,6 +22,8 @@ tags:
 - 路面電車
 - おすすめ
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/hiroshimaonedaypass_131011_01-546x361.jpg" alt="hiroshimaonedaypass_131011_01" width="546" height="361" class="alignnone size-large wp-image-9887" /><br />

@@ -22,6 +22,8 @@ tags:
 - プロジェクト管理
 - タスク管理
 - SmartEver
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/thinking_120731.jpg" target="_blank"><img src="/wp-content/uploads/thinking_120731.jpg" alt="" title="thinking_120731" width="448" height="303" class="alignnone size-full wp-image-1735" /></a><br />

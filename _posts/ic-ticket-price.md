@@ -22,6 +22,8 @@ tags:
 - 電車特定区間
 - ICカード
 - きっぷ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ic-ticket-price_140514_01.jpg" alt="Ic ticket price 140514 01" title="ic-ticket-price_140514_01.JPG" border="0" width="548" height="411" /><br />

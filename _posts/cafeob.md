@@ -18,6 +18,8 @@ category:
 - カフェ
 tags:
 - 新百合ケ丘
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/cafeob_130810-448x336.jpg" alt="cafeob_130810" width="448" height="336" class="alignnone size-large wp-image-8030" /><br />

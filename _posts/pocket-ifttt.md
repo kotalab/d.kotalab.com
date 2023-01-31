@@ -18,6 +18,8 @@ category:
 - Pocketの使い方
 tags:
 - IFTTT
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/pocketsns_130510-448x216.jpg" alt="pocketsns_130510" width="448" height="216" class="alignnone size-large wp-image-7095" /><br />

@@ -20,6 +20,8 @@ tags:
 - facebook
 - MacBook Air
 - アプリ開発
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/macbookpro-13-or-15_20150521_01.png" alt="Macbookpro 13 or 15 20150521 01" width="629" height ="379" class="aligncenter size-large" /></p>

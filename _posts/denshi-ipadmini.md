@@ -19,6 +19,8 @@ category:
 tags:
 - iPadmini
 - 電子書籍
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ipadmini_121028.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini_121028.jpg" alt="" title="ipadmini_121028" width="448" height="252" class="alignnone size-full wp-image-3769" /></a><br />

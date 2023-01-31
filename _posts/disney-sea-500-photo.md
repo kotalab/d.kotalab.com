@@ -22,6 +22,8 @@ tags:
 - D7000
 - ディズニーシー
 - AF-S 35mm
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/disnysea_130529_09-448x297.jpg" alt="disnysea_130529_09" width="448" height="297" class="alignnone size-large wp-image-7300" /><br />

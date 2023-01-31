@@ -18,6 +18,8 @@ tags:
 - 自由大学
 - WebNote
 - アプリ道場
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/07/change-the-non-consciousness_20150722-780x520.jpg
 ---

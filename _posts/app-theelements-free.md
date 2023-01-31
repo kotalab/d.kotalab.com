@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - iPadアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130105114920.jpg" width="448" height="336" /><br />

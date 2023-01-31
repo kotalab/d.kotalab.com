@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - MNP
 - iphone 5
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iPhone5app_130318-448x250.jpg" alt="iPhone5app_130318" width="448" height="250" class="alignnone size-large wp-image-6537" /><br />

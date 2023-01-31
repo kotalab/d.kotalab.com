@@ -21,6 +21,8 @@ tags:
 - docomo
 - スマ放題
 - スマホ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/softbank-smahodai_140626_01.png" alt="Softbank smahodai 140626 01" title="softbank-smahodai_140626_01.png" border="0" width="548" height="296" /><br />

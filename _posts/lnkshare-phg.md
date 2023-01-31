@@ -20,6 +20,8 @@ tags:
 - アフィリエイト
 - LinkShare
 - PHG
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/phg_130820_01-448x336.jpg" alt="phg_130820_01" width="448" height="336" class="alignnone size-large wp-image-8097" /><br />

@@ -20,6 +20,8 @@ tags:
 - 読んだ
 - 書評
 - 高城剛
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130217061655.jpg" width="448" height="336" /><br />

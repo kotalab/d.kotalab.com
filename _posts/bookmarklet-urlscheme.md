@@ -23,6 +23,8 @@ tags:
 - Safari
 - Mac
 - ブックマークレット
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140329091227.jpg" width="548" height="499" class="slooProImg" /><br />

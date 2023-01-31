@@ -20,6 +20,8 @@ tags:
 - iPhoneケース展
 - 赤レンガ倉庫
 - 横浜
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/iphonecase_121019.jpg" target="_blank"><img src="/wp-content/uploads/iphonecase_121019.jpg" alt="" title="iphonecase_121019" width="448" height="336" class="alignnone size-full wp-image-3532" /></a><br />

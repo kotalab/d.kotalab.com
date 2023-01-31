@@ -19,6 +19,8 @@ tags:
 - 写真
 - 家計
 - 家計簿
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/07/the-photo-become-household-account-book-is-attached_20150709.jpg" alt="The photo become household account book is attached 20150709" width="780" height ="520" class="aligncenter size-large" /></p>

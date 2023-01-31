@@ -21,6 +21,8 @@ tags:
 - クラウド
 - 会計ソフト
 - 簿記
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/cloud-accounting-software_140212-546x409.jpg" alt="cloud-accounting-software_140212" width="546" height="409" class="alignnone size-large wp-image-10818" /><br />

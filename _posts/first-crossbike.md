@@ -19,6 +19,8 @@ tags:
 - ジャイアント
 - GIANT
 - ESCAPE R3
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/first-crossbike_20150505_01.jpg" alt="First crossbike 20150505 01" width="780" height ="585" class="aligncenter size-large" /></p>

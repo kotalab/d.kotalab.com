@@ -18,6 +18,8 @@ tags:
 - やりたいこと
 - やってみる
 - バーバラ・シェア
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2016/01/lets-write_20160106-780x520.jpg
 ---

@@ -21,6 +21,8 @@ tags:
 - cheero
 - Dpub
 - セール
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iid_130128-448x448.jpg" alt="iid_130128" width="448" height="448" class="alignnone size-large wp-image-5947" /><br />

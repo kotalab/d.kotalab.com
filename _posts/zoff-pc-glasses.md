@@ -19,6 +19,8 @@ category:
 tags:
 - メガネ
 - 買い物
+ogImage:
+  url:
 comments: []
 ---
 <p>人生初メガネを買いました。@kotala_bです。<br />

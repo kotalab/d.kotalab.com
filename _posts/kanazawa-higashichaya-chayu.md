@@ -18,6 +18,8 @@ tags:
 - カフェ
 - アイス
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_01.jpg" alt="Kanazawa higashichaya chayu 20150507 01" width="780" height ="516" class="aligncenter size-large" /></p>

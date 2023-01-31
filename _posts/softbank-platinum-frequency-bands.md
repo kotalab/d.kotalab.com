@@ -20,6 +20,8 @@ tags:
 - iPhone4S
 - SoftBank
 - プラチナバンド
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/platinum_120727.jpg" target="_blank"><img src="/wp-content/uploads/platinum_120727.jpg" alt="" title="platinum_120727" width="448" height="336" class="alignnone size-full wp-image-1681" /></a><br />

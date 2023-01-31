@@ -18,6 +18,8 @@ category:
 tags:
 - Taskchute
 - 習慣
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ichiro.jpg"><img src="/wp-content/uploads/ichiro.jpg" alt="" title="ichiro" width="448" height="336" class="alignnone size-full wp-image-1149" /></a><br />

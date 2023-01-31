@@ -18,6 +18,8 @@ category:
 - WordPressプラグインの使い方
 tags:
 - BrokenLinkChecker
+ogImage:
+  url:
 comments: []
 ---
 <p>リンク張り替え真っ最中。こたら（@kotala_b）です。<br />

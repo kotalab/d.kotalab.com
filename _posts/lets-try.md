@@ -21,6 +21,8 @@ tags:
 - 箱根
 - そば
 - 行動
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/lets-try_140901.jpg" alt="lets-try_140901" class="aligncenter size-full wp-image-13393" /><br />

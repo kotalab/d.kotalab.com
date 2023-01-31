@@ -20,6 +20,8 @@ tags:
 - wordpress
 - ローカル環境
 - Bitnami
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/wordpress-bitnami_140308_01-546x393.png" alt="wordpress-bitnami_140308_01" width="546" height="393" class="alignnone size-large wp-image-11095" /><br />

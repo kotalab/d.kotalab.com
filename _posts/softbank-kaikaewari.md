@@ -20,6 +20,8 @@ tags:
 - SoftBank
 - iphone 5
 - かいかえ割
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/kaikaewari_121024.png" target="_blank"><img src="/wp-content/uploads/kaikaewari_121024.png" alt="" title="kaikaewari_121024" width="448" height="305" class="alignnone size-full wp-image-3657" /></a><br />

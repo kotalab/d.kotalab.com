@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - 健康
 - 心拍数
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/heartrate_130124.png" target="_blank"><img src="/wp-content/uploads/heartrate_130124-448x448.png" alt="heartrate_130124" width="448" height="448" class="alignnone size-large wp-image-5865" /></a><br />

@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - イベント
 - Dpub
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/iid_130128.jpg" target="_blank"><img src="/wp-content/uploads/iid_130128-448x448.jpg" alt="iid_130128" width="448" height="448" class="alignnone size-large wp-image-5947" /></a><br />

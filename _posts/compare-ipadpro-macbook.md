@@ -19,6 +19,8 @@ tags:
 - iOS9
 - iPad Pro
 - MacBook
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/09/compare-ipadpro-macbook_20150911.png
 ---

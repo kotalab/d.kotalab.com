@@ -22,6 +22,8 @@ tags:
 - Grid Diary
 - CellMemo
 - WebNote
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/cloud-storage_20150106_01-780x438.jpg" alt="cloud-storage_20150106_01" width="780" height="438" class="aligncenter size-large wp-image-13757" /><br />

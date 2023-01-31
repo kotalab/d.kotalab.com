@@ -19,6 +19,8 @@ category:
 tags:
 - マクドナルド
 - MEXICANFWSTIVAL
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/macmexican_130803-448x448.jpg" alt="macmexican_130803" width="448" height="448" class="alignnone size-large wp-image-7967" /><br />

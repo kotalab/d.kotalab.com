@@ -19,6 +19,8 @@ category:
 tags:
 - 飲んだ
 - tullys
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/tullys_120711.jpg" target="_blank"><img src="/wp-content/uploads/tullys_120711.jpg" alt="" title="tullys_120711" width="448" height="336" class="alignnone size-full wp-image-1369" /></a><br />

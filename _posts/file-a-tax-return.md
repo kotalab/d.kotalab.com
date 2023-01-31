@@ -20,6 +20,8 @@ tags:
 - 税金
 - 医療費控除
 - 所得税
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/file-a-tax-return_20150119_01-780x626.jpg" alt="file-a-tax-return_20150119_01" width="780" height="626" class="aligncenter size-large wp-image-13854" /><br />

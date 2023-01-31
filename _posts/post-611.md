@@ -18,6 +18,8 @@ tags:
 - google Analytics
 - googleウェブマスターツール
 - google AdSense
+ogImage:
+  url:
 comments: []
 ---
 <p>ブログの細かい設定作業がまだ終わりません。@kotala_bです。<br />

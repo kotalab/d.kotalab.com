@@ -18,6 +18,8 @@ tags:
 - やりたいこと
 - 早寝早起き
 - ストレッチ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/sleeplog_120829.jpg" alt="sleeplog_120829" width="780" class="aligncenter size-large wp-image-2389" /><br />

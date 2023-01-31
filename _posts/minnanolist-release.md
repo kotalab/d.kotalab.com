@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - チェックリスト
 - みんなのリスト
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/12/minnanolist-release_20151212-780x660.jpg
 ---

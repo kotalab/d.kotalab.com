@@ -20,6 +20,8 @@ tags:
 - iOS6
 - iPhone
 - アップデート
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ios6_120919.jpg" target="_blank"><img src="/wp-content/uploads/ios6_120919.jpg" alt="" title="ios6_120919" width="448" height="280" class="alignnone size-full wp-image-2883" /></a><br />

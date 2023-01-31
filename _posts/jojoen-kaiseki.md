@@ -19,6 +19,8 @@ category:
 tags:
 - 叙々苑
 - 焼肉
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/jojoen_130313_05-448x448.jpg" alt="jojoen_130313_05" width="448" height="448" class="alignnone size-large wp-image-6495" /><br />

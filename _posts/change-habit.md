@@ -21,6 +21,8 @@ tags:
 - kindle
 - 電子書籍
 - 読書
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/change-habit_140204_01-546x307.jpg" alt="change-habit_140204_01" width="546" height="307" class="alignnone size-large wp-image-10753" /><br />

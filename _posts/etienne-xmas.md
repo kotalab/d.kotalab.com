@@ -20,6 +20,8 @@ tags:
 - 新百合ケ丘
 - クリスマスケーキ
 - エチエンヌ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/etienne_20141222_02-780x585.jpg" alt="etienne_20141222_02" width="780" height="585" class="aligncenter size-large wp-image-13653" /><br />

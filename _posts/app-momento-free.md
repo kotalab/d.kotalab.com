@@ -23,6 +23,8 @@ tags:
 - facebook
 - Flickr
 - Momento
+ogImage:
+  url:
 comments:
 - id: 2054
   author: どん速【43：2013/06/19版】〜 iOS 7に隠された機能。 | 覚醒する @CDiP

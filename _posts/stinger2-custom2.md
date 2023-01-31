@@ -19,6 +19,8 @@ category:
 tags:
 - css3
 - stinger2
+ogImage:
+  url:
 comments:
 - id: 2538
   author: "[どんブロ] 2013/09/05版 ブロガー向けまとめ。 | 覚醒する @CDiP"

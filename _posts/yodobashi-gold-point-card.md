@@ -20,6 +20,8 @@ tags:
 - iPhone
 - ヨドバシカメラ
 - iPhoneアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/yodobashi_120803.jpg" target="_blank"><img src="/wp-content/uploads/yodobashi_120803.jpg" alt="" title="yodobashi_120803" width="448" height="336" class="alignnone size-full wp-image-1805" /></a><br />

@@ -20,6 +20,8 @@ tags:
 - iphone 5
 - アップルストア
 - iPadmini
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ipadmini_121027.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini_121027.jpg" alt="" title="ipadmini_121027" width="448" height="336" class="alignnone size-full wp-image-3744" /></a><br />

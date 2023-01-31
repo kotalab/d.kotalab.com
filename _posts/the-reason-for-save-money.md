@@ -18,6 +18,8 @@ tags:
 - money
 - 教育費
 - 貯金
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/07/the-reason-for-save-money_20150727.jpg" alt="The reason for save money 20150727" width="780" height ="585" class="aligncenter size-large" /></p>

@@ -24,6 +24,8 @@ tags:
 - au
 - iPhone 5s
 - iPhone 5c
+ogImage:
+  url:
 comments: []
 ---
 <p>iPhone 5s発売まで後1週間！こたら（@kotala_b）です。<br />

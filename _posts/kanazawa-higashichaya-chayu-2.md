@@ -20,6 +20,8 @@ tags:
 - 近江町市場
 - 金沢の台所
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/kanazawa-daidokoro_20150508_01.jpg" alt="Kanazawa daidokoro 20150508 01" width="780" height ="516" class="aligncenter size-large" /><br />

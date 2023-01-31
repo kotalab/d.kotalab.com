@@ -20,6 +20,8 @@ tags:
 - amazon
 - 買い物
 - セール
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/amazonsale_131022_01-546x435.jpg" alt="amazonsale_131022_01" width="546" height="435" class="alignnone size-large wp-image-10014" /><br />

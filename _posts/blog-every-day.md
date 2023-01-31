@@ -19,6 +19,8 @@ tags:
 - Mac
 - 行動
 - やってみる
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/mistake-in-habit_20150516-780x520.jpg" alt="mistake-in-habit_20150516.JPG" width="780" height="520" class="aligncenter size-large wp-image-14369" /><br />

@@ -23,6 +23,8 @@ tags:
 - 電子書籍
 - オーディオブック
 - 読書
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/readingpace_130902_01-546x407.jpg" alt="readingpace_130902_01" width="546" height="407" class="alignnone size-large wp-image-8307" /><br />

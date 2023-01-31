@@ -19,6 +19,8 @@ category:
 tags:
 - 銀座
 - プルーカフェ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120831152724.jpg" width="448" height="598" /><br />

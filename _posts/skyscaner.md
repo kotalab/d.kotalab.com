@@ -23,6 +23,8 @@ tags:
 - 旅行
 - 飛行機
 - 航空券
+ogImage:
+  url:
 comments:
 - id: 2536
   author: "[どん速 115] iPhone 5 を災害に強い衛星電話化できるようになりますよ。他 | 覚醒する @CDiP"

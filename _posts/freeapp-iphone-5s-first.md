@@ -24,6 +24,8 @@ tags:
 - iPhone 5s
 - iPhone 5c
 - Gmail
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/freeappiphone5sfirst_130922-546x307.jpg" alt="freeappiphone5sfirst_130922" width="546" height="307" class="alignnone size-large wp-image-9588" /><br />

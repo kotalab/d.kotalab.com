@@ -20,6 +20,8 @@ tags:
 - 本田直之
 - 時間術
 - レバレッジ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/jikanjutsu_130411-448x336.jpg" alt="jikanjutsu_130411" width="448" height="336" class="alignnone size-large wp-image-6784" /><br />

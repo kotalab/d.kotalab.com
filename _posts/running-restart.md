@@ -20,6 +20,8 @@ tags:
 - ランニング
 - Running
 - ヘルスケア
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/04/running-restart_20150412-780x439.png" alt="running-restart_20150412" width="780" height="439" class="aligncenter size-large wp-image-14089" /><br />

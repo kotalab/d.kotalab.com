@@ -20,6 +20,8 @@ tags:
 - wordpress
 - プラグイン
 - メンテナンスモード
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/wordpress-maintenance_20141224_01-780x351.png" alt="wordpress-maintenance_20141224_01" width="780" height="351" class="aligncenter size-large wp-image-13664" /><br />

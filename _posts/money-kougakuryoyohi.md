@@ -20,6 +20,8 @@ tags:
 - money
 - 高額療養費
 - 健康保険
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/money_130719-448x336.jpg" alt="money_130719" width="448" height="336" class="alignnone size-large wp-image-7885" /><br />

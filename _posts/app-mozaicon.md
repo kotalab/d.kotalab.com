@@ -18,6 +18,8 @@ category:
 - iPhoneアプリセール情報
 tags:
 - iPhoneアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/mozaicon_20121112.png" target="_blank"><img src="/wp-content/uploads/mozaicon_20121112.png" alt="" title="mozaicon_20121112" width="300" height="300" class="alignnone size-full wp-image-4181" /></a><br />

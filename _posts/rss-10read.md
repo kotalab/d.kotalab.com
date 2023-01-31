@@ -22,6 +22,8 @@ tags:
 - Reeder
 - RSS
 - ONE PIECE
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/rss_121210.jpg" target="_blank"><img src="/wp-content/uploads/rss_121210-448x336.jpg" alt="" title="rss_121210" width="448" height="336" class="alignnone size-large wp-image-4666" /></a><br />

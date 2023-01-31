@@ -15,6 +15,8 @@ date_gmt: '2012-05-11 12:40:14 +0900'
 category:
 - ストレスフリーな生き方
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/beer.jpg"><img src="/wp-content/uploads/beer.jpg" alt="" title="beer" width="240" height="320" class="alignnone size-full wp-image-1055" /></a><br />

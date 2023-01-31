@@ -25,6 +25,8 @@ tags:
 - スマホ
 - 新料金プラン
 - デジラ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/how-to-choose-datapack_140702-546x361.jpg" alt="how-to-choose-datapack_140702" width="546" height="361" class="alignnone size-large wp-image-13304" /><br />

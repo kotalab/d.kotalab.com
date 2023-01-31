@@ -21,6 +21,8 @@ tags:
 - 買った
 - 文房具
 - ペンホルダー
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/quiver_121123.jpg" target="_blank"><img src="/wp-content/uploads/quiver_121123-448x336.jpg" alt="" title="quiver_121123" width="448" height="336" class="alignnone size-large wp-image-4365" /></a><br />

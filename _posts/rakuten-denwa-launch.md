@@ -24,6 +24,8 @@ tags:
 - 050plus
 - 通話料
 - 楽天でんわ
+ogImage:
+  url:
 comments:
 - id: 3256
   author: "[どん速 184] iPad ユーザガイド iOS 7 用リリース！ / ロジクールから iPhone 5/5s 用ゲームコントローラ「G550」が予約開始。他

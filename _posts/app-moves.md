@@ -22,6 +22,8 @@ tags:
 - cheero
 - PictShare
 - moves
+ogImage:
+  url:
 comments:
 - id: 1091
   author: "[iPhone App Focus] 神アップデートも含めて厳選10本！良いアプリは何度でもおすすめします！他 | 覚醒する @CDiP"

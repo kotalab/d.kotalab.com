@@ -20,6 +20,8 @@ tags:
 - iphone 5
 - iPhone 5s
 - iPhone 5c
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/applespevent_130911_01-546x425.jpg" alt="applespevent_130911_01" width="546" height="425" class="alignnone size-large wp-image-8593" /><br />

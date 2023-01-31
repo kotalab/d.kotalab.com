@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - 料理
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/applacook_131203-546x409.jpg" alt="applacook_131203" width="546" height="409" class="alignnone size-large wp-image-10261" /><br />

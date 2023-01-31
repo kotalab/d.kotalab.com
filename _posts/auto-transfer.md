@@ -21,6 +21,8 @@ tags:
 - 家賃
 - 振込手数料
 - 自動振込
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/auto-transfer_20141111-780x585.jpg" alt="auto-transfer_20141111" width="780" height="585" class="aligncenter size-large wp-image-13590" /><br />

@@ -20,6 +20,8 @@ tags:
 - odaimoku.com
 - Dpub
 - WBC
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130106124750.png" width="448" height="336" /><br />

@@ -21,6 +21,8 @@ tags:
 - デジイチ
 - D80
 - nikon
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/jindaiji_130112_07.jpg" target="_blank"><img src="/wp-content/uploads/jindaiji_130112_07-448x300.jpg" alt="jindaiji_130112_07" width="448" height="300" class="alignnone size-large wp-image-5625" /></a><br />

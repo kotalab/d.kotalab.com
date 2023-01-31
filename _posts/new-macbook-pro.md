@@ -19,6 +19,8 @@ tags:
 - MacBook Air
 - アプリ開発
 - Xcode
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/new-macbook-pro-15_20150520_04.jpg" alt="New macbook pro 15 20150520 04" width="780" height ="520" class="aligncenter size-large" /><br />

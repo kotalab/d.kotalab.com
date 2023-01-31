@@ -22,6 +22,8 @@ tags:
 - Camore+
 - camera+
 - miil
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/miil_20121116.png" target="_blank"><img src="/wp-content/uploads/miil_20121116-448x350.png" alt="" title="miil_20121116" width="448" height="350" class="alignnone size-large wp-image-4265" /></a><br />

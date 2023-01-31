@@ -18,6 +18,8 @@ category:
 - kotala's Weekly
 tags:
 - こたらの1週間
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/weekly_120703.jpg" target="_blank"><img src="/wp-content/uploads/weekly_120703.jpg" alt="" title="weekly_120703" width="448" height="336" class="alignnone size-full wp-image-1221" /></a><br /><span style="font-size:10px;"><a href="https://www.flickr.com/photos/wespeck/4574733303/" target="_blank">Life</a> / gfpeck</span><br />

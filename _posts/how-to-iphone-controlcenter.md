@@ -23,6 +23,8 @@ tags:
 - ホーム画面
 - iPad
 - iOS7
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/howtoiphonecontrolcenter_130924_01-546x307.jpg" alt="howtoiphonecontrolcenter_130924_01" width="546" height="307" class="alignnone size-large wp-image-9606" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - miil
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130222-448x448.jpg" alt="miil_130222" width="448" height="448" class="alignnone size-large wp-image-6313" /><br />

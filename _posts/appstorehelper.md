@@ -22,6 +22,8 @@ tags:
 - LinkShare
 - PHG
 - AppStoreHelper
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/appstorehelper_130822_01-448x336.jpg" alt="appstorehelper_130822_01" width="448" height="336" class="alignnone size-large wp-image-8149" /><br />

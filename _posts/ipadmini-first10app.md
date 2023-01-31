@@ -19,6 +19,8 @@ category:
 tags:
 - iPadmini
 - iPadアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="ipadmini10app" src="/wp-content/uploads/slooProImg_20121104102440.jpg" width="448" height="292" /><br />

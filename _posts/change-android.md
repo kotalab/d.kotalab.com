@@ -20,6 +20,8 @@ tags:
 - iOS6
 - iPhone
 - MNP
+ogImage:
+  url:
 comments: []
 ---
 <p>iOS6のリリースが秋と聞いて秋が待ち遠しくなりました。@kotala_bです。<br />

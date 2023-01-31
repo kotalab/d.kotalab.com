@@ -18,6 +18,8 @@ category:
 - お金関連の本
 tags:
 - 読んだ
+ogImage:
+  url:
 comments: []
 ---
 <p>「<strong>金持ちになる男、貧乏になる男</strong>」を読みました。@kotala_bです。<br />

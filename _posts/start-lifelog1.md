@@ -17,6 +17,8 @@ category:
 tags:
 - Evernote
 - Postever
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/pc.jpg" target="_blank"><img src="/wp-content/uploads/pc.jpg" alt="" title="pc" width="448" height="336" class="alignnone size-full wp-image-1059" /></a><br />

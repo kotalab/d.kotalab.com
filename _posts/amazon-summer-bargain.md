@@ -19,6 +19,8 @@ category:
 tags:
 - amazon
 - 買い物
+ogImage:
+  url:
 comments: []
 ---
 <p>ちょくちょくamazonで買い物します。@kotala_bです。<br />

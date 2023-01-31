@@ -18,6 +18,8 @@ category:
 - iPhoneアプリ
 tags:
 - Gunosy
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/gunosy_121031.jpg" target="_blank"><img src="/wp-content/uploads/gunosy_121031.jpg" alt="" title="gunosy_121031" width="448" height="297" class="alignnone size-full wp-image-3826" /></a><br />

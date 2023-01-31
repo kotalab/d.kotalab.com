@@ -21,6 +21,8 @@ tags:
 - iPadmini
 - iPadアプリ
 - Reeder
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/reeder_121108.png" target="_blank"><img src="/wp-content/uploads/reeder_121108.png" alt="" title="reeder_121108" width="448" height="448" class="alignnone size-full wp-image-4041" /></a><br />

@@ -22,6 +22,8 @@ tags:
 - カメラロール
 - 写真
 - copyright
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/reduse_130322-448x357.jpg" alt="reduse_130322" width="448" height="357" class="alignnone size-large wp-image-6573" /><br />

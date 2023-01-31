@@ -17,6 +17,8 @@ date_gmt: '2012-06-26 03:56:42 +0900'
 category:
 - 自分らしく生きる
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/gravis-tarmac-hi-cut-mns" target="_blank"><img title="[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！ | kotala's note" src="https://capture.heartrails.com/150x130?https://kotalab.com/gravis-tarmac-hi-cut-mns" alt="https://kotalab.com/archives/967" width="150" height="130" align="left" /></a><a href="/gravis-tarmac-hi-cut-mns" title="[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！" target="_blank">[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！ | kotala's note</a><br style="clear:both;" /><a href="/gravis-tarmac-hi-cut-mns" title="[グラビス] GRAVIS TARMAC HI-CUT MNSを買ったら天気のいい日に出かけたくなった！" target="_blank">先日新しい靴を買いました。</a>@kotala_bです。<br />

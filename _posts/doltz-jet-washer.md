@@ -20,6 +20,8 @@ tags:
 - 健康
 - 買った
 - ドルツジェットウォッシャー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/doltz-jet-washer_20141125_01-780x585.jpg" alt="doltz-jet-washer_20141125_01" width="780" height="585" class="aligncenter size-large wp-image-13620" /><br />

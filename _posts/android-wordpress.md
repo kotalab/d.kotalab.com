@@ -16,6 +16,8 @@ category:
 - android
 tags:
 - wordpress
+ogImage:
+  url:
 comments: []
 ---
 <p>wordpressのAndroid版を入れてみました。<a href="https://twitter.com/kotala_b">@kotala_b</a>です。<br />

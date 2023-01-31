@@ -18,6 +18,8 @@ category:
 - 節約術
 tags:
 - amazon
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/jcbgiftcaard_120819.jpg" target="_blank"><img src="/wp-content/uploads/jcbgiftcaard_120819.jpg" alt="" title="jcbgiftcaard_120819" width="448" height="336" class="alignnone size-full wp-image-2191" /></a><br />

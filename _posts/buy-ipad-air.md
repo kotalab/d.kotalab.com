@@ -20,6 +20,8 @@ tags:
 - 町田
 - ヨドバシカメラ
 - iPad Air
+ogImage:
+  url:
 comments:
 - id: 3033
   author: iPad Air が欲しくなるレビュー写真18選 | 覚醒する @CDiP

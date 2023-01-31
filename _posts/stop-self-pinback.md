@@ -18,6 +18,8 @@ category:
 - WordPressプラグインの使い方
 tags:
 - WP Total Hacks
+ogImage:
+  url:
 comments:
 - id: 1478
   author: For Blogger Links 003 &#8211; 2013/04/15版 | 覚醒する @CDiP

@@ -16,6 +16,8 @@ category:
 - iOSアプリ開発
 tags:
 - Swift
+ogImage:
+  url:
 comments: []
 ---
 <p>六本木のグリーさんで開催された<a href="https://connpass.com/event/27156/" class="autolink">potatotips #27</a>にiOSブログ枠として参加してきました！<br />

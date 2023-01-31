@@ -21,6 +21,8 @@ tags:
 - kindle
 - 電子書籍
 - 中村孝志
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-to-do-not-list_140117-546x409.jpg" alt="books-to-do-not-list_140117" width="546" height="409" class="alignnone size-large wp-image-10585" /><br />

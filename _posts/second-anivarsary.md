@@ -22,6 +22,8 @@ tags:
 - アプリ開発
 - ファイナンシャルプランナー
 - 立花岳志
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/second-anivarsary_140509.jpg" alt="Second anivarsary 140509" title="second-anivarsary_140509.JPG" border="0" width="548" height="365" /><br />

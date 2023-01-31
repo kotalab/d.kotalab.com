@@ -22,6 +22,8 @@ tags:
 - 貯金
 - 住宅ローン
 - 資産運用
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/fmj-answer_140510.png" alt="Fmj answer 140510" title="fmj-answer_140510.png" border="0" width="548" height="204" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - Taskchute
 - Fusion5
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/fusion5_20121119.jpg" target="_blank"><img src="/wp-content/uploads/fusion5_20121119-448x336.jpg" alt="" title="fusion5_20121119" width="448" height="336" class="alignnone size-large wp-image-4314" /></a><br />

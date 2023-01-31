@@ -16,6 +16,8 @@ category:
 - おでかけ・散歩
 tags:
 - お出かけ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/disney_light.jpg" target="_blank"><img src="/wp-content/uploads/disney_light.jpg" alt="" title="disney_light" width="448" height="600" class="alignnone size-full wp-image-1156" /></a><br />

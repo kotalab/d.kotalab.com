@@ -15,6 +15,8 @@ date_gmt: '2015-06-22 22:55:32 +0900'
 category:
 - 自分らしく生きる
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/its-usually_20150609-780x517.jpg" alt="its-usually_20150609" width="780" height="517" class="aligncenter size-large wp-image-14580" /></p>

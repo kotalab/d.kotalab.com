@@ -20,6 +20,8 @@ tags:
 - 準備
 - El Capitan
 - 親指シフト
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/12/setup-oyayubishift_20151211-780x520.jpg
 ---

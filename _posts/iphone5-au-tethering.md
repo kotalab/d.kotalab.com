@@ -22,6 +22,8 @@ tags:
 - iphone 5
 - au
 - デザリング
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/iphone5Tethering_120914.jpg" target="_blank"><img src="/wp-content/uploads/iphone5Tethering_120914.jpg" alt="" title="iphone5Tethering_120914" width="448" height="597" class="alignnone size-full wp-image-2752" /></a><br />

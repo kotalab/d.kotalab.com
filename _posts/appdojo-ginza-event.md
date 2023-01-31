@@ -20,6 +20,8 @@ tags:
 - イベント
 - アップルストア銀座
 - アプリ道場
+ogImage:
+  url:
 comments:
 - id: 6696
   author: ジョブズも登壇した伝説のAppleStore銀座シアターでショートコントをしてきました！ | はれときどきくもりZ

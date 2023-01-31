@@ -20,6 +20,8 @@ tags:
 - パスタ
 - 作った
 - 料理
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/pasta_120629_03.jpg" target="_blank"><img src="/wp-content/uploads/pasta_120629_03.jpg" alt="" title="pasta_120629_03" width="448" height="336" class="alignnone size-full wp-image-1096" /></a><br />

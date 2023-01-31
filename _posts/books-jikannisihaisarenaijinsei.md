@@ -18,6 +18,8 @@ category:
 - 生き方の本
 tags:
 - ジョン・キム
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/jikansihai_130424-448x336.jpg" alt="jikansihai_130424" width="448" height="336" class="alignnone size-large wp-image-6910" /><br />

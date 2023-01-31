@@ -21,6 +21,8 @@ tags:
 - 宮島
 - 牡蠣
 - 焼きがきのはやし
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miyajimakakihayashi_131005_03-546x409.jpg" alt="miyajimakakihayashi_131005_03" width="546" height="409" class="alignnone size-large wp-image-9797" /><br />

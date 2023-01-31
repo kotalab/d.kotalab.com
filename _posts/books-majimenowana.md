@@ -21,6 +21,8 @@ tags:
 - 書評
 - ストレスフリー
 - 勝間和代
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-majimenowana_140206-546x361.jpg" alt="books-majimenowana_140206" width="546" height="361" class="alignnone size-large wp-image-10787" /><br />

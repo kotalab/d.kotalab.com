@@ -23,6 +23,8 @@ tags:
 - 料金
 - パケあえる
 - カケホーダイ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/insurancecannotfeelrelieved_131126_01-546x361.jpg" alt="insurancecannotfeelrelieved_131126_01" width="546" height="361" class="alignnone size-large wp-image-10244" /><br />

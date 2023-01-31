@@ -19,6 +19,8 @@ category:
 tags:
 - RSS
 - googleリーダー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/rss_121210-448x336.jpg" alt="rss_121210" width="448" height="336" class="alignnone size-large wp-image-4666" /><br />

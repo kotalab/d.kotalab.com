@@ -22,6 +22,8 @@ tags:
 - money
 - 家計
 - 家計簿
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/recommend-money-app_20140107-546x169.jpg" alt="recommend-money-app_20140107" width="546" height="169" class="alignnone size-large wp-image-10433" /><br />

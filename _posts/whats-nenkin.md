@@ -23,6 +23,8 @@ tags:
 - 増税
 - 自分で考える
 - ねんきんネット
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/whats-nenkin_140207-546x361.jpg" alt="whats-nenkin_140207" width="546" height="361" class="alignnone size-large wp-image-10790" /><br />

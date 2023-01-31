@@ -19,6 +19,8 @@ category:
 tags:
 - 問題解決
 - 思考法
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/thinking-of-how-to-catch-the-essence_20150119-780x438.jpg" alt="thinking-of-how-to-catch-the-essence_20150119" width="780" height="438" class="aligncenter size-large wp-image-13850" /><br />

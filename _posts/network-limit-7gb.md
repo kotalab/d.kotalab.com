@@ -18,6 +18,8 @@ tags:
 - 見直し
 - iPhone 6Plus
 - MVNO
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/network-limit-7gb_20150616_01.png" alt="Network limit 7gb 20150616 01" width="600" height ="580" class="aligncenter size-large" /></p>

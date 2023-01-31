@@ -19,6 +19,8 @@ category:
 tags:
 - シャーク スチームポータブル
 - 掃除
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/steamportabl_121228.jpg" target="_blank"><img src="/wp-content/uploads/steamportabl_121228-448x336.jpg" alt="steamportabl_121228" width="448" height="336" class="alignnone size-large wp-image-5120" /></a><br />

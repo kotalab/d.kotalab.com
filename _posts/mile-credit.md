@@ -20,6 +20,8 @@ tags:
 - クレジットカード
 - LCC
 - マイル
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/credit_120706.jpg" align="left" target="_blank"><img src="/wp-content/uploads/credit_120706.jpg" alt="" title="credit_120706" width="448" height="336" class="alignnone size-full wp-image-1292" /></a><br />

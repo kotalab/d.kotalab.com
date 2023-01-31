@@ -22,6 +22,8 @@ tags:
 - googleリーダー
 - 移行
 - Feedly
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/feedly_130629-448x240.jpg" alt="feedly_130629" width="448" height="240" class="alignnone size-large wp-image-7696" /><br />

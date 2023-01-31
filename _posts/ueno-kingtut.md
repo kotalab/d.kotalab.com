@@ -21,6 +21,8 @@ tags:
 - 行ってきた
 - 上野の森美術館
 - ツタンカーメン展
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121027133612.jpg" width="448" height="336" /><br />

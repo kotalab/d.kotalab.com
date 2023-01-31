@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - 習慣
 - Lift
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/liftapp_130928_01-546x409.jpg" alt="liftapp_130928_01" width="546" height="409" class="alignnone size-large wp-image-9718" /><br />

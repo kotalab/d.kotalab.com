@@ -19,6 +19,8 @@ category:
 tags:
 - 秋葉原
 - 麺屋武蔵武仁
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/akibamusasi_20121117_01.jpg" target="_blank"><img src="/wp-content/uploads/akibamusasi_20121117_01-448x336.jpg" alt="" title="akibamusasi_20121117_01" width="448" height="336" class="alignnone size-large wp-image-4285" /></a><br />

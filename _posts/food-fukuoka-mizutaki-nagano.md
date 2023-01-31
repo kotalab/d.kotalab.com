@@ -21,6 +21,8 @@ tags:
 - 福岡
 - 水炊き
 - 水たき長野
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/food-fukuoka-mizutaki-nagano_140115_09-546x409.jpg" alt="food-fukuoka-mizutaki-nagano_140115_09" width="546" height="409" class="alignnone size-large wp-image-10561" /><br />

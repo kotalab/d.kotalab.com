@@ -20,6 +20,8 @@ tags:
 - 使い方
 - Spotlight
 - 感圧トラックパッド
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/macbook-pro-change-setting_20150524_012.png" alt="Macbook pro change setting 20150524 01" width="780" height ="709" class="aligncenter size-large" /></p>

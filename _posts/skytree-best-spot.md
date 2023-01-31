@@ -20,6 +20,8 @@ tags:
 - 東京スカイツリー
 - すみだ水族館
 - プラネタリウム天空
+ogImage:
+  url:
 comments:
 - id: 1154
   author: "[For Blogger] 名古屋ブログ合宿がいい感じ。他 | 覚醒する @CDiP"

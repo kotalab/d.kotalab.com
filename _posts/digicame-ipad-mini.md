@@ -21,6 +21,8 @@ tags:
 - iPadmini
 - Eye-Fi
 - 写真
+ogImage:
+  url:
 comments:
 - id: 2049
   author: どん速【020：2013/05/26版】 | 覚醒する @CDiP

@@ -22,6 +22,8 @@ tags:
 - miil
 - チーズスフレ
 - ピザハット
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130310-448x447.jpg" alt="miil_130310" width="448" height="447" class="alignnone size-large wp-image-6458" /><br />

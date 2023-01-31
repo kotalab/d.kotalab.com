@@ -20,6 +20,8 @@ tags:
 - ユニクロ
 - おすすめ
 - ヒートテック
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/heattech_131112_01.jpg" alt="heattech_131112_01" width="480" height="452" class="alignnone size-full wp-image-10147" /><br />

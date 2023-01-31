@@ -16,6 +16,8 @@ category:
 - ひとりごと
 tags:
 - studynote
+ogImage:
+  url:
 comments:
 - id: 2
   author: 廣瀬高志

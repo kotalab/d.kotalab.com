@@ -19,6 +19,8 @@ category:
 tags:
 - 焼肉
 - 福岡
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/food-motsunabe-ichiya_03-546x409.jpg" alt="food-motsunabe-ichiya_03" width="546" height="409" class="alignnone size-large wp-image-10511" /><br />

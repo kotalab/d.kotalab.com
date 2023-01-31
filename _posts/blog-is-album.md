@@ -18,6 +18,8 @@ tags:
 - タスク管理
 - やりたいこと
 - 行動
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/taskstart_20121005.jpg" alt="taskstart_20121005" width="780" class="aligncenter size-large wp-image-3123" /></p>

@@ -19,6 +19,8 @@ tags:
 - やりたいこと
 - 読書
 - 意識
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/07/change-the-non-consciousness_20150722.jpg" alt="Change the non consciousness 20150722" width="780" height ="520" class="aligncenter size-large" /></p>

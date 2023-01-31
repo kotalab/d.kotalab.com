@@ -19,6 +19,8 @@ tags:
 - 料金
 - 小田急
 - ロマンスカー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/04/romancecar-good-experience_20150429_01.jpg" alt="Romancecar good experience 20150429 01" width="546" height ="364" class="aligncenter size-large" /></p>

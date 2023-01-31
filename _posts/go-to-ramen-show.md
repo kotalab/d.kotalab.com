@@ -20,6 +20,8 @@ tags:
 - ラーメン
 - 東京ラーメンショー2012
 - 駒沢公園
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/slooProImg_20121026165333.jpg"><img src="/wp-content/uploads/slooProImg_20121026165333.jpg" alt="" title="slooProImg_20121026165333.jpg" width="448" height="174" class="alignnone size-full wp-image-3712" /></a><br />

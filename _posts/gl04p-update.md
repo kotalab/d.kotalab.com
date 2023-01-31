@@ -21,6 +21,8 @@ tags:
 - アップデート
 - GL04P
 - EMOBILE
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/gl04pupdate_121205.jpg" target="_blank"><img src="/wp-content/uploads/gl04pupdate_121205-448x336.jpg" alt="" title="gl04pupdate_121205" width="448" height="336" class="alignnone size-large wp-image-4560" /></a><br />

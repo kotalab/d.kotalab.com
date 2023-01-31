@@ -20,6 +20,8 @@ tags:
 - 読んだ
 - 書評
 - 苫米地英人
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140303065646.jpg" width="548" height="411" class="slooProImg" /><br />

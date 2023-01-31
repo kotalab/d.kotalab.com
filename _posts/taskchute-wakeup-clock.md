@@ -19,6 +19,8 @@ category:
 tags:
 - カスタマイズ
 - 起き時計
+ogImage:
+  url:
 comments: []
 ---
 <p>睡眠時間を7時間取ると体調がいいです。@kotala_bです。<br />

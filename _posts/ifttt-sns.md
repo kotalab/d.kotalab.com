@@ -20,6 +20,8 @@ tags:
 - wordpress
 - Twitter
 - IFTTT
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ifttt-sns_140325_03.jpg" alt="ifttt-sns_140325_03" width="349" height="197" class="alignnone size-full wp-image-11260" /><br />

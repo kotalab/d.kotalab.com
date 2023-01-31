@@ -20,6 +20,8 @@ tags:
 - クレジットカード
 - nanaco
 - 漢方スタイルクラブカード
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/02/kanpostyle-change-pointsystem_20150226_01-780x438.jpg" alt="kanpostyle-change-pointsystem_20150226_01" width="780" height="438" class="aligncenter size-large wp-image-13935" /><br />

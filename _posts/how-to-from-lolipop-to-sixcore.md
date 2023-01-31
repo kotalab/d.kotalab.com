@@ -20,6 +20,8 @@ tags:
 - 引越し
 - sixcore
 - ロリポップ
+ogImage:
+  url:
 comments:
 - id: 2048
   author: どんブロ【008：2013/05/23版】〜 ばりばりたべてぶりぶりうんこ | 覚醒する @CDiP

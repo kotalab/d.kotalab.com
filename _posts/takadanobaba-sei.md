@@ -19,6 +19,8 @@ category:
 tags:
 - 高田馬場
 - ランチ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140505104507.jpg" width="500" height="500" class="slooProImg" /><br />

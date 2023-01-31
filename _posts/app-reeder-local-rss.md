@@ -20,6 +20,8 @@ tags:
 - Reeder
 - RSS
 - googleリーダー
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130429125816.jpg" width="448" height="354" /><br />

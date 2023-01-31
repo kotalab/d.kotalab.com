@@ -15,6 +15,8 @@ date_gmt: '2012-05-09 09:34:06 +0900'
 category:
 - ひとりごと
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/hello.jpg" target="_blank"><img src="/wp-content/uploads/hello.jpg" alt="" title="hello" width="448" height="336" class="alignnone size-full wp-image-1049" /></a><br />

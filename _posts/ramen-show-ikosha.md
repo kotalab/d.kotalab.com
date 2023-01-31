@@ -19,6 +19,8 @@ category:
 tags:
 - 東京ラーメンショー
 - 博多一幸舎
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121026182849.jpg" width="448" height="336" /><br />

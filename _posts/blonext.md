@@ -19,6 +19,8 @@ category:
 tags:
 - ブロネク
 - "#ブロネク企画"
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/bnd_121223.jpg" target="_blank"><img src="/wp-content/uploads/bnd_121223-448x251.jpg" alt="bnd_121223" width="448" height="251" class="alignnone size-large wp-image-5055" /></a><br />

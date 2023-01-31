@@ -18,6 +18,8 @@ category:
 - イベント
 tags:
 - ラクガキ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/2015/03/slooProImg_20150322131245.jpg" width="720" height="405" /><br />

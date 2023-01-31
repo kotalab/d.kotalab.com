@@ -22,6 +22,8 @@ tags:
 - au
 - LTE
 - 7gb制限
+ogImage:
+  url:
 comments:
 - id: 2816
   author: "[どん速 128] 「iOS in the Car」ついにパイオニアから発進！他 | 覚醒する @CDiP"

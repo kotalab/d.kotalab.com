@@ -23,6 +23,8 @@ tags:
 - するぷろ
 - 習慣
 - 書評
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/leveragereading_121206.jpg" target="_blank"><img src="/wp-content/uploads/leveragereading_121206-448x298.jpg" alt="" title="leveragereading_121206" width="448" height="298" class="alignnone size-large wp-image-4571" /></a><br />

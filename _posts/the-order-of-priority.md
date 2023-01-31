@@ -19,6 +19,8 @@ category:
 tags:
 - 習慣
 - やりたいこと
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/timemanagement_130307-448x644.jpg" alt="timemanagement_130307" width="448" height="644" class="alignnone size-large wp-image-6427" /><br />

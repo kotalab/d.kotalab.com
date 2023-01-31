@@ -20,6 +20,8 @@ tags:
 - IKEA
 - 買った
 - テーブルランプ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ikea_130423-448x336.jpg" alt="ikea_130423" width="448" height="336" class="alignnone size-large wp-image-6901" /><br />

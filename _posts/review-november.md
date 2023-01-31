@@ -21,6 +21,8 @@ tags:
 - ホワイトプランR
 - iPadmini
 - レビュー
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/review_121201.jpg" target="_blank"><img src="/wp-content/uploads/review_121201-448x336.jpg" alt="" title="review_121201" width="448" height="336" class="alignnone size-large wp-image-4494" /></a><br />

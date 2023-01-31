@@ -24,6 +24,8 @@ tags:
 - 楽天でんわ
 - 格安通話
 - LINE電話
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/compare-price-mobilephone_140411-546x551.jpg" alt="compare-price-mobilephone_140411" width="546" height="551" class="alignnone size-large wp-image-12503" /><br />

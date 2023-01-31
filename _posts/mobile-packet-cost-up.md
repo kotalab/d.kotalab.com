@@ -26,6 +26,8 @@ tags:
 - スマ放題
 - 新料金プラン
 - デジラ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/mobile-packet-cost-up_140704-546x361.jpg" alt="mobile-packet-cost-up_140704" width="546" height="361" class="alignnone size-large wp-image-13311" /><br />

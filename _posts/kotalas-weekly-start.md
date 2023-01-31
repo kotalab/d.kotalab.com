@@ -25,6 +25,8 @@ tags:
 - 写真
 - NIKEiD
 - ランニング
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/slooProImg_20130509203804.jpg" alt="slooProImg_20130509203804.jpg" width="448" height="448" class="alignnone size-full wp-image-7073" /><br />

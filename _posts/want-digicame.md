@@ -22,6 +22,8 @@ tags:
 - nikon
 - 写真
 - canon
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/nextyear_121231-448x448.jpg" alt="nextyear_121231" width="448" height="448" class="alignnone size-large wp-image-5164" /><br />

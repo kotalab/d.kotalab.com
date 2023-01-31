@@ -21,6 +21,8 @@ tags:
 - iPadmini
 - kindle
 - Eye-Fi
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/eyefi130106.jpg" target="_blank"><img src="/wp-content/uploads/eyefi130106-448x336.jpg" alt="eyefi130106" width="448" height="336" class="alignnone size-large wp-image-5532" /></a><br />

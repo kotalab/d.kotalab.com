@@ -22,6 +22,8 @@ tags:
 - アプリ開発
 - ファイナンシャルプランナー
 - 転職
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/birthday-30th_140430.jpg" alt="Birthday 30th 140430" title="birthday-30th_140430.jpg" border="0" width="548" height="365" /><br />

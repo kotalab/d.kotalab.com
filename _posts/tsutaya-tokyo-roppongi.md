@@ -19,6 +19,8 @@ category:
 tags:
 - スタバ
 - Starbucks
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/tsutaya_130503-448x336.jpg" alt="tsutaya_130503" width="448" height="336" class="alignnone size-large wp-image-6988" /><br />

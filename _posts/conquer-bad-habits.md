@@ -17,6 +17,8 @@ category:
 tags:
 - 習慣
 - 三日坊主
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/kanazawa-bus-around_20150510_08-780x516.jpg" alt="kanazawa-bus-around_20150510_08.JPG" width="780" height="516" class="aligncenter size-large wp-image-14315" /></p>

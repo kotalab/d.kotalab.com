@@ -19,6 +19,8 @@ category:
 tags:
 - Xcode
 - 環境構築
+ogImage:
+  url:
 comments:
 - id: 3282
   author: "[備忘録]XcodeでiOSシミュレータでレスポンシブデザインの表示確認！そしてAndroidの場合のあれこれ。 | ultimate-ez.com"

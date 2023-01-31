@@ -20,6 +20,8 @@ tags:
 - 習慣
 - やりたいこと
 - 勝間和代
+ogImage:
+  url:
 comments: []
 ---
 <p>今朝Twitterでこんな記事を見つけました。<br />

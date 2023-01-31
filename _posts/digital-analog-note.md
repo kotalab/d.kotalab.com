@@ -19,6 +19,8 @@ category:
 tags:
 - Evernote
 - モレスキン
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/note_120903_02.jpg" target="_blank"><img src="/wp-content/uploads/note_120903_02.jpg" alt="" title="note_120903_02" width="448" height="597" class="alignnone size-full wp-image-2456" /></a><br />

@@ -22,6 +22,8 @@ tags:
 - au
 - iPadmini
 - 7gb制限
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ipadminiretinacompare_131114-546x376.png" alt="ipadminiretinacompare_131114" width="546" height="376" class="alignnone size-large wp-image-10173" /><br />

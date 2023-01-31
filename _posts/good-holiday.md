@@ -17,6 +17,8 @@ date_gmt: '2012-10-19 02:00:18 +0900'
 category:
 - 自分らしく生きる
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/holiday_121019.jpg" target="_blank"><img src="/wp-content/uploads/holiday_121019.jpg" alt="" title="holiday_121019" width="448" height="336" class="alignnone size-full wp-image-3501" /></a><br />

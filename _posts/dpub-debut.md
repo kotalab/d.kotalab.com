@@ -19,6 +19,8 @@ category:
 tags:
 - イベント
 - Dpub
+ogImage:
+  url:
 comments:
 - id: 1045
   author: 'Dpub 7 も熱かった、そしてその熱量はオフレポという形で噴き出した #dpub7 &laquo; 最近,気になったこと&#8230;'

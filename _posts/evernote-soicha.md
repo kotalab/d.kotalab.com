@@ -20,6 +20,8 @@ tags:
 - Evernote
 - nsl8
 - SOICHA
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/soicha_120925.png"><img src="/wp-content/uploads/soicha_120925.png" alt="" title="soicha_120925" width="448" height="448" class="alignnone size-full wp-image-2975" /></a><br />

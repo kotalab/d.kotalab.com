@@ -19,6 +19,8 @@ category:
 tags:
 - Evernote
 - CellMemo
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphone-evernote-cellmemo_140711_01-546x339.jpg" alt="iphone-evernote-cellmemo_140711_01" width="546" height="339" class="alignnone size-large wp-image-13325" /><br />

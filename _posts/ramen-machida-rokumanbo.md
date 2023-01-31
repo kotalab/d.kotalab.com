@@ -19,6 +19,8 @@ category:
 tags:
 - 町田
 - NAGAHAMAろくまんぼー
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121001130439.jpg" width="448" height="336" /><br />

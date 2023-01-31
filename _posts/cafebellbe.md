@@ -20,6 +20,8 @@ tags:
 - miil
 - カレーパン
 - 赤レンガ倉庫
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/currypan_121020.jpg" target="_blank"><img src="/wp-content/uploads/currypan_121020.jpg" alt="" title="currypan_121020" width="448" height="336" class="alignnone size-full wp-image-3566" /></a><br />

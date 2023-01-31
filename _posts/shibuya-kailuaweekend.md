@@ -21,6 +21,8 @@ tags:
 - ハワイアン
 - ロコモコ
 - ヒカリエ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120807152945.jpg" width="448" height="336" /><br />

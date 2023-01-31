@@ -21,6 +21,8 @@ tags:
 - RSS
 - googleリーダー
 - Feedly
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/reeder_130702-448x381.jpg" alt="reeder_130702" width="448" height="381" class="alignnone size-large wp-image-7717" /><br />

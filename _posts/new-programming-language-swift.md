@@ -19,6 +19,8 @@ category:
 tags:
 - Swift
 - WWDC
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140603070504.jpg" width="548" height="309" class="slooProImg" /><br />

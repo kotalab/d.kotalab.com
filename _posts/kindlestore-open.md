@@ -19,6 +19,8 @@ category:
 tags:
 - amazon
 - kindle
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/kindleapp_121025.png" target="_blank"><img src="/wp-content/uploads/kindleapp_121025.png" alt="" title="kindleapp_121025" width="448" height="448" class="alignnone size-full wp-image-3690" /></a><br />

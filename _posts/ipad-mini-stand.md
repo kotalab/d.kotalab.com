@@ -22,6 +22,8 @@ tags:
 - iPad
 - スタンド
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121215103625.jpg" width="448" height="336" /><br />

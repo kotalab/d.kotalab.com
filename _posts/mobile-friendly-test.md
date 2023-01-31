@@ -19,6 +19,8 @@ category:
 tags:
 - アップデート
 - Google
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/04/mobile_frendly_test_20150416_03-780x675.png" alt="mobile_frendly_test_20150416_03" width="780" height="675" class="aligncenter size-large wp-image-14111" /><br />

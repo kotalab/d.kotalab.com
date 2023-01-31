@@ -16,6 +16,8 @@ category:
 - android
 tags:
 - Taskchute
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/think.jpg" target="_blank"><img src="/wp-content/uploads/think.jpg" alt="" title="think" width="448" height="336" class="alignnone size-full wp-image-1329" /></a><br />

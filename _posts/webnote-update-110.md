@@ -21,6 +21,8 @@ tags:
 - アップデート
 - WebNote
 - WebNoteアップデート情報
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/app-release_140824.jpg" alt="app-release_140824" width="780" height="585" class="aligncenter size-full wp-image-13380" /><br />

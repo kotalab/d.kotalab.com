@@ -22,6 +22,8 @@ tags:
 - Due
 - URLスキーム
 - リマインダー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/dont-forget-plan-with-iphone_140104_01.jpg" alt="dont-forget-plan-with-iphone_140104_01" width="322" height="344" class="alignnone size-full wp-image-10395" /><br />

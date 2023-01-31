@@ -20,6 +20,8 @@ tags:
 - 使い方
 - みどり荘
 - Xcode
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/app-creator-1day_140421_05.jpg" alt="App creator 1day 140421 05" title="app-creator-1day_140421_05.JPG" border="0" width="548" height="365" /><br />

@@ -20,6 +20,8 @@ tags:
 - 買った
 - C.D.NOTEBOOK
 - MOLESKINE
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/c-d-notebook_20141117_01-780x585.jpg" alt="c-d-notebook_20141117_01" width="780" height="585" class="aligncenter size-large wp-image-13600" /><br />

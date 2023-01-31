@@ -18,6 +18,8 @@ tags:
 - お金がもったいない
 - 時間がもったいない
 - もったいない
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/07/lets-quit-because-time-is-too-good_20150731.jpg
 ---

@@ -19,6 +19,8 @@ category:
 tags:
 - 設定
 - Textexpander
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/yosemite-textexpander_20141106_04.png" alt="yosemite-textexpander_20141106_04" width="780" height="654" class="aligncenter size-full wp-image-13575" /><br />

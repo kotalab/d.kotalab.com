@@ -22,6 +22,8 @@ tags:
 - SIMフリー
 - MVNO
 - DMMmobile
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/2015/02/slooProImg_20150227103013.jpg" width="720" height="405" /><br />

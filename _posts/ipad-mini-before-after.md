@@ -23,6 +23,8 @@ tags:
 - iPad
 - 通勤電車
 - 使い道
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ipadmini_121221.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini_121221-448x448.jpg" alt="ipadmini_121221" width="448" height="448" class="alignnone size-large wp-image-4980" /></a><br />

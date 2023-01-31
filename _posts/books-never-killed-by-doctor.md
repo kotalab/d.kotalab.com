@@ -19,6 +19,8 @@ category:
 tags:
 - 読んだ
 - 書評
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-never-killed-by-doctor_140306-546x546.jpg" alt="books-never-killed-by-doctor_140306" width="546" height="546" class="alignnone size-large wp-image-11078" /><br />

@@ -22,6 +22,8 @@ tags:
 - iPhone4S
 - アプリ
 - SmartEver
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/smartever_120726.jpg" target="_blank"><img src="/wp-content/uploads/smartever_120726.jpg" alt="" title="smartever_120726" width="448" height="299" class="alignnone size-full wp-image-1677" /></a><br />

@@ -22,6 +22,8 @@ tags:
 - 掃除
 - お買得
 - 買い物
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121221161734.png" width="448" height="386" /><br />

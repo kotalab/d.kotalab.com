@@ -21,6 +21,8 @@ tags:
 - 習慣
 - セルフマネジメント
 - カロリー管理
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/diet_121122_03.png" target="_blank"><img src="/wp-content/uploads/diet_121122_03-448x336.png" alt="" title="diet_121122_03" width="448" height="336" class="alignnone size-large wp-image-4355" /></a><br />

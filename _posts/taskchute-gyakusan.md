@@ -19,6 +19,8 @@ category:
 tags:
 - カスタマイズ
 - 起床時間
+ogImage:
+  url:
 comments: []
 ---
 <p>Taskchuteが徐々に自分に合った形に変わってきてます。@kotala_bです。<br />

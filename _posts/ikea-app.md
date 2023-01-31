@@ -18,6 +18,8 @@ category:
 - iPhoneアプリ
 tags:
 - IKEA
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140605081541.jpg" width="548" height="411" class="slooProImg" /><br />

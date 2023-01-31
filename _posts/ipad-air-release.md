@@ -19,6 +19,8 @@ category:
 tags:
 - iPadmini
 - iPad Air
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ipadair_131023_01-546x299.png" alt="ipadair_131023_01" width="546" height="299" class="alignnone size-large wp-image-10020" /><br />

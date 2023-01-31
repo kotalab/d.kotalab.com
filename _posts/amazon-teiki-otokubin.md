@@ -21,6 +21,8 @@ tags:
 - 買った
 - ミネラルウォーター
 - 日用品
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/amazonteikibin_130410-448x336.jpg" alt="amazonteikibin_130410" width="448" height="336" class="alignnone size-large wp-image-6776" /><br />

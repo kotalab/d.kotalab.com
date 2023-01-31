@@ -19,6 +19,8 @@ category:
 tags:
 - サーティーワン
 - アイス
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130531185216.jpg" width="448" height="297" /><br />

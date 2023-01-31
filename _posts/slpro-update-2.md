@@ -26,6 +26,8 @@ tags:
 - するぷろーら
 - モブログ
 - URLスキーム
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/slpro_130214-448x448.jpg" alt="slpro_130214" width="448" height="448" class="alignnone size-large wp-image-6189" /><br />

@@ -22,6 +22,8 @@ tags:
 - 書評
 - 家計
 - 家計簿
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-sakiokurisezuni_140116-546x409.jpg" alt="books-sakiokurisezuni_140116" width="546" height="409" class="alignnone size-large wp-image-10577" /><br />

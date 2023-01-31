@@ -18,6 +18,8 @@ category:
 - WordPressプラグインの使い方
 tags:
 - jetpack
+ogImage:
+  url:
 comments:
 - id: 1511
   author: どん速【002：2013/05/04版】 | 覚醒する @CDiP

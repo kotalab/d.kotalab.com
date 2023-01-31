@@ -19,6 +19,8 @@ category:
 tags:
 - 買った
 - オーブントースター
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130325192549.jpg" width="448" height="336" /><br />

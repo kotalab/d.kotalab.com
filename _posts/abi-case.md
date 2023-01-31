@@ -21,6 +21,8 @@ tags:
 - デジタル一眼レフカメラ
 - iPhoneケース
 - abicase
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/abicase_140414_01.jpg" alt="Abicase 140414 01" title="abicase_140414_01.jpg" border="0" width="548" height="365" /><br />

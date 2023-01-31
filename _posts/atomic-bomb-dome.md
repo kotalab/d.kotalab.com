@@ -26,6 +26,8 @@ tags:
 - 世界遺産
 - 広島
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/atomicbombdome_131004_14-546x361.jpg" alt="atomicbombdome_131004_14" width="546" height="361" class="alignnone size-large wp-image-9765" /><br />

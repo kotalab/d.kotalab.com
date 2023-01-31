@@ -22,6 +22,8 @@ tags:
 - googleカレンダー
 - iCal
 - 同期
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/icalholiday_130610-448x275.jpg" alt="icalholiday_130610" width="448" height="275" class="alignnone size-large wp-image-7422" /><br />

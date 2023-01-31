@@ -23,6 +23,8 @@ tags:
 - 写真
 - クラウド
 - Flickr
+ogImage:
+  url:
 comments:
 - id: 1690
   author: どん速【018：2013/05/24版】 | 覚醒する @CDiP

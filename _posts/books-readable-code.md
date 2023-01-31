@@ -20,6 +20,8 @@ tags:
 - アプリ開発
 - Swift
 - アプリ道場
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-readable-code_20141230-780x520.jpg" alt="books-readable-code_20141230" width="780" height="520" class="aligncenter size-large wp-image-13702" /><br />

@@ -20,6 +20,8 @@ tags:
 - Twitter
 - 情報収集
 - googleリーダー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/Twitter_130319.jpg" alt="Twitter_130319" width="448" height="280" class="alignnone size-full wp-image-6548" /><br />

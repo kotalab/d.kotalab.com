@@ -21,6 +21,8 @@ tags:
 - 高額療養費
 - 健康保険
 - 医療保険
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miyajima_131009_04-546x361.jpg" alt="miyajima_131009_04" width="546" height="361" class="alignnone size-large wp-image-9865" /><br />

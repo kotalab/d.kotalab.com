@@ -15,6 +15,8 @@ date_gmt: '2015-06-18 23:36:40 +0900'
 category:
 - とにかくやってみよう
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/insurancecannotfeelrelieved_131126_02-546x361.jpg" alt="insurancecannotfeelrelieved_131126_02" width="546" height="361" class="aligncenter size-large wp-image-10245" /></p>

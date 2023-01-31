@@ -18,6 +18,8 @@ category:
 - Pocketの使い方
 tags:
 - 整理整頓
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/pocket_130426-448x448.png" alt="pocket_130426" width="448" height="448" class="alignnone size-large wp-image-6923" />PocketはTagで管理しています。こたら（@kotala_b）です。<br />

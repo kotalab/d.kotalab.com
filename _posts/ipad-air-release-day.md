@@ -19,6 +19,8 @@ category:
 tags:
 - ヨドバシカメラ
 - アップルストア
+ogImage:
+  url:
 comments:
 - id: 3009
   author: "[どん速 151] iPhone用専用ゲームコントローラの登場はまだか？他 | 覚醒する @CDiP"

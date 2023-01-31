@@ -21,6 +21,8 @@ tags:
 - 終身保険
 - 定期保険
 - 収入保障保険
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/syunyu-hosho-hoken_20140202_04-546x162.png" alt="syunyu-hosho-hoken_20140202_04" width="546" height="162" class="alignnone size-large wp-image-10736" /><br />

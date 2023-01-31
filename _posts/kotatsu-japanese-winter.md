@@ -18,6 +18,8 @@ category:
 - ガジェット
 tags:
 - こたつ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/kotatsu-japanese-winter_20141125_01-780x585.jpg" alt="kotatsu-japanese-winter_20141125_01" width="780" height="585" class="aligncenter size-large wp-image-13607" /><br />

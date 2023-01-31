@@ -28,6 +28,8 @@ tags:
 - 増税
 - 格安通話
 - LINE電話
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/communications-cost-95off_140228_01-546x285.jpg" alt="communications-cost-95off_140228_01" width="546" height="285" class="alignnone size-large wp-image-11006" /><br />

@@ -17,6 +17,8 @@ category:
 tags:
 - お出かけ
 - costco
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/costco.jpg" target="_blank"><img src="/wp-content/uploads/costco.jpg" alt="" title="costco" width="448" height="336" class="alignnone size-full wp-image-1142" /></a><br />

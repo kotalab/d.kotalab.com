@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - EveryPost
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/20131122-155111.jpg" alt="20131122-155111.jpg" class="alignnone size-full" /><br />

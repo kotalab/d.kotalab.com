@@ -23,6 +23,8 @@ tags:
 - 家計
 - 家計簿
 - 貯金
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/compare-recept-scan-functions_140409.jpg" alt="Compare recept scan functions 140409" title="compare-recept-scan-functions_140409.jpg" border="0" width="548" height="332" /><br />

@@ -21,6 +21,8 @@ tags:
 - iPhoneアプリ
 - するぷろーら
 - モブログ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/slprola_121208.jpg" target="_blank"><img src="/wp-content/uploads/slprola_121208-300x300.jpg" alt="" title="slprola_121208" width="300" height="300" class="alignnone size-medium wp-image-4646" /></a><br />

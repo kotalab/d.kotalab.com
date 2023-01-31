@@ -18,6 +18,8 @@ category:
 - ガジェット
 tags:
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120917123814.jpg" width="448" height="336" /><br />

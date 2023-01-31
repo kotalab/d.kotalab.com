@@ -22,6 +22,8 @@ tags:
 - DraftPad
 - モブログ
 - iPad Air
+ogImage:
+  url:
 comments:
 - id: 3050
   author: "[どん速 167] 人気の「Tweetbot 3」 が機能強化アップデート。旧バージョンも復活リリース。他 | 覚醒する @CDiP"

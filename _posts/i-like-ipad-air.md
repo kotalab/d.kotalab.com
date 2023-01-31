@@ -17,6 +17,8 @@ date_gmt: '2014-02-20 23:14:51 +0900'
 category:
 - iPadのある生活
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140221081446.jpg" width="546" height="409" class="slooProImg" /><br />

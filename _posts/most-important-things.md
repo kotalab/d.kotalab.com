@@ -17,6 +17,8 @@ date_gmt: '2012-07-30 03:38:22 +0900'
 category:
 - 自分らしく生きる
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/mission_120730.jpg" target="_blank"><img src="/wp-content/uploads/mission_120730.jpg" alt="" title="mission_120730" width="448" height="336" class="alignnone size-full wp-image-1728" /></a><br />

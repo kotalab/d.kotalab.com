@@ -21,6 +21,8 @@ tags:
 - iphone 5
 - analystics
 - 振り返り
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/review_121001.jpg" target="_blank"><img src="/wp-content/uploads/review_121001.jpg" alt="" title="review_121001" width="448" height="298" class="alignnone size-full wp-image-3059" /></a><br />

@@ -18,6 +18,8 @@ tags:
 - アップデート
 - CocoaPods
 - El Capitan
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/10/el-capitan-pod-command-not-found_20151004-780x488.png
 ---

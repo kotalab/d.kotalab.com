@@ -21,6 +21,8 @@ tags:
 - Textexpander
 - iPadmini
 - iPadアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/textexpander_121105.png" target="_blank"><img src="/wp-content/uploads/textexpander_121105.png" alt="" title="textexpander_121105" width="448" height="448" class="alignnone size-full wp-image-3966" /></a><br />

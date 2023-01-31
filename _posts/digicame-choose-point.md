@@ -21,6 +21,8 @@ tags:
 - 写真
 - デジタル一眼レフカメラ
 - D7000
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/digicame_130522-448x297.jpg" alt="digicame_130522" width="448" height="297" class="alignnone size-large wp-image-7221" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - 設定
 - facebook
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/facebook_130204-448x448.png" alt="facebook_130204" width="448" height="448" class="alignnone size-large wp-image-6032" /><br />

@@ -20,6 +20,8 @@ tags:
 - YKK AP
 - ネコ
 - TVCM
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/cat-ykkap-cm_20150103-780x451.jpg" alt="cat-ykkap-cm_20150103" width="780" height="451" class="aligncenter size-large wp-image-13731" /><br />

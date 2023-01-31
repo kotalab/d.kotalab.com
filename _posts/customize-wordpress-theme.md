@@ -20,6 +20,8 @@ tags:
 - テーマファイル
 - indexphp
 - homephp
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/customize-wordpress-theme-546x306.jpg" alt="customize-wordpress-theme" width="546" height="306" class="alignnone size-large wp-image-11225" /><br />

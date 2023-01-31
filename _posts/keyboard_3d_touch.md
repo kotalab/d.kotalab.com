@@ -19,6 +19,8 @@ tags:
 - 3D Touch
 - iPhone6s
 - iPhone6sPlus
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/09/keyboard_3d_touch_20150930_03.jpg
 ---

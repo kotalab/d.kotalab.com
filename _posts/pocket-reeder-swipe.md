@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - Reeder
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/pocket_130506.png" alt="pocket_130506" width="357" height="210" class="alignnone size-full wp-image-7027" /><br />

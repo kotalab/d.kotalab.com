@@ -20,6 +20,8 @@ tags:
 - 健康
 - odaimoku.com
 - 風邪
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/slooProImg_20130106124750.png" target="_blank"><img src="/wp-content/uploads/slooProImg_20130106124750-448x336.png" alt="slooProImg_20130106124750.png" width="448" height="336" class="alignnone size-large wp-image-5544" /></a><br />

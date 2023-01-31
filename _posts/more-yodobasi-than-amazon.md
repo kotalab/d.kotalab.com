@@ -21,6 +21,8 @@ tags:
 - ヨドバシカメラ
 - 買った
 - デジイチ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/Amazonyodobasi_130518-448x336.jpg" alt="Amazonyodobasi_130518" width="448" height="336" class="alignnone size-large wp-image-7174" /><br />

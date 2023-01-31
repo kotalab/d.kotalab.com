@@ -21,6 +21,8 @@ tags:
 - iPhoneアプリ
 - iphone 5
 - Maps+
+ogImage:
+  url:
 comments:
 - id: 215
   author: carrera7755

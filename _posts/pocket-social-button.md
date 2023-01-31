@@ -18,6 +18,8 @@ category:
 - WordPressカスタマイズ
 tags:
 - 設定
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/pocket_130426-448x448.png" alt="pocket_130426" width="448" height="448" class="alignnone size-large wp-image-6923" /><br />

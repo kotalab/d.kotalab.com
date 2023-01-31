@@ -22,6 +22,8 @@ tags:
 - 通話料
 - 格安通話
 - LINE電話
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/line-denwa-very-good_140504_01.jpg" alt="Line denwa very good 140504 01" title="line-denwa-very-good_140504_01.jpg" border="0" width="548" height="315" /><br />

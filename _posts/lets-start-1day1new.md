@@ -17,6 +17,8 @@ category:
 tags:
 - やりたいこと
 - やってみる
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/lets-start-1day1new_20150608_01.jpg" alt="Lets start 1day1new 20150608 01" width="780" height ="520" class="aligncenter size-large" /></p>

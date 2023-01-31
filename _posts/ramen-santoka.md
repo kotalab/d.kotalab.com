@@ -19,6 +19,8 @@ category:
 tags:
 - 新百合ケ丘
 - 山頭火
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ramen_120627_01.jpg" target="_blank"><img src="/wp-content/uploads/ramen_120627_01.jpg" alt="" title="ramen_120627_01" width="448" height="336" class="alignnone size-full wp-image-1068" /></a><br />

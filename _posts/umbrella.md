@@ -21,6 +21,8 @@ tags:
 - 買った
 - 折りたたみ傘
 - ワインボトル
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/umbrella_130326-448x336.jpg" alt="umbrella_130326" width="448" height="336" class="alignnone size-large wp-image-6618" /><br />

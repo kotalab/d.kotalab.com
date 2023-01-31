@@ -17,6 +17,8 @@ category:
 tags:
 - やりたいこと
 - 行動
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/time-is-precious_20150605_02-780x520.jpg" alt="time-is-precious_20150605_02" width="780" height="520" class="aligncenter size-large wp-image-14535" /></p>

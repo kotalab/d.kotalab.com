@@ -20,6 +20,8 @@ tags:
 - 高田馬場
 - ランチ
 - とん太
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140502070709.jpg" width="500" height="500" class="slooProImg" /><br />

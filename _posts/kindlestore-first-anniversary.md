@@ -20,6 +20,8 @@ tags:
 - kindle
 - 電子書籍
 - Kindleストア
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/kindlestore-first-anniversary_131027_02-546x513.png" alt="kindlestore-first-anniversary_131027_02" width="546" height="513" class="alignnone size-large wp-image-10052" /><br />

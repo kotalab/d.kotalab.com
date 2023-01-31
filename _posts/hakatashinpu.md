@@ -21,6 +21,8 @@ tags:
 - 大つけ麺博
 - イベント
 - 博多新風
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/hakatasinpuu_121011.jpg" target="_blank"><img src="/wp-content/uploads/hakatasinpuu_121011.jpg" alt="" title="hakatasinpuu_121011" width="448" height="673" class="alignnone size-full wp-image-3353" /></a><br />

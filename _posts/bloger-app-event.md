@@ -24,6 +24,8 @@ tags:
 - 渋谷
 - RSS
 - MacBook Air
+ogImage:
+  url:
 comments:
 - id: 3280
   author: ブロガー向けiPhoneアプリ開発体験会の第4回を3月29日に開催します！ - 拡張現実ライフ

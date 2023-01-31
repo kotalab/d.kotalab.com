@@ -19,6 +19,8 @@ category:
 tags:
 - 旅行
 - 電気シェーバー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/mobileshavem90_131015_01-546x361.jpg" alt="mobileshavem90_131015_01" width="546" height="361" class="alignnone size-large wp-image-9931" /><br />

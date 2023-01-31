@@ -19,6 +19,8 @@ category:
 tags:
 - Evernote
 - クラウド
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/evernotepack_130815_01-448x336.jpg" alt="evernotepack_130815_01" width="448" height="336" class="alignnone size-large wp-image-8044" /><br />

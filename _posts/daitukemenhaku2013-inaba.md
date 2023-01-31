@@ -19,6 +19,8 @@ category:
 tags:
 - 大つけ麺博
 - 麺堂稲葉
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/tukemenhakuinaba_131013_01-546x409.jpg" alt="tukemenhakuinaba_131013_01" width="546" height="409" class="alignnone size-large wp-image-9911" /><br />

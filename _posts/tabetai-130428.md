@@ -18,6 +18,8 @@ category:
 - miilの写真
 tags:
 - photo
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130505_02-448x447.jpg" alt="miil_130505_02" width="448" height="447" class="alignnone size-large wp-image-7013" /><br />

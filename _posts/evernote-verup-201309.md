@@ -21,6 +21,8 @@ tags:
 - ストレスフリー
 - 同期
 - iOS7
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/evernoteverup201309_130926_01-546x409.jpg" alt="evernoteverup201309_130926_01" width="546" height="409" class="alignnone size-large wp-image-9696" /><br />

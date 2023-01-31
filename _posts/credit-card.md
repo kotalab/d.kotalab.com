@@ -20,6 +20,8 @@ tags:
 - クレジットカード
 - 買い物
 - 引越し
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/credit-card_140525.jpg" alt="Credit card 140525" title="credit-card_140525.jpg" border="0" width="548" height="365" />行列のできてるATMに並んでまでお金をおろすというのが好きではありません。</p>

@@ -19,6 +19,8 @@ category:
 tags:
 - iPhone
 - IKEA
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ikea_120801.jpg" target="_blank"><img src="/wp-content/uploads/ikea_120801.jpg" alt="" title="ikea_120801" width="448" height="336" class="alignnone size-full wp-image-1752" /></a><br />

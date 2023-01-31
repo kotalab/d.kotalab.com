@@ -20,6 +20,8 @@ tags:
 - 読書
 - アプリ開発
 - 目標
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/mistake-in-habit_20150516.jpg" alt="Mistake in habit 20150516" width="780" height ="520" class="aligncenter size-large" /></p>

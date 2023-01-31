@@ -22,6 +22,8 @@ tags:
 - iPhoneアプリ
 - DraftPad
 - Textexpander
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/draftpad_120907.jpg" target="_blank"><img src="/wp-content/uploads/draftpad_120907.jpg" alt="" title="draftpad_120907" width="448" height="336" class="alignnone size-full wp-image-2545" /></a><br />

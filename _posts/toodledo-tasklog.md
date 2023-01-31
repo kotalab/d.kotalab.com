@@ -22,6 +22,8 @@ tags:
 - タスク管理
 - Toodledo
 - TaskLog
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/tasklog_120802.jpg" target="_blank"><img src="/wp-content/uploads/tasklog_120802.jpg" alt="" title="tasklog_120802" width="448" height="299" class="alignnone size-full wp-image-1800" /></a><br />

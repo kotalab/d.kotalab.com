@@ -19,6 +19,8 @@ category:
 tags:
 - ヨドバシカメラ
 - AppleWatch
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/04/applewatch-value.png" alt="Applewatch value" width="568" height ="300" class="aligncenter size-large" /><br />

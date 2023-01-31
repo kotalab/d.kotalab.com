@@ -21,6 +21,8 @@ tags:
 - RSS
 - googleリーダー
 - 移行
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/reeder_130628-300x300.jpg" alt="reeder_130628" width="300" height="300" class="alignnone size-medium wp-image-7686" /><br />

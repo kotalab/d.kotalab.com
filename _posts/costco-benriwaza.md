@@ -19,6 +19,8 @@ category:
 tags:
 - costco
 - コストコ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/costco_130705_07-448x336.jpg" alt="costco_130705_07" width="448" height="336" class="alignnone size-large wp-image-7762" /><br />

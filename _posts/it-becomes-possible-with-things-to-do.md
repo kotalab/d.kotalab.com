@@ -18,6 +18,8 @@ tags:
 - やりたいこと
 - アプリ開発
 - アプリ道場
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/12/it-becomes-possible-with-things-to-do_20151213_01-780x585.jpg
 ---

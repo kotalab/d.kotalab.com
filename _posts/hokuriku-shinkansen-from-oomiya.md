@@ -19,6 +19,8 @@ tags:
 - 北陸新幹線
 - かがやき
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/hokuriku-shinkansen-from-oomiya_20150503_01.jpg" alt="Hokuriku shinkansen from oomiya 20150503 01" width="546" height ="409" class="aligncenter size-large" /><br />

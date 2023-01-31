@@ -18,6 +18,8 @@ category:
 - タスク管理・仕事術の本
 tags:
 - 読んだ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/toyota_120728.jpg" target="_blank"><img src="/wp-content/uploads/toyota_120728.jpg" alt="" title="toyota_120728" width="448" height="336" class="alignnone size-full wp-image-1697" /></a><br />

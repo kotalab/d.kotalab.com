@@ -22,6 +22,8 @@ tags:
 - モバイルバッテリー
 - ANKER
 - Astro M2
+ogImage:
+  url:
 comments:
 - id: 3275
   author: ネオ・どん速 アーカイブ【2014-01-21】 | 覚醒する @CDiP

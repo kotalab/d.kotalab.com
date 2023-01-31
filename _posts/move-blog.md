@@ -16,6 +16,8 @@ category:
 - ブログのある生活
 tags:
 - wordpress
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/change_120605.jpg" target="_blank"><img src="/wp-content/uploads/change_120605.jpg" alt="" title="change_120605" width="448" height="336" class="alignnone size-full wp-image-570" /></a><br />

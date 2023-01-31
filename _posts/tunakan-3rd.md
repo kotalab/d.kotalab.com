@@ -18,6 +18,8 @@ category:
 - イベント
 tags:
 - つなカン
+ogImage:
+  url:
 comments:
 - id: 313
   author: つなカンは「完全ホームの場」第3回つながるカンファレンスに参加しました。 | Happino

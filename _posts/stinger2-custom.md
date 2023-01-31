@@ -19,6 +19,8 @@ category:
 tags:
 - stinger2
 - 固定メニューバー
+ogImage:
+  url:
 comments:
 - id: 2460
   author: "[どんブロ] 全コメ完了 2013/08/18版 | 覚醒する @CDiP"

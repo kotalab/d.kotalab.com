@@ -21,6 +21,8 @@ tags:
 - docomo
 - au
 - 新料金プラン
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140701083033.jpg" width="300" height="303" class="slooProImg" /><br />

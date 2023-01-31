@@ -19,6 +19,8 @@ category:
 tags:
 - iOS6
 - docomo
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/docomo_120627.jpg" target="_blank"><img src="/wp-content/uploads/docomo_120627.jpg" alt="DSC_2073" title="docomo_120627" width="448" height="298" class="alignnone size-full wp-image-1041" /></a><span style="font-size:10px;"><br /><a href="https://www.flickr.com/photos/shibuya246/3709164523/" target="_blank">DSC_2073</a> / shibuya246</span><br />

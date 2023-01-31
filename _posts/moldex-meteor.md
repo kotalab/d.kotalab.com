@@ -19,6 +19,8 @@ category:
 tags:
 - 集中力
 - 耳栓
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/04/stb-mac-diff_20150418_02-780x520.jpg" alt="stb-mac-diff_20150418_02" width="780" height="520" class="aligncenter size-large wp-image-14131" /><br />

@@ -20,6 +20,8 @@ tags:
 - 年金
 - ねんきん定期便
 - 税金
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/nenkin_130123.png" target="_blank"><img src="/wp-content/uploads/nenkin_130123-448x336.png" alt="nenkin_130123" width="448" height="336" class="alignnone size-large wp-image-5851" /></a><br />

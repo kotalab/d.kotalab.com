@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - DraftPad
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/draftpad_130416-448x448.png" alt="draftpad_130416" width="448" height="448" class="alignnone size-large wp-image-6844" /><br />

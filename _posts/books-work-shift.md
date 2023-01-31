@@ -22,6 +22,8 @@ tags:
 - 考えよう
 - 働き方
 - リンダ・グラットン
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-work-shift_140222-546x409.jpg" alt="books-work-shift_140222" width="546" height="409" class="alignnone size-large wp-image-10952" /><br />

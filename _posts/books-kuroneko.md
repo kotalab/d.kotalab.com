@@ -21,6 +21,8 @@ tags:
 - 書評
 - ストレスフリー
 - 金光サリィ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books_kuroneko_140209-546x361.jpg" alt="books_kuroneko_140209" width="546" height="361" class="alignnone size-large wp-image-10797" /><br />

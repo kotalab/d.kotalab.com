@@ -19,6 +19,8 @@ category:
 tags:
 - 買った
 - 旅行
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miyajima_131008-546x361.jpg" alt="miyajima_131008" width="546" height="361" class="alignnone size-large wp-image-9836" /><br />

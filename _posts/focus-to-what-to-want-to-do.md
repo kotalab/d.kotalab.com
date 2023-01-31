@@ -20,6 +20,8 @@ tags:
 - 効率化
 - iPhone6Plus
 - 集中力
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/lets-change-the-consciousness_20150625_02-780x520.jpg" alt="lets-change-the-consciousness_20150625_02.jpg" width="780" height="520" class="aligncenter size-large wp-image-14672" /></p>

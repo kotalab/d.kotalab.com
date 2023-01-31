@@ -20,6 +20,8 @@ tags:
 - Toodledo
 - omniforcus
 - 引越し
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/move-house-task_140520_01.jpg" alt="Move house task 140520 01" title="move-house-task_140520_01.jpg" border="0" width="548" height="364" /><br />

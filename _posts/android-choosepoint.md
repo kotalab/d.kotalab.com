@@ -18,6 +18,8 @@ category:
 - android
 tags:
 - 容量不足
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/Android_120805.jpg" target="_blank"><img src="/wp-content/uploads/Android_120805.jpg" alt="" title="Android_120805" width="448" height="299" class="alignnone size-full wp-image-1931" /></a><br />

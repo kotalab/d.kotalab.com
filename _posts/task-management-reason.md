@@ -20,6 +20,8 @@ tags:
 - Taskchute
 - タスク管理
 - やりたいこと
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/taskstart_20121005.jpg" target="_blank"><img src="/wp-content/uploads/taskstart_20121005.jpg" alt="" title="taskstart_20121005" width="448" height="299" class="alignnone size-full wp-image-3123" /></a><br />

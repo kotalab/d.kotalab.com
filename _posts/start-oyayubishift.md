@@ -16,6 +16,8 @@ category:
 - とにかくやってみよう
 tags:
 - 親指シフト
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/12/start-oyayubishift_20151210-780x488.png
 ---

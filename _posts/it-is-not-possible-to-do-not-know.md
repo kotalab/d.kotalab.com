@@ -21,6 +21,8 @@ tags:
 - アプリ開発
 - スマホ
 - Pinterest
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/it-is-not-possible-to-do-not-know_20150127-780x438.jpg" alt="it-is-not-possible-to-do-not-know_20150127" width="780" height="438" class="aligncenter size-large wp-image-13897" /><br />

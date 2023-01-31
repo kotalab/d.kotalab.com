@@ -21,6 +21,8 @@ tags:
 - 電子書籍
 - iPadアプリ
 - 楽天kobo
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/rakutenkobo_130419-448x448.jpg" alt="rakutenkobo_130419" width="448" height="448" class="alignnone size-large wp-image-6872" /><br />

@@ -18,6 +18,8 @@ tags:
 - やってみる
 - 意識
 - 無意識
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/lets-change-the-consciousness_20150625_01.jpg" alt="Lets change the consciousness 20150625 01" width="780" height ="520" class="aligncenter size-large" /></p>

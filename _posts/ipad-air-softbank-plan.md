@@ -21,6 +21,8 @@ tags:
 - 比較
 - au
 - iPad Air
+ogImage:
+  url:
 comments:
 - id: 3031
   author: 明日発売される iPad Air の価格は「最低 51800円」（Wi-Fi 16GB）で、LTE回線使うならどれだけ割引使っても「それプラス数万円」かかることを意識して契約するべきでしょう。

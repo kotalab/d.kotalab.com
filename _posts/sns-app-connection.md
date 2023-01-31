@@ -22,6 +22,8 @@ tags:
 - facebook
 - SNS
 - 乗っ取り対策
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/sns-app-connection_20150125-780x499.jpg" alt="sns-app-connection_20150125" width="780" height="499" class="aligncenter size-large wp-image-13882" /><br />

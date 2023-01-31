@@ -22,6 +22,8 @@ tags:
 - docomo
 - MNP
 - au
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iphoneandroid_120720.jpg" alt="iphoneandroid_120720" width="448" height="336" class="alignnone size-full wp-image-1569" /><br />

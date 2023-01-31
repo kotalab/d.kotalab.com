@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - seeq
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/seeq_20121110.png" target="_blank"><img src="/wp-content/uploads/seeq_20121110.png" alt="" title="seeq_20121110" width="300" height="300" class="alignnone size-full wp-image-4103" /></a><br />

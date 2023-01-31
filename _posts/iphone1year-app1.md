@@ -22,6 +22,8 @@ tags:
 - QuickIn
 - Due
 - ホーム画面
+ogImage:
+  url:
 comments:
 - id: 2063
   author: "[どん速 67] iPhoneの「通知」の設定を正しく理解すると迷いがなくなります。他 | 覚醒する @CDiP"

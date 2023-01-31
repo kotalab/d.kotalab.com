@@ -15,6 +15,8 @@ date_gmt: '2012-06-04 23:20:30 +0900'
 category:
 - ブログのある生活
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p>目覚ましがなる前に目が覚めました。@kotala_bです。</p>

@@ -20,6 +20,8 @@ tags:
 - 年金
 - ねんきん定期便
 - 生命保険
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/dontneedinsurance_131128-546x409.jpg" alt="dontneedinsurance_131128" width="546" height="409" class="alignnone size-large wp-image-10253" /><br />

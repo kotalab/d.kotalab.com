@@ -16,6 +16,8 @@ category:
 - ひとりごと
 tags:
 - Evernote
+ogImage:
+  url:
 comments: []
 ---
 <p><span style="font-size:10px;"><a href="/wp-content/uploads/health.jpg" target="_blank"><img src="/wp-content/uploads/health.jpg" alt="" title="health" width="448" height="298" class="alignnone size-full wp-image-1111" /></a><br />

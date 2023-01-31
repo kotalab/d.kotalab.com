@@ -19,6 +19,8 @@ category:
 tags:
 - 飲んだ
 - 健康
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/aojiru_120826_01.jpg" target="_blank"><img src="/wp-content/uploads/aojiru_120826_01.jpg" alt="" title="aojiru_120826_01" width="448" height="336" class="alignnone size-full wp-image-2331" /></a><br />

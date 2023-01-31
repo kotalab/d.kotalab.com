@@ -19,6 +19,8 @@ category:
 tags:
 - 池袋
 - 屯ちん
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130117025706.jpg" width="448" height="448" /><br />

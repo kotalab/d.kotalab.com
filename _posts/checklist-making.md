@@ -22,6 +22,8 @@ tags:
 - 習慣
 - ストレスフリー
 - チェックリスト
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/checklist_130311-448x316.jpg" alt="checklist_130311" width="448" height="316" class="alignnone size-large wp-image-6463" /><br />

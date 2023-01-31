@@ -20,6 +20,8 @@ tags:
 - パスタ
 - photo
 - miil
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130407-448x447.jpg" alt="miil_130407" width="448" height="447" class="alignnone size-large wp-image-6752" /><br />

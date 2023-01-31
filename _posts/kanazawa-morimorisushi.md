@@ -19,6 +19,8 @@ tags:
 - 回転寿し
 - もりもり寿し
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/kanazawa-morimorisushi_20150503_02.jpg" alt="Kanazawa morimorisushi 20150503 02" width="780" height ="585" class="aligncenter size-large" /></p>

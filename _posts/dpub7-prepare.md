@@ -21,6 +21,8 @@ tags:
 - 前川企画印刷
 - Dpub
 - 準備
+ogImage:
+  url:
 comments:
 - id: 993
   author: 'Dpub 7に関する色々なエントリを集めてみました #dpub7 &laquo; 最近,気になったこと&#8230;'

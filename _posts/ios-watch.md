@@ -18,6 +18,8 @@ category:
 - iPhoneの使い方
 tags:
 - 設定
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ios-watch_140318-546x409.jpg" alt="ios-watch_140318" width="546" height="409" class="alignnone size-large wp-image-11187" /><br />

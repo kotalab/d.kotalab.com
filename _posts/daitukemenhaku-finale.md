@@ -19,6 +19,8 @@ category:
 tags:
 - 大つけ麺博
 - 浜松町
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/tukemenhaku_121018.jpg" target="_blank"><img src="/wp-content/uploads/tukemenhaku_121018.jpg" alt="" title="tukemenhaku_121018" width="448" height="336" class="alignnone size-full wp-image-3482" /></a><br />

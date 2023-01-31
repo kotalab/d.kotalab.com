@@ -20,6 +20,8 @@ tags:
 - au
 - デザリング
 - iPad Air
+ogImage:
+  url:
 comments:
 - id: 3018
   author: "[どん速 154] iPad Air 発売態勢は両社共に整いました。他 | 覚醒する @CDiP"

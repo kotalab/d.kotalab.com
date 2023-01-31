@@ -20,6 +20,8 @@ tags:
 - ドトール
 - パストラミビーフ
 - ミラノサンド
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/doutor_130211-448x336.jpg" alt="doutor_130211" width="448" height="336" class="alignnone size-large wp-image-6119" /><br />

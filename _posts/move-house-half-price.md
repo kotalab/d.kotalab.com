@@ -21,6 +21,8 @@ tags:
 - 引越し
 - 引越し業者
 - 料金
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/move-house-half-price_140522.jpg" alt="Move house half price 140522" title="move-house-half-price_140522.jpg" border="0" width="548" height="365" /><br />

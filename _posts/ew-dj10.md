@@ -22,6 +22,8 @@ tags:
 - 旅行
 - iPhone6Plus
 - ドルツジェットウォッシャー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/ew-dj10_20150110_01-780x516.jpg" alt="ew-dj10_20150110_01" width="780" height="516" class="aligncenter size-large wp-image-13794" /><br />

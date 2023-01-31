@@ -21,6 +21,8 @@ tags:
 - 書評
 - 本田直之
 - 働き方
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-new-workstyle_140119-546x361.jpg" alt="books-new-workstyle_140119" width="546" height="361" class="alignnone size-large wp-image-10601" /><br />

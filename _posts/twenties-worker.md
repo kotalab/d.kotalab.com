@@ -20,6 +20,8 @@ tags:
 - 習慣
 - 書評
 - 本田直之
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/kaisyadehukou130110.jpg" target="_blank"><img src="/wp-content/uploads/kaisyadehukou130110-448x300.jpg" alt="kaisyadehukou130110" width="448" height="300" class="alignnone size-large wp-image-5597" /></a><br />

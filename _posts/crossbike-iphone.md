@@ -19,6 +19,8 @@ tags:
 - iPhoneアプリ
 - 地図アプリ
 - Runtastic Road Bike
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/crossbike-iphone-case_20150517_02.jpg"  width="780" class="aligncenter size-large" /></p>

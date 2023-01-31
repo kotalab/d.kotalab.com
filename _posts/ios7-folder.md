@@ -20,6 +20,8 @@ tags:
 - iPhone
 - アップデート
 - iOS7
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ios7folder_130919-546x354.png" alt="ios7folder_130919" width="546" height="354" class="alignnone size-large wp-image-9532" /><br />

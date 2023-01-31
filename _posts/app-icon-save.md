@@ -22,6 +22,8 @@ tags:
 - 効率化
 - 流れ
 - アイコン
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/iconimage_121819.jpg" target="_blank"><img src="/wp-content/uploads/iconimage_121819-448x336.jpg" alt="iconimage_121819" width="448" height="336" class="alignnone size-large wp-image-4951" /></a><br />

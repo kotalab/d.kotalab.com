@@ -19,6 +19,8 @@ category:
 tags:
 - 昭和記念公園
 - 立川
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/akaricafe_130215-448x336.jpg" alt="akaricafe_130215" width="448" height="336" class="alignnone size-large wp-image-6181" /><br />

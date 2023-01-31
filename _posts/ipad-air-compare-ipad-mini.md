@@ -21,6 +21,8 @@ tags:
 - iPadmini
 - 電子書籍
 - iPad Air
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ipadaircompareipadmini_131024-546x365.png" alt="ipadaircompareipadmini_131024" width="546" height="365" class="alignnone size-large wp-image-10027" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - 大戸屋
 - ハンバーグ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ootoya_130701-448x336.jpg" alt="ootoya_130701" width="448" height="336" class="alignnone size-large wp-image-7708" /><br />

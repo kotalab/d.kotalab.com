@@ -18,6 +18,8 @@ category:
 - WordPressプラグインの使い方
 tags:
 - PopularPosts
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" width="448" height="336" class="alignnone size-full wp-image-1330" /><br />

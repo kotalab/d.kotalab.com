@@ -18,6 +18,8 @@ category:
 - ブログ
 tags:
 - Twitter＠AnywherePlus
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/link_120708.jpg" target="_blank"><img src="/wp-content/uploads/link_120708.jpg" alt="WordPress Stickers Everywhere" title="link_120708" width="448" height="336" class="alignnone size-full wp-image-1330" /></a><br />

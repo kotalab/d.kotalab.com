@@ -20,6 +20,8 @@ tags:
 - アイコン
 - 似顔絵
 - ふじもなお
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/profile_icon.png" width="300" /><br />

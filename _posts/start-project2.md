@@ -19,6 +19,8 @@ category:
 tags:
 - Taskchute
 - Toodledo
+ogImage:
+  url:
 comments: []
 ---
 <p>プロジェクト管理を始めてから目標がすぐ手の届く場所まで近づいてきた気がします。@kotala_bです。<br />

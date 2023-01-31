@@ -18,6 +18,8 @@ category:
 - Google+
 tags:
 - URL変更
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/googleplus-costomurl_140419.jpg" alt="Googleplus costomurl 140419" title="googleplus-costomurl_140419.jpg" border="0" width="548" height="365" /><br />

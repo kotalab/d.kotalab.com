@@ -20,6 +20,8 @@ tags:
 - costco
 - パスタ
 - 料理
+ogImage:
+  url:
 comments:
 - id: 3
   author: いよいよ今夜WWDC開幕とかランニング・ハイとか [Stars &amp; Favs] | No Second Life

@@ -20,6 +20,8 @@ tags:
 - 新百合ケ丘
 - パティスリージロー
 - チーズスフレ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121213153245.jpg" width="448" height="448" /><br />

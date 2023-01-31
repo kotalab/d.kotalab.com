@@ -19,6 +19,8 @@ tags:
 - 立花岳志
 - jMatsuzaki
 - 情報発信・ブランディング講座
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/kanazawa-higashichaya-chayu_20150507_03-780x516.jpg" alt="kanazawa-higashichaya-chayu_20150507_03.jpg" width="780" height="516" class="aligncenter size-large wp-image-14286" /></p>

@@ -19,6 +19,8 @@ category:
 tags:
 - 習慣
 - 連続更新
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/habit_130722-448x336.jpg" alt="habit_130722" width="448" height="336" class="alignnone size-large wp-image-7896" /><br />

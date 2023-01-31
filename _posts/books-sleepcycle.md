@@ -19,6 +19,8 @@ category:
 tags:
 - 読んだ
 - 睡眠の法則
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/suimin_121003.jpg"><img src="/wp-content/uploads/suimin_121003.jpg" alt="" title="suimin_121003" width="448" height="336" class="alignnone size-full wp-image-3097" /></a><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - stinger2
 - 404ページ
+ogImage:
+  url:
 comments:
 - id: 3283
   author: "【ブログ運営】オリジナルの404ページを作ってみました。"

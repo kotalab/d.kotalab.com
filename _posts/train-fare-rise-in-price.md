@@ -19,6 +19,8 @@ category:
 tags:
 - 消費税
 - 増税
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/trainfareriseinprice_131221_01-546x364.jpg" alt="trainfareriseinprice_131221_01" width="546" height="364" class="alignnone size-large wp-image-10331" /><br />

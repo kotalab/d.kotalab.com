@@ -20,6 +20,8 @@ tags:
 - 東京ラーメンショー
 - イベント
 - 香味徳
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121026183926.jpg" width="448" height="336" /><br />

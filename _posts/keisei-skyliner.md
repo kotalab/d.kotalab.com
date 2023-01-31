@@ -22,6 +22,8 @@ tags:
 - 高速バス
 - スカイライナー
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/keisei-skyliner_140317_01-546x409.jpg" alt="keisei-skyliner_140317_01" width="546" height="409" class="alignnone size-large wp-image-11162" /><br />

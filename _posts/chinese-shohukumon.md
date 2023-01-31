@@ -21,6 +21,8 @@ tags:
 - 横浜中華街
 - 食べ放題
 - 飲茶
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/shohukumon_130622-448x297.jpg" alt="shohukumon_130622" width="448" height="297" class="alignnone size-large wp-image-7587" /><br />

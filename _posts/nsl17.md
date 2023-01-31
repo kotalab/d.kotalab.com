@@ -20,6 +20,8 @@ tags:
 - 習慣
 - セミナー
 - nsl17
+ogImage:
+  url:
 comments:
 - id: 2276
   author: "[どん速 92] iOS 7 beta 5 リリース！ / iPhone 感電事故対策始まる。他 | 覚醒する @CDiP"

@@ -19,6 +19,8 @@ category:
 tags:
 - 問題解決
 - マッキンゼー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/textbook-of-problem-solving_20150109-780x438.jpg" alt="textbook-of-problem-solving_20150109" width="780" height="438" class="aligncenter size-large wp-image-13786" /><br />

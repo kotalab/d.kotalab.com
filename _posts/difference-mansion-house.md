@@ -20,6 +20,8 @@ tags:
 - 比較
 - マンション
 - 一戸建て
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/difference-mansion-house_130508.jpg" alt="Difference mansion house 130508" title="difference-mansion-house_130508.jpg" border="0" width="548" height="365" /><br />

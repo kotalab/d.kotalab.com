@@ -22,6 +22,8 @@ tags:
 - 増税
 - 家計簿
 - 見直し
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/tax-up-april_140216-546x409.jpg" alt="tax-up-april_140216" width="546" height="409" class="alignnone size-large wp-image-10841" /><br />

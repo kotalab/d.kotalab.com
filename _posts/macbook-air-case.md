@@ -18,6 +18,8 @@ category:
 - ガジェット
 tags:
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/case121017_05.jpg" target="_blank"><img src="/wp-content/uploads/case121017_05.jpg" alt="" title="case121017_05" width="448" height="336" class="alignnone size-full wp-image-3463" /></a><br />

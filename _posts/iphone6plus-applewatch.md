@@ -19,6 +19,8 @@ category:
 tags:
 - iPhone6Plus
 - AppleWatch
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/iPhone6plus-applewatch_20140910-780x465.png" alt="iPhone6plus-applewatch_20140910" width="780" height="465" class="aligncenter size-large wp-image-13426" /><br />

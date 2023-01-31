@@ -19,6 +19,8 @@ category:
 tags:
 - 筋トレ
 - ダイエット
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/muscle_120902.jpg" target="_blank"><img src="/wp-content/uploads/muscle_120902.jpg" alt="" title="muscle_120902" width="448" height="332" class="alignnone size-full wp-image-2441" /></a><br />

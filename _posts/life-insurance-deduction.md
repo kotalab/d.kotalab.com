@@ -22,6 +22,8 @@ tags:
 - 所得税控除
 - 住民税
 - 所得税
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/life-insurance-deduction_20150104_01-780x585.jpg" alt="life-insurance-deduction_20150104_01" width="780" height="585" class="aligncenter size-large wp-image-13740" /><br />

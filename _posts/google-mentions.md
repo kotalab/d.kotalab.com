@@ -21,6 +21,8 @@ tags:
 - 使い方
 - メンション
 - ダイレクトメッセージ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/google-mentions_140516_01-546x236.png" alt="google-mentions_140516_01" width="546" height="236" class="alignnone size-large wp-image-13179" /><br />

@@ -21,6 +21,8 @@ tags:
 - 書評
 - 本田直之
 - レバレッジ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140214083545.jpg" width="546" height="409" class="slooProImg" /><br />

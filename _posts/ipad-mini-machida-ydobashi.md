@@ -21,6 +21,8 @@ tags:
 - 買った
 - iPadmini
 - ガジェット
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/slooProImg_20121102132946.jpg" target="_blank"><img src="/wp-content/uploads/slooProImg_20121102132946.jpg" alt="" title="slooProImg_20121102132946.jpg" width="448" height="598" class="alignnone size-full wp-image-3899" /></a><br />

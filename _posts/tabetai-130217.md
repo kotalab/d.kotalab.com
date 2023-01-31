@@ -23,6 +23,8 @@ tags:
 - miil
 - 料理
 - Dpub
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130224_05-448x447.jpg" alt="miil_130224_05" width="448" height="447" class="alignnone size-large wp-image-6324" /><br />

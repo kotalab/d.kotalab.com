@@ -22,6 +22,8 @@ tags:
 - 振り返り
 - 習慣
 - 週次レビュー
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/syuukan5_121229.jpg" target="_blank"><img src="/wp-content/uploads/syuukan5_121229-448x336.jpg" alt="syuukan5_121229" width="448" height="336" class="alignnone size-large wp-image-5141" /></a><br />

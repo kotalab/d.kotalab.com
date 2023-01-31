@@ -20,6 +20,8 @@ tags:
 - Evernote
 - iPhoneアプリ
 - NoteCube
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/appnotecube_130927_01-300x300.png" alt="appnotecube_130927_01" width="300" height="300" class="alignnone size-medium wp-image-9706" /><br />

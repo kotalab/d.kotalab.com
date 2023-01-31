@@ -20,6 +20,8 @@ tags:
 - Evernote
 - iPhoneアプリ
 - iPadアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121111102436.png" width="448" height="251" /><br />

@@ -20,6 +20,8 @@ tags:
 - するぷろ
 - iphone 5
 - iPadmini
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121024124605.jpg" width="448" height="336" /><br />

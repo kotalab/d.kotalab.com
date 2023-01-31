@@ -20,6 +20,8 @@ tags:
 - バックアップ
 - ローカル環境
 - 環境構築
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/06/blog-customize-adsense_20150630_01.png" alt="Blog customize adsense 20150630 01" width="780" height ="606" class="aligncenter size-large" /></p>

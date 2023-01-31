@@ -20,6 +20,8 @@ tags:
 - Macアプリ
 - Xcode
 - ショートカット
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/07/blog-custom-mac-app_20150719_14.png" alt="Blog custom mac app 20150719 14" width="780" height ="441" class="aligncenter size-large" /></p>

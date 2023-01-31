@@ -21,6 +21,8 @@ tags:
 - 書評
 - 考えよう
 - ストレスフリー
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/yuruku_121129.jpg" target="_blank"><img src="/wp-content/uploads/yuruku_121129-448x336.jpg" alt="" title="yuruku_121129" width="448" height="336" class="alignnone size-large wp-image-4438" /></a><br />

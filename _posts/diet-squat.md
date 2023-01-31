@@ -21,6 +21,8 @@ tags:
 - エクササイズ
 - スクワット
 - ダイエット
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/squat_120908.jpg" target="_blank"><img src="/wp-content/uploads/squat_120908.jpg" alt="" title="squat_120908" width="448" height="336" class="alignnone size-full wp-image-2640" /></a><br />

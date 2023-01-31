@@ -22,6 +22,8 @@ tags:
 - OneCam
 - miil
 - 料理
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miil_130303-448x447.png" alt="miil_130303" width="448" height="447" class="alignnone size-large wp-image-6392" /><br />

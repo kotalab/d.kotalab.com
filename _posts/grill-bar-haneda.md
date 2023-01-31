@@ -19,6 +19,8 @@ category:
 tags:
 - 飛行機
 - 羽田空港
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/grillbar_131003_06-546x348.jpg" alt="grillbar_131003_06" width="546" height="348" class="alignnone size-large wp-image-9755" /><br />

@@ -21,6 +21,8 @@ tags:
 - DraftPad
 - iPadmini
 - iPadアプリ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ipadmini10days_20121114.jpg" target="_blank"><img src="/wp-content/uploads/ipadmini10days_20121114.jpg" alt="" title="ipadmini10days_20121114" width="448" height="336" class="alignnone size-full wp-image-4212" /></a><br />

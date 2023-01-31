@@ -20,6 +20,8 @@ tags:
 - するぷろ
 - レディーミール
 - トップバリュ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/readymeal_121220-448x448.jpg" alt="" /><br />

@@ -18,6 +18,8 @@ category:
 - ひとりごと
 tags:
 - やりたいこと
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/20dai_130606-448x297.jpg" alt="20dai_130606" width="448" height="297" class="alignnone size-large wp-image-7386" /><br />

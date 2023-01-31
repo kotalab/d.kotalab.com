@@ -21,6 +21,8 @@ tags:
 - WebNote
 - iPhone 6Plus
 - 解像度最適化
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/xcode-keyboard-size20140923_04.png" alt="xcode-keyboard-size20140923_04" width="600" height="533" class="aligncenter size-full wp-image-13518" /><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - iphone 5
 - iPadmini
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/slooProImg_20121102132952.jpg" target="_blank"><img src="/wp-content/uploads/slooProImg_20121102132952.jpg" alt="" title="slooProImg_20121102132952.jpg" width="448" height="598" class="alignnone size-full wp-image-3904" /></a><br />

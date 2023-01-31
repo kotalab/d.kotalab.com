@@ -23,6 +23,8 @@ tags:
 - SIMフリー
 - 格安SIM
 - DMMmobile
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/02/slooProImg_20150227103015.jpg" alt="slooProImg_20150227103015.jpg" width="720" height="405" class="aligncenter size-full wp-image-14000" /><br />

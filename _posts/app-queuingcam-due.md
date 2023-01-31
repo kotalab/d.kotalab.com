@@ -23,6 +23,8 @@ tags:
 - リマインダー
 - 旅行
 - おすすめ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/miyajima_131009_06-546x361.jpg" alt="miyajima_131009_06" width="546" height="361" class="alignnone size-large wp-image-9850" /><br />

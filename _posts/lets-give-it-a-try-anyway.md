@@ -19,6 +19,8 @@ tags:
 - スタバ
 - 立花岳志
 - やってみる
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/lets-give-it-a-try-anyway_20150522_01.jpg" alt="Lets give it a try anyway 20150522 01" width="780" height ="520" class="aligncenter size-large" /></p>

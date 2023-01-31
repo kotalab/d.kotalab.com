@@ -20,6 +20,8 @@ tags:
 - docomo
 - au
 - SIMロック解除
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/mobile-packet-cost-up_140704.jpg" alt="mobile-packet-cost-up_140704" width="700" class="aligncenter wp-image-13311" /><br />

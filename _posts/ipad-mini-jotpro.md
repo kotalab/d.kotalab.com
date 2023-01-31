@@ -20,6 +20,8 @@ tags:
 - iPadmini
 - iPad
 - メモ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/jotpro_130214-448x336.jpg" alt="jotpro_130214" width="448" height="336" class="alignnone size-large wp-image-6152" /><br />

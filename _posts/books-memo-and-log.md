@@ -21,6 +21,8 @@ tags:
 - ストレスフリー
 - チェックリスト
 - とゆ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-memo-and-log_20140304-546x409.jpg" alt="books-memo-and-log_20140304" width="546" height="409" class="alignnone size-large wp-image-11065" /><br />

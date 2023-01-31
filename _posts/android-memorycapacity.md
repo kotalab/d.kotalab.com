@@ -19,6 +19,8 @@ tags:
 - mediasWP
 - MNP
 - 空き容量不足
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/medias.jpg"><img src="/wp-content/uploads/medias-224x300.jpg" alt="" title="medias" width="224" height="300" class="alignnone size-medium wp-image-692" /></a><br />

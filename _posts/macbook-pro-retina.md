@@ -19,6 +19,8 @@ tags:
 - MacBook Air
 - おすすめ
 - Retinaディスプレイ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/macbook-pro-retina_20150526.jpg" alt="Macbook pro retina 20150526" width="780" height ="520" class="aligncenter size-large" /></p>

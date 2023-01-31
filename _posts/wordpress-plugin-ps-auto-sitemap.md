@@ -18,6 +18,8 @@ category:
 - WordPressプラグインの使い方
 tags:
 - ps-auto-sitemap
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/psautositemap_130614-448x219.jpg" alt="psautositemap_130614" width="448" height="219" class="alignnone size-large wp-image-7478" /><br />

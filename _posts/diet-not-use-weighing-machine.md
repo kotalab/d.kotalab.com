@@ -24,6 +24,8 @@ tags:
 - ランニング
 - Withings
 - WS-50 Smart Body Analyzer
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/habit_130726-448x336.jpg" alt="habit_130726" width="448" height="336" class="alignnone size-large wp-image-7930" /><br />

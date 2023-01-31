@@ -15,6 +15,8 @@ date_gmt: '2012-05-25 23:56:25 +0900'
 category:
 - お金関連の本
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p>今週は2冊の本を読みました。@kotala_bです。<br />

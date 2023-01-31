@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - カメラロール
 - 写真
+ogImage:
+  url:
 comments:
 - id: 1481
   author: '厳選14本！UI、デザインに優れたアプリが大漁。文句なしに iPhoneのカメラロールを簡単にパソコンのウェブブラウザで閲覧できてしまう「AirLib」をオススメします！

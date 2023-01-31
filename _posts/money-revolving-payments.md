@@ -20,6 +20,8 @@ tags:
 - クレジットカード
 - 使い方
 - money
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/revo_130723-448x319.jpg" alt="revo_130723" width="448" height="319" class="alignnone size-large wp-image-7902" /><br />

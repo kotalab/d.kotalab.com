@@ -19,6 +19,8 @@ tags:
 - 北陸新幹線
 - しゃぶしゃぶ
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/kanazawa-mizuhikitei_20150505_02-780x516.jpg" alt="kanazawa-mizuhikitei_20150505_02.jpg" width="780" height="516" class="aligncenter size-large wp-image-14258" /></p>

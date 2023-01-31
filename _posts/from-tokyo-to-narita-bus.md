@@ -21,6 +21,8 @@ tags:
 - 成田空港
 - 高速バス
 - 観光
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/from-tokyo-to-narita-bus_140108-546x409.jpg" alt="from-tokyo-to-narita-bus_140108" width="546" height="409" class="alignnone size-large wp-image-10457" /><br />

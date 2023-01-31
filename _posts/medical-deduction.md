@@ -25,6 +25,8 @@ tags:
 - 還付金
 - 住民税
 - 所得税
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/medical-deduction_20150103_01-780x585.jpg" alt="medical-deduction_20150103_01" width="780" height="585" class="aligncenter size-large wp-image-13724" /><br />

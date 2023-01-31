@@ -21,6 +21,8 @@ tags:
 - 行ってきた
 - 渋谷
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ipadmini_121027.jpg" alt="ipadmini_121027" width="548" height="411" class="alignnone size-full wp-image-3744" /><br />

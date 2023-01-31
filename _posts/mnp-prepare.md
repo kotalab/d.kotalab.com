@@ -17,6 +17,8 @@ category:
 tags:
 - iPhone
 - MNP
+ogImage:
+  url:
 comments: []
 ---
 <p>新しいiPhoneが待ち遠しい。@kotala_bです。<br />

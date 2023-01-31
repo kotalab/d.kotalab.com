@@ -18,6 +18,8 @@ category:
 - webサービス
 tags:
 - Twitter
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/twitter_120803.jpg" target="_blank"><img src="/wp-content/uploads/twitter_120803.jpg" alt="" title="twitter_120803" width="448" height="298" class="alignnone size-full wp-image-1961" /></a><br />

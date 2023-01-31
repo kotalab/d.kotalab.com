@@ -20,6 +20,8 @@ tags:
 - 習慣
 - Gunosy
 - RSS
+ogImage:
+  url:
 comments:
 - id: 696
   author: 今年学んだ最大の事。ネット上ではしがらみを作らず自分を発揮する事に全力を尽くす。憲.com | 憲.com

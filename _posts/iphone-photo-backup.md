@@ -24,6 +24,8 @@ tags:
 - バックアップ
 - Picasa
 - カメラロール
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/photomanage130103.png" target="_blank"><img src="/wp-content/uploads/photomanage130103-448x322.png" alt="photomanage130103" width="448" height="322" class="alignnone size-large wp-image-5342" /></a><br />

@@ -22,6 +22,8 @@ tags:
 - au
 - デザリング
 - LTE
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/ltelimit_120916.jpg" target="_blank"><img src="/wp-content/uploads/ltelimit_120916.jpg" alt="" title="ltelimit_120916" width="448" height="299" class="alignnone size-full wp-image-2780" /></a><br />

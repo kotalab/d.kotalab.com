@@ -18,6 +18,8 @@ category:
 - 生き方の本
 tags:
 - 読んだ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/joushiki_121022.jpg" target="_blank"><img src="/wp-content/uploads/joushiki_121022.jpg" alt="" title="joushiki_121022" width="448" height="336" class="alignnone size-full wp-image-3630" /></a><br />

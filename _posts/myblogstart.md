@@ -17,6 +17,8 @@ date_gmt: '2012-07-02 02:45:09 +0900'
 category:
 - ブログ企画
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/trigger_120702.jpg" target="_blank"><img src="/wp-content/uploads/trigger_120702.jpg" alt="" title="trigger_120702" width="448" height="299" class="alignnone size-full wp-image-1214" /></a><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - Due
 - Dpub
+ogImage:
+  url:
 comments:
 - id: 962
   author: "[Dpub]本日ラスト！3回目Dpub7 in 東京の申し込み！/ 10:00〜開始！ #dpub7 | stryhの日記 ~stryh/changelog"

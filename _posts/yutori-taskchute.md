@@ -15,6 +15,8 @@ date_gmt: '2012-05-31 02:15:58 +0900'
 category:
 - TaskChute
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/alarmClock.jpg" target="_blank"><img src="/wp-content/uploads/alarmClock.jpg" alt="" title="alarmClock" width="400" height="300" class="alignnone size-full wp-image-1231" /></a><br />

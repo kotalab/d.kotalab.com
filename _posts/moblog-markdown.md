@@ -22,6 +22,8 @@ tags:
 - iPad Air
 - Textwell
 - マークダウン
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140224082252.jpg" width="546" height="399" class="slooProImg" /><br />

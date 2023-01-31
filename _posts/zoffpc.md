@@ -19,6 +19,8 @@ category:
 tags:
 - メガネ
 - ZoffPC
+ogImage:
+  url:
 comments: []
 ---
 <p>人生初メガネから1週間が経ちました。@kotala_bです。<br />

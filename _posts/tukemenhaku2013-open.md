@@ -20,6 +20,8 @@ tags:
 - つけ麺
 - 大つけ麺博
 - セブンイレブン
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/tukemenhaku_131012_01-546x409.jpg" alt="tukemenhaku_131012_01" width="546" height="409" class="alignnone size-large wp-image-9897" /><br />

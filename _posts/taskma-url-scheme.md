@@ -21,6 +21,8 @@ tags:
 - 習慣
 - URLスキーム
 - たすくま
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/01/app-taskma-habit_20150112.jpg" alt="app-taskma-habit_20150112" width="1024" height="724" class="aligncenter size-full wp-image-13825" /><br />

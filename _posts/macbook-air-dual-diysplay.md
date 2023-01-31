@@ -19,6 +19,8 @@ category:
 tags:
 - デュアルディスプレイ
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/dualdisplay_20121115.jpg" target="_blank"><img src="/wp-content/uploads/dualdisplay_20121115.jpg" alt="" title="dualdisplay_20121115" width="448" height="448" class="alignnone size-full wp-image-4236" /></a><br />

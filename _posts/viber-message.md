@@ -20,6 +20,8 @@ tags:
 - Android
 - iPhone
 - Viber
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/viber_120719_05.jpg" target="_blank"><img src="/wp-content/uploads/viber_120719_05.jpg" alt="" title="viber_120719_05" width="448" height="336" class="alignnone size-full wp-image-1557" /></a><br />

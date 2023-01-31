@@ -20,6 +20,8 @@ tags:
 - ショートカット
 - Yosemite
 - Spotlight
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/osx-spotlight_20150107_01-780x438.png" alt="osx-spotlight_20150107_01" width="780" height="438" class="aligncenter size-large wp-image-13768" /><br />

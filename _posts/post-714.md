@@ -21,6 +21,8 @@ tags:
 - iOS6
 - iPhone
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p>昨日は1時ごろ寝ました。@kotala_bです。<br />

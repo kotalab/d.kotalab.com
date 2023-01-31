@@ -21,6 +21,8 @@ tags:
 - Dropbox
 - KeePass
 - MacBook Air
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/slooProImg_20120917123717.jpg" target="_blank"><img src="/wp-content/uploads/slooProImg_20120917123717.jpg" alt="" title="slooProImg_20120917123717.jpg" width="448" height="336" class="alignnone size-full wp-image-2803" /></a><br />

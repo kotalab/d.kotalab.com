@@ -20,6 +20,8 @@ tags:
 - ポチレバ
 - カエレバ
 - ヨメレバ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/potireba_120809.png" target="_blank"><img src="/wp-content/uploads/potireba_120809.png" alt="" title="potireba_120809" width="282" height="77" class="alignnone size-full wp-image-2014" /></a><br />

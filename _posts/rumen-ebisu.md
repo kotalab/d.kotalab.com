@@ -19,6 +19,8 @@ category:
 tags:
 - づゅる麺豚あじ恵比寿神社前
 - 恵比寿
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120821150501.jpg" width="448" height="336" /><br />

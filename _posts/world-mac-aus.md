@@ -19,6 +19,8 @@ category:
 tags:
 - マクドナルド
 - 世界のマック
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/legrand_120718_02.jpg" target="_blank"><img src="/wp-content/uploads/legrand_120718_02.jpg" alt="" title="legrand_120718_02" width="448" height="336" class="alignnone size-full wp-image-1539" /></a><br />

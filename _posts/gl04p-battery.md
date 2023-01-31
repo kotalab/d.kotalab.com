@@ -19,6 +19,8 @@ category:
 tags:
 - GL04P
 - EMOBILE
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120926062036.jpg" width="448" height="336" /><br />

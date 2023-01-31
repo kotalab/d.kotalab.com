@@ -17,6 +17,8 @@ category:
 tags:
 - 時間術
 - 睡眠時間
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/lets-try_140901.jpg" alt="lets-try_140901" width="780" class="aligncenter size-large wp-image-13393" /></p>

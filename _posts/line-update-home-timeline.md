@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - Line
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/line_120814.png" target="_blank"><img src="/wp-content/uploads/line_120814.png" alt="" title="line_120814" width="448" height="644" class="alignnone size-full wp-image-2105" /></a><br />

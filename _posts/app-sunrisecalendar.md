@@ -20,6 +20,8 @@ tags:
 - iPhoneアプリ
 - googleカレンダー
 - facebook
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/sunrisecal_130329-448x448.jpg" alt="sunrisecal_130329" width="448" height="448" class="alignnone size-large wp-image-6656" /><br />

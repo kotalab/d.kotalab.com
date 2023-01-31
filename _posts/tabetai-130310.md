@@ -20,6 +20,8 @@ tags:
 - OneCam
 - miil
 - 料理
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/jojoen_130313_04-448x448.jpg" alt="jojoen_130313_04" width="448" height="448" class="alignnone size-large wp-image-6494" /><br />

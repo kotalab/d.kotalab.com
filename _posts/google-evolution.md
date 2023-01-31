@@ -20,6 +20,8 @@ tags:
 - Google
 - ページタイトル
 - SEO
+ogImage:
+  url:
 comments:
 - id: 3288
   author: "【コンピューター】 Railsアプリつくった &#8211; ✘╹◡╹✘ 2014年04月06日 昼刊 | aquadrops * news"

@@ -21,6 +21,8 @@ tags:
 - 比較
 - iphone 5
 - au
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/iphone5kakaku_120915.jpg" target="_blank"><img src="/wp-content/uploads/iphone5kakaku_120915.jpg" alt="" title="iphone5kakaku_120915" width="448" height="336" class="alignnone size-full wp-image-2769" /></a><br />

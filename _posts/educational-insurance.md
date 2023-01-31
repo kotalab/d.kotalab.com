@@ -18,6 +18,8 @@ category:
 - 家族のお金
 tags:
 - 学資保険
+ogImage:
+  url:
 comments: []
 ---
 <p>一人の子どもを育てるのに必要な教育費は大きな金額です。<br />

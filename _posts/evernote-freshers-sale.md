@@ -21,6 +21,8 @@ tags:
 - SmartEver
 - iPhoneアプリ
 - MergeEver
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/evernotesale_130420-448x266.jpg" alt="evernotesale_130420" width="448" height="266" class="alignnone size-large wp-image-6878" /><br />

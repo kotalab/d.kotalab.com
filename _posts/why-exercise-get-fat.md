@@ -22,6 +22,8 @@ tags:
 - 六本木
 - ヘルスケア
 - 更科堀井
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/why-exercise-get-fat_20150501_01.png" alt="Why exercise get fat 20150501 01" width="300" height ="533" class="aligncenter size-large" /></p>

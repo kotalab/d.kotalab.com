@@ -18,6 +18,8 @@ category:
 - WordPressプラグインの使い方
 tags:
 - バックアップ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/backUp_120602.jpg" target="_blank"><img src="/wp-content/uploads/backUp_120602.jpg" alt="" title="backUp_120602" width="448" height="307" class="alignnone size-full wp-image-1237" /></a><br />

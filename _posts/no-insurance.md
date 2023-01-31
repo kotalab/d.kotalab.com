@@ -20,6 +20,8 @@ tags:
 - 健康
 - 習慣
 - 生命保険
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/no-insurance_130118_01-546x233.png" alt="no-insurance_130118_01" width="546" height="233" class="alignnone size-large wp-image-10592" /><br />

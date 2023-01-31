@@ -23,6 +23,8 @@ tags:
 - 写真
 - デジタル一眼レフカメラ
 - D7000
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/d7000_130520-448x336.jpg" alt="d7000_130520" width="448" height="336" class="alignnone size-large wp-image-7192" /><br />

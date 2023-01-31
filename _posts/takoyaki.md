@@ -19,6 +19,8 @@ category:
 tags:
 - するぷろ
 - たこ焼き
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20120905011955.jpg" width="448" height="336" /><br />

@@ -19,6 +19,8 @@ tags:
 - MacBook Air
 - ケース
 - インナーケース
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/macbook-pro-innercase_20150525_01.jpg" alt="Macbook pro innercase 20150525 01" width="780" height ="585" class="aligncenter size-large" /></p>

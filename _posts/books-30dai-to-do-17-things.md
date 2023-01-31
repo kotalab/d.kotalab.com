@@ -22,6 +22,8 @@ tags:
 - kindle
 - 書評
 - 本田健
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/books-30dai-to-do-17-things_140201-546x361.jpg" alt="books-30dai-to-do-17-things_140201" width="546" height="361" class="alignnone size-large wp-image-10727" /><br />

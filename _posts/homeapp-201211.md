@@ -20,6 +20,8 @@ tags:
 - iphone 5
 - ホーム画面
 - seeq
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121204165236.png" width="448" height="320" /><br />

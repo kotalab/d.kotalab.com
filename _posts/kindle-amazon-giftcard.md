@@ -20,6 +20,8 @@ tags:
 - amazon
 - kindle
 - iPhone6Plus
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/04/kindle-amazon-giftcard_20150419_01-780x517.jpg" alt="kindle-amazon-giftcard_20150419_01" width="780" height="517" class="aligncenter size-large wp-image-14136" /><br />

@@ -22,6 +22,8 @@ tags:
 - iPhone
 - タスク管理
 - DraftPad
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/yaritai_120827.jpg" target="_blank"><img src="/wp-content/uploads/yaritai_120827.jpg" alt="" title="yaritai_120827" width="448" height="336" class="alignnone size-full wp-image-2354" /></a><br />

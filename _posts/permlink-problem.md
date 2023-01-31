@@ -19,6 +19,8 @@ category:
 tags:
 - パーマリンク変更
 - 重複コンテンツ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/permlink-problem_130904_01-546x167.jpg" alt="permlink-problem_130904_01" width="546" height="167" class="alignnone size-large wp-image-8345" /><br />

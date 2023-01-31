@@ -20,6 +20,8 @@ tags:
 - 渋谷
 - ブロガーズナイト
 - クロナッツ
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20140422215558.jpg" width="548" height="366" class="slooProImg" /><br />

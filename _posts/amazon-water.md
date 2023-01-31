@@ -19,6 +19,8 @@ category:
 tags:
 - amazon
 - ミネラルウォーター
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/amazon-water_140810_01.jpg" alt="Amazon water 140810 01" title="amazon-water_140810_01.jpg" border="0" width="548" height="365" /><br />

@@ -26,6 +26,8 @@ tags:
 - MarsEdit
 - アプリ開発
 - Xcode
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/2015/05/new-macbook-setup-9app_20150523_01.jpg" alt="New macbook setup 9app 20150523 01" width="780" height ="520" class="aligncenter size-large" /><br />

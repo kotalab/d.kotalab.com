@@ -18,6 +18,8 @@ category:
 - 読書
 tags:
 - 読んだ
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/20daikara_121015.jpg" target="_blank"><img src="/wp-content/uploads/20daikara_121015.jpg" alt="" title="20daikara_121015" width="448" height="337" class="alignnone size-full wp-image-3439" /></a><br />

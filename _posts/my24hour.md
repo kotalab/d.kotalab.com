@@ -18,6 +18,8 @@ category:
 - ブログ企画
 tags:
 - "#my24hr"
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/my24hr_121031.jpg" target="_blank"><img src="/wp-content/uploads/my24hr_121031.jpg" alt="" title="my24hr_121031" width="448" height="422" class="alignnone size-full wp-image-3855" /></a><br />

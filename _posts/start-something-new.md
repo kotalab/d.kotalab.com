@@ -20,6 +20,8 @@ tags:
 - 早起き
 - カフェ
 - 自由大学
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/start-something-new_140422_01.jpg" alt="Start something new 140422 01" title="start-something-new_140422_01.jpg" border="0" width="548" height="365" /><br />

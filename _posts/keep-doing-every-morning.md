@@ -22,6 +22,8 @@ tags:
 - 振り返り
 - 習慣
 - やりたいこと
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20130305112246.jpg" width="448" height="336" /><br />

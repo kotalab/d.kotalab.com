@@ -18,6 +18,8 @@ tags:
 - Swift
 - Carthage
 - CocoaPods
+ogImage:
+  url:
 comments: []
 ---
 <p>8月25日にあったRealm meetup #6の時に<a href="https://www.wantedly.com" target="_blank">wantedly</a>のエンジニア杉上さん<a href="https://twitter.com/susieyy" target="_blank">@susieyy</a>の発表で「<strong>Swiftはコンパイルに時間がかかる、MacBook Pro2台体制で開発をしている</strong>」という話がありました。</p>

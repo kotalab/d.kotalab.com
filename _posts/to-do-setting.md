@@ -24,6 +24,8 @@ tags:
 - iphone 5
 - 地図アプリ
 - Maps+
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/iphone5_120924_04.jpg" target="_blank"><img src="/wp-content/uploads/iphone5_120924_04.jpg" alt="" title="iphone5_120924_04" width="448" height="598" class="alignnone size-full wp-image-2956" /></a><br />

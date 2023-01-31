@@ -21,6 +21,8 @@ tags:
 - 開封
 - シャーク スチームポータブル
 - 掃除
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/steamportable_121222.jpg" target="_blank"><img src="/wp-content/uploads/steamportable_121222-448x336.jpg" alt="steamportable_121222" width="448" height="336" class="alignnone size-large wp-image-5015" /></a><br />

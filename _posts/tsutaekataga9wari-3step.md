@@ -20,6 +20,8 @@ tags:
 - 読んだ
 - 書評
 - 伝え方が9割
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/tsutaekata_130826-448x336.jpg" alt="tsutaekata_130826" width="448" height="336" class="alignnone size-large wp-image-8276" /><br />

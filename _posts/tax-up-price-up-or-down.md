@@ -24,6 +24,8 @@ tags:
 - 消費税
 - 増税
 - 福岡
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/tax-up-price-up-or-down_140401-546x409.jpg" alt="tax-up-price-up-or-down_140401" width="546" height="409" class="alignnone size-large wp-image-11316" /><br />

@@ -16,6 +16,8 @@ category:
 - ひとりごと
 tags:
 - グリーンカーテン
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/greencurtain.jpg" target="_blank"><img src="/wp-content/uploads/greencurtain.jpg" alt="" title="greencurtain" width="448" height="597" class="alignnone size-full wp-image-1161" /></a><br />

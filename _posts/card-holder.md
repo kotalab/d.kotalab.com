@@ -19,6 +19,8 @@ category:
 tags:
 - 買った
 - ストレスフリー
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/novita_130302-448x336.jpg" alt="novita_130302" width="448" height="336" class="alignnone size-large wp-image-6384" /><br />

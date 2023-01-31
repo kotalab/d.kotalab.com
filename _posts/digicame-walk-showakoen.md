@@ -22,6 +22,8 @@ tags:
 - デジイチ
 - 写真
 - 昭和記念公園
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/showa_130216-448x336.jpg" alt="showa_130216" width="448" height="336" class="alignnone size-large wp-image-6209" /><br />

@@ -23,6 +23,8 @@ tags:
 - iPad
 - パスコード
 - セキュリティ
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/passcode_130212-448x468.jpg" alt="passcode_130212" width="448" height="468" class="alignnone size-large wp-image-6128" /><br />

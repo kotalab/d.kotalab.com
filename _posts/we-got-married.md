@@ -17,6 +17,8 @@ date_gmt: '2014-02-24 22:56:59 +0900'
 category:
 - お知らせ
 tags: []
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/image1-546x409.jpg" alt="" width="546" height="409" class="alignnone size-large wp-image-10980" /><br />

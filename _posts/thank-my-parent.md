@@ -18,6 +18,8 @@ category:
 - ひとりごと
 tags:
 - 誕生日
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/birthday_130501-448x447.jpg" alt="birthday_130501" width="448" height="447" class="alignnone size-large wp-image-6971" /><br />

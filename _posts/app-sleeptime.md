@@ -21,6 +21,8 @@ tags:
 - 快眠リズム
 - sleeptime
 - 比較
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/sleeplog_120824.jpg" target="_blank"><img src="/wp-content/uploads/sleeplog_120824.jpg" alt="" title="sleeplog_120824" width="448" height="302" class="alignnone size-full wp-image-2294" /></a><br />

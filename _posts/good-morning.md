@@ -19,6 +19,8 @@ category:
 tags:
 - 習慣
 - やりたいこと
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/change-habit_140204_01.jpg" alt="change-habit_140204_01" width="780" class="aligncenter wp-image-10753" /><br />

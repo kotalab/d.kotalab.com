@@ -19,6 +19,8 @@ category:
 tags:
 - ブロガー名刺
 - 前川企画印刷
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/blogermeishi_120921_03.jpg" target="_blank"><img src="/wp-content/uploads/blogermeishi_120921_03.jpg" alt="" title="blogermeishi_120921_03" width="448" height="336" class="alignnone size-full wp-image-2918" /></a><br />

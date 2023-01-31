@@ -19,6 +19,8 @@ tags:
 - WebNote
 - 格安SIM
 - WebNoteアップデート情報
+ogImage:
+  url:
 comments: []
 coverImage: /wp-content/uploads/2015/09/webnote-update-2_20150922-780x702.jpg
 ---

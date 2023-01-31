@@ -25,6 +25,8 @@ tags:
 - WS-50 Smart Body Analyzer
 - iOS8
 - ヘルスケア
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/ios8-healthcare_201410121-780x585.jpg" alt="ios8-healthcare_20141012" width="780" height="585" class="aligncenter size-large wp-image-13551" /><br />

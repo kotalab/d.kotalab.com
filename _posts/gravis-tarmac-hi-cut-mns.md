@@ -19,6 +19,8 @@ category:
 tags:
 - amazon
 - 買い物
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/shoes_120624_03.jpg" target="_blank"><img src="/wp-content/uploads/shoes_120624_03.jpg" alt="" title="shoes_120624_03" width="448" height="336" class="alignnone size-full wp-image-971" /></a><br />

@@ -21,6 +21,8 @@ tags:
 - iPhoneアプリ
 - facebook
 - google AdSense
+ogImage:
+  url:
 comments:
 - id: 1812
   author: どん速【29：2013/06/04版】〜 たまたま多治見にあった行先表示板の地名が気になって写真撮ってたらそこが話題の場所だった件 | 覚醒する

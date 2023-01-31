@@ -19,6 +19,8 @@ category:
 tags:
 - iPhoneアプリ
 - Safari
+ogImage:
+  url:
 comments:
 - id: 1533
   author: どん技【002：2013/05/12版】〜 写真を明るくしたり自動で保存したり水平に補正したり。アプリで全部できますね。 | 覚醒する @CDiP

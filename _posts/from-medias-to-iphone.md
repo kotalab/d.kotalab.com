@@ -22,6 +22,8 @@ tags:
 - iPhone4S
 - mediasWP
 - MNP
+ogImage:
+  url:
 comments: []
 ---
 <p><a href="/wp-content/uploads/iphone_01.jpg" target="_blank"><img src="/wp-content/uploads/iphone_01.jpg" alt="" title="iphone_01" width="448" height="336" class="alignnone size-full wp-image-1430" /></a><br />

@@ -19,6 +19,8 @@ category:
 tags:
 - 習慣
 - 目標達成
+ogImage:
+  url:
 comments: []
 ---
 <p><img alt="" src="/wp-content/uploads/slooProImg_20121226063946.jpg" width="448" height="336" /><br />

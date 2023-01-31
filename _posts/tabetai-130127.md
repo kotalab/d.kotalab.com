@@ -21,6 +21,8 @@ tags:
 - OneCam
 - miil
 - Dpub
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/dpub_130203_03-448x336.jpg" alt="dpub_130203_03" width="448" height="336" class="alignnone size-large wp-image-6005" /><br />

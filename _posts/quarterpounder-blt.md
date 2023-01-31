@@ -19,6 +19,8 @@ category:
 tags:
 - マクドナルド
 - 新百合ケ丘
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/quarterpounder_130621_01-448x336.jpg" alt="quarterpounder_130621_01" width="448" height="336" class="alignnone size-large wp-image-7549" /><br />

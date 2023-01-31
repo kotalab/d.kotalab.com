@@ -20,6 +20,8 @@ tags:
 - 読んだ
 - セミナー
 - NSL13
+ogImage:
+  url:
 comments: []
 ---
 <p><img src="/wp-content/uploads/jikosindan_130531-448x297.jpg" alt="jikosindan_130531" width="448" height="297" class="alignnone size-large wp-image-7335" /><br />
