@@ -1,11 +1,13 @@
 {
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc",
-    "replace": "node --loader ts-node/esm src/script/replace.ts"
+    "replace": "node --loader ts-node/esm src/script/replace-post-file-name.ts",
+    "fill-metadata": "node --loader ts-node/esm src/script/fill-missing-metadata.ts"
   },
   "dependencies": {
     "classnames": "^2.3.1",
