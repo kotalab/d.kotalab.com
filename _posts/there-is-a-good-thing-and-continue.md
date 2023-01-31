@@ -19,7 +19,7 @@ tags:
 - やりたいこと
 - アプリ開発
 comments: []
-image: /wp-content/uploads/2015/12/there-is-a-good-thing-and-continue_20151209-780x585.jpg
+coverImage: /wp-content/uploads/2015/12/there-is-a-good-thing-and-continue_20151209-780x585.jpg
 ---
 <p>6月の後半くらいから個人でiPhoneアプリを作っていました。<br><br />
 つい先日、Appleの審査へ提出したので、何も問題なければ年内にリリースできそうです。<br />

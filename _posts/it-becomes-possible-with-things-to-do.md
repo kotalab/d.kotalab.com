@@ -19,7 +19,7 @@ tags:
 - アプリ開発
 - アプリ道場
 comments: []
-image: /wp-content/uploads/2015/12/it-becomes-possible-with-things-to-do_20151213_01-780x585.jpg
+coverImage: /wp-content/uploads/2015/12/it-becomes-possible-with-things-to-do_20151213_01-780x585.jpg
 ---
 <p>できるからやるのか、やったからできるようになったのか。<br><br />
 卵が先か鶏が先かじゃありませんが、どっちが先なのか？と少し考えたことがあります。</p>

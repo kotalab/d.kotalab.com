@@ -20,7 +20,7 @@ tags:
 - iPhone6s
 - iPhone6sPlus
 comments: []
-image: /wp-content/uploads/2015/09/keyboard_3d_touch_20150930_03.jpg
+coverImage: /wp-content/uploads/2015/09/keyboard_3d_touch_20150930_03.jpg
 ---
 <p>iPhone6s/6sPlusから3D Touchという機能が追加されました。</p>
 <p>どんな機能か簡単に説明するとiPhoneのディスプレイを押す強さを検知して、強さに合わせた動作をしてくれる機能です。</p>

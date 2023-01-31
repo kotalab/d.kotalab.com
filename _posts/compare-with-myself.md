@@ -19,7 +19,7 @@ tags:
 - WebNote
 - アプリ道場
 comments: []
-image: /wp-content/uploads/2015/07/change-the-non-consciousness_20150722-780x520.jpg
+coverImage: /wp-content/uploads/2015/07/change-the-non-consciousness_20150722-780x520.jpg
 ---
 <p>僕は去年からプログラミングというものを始めました。</p>
 <p>iPhoneアプリ作りを教えてくれる<a href="http://freedom-univ.com" target="_blank">自由大学</a>の「<a href="https://freedom-univ.com/lecture/app_developmen.html" target="_blank">アプリ道場</a>」という講座に通い、その半年後くらいには「<a href="https://itunes.apple.com/jp/app/webnote/id911802747?mt=8&uo=4&at=10l4yU" rel="nofollow" target="_blank">WebNote</a>」というiPhoneアプリをApp Storeから発売することができました。</p>

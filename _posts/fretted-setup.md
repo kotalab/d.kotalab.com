@@ -21,7 +21,7 @@ tags:
 - 格安SIM
 - FREETEL
 comments: []
-image: /wp-content/uploads/2016/01/freetel-setup-20160123-780x585.jpg
+coverImage: /wp-content/uploads/2016/01/freetel-setup-20160123-780x585.jpg
 ---
 <p>AppStoreからアプリをダウンロードするときの通信料が無料になる、iPhone/iPad専用のSIMがあるということで使ってみることにしました。</p>
 <p>月々たったの299円から使えて、しかも<a href="https://mobareco.jp/a61244/" target="_blank">MVNOの中では速い方らしい</a>FREETELのSIMです！</p>

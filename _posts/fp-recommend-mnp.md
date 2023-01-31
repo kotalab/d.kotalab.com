@@ -24,7 +24,7 @@ tags:
 - Apple
 - iPhone6s
 comments: []
-image: /wp-content/uploads/2015/09/fp-recommend-mnp_20151001_04.jpg
+coverImage: /wp-content/uploads/2015/09/fp-recommend-mnp_20151001_04.jpg
 ---
 <p>おすすめなのは断然SIMフリーのiPhoneです。<br />
 なぜかというと、お金のめんでSIMフリーiPhoneの方がお得に売り買いができる可能性を秘めているからです。</p>

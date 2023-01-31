@@ -23,7 +23,7 @@ tags:
 - iPad mini
 - iPhone 6s Plus
 comments: []
-image: /wp-content/uploads/2015/09/the-reason-I-chose-the-iPhone6splus_20150915_01.png
+coverImage: /wp-content/uploads/2015/09/the-reason-I-chose-the-iPhone6splus_20150915_01.png
 ---
 <p><span style="font-size:14px;">via:<a href="https://www.apple.com/jp/iphone-6s/" target="_blank">https://www.apple.com/jp/iphone-6s/</a></span><br />
 iPhone 6sPlusを買うことに決めました！</p>

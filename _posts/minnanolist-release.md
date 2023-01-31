@@ -21,7 +21,7 @@ tags:
 - チェックリスト
 - みんなのリスト
 comments: []
-image: /wp-content/uploads/2015/12/minnanolist-release_20151212-780x660.jpg
+coverImage: /wp-content/uploads/2015/12/minnanolist-release_20151212-780x660.jpg
 ---
 <p>「みんなのリスト」というiPhoneアプリをリリースしました！<br><br />
 「みんなのリスト」はみんなで使えるリストアプリです。</p>

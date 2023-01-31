@@ -20,7 +20,7 @@ tags:
 - 格安SIM
 - WebNoteアップデート情報
 comments: []
-image: /wp-content/uploads/2015/09/webnote-update-2_20150922-780x702.jpg
+coverImage: /wp-content/uploads/2015/09/webnote-update-2_20150922-780x702.jpg
 ---
 <p>iPhoneアプリWebNoteのアップデートを行い、通信量が気になる方のための機能を追加しました。<br />
 今回のアップデートの目玉はiOS9のコンテンツブロッカーの追加です！</p>

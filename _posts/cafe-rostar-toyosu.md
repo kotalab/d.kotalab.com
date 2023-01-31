@@ -19,7 +19,7 @@ tags:
 - アイスコーヒー
 - R.O.STAR
 comments: []
-image: /wp-content/uploads/2015/07/cafe-rostar-toyosu_20150728_01.jpg
+coverImage: /wp-content/uploads/2015/07/cafe-rostar-toyosu_20150728_01.jpg
 ---
 <p>僕が平日はほぼ毎朝通ってるカフェ「R.O.STAR」をご紹介します！</p>
 <p>カフェの場所は地下鉄有楽町線、豊洲駅を降りてC1出口目の前。<br />

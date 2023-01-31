@@ -19,7 +19,7 @@ tags:
 - アイスコーヒー
 - R.O.STAR
 comments: []
-image: /wp-content/uploads/2015/07/Lets-stop-dare-because-it-is-free_20150729.jpg
+coverImage: /wp-content/uploads/2015/07/Lets-stop-dare-because-it-is-free_20150729.jpg
 ---
 <p><a href="/cafe-rostar-toyosu" title="豊洲にある電源とWi-Fiが使えて自家焙煎のコーヒーが飲めるカフェ「R.O.STAR」">最近毎朝のように通っている「R.O.STAR」というカフェ</a>では、ミルクやガムシロが有料で売られています。</p>
 <p>普通のお店だとタダでもらえるので、なんとなくもらってなんとなく使うことがよくありました。</p>
