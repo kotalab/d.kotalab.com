@@ -9,9 +9,10 @@ type Props = {
 }
 
 const CoverImage = ({ title, src, slug }: Props) => {
+  const fallbackSrc = src === undefined ? '/assets/no_image.png' : src
   const image = (
     <Image
-      src={src}
+      src={fallbackSrc}
       alt={`Cover Image for ${title}`}
       className={cn('shadow-sm w-full', {
         'hover:shadow-lg transition-shadow duration-200': slug,
@@ -20,6 +21,7 @@ const CoverImage = ({ title, src, slug }: Props) => {
       height={630}
     />
   )
+
   return (
     <div className="sm:mx-0">
       {slug ? (
