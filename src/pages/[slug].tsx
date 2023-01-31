@@ -8,23 +8,21 @@ import Layout from '../components/layout'
 import { getPostBySlug, getAllPosts } from '../lib/api'
 import PostTitle from '../components/post-title'
 import Head from 'next/head'
-import { CMS_NAME } from '../lib/constants'
+import { BLOG_TITLE } from '../lib/constants'
 import markdownToHtml from '../lib/markdownToHtml'
 import type PostType from '../interfaces/post'
 
 type Props = {
   post: PostType
-  morePosts: PostType[]
-  preview?: boolean
 }
 
-export default function Post({ post, morePosts, preview }: Props) {
+export default function Post({ post }: Props) {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
   return (
-    <Layout preview={preview}>
+    <Layout>
       <Container>
         <Header />
         {router.isFallback ? (
@@ -34,7 +32,7 @@ export default function Post({ post, morePosts, preview }: Props) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Next.js Blog Example with {CMS_NAME}
+                  {post.title} | {BLOG_TITLE}
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
               </Head>
