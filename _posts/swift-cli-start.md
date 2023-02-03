@@ -8,6 +8,8 @@ date_gmt: '2021-01-01 21:33:00 +0900'
 category:
 - Swift
 coverImage: /assets/images/swift-cli-start.jpg
+ogImage:
+  url: /assets/images/swift-cli-start.jpg
 excerpt: 最近あんまり Swift でプログラムを書いていなかったので、Swift で コマンドラインツール を作り始めました。
 ---
 最近あんまり Swift でプログラムを書いていなかったので、Swift で コマンドラインツール を作り始めました。
