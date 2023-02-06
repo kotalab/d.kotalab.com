@@ -1,5 +1,4 @@
 {
-  "private": true,
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -9,6 +8,7 @@
     "fill-metadata": "node --loader ts-node/esm src/script/fill-missing-metadata.ts"
   },
   "dependencies": {
+    "@kotala/css": "^0.0.2",
     "classnames": "^2.3.1",
     "date-fns": "^2.28.0",
     "gray-matter": "^4.0.3",
