@@ -1,11 +1,10 @@
 import Container from './container'
-import cn from 'classnames'
 import { GITHUB_URL } from '../lib/constants'
 
 const Alert = () => {
   return (
     <div
-      className={cn('border-t', 'bg-neutral-50', 'border-neutral-200')}
+      className='border-t bg-neutral-50 border-neutral-200'
     >
       <Container>
         <div className="py-2 text-center text-sm">
