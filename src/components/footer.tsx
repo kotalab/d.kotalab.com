@@ -1,6 +1,7 @@
 import Alert from './alert'
 import Container from './container'
 
+
 const Footer = () => {
   return (
     <footer className="bg-neutral-50 border-t border-neutral-200">

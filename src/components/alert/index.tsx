@@ -1,17 +1,17 @@
-import Container from './container'
-import { GITHUB_URL } from '../lib/constants'
+import styles from './alert.module.css'
+import Container from '../container'
+import { GITHUB_URL } from '../../lib/constants'
 
 const Alert = () => {
   return (
     <div
-      className='border-t bg-neutral-50 border-neutral-200'
+      className={styles.wrapper}
     >
       <Container>
-        <div className="py-2 text-center text-sm">
+        <div className={styles.message}>
           The source code for this blog is{' '}
           <a
             href={GITHUB_URL}
-            className="underline hover:text-blue-600 duration-200 transition-colors"
           >
             available on GitHub
           </a>
@@ -21,5 +21,4 @@ const Alert = () => {
     </div>
   )
 }
-
 export default Alert
