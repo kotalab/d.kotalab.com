@@ -1,3 +1,4 @@
+import styles from './cover-image.module.css'
 import Link from 'next/link'
 import Image from 'next/image'
 
@@ -13,14 +14,14 @@ const CoverImage = ({ title, src, slug }: Props) => {
     <Image
       src={fallbackSrc}
       alt={`Cover Image for ${title}`}
-      className='shadow-sm w-full'
-      width={1300}
-      height={630}
+      className={styles.image}
+      width={1200}
+      height={675}
     />
   )
 
   return (
-    <div className="sm:mx-0">
+    <div className={styles.wrapper}>
       {slug ? (
         <Link as={`/${slug}`} href="/[slug]" aria-label={title}>
           {image}
