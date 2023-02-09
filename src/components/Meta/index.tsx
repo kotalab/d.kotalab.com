@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { BLOG_DESCRIPTION, HOME_OG_IMAGE_URL } from '../lib/constants'
+import { BLOG_DESCRIPTION, HOME_OG_IMAGE_URL } from '../../lib/constants'
 
 const Meta = () => {
   return (

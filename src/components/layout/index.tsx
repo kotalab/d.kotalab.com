@@ -1,5 +1,5 @@
 import Footer from '../footer'
-import Meta from '../meta'
+import Meta from '../Meta'
 import styles from './layout.module.css'
 
 type Props = {
