@@ -1,4 +1,4 @@
-import DateFormatter from './date-formatter'
+import FormatedDate from './formated-date'
 import CoverImage from './cover-image'
 import Link from 'next/link'
 import type Author from '../interfaces/author'
@@ -35,7 +35,7 @@ const PostPreview = ({
         </Link>
       </h3>
       <div className="text-lg mb-4">
-        <DateFormatter dateString={date} />
+        <FormatedDate dateString={date} />
       </div>
       <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
     </div>

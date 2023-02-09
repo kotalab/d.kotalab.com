@@ -1,4 +1,4 @@
-import DateFormatter from './date-formatter'
+import FormatedDate from './formated-date'
 import CoverImage from './cover-image'
 import Link from 'next/link'
 import type Author from '../interfaces/author'
@@ -17,7 +17,6 @@ const HeroPost = ({
   coverImage,
   date,
   excerpt,
-  author,
   slug,
 }: Props) => {
   return (
@@ -37,7 +36,7 @@ const HeroPost = ({
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
+            <FormatedDate dateString={date} />
           </div>
         </div>
         <div>
