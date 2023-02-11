@@ -10,6 +10,8 @@ tags:
 - 習慣
 coverImage: /wp-content/uploads/2018/book-small-habbit.png
 excerpt: 小さな一歩で人生を大きく変えることができる可能性がある。そう思える本を読みました。
+ogImage:
+  url: /wp-content/uploads/2018/book-small-habbit.png
 ---
 小さな一歩で人生を大きく変えることができる可能性がある。そう思える本を読みました。
 
