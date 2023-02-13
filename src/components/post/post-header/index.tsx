@@ -1,7 +1,7 @@
 import styles from './post-header.module.css'
-import FormatedDate from '../formated-date'
-import CoverImage from '../cover-image'
-import PostTitle from '../post-title'
+import FormatedDate from '../../formated-date'
+import CoverImage from '../../cover-image'
+import PostTitle from '../../post-title'
 
 type Props = {
   title: string
