@@ -1,0 +1,26 @@
+.coverImage {
+  margin-bottom: var(--spacing-default);
+}
+
+.heading {
+  margin-bottom: var(--spacing-small);
+  font-size: 1.875rem;
+  line-height: 1.375;
+  font-weight: normal;
+}
+
+.heading a {
+  color: var(--label-primary);
+}
+
+.date {
+  margin-bottom: var(--spacing-small);
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.excerpt {
+  margin-bottom: var(--spacing-default);
+  font-size: 1.125rem;
+  line-height: 1.625;
+}
