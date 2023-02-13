@@ -1,7 +1,8 @@
-import FormatedDate from './formated-date'
-import CoverImage from './cover-image'
-import PostTitle from './post-title'
-import type Author from '../interfaces/author'
+import styles from './post-header.module.css'
+import FormatedDate from '../formated-date'
+import CoverImage from '../cover-image'
+import PostTitle from '../post-title'
+import type Author from '../../interfaces/author'
 
 type Props = {
   title: string
@@ -14,11 +15,11 @@ const PostHeader = ({ title, coverImage, date }: Props) => {
   return (
     <>
       <PostTitle>{title}</PostTitle>
-      <div className="mb-8 md:mb-16 sm:mx-0">
+      <div className={styles.coverImage}>
         <CoverImage title={title} src={coverImage} />
       </div>
-      <div className="max-w-2xl mx-auto">
-        <div className="mb-6 text-lg">
+      <div className={styles.description}>
+        <div className={styles.date}>
           <FormatedDate dateString={date} />
         </div>
       </div>
