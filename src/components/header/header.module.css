@@ -1,7 +1,7 @@
 .header {
   font-size: var(--font-size-heading2);
   margin-top: var(--spacing-small);
-  margin-bottom: var(--spacing-small);
+  margin-bottom: var(--spacing-default);
   letter-spacing: -0.025em;
   line-height: 1.25;
 }
