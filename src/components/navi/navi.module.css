@@ -1,0 +1,14 @@
+.container {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.container li {
+    margin-bottom: var(--spacing-small);
+}
+
+.link {
+    color: var(--primary-label);
+    text-decoration: underline;
+}
+/* TODO: min-widthを変数化 */

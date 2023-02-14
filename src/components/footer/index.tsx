@@ -1,16 +1,13 @@
 import styles from './footer.module.css'
-import Alert from '../alert'
 import Container from '../container'
+import Navi from '../navi'
 
 const Footer = () => {
   return (
     <footer className={styles.footer}>
       <Container>
-        <div className={styles.container}>
-          ここにプロフィール書こうかな
-        </div>
+        <Navi></Navi>
       </Container>
-      <Alert />
     </footer>
   )
 }
