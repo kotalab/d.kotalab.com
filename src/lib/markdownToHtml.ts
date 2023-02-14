@@ -1,11 +1,15 @@
-import { remark } from 'remark'
-import html from 'remark-html'
+import { unified } from 'unified'
+import rehypeHighlight from 'rehype-highlight'
+import remarkParse from 'remark-parse'
+import rehypeStringify from 'rehype-stringify'
+import remarkRehype from 'remark-rehype'
 
 export default async function markdownToHtml(content: string) {
-  if (content.startsWith("<")) {
-    const result = await remark().process(content)
-    return result.toString()
-  }
-  const result = await remark().use(html).process(content)
+  const result = await unified()
+    .use(remarkParse)
+    .use(remarkRehype, { allowDangerousHtml: true })
+    .use(rehypeStringify, { allowDangerousHtml: true })
+    .use(rehypeHighlight)
+    .process(content)
   return result.toString()
 }
