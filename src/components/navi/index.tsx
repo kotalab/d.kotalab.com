@@ -15,7 +15,7 @@ const Navi = () => {
         <nav className={styles.container}>
             <ul>
                 { data.map((link)=> {
-                    return <li>
+                    return <li key={link.url}>
                         <Link href={link.url} className={styles.link}>
                             {link.title}
                         </Link>

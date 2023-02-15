@@ -1,16 +1,17 @@
-import styles from './more-stories.module.css'
+import styles from './post-list\.module.css'
 import PostPreview from '../post-preview'
 import type Post from '../../interfaces/post'
 
 type Props = {
+  title: string
   posts: Post[]
 }
 
-const MoreStories = ({ posts }: Props) => {
+const PostList = ({ title, posts }: Props) => {
   return (
     <section>
       <h2 className={styles.heading}>
-        More Stories
+        {title}
       </h2>
       <div className={styles.posts}>
         {posts.map((post) => (
@@ -28,4 +29,4 @@ const MoreStories = ({ posts }: Props) => {
   )
 }
 
-export default MoreStories
+export default PostList

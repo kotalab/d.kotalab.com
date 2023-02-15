@@ -3,7 +3,7 @@ import ErrorPage from 'next/error'
 import Container from '../components/container'
 import Header from '../components/header'
 import Layout from '../components/layout'
-import { getPostBySlug, getAllPosts } from '../lib/api'
+import { getPostBySlug, getPosts } from '../lib/api'
 import PostTitle from '../components/post-title'
 import * as PostPage from '../components/post'
 import markdownToHtml from '../lib/markdownToHtml'
@@ -61,7 +61,7 @@ export async function getStaticProps({ params }: Params) {
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(['slug'])
+  const posts = getPosts(['slug'])
 
   return {
     paths: posts.map((post) => {

@@ -14,7 +14,7 @@ const PostHeader = ({ title, coverImage, date }: Props) => {
     <>
       <PostTitle>{title}</PostTitle>
       <div className={styles.coverImage}>
-        <CoverImage title={title} src={coverImage} />
+        <CoverImage title={title} src={coverImage} priority={true} />
       </div>
       <div className={styles.description}>
         <div className={styles.date}>

@@ -1,6 +1,5 @@
 import Container from '../components/container'
 import PostList from '../components/post-list'
-import HeroPost from '../components/hero-post/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getPosts } from '../lib/api'
@@ -12,9 +11,7 @@ type Props = {
   allPosts: Post[]
 }
 
-export default function Index({ allPosts }: Props) {
-  const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+export default function Posts({ allPosts }: Props) {
   return (
     <>
       <Layout>
@@ -23,16 +20,7 @@ export default function Index({ allPosts }: Props) {
         </Head>
         <Container>
           <Intro />
-          {heroPost && (
-            <HeroPost
-              title={heroPost.title}
-              coverImage={heroPost.coverImage}
-              date={heroPost.date}
-              slug={heroPost.slug}
-              excerpt={heroPost.excerpt}
-            />
-          )}
-          {morePosts.length > 0 && <PostList title='More stories' posts={morePosts} />}
+          {allPosts.length > 0 && <PostList title='記事一覧' posts={allPosts} />}
         </Container>
       </Layout>
     </>
@@ -47,7 +35,7 @@ export const getStaticProps = async () => {
     'author',
     'coverImage',
     'excerpt',
-  ], 11)
+  ])
 
   return {
     props: { allPosts },
