@@ -39,7 +39,6 @@ const HeroPost = ({
           </div>
         </div>
         <div>
-          {/* <p className="text-lg leading-relaxed mb-4">{excerpt}</p> */}
           <p className={styles.paragraph}>{excerpt}</p>
         </div>
       </div>
