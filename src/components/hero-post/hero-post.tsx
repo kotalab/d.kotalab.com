@@ -21,7 +21,7 @@ const HeroPost = ({
   return (
     <section>
       <div className={styles.coverImage}>
-        <CoverImage title={title} src={coverImage} slug={slug} />
+        <CoverImage title={title} src={coverImage} slug={slug} priority={true} />
       </div>
       <div className={styles.wrapper}>
         <div>
