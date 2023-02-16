@@ -12,8 +12,8 @@ const Layout = ({ children }: Props) => {
       <Meta />
       <div className={styles.wrapper}>
         <main>{children}</main>
+        <Footer />
       </div>
-      <Footer />
     </>
   )
 }
