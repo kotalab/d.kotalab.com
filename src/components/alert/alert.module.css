@@ -1,0 +1,14 @@
+.wrapper {
+    /* TODO: fix background, border color */
+    border-top: 1px solid var(--tint-primary);
+    background: rgb(150, 201, 201);
+}
+
+.message {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    /* TODO: define font size from @kotala/css */
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+}

@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: var(--spacing-default);
+    height: 40vh;
+}
+
+.wrapper a {
+    color: var(--label-primary);
+}

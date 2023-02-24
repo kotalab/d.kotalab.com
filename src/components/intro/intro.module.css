@@ -1,0 +1,45 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.wrapper h1 {
+  font-size: 2.75rem;
+  text-align: center;
+  letter-spacing: -.04em;
+  line-height: 1.2;
+}
+
+.wrapper h1 a {
+  color: var(--label-primary)
+}
+
+.wrapper h4 {
+  text-align: center;
+  margin-top: 1.25rem;
+  font-size: 1.125rem;
+  font-weight: normal;
+  line-height: 1.75rem;
+}
+
+@media (min-width: 768px) {
+  .wrapper {
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+  }
+
+  .wrapper h1 {
+    text-align: left;
+    font-size: 4rem;
+    padding-right: 2rem;
+  }
+
+  .wrapper h4 {
+    text-align: left;
+    padding-left: 2rem;
+  }
+}
