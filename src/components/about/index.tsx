@@ -1,15 +1,10 @@
-import styles from './about.module.css'
-import AboutType from '../../interfaces/about'
-import PostBody from '../post/post-body'
+import PostBody from "@components/post/post-body";
+import AboutType from "@interfaces/about";
 
 type Props = {
-    about: AboutType
-}
+  about: AboutType;
+};
 
-const About = ({ about }: Props) => {
-    return (
-        <PostBody content={about.content} />
-    )
-}
+const About = ({ about }: Props) => <PostBody content={about.content} />;
 
-export default About
+export default About;

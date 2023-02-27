@@ -1,4 +1,5 @@
 import Link from 'next/link';
+
 import styles from './navi.module.css'
 
 interface Link {
@@ -10,20 +11,16 @@ const data: Link[] = [
     { title: "このサイトについて", url: "/about"},
     { title: "記事一覧", url: "/posts"},
 ]
-const Navi = () => {
-    return (
+const Navi = () => (
         <nav className={styles.container}>
             <ul>
-                { data.map((link)=> {
-                    return <li key={link.url}>
+                { data.map((link)=> <li key={link.url}>
                         <Link href={link.url} className={styles.link}>
                             {link.title}
                         </Link>
-                    </li>
-                })}
+                    </li>)}
             </ul>
         </nav>
     )
-}
 
 export default Navi

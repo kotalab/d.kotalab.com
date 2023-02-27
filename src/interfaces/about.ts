@@ -1,6 +1,6 @@
 type AboutType = {
-    date: string
-    content: string
-}
+  date: string;
+  content: string;
+};
 
-export default AboutType
+export default AboutType;

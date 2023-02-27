@@ -1,32 +1,30 @@
-import styles from './post-list\.module.css'
-import PostPreview from '../post-preview'
-import type Post from '../../interfaces/post'
+import PostPreview from "@components/post-preview";
+
+import type Post from "@interfaces/post";
+
+import styles from "./post-list.module.css";
 
 type Props = {
-  title: string
-  posts: Post[]
-}
+  title: string;
+  posts: Post[];
+};
 
-const PostList = ({ title, posts }: Props) => {
-  return (
-    <section>
-      <h2 className={styles.heading}>
-        {title}
-      </h2>
-      <div className={styles.posts}>
-        {posts.map((post) => (
-          <PostPreview
-            key={post.slug}
-            title={post.title}
-            coverImage={post.coverImage}
-            date={post.date}
-            slug={post.slug}
-            excerpt={post.excerpt}
-          />
-        ))}
-      </div>
-    </section>
-  )
-}
+const PostList = ({ title, posts }: Props) => (
+  <section>
+    <h2 className={styles.heading}>{title}</h2>
+    <div className={styles.posts}>
+      {posts.map((post) => (
+        <PostPreview
+          key={post.slug}
+          title={post.title}
+          coverImage={post.coverImage}
+          date={post.date}
+          slug={post.slug}
+          excerpt={post.excerpt}
+        />
+      ))}
+    </div>
+  </section>
+);
 
-export default PostList
+export default PostList;

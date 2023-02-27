@@ -1,16 +1,17 @@
-import styles from './cover-image.module.css'
-import Link from 'next/link'
-import Image from 'next/image'
+import Image from "next/image";
+import Link from "next/link";
+
+import styles from "./cover-image.module.css";
 
 type Props = {
-  title: string
-  src: string
-  slug?: string
-  priority?: boolean
-}
+  title: string;
+  src: string;
+  slug: string;
+  priority: boolean;
+};
 
-const CoverImage = ({ title, src, slug, priority }: Props) => {
-  const fallbackSrc = src === undefined ? '/assets/no_image.png' : src
+const CoverImage = ({ title, src, slug = "", priority = false }: Props) => {
+  const fallbackSrc = src === undefined ? "/assets/no_image.png" : src;
   const image = (
     <Image
       src={fallbackSrc}
@@ -20,7 +21,7 @@ const CoverImage = ({ title, src, slug, priority }: Props) => {
       height={675}
       priority={priority}
     />
-  )
+  );
 
   return (
     <div className={styles.wrapper}>
@@ -32,7 +33,7 @@ const CoverImage = ({ title, src, slug, priority }: Props) => {
         image
       )}
     </div>
-  )
-}
+  );
+};
 
-export default CoverImage
+export default CoverImage;
