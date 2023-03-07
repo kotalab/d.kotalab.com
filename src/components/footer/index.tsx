@@ -1,15 +1,14 @@
-import styles from './footer.module.css'
-import Container from '../container'
-import Navi from '../navi'
+import Container from "@components/container";
+import Navi from "@components/navi";
 
-const Footer = () => {
-  return (
-    <footer className={styles.footer}>
-      <Container>
-        <Navi></Navi>
-      </Container>
-    </footer>
-  )
-}
+import styles from "./footer.module.css";
 
-export default Footer
+const Footer = () => (
+  <footer className={styles.footer}>
+    <Container>
+      <Navi />
+    </Container>
+  </footer>
+);
+
+export default Footer;

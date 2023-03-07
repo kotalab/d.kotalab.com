@@ -1,15 +1,13 @@
-import styles from './header.module.css'
-import Link from 'next/link'
-import { BLOG_TITLE } from '../../lib/constants'
+import Link from "next/link";
 
-const Header = () => {
-  return (
-    <h2 className={styles.header}>
-      <Link href="/">
-        {BLOG_TITLE}
-      </Link>
-    </h2>
-  )
-}
+import { BLOG_TITLE } from "@lib/constants";
 
-export default Header
+import styles from "./header.module.css";
+
+const Header = () => (
+  <h2 className={styles.header}>
+    <Link href="/">{BLOG_TITLE}</Link>
+  </h2>
+);
+
+export default Header;

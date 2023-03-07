@@ -1,21 +1,20 @@
-import Footer from '../footer'
-import Meta from '../Meta'
-import styles from './layout.module.css'
+import Footer from "@components/footer";
+import Meta from "@components/Meta";
+
+import styles from "./layout.module.css";
 
 type Props = {
-  children: React.ReactNode
-}
+  children: React.ReactNode;
+};
 
-const Layout = ({ children }: Props) => {
-  return (
-    <>
-      <Meta />
-      <div className={styles.wrapper}>
-        <main>{children}</main>
-        <Footer />
-      </div>
-    </>
-  )
-}
+const Layout = ({ children }: Props) => (
+  <>
+    <Meta />
+    <div className={styles.wrapper}>
+      <main>{children}</main>
+      <Footer />
+    </div>
+  </>
+);
 
-export default Layout
+export default Layout;

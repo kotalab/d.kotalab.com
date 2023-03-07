@@ -1,8 +1,8 @@
-import { unified } from 'unified'
 import rehypeHighlight from 'rehype-highlight'
-import remarkParse from 'remark-parse'
 import rehypeStringify from 'rehype-stringify'
+import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
+import { unified } from 'unified'
 
 export default async function markdownToHtml(content: string) {
   const result = await unified()
