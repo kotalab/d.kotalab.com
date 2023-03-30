@@ -9,7 +9,14 @@
     },
     {
       "groupName": "ESLint",
-      "extends": "packages:eslint"
+      "extends": ["packages:eslint"]
+    },
+    {
+      "matchPackagePatterns": ["^@types/"],
+      "automerge": true,
+      "major": {
+        "automerge": false
+      }
     }
   ]
 }
