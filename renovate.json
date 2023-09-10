@@ -12,6 +12,19 @@
       "extends": ["packages:eslint"]
     },
     {
+      "groupName": "remark",
+      "matchSourceUrls": [
+        "https://github.com/remarkjs/remark",
+        "https://github.com/rehypejs/rehype"
+      ],
+      "matchPackageNames": [
+        "unified",
+        "remark-html",
+        "remark-rehype",
+        "rehype-highlight"
+      ]
+    },
+    {
       "matchPackagePatterns": ["^@types/"],
       "automerge": true,
       "major": {
