@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@kotala/css": "^0.0.2",
-    "date-fns": "^3.0.0",
+    "date-fns": "^4.0.0",
     "gray-matter": "^4.0.3",
     "highlight.js": "^11.7.0",
     "next": "latest",
